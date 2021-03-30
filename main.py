@@ -22,7 +22,7 @@ cursor.execute(sql)
 result = cursor.fetchall()
 conn.close()
 
-# csv，用于导入 List 背单词
+# csv，用于导入 List 背单词，我一般配合单词书背，所以不需要中文解释
 with codecs.open("./dist/"+name+"-无中文.csv", "w", "utf_8_sig") as csvfile:
     writer = csv.writer(csvfile)
     for i, val in enumerate(result):
