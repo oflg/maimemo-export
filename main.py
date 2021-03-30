@@ -13,7 +13,6 @@ import csv
 import os
 import sqlite3
 import sys
-from sqlite3.dbapi2 import ProgrammingError
 
 
 class Generate(object):
