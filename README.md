@@ -1,16 +1,28 @@
 # maimemo-export
-用于导出墨墨背单词的词库，并生成可导入 List 背单词的自定义词库。
-## 快速使用
-> 由于 maimemo.db 数据库文件太大，无法放入仓库中，你可以在 release 中下载后放入文件夹中。
-
-gengerate.py 脚本支持多个参数，生成可导入欧陆词典的 txt 文件。
+用于导出墨墨背单词的词库，并生成适用于 List 背单词，欧陆词典，不背单词等的自定义词库。
+仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库。
+- csv 格式用于导入 List 背单词，自带中文解释
+- txt 格式用于导入欧陆词典或不被单词，无中文解释
+## Usage
+> 由于 maimemo.db 数据库文件太大，无法放入仓库中，你可以在 release 中下载后放入文件夹中
 ```shell
-python generate.py 词库名称1 词库名称2 ...
-```
-html2csv.py 脚本也支持多个参数，将欧陆词典导出的 html 文件转换为可导入 List 背单词的 csv 文件，最好统一放入 dict 文件夹中。
-```shell
-python html2csv.py 欧陆词典导出的文件1 欧陆词典导出的文件2 ...
-```
-生成的所有文件都在 dict 文件夹中，所有纯单词的 txt 文件都已经导出
+> python main.py -h
+usage: main.py [-h] [-t {csv,txt,both}] [-a | -l [LIST [LIST ...]]]
 
-欧陆词典导出的方法可以查看 [该文章](还没写)，希望大家一起协作，为 List 背单词增加词库，欢迎 Pull requests，毕竟我一个人的时间有限。
+用于生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -t {csv,txt,both}, --type {csv,txt,both}
+                        导出的文件类型
+  -a, --all             导出墨墨背单词所有词库
+  -l [LIST [LIST ...]], --list [LIST [LIST ...]]
+                        词库名，可多个，与其他选项配合使用时，该选项必须放在最后
+```
+## Thanks
+1. 导出方法来自于[怎么把墨墨背单词里的词库导出来？ - 你说什么的回答 - 知乎](https://www.zhihu.com/question/392654371/answer/1345899232)
+2. 词典来自于[1eez/103976](https://github.com/1eez/103976)
+3. 词库来自于[墨墨背单词](https://www.maimemo.com/)
+
+## License
+MIT © ourongxing
