@@ -63,23 +63,23 @@ class Generate(object):
             print(str(num + 1) + " 生成成功：" + book)
 
         if type == "csv":
-            with codecs.open("./dicts/csv/" + book + ".csv", "w",
+            with codecs.open("./dict/csv/" + book + ".csv", "w",
                              "utf_8_sig") as csvfile:
                 writer = csv.writer(csvfile)
                 for word in result:
                     writer.writerows([[word[0], self.dict.get(word[0])]])
         elif type == "txt":
-            with codecs.open("./dicts/txt/" + book + ".txt", "w",
+            with codecs.open("./dict/txt/" + book + ".txt", "w",
                              "utf_8_sig") as txtfile:
                 for word in result:
                     txtfile.write(word[0] + "\n")
         else:
-            with codecs.open("./dicts/csv/" + book + ".csv", "w",
+            with codecs.open("./dict/csv/" + book + ".csv", "w",
                              "utf_8_sig") as csvfile:
                 writer = csv.writer(csvfile)
                 for word in result:
                     writer.writerows([[word[0], self.dict.get(word[0])]])
-            with codecs.open("./dicts/txt/" + book + ".txt", "w",
+            with codecs.open("./dict/txt/" + book + ".txt", "w",
                              "utf_8_sig") as txtfile:
                 for word in result:
                     txtfile.write(word[0] + "\n")
@@ -109,10 +109,8 @@ if __name__ == "__main__":
 
     g = Generate()
     if args.all:
-        print(args.all)
         g.exportAll(args.type)
     elif args.list == None:
         print("必须输入一个词库名称，使用 -l 词库名")
     else:
-        print(args.list)
         g.export(args.list, args.type)

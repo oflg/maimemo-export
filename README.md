@@ -20,13 +20,13 @@ optional arguments:
                         词库名，可多个，与其他选项配合使用时，该选项必须放在最后
 ```
 ## Thanks
-1. 导出方法来自于 [怎么把墨墨背单词里的词库导出来？ - 你说什么的回答 - 知乎](https://www.zhihu.com/question/392654371/answer/1345899232)
+1. 导出方法来自于 [怎么把墨墨背单词里的词库导出来？ - 你说什么的回答](https://www.zhihu.com/question/392654371/answer/1345899232)
 2. 词典来自于 [1eez/103976](https://github.com/1eez/103976)
 3. 词库来自于 [墨墨背单词](https://www.maimemo.com/)
 
 ## Buy something to eat for the kitten
-如果我所做的事对你有所帮助，欢迎给小猫买点吃的
-
+如果我所做的事对你有所帮助，欢迎给小猫买点吃的。
+也可以去 [这篇回答](https://www.zhihu.com/question/392654371/answer/1808941219) 下点点赞
 ![](https://orxing-top.oss-cn-chengdu.aliyuncs.com/img/download%20%281%29.gif?x-oss-process=style/base_webp)
 ## License
 MIT © ourongxing
