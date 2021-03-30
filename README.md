@@ -26,6 +26,6 @@ optional arguments:
 
 ## Buy something to eat for the kitten
 如果我所做的事对你有所帮助，欢迎给小猫买点吃的
-[](https://orxing-top.oss-cn-chengdu.aliyuncs.com/img/download%20%281%29.gif?x-oss-process=style/base_webp)
+![](https://orxing-top.oss-cn-chengdu.aliyuncs.com/img/download%20%281%29.gif?x-oss-process=style/base_webp)
 ## License
 MIT © ourongxing
