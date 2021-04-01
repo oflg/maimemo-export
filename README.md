@@ -1,10 +1,10 @@
 # maimemo-export
 用于导出墨墨背单词的词库，并生成适用于 List 背单词，欧陆词典，不背单词等的自定义词库。
-仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以去 release 下载所有词库的压缩包，也可以去 [蓝奏云](https://busiyi.lanzous.com/ipGmInjmqte) 下载。
+仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以去 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 下载所有词库的压缩包，也可以去 [蓝奏云](https://busiyi.lanzous.com/ipGmInjmqte) 下载。
 - csv 格式用于导入 List 背单词，自带中文解释
 - txt 格式用于导入欧陆词典或不被单词，无中文解释
 ## Usage
-> 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 release 中下载并放入文件夹内，这是非常重要的两个数据库文件。
+> 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
 ```shell
 > python main.py -h
 usage: main.py [-h] [-t {csv,txt,both}] [-a | -l [LIST [LIST ...]]]
