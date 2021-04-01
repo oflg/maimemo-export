@@ -1,84 +1,209 @@
-﻿new,"adj.新的,初见的,更新的adv.新近"
-cap,"n.帽子,军帽,(瓶)帽,(笔)帽;vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
-behind,adv.在后地 prep.在...之后
-beside," prep.在旁边,和...比较"
-between," prep.在...之间,连接...,由...协力合作"
-watch,"n.注视,注意,手表,看守,守护,监视,值班人vt.看,注视,照顾,监视,警戒,守护,看守vi.观看,注视,守侯adj.手表的,挂表的"
-glasses,n.眼镜
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-summer,"n.夏季vi.避暑,过夏天adj.夏季的,在夏季的"
-autumn,"n.秋天,成熟期,渐衰期"
-winter,"n.冬,冬季,萧条期,衰退期adj.冬天的vt.对...进行冬天保护vi.过冬"
-river,"n.河,江"
-lake,
-boat,"n.小船,艇v.划船"
-cloud,"n.云,烟云,(pl.)天空,污点vt.以云遮敝,玷污,使黯然vi.乌云密布,阴沉"
-sky,"n.天,天空"
-mountain,"n.山,山脉"
-sun,"n.太阳,阳光,恒星vt.晒n.(Sun) 星期天(=Sunday) 美国Sun公司,主要生产SUN系列工作站和网络产品,是JAVA语言的创始者"
-moon,"n.月球,月亮,卫星"
-star,"n.星,恒星,明星,名角"
-write,"vt.书写,著述,写,写满,写信给vi.写,写字,写信,写作,作曲"
-busy,"adj.忙碌的,热闹的,临时占用的"
-read,"v.读,阅读,理解,学习adj.有学问的n.读取 vbl.read的过去式和过去分词"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-paint,"n.油漆,颜料,涂料v.油漆,(用颜料等)画,绘,描绘,逼真地描述"
-dance,"n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
-sing,"v.唱,演唱"
-cook,"n.厨师v.烹调,煮,伪造"
-sleep,"vi.睡,睡觉n.睡眠"
-play,"n.游戏,比赛,运动,赌博,剧本v.玩,扮演,播放,进行比赛v.播放"
-eat,"v.吃,腐蚀"
-drink,"n.饮料,酒,酗酒,一口(或一些)饮料v.喝,喝酒,(植物、土壤等的)吸水,举杯庆贺"
-watch,"n.注视,注意,手表,看守,守护,监视,值班人vt.看,注视,照顾,监视,警戒,守护,看守vi.观看,注视,守侯adj.手表的,挂表的"
-skip,"v.跳,蹦,急速改变,跳读,遗漏,跳跃n.跳跃"
-basketball,"n.篮球,篮球运动"
-football,"n.足球,橄榄球"
-table tennis,
-today,"adv.今天,现今n.今天,现今"
-Saturday,
-Tuesday,
-music,"n.音乐,乐曲"
-class,"n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
-Wednesday,
-Friday,
-tomorrow,"adv.明天见n.明天,未来"
-Sunday,
-Monday,
-Thursday,
-come from,
-from," prep.从,今后,来自,由于"
-China,
-the USA,
-Australia,
-Canada,
-France,
-the UK,
-country,"n.国家,国土,[总称]国民,乡村,故乡adj.乡下的,乡村的,[方]祖国的,故乡的"
-how much,
-help,"n.帮忙,补救办法,助手,治疗,<美>佣工vt.帮助,助长,接济,治疗,款待vi.有用,救命,招待 [计] 显示命令格式的简短概述"
-want,"vt.想要,希望,需要,短缺,缺少n.需要,短缺"
-yuan,n.元(中国货币单位)
-knife,"n.刀,餐刀"
-crayon,"n.有色粉笔,蜡笔,粉笔画"
-brush,"n.刷子,毛刷,画笔vt.刷,掸,拂"
-ball,"n.球,球状物,子弹,舞会,尽情地玩"
-toy car,
-feet,"n.脚(pl.),(foot的复数),英尺,韵脚"
-with," prep.有,以,用,同...,由于,和...一致,赞成,关于,就"
-finger,"n.手指(尤指大拇指以外的手指),指状物,指针,查找器(查找因特网用户的程序)v.用手指拨弄,伸出"
-knee,"n.膝,膝盖"
-ticket,"n.票,入场券"
-hurry,"v.(使)赶紧,(使)匆忙,加速n.匆忙,仓促"
-late,"adj.迟的,晚(期)的,已故的,新近的adv.晚,迟,最近,在晚期"
-his, pron.他的
-shirt pocket,
-any,"adj.任何的,任何一种,所有的 pron.无论那一个,任何"
-money,"n.货币,钱,金钱"
-so," conj.因而,所以,那么,这样看来adv.[表示程度] 如此,那么,非常,很,[表示方式] 这样,那样,如此,因此 [域] Somalia ,索马里"
-buy,"v.买n.购买,买卖"
-some,"adj.一些,少许,若干,有些,大约,相当的 pron.一些,若干,有些,某些"
-tea,"n.茶,茶树,茶叶,茶点vt.给...沏茶vi.喝茶,进茶点"
-coffee,"n.咖啡,咖啡树,咖啡茶,咖啡豆,咖啡色"
-juice,"n.(水果)汁,液"
-water,"n.水,雨水,海水,水位,水面,流体vt.喷淋,供以水,注入水,使湿vi.流泪,加水adj.水的,水上的,水生的,含水的"
+﻿new,"adj. 刚出现的；新的；新近推出的；新买的
+n. 新东西；新事物
+abbr. 〈美(=net economic welfare)纯经济福利
+adv. 同“newly”
+[网络] 新建(New.)；新品；全新"
+cap,[计] 压缩音乐文件格式
+behind,"prep. 落后于；支持；晚于
+adv. 在后地；在原处
+n. 屁股"
+beside,prep. 在旁边
+between,"prep. 在…之间
+adv. 在中间"
+watch,comb.form [通常作复合词的第二部分]表示“研究”，“监视”，“观察”，“观望”；“观赏”
+glasses,n. 眼镜；双筒望远镜；玻璃（glass的复数形式）
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+summer,[网络] 夏季
+autumn,"n. 秋天；成熟期；渐衰期，凋落期
+adj. 秋天的，秋季的
+n. (Autumn)人名；(英)奥特姆"
+winter,"n. 冬季；年岁；萧条期
+vi. 过冬
+adj. 冬天的；越冬的
+n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+river,"n. 河, 江
+[法] 河流, 江河, 内河"
+lake,"n. 湖, 池, 色淀
+v. (使)血球溶解"
+boat,"n. 船
+vi. 乘船
+vt. 以船运"
+cloud,"n. 云, 阴暗, 烟雾, 疑团
+vt. 以云遮敝, 笼罩, 使黯然
+vi. 乌云密布, 阴沉"
+sky,"n. 天空；顶点
+vt. 把…投向空中；把…挂得过高
+vi. 踢或击高空球；把桨叶翘得过高；飞涨
+n. (Sky)人名；(英)斯凯"
+mountain,"n. 山, 山脉, 大堆"
+sun,"n. 太阳, 日, 日光, 阳光
+vt. 晒
+vi. 晒太阳"
+moon,"n. 月亮, 月球, 月光
+vi. 闲荡
+vt. 虚度"
+star,"n. 星, 恒星, 星形物, 运气, 明星
+vt. 以星状物装饰, 用星号标, 使成为明星
+vi. 变成明星"
+write,"vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+busy,"a. 忙碌的, 热闹的, 没空的
+vt. 使忙
+vi. 忙碌
+[计] 忙; 忙碌"
+read,"v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+draw,[计] Acorn的基于对象的矢量图像文件
+paint,"n. 油漆, 颜料, 绘画作品, 涂漆
+vt. 油漆, 绘, 画, 描绘, 装饰, 点缀
+vi. 绘画, 涂漆"
+dance,"n. 跳舞, 舞蹈, 舞会
+v. 跳舞"
+sing,"vi. 唱歌；歌颂；鸣叫；呼号
+vt. 唱；用诗赞颂；唱着使
+n. 演唱；鸣声；呼啸声
+n. (Sing)人名；(老、德、泰)辛"
+cook,"n. 厨子, 厨师
+vt. 烹调, 煮饭, 加热
+vi. 在煮着"
+sleep,"n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠
+vi. 睡觉, 睡眠, 静止
+vt. 睡"
+play,[网络] 戏耍
+eat,"v. 吃；吃饭；用餐
+[网络] 食；喝；进食"
+drink,"n. 饮料, 酒
+v. 喝, 喝酒"
+watch,comb.form [通常作复合词的第二部分]表示“研究”，“监视”，“观察”，“观望”；“观赏”
+skip,"n. 跳跃, 跳读
+vi. 跳越, 跳读, 跳绳, 遗漏, 跳级
+vt. 跳过, 遗漏
+[计] 跳过"
+basketball,n. 篮球运动
+football,[网络] 足球；橄榄球；美式橄榄球
+table tennis,乒乓球
+today,"adv. 在今天, 在今日, 现在, 当代, 现今
+n. 今天, 今日"
+Saturday,n. 星期六
+Tuesday,n. 星期二
+music,"n. 音乐, 乐曲"
+class,[计] Java类文件
+Wednesday,n. 星期三
+Friday,n. 星期五
+tomorrow,"adv. 在明天, 在明日
+n. 明天, 明日, 来日, 未来, 将来"
+Sunday,太阳日(太阳能动力鼓吹者选定的每年5月的一天，宣传大力研究和利用太阳能)
+Monday,n. 星期一
+Thursday,n. 星期四
+come from,"来自, 出生于"
+from,"prep. 从, 来自, 根据"
+China,"n. 中国, 瓷器
+a. 中国的"
+the USA,[网络] 美国；悠游美国
+Australia,"n. 澳洲, 澳大利亚"
+Canada,n. 加拿大
+France,n. 法国
+the UK,n. 英国
+country,"n. 国家, 乡村, 地区, 故乡
+a. 乡下的, 农村的
+[计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式"
+how much,"多少, 什么价钱, 到什么程度"
+help,"n. 帮忙, 帮助者, 补救办法, 有益的东西
+vt. 帮助, 帮忙, 接济, 治疗, 款待
+vi. 有用, 救命, 招待
+[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+want,[网络] 没有区别欲望
+yuan,"n. 元(中国货币单位)
+[经] 元"
+knife,"n. 小刀, 匕首
+vt. 切割, 伤害, 切, 戳
+vi. 劈开, 穿过"
+crayon,"n. 蜡笔, 蜡笔画
+vt. 以蜡笔作画"
+brush,"n. 刷子, 毛笔, 争吵
+vt. 刷
+vi. 擦过, 掠过
+[计] 电刷"
+ball,"comb.form [主美国俚语]表示；“令人讨厌或古怪的人”：goofball；“自作聪明的人”,“傻瓜”：butterball"
+toy car,n. 玩具车
+feet,"pl. 脚
+n. 尺"
+with,"prep. 和...在一起, 以, 由于"
+finger,"abbr. fucking (slang=copulating) （俚语）性交, 交配, 交尾
+(f-ing 的比较级)"
+knee,"n. 膝, 膝盖
+vt. 膝行, 用膝盖碰"
+ticket,"n. 票, 券, 车票, 标签, 入场券, 证明书
+vt. 加标签于, 为...购票"
+hurry,"n. 匆忙, 急忙, 急促
+vt. 急派, 催促
+vi. 匆忙, 赶快"
+late,"a. 迟的, 晚的, 已故的
+adv. 很晚, 很迟, 晚"
+his,"pron. 他的
+[化] 组氨酸"
+shirt pocket,衬衣口袋
+any,"a. 任何的
+pron. 任何"
+money,[网络] 抠抠
+so,comb.form =-soever
+buy,"vt. 买, 获得
+vi. 买
+n. 购买, 买得的东西"
+some," [医]〔后缀〕意为体, 躯体"
+tea,"n. 茶叶；茶树；茶点
+vt. 给…沏茶
+vi. 喝茶；进茶点
+n. (Tea)人名；(柬)迪"
+coffee,"n. 咖啡, 咖啡色
+[医] 咖啡, 咖啡豆"
+juice,"juice
+[dʒu:s]
+n.
+(植物、水果、蔬菜等的)汁，液，浆；[俚语]奶
+[复数]体液
+精，精髓；精力；活力，劲儿
+[俚语]电，电流
+[俚语]汽油，液体燃料
+[美国俚语]酒(尤指威士忌)；含酒精的液体
+[俚语]高利贷；(高利贷的)高利率
+[俚语]暴利，不义之财；收入
+[俚语]权力，权势，地位；社会影响
+[美国俚语]舞台灯光照明师
+推动力；鼓舞因素；冲动
+[俚语]毒品，迷幻药
+[俚语]电；电流
+vt.
+从…榨汁(或液)；[美国方言]挤(母牛)的奶：
+Mother is juicing some grapes.
+母亲正在榨葡萄汁。
+to juice a cow
+挤牛奶
+给…加汁(或液)：
+to juice the pineapple-pies
+给菠萝派浇汁
+给…供电：
+to juice an electric circuit
+给电路通电
+给…加油：
+You'd better juice your car before you set out.
+你最好在出发前给车加点油。
+[俚语]使触电死亡，用电刑处死
+短语:
+step on the juice
+踩油门加速；加快速度
+stew in one's own juice
+自作自受
+the juice of the grape
+见 grape
+变形：
+vt.
+juiced
+. juicing"
+water,[网络] 水

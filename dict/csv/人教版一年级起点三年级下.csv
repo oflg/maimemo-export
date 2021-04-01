@@ -1,84 +1,216 @@
-﻿Chinese,
-English,
-science,"n.科学,自然科学,理科"
-PE,
-music,"n.音乐,乐曲"
-maths,n.数学
-art,"n.艺术,艺术品,技术,巧妙,美术"
-computer class,
-we, pron.我们
-that,"adj.那,那个 pron.那,那个 conj.引导从句"
-classroom,n.教室
-library,"n.图书馆,藏书室,库"
-toilet,"n.盥洗室,梳洗"
-playground,"n.运动场,操场"
-first,"adv.首先,最初,第一(列举条目等用),优先adj.第一的 num.第一(个)n.开始,第一,(比赛)冠军"
-second,"n.秒,片刻,第二者,第二人,助手,次货,二等品adj.另一个,又一个 num.第二vt.赞成,支持"
-third," num.第三,三分之一"
-floor,"n.(房间,走廊等的)地面,地板,基底,(室内的)场地,层,海底,议员席vt.在...上铺(地板),击倒,(被困难)难倒"
-room,"n.房间,屋子,寓所,场所,地位,空间,机会,余地"
-our, pron.我们的
-they," pron.他们,它们"
-chair,"n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
-desk,"n.书桌,办公桌"
-blackboard,n.黑板
-after school,
-play sports,
-draw pictures,
-play chess,
-dance,"n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
-sing songs,
-read books,
-really,"adv.真正地,实在地,(表语气)真的吗?"
-tomorrow,"adv.明天见n.明天,未来"
-wake up,
-be back,
-play football,
-fly a kite,
-ride a bike,
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-make a model plane,
-make a snowman,
-family,"n.家庭,家族,家属,亲属,子女,僚属adj.家庭的,家族的"
-uncle,"n.伯父,叔父,姨丈,援助者"
-aunt,"n.姑妈,伯母,舅妈,阿姨"
-cousin,"n.堂兄弟姊妹,表兄弟姊妹"
-handsome,"adj.英俊的,大方的,慷慨的,美观的,堂皇的"
-beautiful,"adj.美丽的,很好的"
-lost,"adj.失去的,丧失的,错过的,迷惑的,不为人知的 vbl.lose的过去式和过去分词"
-water bottle,
-know,"v.知道,了解,认识,熟悉,认出,分辨,确信"
-ok,"adj.好,对,行adv.好,对,可以n.同意"
-much,"adj.许多的,大量的adv.非常,很,...多,更加,非常,得多,多达,多得多n.许多,大量 num.许多"
-welcome,n.欢迎vt.欢迎int.欢迎adj.受欢迎的
-grandfather,"n.祖父,始祖"
-grandmother,n.祖母
-father,"n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
-mother,"n.母亲,妈妈"
-brother,n.兄弟
-sister,"n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
-cooking dinner,
-walking the dog,
-watering the plants,
-cleaning the room,
-listening to music,
-watching TV,
-feeding the fish,
-play with,
-in one hour,
-everyone," pron.每个人,人人"
-children,"n.(pl.)孩子,孩子们"
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-home,"n.家,住宅,家乡,本国,产地,避难所adj.家庭的,国内的,有效的adv.在家,回家,深入地,在本国"
-bedroom,n.卧室
-living room,
-bathroom,"n.浴室,盥洗室"
-dining room,
-study,"n.学习,研究,学科,试作,论文,求学,努力,书房vt.学习,攻读,研究,考虑,计划vi.学习,试图"
-kitchen,"n.厨房,炊具,炊事人员"
-for rent,
-sofa,n.沙发
-light,"n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
-bed,"n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
-door,"n.门,通道,家,户"
-box,"n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
+﻿Chinese,"n. 中文, 中国话, 中国人
+a. 中国的, 中国话的"
+English,[网络] 英语
+science,"n. 科学, 学科, 学问, 自然科学
+[医] 科学"
+PE,"n. 体育（课）（全写为 physical education）
+[网络] 聚乙烯(Polyethylene)；私募股权投资(Private Equity)；市盈率"
+music,"n. 音乐, 乐曲"
+maths,n. 数学
+art,"n. 艺术；技术；技巧；表演艺术
+v. 对一人讲话时用
+[网络] 艺术(Artistic)；美术；辅助生殖技术(assisted reproductive technology)"
+computer class,电脑课
+we,"pron. 我们；咱们；人们
+[网络] 世界精英(World Elite)；是我们；我们的"
+that,"pron. 那；那个
+adv. 那么；那样
+conj. 因为；以至于
+adj. 那；那个
+n. (That)人名；(德)塔特"
+classroom,室
+library,"n. 图书馆, 藏书, 库
+[计] 库"
+toilet,"n. 厕所, 梳妆
+vi. 梳妆, 打扮, 上厕所
+vt. 给...梳妆打扮"
+playground,"体育场,运动场;游戏场"
+first,"adv. 第一；首先；优先；宁愿
+n. 第一；开始；冠军
+adj. 第一的；基本的；最早的
+num. 第一
+n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
+second,"n. 秒；第二名；瞬间；二等品
+vt. 支持
+adj. 第二的；次要的；附加的
+num. 第二
+adv. 第二；其次；居第二位
+n. (Second)人名；(法)塞孔"
+third,"num. 第三, 三分之一
+[机] 第三; 第三的"
+floor,"n. 地板, 楼层, 底部, 底价
+vt. 铺地板, 打倒
+n. 地面, 地板, 基底
+[计] 基底"
+room,"n. 房间, 空位, 场所
+vi. 住宿, 居住
+vt. 留宿"
+our,suf. 构成名词表示“状态”，“活动”：colour， labour
+they,[网络] 青春不羁；沂河水；白玉兰
+chair,[网络] 委员长
+desk,"desk
+[desk]
+n.
+书桌，办公桌，写字台，绘图桌
+【宗教】
+(教堂中的)读经台
+[美国英语]讲道台；讲坛，布道坛
+文书(或办事员等)的职位(或职业、工作)
+(旅馆服务员)工作台，(旅馆、办公楼等中的)服务台(用作旅客登记、邮件收发等)；(值勤人员的)工作台；问讯台，出纳台
+服务台等的工作人员
+[美国英语](报馆)编辑部
+【音乐】
+(管弦乐队的)乐谱架；(两位管弦乐师合用的)乐谱架
+(合用乐谱架的)两位管弦乐师
+(管弦乐队的)乐师席，演奏者席
+(政府部门、报社等内的)部，司，室，组
+【计算机】
+桌面
+控制台，操纵台；试验台
+面板，控制板
+adj.
+书桌的，办公桌的，写字台的
+台式的，书桌(或办公桌、写字台)上用的
+坐办公室的，在办公桌上做的，伏案做的，案头的"
+blackboard,[网络] 黑板；黑板效果；黑板上书写的文字
+after school,放学后
+play sports, 参加体育运动或比赛
+draw pictures, 画画，画图; 画图画
+play chess,下棋
+dance,"n. 跳舞, 舞蹈, 舞会
+v. 跳舞"
+sing songs,n. 歌咏
+read books,[网络] 读书；看书；阅读
+really,[网络] 再结盟
+tomorrow,"adv. 在明天, 在明日
+n. 明天, 明日, 来日, 未来, 将来"
+wake up,"na. 同“wake”；叫醒；醒来；振作起来
+[网络] 唤醒；起床；醒醒"
+be back, 回来，放回; 拖欠
+play football,踢足球;对难办的事采取踢足球的态度
+fly a kite,"放风筝, 试探舆论, 开空头支票
+[经] 用空头支票筹款"
+ride a bike, 骑自行车
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+make a model plane,无
+make a snowman, 堆雪人
+family,[网络] 家族；家庭
+uncle,[网络] -叔叔
+aunt,"n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
+cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
+[法] 同辈表亲或堂亲"
+handsome,[网络] 手一些；手多；竹兰在国际刑警英俊
+beautiful,"adj. 美丽的
+出色地
+出色的
+迷人的
+迷人地"
+lost,"a. 失去的, 遗失的, 迷惑的
+lose的过去式和过去分词"
+water bottle,水瓶
+know,"v. 知道, 了解, 认识, 确信"
+ok,[网络] 确定；好；击
+much,"n. 大量, 许多, 重要的事
+a. 很多的, 重要的
+adv. 多, 甚, 几乎"
+welcome,"n. 欢迎, 欢迎词
+a. 受欢迎的, 可随意的, 可喜的
+vt. 欢迎, 接待
+interj. 欢迎"
+grandfather, [医][外]祖父
+grandmother, [医][外]祖母
+father,[网络] 父亲
+mother,"n. 母亲；大娘；女修道院院长
+vt. 生下；养育；像母亲般关怀或照管
+adj. 母亲的；出生地的"
+brother,"brother
+['brʌðə]
+n.
+兄弟(常指人，有时也指动物)
+[亦称half brother](同父异母或同母异父的)兄弟
+继父与其前妻(或继母与其前夫)所生之子
+奶兄弟
+(有亲属关系的广义上的)兄弟
+(兄弟般的)密友，挚友，伙伴；同胞，国人
+[复数常作brethren]同行业(或教会、团体)的人，同业，同人，同事；教友，会友
+【基督教《圣经》】男亲戚
+【基督教】(某些教派的)牧师兄弟[后接专有人名或作称呼语]
+同种族的人
+【教会】
+(修道院里做杂役的)僧侣，托钵僧；(尚未晋升神父的)修士
+[B-](不担任圣职的)教会在俗人员，(教会中非神职)教士
+[总称]人；人类[尤用于值得同情、敬意之时]
+[美国黑人英语]黑人兄弟，黑人同胞(泛指黑人或与黑人利益密切相关的人)；(美国)黑人男子
+[俚语、称呼语]老兄，朋友，家伙[尤多用于不知对方姓名时]
+vt.
+兄弟般地对待；以兄弟相称，称…为兄弟，称兄道弟；把…接纳加入兄弟会
+adj.
+同行业的
+interj.
+[俚语][用以表示失望、厌恶、惊讶等强烈感情]我的老兄!天哪!
+短语:
+a brother of the angle
+垂钓者，钓友[见 angle¹]
+brother chip
+[英格兰北部用语]相貌、性格等极其相似
+同行，同业者，同行业的工人
+brother doctor
+加入医师公会的医生
+brother it
+做兄弟应做之事；尽兄弟之责
+brother of the brush
+画友；画家；油漆匠
+brother of the quill
+著述家
+brother of the spigot
+小酒店主人，酒保[戏谑语]
+brother in arms
+战友，袍泽(指正在或曾在部队服役的军人)
+uterine brother
+(同母异父的)隔山兄弟
+变形：
+n.
+brothers或 brethren"
+sister,[网络] 姐妹
+cooking dinner,[网络] 做饭；做晚餐；正在做饭
+walking the dog,无
+watering the plants,无
+cleaning the room,无
+listening to music,无
+watching TV, 看电视
+feeding the fish,"喂鱼
+晕船"
+play with,"和…一起玩耍,漫不经心地摆弄,玩弄"
+in one hour,无
+everyone,每一个人
+children,[网络] 字组拆分到两个音节中去
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+home,[网络] 网站首页；用户文件；回首页
+bedroom,[网络] 卧室；睡房；卧室系列
+living room,"客厅, 起居室"
+bathroom,"na. 洗澡间；盥洗室；〈书〉厕所
+[网络] 浴室；卫生间；浴室系列"
+dining room,饭厅
+study,"n. 学习, 研究, 学科, 论文, 求学, 书房, 试作
+vt. 学习, 读书, 研究, 考虑, 计划
+vi. 学习, 思索"
+kitchen,"n. 厨房, 全套炊具
+[医] 厨房"
+for rent,"供出租
+[经] 出租, 召租"
+sofa,n. 沙发
+light,"n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光
+a. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的
+vt. 点燃, 照亮
+vi. 点着, 变亮, 突降, 偶然碰到
+adv. 轻地"
+bed,[网络] 教育学士课程；教育学士学位课程
+door,n. 门
+box,"n. 箱；盒；方框；匣
+v. （拳击运动中）击打（某人）；把（某物）装箱（或盒、匣）
+[网络] 盒子；箱子；长方体"

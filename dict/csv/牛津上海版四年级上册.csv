@@ -1,121 +1,217 @@
-﻿eleven,n.十一
-twelve, num.十二
-thirteen, num.十三
-fourteen, num.十四
-fifteen,adj.十五
-sixteen, num.十六
-classmate,n.同班同学
-paint,"n.油漆,颜料,涂料v.油漆,(用颜料等)画,绘,描绘,逼真地描述"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-read,"v.读,阅读,理解,学习adj.有学问的n.读取 vbl.read的过去式和过去分词"
-write,"vt.书写,著述,写,写满,写信给vi.写,写字,写信,写作,作曲"
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-jump,"n.跳跃,上涨,惊跳vt.跳跃,跃过,突升,使跳跃vi.跳跃,暴涨"
-fast,"adj.紧的,牢的,忠实的,快速的,耐久的,紧的adv.牢固地,很快地,紧紧地,彻底地n.禁食,绝食,斋戒vi.绝食,斋戒"
-picture,"n.画,图画,照片,像,美景,描述,相似物,化身vt.画,描绘"
-very,"adv.很,甚,及其,非常,完全adj.真正的,真实的,恰好的,绝对的,十足的,特别的"
-well,"n.井vi.涌出adj.健康的,良好的,适当的adv.好,满意地,充分地,彻底地,有理地,适当地,夸奖地int.唔,咳"
-fly,"n.苍蝇,两翼昆虫,飞行vi.飞翔,飘扬,溃逃vt.飞越,使飘扬,逃脱adj.机敏的,敏捷的"
-high,"n.高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
-happy,"adj.快乐的,幸福的,陶醉于...的,恰当的"
-hungry,"adj.饥饿的,渴望的,荒年的,不毛的"
-thirsty,"adj.口渴的,渴望的,热望的"
-sad,"adj.忧愁的,悲哀的"
-full,"n.全部,完整adj.充满的,完全的,丰富的,完美的,详尽的,丰满的adv.完全地,整整,十分vt.把衣服缝得宽大"
-tired,"adj.疲劳的,累的,疲倦的"
-new,"adj.新的,初见的,更新的adv.新近"
-back,"adj.后面的,在后面,早过去的,前(欠)的钱adv.向后地n.背部,后面v.后退,支持"
-biscuit,"n.饼干,小点心"
-then,"adv.当时,在那时,那么,因而,然后,于是"
-uncle,"n.伯父,叔父,姨丈,援助者"
-aunt,"n.姑妈,伯母,舅妈,阿姨"
-cousin,"n.堂兄弟姊妹,表兄弟姊妹"
-police,"n.警察队,警察机关,公安部门vt.管辖,维持治安adj.警察的,有关警察的"
-officer,"n.政府官员,军官,警官,船长vt.指挥"
-doctor,"n.医生,博士,[古]学者,<俚>修理师vt.授以博士学位,诊断,修改,<美>治疗,搀混(食物、饮料),修改vi.行医"
-nurse,"n.护士,保姆vt.护理,看护v.照料"
-teacher,n.教师
-student,"n.(大小学校的)学生,研究者,学者"
-firefighter,
-cook,"n.厨师v.烹调,煮,伪造"
-bus driver,
-coat,"n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
-shirt,"n.衬衫,衬衣"
-blouse,"n.宽松的上衣,似衬衫的上衣"
-T-shirt,
-skirt,n.裙子v.环绕
-sweater,"n.厚运动衫,毛线衫"
-jeans,"n.斜纹布裤,牛仔裤"
-shorts,n.短裤
-pink,"n.粉红色,石竹花,化身,极致,精华adj.粉红的vt.刺,扎,刺痛,使变粉红色vi.变粉红色"
-friend,"n.朋友,赞助者,助手"
-canteen,"n.小卖部,食具箱,饭盒,(军用)水壶"
-computer lab,
-office,"n.办公室,办事处,事务所,<英>政府机关,部,公职,职责,帮助"
-gym," gymnasium 体育;n.体育馆,体操"
-behind,adv.在后地 prep.在...之后
-in front of,
-building,"n.建筑物,营造物(如房屋,大楼,工厂,船等)"
-lesson,"n.功课,(一节)课,[pl.] 课程,教训"
-lunch,n.午餐
-supermarket,n.超级市场
-post office,
-restaurant,"n.餐馆,饭店"
-next to,
-between," prep.在...之间,连接...,由...协力合作"
-street,"n.街,街道"
-shop,"n.商店,店铺vi.买东西,购货"
-near,"adj.亲近的,亲密的,近,(车,马等)左侧的,吝啬的adv.(时间,空间方面)近,不远 prep.在...近旁,近...v.接近,走近"
-city,"n.城市,都市,全体居民,城邦"
-many,"n.多数,群众adj.许多的 pron.许多人,许多"
-some,"adj.一些,少许,若干,有些,大约,相当的 pron.一些,若干,有些,某些"
-a packet of sweets,
-a loaf of bread,
-a bowl of noodles,
-a bar of chocolate,
-a packet of biscuits,
-a bottle of water,
-hay,
-grass,n.草
-corn,"n.<美>玉米,<英>谷物,五谷,[医]鸡眼vt.腌(肉等)"
-meat,"n.(食用)肉,肉类"
-Don't litter.,
-Don't walk on the grass.,
-Don't pick flowers.,
-Don't throw stones.,
-farm,"n.农场,农庄,农田vt.耕种vi.种田,务农,经营农场,从事畜牧"
-rubbish,"n.垃圾,废物,废话"
-visit,"n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
-bin,n.箱柜 [计] 二进制文件的扩展名
-sketchbook,"n.写生簿,小品集"
-cap,"n.帽子,军帽,(瓶)帽,(笔)帽;vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
-camera,n.照相机
-aviary,"n.(动物园的)大型鸟舍,鸟类饲养场"
-fountain,"n.泉水,喷泉,源泉"
-pond,n.池塘v.筑成池塘
-far away,
-road,"n.路,道路,公路,大道"
-take,"v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
-sunny,"adj.阳光充足的,照耀的,快乐的"
-rainy,"adj.下雨的,多雨的"
-cloudy,"adj.多云的,阴天的,阴沉"
-windy,"adj.有风的,刮风的,多风的,风强的,腹胀的,吹牛的"
-warm,"adj.暖和的,暖的,温暖的,色情的,激烈的,热烈的,多情的,兴奋的adv.(常用以构成复合词)暖和地vt.使温暖,弄热,使兴奋,使热烈vi.变暖和,变温暖,激动,同情,爱好n.暖,保暖物"
-hot,"adj.热的,热情的,辣的,激动的,紧迫的,节奏强的adv.热,热切的,紧迫地"
-wet,"adj.湿的,潮湿的,有雨的,多雨的vt.弄湿"
-dry,"adj.干的,干燥的,口渴的vt.(使)干燥,(使)变干v.干燥"
-January,
-February,
-March,
-April,
-May,
-June,
-July,
-August,
-September,
-October,
-November,
-December,
-China,
-Australia,
-always,"adv.总是,永远,始终"
+﻿eleven,"num. 十一, 十一个"
+twelve,"num. 十二, 十二个"
+thirteen,"num. 十三, 十三个"
+fourteen,"num. 十四, 十四个"
+fifteen,"num. 十五, 十五个"
+sixteen,"num. 十六, 十六个"
+classmate,n. 同班同学
+paint,"n. 油漆, 颜料, 绘画作品, 涂漆
+vt. 油漆, 绘, 画, 描绘, 装饰, 点缀
+vi. 绘画, 涂漆"
+draw,[计] Acorn的基于对象的矢量图像文件
+read,"v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+write,"vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+jump,"n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+fast,"耐,抗"
+picture,"n. 图画, 照片, 景色, 美丽如画的人(或物), 化身, 生动的描述, 想像, 形象思维
+vt. 画, 拍摄, 用图说明, 描写, 想像
+[计] 图象; 形象; 字形"
+very,"a. 真正的, 恰好的, 十足的, 特有的
+adv. 非常, 完全"
+well, (we shall或 we will 的常用口语形式)
+fly,"n. 苍蝇, 两翼昆虫, 飞行
+vi. 飞, 飞翔, 飘扬, 逃走
+vt. 飞, 飞越, 使飘扬, 逃出
+a. 敏捷的"
+high,"adj. 高的；高级的；崇高的；高音调的
+n. 高水平；天空；由麻醉品引起的快感；高压地带
+adv. 高；奢侈地
+n. (High)人名；(英)海伊"
+happy,[网络] -快乐
+hungry,adj. 饥饿的；渴望的；荒年的；不毛的
+thirsty,"a. 口渴的, 渴望的, 干燥的"
+sad,"a. 忧愁的, 悲哀的"
+full,"n. 全部, 完整
+a. 充满的, 完全的, 丰富的, 完美的, 丰满的, 详尽的
+adv. 完全地, 整整, 十分
+vt. 把(衣服等)缝得宽松, 漂洗
+[计] 完整"
+tired,"a. 疲累的, 疲乏的, 厌倦的"
+new,"adj. 刚出现的；新的；新近推出的；新买的
+n. 新东西；新事物
+abbr. 〈美(=net economic welfare)纯经济福利
+adv. 同“newly”
+[网络] 新建(New.)；新品；全新"
+back,"a. 后面的
+vt. 使后退, 支持
+vi. 倒退, 背靠
+adv. 向后地
+n. 背部, 后面"
+biscuit,"n. 饼干
+[化] 素坯; 饼干"
+then,"adv. 然后, 当时
+conj. 然后, 当时
+n. 那时"
+uncle,[网络] -叔叔
+aunt,"n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
+cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
+[法] 同辈表亲或堂亲"
+police,"n. 警察，警方；治安
+vt. 监督；管辖；维持治安；为…配备警察
+adj. 警察的；有关警察的"
+officer,"n. 军官, 主管, 官员, 公务员
+vt. 指挥"
+doctor,"n. 医生；博士
+vt. 修理；窜改，伪造；为…治病；授以博士学位
+vi. 就医；行医"
+nurse,"n. 护士, 保姆, 奶妈
+vt. 看护, 照顾, 培养
+vi. 喂奶, 看护病人"
+teacher,"n. 教师, 老师, 导师"
+student,"n. 学生, 研究者, 学者"
+firefighter,[法] 消防人员
+cook,"n. 厨子, 厨师
+vt. 烹调, 煮饭, 加热
+vi. 在煮着"
+bus driver,[计] 总线驱动器
+coat,"n. 外套
+vt. 外面覆盖, 给...穿外套"
+shirt,"n. 衬衫, 内衣, 汗衫"
+blouse,n. 宽松的上衣
+T-shirt,无
+skirt,"n. 裙子, 下摆, 边缘, 郊区
+vt. 位于...边缘, 绕过, 回避
+vi. 位于边缘"
+sweater,"n. 毛衣, 毛线衫, 运动衫, 出汗者
+[化] 发汗器"
+jeans,"n. 工装裤, 牛仔裤"
+shorts,[网络] 短的
+pink,[网络] 光子晶体技术；光子墨水
+friend,"n. 朋友, 支持者, 赞助者
+[法] 朋友, 友人, 赞助者"
+canteen,"n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部"
+computer lab, 计算机实验室
+office,[网络] 办公室；写字楼
+gym,"n. +体育馆, 体育训练, 体育课, 体操"
+behind,"prep. 落后于；支持；晚于
+adv. 在后地；在原处
+n. 屁股"
+in front of,在...前面
+building,"n. 建筑；建筑物
+v. 建筑；建立；增加（build的ing形式）"
+lesson,"n. 课, 课业, 教训"
+lunch,n. 午餐
+supermarket,超级市场
+post office,"邮局
+[法] 邮局"
+restaurant,[网络] 餐馆
+next to,几乎
+between,"prep. 在…之间
+adv. 在中间"
+street,"n. 街道, 马路, 街区
+a. 街道的"
+shop,"n. 商店, 工厂, 车间
+vi. 购物, 到处寻找
+vt. 选购"
+near,"a. 近的, 近亲的, 近似的
+adv. 接近, 亲近
+prep. 靠近, 近似于
+v. 接近, 走近"
+city,suf. [与其他词合成构成形容词]表示“…城市”
+many,"n. 多数, 多数人
+a. 许多的
+pron. 许多"
+some," [医]〔后缀〕意为体, 躯体"
+a packet of sweets,无
+a loaf of bread,一个面包
+a bowl of noodles,无
+a bar of chocolate,"na. 一块巧克力
+[网络] 一条巧克力；一块巧克力糖；巧克力棒"
+a packet of biscuits,无
+a bottle of water,[网络] 一瓶水；一杯水；一樽水
+hay,"n. 干草
+vt. 制干草, 供给干草
+vi. 晒干草"
+grass,"n. 草, 草原, 牧场
+[医] 草, 禾本"
+corn,"n. （美）玉米；（英）谷物；[皮肤] 鸡眼
+vt. 腌；使成颗粒
+n. (Corn)人名；(英、法、瑞典)科恩"
+meat,"n. 肉, 餐, 食物
+[经] 肉类"
+Don't litter.,无
+Don't walk on the grass.,无
+Don't pick flowers.,无
+Don't throw stones.,无
+farm,"n. 农场, 农田
+vt. 耕种
+vi. 种田"
+rubbish,"n. 废物, 垃圾, 胡说"
+visit,"n. 拜访, 访问, 游览, 视察
+vt. 拜访, 访问, 参观, 视察, 降临
+vi. 访问, 参观, 闲谈"
+bin,"n. 垃圾箱；（有盖）大容器
+v. 扔掉；丢弃
+[网络] 豳；箱子；垃圾桶"
+sketchbook,写生簿;速写簿
+cap,[计] 压缩音乐文件格式
+camera,"n. 照相机, 摄影机, 密谈室, 暗箱
+[计] 摄影"
+aviary,"n. 大型鸟舍, 鸟类饲养场"
+fountain,"n. 水源, 源, 喷泉, 泉水, 本源
+[医] 泉"
+pond,"n. 池塘
+v. 筑成池塘"
+far away, 遥远; 迢迢; 远离; 迥
+road,"n. 路, 道路, 公路, 途径, 方法
+[法] 公路, 道路, 行车道"
+take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+sunny,"a. 阳光充足的, 乐观的, 快乐的, 像太阳的"
+rainy,"a. 下雨的, 多雨的"
+cloudy,"a. 多云的, 有愁容的, 云的, 浑浊的
+[建] (混)浊的"
+windy,"a. 多风的, 风强的, 腹胀的, 吹牛的"
+warm,"a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的
+vt. 使温暖, 弄热, 使兴奋, 使充满仇恨
+vi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好
+n. 暖, 保暖物"
+hot,[网络] 月明时
+wet,"n. 湿气, 潮湿, 水分, 雨天
+a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的
+vi. 变湿
+vt. 使...湿"
+dry,"a. 干的, 无酒的, 枯燥无味的, 干燥的
+vt. 把...弄干
+vi. 变干
+n. 干, 干涸"
+January,n. 一月
+February,n. 二月
+March,abbr. Master of Architecture 建筑学硕士
+April,n. 四月
+May,"n. 五月
+aux. 愿能, 可以, 愿意"
+June,n. 六月
+July,n. 七月
+August,"n. 八月
+a. 威严的, 令人敬畏的"
+September,n. 九月
+October,n. 十月
+November,n. 十一月
+December,n. 十二月
+China,"n. 中国, 瓷器
+a. 中国的"
+Australia,"n. 澳洲, 澳大利亚"
+always,[网络] 永远；总是

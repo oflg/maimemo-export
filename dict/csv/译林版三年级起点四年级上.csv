@@ -1,124 +1,339 @@
-﻿like,"n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
-dog,"n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
-animal,n.动物
-cat,
-cute,"adj.可爱的,聪明的,伶俐的,装腔作势的"
-panda,"n.熊猫,黑白相间的熊类"
-fat,"n.脂肪,肥肉;adj.肥大的,丰满的,肥的,胖的,油腻的;vt.养肥,在...中加入脂肪;vi.长肥;File Allocation Table,文件分配表"
-elephant,"n.象,一种纸张的尺寸"
-horse,"n.马,[总称]骑兵,脚架,马力vi.骑马,作弄人vt.使骑马,系马于"
-lion,"n.狮子,(剽悍的人)社交场合的名流"
-monkey,n.猴子
-tiger,"n.[动]老虎,虎,凶暴的人"
-have,"vt.有,持有,拿,从事(某事) aux.已经"
-Let's ...,
-let's,
-let us,
-make,"vt.制造,安排,使成为,认为,产生,获得,进行,构成vi.开始,前进,增大,被制造,被处理n.制造,构造,性情"
-fruit,"n.水果,果实,果类,成果vi.结果实"
-salad,n.色拉
-pineapple,"n.凤梨,菠萝"
-mango,n.[植]芒果
-any,"adj.任何的,任何一种,所有的 pron.无论那一个,任何"
-banana,n.香蕉
-some,"adj.一些,少许,若干,有些,大约,相当的 pron.一些,若干,有些,某些"
-grape,"n.葡萄,葡萄树"
-Thanks.,
-our, pron.我们的
-cool,"n.凉爽,凉爽的空气adj.凉爽,冷静的,无所顾虑的,淡漠的v.使冷,使镇定"
-wonderful,"adj.令人惊奇的,奇妙的,极好的,令人愉快的"
-how many,
-thirteen, num.十三
-sticker,"n.不屈不挠的人,滞销物,滞销货"
-can,"vt.装进罐中,把食品装罐n.罐头,铁罐 conj.能,可以"
-have a look,
-very,"adv.很,甚,及其,非常,完全adj.真正的,真实的,恰好的,绝对的,十足的,特别的"
-fifteen,adj.十五
-sure,"adj.对....有把握,确信某事,稳当的,可靠的adv.的确,当然"
-fourteen, num.十四
-sixteen, num.十六
-seventeen, num.十七n.十七个
-eighteen,"adj.十八的,十八个的"
-nineteen, num.十九
-play,"n.游戏,比赛,运动,赌博,剧本v.玩,扮演,播放,进行比赛v.播放"
-many,"n.多数,群众adj.许多的 pron.许多人,许多"
-box,"n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
-table tennis,
-but," prep.除...以外 conj.而是,但是adv.几乎,仅仅"
-do,"v.做,实行,尽力,给予,可用,制作,算出,解答 [域] Dominican Republic ,多米尼加共和国"
-basketball,"n.篮球,篮球运动"
-well,"n.井vi.涌出adj.健康的,良好的,适当的adv.好,满意地,充分地,彻底地,有理地,适当地,夸奖地int.唔,咳"
-can't,
-cannot, conj.不能
-have a try,
-yeah,adv.是
-football,"n.足球,橄榄球"
-jump,"n.跳跃,上涨,惊跳vt.跳跃,跃过,突升,使跳跃vi.跳跃,暴涨"
-skate,"n.冰鞋,溜冰,老马,可鄙的人vi.滑冰,滑过"
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-quack,"v.(指鸭)呷呷地叫,大声闲聊,吹嘘n.(鸭子)呷呷叫声,庸医,骗子adj.骗人"
-tweet,"vi.鸣叫n.小鸟啼叫,自录音再现装置发出的高音"
-fly,"n.苍蝇,两翼昆虫,飞行vi.飞翔,飘扬,溃逃vt.飞越,使飘扬,逃脱adj.机敏的,敏捷的"
-ouch,int.哎唷!痛呀!
-sad,"adj.忧愁的,悲哀的"
-either,"adj.任一的,(两方中的)每一方的 pron.任一,随便任一个 conj.或者,也"
-home,"n.家,住宅,家乡,本国,产地,避难所adj.家庭的,国内的,有效的adv.在家,回家,深入地,在本国"
-bedroom,n.卧室
-living room,
-sofa,n.沙发
-come,"vi.来,来临,到达,出现,来(自),出生(于),开始int.嗨! vbl.来,到达,合计为"
-kitchen,"n.厨房,炊具,炊事人员"
-clock,n.时钟
-fridge,n.电冰箱
-table,"n.桌子,餐桌,工作台,平地层,石板,表格adj.桌子的,台子的vt.搁置,嵌合,制表"
-bathroom,"n.浴室,盥洗室"
-How are you?,
-hungry,"adj.饥饿的,渴望的,荒年的,不毛的"
-What would you like?,
-I'd like ...,
-at," prep.在,于,向,对准,在...方面;Austria,奥地利"
-snack bar,
-hamburger,"n.<美> 碎牛肉,牛肉饼,汉堡包"
-a glass of,
-noodles,
-dad,"n.爸爸,爹爹"
-sandwich,"n.夹心面包,三明治vt.夹入中间v.做成三明治"
-a cup of,
-coffee,"n.咖啡,咖啡树,咖啡茶,咖啡豆,咖啡色"
-Anything else ?,
-tea,"n.茶,茶树,茶叶,茶点vt.给...沏茶vi.喝茶,进茶点"
-juice,"n.(水果)汁,液"
-rice,"n.稻,米"
-Me too.,
-fish,"n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
-Can I help you?,
-big,"adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
-how much,
-shoe,"n.鞋,鞋子v.穿...鞋"
-yuan,n.元(中国货币单位)
-sock,"n.短袜,鞋内衬底,轻软鞋,一击,零食vt.给...穿袜,重击,猛投,请...吃零食vi.爱吃零食adj.非常成功的adv.正着地,不偏不倚地"
-umbrella,"n.伞,雨伞,庇护"
-only,"adj.唯一的,单独的,最好的,最合适的adv.仅仅,只不过 conj.但是,可是"
-twenty-eight,
-Well done.,
-fan,"n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
-twenty," num.二十,二十个"
-thirty, num.三十
-forty," num.四十,40n.四十岁"
-fifty,adj.五十
-forty-five,
-her," pron.她的,她"
-tail,"n.尾部,尾巴,尾状物,后部,踪迹,排的长队,限定继承权;adj.在后面的,限定继承的,尾部的,后面来的,后部的;vt.为...装尾,附于其后,尾随,跟踪,监视,使架住;vi.成为散乱的行列,跟踪,嵌入,船尾搁浅"
-long,"adj.长的,长期的,做多头的,高的vi.渴望,热望adv.长期地,始终n.长时间,(市场上)做多头的人,[语音]长音节"
-hair,"n.头发,毛发,毛状物,绒毛,些微"
-eye,"n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼vt.看,注视,在...上打眼"
-nose,"n.鼻,(飞机、船等的)前端v.侦察出"
-mouth,"n.口,嘴"
-small,"adj.小的,少的"
-his, pron.他的
-short,"n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
-ear,"n.耳朵,倾听,听觉,听力,穗vi.抽穗"
-king,"n.国王,君主,(部落的)首领,纸牌中的Kvt.立...为王vi.做国王,统治"
-thin,"adj.薄的,细的,瘦的,稀少的,稀疏的,(液体、气体)稀薄的,淡的,空洞的vt.使变薄,使变细,使稀少,使淡vi.变薄,变细,稀少,变淡adv.薄地,稀疏地,微弱地n.细小部分"
-tall,"adj.高的,长的,夸大的adv.<俚> 夸大地"
-snowman,n.雪人
+﻿like, 类似…的；有…特征的
+dog,"v. 跟踪；笼罩在…心头；弄得…狼狈不堪；被…困扰
+n. 【动】犬；【动】雄性的犬科动物；常用于形容词后；〈侮辱〉卑鄙的人
+[网络] 狗；小狗；狗狗"
+animal,[网络] 动物
+cat,[网络] 打开终端
+cute,"a. 可爱的, 聪明的, 伶俐的
+[医] 品他病"
+panda,"n. 大熊猫, 小熊猫"
+fat,"n. 脂肪, 脂油, 肥肉
+a. 肥的, 胖的, 油腻的
+n. 文件分配表
+[计] 文件分配表"
+elephant,n. 象
+horse,"n. 马；骑兵；脚架；海洛因
+vt. 使骑马；系马于；捉弄
+vi. 骑马；作弄人
+n. (Horse)人名；(瑞典)霍尔瑟"
+lion,"n. 狮子；名人；勇猛的人；社交场合的名流
+n. (Lion)人名；(西、葡)利昂；(德、法、意、捷、瑞典)利翁；(英)莱昂"
+monkey,"n. 猴子, 猿, 打桩锤
+vi. 淘气, 胡闹
+vt. 嘲弄"
+tiger,"n. 老虎, 虎, 凶暴的人"
+have,"vt. 有, 怀有, 拿, 进行
+aux. 已经"
+Let's ...,abbr. let us 让我们
+let's,abbr. let us 让我们
+let us,[网络] 让我们；让我们自己；让我们一起
+make,"vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
+vi. 开始, 前进, 增大, 被制造, 被处理
+n. 制造, 构造, 性情"
+fruit,"n. 水果, 果类, 结果
+[医] 果实, 种实"
+salad,n. 色拉
+pineapple,[网络] 凤梨；菠萝
+mango,"n. 芒果
+[化] 芒果Mangifera indica"
+any,"a. 任何的
+pron. 任何"
+banana,n. 香蕉
+some," [医]〔后缀〕意为体, 躯体"
+grape,"n. 葡萄, 葡萄树
+[医] 葡萄"
+Thanks.,[网络] 多谢；感谢的
+our,suf. 构成名词表示“状态”，“活动”：colour， labour
+cool,"n. 凉爽, 凉爽的空气
+a. 凉爽的, 冷淡的, 冷静的
+vi. 冷却, 平息
+vt. 使冷却, 使平静"
+wonderful,adj. 奇妙的；极好的
+how many, 几何；几；多少；几多
+thirteen,"num. 十三, 十三个"
+sticker,"n. 屠夫, 尖刀, 刺, 芒, 尖物, 携带尖刀者, 张贴物, 滞销品, (非正式)难题
+[经] 呆滞商品"
+can,[=child abuse and neglect]虐待和忽视儿童
+have a look, 看一看
+very,"a. 真正的, 恰好的, 十足的, 特有的
+adv. 非常, 完全"
+fifteen,"num. 十五, 十五个"
+sure,"a. 确信, 必然的, 必定的
+adv. 当然, 确实地, 无疑地"
+fourteen,"num. 十四, 十四个"
+sixteen,"num. 十六, 十六个"
+seventeen,"num. 十七, 十七个"
+eighteen,"num. 十八, 十八个"
+nineteen,"num. 十九, 十九个"
+play,[网络] 戏耍
+many,"n. 多数, 多数人
+a. 许多的
+pron. 许多"
+box,"n. 箱；盒；方框；匣
+v. （拳击运动中）击打（某人）；把（某物）装箱（或盒、匣）
+[网络] 盒子；箱子；长方体"
+table tennis,乒乓球
+but,"conj. 而；然而；只有；尽管如此
+prep. 除了；除…之外
+adv. 只有；仅仅
+n. 借口；托辞
+v. 对(某人)讲“但是”(以示反对,拒绝等)
+[网络] 可是；不过；而是"
+do,"v. 做；进行；完成；做出
+auxv. 用于实义动词前构成否定句和疑问句；构成附加疑问句
+n. 社交聚会；社交活动
+[网络] 溶解氧(dissolved oxygen)；执行；行动"
+basketball,n. 篮球运动
+well, (we shall或 we will 的常用口语形式)
+can't,[网络] 不能
+cannot, 未可； 不能； 不可
+have a try,"尝试一下,试试看"
+yeah,"adv. (非正式)是, 是的"
+football,[网络] 足球；橄榄球；美式橄榄球
+jump,"n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+skate,"n. 溜冰, 冰鞋
+vi. 滑冰, 滑过"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+quack,"n. 鸭叫声, 冒牌医生, 冒充内行之人
+a. 冒牌医生的
+v. 嘎嘎叫, 当冒牌医生, 夸大广告"
+tweet,"vi. 啁啾
+n. 小鸟叫声"
+fly,"n. 苍蝇, 两翼昆虫, 飞行
+vi. 飞, 飞翔, 飘扬, 逃走
+vt. 飞, 飞越, 使飘扬, 逃出
+a. 敏捷的"
+ouch,"interj. 哎唷(表剧痛)
+n. 扣环, 胸针, 珠宝饰物"
+sad,"a. 忧愁的, 悲哀的"
+either,[网络] 其他
+home,[网络] 网站首页；用户文件；回首页
+bedroom,[网络] 卧室；睡房；卧室系列
+living room,"客厅, 起居室"
+sofa,n. 沙发
+come,"v. 来；来到；发生；成为
+n. 精液；精子
+int. 得啦
+prep. （提及的时间）到来
+[网络] 来吧；过来；前来"
+kitchen,"n. 厨房, 全套炊具
+[医] 厨房"
+clock,"n. 时钟, 计时器, (袜子上的)绣花边花
+vt. 绣花样, 记时, 记录
+vi. 记录时间
+[计] 时钟"
+fridge,"n. 冰箱
+[网络] 电冰箱；雪柜；冷冻机"
+table,"n. 桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层
+vt. 搁置, 嵌合, 制表, 把...列入议事日程
+[计] 表格, 模拟运算表"
+bathroom,"na. 洗澡间；盥洗室；〈书〉厕所
+[网络] 浴室；卫生间；浴室系列"
+How are you?,无
+hungry,adj. 饥饿的；渴望的；荒年的；不毛的
+What would you like?,无
+I'd like ...,[网络] 我想要
+at,"prep. 朝；向；在（某处）；在（表示学习或工作地点）
+abbr. (=astatine)【化】(=Air Transport)
+[网络] 自动变速箱(Automatic Transmission)；奥地利(Austria)；砹"
+snack bar,"快餐柜, 小吃店"
+hamburger,"汉堡, 汉堡[饼]"
+a glass of, 一杯
+noodles,"n. 面条, 挂面（noodle的复数形式）"
+dad,[网络] 爸爸；无明显疾病；一台带二级管阵列检测器
+sandwich,"n. 三明治；夹心面包片；夹心蛋糕
+v. 把…夹[挤]在(两层[者])中间；将…做成三明治
+[网络] 三文治；桑德威奇；夹层"
+a cup of,一杯…
+coffee,"n. 咖啡, 咖啡色
+[医] 咖啡, 咖啡豆"
+Anything else ?,无
+tea,"n. 茶叶；茶树；茶点
+vt. 给…沏茶
+vi. 喝茶；进茶点
+n. (Tea)人名；(柬)迪"
+juice,"juice
+[dʒu:s]
+n.
+(植物、水果、蔬菜等的)汁，液，浆；[俚语]奶
+[复数]体液
+精，精髓；精力；活力，劲儿
+[俚语]电，电流
+[俚语]汽油，液体燃料
+[美国俚语]酒(尤指威士忌)；含酒精的液体
+[俚语]高利贷；(高利贷的)高利率
+[俚语]暴利，不义之财；收入
+[俚语]权力，权势，地位；社会影响
+[美国俚语]舞台灯光照明师
+推动力；鼓舞因素；冲动
+[俚语]毒品，迷幻药
+[俚语]电；电流
+vt.
+从…榨汁(或液)；[美国方言]挤(母牛)的奶：
+Mother is juicing some grapes.
+母亲正在榨葡萄汁。
+to juice a cow
+挤牛奶
+给…加汁(或液)：
+to juice the pineapple-pies
+给菠萝派浇汁
+给…供电：
+to juice an electric circuit
+给电路通电
+给…加油：
+You'd better juice your car before you set out.
+你最好在出发前给车加点油。
+[俚语]使触电死亡，用电刑处死
+短语:
+step on the juice
+踩油门加速；加快速度
+stew in one's own juice
+自作自受
+the juice of the grape
+见 grape
+变形：
+vt.
+juiced
+. juicing"
+rice,[网络] -白饭
+Me too., 我也是
+fish,"n. 鱼, 鱼肉, 鱼类, 接合板
+vt. 钓, 钓鱼, 查出, 用接合板连接
+vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找"
+Can I help you?,无
+big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+how much,"多少, 什么价钱, 到什么程度"
+shoe,"n. 鞋, 靴, 外胎
+vt. 给...穿鞋, 为马钉蹄铁"
+yuan,"n. 元(中国货币单位)
+[经] 元"
+sock,"n. 短袜, 鞋垫, 一击
+vt. 重击, 猛投, 给...穿袜
+vi. 打击
+adv. 正着地, 不偏不倚地
+a. 非常成功的"
+umbrella,"n. 伞, 雨伞, 保护伞
+a. 伞的, 包罗万象的
+vt. 用伞遮掩"
+only,"a. 唯一的, 仅有的, 最佳的
+adv. 只有, 仅仅, 只能
+conj. 但是, 不过"
+twenty-eight,无
+Well done., 做得不错
+fan,"fan1
+[fæn]
+n.
+任何通过扇动引起空气流动的装置
+(羽毛、纸或布做的)扇子
+风扇
+扇形物(如鸟尾等)
+(风车的)翼，叶片，螺旋桨
+扬谷机
+【地理学】扇状三角洲际
+[俚语](扒手为探明钱物的部位，用手在扒窃对象身上)快速的一摸
+vt.
+(用扇子)扇：
+He fanned the fire.
+他用扇子扇火。
+(用扇)向…搧风；吹凉(食物等)：
+She fanned her face with a paper.
+她用纸向脸上搧风。
+煽动，鼓动，激起：
+to fan resentment
+激起忿恨
+(用扇)驱赶
+把…展成扇形：
+She fanned out the cards in her hand.
+她将纸牌在手中展成扇形。
+风选(谷)；扬去(糠、杂物等)
+[美国俚语]
+拍击，拍打
+(用枪)连击
+[美国英语]【棒球】使(击球员)三击不中出局
+vi.
+飘动，轻拂：
+the flag fanning in the breeze
+微风中飘动的旗帜
+成扇形展开(常与out连用)：
+The troops fanned out as they advanced.
+部队向前推进时呈扇形散开。
+The fire fanned out in all directions.
+大火向四周呈扇形蔓延。
+[美国英语]【棒球】(击球员)三击不中出局
+[口语]闲聊
+[口语](为窃取钱币)拨弄公用电话机的贮钱装置
+[英国英语](扒手为探明钱物往扒窃对象身上)快速地一摸
+短语:
+fan someone's tail
+打屁股
+flirt a (或 one's) fan
+一下子把扇子打开(或合拢)
+灵活地挥动扇子
+hit the fan
+[美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响
+变形：
+vt.
+fanned
+. fanning
+fan2
+[fæn]
+n.
+[美国口语](运动、娱乐等的)狂热者，爱好者，热心之士，…迷；(对演员、电影明星的)狂热仰慕者"
+twenty,"n. 二十几；二十年代
+num. 二十
+[网络] 二十个；廿；第二十"
+thirty,"num. 三十, 三十个"
+forty,"num. 四十, 四十个"
+fifty,"num. 五十
+n. 五十几；五十年代
+adj. 许多的
+[网络] 半百；五十个；五十的"
+forty-five,无
+her,"pron. 她的；她
+n. (Her)人名；(法)埃尔"
+tail,"n. 尾部, 后部, 辫子, 随员, 特务, 燕尾服, 踪迹, 限定继承(权)
+a. 在后面的, 从后面而来的, 限定继承的, 尾部的, 后部的
+vt. 为...装尾, 附于其后, 尾随, 使搭牢, 跟踪, 监视
+vi. 跟踪, 船尾搁浅"
+long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
+adj. （长度或距离）长的；（询问或谈论长度或距离）长；长时间的；长久的
+adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
+v. （尤指对看似不会很快发生的事）渴望
+[网络] 长整型；长整数；多头"
+hair,"n. 头发, 毛发, 些微
+[医] 毛, 发"
+eye,"n. 眼睛, 视力, 看
+vt. 看, 注视"
+nose,"n. 鼻子, 突出部分, 嗅觉
+vt. 嗅到, 探出, 用鼻子触
+vi. 闻, 嗅, 探听, 告密"
+mouth,"n. 嘴, 口, 口腔, 口状物
+vi. 装腔作势说话, 做鬼脸
+vt. 说出, 做作地说"
+small,"a. 小的, 少的, 小型的, 低微的, 小气的, 细微的
+adv. 些微地
+n. 狭小部分"
+his,"pron. 他的
+[化] 组氨酸"
+short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
+adv. 简短地, 突然
+n. 扼要, 短片, 缺乏
+vt. 故意少给, 使短路"
+ear,"n. 耳；耳朵；有…耳朵的；耳朵…的
+v. 抽穗
+[网络] 耳状物；听觉；听力"
+king,"n. 国王, 君主
+vt. 使...成为君主
+vi. 君临, 统治"
+thin,"a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的
+vt. 使变薄, 使变细, 使稀少, 使淡
+vi. 变薄, 变细, 变少, 变淡
+adv. 薄地, 稀疏地, 微弱地
+n. 细小部分"
+tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
+snowman,[网络] 雪人；小雪人；雪人於

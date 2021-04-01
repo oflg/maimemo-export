@@ -1,275 +1,564 @@
-﻿bookworm,"n.书呆子,蛀书虫"
-poetry,"n.诗,作诗法,诗意,诗情"
-drama,"n.(在舞台上演的)戏剧,戏剧艺术"
-fiction,"n.虚构,编造,小说"
-antique,"n.古物,古董adj.古时的,过时的"
-characteristic," ally//adv.表示特adj.特有的,表示绦缘"
-novelist,n.(长篇)小说家
-chapter,n.(书籍)章
-opera,n.歌剧
-author,"n.作家,创造者"
-abuse,"n.滥用,虐待,辱骂,陋习,弊端v.滥用,虐待,辱骂"
-cemetery,"n.墓地,公墓"
-desperate,"adj.不顾一切的,拚死的,令人绝望的"
-criminal,"n.罪犯,犯罪者adj.犯罪的,犯法的,罪恶的"
-tension,"n.紧张(状态),不安,拉紧,压力,张力,牵力,电压vt.拉紧,使紧张"
-twist,"n.一扭,扭曲,盘旋,曲折,歪曲,手法,螺旋状vt.拧,扭曲,绞,搓,捻,使苦恼,使转动,编织vi.扭弯,扭曲,缠绕,扭动,呈螺旋形"
-plot,"n.小块土地,地区图,图,秘密计划(特指阴谋),(小说的)情节.结构vt.划分,绘图,密谋vi.密谋,策划"
-generous,"adj.慷慨的,大方的,有雅量的"
-vain,"adj.徒然的,无益的,虚荣的,空虚的,自负的,愚蠢的"
-rigid,"adj.刚硬的,刚性的,严格的"
-civil,"adj.全民的,市民的,公民的,国民的,民间的.民事的,根据民法的,文职的,有礼貌的"
-bent,"n.倾向,爱好"
-theme,"n.(谈话,写作等的)题目,主题,学生的作文,作文题,[音乐] 主题,主题曲,主旋律"
-violent,"adj.猛烈的,激烈的,暴力引起的,强暴的"
-on the run,
-painter,"n.画家,油漆匠"
-live up to,
-workhouse,"n.囚犯工厂,贫民习艺所"
-millionaire,"n.百万富翁,大富豪"
-vice,"n.恶习,恶行,坏脾气,罪恶,堕落,老虎钳,缺点,缺陷vt.钳住 prep.代替"
-reform,"n.改革,改善,改良运动,感化vt.改革,革新,重新组成vi.革新,改过,重组"
-threat,"n.恐吓,凶兆,威胁"
-violence,"n.猛烈,强烈,暴力,暴虐,暴行,强暴"
-resist,"vt.抵抗,反抗,抗,忍得住"
-reunite,v.(使)再结合
-home-made,
-bind,"v.绑,镶边,装订,凝固,约束"
-spin,"v.旋转,纺,纺纱n.旋转"
-sneaker,"n.鬼鬼祟祟的人,卑鄙者,运动鞋"
-pin,"n.钉,销,栓,大头针,别针,腿vt.钉住,别住,阻止,扣牢,止住,牵制"
-worn out,
-envelope,"n.信封,封套,封袋,[天]包层,[数]包迹,[生]包膜"
-brand new,
-spit,"n.唾液v.吐(唾沫),吐出,发射,发出,喷吐"
-chest,"n.胸腔,胸膛,箱,柜"
-attic,"n.阁楼,顶楼,[解剖](耳的)鼓室上的隐窝adj.(古希腊)雅典(Athens)的"
-modern-day,
-stepmother,n.继母
-stepsister,n.异父姊妹
-rag,"n.抹布,碎屑,石板瓦,破旧衣服,少量vt.揶揄,戏弄,欺负vi.喧闹"
-Ireland,
-rescue,"vt.援救,营救n.援救,营救"
-wrap,"n.外套,围巾,包裹,秘密,约束,限制vt.包装,卷,缠绕,包,覆盖,裹,遮蔽,隐藏vi.缠绕,重叠,穿外衣,包起来"
-Scotland,
-supreme,"adj.极度的,极大的,至高的,最高的"
-reputation,"n.名誉,名声"
-debt,"n.债务,罪过"
-holy,"adj.神圣的,圣洁的n.神圣的东西"
-widow,n.寡妇v.使成寡妇(或鳏夫)
-monument,n.纪念碑
-adore,"v.崇拜,爱慕,(口语)喜爱"
-romantic,"adj.传奇式的,浪漫的,空想的,夸大的"
-touch on,
-intend,"vt.想要,打算,意指,意谓"
-paragraph,"n.(文章)段,节,段落"
-rhyme,"n.韵,押韵,押韵的词vi.押韵,作诗,韵律和谐vt.使押韵,用韵诗表达,把...写成诗"
-melodic,"adj.有旋律的,调子美妙的"
-tune,"n.曲调,调子,和谐,合调vt.调音,调整,拨收,收听,知道或察觉他人所说的话或表现的情绪"
-thou, pro.你
-thee, pron.<古>(thou的宾格)你
-farewell,"n.辞别,再见,再会int.再会,别了!(常含有永别或不容易再见面的意思)"
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-bonnie,adj.漂亮的
-lass,"n.少女,爱人,情妇,<苏格兰>女佣"
-melt,"v.(使)融化,(使)熔化,使软化,使感动"
-universal,"adj.普遍的,全体的,通用的,宇宙的,世界的"
-jazz,"n.(20世纪产生于美国的一种舞曲性音乐)爵士乐,喧闹adj.爵士乐的,喧吵的,颜色过于艳丽的vi.奏爵士乐,跳爵士舞,游荡vt.奏爵士乐,使活泼"
-string,"n.线,细绳,一串,一行v.排成一列"
-cast,"n.投掷,铸件,脱落物,一瞥,演员表v.投,抛,投射,浇铸,计算,派(角色)"
-butterfly,n.[动]蝴蝶 蝶泳
-awesome,"adj.引起敬畏的,可怕的"
-stubborn,"adj.顽固的,固执的,坚定的,坚决的,难应付的,难处理的"
-princess,n.公主
-condemn,"vt.判刑,处刑,声讨,谴责"
-dare,"n.挑战vi.敢,胆敢vt.敢冒,不惧"
-ask for somebody's hand in marriage,
-prince,n.王子
-disturbing,adj.烦扰的
-fall in love,
-at first sight,
-unwilling,"adj.不愿意的,勉强的"
-seize,"v.抓住,逮住,夺取vt.没收,查封"
-demand,"n.要求,需求(量),需要v.要求,需要,要求知道,查询"
-grab,"v.抢夺,攫取,夺取"
-evident,"adj.明显的,显然的"
-scold,"v.责骂,申斥,斥责"
-merciful,"adj.仁慈的,慈悲的"
-dawn,"n.黎明,拂晓,破晓vi.破晓,开始现生,变得(为人所)明白v.破晓 Dawn 道恩(女子名)"
-deadline,n.最终期限
-unite,"v.联合,团结"
-grand,"adj.盛大的,豪华的,重大的,主要的,极重要的"
-broken,"adj.坏掉的,患病的,被制服的,断掉的 vbl.break的过去分词"
-opportunity,"n.机会,时机"
-unemployment,"n.失业,失业人数"
-personnel,"n.人员,职员"
-department,"n.部,局,处,科,部门,系,学部"
-chorus,"n.合唱,合唱队,齐声"
-sore,"adj.疼痛的,痛心的,剧烈的n.痛的地方,痛处"
-throat,"n.咽喉,喉咙,嗓音,窄路,口子vt.用喉音说,开沟于"
-composer,"n.作家,作曲家,设计者,著作者"
-motherland,n.祖国
-Austria,
-tutor,"n.家庭教师,(大学)指导教师,助教,监护人,辅导教师v.辅导"
-symphony,"n.交响乐,交响曲"
-bachelor,"n.单身汉,文理学士,幼雄兽"
-flute,"n.长笛,笛状物,凹槽"
-kindergarten,"n.幼儿园adj.幼儿园的,初级的,启蒙阶段的"
-folk,"n.人们,亲属(复数),民族adj.民间的"
-ballet,"n.芭蕾舞,芭蕾舞剧,芭蕾舞乐曲"
-swan,"n.天鹅,杰出的诗人、歌手,天鹅座"
-album,"n.集邮本,照相簿,签名纪念册"
-collection,"n.收藏,征收,搜集品,捐款"
-chart,"n.海图,图表vt.制图"
-blues,"n.抑郁,沮丧,忧郁布鲁斯歌曲(蓝调音乐)"
-root,"n.根,根部,根本,根源v.(使)生根,(使)扎根,使立定不动,坚定不移,确立"
-slavery,"n.奴隶身分,奴隶制度,苦役,束缚"
-tendency,"n.趋向,倾向"
-format,"n.开本,版式,形式,格式vt.安排...的格局(或规格),[计]格式化(磁盘)"
-spring up,
-trumpet,n.喇叭
-liberty,"n.自由,特权,随意,冒失,冒昧,失礼"
-rock and roll,
-gradual,"adj.逐渐的,逐步的,渐进的"
-decline,"vi.下倾,下降,下垂v.拒绝,衰落n.下倾,下降,下垂,斜面,斜坡,衰败,衰落"
-trend,"n.倾向,趋势vi.伸向,倾向,通向"
-rhythm,"n.节奏,韵律"
-rattle,"v.发出卡嗒卡嗒声,喋喋不休,急忙地做n.吓吱声,喋喋不休的人"
-comet,n.彗星
-band,"n.带子,镶边,波段,队,乐队v.联合,结合"
-seek,"v.寻找,探索,寻求"
-prejudice,"n.偏见,成见,损害,侵害v.损害"
-discrimination,"n.辨别,区别,识别力,辨别力,歧视"
-scream,"v.尖声叫,尖声喊叫n.尖叫声,喊叫声"
-break up,
-mural,"adj.墙壁上的n.壁画,壁饰"
-still life,
-abstract,"n.摘要,概要,抽象;adj.抽象的,深奥的,理论的;vt.摘要,提炼,抽象化"
-Spain,
-birthplace,n.诞生地
-architecture,"n.建筑,建筑学 体系机构"
-output,"n.产量,输出,输出量"
-medium,"n.媒体,方法,媒介adj.中间的,中等的,半生熟的"
-Cubism,
-acute,"adj.敏锐的,[医]急性的,剧烈"
-cube,"n.立方体,立方"
-rectangle,"n.长方形,矩形"
-consensus,"n.一致同意,多数人的意见,舆论"
-calculate,"v.计算,考虑,计划,打算v.<美>以为,认为"
-helicopter,"n.直升(飞)机,直升机"
-tank,"n.(盛液体,气体的大容器)桶、箱、罐、槽,池塘,坦克,战车,柜,储水池vt.储于槽中,击败vi.大量喝酒"
-Impressionism,
-shadow,"n.阴影,影子,影像,预兆,庇护,隐蔽处,阴暗,少许vt.遮蔽,使朦胧,预示,尾随vi.渐变,变阴暗"
-water lily,
-pond,n.池塘v.筑成池塘
-Impressionist,
-oil painting,
-starry,adj.布满星星的
-commit,"vt.犯(错误),干(坏事),把...交托给,提交,答应负责"
-being,"n.存在,生命,人,本质 art.在,有,是"
-reward,"n.报酬,奖金vt.酬劳,奖赏"
-agent,n.代理(商)
-franc,n.法郎
-upwards of,
-be off to,
-gallery,"n.走廊、戏院、教堂等中最高的楼座,美术陈列室,画廊,图库"
-changeable,adj.可改变的
-ankle,n.[解]踝
-suite,"n.(一批)随员,(一套)家具,套房,套,组,组曲"
-accommodation,"n.住处,膳宿,(车,船,飞机等的)预定铺位,(眼睛等的)适应性调节,(社会集团间的)迁就融合"
-dormitory,n.宿舍
-canal,"n.运河,小道,导管,槽,沟渠vt.开运河"
-passer-by,
-souvenir,n.纪念品
-admission,"n.允许进入,承认某事之陈述,供认"
-scenery,"n.风景,景色"
-scholarship,"n.奖学金,学问,学识"
-cloth,"n.布,织物,衣料"
-slice,"n.薄片,切片,一份,部分,片段v.切(片)"
-apron,"n.围裙,外表或作用类似围裙的东西,[机]挡板,护坦"
-chef,n.厨师
-seaweed,"n.海草,海藻"
-cut up,
-onion,"n.洋葱vt.加洋葱于,因洋葱掉泪"
-pineapple,"n.凤梨,菠萝"
-eggplant,n.茄子
-seashell,n.海贝壳
-lay out,
-pillow,"n.枕头,枕垫"
-disgusting,adj.令人厌恶的
-aluminium,n.[化]铝adj.铝的
-spray,"n.喷雾,飞沫vt.喷射,喷溅"
-paintbrush,"n.画笔,漆刷"
-tin,"n.[化]锡,马口铁,罐vt.涂锡于adj.锡制的"
-dip,
-wrinkle,n.皱纹v.使皱
-cut something out,
-cut something out of something,
-have a go,
-have a go at,
-dragon,"n.龙,凶暴的人,严厉而有警觉性的女人"
-representative,"n.代表adj.典型的,有代表性的"
-spokesman,"n.发言人,代表者"
-criterion,"n.(批评判断的)标准,准据,规范"
-finance,"n.财政,金融,财政学vt.供给...经费,负担经费vi.筹措资金"
-in defence of,
-restriction,"n.限制,约束"
-deliberately,adv.故意地
-boycott,"n.vt.联合抵制,联合排斥某国货物或与某国绝交"
-hatch,"n.孵化,舱口,舱口盖,(门、墙壁、地板上的)开口vt.孵,孵出,策划,图谋vi.孵化"
-sponsor,"n.发起人,主办者,保证人,主办人vt.发起,主办v.赞助"
-modest,"adj.谦虚的,谦让的,适度的"
-expose,"vt.使暴露,受到,使曝光v.揭露"
-contradict,"vt.同...矛盾,同...抵触"
-resemble,"vt.象,类似"
-edge,"n.刀口,利刃,锋,优势,边缘,优势,尖锐vt.使锋利,挤进,镶边,开刃vi.缓缓移动,侧着移动"
-broad,"adj.宽的,阔的,广泛的,明朗的,露骨的,显著的,主要的adv.宽阔地n.宽阔部分"
-overlook,"vt.俯瞰,耸出,远眺,没注意到n.眺望,俯瞰中的景色"
-entry,"n.登录,条目,进入,入口,[商]报关手续,[律]对土地的侵占,对房屋的侵入"
-preference,"n.偏爱,优先选择"
-top-ranking,
-swift,"n.[鸟]雨燕,(梳棉机等的)大滚筒adj.迅速的,快的,敏捷的,立刻的adv.迅速地,敏捷地"
-laundry,"n.洗衣店,要洗的衣服,洗熨"
-maid,"n.少女,女仆"
-disappointment,n.失望
-formal,"adj.外形的,正式的,合礼仪的,形式的,整齐匀称的n.正式的社交活动"
-tiresome,"adj.无聊的,烦人的"
-script,"n.手稿,手迹,剧本,考生的笔试卷,原本"
-shoot,"n.射击,发射,摄影,急流vt.射击,投射,伸出,拍摄,用完,挥出,给...注射,使爆炸vi.射出,射击,发出,发芽,射门,拍电影"
-sincere,"adj.诚挚的,真实的,真诚的"
-congratulation,"n.祝词,贺辞"
-screenwriter,"n.电影剧本作家,编剧家"
-full-length,
-robbery,"n.抢掠,抢夺"
-anecdote,"n.轶事,奇闻"
-biography,n.传记
-accumulate,"v.积聚,堆积"
-popcorn,n.爆米花
-salty,"adj.有盐分的,咸味浓的"
-tense,"adj.紧张的,拉紧的v.(使)紧张,(使)拉紧n.[语法]时态"
-thriller,"n.使人毛骨悚然的东西,使人毛骨悚然的小说"
-paramount,adj.极为重要的
-touchstone,"n.试金石,标准"
-conquer,"vt.征服,战胜,占领,克服(困难等),破(坏习惯等)"
-concubine,"n.妾,情妇,姘妇"
-lantern,"n.灯笼,提灯,幻灯,信号,天窗"
-philosopher,"n.哲学家,哲人"
-fantasy,"n.幻想,白日梦"
-scar,"n.伤痕,疤痕v.结疤,使留下伤痕,创伤"
-forehead,"n.前额,(任何事物的)前部"
-wizard,"n.神汉,男巫,术士,奇才adj.男巫的,巫术的,有魔力的"
-witch,"n.巫婆,女巫,迷人的女子vt.施巫术,迷惑"
-evil,"adj.邪恶的,带来麻烦的,不幸的,有害的,诽谤的n.邪恶,不幸,罪恶"
-institution,"n.公共机构,协会,制度"
-parallel,"adj.平行的,相同的,类似的,并联的n.平行线,平行面,类似,相似物v.相应,平行"
-curriculum,n.课程
-contradictory,"adj.反驳的,反对的,抗辩的n.矛盾因素,对立物"
-partner,"n.合伙人,股东,舞伴,伴侣vt.与...合伙,组成一对vi.做伙伴,当助手"
-fierce,"adj.凶猛的,猛烈的,热烈的,暴躁的<美>极讨厌的,难受的,<英方>精力旺盛的"
-zoom,"n.急速上升,陡直上升,图象电子放大,缩放,嗡嗡声vi.突然扩大,急速上升,摄象机移动vt.使摄象机移动"
-broom,"n.扫帚,[植]金雀花vt.扫除"
-dizzy,"adj.(指人)晕眩的,昏乱的,(指地点,情况)使人晕眩的"
-attraction,"n.吸引,吸引力,吸引人的事物"
-show off,
-disappoint,vt.使失望
-give thought to,
+﻿bookworm,极爱读书的人;书呆子
+poetry,"n. 诗, 韵文, 诗歌艺术"
+drama,"n. 戏剧, 戏剧艺术"
+fiction,"n. 小说, 虚构故事
+[法] 虚构的事实, 捏造, 拟制"
+antique,"n. 古董, 古物
+a. 古老的, 古风的, 旧式的, 过时的"
+characteristic,"n. 特性, 特征, 特色
+a. 特性的, 特有的, 有特色的
+[计] 阶; 指数"
+novelist,n. 小说家
+chapter,"n. 章, 篇, 重要章节
+[计] 章; 段"
+opera,n. 歌剧
+author,"n. 作家, 作家的著作, 创始人
+[法] 作者, 著作人, 本人"
+abuse,"n. 滥用, 虐待, 恶习, 辱骂
+vt. 滥用, 辱骂, 虐待"
+cemetery,"n. 墓地, 公墓
+[法] 公墓, 墓地"
+desperate,"a. 不顾一切的, 危急的, 令人绝望的, 极渴望的"
+criminal,"n. 罪犯, 犯人, 刑事
+a. 犯了罪的, 刑事的, 有罪的"
+tension,"n. 紧张, 不安, 拉紧, 张力, 压力, 电压
+vt. 拉紧, 使紧张"
+twist,"n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法
+vt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转
+vi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形"
+plot,"n. 小块土地, 地区图, 图, 阴谋, 情节
+vt. 划分, 绘图, 密谋
+vi. 密谋, 策划
+[计] 绘制"
+generous,"具,有"
+vain,"a. 无价值的, 徒然的, 空虚的, 自负的, 愚蠢的"
+rigid,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的"
+civil,"adj. 公民的；民间的；文职的；有礼貌的；根据民法的
+n. (Civil)人名；(土)吉维尔；(法)西维尔"
+bent,"a. 弯曲的, 决心的
+n. 爱好
+bend的过去式和过去分词"
+theme,[计] Windows桌面主题文件
+violent,"a. 暴力的, 猛烈的, 激烈的, 极端的, 凶暴的"
+on the run,"跑着, 逃跑, 急急忙忙, 奔走, 被通辑着
+[法] 在逃"
+painter,"n. 画家, 油漆匠
+[机] 油漆匠, 喷漆匠"
+live up to,"实践, 做到"
+workhouse,作坊
+millionaire,"n. 百万富翁, 大富豪
+[经] 大资本家, 巨富, 百万富翁"
+vice,"n. 恶习, 恶行, 罪恶, 堕落, 缺陷, 恶癖, 老虎钳
+vt. 钳住
+prep. 代替"
+reform,"v. 再作；改编(军队等)；(飞机在攻击后)重新编队
+[网络] 扣帐"
+threat,"n. 恐吓, 恶兆, 威胁
+[经] 威胁"
+violence,n. 暴力；侵犯；激烈；歪曲
+resist,"vi. 抵抗，抗拒；忍耐
+vt. 抵抗；忍耐，忍住
+n. [助剂] 抗蚀剂；防染剂"
+reunite,"vt. 使重聚；使再结合；使再联合
+vi. 重聚；再结合；再联合"
+home-made,无
+bind,"vt. 绑, 约束, 装订, 包扎, 使结合
+vi. 凝固, 有约束力
+[计] 赋值, 绑定"
+spin,"spin
+[spin]
+vt.
+纺(纱等)：
+使成线；使成纱：
+(蜘蛛)结网；(蚕)吐(丝)，做(茧)：
+使旋转：
+(汽车等在冰上或沙地上使车轮)空转
+把(球)扔(或投、踢打)得在空中旋转
+= spin-dry
+用旋式钓铒钓(鱼)；在…中用旋式铒钓鱼
+使(金属)铸模成形
+把(玻璃、黄金等)抽拉成丝
+[口语]放(唱片)：
+编造；撰写：
+[美国俚语]欺骗，哄(人)
+[英国英语]给…不及格分数
+使拖延时间，使多维持时日(out)：
+[美国英语]对…做出倾向性解释：
+【火箭学】使(火箭、导弹)盘绕飞行
+vi.
+旋转：
+(蜘蛛)结网；(蚕)吐丝，做茧
+纺线；纺纱：
+疾驰，飞跑：
+眩晕：
+用旋式饵钓鱼
+(车轮)空转
+[美国俚语]跳舞
+[英国英语]考试不及格
+[美国英语]作舆论导向，造假舆论
+【火箭学】(火箭、导弹)盘旋飞行
+n.
+旋转
+自转，回转
+(用洗衣机等的)脱水
+疾驰，飞奔
+(车轮的)空转
+【商业】(价格等的)暴跌
+【航空学】旋冲，螺旋下降
+【物理学】旋转动量
+情绪低落；惊惶失措
+[美国英语]定调，导向，倾向性意见，导向性解释
+[口语]放唱片；放唱片的时间
+(不真实的)溢美之辞，润色之辞
+观点；影响；偏见
+[澳大利亚口语]运气
+[900年前，1992]
+短语:
+put a positive (或 negative) spin on
+对…作正面(或负面)倾向性解释；对…持积极(或消极等)观点；对…起积极(或消极等)的影响
+变形：
+vt.
+spun或 span
+. spun
+. spinning"
+sneaker,"n. 鬼鬼祟祟做事的人, 卑鄙者, 帆布胶底运动鞋"
+pin,[网络] 销
+worn out, 磨穿; 疲乏
+envelope,"n. 信封, 封套, 封袋
+[医] 膜, 包袋"
+brand new,"崭新的,全新的"
+spit,"n. 唾液, 唾吐, 小雨, 炙叉, 一铲的深度
+vt. 唾吐, 吐出, 降小雨, 用炙叉穿过
+vi. 吐唾沫, 吐痰, 唾弃, 飘霏霏细雨"
+chest,"n. 胸, 胸部, 衣柜, 箱子
+[医] 胸, 胸廓"
+attic,"n. 阁楼, 顶楼
+[医] 鼓室上隐窝"
+modern-day,无
+stepmother,继母
+stepsister, [医]异父母姊妹
+rag,[=radium-G]镭-G
+Ireland,n. 爱尔兰
+rescue,"n. 援救, 解救, 营救
+vt. 援救, 救出, 营救"
+wrap,"n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行
+vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护
+vi. 缠绕, 穿外衣, 包起来
+[计] 换行"
+Scotland,n. 苏格兰
+supreme,"n. 至高, 霸权
+a. 至高的, 终极的, 极端的, 最大的"
+reputation,"n. 名誉, 名声, 声望
+[法] 名声, 名誉, 公认证据"
+debt,"n. 债务, 罪过
+[经] 借款, 欠款, 债务"
+holy,"adj. 圣洁的，神圣的；至善的
+n. 神圣的东西
+（俚）太棒了
+n. (Holy)人名；(英、德、匈)霍利"
+widow,"n. 寡妇, 孀妇
+vt. 使成寡妇"
+monument,"n. 纪念碑, 纪念物, 石碑"
+adore,"vt. 崇拜, 爱慕, 喜爱
+vi. 崇拜, 爱慕"
+romantic,"a. 浪漫的, 风流的, 传奇性的, 夸大的, 空想的, 浪漫派的"
+touch on,"与...有关, 涉及..., 提到..., 提及, 谈及"
+intend,"vt. 计划, 打算, 意思是
+[法] 想要, 打算, 意旨"
+paragraph,"n. 段落, 短评
+vt. 将...分段, 分段落
+vi. 写短讯
+[计] 段落"
+rhyme,"n. 韵, 押韵, 韵文
+vi. 押韵
+vt. 使押韵, 用韵诗表达"
+melodic,"a. 有旋律的, 旋律美妙的"
+tune,"n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度
+vt. 为...调音, 调整, 调谐, 使一致
+vi. 协调, 调谐"
+thou,"pron. 汝, 你, 尔"
+thee,[网络] 耶稣的十一门徒；上帝；商业周刊编辑群
+farewell,进展顺利
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+bonnie,a. 漂亮的
+lass,"n. 少女, 爱人, 情妇"
+melt,"n. 熔化, 熔化物, 溶解
+v. (使)熔化, (使)溶解, (使)消散, (使)变软"
+universal,"a. 全世界的, 普遍的, 宇宙的, 通用的
+n. 一般概念"
+jazz,"n. 爵士乐, 喧闹
+a. 爵士乐的, 喧吵的
+vi. 演奏爵士乐, 跳爵士舞, 游荡
+vt. 奏爵士乐, 使活泼"
+string,"n. 线, 细绳, 一串, 字符串
+vt. 串起, 成串, 收紧, 缚, 扎
+vi. 成一串
+[计] 字符串, 串"
+cast,"vt. 投，抛；计算；浇铸；投射（光、影、视线等）
+n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
+vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+n. (Cast)人名；(法)卡斯特"
+butterfly,"n. 蝴蝶
+[医] 蝶式棉块, 翼形皮癣, 纸蝶"
+awesome,"a. 引起敬畏的, 可怕的"
+stubborn,"a. 顽固的, 不听话的, 执拗的, 棘手的"
+princess,"n. 公主；王妃；女巨头
+n. (Princess)人名；(英)普琳西丝；"
+condemn,"vt. 判刑, 责备, 谴责
+[法] 定罪, 判刑, 宣告有罪"
+dare,[网络] 滥用药物机构
+ask for somebody's hand in marriage,无
+prince,"n. 王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物"
+disturbing,"a. 引起烦恼的, 令人不安的"
+fall in love, 陷入爱河（歌名）; [电影]追爱总动员
+at first sight,乍一看
+unwilling,"a. 不愿意的, 勉强的
+[法] 不愿意的, 勉强的, 不服从的"
+seize,"vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握
+vi. 突然抓住, 利用"
+demand,"n. 要求, 需求, 需要
+v. 要求, 查询"
+grab,"n. 抓握, 掠夺, 强占, 东方沿岸帆船
+vi. 抓取, 抢去
+vt. 攫取, 捕获, 霸占"
+evident,"a. 显然的, 明显的"
+scold,"n. 好骂街的人, 责骂
+v. 责骂"
+merciful,"a. 仁慈的, 慈悲的"
+dawn,"n. 破晓, 黎明
+vi. 破晓"
+deadline,"[计] 静线
+[化] 安全界线"
+unite,"vi. 联合, 接合, 混合
+vt. 使联合, 统一, 使粘合, 使结合"
+grand,"a. 庄重的, 壮观的, 显赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢的
+[法] 重大的, 主要的, 伟大的"
+broken,"a. 坏掉的, 打破的, 断掉的
+break的过去分词"
+opportunity,"n. 机会, 时机"
+unemployment,"n. 失业, 失业人数
+[经] 失业"
+personnel,"n. 人员, 人事部门, 人事科(处)
+[经] 人事, 全体人员, 职工"
+department,[网络] 部门
+chorus,"n. 合唱队, 齐声
+v. 齐声说道, 合唱"
+sore,"a. 悲伤的, 痛的, 引起痛苦的
+n. 痛处, 溃疡, 疮"
+throat,"n. 咽喉, 喉咙, 嗓音
+vt. 用喉音说, 开沟于"
+composer,"n. 作曲家, 作家, 调停者"
+motherland,n. 祖国；母国
+Austria,n. 奥地利
+tutor,"n. 家庭教师, 导师, 助教, 监护人
+vt. 当...的教师, 教, 指导, 约束, 克制
+vi. 当家庭教师, 受家庭教师的指导"
+symphony,"n. 交响乐, 交响曲"
+bachelor,"n. 单身汉, 学士
+[法] 学士, 单身汉"
+flute,"n. 笛, 横笛, 凹槽
+vi. 吹笛子
+vt. 用长笛奏, 刻凹槽于"
+kindergarten,n. 幼稚园
+folk,"n. 人们, 家人, 亲属, 民族
+a. 民间的"
+ballet,n. 芭蕾舞
+swan,"n. 天鹅, 天鹅星座, 有才华的诗人
+vi. 闲荡, 蜿蜒而行"
+album,"n. 粘贴簿, 唱片套
+[医] 白色物"
+collection,"n. 收集, 采集, (一批)收藏品, 募捐
+[医] 收集; 收集品, 标本"
+chart,"n. 图表, 海图
+vt. 制成图表
+[计] 图表"
+blues,[网络] 从英语
+root,"n. 根, 根本, 根源, 基础, 底部
+vt. 使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱
+vi. 生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持"
+slavery,"n. 奴隶的身分, 奴隶状态, 奴隶制度
+[法] 奴隶制度, 奴役, 苦役"
+tendency,"n. 趋向, 倾向
+[医] 趋向, 趋势"
+format,"n. 开本, 版式, 形式, 格式
+vt. 格式化
+[计] 格式; DOS外部命令:对磁盘进行格式化"
+spring up,出现
+trumpet,"n. 喇叭, 小号, 喇叭声
+vi. 吹喇叭
+vt. 用喇叭吹出, 吹嘘"
+liberty,"n. 自由, 特权, 许可, 冒失
+[法] 自由, 自由权, 自由区域"
+rock and roll,摇滚乐
+gradual,"a. 逐渐的, 渐增的
+n. 弥撒升阶圣歌"
+decline,"n. 衰退, 跌落, 下降
+vt. 使降低, 婉谢
+vi. 下降, 衰落, 偏斜"
+trend,"n. 趋势, 倾向, 走向
+vi. 倾向, 转向
+[计] 趋势"
+rhythm,"n. 旋律, 节奏, 韵律, 匀称, 张弛节律
+[医] 节律"
+rattle,"vt. 使嘎嘎响, 喋喋不休地说
+vi. 格格响, 喋喋不休
+n. 格格声, 拨浪鼓, 喋喋不休的话"
+comet,n. 彗星
+band,[网络] B提供住宿及早餐；连接两个并列成份
+seek,"vt. 寻求, 寻找, 探索, 追求, 搜索, 请求
+vi. 寻找, 搜索
+[计] 查找"
+prejudice,"n. 偏见, 成见, 侵害
+vt. 使存偏见, 使有成见, 侵害"
+discrimination,"n. 差别, 岐视, 辨别力
+[化] 鉴别"
+scream,"n. 尖叫声
+vi. 尖叫, 大笑, 尖啸, 令人震惊
+vt. 尖叫着说, 大叫大嚷着要求"
+break up,"v. 拆散；打碎；剖割(兽体等)；破坏
+[网络] 分手；结束；分解"
+mural,"a. 壁的, 壁上的, 壁似的
+n. 壁画"
+still life,静物
+abstract,"a. 抽象的, 深奥的
+n. 摘要, 抽象概念
+vt. 摘要, 提炼, 使抽象化
+[计] 摘录; 摘要; 抽象"
+Spain,n. 西班牙
+birthplace,出生地
+architecture,"n. 建筑学, 建筑式样
+[计] 体系结构"
+output, [林]出材率
+medium,"n. 媒体, 方法, 媒介
+a. 半生熟的, 中间的
+[计] 媒体, 中"
+Cubism,n. 立体派
+acute,"a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的
+[医] 急性的; 尖锐的"
+cube,"n. 立方体, 立方
+[机] 立方体, 立方"
+rectangle,"n. 长方形, 矩形
+[化] 矩形"
+consensus,"n. 合意, 一致, 同感
+[计] 合意"
+calculate,"v. 计算, 预测, 计划, 打算"
+helicopter,"n. 直升机
+vt. 由直升机运送
+vi. 乘直升机"
+tank,"n. 槽, 箱, 柜, 罐, 池塘, 储水池, 坦克
+vt. 储于箱中"
+Impressionism,"n. 印象主义, 印象派"
+shadow,"n. 阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护
+vt. 遮蔽, 使朦胧, 预示, 尾随
+vi. 渐变, 变阴暗
+[计] 阴影"
+water lily,睡莲
+pond,"n. 池塘
+v. 筑成池塘"
+Impressionist,"n. 印象主义者, 印象派作家"
+oil painting, 油画
+starry,"a. 星光照耀的, 多星的, 星形的, 明亮的"
+commit,"vt. 委托(托付), 犯罪, 指派...作战, 使承担义务
+[法] 犯, 做, 把...交托给"
+being,"n. 存在, 性质, 生命, 人, 生物, be的现在分词"
+reward,"n. 报酬, 酬谢, 赏金
+vt. 奖赏, 酬谢, 给...应有报应"
+agent,[网络] 代理；智能体；软件代理
+franc,n. 法郎
+upwards of,"...以上, 多于..."
+be off to,以…开始
+gallery,"n. 走廊, 最高楼座, 画廊, 收集, 图库
+[计] 图库"
+changeable,a. 可改变的
+ankle,"n. 踝
+[医] 踝, 踝关节"
+suite,"n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事
+[电] 程序组"
+accommodation,"n. 膳宿, 预订铺位, 适应性调节, 调和, 贷款
+[医] 调节(眼); 适应"
+dormitory,n. 宿舍
+canal,"n. 运河, 水道, 管, 沟渠
+vt. 开运河"
+passer-by,无
+souvenir,n. 纪念品
+admission,"n. 准许进入, 入场费, 录用, 承认
+[经] 加入, 入股"
+scenery,"n. 风景, 景色, 舞台布景"
+scholarship,"n. 学问, 学术成就, 奖学金"
+cloth,"n. 布料, 织品, 布
+[建] 布"
+slice,"n. 薄的切片, 一部分, 菜刀
+vt. 切成薄片, 切下
+vi. 切
+[计] 片"
+apron,"n. 围裙；[航] 停机坪；舞台口
+vt. 着围裙于；围绕
+n. (Apron)人名；(俄)阿普龙"
+chef,n. 厨师
+seaweed,海苔
+cut up,"na. 割裂；弄伤；歼灭(敌军)；使心痛
+[网络] 切碎；剪碎；宰后得肉"
+onion,"n. 洋葱
+vt. 因洋葱使掉泪"
+pineapple,[网络] 凤梨；菠萝
+eggplant, 茄
+seashell, 贝壳
+lay out,"n. 布局；设计；规划；安排
+[网络] 布置；摆开；花费"
+pillow,"n. 枕头, 靠垫, 枕状岩
+vt. 作...的枕头, 垫, 枕于
+vi. 靠在枕上"
+disgusting,a. 令人厌恶的
+aluminium,铝
+spray,"n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝
+vt. 喷雾, 扫射, 喷射
+vi. 喷, 溅开"
+paintbrush,漆刷
+tin,"保持,握,容纳"
+dip,"v. 浸, 降下, 把(手、勺等)伸入, 舀取
+n. 浸, 涉猎
+[计] 双列直插式组件, 分布式输入输出系统, 双排直插封装"
+wrinkle,"n. 皱纹, 妙计, 方法, 技巧
+vi. 起皱
+vt. 使起皱纹"
+cut something out,无
+cut something out of something,无
+have a go," 企图, 尝试; 抱怨"
+have a go at,"尝试一下,试试看"
+dragon,"n. 龙；凶暴的人，凶恶的人；严厉而有警觉性的女人
+n. (Dragon)人名；(匈)德劳贡；(英、法、芬、罗、匈)德拉贡"
+representative,"n. 代表, 众议员, 典型
+a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
+spokesman,n. 发言人；代言人
+criterion,"n. 标准, 准则, 规范
+[化] 判据"
+finance,"n. 财政, 财务
+vt. 供给...经费, 负担经费
+vi. 筹措资金"
+in defence of,为保卫…;为…辩护
+restriction,"n. 限制, 限定, 约束
+[计] 限定"
+deliberately,adv. 故意地
+boycott,"n. 联合抵制
+vt. 联合抵制"
+hatch,"n. 孵化, 舱口
+vt. 孵, 孵出, 策划
+vi. 孵化"
+sponsor,"n. 保证人, 赞助者, 发起者, 倡议者, 教父
+vt. 发起, 赞助, 倡议"
+modest,"a. 谦逊的, 羞怯的, 端庄的, 适度的
+[经] 适当的"
+expose,"vt. 使暴露, 使曝光, 揭穿, 陈列
+[医] 暴露, 露置"
+contradict,"vt. 反驳, 与...抵触, 与...矛盾
+vi. 反驳"
+resemble,"vt. 相似, 类似"
+edge,"n. 边缘, 尖锐, 刀刃, 优势
+vt. 使锐利, 挤进, 镶边
+vi. 缓缓移动"
+broad,二级公路
+overlook,"vt. 忽略；俯瞰；远眺；检查；高耸于…之上
+n. 忽视；眺望"
+entry,"n. 记录；词条；登录；录入
+[网络] 进入；条目；入口"
+preference,"n. 偏爱, 优先, 喜爱物
+[计] 首选项"
+top-ranking,无
+swift,"swift
+[swift]
+adj.
+迅速的，快速的，快速进行的
+突然发生的；立刻的
+敏捷的，反应快的
+立即作出的，到来(或作出)得快的；短暂的
+机警的；动辄…的(与 to 连用)
+adv.
+[多用以构成复合词]快，迅速地；敏捷地
+n.
+【鸟类】雨燕科(Apodidae)鸟类
+[亦作 swift moth,ghost moth]【昆虫】蝙蝠蛾[蝙蝠蛾科(Hepialidae)蛾]
+【动物】(爬行迅速的)小蜥蜴( = spiny lizard)
+【纺织业】
+绷架；纱框；箴子
+(梳棉机等的)大滚筒；大锡林
+变形：
+adj.
+swifter
+. swiftest"
+laundry,"n. 洗衣店, 洗好的衣服, 洗涤
+[机] 洗衣作, 洗衣店, 洗衣房"
+maid,"n. 少女, 未婚女子, 女仆"
+disappointment,n. 失望；沮丧
+formal,"a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的
+n. 正式的社交活动"
+tiresome,"a. 累人的, 烦人的"
+script,"n. 手迹, 手稿, 正本, 手写体
+vt. 改编为演出本
+[计] 手写体, 小型程序"
+shoot,"n. 射击, 狩猎, 芽, 射伤, 发射, 发芽, 急流, 推力, 摄影, 急送, 滑运道, 浪费
+vt. 射击, 射中, 损毁, 拍摄, 喷出, 投射, 挥出, 飞速行进, 挥霍, 给...注射
+vi. 射出, 射击, 发出, 拍电影, 射门, 发芽"
+sincere,"a. 诚实的, 正直的, 真挚的, 纯净的"
+congratulation,"n. 祝贺, 恭喜"
+screenwriter,n. 编剧家；电影剧本作家
+full-length,无
+robbery,"n. 抢掠, 抢夺
+[法] 强盗, 抢劫, 劫掠"
+anecdote,"n. 轶事, 奇闻"
+biography,n. 传记
+accumulate,"v. 积聚, 堆积"
+popcorn,爆粒玉米
+salty,"a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有经验的"
+tense,"a. 紧张的, 拉紧的
+v. (使)紧张, (使)拉紧
+n. 时态"
+thriller,"n. 使人激动的东西, 使人毛骨悚然的东西, 使人毛骨悚然的小说"
+paramount,"n. 首长, 最高当局
+a. 最重要的, 最高的, 至上的"
+touchstone,[岩] 试金石
+conquer,"vt. 克服, 征服, 战胜
+vi. 得胜"
+concubine,"n. 妾, 姘妇
+[法] 妾, 姘妇, 情妇"
+lantern,"n. 灯笼, 提灯, 航标灯
+vt. 装上提灯"
+philosopher,"n. 哲学家, 哲人, 思想开创人, 达观的人
+[法] 哲学家, 哲学研究者"
+fantasy,"n. 幻想, 想象的产物
+[医] 幻想"
+scar,[网络] S号汽车
+forehead,前头部
+wizard,"n. 男巫, 术士, 奇才
+a. 男巫的, 巫术的
+[计] 向导"
+witch,"n. 巫婆, 女巫
+vt. 施巫术, 迷惑"
+evil,"n. 邪恶, 不幸, 罪恶
+a. 邪恶的, 不幸的, 有害的, 讨厌的"
+institution,[网络] 刚刚开始研究中国制度；新制度经济学把制度
+parallel,"n. 平行, 对比, 相匹敌之物
+a. 平行的, 相似的
+vt. 与...平行, 与...相似, 相比, 使平行
+[计] 并联; 并行"
+curriculum,"n. 课程
+[医] 课程, 学程"
+contradictory,"a. 反驳的, 反对的, 抗辩的
+n. 矛盾因素, 对立物"
+partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
+fierce,"a. 凶猛的, 猛烈的, 热烈的, 暴躁的"
+zoom,"n. 急速上升, 变焦摄影, 嗡嗡声
+vi. 猛增, 急速上升, 摄象机移动
+vt. 使摄象机移动
+[计] 缩放"
+broom,"n. 扫帚, 金雀花
+vt. 扫除"
+dizzy,"a. 晕眩的, 眼花缭乱的
+vt. 使晕眩"
+attraction,"n. 吸引, 吸引人的事物, 吸引力
+[医] 吸引"
+show off,"炫耀, 卖弄, 使显眼"
+disappoint,vt. 使失望
+give thought to,考虑，想一想

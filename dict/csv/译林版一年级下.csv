@@ -1,68 +1,122 @@
-﻿let's,
-let us,
-count,"v.数,计算,计算在内,认为,有价值n.计数,计算,注意,伯爵"
-Cool!,
-how many,
-marble,"n.大理石,(玩具)弹球.石弹子,雕刻品;adj.大理石的,冷酷无情的,坚硬的"
-one," pron.一个人,任何人,一方 num.一,一个adj.一方的,某一,同样的"
-two," num.二,两个"
-three, num.三
-four," num.四,四个,第四(卷,章,叶等)"
-yellow,n.黄色adj.黄色的
-five," num.五,五个(人或物)n.五个一组,<口>五厘息金的证券"
-pencil,n.铅笔
-Ouch!,
-I'm sorry.,
-That's OK.,
-book,"n.书,书籍,卷,篇,帐簿,名册,工作簿v.登记,预订,控告"
-ruler,"n.统治者,管理者,尺,直尺n.标尺,划线板,划线的人"
-rubber,"n.橡皮,橡胶"
-like,"n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
-carrot,n.胡萝卜
-Me too.,
-onion,"n.洋葱vt.加洋葱于,因洋葱掉泪"
-"No, thanks.",
-pea,
-"Yes, please.",
-we, pron.我们
-all,"adj.全部的,所有的,整个的adv.完全,更加,越发 pron.全部"
-pepper,n.胡椒粉
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-the, art.那
-tree,"n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
-they're,
-they are,
-flower,"n.花,开花的植物,花卉,精华,盛时vi.开花,旺盛,成熟vt.用花装饰,使开花"
-beautiful,"adj.美丽的,很好的"
-bird,"n.鸟,<俚>人vi.在野外观察或鉴别鸟类"
-happy,"adj.快乐的,幸福的,陶醉于...的,恰当的"
-kite,"n.风筝,(微风时使用的)高而轻的帆,<俚>[商]空头支票,试探性行动vi.象风筝一样飞,轻快地移动,使用空头支票vt.使上升,骗钱"
-colourful,"adj.富色彩的,华美的"
-what's,
-what is,
-What's this?,
-ladybird,n.瓢虫
-cute,"adj.可爱的,聪明的,伶俐的,装腔作势的"
-cicada,n.蝉
-butterfly,n.[动]蝴蝶 蝶泳
-dragonfly,n.蜻蜓
-Are you ready?,
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-jump,"n.跳跃,上涨,惊跳vt.跳跃,跃过,突升,使跳跃vi.跳跃,暴涨"
-Well done!,
-hop,"v.单脚跳,(鸟,蛙等)跳跃n.蛇麻草"
-walk,"vi.步,行,走n.步行,散步,步,行道"
-What's that?,
-Shh!,
-pig,"n.猪,猪肉,贪婪的人v.生小猪,贪婪地吃"
-Baa!,
-lamb,"n.小羊,羔羊v.生小羊"
-Quack!,
-duck,"n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
-cow,"n.母牛,大型母兽vt.威吓"
-in," prep.在...之内(上),在...期间,从事于,符合,穿着;adv.进入,朝里,在家,已到达(来临);adj.在里面的,执政的;n.执政者,入口;India,印度;In,元素铟(indium);Intelligent Network,智能网络"
-bottle,n.瓶子vt.用瓶装
-hankie,"n.(=handkerchief)手帕,围巾"
-and," conj.和,及,并,然后,接着又 /conj.及(或)"
-sticker,"n.不屈不挠的人,滞销物,滞销货"
-yo-yo,
+﻿let's,abbr. let us 让我们
+let us,[网络] 让我们；让我们自己；让我们一起
+count,"v. 重要；认为；算作；包括
+n. 总数；点数；数出总数；（某物质在某物或面积中）量的计数
+[网络] 计算；数量；数数"
+Cool!,"n. 凉爽, 凉爽的空气
+a. 凉爽的, 冷淡的, 冷静的
+vi. 冷却, 平息
+vt. 使冷却, 使平静"
+how many, 几何；几；多少；几多
+marble,"n. 大理石, 石弹, 雕刻品
+a. 大理石的, 冷酷无情的, 有大理石花纹的"
+one," [医]〔后缀〕意为酮, 在化学中用以表示有两个烃基附在羰基上的一种化合物"
+two,"num. 二, 二个"
+three,"num. 三, 三个"
+four,"num. 四, 四个
+[机] 四冲程循环"
+yellow,"n. 黄色
+a. 黄色的"
+five,"num. 五, 五个"
+pencil,"n. 铅笔, 色笔, 眉笔, 画笔, 光线束
+vt. 用铅笔写或涂, 草拟"
+Ouch!,"interj. 哎唷(表剧痛)
+n. 扣环, 胸针, 珠宝饰物"
+I'm sorry.,抱歉
+That's OK.,[网络] 不用了；可以；没有关系
+book,[计] Adobe FrameMaker Book文件
+ruler,量尺
+rubber,"n. 橡皮, 橡胶, 做摩擦动作的人, 按摩师, 决胜盘
+vt. 用橡胶制造, 涂橡胶于"
+like, 类似…的；有…特征的
+carrot,"n. 胡萝卜
+[医] 胡萝卜"
+Me too., 我也是
+onion,"n. 洋葱
+vt. 因洋葱使掉泪"
+"No, thanks.",别管闲事
+pea,"n. 豌豆, 似豌豆的东西"
+"Yes, please.",[网络] 是的；是的谢谢；那就麻烦你了
+we,"pron. 我们；咱们；人们
+[网络] 世界精英(World Elite)；是我们；我们的"
+all,"pron. 一切；全部；大家；全都
+adj. 一切；全；整个；全体
+adv. 都；全部；全身；那么
+n. 一切；全部；全体
+[网络] 所有；所有的；全部的"
+pepper,"n. 胡椒粉, 胡椒, 辣椒
+[化] 胡椒; 辣椒; 花椒"
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+the,"art. 这个；那个；河流；不言而喻的某事物
+defa. 此；指已提到或易领会到的人或事物
+[网络] 定冠词；这些；表示一类人"
+tree,[网络] 树；树结构；连通图为树
+they're,abbr. they are 他们是
+they are,无
+flower,"n. 花, 开花植物, 精华, 盛时
+vi. 开花, 发育, 旺盛, 成熟
+vt. 用花装饰, 使开花"
+beautiful,"adj. 美丽的
+出色地
+出色的
+迷人的
+迷人地"
+bird,"n. 鸟, 羽毛球
+vi. 打鸟"
+happy,[网络] -快乐
+kite,"n. 风筝, 筝帆, 空头支票, 骗子
+vi. 象风筝一样飞, 轻快地移动, 使用空头支票
+vt. 使上升, 骗钱"
+colourful,"a. 颜色丰富的, 鲜艳的, 艳丽的, 多色的, 丰富多彩的, 吸引人的, 引人入胜的
+[计] 有色的"
+what's," （尤当 has 为助动词时, what is 或 what has 的常用口语形式）; 乌"
+what is,[计] whatis命令
+What's this?,无
+ladybird,n. 瓢虫
+cute,"a. 可爱的, 聪明的, 伶俐的
+[医] 品他病"
+cicada,n. 蝉
+butterfly,"n. 蝴蝶
+[医] 蝶式棉块, 翼形皮癣, 纸蝶"
+dragonfly,[网络] 蜻蜓；龙虫；飞龙在天
+Are you ready?,无
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+jump,"n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+Well done!, 做得不错
+hop,comb.form 表示“频繁变换”：carhop
+walk,"n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所
+vi. 走路, 步行, 处世
+vt. 走过, 遛, 使走, 护送...走"
+What's that?,无
+Shh!,"int. 嘘, 安静一点, shew [古]show"
+pig,"n. 猪, 猪肉, 贪婪的人, 猪一样的人
+v. 生小猪, 象猪般地生活"
+Baa!,abbr. Bachelor of Applied Arts 应用文学学士; British Airports Authority 英国飞机场管理局
+lamb,[网络] 爱天使音乐宝贝；贝黎诗；快到洞里来
+Quack!,"n. 鸭叫声, 冒牌医生, 冒充内行之人
+a. 冒牌医生的
+v. 嘎嘎叫, 当冒牌医生, 夸大广告"
+duck,"n. 鸭子
+vi. 没入水中, 闪避
+vt. 猛按...入水, 躲避"
+cow,"n. 母牛, 母兽
+vt. 威胁"
+in, 很多人参加的活动
+bottle,"n. 瓶子, 酒瓶
+vt. 装瓶, 抑制, 围困"
+hankie,n. 手帕
+and,"conj. 与；和；而；又
+n. 附加条件；附加细节
+[网络] 并且；而且；及"
+sticker,"n. 屠夫, 尖刀, 刺, 芒, 尖物, 携带尖刀者, 张贴物, 滞销品, (非正式)难题
+[经] 呆滞商品"
+yo-yo,无

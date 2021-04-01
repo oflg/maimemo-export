@@ -1,65 +1,80 @@
-﻿coronavirus,"n.[微]日冕形病毒,冠状病毒"
-novel coronavirus,
-2019-nCoV,
-reservoir for virus,
-pneumonia,n.[医] 肺炎
-novel coronavirus pneumonia,
-NCP,
-contagious,"adj.传染性的,会感染的"
-infectious,"adj.有传染性的,易传染的,有感染力的"
-outbreak,"n.(战争的)爆发,(疾病的)发作"
-human-to-human transmission,
-droplet transmission,
-imported case,
-confirmed case,
-suspected case,
-secondary infection case,
-incubation period,
-asymptomatic infection,
-symptomless spreader,
-close contact,
-patient in critical condition,
-fatality rate,
-death toll,
-symptom,"n.[医][植]症状,征兆"
-fever,"n.发烧,发热,热病,狂热,高度兴奋v.(使)发烧,(使)患热病,(使)狂热"
-dry cough,
-shortness of breath,
-breathing difficulty,
-respiratory infection,
-"fever, cough and difficulty in breathing",
-acute respiratory infection symptom,
-seafood market,
-ground zero,
-illegal wild animals transaction,
-contain the spread,
-contain the outbreak,
-combat the virus,
-first-level public health emergency response,
-epidemic prevention and control,
-Public Health Emergency of International Concern,
-PHEIC,
-makeshift hospital,
-mobile cabin hospital,
-the lockdown of a city,
-a city is on lockdown,
-seal off the city,
-evacuate diplomats,
-be under medical observation,
-quarantine,"n.检疫,隔离,(政治或商业上的)封锁,检疫期间vt.检疫,使在政治或商业上孤立"
-medical supplies,
-vaccine,"adj.疫苗的,牛痘的n.疫苗"
-cure,"v.治愈,治疗n.治愈,痊愈"
-mask,"n.面具,掩饰,石膏面像vt.戴面具,掩饰,使模糊vi.化装,戴面具,掩饰,参加化装舞会"
-face mask,
-protective clothing,
-protective suits,
-goggles,
-disposable gloves,
-National Health Commission,
-NHC,
-World Health Organization,
-WHO,
-Chinese Center for Disease Control and Prevention,
-National Healthcare Security Administration,
-medical institution,
+﻿coronavirus,[病毒] 冠状病毒
+novel coronavirus,无
+2019-nCoV,无
+reservoir for virus,无
+pneumonia,"n. 肺炎
+[医] 肺炎"
+novel coronavirus pneumonia,无
+NCP,[计] 网络控制程序
+contagious,"a. 触染性的, 会蔓延的
+[医] (接)触(传)染的"
+infectious,"a. 有传染性的, 易传染的
+[医] 传染性的"
+outbreak, 超欠挖
+human-to-human transmission,无
+droplet transmission,飞沫传播
+imported case,无
+confirmed case,确认病例
+suspected case,疑似病例
+secondary infection case,无
+incubation period,[医] 潜伏期; 孵育期
+asymptomatic infection,无症状感染
+symptomless spreader,无
+close contact,紧密接触
+patient in critical condition,无
+fatality rate,[医] 致死率
+death toll,n. 死亡人数
+symptom,"n. 症状, 征候, 征兆
+[医] 症状"
+fever,"n. 发烧, 发热, 热病
+[医] 发热, 热"
+dry cough,[医] 干咳
+shortness of breath,"[医] 呼吸浅促, 呼吸浅短, 气促"
+breathing difficulty,无
+respiratory infection, [医]呼吸道感染
+"fever, cough and difficulty in breathing",无
+acute respiratory infection symptom,无
+seafood market,无
+ground zero,n. 开始; 起点; 爆心投影点
+illegal wild animals transaction,无
+contain the spread,无
+contain the outbreak,无
+combat the virus,无
+first-level public health emergency response,无
+epidemic prevention and control,无
+Public Health Emergency of International Concern,无
+PHEIC,无
+makeshift hospital, 临时医院
+mobile cabin hospital,无
+the lockdown of a city,无
+a city is on lockdown,无
+seal off the city,无
+evacuate diplomats,无
+be under medical observation,无
+quarantine,"n. 隔离, 封锁交通, 检疫期
+vt. 隔离, 排斥"
+medical supplies,n. 医药用品；医疗设备和用品
+vaccine,"n. 牛痘苗, 疫苗
+a. 疫苗的, 牛痘的"
+cure,"n. 治疗, 治愈, 治疗法
+vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化
+vi. 受治疗, 被加工处理, 被硫化"
+mask,"n. 面具, 假面具, 掩饰, 石膏面模
+vt. 戴面具, 掩饰, 使模糊
+vi. 化装, 戴面具, 掩饰, 参加化装舞会
+[计] 屏蔽; 掩码"
+face mask,"[化] 面具; 防护面具
+[医] 面印模罩, 面罩"
+protective clothing,[医] 防护衣
+protective suits,无
+goggles,"n. 护目镜, 风镜
+[化] 防护镜; 防护眼镜; 护目镜; 眼罩"
+disposable gloves, [医]用后可弃手套
+National Health Commission,无
+NHC,[网络] 下一跳客户机；宿主细胞
+World Health Organization,"(联合国)世界卫生组织
+[医] 世界卫生组织"
+WHO,[医] 世界卫生组织
+Chinese Center for Disease Control and Prevention,无
+National Healthcare Security Administration,无
+medical institution,[医] 医疗机构

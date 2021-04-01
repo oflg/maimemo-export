@@ -1,237 +1,426 @@
-﻿across,"adv.横过,交叉地,在对面 prep.越过,交叉,在...的那边,在...对面那边"
-boot,"n.<美> (长统)靴,靴子v.导入"
-continental,"adj.大陆的,大陆性的n.欧洲人"
-face,"n.脸,面容,表情,威信,正面,地形,外观vt.面对,面向,面临,承认,抹盖vi.朝,向"
-range,"n.山脉,行列,范围,射程vt.排列,归类于,使并列,放牧vi.平行,延伸,漫游"
-landmark,"n.(航海)陆标,地界标,里程碑,划时代的事,"
-gallery,"n.走廊、戏院、教堂等中最高的楼座,美术陈列室,画廊,图库"
-situated,"adj.位于,被置于境遇,处于...的立场"
-symbol,"n.符号,记号,象征"
-located,
-architect,n.建筑师
-project,"n.计划,方案,事业,企业,工程v.设计,计划,投射,放映,射出,发射(导弹等),凸出"
-sculpture,"n.雕刻,雕刻品,雕塑,雕塑品,[地理] 刻蚀v.雕刻,雕塑,刻蚀"
-birthplace,n.诞生地
-civilisation,n.<主英>=civilization
-ancient,"adj.远古的,旧的"
-opposite,"adj.相对的,对面的,对立的,相反的,对等的,对应的n.相反的事物"
-sign,"n.标记,符号,记号,征兆,迹象,征候v.签名(于),署名(于)～,签署"
-agreement,"n.同意,一致,协定,协议"
-whereabouts,"n.下落,行踪,所在之处adv.在何处n.(用作单或复)行踪,下落,所在"
-govern,"v.统治,支配,管理"
-head,"n.头,头脑,领袖,(队伍,名单等)最前的部分,人,顶点vt.作为...的首领,朝向,前进,用头顶vi.成头状物,出发adj.头的,主要的"
-representative,"n.代表adj.典型的,有代表性的"
-parliament,"n.国会,议会"
-region,"n.区域,地方,(世界上某个特定的)地区,(艺术,科学等的)领域,(大气,海水等的)层"
-geographical,"adj.地理学的,地理的"
-feature,"n.面貌的一部分(眼,口,鼻等)特征,容貌,特色,特写vt.是...的特色,特写,放映vi.起重要作用"
-produce,"n.产物,农产品vt.提出,出示,生产,制造,结(果实),引起,招致,创作"
-hunger,"n.饥饿,欲望,渴望v.饥饿"
-income,"n.收入,收益,进款,所得"
-poverty,"n.贫穷,贫困,贫乏,缺少"
-human,"n.人,人类adj.人的,人类的,人性的,有同情心的"
-development,n.发展
-index,"n.索引,[数学]指数,指标,(刻度盘上)指针vt.编入索引中,指出vi.做索引"
-measure,"n.尺寸,量度器,量度标准,方法,测量,措施vt.测量,测度,估量,分派,权衡,调节vi.量"
-goal,"n.目的,目标,守门员,球门,(球赛等的)得分"
-expectancy,"n.期待,期望"
-position,"n.位置,职位,立场,形势,阵地vt.安置,决定...的位置"
-educate,"vt.教育,训练,培养v.教育"
-figure,
-household,"n.一家人,家庭,家族,王室adj.家庭的,家族的,家属的,普通的,平常的"
-homeless,"adj.无家的,无家可归的"
-charity,"n.慈善,施舍,慈善团体,"
-crowded,"adj.拥挤的,塞满的"
-freeway,n.高速公路
-inhabitant,"n.居民,居住者"
-similarity,"n.类似,类似处"
-unfortunate,"adj.不幸的,不合宜的,不吉利的,使人遗憾的n.不幸的人"
-location,"n.位置,场所,特定区域,<美>[电影]外景拍摄场地"
-tourism,"n.观光事业,游览"
-transport,"n.传送器,运输,运输机,激动,流放犯,狂喜vt.传送,运输,流放,放逐"
-industrial,"adj.工业的,产业的,实业的,从事工业的n.工业工人,[商]工业股票"
-polluted," vbl.污染,玷污"
-smart,"n.刺痛,痛苦adj.巧妙的,聪明的,漂亮的,潇洒的,刺痛的,剧烈的,厉害的,敏捷的vi.刺痛,懊恼 轻快地,严厉地,灵巧地,精确的,时髦地,大大的"
-vast,"adj.巨大的,辽阔的,大量的,巨额的"
-entertainment,"n.款待,娱乐,娱乐表演"
-exchange,"vt.交换,调换,兑换,交流,交易n.交换,调换,兑换,交流,交易"
-disaster,"n.灾难,天灾,灾祸"
-flood,"n.洪水,水灾,(因雨)涨潮,[诗]水vt.淹没,使泛滥,注满,充满vi.被水淹,溢出,涌进,喷出,涌出"
-hurricane,"n.飓风,狂风"
-lightning,"n.闪电 (""闪电"") 英国第一种超音速喷气式战斗机,英60年代的主力机种。"
-thunderstorm,n.[气]雷暴
-tornado,"n.旋风,龙卷风,大雷雨,具有巨大破坏性的人(或事物) [军] (""狂风"") 英国、德国、意大利三国合作研制的双座双发超音速变后掠翼战斗机"
-column,"n.圆柱,柱壮物,专栏,纵队"
-experience,"n.vt.经验,体验,经历,阅历"
-cause,"n.原因,导致某事发生的人或事,动机,理由,根据,目标,理想,事业vt.引起,惹起,使(发生),促成"
-current,"adj.当前的,通用的,流通的,现在的,草写的,最近的n.涌流,趋势,电流,水流,气流"
-latitude,"n.纬度,范围,(用复数)地区,行动或言论的自由(范围)"
-furniture,"n.家具,设备,储藏物"
-bury,"vt.埋葬,掩埋,隐藏"
-feather,"n.翎毛,轻的东西,羽毛vi.长羽毛vt.用羽毛装饰,射掉(飞禽)的羽毛"
-fur,"n.毛皮,毛,软毛"
-occur,"vi.发生,出现"
-tropical,"adj.热带的,热情的"
-equator,"n.赤道,赤道似的圈.圆"
-rotating,
-violent,"adj.猛烈的,激烈的,暴力引起的,强暴的"
-wave,"n.波,波浪,(挥手)示意,致意vi.(挥手)示意,致意,波动,飘动,摇动"
-strike,"n.罢工,打击,殴打vt.打,撞击,冲击,罢工,打动,划燃,到达,侵袭vi.打,打击,罢工,抓,敲,搏动,打动,穿透"
-cemetery,"n.墓地,公墓"
-coffin,n.棺材
-ruin,"v.(使)破产,(使)堕落,毁灭n.毁灭,崩溃,(pl.) 废墟,遗迹"
-ash,"n.灰,灰烬,[植]岑树"
-erupt,vt.喷出vi.爆发
-lava,"n.熔岩,火山岩"
-tidal,"adj.潮汐的,定时涨落的"
-volcano,n.火山
-previous,"adj.在前的,早先的adv.在...以前 返回上一级菜单"
-eruption,"n.爆发,火山灰,[医]出疹"
-possibility,"n.可能性,可能发生的事物"
-earthquake,"n.地震,[喻]在震荡,在变动"
-terrifying,"极大的, 可怕的"
-luckily,adv.幸运地
-thankfully,"adv.感谢地,感激地"
-hopefully,"adv.有希望地,有前途地"
-sadly,"adv.悲痛地,悲哀地"
-fortunately,adv.幸运地
-warning,"n.警告,预告,通知,预兆"
-worldwide,adj.全世界的
-active,"adj.积极的,能起作用的,现行的,[语法]主动的,活动的,活跃的,活性的;n.[语法] 主动语态,积极分子"
-damage,"n.损害,伤害v.招致损害n.[律] (用复数)赔偿金"
-sandstorm,"n.[气]沙暴,沙漠地带的暴风沙"
-frightening,"adj.令人恐惧的,引起突然惊恐的"
-inland,"adj.内陆的,国内的adv.在内地,向内地n.内地"
-mass,"n.块,大多数,质量,群众,大量adj.群众的,大规模的,集中的vt.使集合vi.聚集"
-campaign,"n.[军]战役,(政治或商业性)活动,竞选运动vi.参加活动,从事活动,作战"
-dune,n.(由风吹积而成的)沙丘
-desertification,
-process,"n.过程,作用,方法,程序,步骤,进行,推移vt.加工,处理"
-citizen,"n.市民,公民"
-dust,"n.灰尘,尘土,尘埃vt.掸掉...上的灰尘,撒糖于糕上"
-forecast,"n.先见,预见,预测,预报vt.预想,预测,预报,预兆"
-strength,"n.力,力量,力气,实力,兵力,浓度"
-cycle,"n.周期,循环,自行车,一段时间,整套,(电学)周波vi.循环,轮转,骑自行车vt.使循环,使轮转"
-mask,"n.面具,掩饰,石膏面像vt.戴面具,掩饰,使模糊vi.化装,戴面具,掩饰,参加化装舞会"
-atmosphere,"n.大气,空气,气氛"
-carbon,"n.[化]碳(元素符号C),(一张)复写纸"
-dioxide,n.二氧化物
-chemical,"adj.化学的n.[常pl.] 化学制品,化学药品n.化学药品"
-environment,"n.环境,外界"
-garbage,"n.垃圾,废物"
-melt,"v.(使)融化,(使)熔化,使软化,使感动"
-pollution,"n.污染,玷污"
-recycle,"v.使再循环,反复应用n.再循环,再生,重复利用"
-coastal,"adj.海岸的,沿海的"
-concerned,"adj.关心的,有关的"
-evidence,"n.明显,显著,明白,迹象,根据,[物]证据,证物"
-major,"n.<美>[教]主修课,[律]成年人,[乐]大调adj.主修的,成年的,大调的vi.主修"
-urgent,"adj.急迫的,紧急的"
-pollute,"vt.弄脏,污染"
-complain,"v.抱怨,悲叹,控诉"
-nutshell,n.坚果壳
-scary,adj.引起惊慌的
-absolutely,"adv.完全地,绝对地"
-protection,n.保护
-equal,"adj.相等的,均等的,胜任的,平静的,合适的,不相上下的n.相等的事物(或数量),对手,匹敌,同辈vt.等于,比得上"
-importance,"n.重要(性),重大,价值,傲慢"
-philosopher,"n.哲学家,哲人"
-philosophy,"n.哲学,哲学体系,达观,冷静"
-teaching,"n.教学,[宗]教义,教导"
-thinker,"n.思想者,思想家,心智"
-kindness,"n.仁慈,亲切,好意,善意"
-order,"n.次序,顺序,正常(工作)状态,秩序,会议规则,命令,定购,定单vt.命令,定购,定制"
-principle,"n.法则,原则,原理"
-position,"n.位置,职位,立场,形势,阵地vt.安置,决定...的位置"
-stress,"n.重压,逼迫,压力,重点,着重,强调,重音vt.着重,强调,重读"
-resign,"n.辞去(职务)v.辞去,辞职"
-adviser,"n.顾问,<美> (学生的)指导老师"
-influential,"adj.有影响的,有势力的"
-love,"n.爱,热爱,爱情,爱好,性爱,情人,零vt.爱,热爱,爱好,爱慕vi.爱"
-honesty,"n.诚实,正直"
-justice,"n.正义,正当,公平,正确,司法,审判,欣赏"
-bark,"n.树皮,吠声v.吠,咆哮,剥树皮"
-contribution,"n.捐献,贡献,投稿"
-invent,"vt.发明,创造v.发明"
-leather,"n.皮革,皮革制品"
-monk,"n.修道士,僧侣"
-soft,"adj.软的,柔软的,温和的,温柔的,不含酒精的n.软件"
-category,"n.种类,别,[逻]范畴"
-sutra,"n.佛经,经典"
-inventor,n.发明家
-argument,"n.争论,辩论,论据,论点,～ (for,against),意见"
-freedom,"n.自由,自主,直率,特权"
-fuel,"n.燃料vt.加燃料,供以燃料vi.得到燃料"
-condition,"n.条件,情形,环境,社会地位vt.以...为条件,使达到要求的情况"
-bulletin,"n.公告,报告"
-canal,"n.运河,小道,导管,槽,沟渠vt.开运河"
-civil,"adj.全民的,市民的,公民的,国民的,民间的.民事的,根据民法的,文职的,有礼貌的"
-cliff,"n.悬崖,绝壁"
-dam,"n.水坝,障碍v.控制,筑坝"
-engineering,n.工程(学)
-gorge,"n.咽喉,胃,暴食,山峡,峡谷,障碍物v.狼吞虎咽,塞饱"
-hydro-electric,
-reservoir,"n.水库,蓄水池"
-structure,"n.结构,构造,建筑物vt.建筑,构成,组织"
-terminal,"n.终点站,终端,接线端adj.末期,每期的,每学期的"
-date,"n.日期,日子,(历史上某一)年代,时期,约会,枣椰子vt.约会,定日期vi.注明...的日期,过时 [计] 显示或设置系统日期"
-accommodate,"vt.供应,供给,使适应,调节,和解,向...提供,容纳,调和;vi.适应"
-carving,"n.雕刻品,雕刻"
-construction,"n.建筑,建筑物,解释,造句"
-relic,"n.遗物,遗迹,废墟,纪念物"
-site,"n.地点,场所,遗址vt.定...的地点n.站点"
-Buddhist,
-generate,"vt.产生,发生"
-harness,"n.(全套)马具,系在身上的绳子,甲胄vt.上马具,披上甲胄,利用(河流、瀑布等)产生动力(尤指电力)"
-historical,"adj.历史(上)的,有关历史的"
-narrow,"n.狭窄部分,海峡,隘路adj.狭窄的,精密的,严密的,有限的,气量小的,勉强的,眼光短浅的vi.变窄vt.使变狭窄,使缩小"
-poem,"n.诗,象诗一样,美丽的东西"
-submerge,"v.浸没,淹没,掩没vi.潜水"
-global,"adj.球形的,全球的,全世界的"
-watchtower,n.了望塔
-remove,"vt.移动,开除,移交vi.迁移,搬家n.移动,距离,班级,升级"
-freezing,"adj.冰冻的,严寒的,冷冻用的"
-ridiculous,"adj.荒谬的,可笑的"
-enormous,"adj.巨大的,庞大的,<古>极恶的,凶暴的"
-observatory,"adj.天文台,气象台"
-foggy,"adj.雾深的,模糊的,朦胧的,(玻璃窗等)不明净的"
-crash,"n.碰撞,坠落,坠毁,撞击声,爆裂声v.碰撞,坠落,坠毁,(指商业公司,政府等)破产,垮台"
-because of,
-be known as,
-ever since,
-in terms of,
-on the other hand,
-little by little,
-at the top of,
-at the bottom of,
-make efforts,
-be connected with,
-be close to,
-pick up,
-take off,
-on average,
-end up,
-set fire to,
-catch fire,
-put out,
-take place,
-in all,
-cut down,
-be caught in,
-one after another,
-have a bad effect on,
-take in,
-give out,
-in a nutshell,
-look through,
-be at war with,
-bring up,
-become interested in,
-be proud of,
-in conclusion,
-for the first time,
-date from,
-hold back,
-come true,
-make sense,
-bring an end to,
+﻿across,[网络] 交叉；十字
+boot,"n. 长靴, 踢, 解雇, 效用
+vt. 使穿靴, 踢, 解雇, 有用
+[计] 引导, 自举"
+continental,"a. 大陆的, 洲的
+n. 欧洲大陆人"
+face,"n. 脸, 面容, 正面, 外观
+vt. 面对, 朝, 正视, 面临
+vi. 朝, 向
+[计] 现场可改变的控制元件"
+range,"n. 排, 行, 山脉, 范围, 行列, 射程
+vt. 排列, 归类于, 使并列, 放牧
+vi. 平行, 延伸, 漫游
+[计] 量程; 范围; 域; 距离"
+landmark,"[法] 地界, 界标"
+gallery,"n. 走廊, 最高楼座, 画廊, 收集, 图库
+[计] 图库"
+situated,"a. 位于...的, 坐落在...的, 处于某种境地的
+[法] 坐落...的, 位于...的, 处于某种境地的"
+symbol,"n. 符号, 象征, 代号, 信条
+[计] 符号; 码元"
+located,"a. 处于, 位于；坐落的"
+architect,"n. 建筑师, 设计者, 缔造者"
+project,"n. 计划, 设计, 事业
+vt. 计划, 设计, 投掷, 发射, 使凸出, 放映
+vi. 凸出"
+sculpture,"n. 雕刻, 雕塑
+vt. 雕刻, 雕塑
+vi. 当雕刻师"
+birthplace,出生地
+civilisation,"n. 文明, 文明世界, 文化, 开化, 教化"
+ancient,"a. 古代的, 古老的, 年老的, 旧的"
+opposite,"a. 相对的, 相反的, 对面的
+prep. 对面
+n. 对立面"
+sign,"n. 符号, 招牌, 征兆, 正负号, 手势
+vt. 签名, 打手势表达
+vi. 签名
+[计] 正负号; 符号; 符号字符"
+agreement,"n. 同意, 合约, 协议
+[经] 契约, 协议, 协定"
+whereabouts,"n. 下落, 所在之处
+adv. 在何处"
+govern,"v. 统治, 支配, 管理"
+head,"n. 头；头部；头脑；负责人
+v. 主管；领导；朝（某方向）行进；位于排行之首
+adj. 头的；主要的
+[网络] 海德；磁头；扬程"
+representative,"n. 代表, 众议员, 典型
+a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
+parliament,"n. 国会, 议会
+[法] 会议, 国会, 议院"
+region,"n. 区域, 地带, 地区, 领域, 范围, 区
+[计] 区, 区域"
+geographical,"a. 地理学的, 地理的"
+feature,"n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
+vt. 是...的特色, 特写, 放映
+vi. 起重要作用
+[计] 特性"
+produce,"n. 生产品, 物产, 后代
+vt. 产生, 生产, 提出, 出示
+vi. 生产, 制造"
+hunger,"n. 饥饿, 渴望, 饥荒
+vt. 使挨饿
+vi. 挨饿, 渴望"
+income,"n. 收入, 收益, 流入
+[经] 收益"
+poverty,"n. 贫穷, 贫困, 缺乏
+[医] 贫乏, 缺乏"
+human,"n. 人, 人类
+a. 人类的, 似人类的, 人性的, 有同情心的"
+development,[网络] 开发；的发展；不断发展
+index,"n. 索引, 指针, 指数, 指标
+vt. 编入索引中, 指出
+vi. 做索引
+[计] 下标; 附标; 变址; 索引; 编索引"
+measure,"n. 尺寸, 量度器, 量度标准, 测量, 量具, 程度, 范围, 限度, 分寸, 措施, 方法
+vt. 测量, 测度, 估量, 权衡, 调节, 拿(自己或自己的力量等)作较量
+vi. 度量"
+goal,"n. 目标, 终点, 得分, 球门, 守门员
+vi. 攻门, 射门得分"
+expectancy,"n. 期待, 期望的事物, 嘱望, 希望, 期望, 预期
+[医] 预期"
+position,[网络] 位置
+educate,"vt. 教育, 培养, 训练"
+figure,"n. 数字；人物；图形；价格；（人的）体形；画像
+vi. 计算；出现；扮演角色
+vt. 计算；认为；描绘；象征"
+household,"n. 家眷, 家务, 王室
+a. 家务的, 家常的"
+homeless,"a. 无家的, 无养主的"
+charity,"n. 慈悲, 博爱, 慈善团体, 施舍
+[法] 宽大, 宽恕, 慈善机关"
+crowded,"a. 拥挤的, 塞满的"
+freeway,快速道
+inhabitant,"n. 居民, 居住者
+[医] 居民"
+similarity,"n. 类似, 类似处
+[法] 类似, 相似, 类似事例"
+unfortunate,"a. 不幸的, 不合适的, 不吉利的"
+location,[网络] 偏重于以区位
+tourism,"n. 观光业, 游览
+[经] 旅游业"
+transport,[网络] 运输
+industrial,"a. 工业的, 供工业用的, 工业高度发展的, 产业的
+n. 工业工人, 工业股票"
+polluted,"a. 被污染的, 被玷污的, (美)(非正式)喝得烂醉的"
+smart,[网络] 硬盘错误侦测；硬盘已使用时间；设定工具
+vast,"adj. 辽阔的；巨大的；庞大的；大量的
+n. 〈诗〉广大无边的空间；大海
+[网络] 广阔的；广大的"
+entertainment,"n. 娱乐, 款待, 娱乐表演"
+exchange,"n. 交换, (电话)交换局, 交换机, 汇兑, 交易所
+v. 交换, 交易, 兑换
+[计] 交换; 电话局"
+disaster,n. 灾难，灾祸；不幸
+flood,"n. 洪水, 大量之水, 涨潮
+vt. 淹没, 使泛滥, 注满
+vi. 被淹, 溢出, 涌进"
+hurricane,"n. 飓风, 暴风, 暴风雨"
+lightning,"n. 闪电
+vi. 闪电
+a. 闪电的"
+thunderstorm,n. 雷雨
+tornado,"n. 旋风, 龙卷风, 大雷雨"
+column,n. 纵队，列；专栏；圆柱，柱形物
+experience,"n. 经历, 经验, 体验
+vt. 经历, 经验, 体验"
+cause,"n. 原因；事业；病因；理由
+v. 导致；使；引起；产生"
+current,"n. 涌流, 趋势, 流
+a. 流通的, 现在的, 当前的, 流行的
+[计] 当前的"
+latitude,"n. 纬度, 范围
+[化] 宽容度; 伟度"
+furniture,"n. 家具, 帆具"
+bury,"vt. 埋葬；隐藏
+n. (Bury)人名；(法)比里；(英、西)伯里；(德、意、罗、波、捷、匈)布里；(俄)布雷"
+feather,"n. 羽毛
+vi. 长羽毛
+vt. 用羽毛装饰"
+fur,"n. 毛皮
+vt. 以毛皮制作, 使生苔, 使生水垢
+vi. 生苔, 积水垢"
+occur,"vi. 发生, 被想到, 存在"
+tropical,"a. 热带的, 热情的
+[医] 热带的"
+equator,"n. 赤道
+[医] 赤道, 中纬线"
+rotating,"[医] 旋转的, 转动的"
+violent,"a. 暴力的, 猛烈的, 激烈的, 极端的, 凶暴的"
+wave,"n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变
+vi. 波动, 飘动, 挥手示意, 起伏
+vt. 使波动, 使飘扬, 挥舞, 使成波浪形"
+strike,"n. 罢工, 打击, 殴打
+vt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见
+vi. 打, 打击, 抓, 罢工, 搏动, 触礁, 敲, 响, 穿透, 打动"
+cemetery,"n. 墓地, 公墓
+[法] 公墓, 墓地"
+coffin,"n. 棺材, 灵柩
+vt. 把...装进棺材"
+ruin,"n. 毁灭, 推翻, 废墟
+vi. 毁灭, 衰败, 破坏, 破产, 堕落
+vt. 使毁灭, 毁坏, 使破产"
+ash,辅酶A
+erupt,"vi. 爆发
+vt. 喷出"
+lava,"n. 熔岩, 火山岩
+[医] 火山石(一种顺势疗法药)"
+tidal,"a. 潮汐的, 受潮汐影响的"
+volcano,n. 火山
+previous,"a. 早先的, 前面的, 过急的
+[法] 以前的, 生前的, 前述的"
+eruption,"n. 爆发, 喷出物, 出疹
+[化] 喷发"
+possibility,"n. 可能性, 可能的事
+[法] 可能性, 可能发生的事, 不确定权"
+earthquake,地震
+terrifying,a. 令人恐惧的；骇人的；极大的
+luckily,"adv. 幸运地, 幸亏, 侥幸"
+thankfully,adv. 感激地；感谢地
+hopefully,"adv. 有希望地, 如果希望能实现的话"
+sadly,"adv. 悲痛地, 悲惨地, 悲伤地, 说来遗憾"
+fortunately,"adv. 幸运地, 幸亏"
+warning,"n. 警告, 预告, 预兆, 通知
+[法] 警告, 警戒, 预告; 警告的, 注意的"
+worldwide, 全球的
+active,"a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的
+n. 主动语态, 积极分子"
+damage,"n. 损害, 伤害
+v. 损害"
+sandstorm,[化] 沙暴
+frightening,a. 令人恐惧的；引起突然惊恐的
+inland,"a. 内陆的, 国内的
+n. 内地"
+mass,"n. 块, 大多数, 质量, 大量, 群众, 弥撒
+a. 群众的, 大规模的, 整个的
+vt. 使集合, 集中
+vi. 聚集"
+campaign,"n. 战役, 运动, 竞选运动
+vi. 参加运动, 作战"
+dune,[网络] 沙丘
+desertification,"n. （土壤）荒漠化, 沙漠化"
+process,[网络] 过程；流程；进程
+citizen,"n. 市民, 公民
+[法] 公民, 国民, 市民"
+dust,"n. 灰尘, 尘埃, 粉末, 花粉, 土, 骚乱
+vt. 拂去灰尘, 撒, 弄成粉末
+vi. 拂去灰尘, 化为粉末"
+forecast,"n. 预想, 预测, 预报
+vt. 预想, 预测, 预报
+[计] 趋势预测"
+strength,"n. 力量, 实力, 强度, 浓度, 人数, 抵抗力
+[化] 强度"
+cycle,[网络] -周期
+mask,"n. 面具, 假面具, 掩饰, 石膏面模
+vt. 戴面具, 掩饰, 使模糊
+vi. 化装, 戴面具, 掩饰, 参加化装舞会
+[计] 屏蔽; 掩码"
+atmosphere,"n. 大气, 空气, 气氛
+[医] 大气; 大气压"
+carbon,"n. 碳, 副本, 复写纸
+[化] 碳"
+dioxide,"n. 二氧化物
+[医] 二氧化物"
+chemical,"n. 化学药品
+a. 化学的, 化学上用的"
+environment,"n. 环境, 外界, 围绕
+[计] 环境"
+garbage,"n. 垃圾, 废物
+[计] 无用信息"
+melt,"n. 熔化, 熔化物, 溶解
+v. (使)熔化, (使)溶解, (使)消散, (使)变软"
+pollution,"n. 污染, 玷污
+[化] 污染"
+recycle, [电影]鬼域; 异域
+coastal,"a. 海岸的, 沿海的, 沿岸的
+[法] 海岸的, 沿海的"
+concerned,"adj. 有关的；关心的
+v. 关心（concern的过去时和过去分词）；与…有关"
+evidence,[网络] 证据；大量运用事例证据
+major,"n. 主修课, 成年人, 陆军少校
+a. 主要的, 较多的, 大部分的, 成年的, 严重的
+vi. 主修
+[计] 主要, 主要刻度"
+urgent,"a. 紧急的, 急迫的, 催逼的
+[经] 紧急的, 急迫的"
+pollute,"vt. 污染, 弄脏, 玷污
+[化] 污染"
+complain,"v. 抱怨, 抗议, 控诉"
+nutshell,【无脊椎动物】胡桃蛤
+scary,"a. 容易受惊的, 胆小的, 提心吊胆的"
+absolutely,adv. 绝对地；完全地
+protection,[网络] 保障
+equal,"n. 对手, 匹敌, 同辈
+a. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的
+vt. 等于, 比得上
+[计] 等长度编码"
+importance,"n. 重要, 重要性, 重要地位, 自大
+[机] 重要, 重要性"
+philosopher,"n. 哲学家, 哲人, 思想开创人, 达观的人
+[法] 哲学家, 哲学研究者"
+philosophy,"n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着"
+teaching,"n. 教学, 学说, 教导"
+thinker,"n. 思想者, 思想家"
+kindness,"n. 仁慈, 亲切, 和蔼"
+order,"n. 次序, 规则, 命令
+vi. 命令, 定货
+vt. 整理, 命令, 定购
+n. 顺序, 阶数
+[计] 顺序, 阶数"
+principle,"n. 原则, 原理, 主义
+[化] 原理"
+position,[网络] 位置
+stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
+resign,"v. 重新签署
+[网络] 续签；再签名；再签署"
+adviser,"n. 顾问, 劝告者, 指导教师
+[法] 顾问, 劝告者"
+influential,"a. 有影响的, 有势力的"
+love,[网络] 爱到底；林俊杰；香奈儿香水广告曲
+honesty,"n. 诚实, 公正, 正直"
+justice,"n. 正义, 公平, 公正, 正确, 司法, 审判"
+bark,"n. 树皮, 吠声
+vi. 吠, 叫骂
+vt. 喊出, 剥树皮"
+contribution,"n. 捐助, 捐助之物, 贡献
+[经] 贡献, 捐款, 补助品"
+invent,"vt. 发明, 创作, 虚构
+[机] 发明"
+leather,"n. 皮革, 皮制品, 马镫的皮带
+vt. 覆以皮革, 鞭苔, 抽打
+a. 皮革的, 皮制的"
+monk,"n. 修道士, 僧侣, 和尚"
+soft,[网络] -柔软的
+category,"n. 种类, 类项
+[计] 分类"
+sutra,"n. 箴言, 经典"
+inventor,"n. 发明家
+[法] 发明人, 发明家, 创造者"
+argument,"n. 争论, 论证, 论据, 自变量
+[计] 参数"
+freedom,"n. 自由, 坦率, 特权
+[法] 自由, 自主, 免除"
+fuel,"n. 燃料, 木炭
+vt. 加燃料, 供燃料
+vi. 得到燃料"
+condition,[网络] 要件；经营环境；条件
+bulletin,"n. 公告, 布告, 公报
+[电] 电子布告栏"
+canal,"n. 运河, 水道, 管, 沟渠
+vt. 开运河"
+civil,"adj. 公民的；民间的；文职的；有礼貌的；根据民法的
+n. (Civil)人名；(土)吉维尔；(法)西维尔"
+cliff,"n. 悬崖, 绝壁"
+dam,"n. 水坝；拦河坝；母兽；骒马
+v. （在河上）筑坝
+[网络] 大坝；水闸；堤"
+engineering,"n. 工程学, 工程, 操纵
+[化] 机器; 机器学"
+gorge,"n. 峡谷, 凹槽, 塞饱, 咽喉
+vi. 狼吞虎咽
+vt. 塞饱, 狼吞虎咽地吃"
+hydro-electric,无
+reservoir,"n. 贮水池, 贮藏处, 贮备, 水库
+vt. 储藏"
+structure,"n. 结构；构造；体系；结构体
+v. 使形成体系；系统安排；精心组织
+[网络] 建筑物；组织结构；市场结构"
+terminal,"n. 终端机, 终点, 末端, 极限, 终点站
+a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的
+[计] 终端; 终端设备"
+date,"n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+accommodate,"vt. 使适应, 调和, 通融, 容纳, 向...提供
+vi. 适应"
+carving,"n. 雕刻品, 雕刻, 雕刻术"
+construction,"n. 建筑, 构造, 建筑物
+[化] 施工"
+relic,"n. 遗物, 遗迹, 纪念物, 遗风, 残留物"
+site,"n. 网站；站点；现场；位置
+v. 使坐落在；为…选址
+[网络] 场所；地点；场地"
+Buddhist,"n. 佛教徒
+a. 佛教的"
+generate,"vt. 产生, 发生, 导致
+[电] 产生"
+harness,"n. 马具, 挽具状带子, 甲胄
+vt. 给...上挽具, 驾驭, 披上甲胄, 利用...以产生动力"
+historical,"a. 历史的, 史实的, 历史上的
+[法] 历史性的"
+narrow,"n. 狭窄部分, 隘路
+a. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的
+vi. 变窄
+vt. 使变狭窄"
+poem,"n. 诗, 诗般美的事物"
+submerge,"vt. 使浸水, 使陷入, 淹没
+vi. 潜入水中"
+global,"a. 通用的, 全球的, 球形的, 综合的, 普遍的
+[计] 共用"
+watchtower,了望塔
+remove,"vt. 移动, 调动, 除去, 迁移, 开除, 移交
+vi. 迁移, 移动, 搬家
+n. 班级, 升级, 移动, 搬家, 间距
+[计] 删除"
+freezing,"a. 冰冻的, 冷冻用的, 严寒的
+[化] 冻结; 冻结作用; 凝固; 凝固作用"
+ridiculous,"a. 荒谬的, 可笑的"
+enormous,"a. 巨大的, 庞大的"
+observatory,"n. 天文台, 气象台, 了望台"
+foggy,"a. 雾深的, 模糊的"
+crash,"n. 哗啦声, 猛撞, 崩溃, 粗布
+v. 撞碎, 破碎, (使)...坠毁
+a. 速成的
+[计] 崩溃"
+because of,因为
+be known as,被认为是
+ever since,从那时到现在
+in terms of,"用...的话, 根据, 按照, 在...方面
+[法] 用...话, 以...措词, 按照"
+on the other hand,另一方面
+little by little,渐渐
+at the top of,在…顶部
+at the bottom of,在…的底部
+make efforts,作出努力
+be connected with,与...相连/联系
+be close to,"接近于..., 在...附近, 在...左近"
+pick up,"v. 拾起；探出；重新开始
+[网络] 捡起；拿起；学会"
+take off,"v. (飞机)起飞；出去；拿掉；移送
+[网络] 脱下；脱掉；脱去"
+on average, 平均起来
+end up,"竖着, 结束, 死"
+set fire to,点燃
+catch fire, 着火着火; 失火; 发火; 走水
+put out,"v. 扑灭；熄灭；放出；伸出
+[网络] 关；关熄；消灭，关"
+take place,"na. 发生；举行
+[网络] 产生；多指通过人为安排的发生；进行"
+in all,"总共
+[经] 合计, 全部"
+cut down,"na. 砍倒；削减；减价；夺去…活动力
+[网络] 减少；缩短；降低"
+be caught in,淋雨
+one after another,"接连地
+[计] 批次发送"
+have a bad effect on,无
+take in,"na. 加以考虑；〔美国〕访问；收进；收容
+[网络] 欺骗；吸收；接受"
+give out,"分发, 发出, 发表, 用尽, 精疲力竭"
+in a nutshell,"简括地说, 一句话"
+look through,"看穿, 审核, 浏览, 透过...看去, 从...中显露"
+be at war with,"处于交战状态, 进行竞争"
+bring up,"na. 抚养；教导；教育；在…长大
+[网络] 培养；提出；养育"
+become interested in,对…产生兴趣
+be proud of,"自豪, 高兴"
+in conclusion,最后
+for the first time,第一次
+date from, 始于
+hold back,"na. 阻止；踌躇；隐瞒；抑制
+[网络] 退缩；控制；退缩不前"
+come true,"实现, 成为事实"
+make sense,有意义
+bring an end to,"结束,使完结"

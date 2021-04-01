@@ -1,84 +1,282 @@
-﻿you," pron.你,你们"
-teacher,n.教师
-hello,"int.喂,哈罗"
-your," pron.你的,你们的"
-hi,"int.嗨!(引人注意时的喊声,打招呼)"
-hello,"int.喂,哈罗"
-name,"n.名字,名称,姓名,名誉vt.命名,提名,叫出,指定adj.姓名的,据以取名的"
-friend,"n.朋友,赞助者,助手"
-pupil,"n.学生,小学生,瞳孔"
-his, pron.他的
-her," pron.她的,她"
-pencil,n.铅笔
-pencil box,
-what," pron.什么int.怎么,多么adj.什么adv.到什么程度,在哪一方面n.本质,实质,要素"
-pen,"n.钢笔,围栏,围圈,作家vt.写,关入栏中"
-ruler,"n.统治者,管理者,尺,直尺n.标尺,划线板,划线的人"
-crayon,"n.有色粉笔,蜡笔,粉笔画"
-whose," pron.谁的,那(些)人的"
-blackboard,n.黑板
-desk,"n.书桌,办公桌"
-chair,"n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
-schoolbag,n.书包
-between," prep.在...之间,连接...,由...协力合作"
-beside," prep.在旁边,和...比较"
-forty," num.四十,40n.四十岁"
-fifty,adj.五十
-sixty, num.六十
-seventy, num.七十
-eighty," num.八十,八十个"
-ninety, num.九十
-behind,adv.在后地 prep.在...之后
-he," pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
-she, pron.[主格]她
-month,n.月
-Jan.,
-Feb.,
-Mar.,
-Apr.,
-May,
-Jun.,
-Jul.,
-Aug.,
-Sept.,
-Oct.,
-Nov.,
-Dec.,
-rain,"n.雨,下雨,雨天vi.下雨vt.使大量落下,大量地给"
-sun,"n.太阳,阳光,恒星vt.晒n.(Sun) 星期天(=Sunday) 美国Sun公司,主要生产SUN系列工作站和网络产品,是JAVA语言的创始者"
-hot,"adj.热的,热情的,辣的,激动的,紧迫的,节奏强的adv.热,热切的,紧迫地"
-snow,n.雪vi.下雪
-cold,"n.寒冷,[物]零下温度,伤风,感冒adj.寒冷的,使人战栗的,冷淡的,不热情的,失去知觉的"
-how,"adv.(指方式,方法,健康状况等)怎样,(指范围,程度,数量,价值)多少,多么n.方式(或方法)"
-weather,"n.天气,气候,气象,处境adj.迎风的,露天的vt.使受风吹雨打,侵蚀,使风化,经受住vi.风化,受侵蚀,经受风雨"
-sunny,"adj.阳光充足的,照耀的,快乐的"
-warm,"adj.暖和的,暖的,温暖的,色情的,激烈的,热烈的,多情的,兴奋的adv.(常用以构成复合词)暖和地vt.使温暖,弄热,使兴奋,使热烈vi.变暖和,变温暖,激动,同情,爱好n.暖,保暖物"
-cloudy,"adj.多云的,阴天的,阴沉"
-windy,"adj.有风的,刮风的,多风的,风强的,腹胀的,吹牛的"
-cool,"n.凉爽,凉爽的空气adj.凉爽,冷静的,无所顾虑的,淡漠的v.使冷,使镇定"
-am,"prep.是,在n.A.M.上午,午前 [域] Armenia ,亚美尼亚 [军] Amplitude Modulation,调幅 (AM) 调幅 (amplitude modulation)"
-when," conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
-birthday,n.生日
-tall,"adj.高的,长的,夸大的adv.<俚> 夸大地"
-live,"adj.活的,生动的,精力充沛的,实况转播的,点燃的vi.活着,生活,居住,流在人们记忆中vt.过着,度过,经历adv.以实况地"
-too,"adv.也,太过份"
-foot,"n.足,底部,英尺,音步(英诗),步调,步兵,末尾vt.走在...上,支付,给...换底,结算vi.步行,跳舞,总计"
-on foot,
-by," prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
-favourite,"adj.特别喜爱的,中意的n.特别喜爱的(或物)"
-colour,"n.<英>(=color)颜色,气色,风格,外貌vt.把...涂颜色,粉饰,脸红,歪曲vi.变色"
-brown,"n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
-blue,"n.蓝色adj.蓝色的,忧郁的,沮丧的"
-clothes,"n.衣服,[总称]被褥,各种衣服,<美俚>家丑"
-our, pron.我们的
-their," pron.他们的,她们的,它们的"
-subject,"n.题目,主题,科目,学科,国民,[语法]主语adj.受他国统治的,未独立的,受制于...的,受...影响的,以...为条件的vt.使屈从于...,使隶属"
-Chinese,
-English,
-science,"n.科学,自然科学,理科"
-math,n.数学
-PE,
-art,"n.艺术,艺术品,技术,巧妙,美术"
-music,"n.音乐,乐曲"
-and," conj.和,及,并,然后,接着又 /conj.及(或)"
-but," prep.除...以外 conj.而是,但是adv.几乎,仅仅"
+﻿you,"pron. 你；您；你们；大家
+[网络] 尤；是你；你是"
+teacher,"n. 教师, 老师, 导师"
+hello,"int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛"
+your,"pron. 你的, 你们的"
+hi,[网络] 可移动磁盘
+hello,"int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛"
+name,"n. 名称；名字；名声；名誉
+v. 命名；任命；给…取名；说出…的名称
+adj. 〈美口〉著名的；(作品等)据以取名的
+[网络] 姓名；品名；产品名称"
+friend,"n. 朋友, 支持者, 赞助者
+[法] 朋友, 友人, 赞助者"
+pupil,"n. 学生, 门生, 未成年人, 瞳孔
+[医] 瞳孔"
+his,"pron. 他的
+[化] 组氨酸"
+her,"pron. 她的；她
+n. (Her)人名；(法)埃尔"
+pencil,"n. 铅笔, 色笔, 眉笔, 画笔, 光线束
+vt. 用铅笔写或涂, 草拟"
+pencil box, 铅笔盒
+what,"pron. 什么；多么；真；…的事物
+adj. 什么；多少；关系形容词
+adv. 多少
+conj. 同“as much as. He helps me what he can”
+[网络] 什麽；做什么；是什么"
+pen,[网络] 国际笔会
+ruler,量尺
+crayon,"n. 蜡笔, 蜡笔画
+vt. 以蜡笔作画"
+whose,pron. 谁的
+blackboard,[网络] 黑板；黑板效果；黑板上书写的文字
+desk,"desk
+[desk]
+n.
+书桌，办公桌，写字台，绘图桌
+【宗教】
+(教堂中的)读经台
+[美国英语]讲道台；讲坛，布道坛
+文书(或办事员等)的职位(或职业、工作)
+(旅馆服务员)工作台，(旅馆、办公楼等中的)服务台(用作旅客登记、邮件收发等)；(值勤人员的)工作台；问讯台，出纳台
+服务台等的工作人员
+[美国英语](报馆)编辑部
+【音乐】
+(管弦乐队的)乐谱架；(两位管弦乐师合用的)乐谱架
+(合用乐谱架的)两位管弦乐师
+(管弦乐队的)乐师席，演奏者席
+(政府部门、报社等内的)部，司，室，组
+【计算机】
+桌面
+控制台，操纵台；试验台
+面板，控制板
+adj.
+书桌的，办公桌的，写字台的
+台式的，书桌(或办公桌、写字台)上用的
+坐办公室的，在办公桌上做的，伏案做的，案头的"
+chair,[网络] 委员长
+schoolbag,书包
+between,"prep. 在…之间
+adv. 在中间"
+beside,prep. 在旁边
+forty,"num. 四十, 四十个"
+fifty,"num. 五十
+n. 五十几；五十年代
+adj. 许多的
+[网络] 半百；五十个；五十的"
+sixty,"n. 六十几；六十年代
+num. 六十
+[网络] 六十个；第六十；六十岁"
+seventy,"num. 七十
+n. 七十几；七十年代
+[网络] 七十个；第七十；七十的"
+eighty,"num. 八十
+n. 八十几；八十年代
+[网络] 八十个；第八十；八十的"
+ninety,"num. 九十, 九十个"
+behind,"prep. 落后于；支持；晚于
+adv. 在后地；在原处
+n. 屁股"
+he,"abbr. 阁下；高等教育
+[网络] 他；氦(helium)；贺"
+she,"pron. 她；它；船或车等
+n. 〈口〉女性；雌性动物
+[网络] 佘；就是她；伊"
+month,"n. 月
+[经] 月"
+Jan.,n. 一月
+Feb.,abbr. 二月（February）
+Mar.,"vt. 损毁；损伤；糟蹋；玷污
+n. 污点；瑕疵
+n. (Mar)人名；(英、俄、以、葡、塞内)马尔"
+Apr.,[网络] 沉积率；电源
+May,"n. 五月
+aux. 愿能, 可以, 愿意"
+Jun.,六月
+Jul.,七月
+Aug.,abbr. 八月（August）
+Sept.,"n. 氏族；(爱尔兰或苏格兰)氏族
+[网络] 七；九月；synthetic exon promoter trap"
+Oct.,abbr. 十月（October）
+Nov.,abbr. 十一月（November）
+Dec.,[网络] 设备公司；十进制；中国东方电气集团公司
+rain,"n. 雨, 下雨, 雨天
+vi. 下雨
+vt. 使大量落下"
+sun,"n. 太阳, 日, 日光, 阳光
+vt. 晒
+vi. 晒太阳"
+hot,[网络] 月明时
+snow,"n. 雪, 积雪, 下雪, 雪花形干扰
+vi. 下雪, 似雪般落下
+vt. 使雪白, 用雪覆盖, 使像雪般落下"
+cold,"n. 感冒, 寒冷
+a. 寒冷的, 冷淡的, 冷静的
+adv. 完全地"
+how,"how1
+[hau]
+adv.
+如何，怎样，怎么；用什么手段(或方法)
+(指数量、程度)几何，多少；多么
+价钱多少
+(指情况、状态)怎么样
+(指原因、目的)怎么；为什么
+什么(=what)
+以为如何，什么意思
+[用作加强语气词]多么，何等
+用什么称呼(或称号、名称)
+不管用什么方法(或方式)
+[用作不定式、名词短语的前置词]如此，多么
+[在间接引语或口语中作关系副词，相当于that]
+[作副词短语的前置词]尽可能
+conj.
+怎样，如何：
+I wondered how he came here.
+我想知道他是怎样来到这儿的。
+以…的方式(或状态、方法)：
+That is how it happened.
+事情就是这样发生的。
+I don't care how you spend your holidays.
+我不管你怎么度假。
+随便怎样：
+Do it how you can.
+你尽可能试着做做看。
+n.
+方式，方法
+关于方式(或方法)的问题
+短语:
+and how
+[美国俚语]…极了，那还用说，可不是[亦作And how!]
+any (old) how
+[口语]粗枝大叶地，胡乱地；无论如何；反正
+Here's how!
+敬你一杯!祝你健康!干杯!
+How about…?
+[口语]
+你看…怎么样?，你以为(或觉得)…怎么样了?，你看…好不好?
+那么为什么…?，…又是怎么回事呢?
+How about that!
+[口语]太好了!，太妙了!
+How are you?
+[口语]
+你好![招呼用语]
+你好吗?，你身体怎么样?
+How… can you get?
+这是最…不过了!
+How(或How's)come…?
+见come
+How do (you do)?(或Howd'ye do?)
+你好!
+How do you like them apples!
+[美国俚语]你们看棒不棒![炫耀用语]
+How goes it?
+见go
+How is that for…?
+多么…!难道不…吗?
+How much?
+见much
+How now?
+那是怎么回事?这是什么意思?
+How's about…?
+(你觉得)…怎么样?
+How so?
+怎么会这样?为什么?怎么搞的?
+How's that?
+[口语]
+怎么会那样呢?为什么?
+你说什么?再说一遍好吗?
+…怎么样?
+【板球】(询问裁判员)算不算出局?
+How's tricks?
+[美国俚语]你好吗?你的情况怎么样?
+How then?
+这是怎么回事?这是什么意思?
+后来怎样?还有什么?
+How they hanging?
+[美国俚语、粗俗语](男子间的问候语)你好吗?
+the how and the why
+(做某事的)方法及理由
+how2
+[hau]
+interj.
+[美国英语][印第安人的问候语]好哇!
+how3
+[hau]
+n.
+[美国方言]小丘[主要用于地名]
+how.
+abbr.
+howitzer"
+weather,"n. 天气, 气象, 处境
+a. 迎风的
+vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
+vi. 风化, 受侵蚀, 经受风雨"
+sunny,"a. 阳光充足的, 乐观的, 快乐的, 像太阳的"
+warm,"a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的
+vt. 使温暖, 弄热, 使兴奋, 使充满仇恨
+vi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好
+n. 暖, 保暖物"
+cloudy,"a. 多云的, 有愁容的, 云的, 浑浊的
+[建] (混)浊的"
+windy,"a. 多风的, 风强的, 腹胀的, 吹牛的"
+cool,"n. 凉爽, 凉爽的空气
+a. 凉爽的, 冷淡的, 冷静的
+vi. 冷却, 平息
+vt. 使冷却, 使平静"
+am,"abbr. 调幅；振幅调制；议员（威尔士议会成员）
+[网络] 调幅(amplitude modulation)；上午(a.m.)；是"
+when,"conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+birthday,n. 生日，诞辰；诞生的日子
+tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
+live,"a. 活的, 生动的, 精力充沛的, 实况转播的
+vi. 活, 生存, 居住
+vt. 过着, 度过, 经历
+adv. 实况地"
+too,"adv. 也, 非常, 太"
+foot,comb.form [与数字连用构成复合词]：two-foot;three-foot
+on foot,"na. 步行；在进行中；徒步
+[网络] 走路；步行时；走路去"
+by,[网络] -通过
+favourite,"n. 喜欢的事物
+a. 喜爱的, 宠爱的"
+colour,颜色，色料，色素
+brown,"n. 褐色
+a. 褐色的
+v. (使)变褐色"
+blue,"n. 蓝色
+a. 蓝色的, 下流的, 忧郁的
+vt. 染成蓝色
+vi. 变蓝"
+clothes,n. 衣服
+our,suf. 构成名词表示“状态”，“活动”：colour， labour
+their,pron. 他们的
+subject,[网络] 主体；对象；主题
+Chinese,"n. 中文, 中国话, 中国人
+a. 中国的, 中国话的"
+English,[网络] 英语
+science,"n. 科学, 学科, 学问, 自然科学
+[医] 科学"
+math,n. 数学
+PE,"n. 体育（课）（全写为 physical education）
+[网络] 聚乙烯(Polyethylene)；私募股权投资(Private Equity)；市盈率"
+art,"n. 艺术；技术；技巧；表演艺术
+v. 对一人讲话时用
+[网络] 艺术(Artistic)；美术；辅助生殖技术(assisted reproductive technology)"
+music,"n. 音乐, 乐曲"
+and,"conj. 与；和；而；又
+n. 附加条件；附加细节
+[网络] 并且；而且；及"
+but,"conj. 而；然而；只有；尽管如此
+prep. 除了；除…之外
+adv. 只有；仅仅
+n. 借口；托辞
+v. 对(某人)讲“但是”(以示反对,拒绝等)
+[网络] 可是；不过；而是"

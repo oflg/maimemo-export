@@ -1,645 +1,1211 @@
-﻿take inventory,
-write a report,
-speak to the boss,
-go to the bank,
-eat lunch,
-give out the paychecks,
-set up the meeting room,
-see the personnel officer,
-get gas,
-drive to the gym,
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-do sit-ups,
-be," prep.是,在,存在 [域] Belgium ,比利时 [军] Base Ejection,弹底喷射 symb [化]铍 Be(beryllium)"
-was,vbl.be的过去式
-were,vbl.be的过去式
-been,"vbl.(be)的过去分词,到过,去过,是,有,来过又走了"
-begin,"v.开始,首先"
-began, vbl.begin的过去式
-begun,vbl.begin的过去分词
-blow,"n.殴打,突然的打击v.风吹,吹气于,叫,喘气"
-blew,vbl.blow的过去式和过去分词
-blown,"vbl.blow的过去分词adj.吹制的,喘气的,开花的"
-do,"v.做,实行,尽力,给予,可用,制作,算出,解答 [域] Dominican Republic ,多米尼加共和国"
-did,vbl.do的过去式
-done,"adj.妥当的,合乎礼仪的,完成了,做好了的,注定要完蛋的 vbl.做(do的过去分词)"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-drew, vbl.draw的过去式
-drawn, vbl.draw的过去分词adj.拔出的
-drive,"n.驾车,驱动器,快车道,推进力,驱使,动力,干劲,击球vt.开车,驱赶,推动、发动(机器等),驾驶(马车,汽车等)vi.开车,猛击,飞跑n.[计]驱动器"
-drove, vbl.drive的过去式n.畜群
-driven,adj.受到驱策的 vbl.drive的过去分词
-eat,"v.吃,腐蚀"
-ate," vbl.吃 [军] Automatic Test Equipment,自动试验设备"
-eaten,vbl.eat的过去分词
-fall,"n.秋天,落下,瀑布,降低,落差,采伐量,堕落,下降vi.倒下,落下,来临,失守,变成,垮台,下跌,阵亡vt.<美><英方>击倒,砍倒(树木)adj.秋天的"
-fell," vbl.fall 的过去式vt.击倒,打倒(疾病等),致于...死地,砍伐n.一季所伐的木材,兽皮,羊毛adj.凶猛的,可怕的"
-fallen,"adj.倒下的,伐倒的,伏地的,堕落的,落下来的,陷落的 vbl.fall 的过去分词"
-fly,"n.苍蝇,两翼昆虫,飞行vi.飞翔,飘扬,溃逃vt.飞越,使飘扬,逃脱adj.机敏的,敏捷的"
-flew,vbl.fly的过去式
-flown,vbl.fly的过去分词
-get,"vt.获得,变成,收获,使得,挣得,受到(惩罚,打击等),染上,抓住vi.到达,成为,变得n.生殖,幼兽"
-got,vbl.get 的过去式
-gotten, vbl.get的过去分词
-give,"n.弹性,可弯性vt.给,授予,供给,献出,让步,引起,发表,捐助vi.捐赠,让步"
-gave,vbl.give的过去式
-given,"adj.赠予的,沉溺的,特定的,假设的 vbl.give的过去分词"
-go,"vi.离去,走,进行,变成,趋于,达到,求助于,诉诸vt.以...打赌,忍受,出产n.去,进行"
-went,vbl.go的过去式
-gone,"adj.离去的,死去的,深重的,入迷的,用光的 vbl.go的过去分词"
-grow,"vi.生长,成长,渐渐变得,增长,增高vt.种植,栽培,培育"
-grew,vbl.grow的过去式
-grown,"adj.长大的,成年的,长满某物的 vbl.grow的过去分词"
-know,"v.知道,了解,认识,熟悉,认出,分辨,确信"
-knew,vbl.know的过去式
-known,"adj.知名的,大家知道的 vbl.know的过去分词"
-ride,"v.骑,乘n.骑,乘"
-rode,vbl.ride的过去式
-ridden,"adj.受折磨的,受虐待的,充斥...的,全是...的 vbl.rid的过去分词"
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-ran, vbl.run的过去式
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-see,"v.看,看见,了解,领会,注意,留心,经历,阅历"
-saw,n.锯v.锯 vbl.see的过去式
-seen,vbl.see的过去分词
-set,"v.放,置,移动到,使(人或事物处于某种状态),提出,树立,规定,调整;n.一套,一副,一批,接受机,装置,趋势,布景;adj.固定的,规定的,坚决的,固执的,事先做好的;Secure Electronics Transations Protocol,安全电子商务协议"
-set,"v.放,置,移动到,使(人或事物处于某种状态),提出,树立,规定,调整;n.一套,一副,一批,接受机,装置,趋势,布景;adj.固定的,规定的,坚决的,固执的,事先做好的;Secure Electronics Transations Protocol,安全电子商务协议"
-set,"v.放,置,移动到,使(人或事物处于某种状态),提出,树立,规定,调整;n.一套,一副,一批,接受机,装置,趋势,布景;adj.固定的,规定的,坚决的,固执的,事先做好的;Secure Electronics Transations Protocol,安全电子商务协议"
-sing,"v.唱,演唱"
-sang,vbl.sing的过去式
-sung,vbl.sing的过去分词
-speak,"v.说话,谈话,说明事实,表示意见,发言,演讲,操(某种语言)"
-spoke,"n.轮辐,扶梯棍,刹车v.装辐于,刹车"
-spoken,"adj.口头的,口语的 vbl.speak的过去分词"
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-swam, vbl.swim的过去式
-swum,vbl.swim的过去分词
-take,"v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
-took,vbl.take的过去式
-taken, vbl.take的过去分词
-wear,"vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
-wore,vbl.wear的过去式
-worn,"adj.用旧的,疲倦的 vbl.wear的过去分词"
-write,"vt.书写,著述,写,写满,写信给vi.写,写字,写信,写作,作曲"
-wrote,vbl.write的过去式
-written,vbl.write的过去分词
-answer the phone,
-apologize,"vi.道歉,辩白"
-daydream,n.白日梦vi.做白日梦
-fail,"vi.失败,不及格,忘记vt.使失望,舍弃,辜负,不及格n.不及格,不及格者"
-get lost,
-get stuck in traffic,
-hand over,
-oversleep,v.(使)睡过头
-refuse,"vt.拒绝,谢绝n.废物,垃圾"
-shake hands,
-skip dessert,
-yell,"vi.大叫,忍不住笑,呼喊vt.叫着说n.叫声,喊声"
-answer the phone,
-daydream,n.白日梦vi.做白日梦
-fail,"vi.失败,不及格,忘记vt.使失望,舍弃,辜负,不及格n.不及格,不及格者"
-get lost,
-get stuck in traffic,
-hand over,
-refuse,"vt.拒绝,谢绝n.废物,垃圾"
-shake hands,
-skip dessert,
-yell,"vi.大叫,忍不住笑,呼喊vt.叫着说n.叫声,喊声"
-arrive late,
-dance well,
-do things differently,
-dress comfortably,
-drive carefully,
-get to ... early,
-practice more,
-run fast,
-speak confidently,
-speak loud,
-speak softly,
-study hard,
-take ... out soon,
-write legibly,
-advanced,"adj.高级的,年老的,先进的"
-beginning,n.开始
-brave,adj.勇敢的
-concerned,"adj.关心的,有关的"
-curious,"adj.好奇的,求知的,古怪的,爱挑剔的"
-entire,"adj.全部的,完整的,整个"
-exhausted,"adj.耗尽的,疲惫的"
-financial,"adj.财政的,金融的"
-irritable,"adj.易怒的,急躁的"
-lonely,"adj.孤独的,寂寞的,偏僻的,人迹罕至的"
-scared,adj.恐惧的
-understanding,"n.谅解,理解"
-unimportant,"adj.不重要的,琐碎的"
-bicyclist,"n.骑脚踏车者,骑自行车的人"
-casserole,"n.餐桌上用有盖的焙盘,砂锅菜"
-courier,"n.送快信的人,旅行从仆"
-decorations,
-dinosaur skeleton,
-flowerpot,"n.花盆,花钵"
-identification card,
-invention,"n.发明,创造"
-mural,"adj.墙壁上的n.壁画,壁饰"
-pickpocket,n.扒手
-poodle,n.狮子狗vt.剪毛
-puddle,"n.水坑,胶土,污水坑,vt.搅浊,混凝vi.捣成泥浆"
-sidewalk,n.人行道
-uniform,"adj.统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
-windowsill,"n.窗沿,窗台"
-accident report,
-architect,n.建筑师
-architecture,"n.建筑,建筑学 体系机构"
-bicyclist,"n.骑脚踏车者,骑自行车的人"
-casserole,"n.餐桌上用有盖的焙盘,砂锅菜"
-ceremonies,
-construction,"n.建筑,建筑物,解释,造句"
-courier,"n.送快信的人,旅行从仆"
-decorations,
-dinosaur skeleton,
-electric lights,
-example,"n.例子,实例,例题,范例,榜样,鉴戒,实例"
-flowerpot,"n.花盆,花钵"
-governor,"n.统治者,管理者,地方长官,主管人员"
-headquarters,"n.司令部,指挥部,总部"
-identification card,
-information technology,
-interior,"adj.内部的,内的n.内部"
-invention,"n.发明,创造"
-materials,原料
-mayor,n.市长
-meeting room,
-mural,"adj.墙壁上的n.壁画,壁饰"
-opening day,
-overnight mail,
-pickpocket,n.扒手
-plumbing,"n.铅工业,铅管品制造"
-political cartoon,
-poodle,n.狮子狗vt.剪毛
-puddle,"n.水坑,胶土,污水坑,vt.搅浊,混凝vi.捣成泥浆"
-short story,
-sidewalk,n.人行道
-soldiers,
-sonata,n.[音]奏鸣曲
-statistics,"n.统计学,统计表"
-structure,"n.结构,构造,建筑物vt.建筑,构成,组织"
-uniform,"adj.统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
-warehouse,"n.仓库,货栈,大商店vt.贮入仓库,<俚>[经]以他人名义购进(股票)"
-will,"n.意志,决心,意向,遗嘱v.aux.将,愿意,必须"
-windowsill,"n.窗沿,窗台"
-battery,"n.电池,殴打"
-brakes,
-bumper,"n.缓冲器,保险杆;adj.丰收的"
-engine,"n.发动机,机车,火车头"
-headlight,"n.前灯,桅灯"
-hood,"n.头巾,兜帽,车蓬,引擎罩v.用头巾包裹,给...加罩,覆盖"
-oil,"n.油,石油,油类vt.给(机器等)加油,上油,涂油"
-rear window,
-tires,
-amazing,adj.令人惊异的
-colorful,"adj.华美的,色彩的,有趣的"
-fascinating,"adj.迷人的,醉人的,着魔的"
-finest,n.警察
-impressive,"adj.给人深刻印象的,感人的"
-magnificent,"adj.华丽的,高尚的,宏伟的"
-original,"adj.最初的,原始的,独创的,新颖的n.原物,原作"
-overseas,"adv.海外adj.外国的,海外的"
-scary,adj.引起惊慌的
-adjust,"vt.调整,调节,校准,使适合"
-break out,
-charge,"n.负荷,电荷,费用,主管,掌管,充电,充气,装料v.装满,控诉,责令,告诫,指示,加罪于,冲锋,收费"
-check,"n.阻止,制止,控制,阻止物,支票,检讫的记号,饭馆的帐单vt.检查,制止,核对,寄存,托运vi.证明无误,核对无误,逐项相符,[象棋]将军"
-clip,"n.夹子,回形针,子弹夹vt.夹住,剪短,修剪"
-complete,"adj.全部的,完全的,完成的vt.完成,使完善"
-design,"n.设计,图案,花样,企图,图谋,(小说等的)构思,纲要v.设计,计划,谋划,构思"
-destroy,"vt.破坏,毁坏,消灭v.消灭,摧毁"
-hold,"n.把握,把持力,柄,控制,监禁,掌握,货舱vt.拿着,保存,支持,占据,持有,拥有vi.支持,保持,有效n.控制,保留"
-install,"vt.安装,安置,使就职"
-knock down,
-offer,"n.出价,提议,意图vt.提供,出价,贡献,使出现,企图,演出vi.(机会、时机等)出现,献祭,提议"
-promote,"vt.促进,发扬,提升,提拔,晋升为 /n.升级/降级"
-rebuild,"v.重建,改造,复原,重新组建"
-register,"n.记录,登记簿,登记,注册,寄存器vt.记录,登记,注册,提示,把...挂号vi.登记,注册,挂号"
-reject,"n.被拒之人,被弃之物,不合格品,落选者,不及格者vt.拒绝,抵制,否决,呕出,驳回,丢弃"
-reopen,"v.重开,再开始"
-repaint,"v.重漆,重画v.重新绘制"
-replace,"vt.取代,替换,代替,把...放回原处"
-rewrite,"v.重写,改写"
-splash,"n.溅,飞溅,斑点v.溅,泼,溅湿"
-sting,"n.刺,刺痛,针刺v.刺,刺痛,刺激"
-tune up,
-conductor,"n.领导者,经理,指挥管弦乐队、合唱队的,(市内有轨电车或公共汽车)售票员,<美>列车长"
-flight attendant,
-librarian,"n.图书馆员,图书管理员"
-lifeguard,n.救生员
-prime minister,
-real estate agent,
-receptionist,"n.招待员,传达员"
-security guard,
-ticket agent,
-usher,"n.引座员,招待员,传达员,前驱vt.引导,展示vi.作招待员"
-birthmark,"n.胎记,胎痣"
-plane ticket,
-restrooms,
-scar,"n.伤痕,疤痕v.结疤,使留下伤痕,创伤"
-tonsils,
-conductor,"n.领导者,经理,指挥管弦乐队、合唱队的,(市内有轨电车或公共汽车)售票员,<美>列车长"
-flight attendant,
-librarian,"n.图书馆员,图书管理员"
-lifeguard,n.救生员
-prime minister,
-real estate agent,
-receptionist,"n.招待员,传达员"
-security guard,
-ticket agent,
-usher,"n.引座员,招待员,传达员,前驱vt.引导,展示vi.作招待员"
-birthmark,"n.胎记,胎痣"
-capital,"n.首都,首府,大写字母,资本,资金,资产adj.首都的,重要的,死罪的,大写的,<口>极好的"
-details,n.详细资料
-information sheet,
-missing person,
-plane ticket,
-restrooms,
-scar,"n.伤痕,疤痕v.结疤,使留下伤痕,创伤"
-surprise quiz,
-tonsils,
-assassinate,"vt.暗杀,行刺"
-check with,
-come by,
-mean,"adj.低劣的,卑鄙的,普通的,吝啬的,简陋的,平均的,惭愧的,不舒服的vt.意谓,想要,预定vi.用意,有意义n.平均数,中间,中庸"
-rob,"v.抢夺,抢掠,剥夺"
-sign,"n.标记,符号,记号,征兆,迹象,征候v.签名(于),署名(于)～,签署"
-vote,"n.投票,选举,选票,选举权,表决,得票数vi.投票,选举vt.投票选举,投票决定,公认,<口>建议,使投票"
-coin,n.硬币vt.铸造(硬币)
-pollution,"n.污染,玷污"
-report card,
-representative,"n.代表adj.典型的,有代表性的"
-wishing well,
-drop in,
-encourage,"vt.鼓励,怂恿v.鼓励,鼓励"
-hold hands,
-increase,"n.增加,增大,增长vt.增加,加大vi.增加,繁殖"
-sneeze,n.喷嚏vi.打喷嚏
-aggressive,"adj.好斗的,敢作敢为的,有闯劲的,侵略性的"
-burnt,vbl.燃烧
-carsick,adj.晕车的
-dressed up,
-missing,"adj.不见的,缺少的"
-break up,
-drop in,
-encourage,"vt.鼓励,怂恿v.鼓励,鼓励"
-get accepted,
-get paid,
-get worse,
-hold hands,
-hope,"n.希望,信心v.希望,盼望,期待,信赖"
-increase,"n.增加,增大,增长vt.增加,加大vi.增加,繁殖"
-make a wish,
-miss,"n.过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
-skip,"v.跳,蹦,急速改变,跳读,遗漏,跳跃n.跳跃"
-sneeze,n.喷嚏vi.打喷嚏
-spoil,"vt.损坏,搞糟,宠坏,溺爱v.扰乱"
-access,"n.通路,访问,入门vt.存取,接近"
-bonus,"n.奖金,红利"
-coin,n.硬币vt.铸造(硬币)
-Congress,
-drill,"n.钻孔机,钻子,播种机,军事训练,操练,(反复)练习,条播机v.训练,钻孔,条播"
-economy,"n.经济,节约,节约措施,经济实惠,系统,机体,经济制度的状况"
-environment,"n.环境,外界"
-physical condition,
-pollution,"n.污染,玷污"
-profits,
-reaction,"n.反应,反作用,反动(力)"
-report card,
-representative,"n.代表adj.典型的,有代表性的"
-sound,"n.声音,语音,噪音,吵闹,海峡,听力范围,探条adj.健全的,可靠的,合理的,有效彻底的,健康的adv.彻底地,充分地vi.发出声音,回响,测深,听起来vt.使发声,宣告,听诊,测...深,试探"
-spot,"n.班点,污点,地点,场所,现场v.沾污,弄脏,侦察vt.认出,发现"
-success,"n.成功,成就,胜利,发迹,兴旺"
-wish,"n.愿望,心愿,请求,所愿望的事物,祝愿v.希望,想要,但愿,祝贺"
-wishing well,
-aggressive,"adj.好斗的,敢作敢为的,有闯劲的,侵略性的"
-burnt,vbl.燃烧
-carsick,adj.晕车的
-dressed up,
-important,"adj.重要的,重大的,有权力的,有地位的"
-missing,"adj.不见的,缺少的"
-classified ad,
-day shift,
-night shift,
-full-time job,
-part-time job,
-baby food,
-baby picture,
-beard,n.胡须
-driver's ed,
-fan,"n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
-foreign language,
-obituary,n.讣告adj.死亡的
-pronunciation,"n.发音,读法"
-taxes,
-voter,"n.投票者,选举人,有投票权者"
-baby food,
-baby picture,
-beard,n.胡须
-classified ad,
-day shift,
-driver's ed,
-fan,"n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
-foreign language,
-full-time job,
-high-rise building,
-Internet company,
-night shift,
-obituary,n.讣告adj.死亡的
-part-time job,
-pronunciation,"n.发音,读法"
-repairs,
-spare time,
-suburbs,
-taxes,
-view,"n.景色,风景,观点,见解,观察,观看,意见,认为vt.观察,观看"
-voter,"n.投票者,选举人,有投票权者"
-borrow,"v.借,借入,借用"
-commute,"v.交换,抵偿,减刑,<电工>整流"
-concentrate,"v.集中,浓缩"
-convince,"vt.使确信,使信服"
-drop out of,
-evict,"v.驱逐,逐出(租户),收回(租屋、租地等)"
-go out with,
-miss,"n.过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
-raise,"n.上升,高地,提出vt.升起,唤起,提高,使出现,解除,饲养,筹集,使复活"
-roll,"adj.滚动,滚转,(使)摇摆,(使)摇晃,卷起,卷拢vt.辗,轧n.(一)卷,卷形物,摇晃,摆动,名单"
-show,"n.表示,展览,炫耀,外观,假装v.出示,指示,引导,说明,显示,展出,放映"
-skip,"v.跳,蹦,急速改变,跳读,遗漏,跳跃n.跳跃"
-angry,"adj.生气的,愤怒的,狂暴的(风雨等)"
-annoyed,
-disappointed,adj.失望的
-embarrassed,
-jealous,"adj.妒忌的,猜疑的,警惕的,嫉妒的"
-mad,"adj.疯狂的,愚蠢的,狂欢的,非常激动的,狂热的,着迷的n.狂怒"
-self-conscious,
-unhappy,"adj.不幸的,不快乐的,不适当的"
-upset,"vt.颠覆,推翻,扰乱,使不适,使心烦vi.翻倒,倾覆n.翻倒,混乱"
-all thumbs,
-better ear,
-lose your shirt,
-peace and quiet,
-sick and tired,
-two left feet,
-audience,"n.听众,观众,接见,拜见"
-cactus plant,
-chemistry set,
-flu shot,
-income tax form,
-ingredients,
-metal detector,
-minister,"n.部长,大臣"
-mortgage,n.抵押v.抵押
-performance,"n.履行,执行,成绩,性能,表演,演奏"
-postcard,"n.明信片,风景明信片"
-printer,"n.印刷工,打印机"
-snowman,n.雪人
-traffic light,
-wedding dress,
-alarm clock,
-assembly line,
-audience,"n.听众,观众,接见,拜见"
-automobile factory,
-cactus plant,
-chemistry set,
-condo, condominium 分户出售公寓大厦
-cotton,"n.棉花,棉线"
-disease,"n.疾病,弊病"
-encore,"n.再演唱的要求,经要求而再唱int.再演唱一次!vt.要求再演或唱"
-flu shot,
-income tax form,
-ingredients,
-metal detector,
-minister,"n.部长,大臣"
-mood,"n.心情,情绪,语气,状态"
-mortgage,n.抵押v.抵押
-nursery school,
-optimist,"n.乐天派,乐观者"
-performance,"n.履行,执行,成绩,性能,表演,演奏"
-postcard,"n.明信片,风景明信片"
-printer,"n.印刷工,打印机"
-relatives,
-rumor,"n.流言,谣言,传闻vt.谣传,传闻"
-school play,
-snowman,n.雪人
-traffic light,
-wedding dress,
-close down,
-expect,"vt.期待,预期,盼望,指望,<口>(料)想,认为"
-get searched,
-get stopped,
-hand in,
-perform,"vt.履行,执行,表演,演出v.完成任务"
-run by,
-save,"vt.解救,保存,保全,保留,节省,储蓄vi.挽救,节省,救球 prep.除...之外n.救球 /v.[计]保存/更新"
-scold,"v.责骂,申斥,斥责"
-set off,
-shrink,"v.收缩,(使)皱缩,缩短"
-shut down,
-take lessons,
-trust,"vt.信任,信赖,盼望,希望,赊卖,热望,切望n.(～ in) 信任,信赖"
-confused,"adj.困惑的,烦恼的"
-convinced,"adj.确信的,深信的"
-irritable,"adj.易怒的,急躁的"
-lonely,"adj.孤独的,寂寞的,偏僻的,人迹罕至的"
-miserable,"adj.痛苦的,悲惨的,可怜"
-prepared,"adj.准备好的,精制的"
-rare,"adj.稀罕的,杰出的,珍贵的,(肉类)半熟的adv.非常"
-have a hard day,
-out of place,
-put up for sale,
-run out of,
-set on fire,
-under the weather,
-bride,n.新娘
-groom,"n.马夫,新郎,男仆vt.喂马,推荐,整饰vi.修饰"
-interviewer,n.会见者
-movie star,
-school-bus driver,
-college entrance exam,
-dictionary,"n.字典,词典"
-engine,"n.发动机,机车,火车头"
-lion,"n.狮子,(剽悍的人)社交场合的名流"
-message,"n.消息,通讯,讯息,音讯,差使,广告词,预言,教训vt.通知vi.带信息"
-navy,n.海军
-pipe,"n.管,导管,烟斗,管乐器,笛声vt.以管输送,吹哨子vi.吹笛,尖叫"
-puppy,"n.(常指未满一岁的)小狗,小动物,自负的青年"
-radiator,"n.散热器,水箱,冷却器,电暖炉,辐射体"
-robbery,"n.抢掠,抢夺"
-advice,"n.忠告,建议,[商]通知"
-bride,n.新娘
-college entrance exam,
-dictionary,"n.字典,词典"
-engine,"n.发动机,机车,火车头"
-grease,"n.油脂,贿赂vt.涂脂于,<俗>贿赂"
-groom,"n.马夫,新郎,男仆vt.喂马,推荐,整饰vi.修饰"
-interviewer,n.会见者
-lion,"n.狮子,(剽悍的人)社交场合的名流"
-message,"n.消息,通讯,讯息,音讯,差使,广告词,预言,教训vt.通知vi.带信息"
-movie star,
-navy,n.海军
-pipe,"n.管,导管,烟斗,管乐器,笛声vt.以管输送,吹哨子vi.吹笛,尖叫"
-position,"n.位置,职位,立场,形势,阵地vt.安置,决定...的位置"
-puppy,"n.(常指未满一岁的)小狗,小动物,自负的青年"
-radiator,"n.散热器,水箱,冷却器,电暖炉,辐射体"
-robber,"n.强盗,盗贼"
-school-bus driver,
-training,"n.训练,练习adj.训练的"
-advise,"vt.劝告,忠告,警告,建议"
-apply,"vt.申请,应用vi.申请,适用"
-bother,"vt.烦扰,打扰vi.烦恼,操心n.麻烦,烦扰v.打扰"
-cancel,"vt.取消,删去"
-clog,"n.木底鞋,障碍v.障碍,阻塞"
-deliver,"vt.递送,陈述,释放,发表(一篇演说等),交付,引渡,瞄准,给予(打击)"
-depend,"vi.依靠,依赖"
-disturb,"vt.弄乱,打乱,打扰,扰乱v.扰乱"
-dye,"n.染料,染色vt.染v.染"
-escape,"n.逃,逃亡,溢出设备,出口,逃跑,[植]野生vi.逃脱,避开,溜走vt.逃避,避免,被忘掉"
-kiss,"n.吻,(风,浪等)拂vt.吻,轻拂vi.接吻"
-leave on,
-lock,"n.锁v.锁,锁上,锁住 /n.锁定/解锁"
-pour,"v.灌注,倾泻,涌入,流,倾盆大雨"
-prevent,"v.防止,预防"
-annoyed,
-confident,"adj.自信的,确信的"
-engaged,"adj.忙碌的,使用中的"
-prepared,"adj.准备好的,精制的"
-professional,"n.自由职业者,专业人员,职业运动员,职业艺人adj.专业的,职业的"
-qualified,adj.有资格的
-reassured,
-unaware,"adj.不知道的,没觉察到的"
-willing,"adj.乐意的,自愿的,心甘情愿的,反应迅速的"
-couple,"n.(一)对,(一)双,夫妇vt.连合,连接,结合vi.结合,结婚"
-dolphin,n.海豚
-kite,"n.风筝,(微风时使用的)高而轻的帆,<俚>[商]空头支票,试探性行动vi.象风筝一样飞,轻快地移动,使用空头支票vt.使上升,骗钱"
-memo,n.备忘录
-moon,"n.月球,月亮,卫星"
-spare tire,
-toaster,n.举杯祝贺者
-wagon,"n.四轮马车,货车v.用运货马车运输货物"
-engaged,"adj.忙碌的,使用中的"
-overcooked,adj.煮得过久的
-punctual,"adj.严守时刻的,准时的"
-scary,adj.引起惊慌的
-allergic,"adj.[医]过敏的,患过敏症的"
-angry,"adj.生气的,愤怒的,狂暴的(风雨等)"
-considerate,adj.考虑周到的
-cooperative,"adj.合作的,协力的"
-dedicated,"adj.专注的,献身的"
-efficient,"adj.(直接)生效的,有效率的,能干的"
-engaged,"adj.忙碌的,使用中的"
-famous,"adj.著名的,出名的,<口>极好的,令人满意的"
-friendly,"adj.友好的,友谊的"
-generous,"adj.慷慨的,大方的,有雅量的"
-honest,"adj.诚实的,正直的"
-industrious,"adj.勤勉的,刻苦的"
-nervous,"adj.神经紧张的,不安的,强健有力的"
-online,"n.联机,在线式"
-overcooked,adj.煮得过久的
-pleased,"adj.高兴的,满足的"
-polite,"adj.有礼貌的,客气的,有教养的,文雅的"
-promoted,
-punctual,"adj.严守时刻的,准时的"
-scary,adj.引起惊慌的
-shocked,"adj.震惊的,震撼的"
-sour,"adj.酸的,发酵的,酸腐的,酸味的"
-unfair,adj.不公平的
-upset,"vt.颠覆,推翻,扰乱,使不适,使心烦vi.翻倒,倾覆n.翻倒,混乱"
-accusation,"n.谴责,[律]指控"
-championship,n.锦标赛
-common cold,
-couple,"n.(一)对,(一)双,夫妇vt.连合,连接,结合vi.结合,结婚"
-cure,"v.治愈,治疗n.治愈,痊愈"
-dolphin,n.海豚
-engagement,"n.约会,婚约,诺言,交战,接站,雇拥,[机]接合"
-guy,"n.家伙,人 Guy 盖伊(男子名)"
-memo,n.备忘录
-moon,"n.月球,月亮,卫星"
-Olympics,
-performance,"n.履行,执行,成绩,性能,表演,演奏"
-ride,"v.骑,乘n.骑,乘"
-SAT test score,
-spare tire,
-spot,"n.班点,污点,地点,场所,现场v.沾污,弄脏,侦察vt.认出,发现"
-suspect,"n.嫌疑犯adj.令人怀疑的,不可信的,可疑的v.怀疑,猜想,对...有所觉察"
-toaster,n.举杯祝贺者
-vacation day,
-wagon,"n.四轮马车,货车v.用运货马车运输货物"
-wedding anniversary,
-White House,
-celebrate,"v.庆祝,祝贺,表扬,赞美,举行"
-complain,"v.抱怨,悲叹,控诉"
-date,"n.日期,日子,(历史上某一)年代,时期,约会,枣椰子vt.约会,定日期vi.注明...的日期,过时 [计] 显示或设置系统日期"
-discover,"vt.发现,发觉v.发现"
-lock,"n.锁v.锁,锁上,锁住 /n.锁定/解锁"
-mention,"vt.提及,说起n.提及,说起v.论及,提及"
-miss,"n.过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
-move out,
-observe,"vt.观察,观测,遵守,评述,说"
-perform,"vt.履行,执行,表演,演出v.完成任务"
-play frisbee,
-skateboard,n.溜冰板(一种装有滑轮的椭圆形滑板)
-star,"n.星,恒星,明星,名角"
-taste,"v.品尝,辨味,(of)有 ...味道,领略vt.体验,感到n.味道,味觉"
-tie my shoes,
-cast,"n.投掷,铸件,脱落物,一瞥,演员表v.投,抛,投射,浇铸,计算,派(角色)"
-chicken pox,
-cockroach,n.蟑螂
-diner,n.用餐者
-files,
-hamster,n.东欧或亚洲产的大颊的鼠类
-income tax return,
-key,"n.钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
-mess,"n.混乱,脏乱v.弄乱"
-passport,n.护照
-pet food,
-satellite dish,
-scrap paper,
-wallpaper,"n.壁纸,墙纸v.贴墙纸"
-wisdom tooth,
-advice,"n.忠告,建议,[商]通知"
-button,"n.钮扣,[计]按钮v.扣住,扣紧"
-cast,"n.投掷,铸件,脱落物,一瞥,演员表v.投,抛,投射,浇铸,计算,派(角色)"
-chicken pox,
-cockroach,n.蟑螂
-diner,n.用餐者
-file,"n.文件,档案,文件夹,卷宗,锉刀vt.把...归档,提出(申请等),锉,琢磨vi.列队行进,用锉刀锉"
-hamster,n.东欧或亚洲产的大颊的鼠类
-income tax return,
-key,"n.钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
-mess,"n.混乱,脏乱v.弄乱"
-passport,n.护照
-pet food,
-pillow,"n.枕头,枕垫"
-repairs,
-satellite dish,
-scrap paper,
-ski instructor,
-ski resort,
-slope,"n.斜坡,斜面,倾斜v.(使)顺斜"
-video,"n.电视,录象,视频"
-wallpaper,"n.壁纸,墙纸v.贴墙纸"
-wisdom tooth,
-assemble,"vt.集合,聚集,装配vi.集合"
-delete,vt.删除
-disconnect,"v.拆开,分离,断开"
-erase,"vt.抹去,擦掉,消磁,<俚>杀死"
-lose my balance,
-misunderstand,"vt.误解,误会"
-mix up,
-press,"n.压,按,印刷,压力,拥挤,紧握,新闻vt.压,压榨,紧抱,逼迫vi.压,逼迫,拥挤,受压"
-program,"n.节目,程序,纲要,计划vt.规划,拟...计划,安排...入节目vi.安排节目,编程序 (电脑)程序,(电视)节目"
-put up,
-quit,"vi.离开,辞职,停止vt.离开,放弃,解除,停止"
-replace,"vt.取代,替换,代替,把...放回原处"
-rewind,vt.重绕n.重绕
-save,"vt.解救,保存,保全,保留,节省,储蓄vi.挽救,节省,救球 prep.除...之外n.救球 /v.[计]保存/更新"
-set up,
-tip over,
-urge,"vt.催促,力劝n.强烈欲望,迫切要求v.促进"
-work out,
+﻿take inventory,[经] 实地清点盘存
+write a report,[网络] 写报告；写一份报告；写报导
+speak to the boss,无
+go to the bank,[网络] 上银行；去银行；我必须去趟银行
+eat lunch,[网络] 吃午饭；吃午餐；吃中午饭
+give out the paychecks,无
+set up the meeting room,无
+see the personnel officer,无
+get gas,无
+drive to the gym,无
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+do sit-ups,无
+be,"linkv. 有；等同；存在；提供名称或信息时用
+v. 到场；位于；在（某处）；（在某时或某地）发生
+auxv. 与过去分词连用构成被动语态；与现在分词连用构成进行时
+abbr. (=Bank of England)(英国)英格兰银行
+[网络] 是；铍(Beryllium)；比利时(Belgium)"
+was,be的过去式
+were, (we are 的常用口语形式)
+been,be的过去分词
+begin,"v. 开始
+[计] 开始"
+began,begin的过去式
+begun,"v. 开始（begin的过去分词）
+n. (Begun)人名；(俄)别贡；(英)贝根"
+blow,[网络] 打击
+blew,blow的过去式和过去分词
+blown,"a. 吹制的, 喘气的, 开着花的
+blow的过去分词"
+do,"v. 做；进行；完成；做出
+auxv. 用于实义动词前构成否定句和疑问句；构成附加疑问句
+n. 社交聚会；社交活动
+[网络] 溶解氧(dissolved oxygen)；执行；行动"
+did,do的过去式
+done,"adj. 完成了；做好了的；煮熟的；合乎礼仪的
+v. 做（do 的过去分词）
+n. (Done)人名；(西、罗)多内；(英)多恩"
+draw,[计] Acorn的基于对象的矢量图像文件
+drew,draw的过去式
+drawn,"a. 拔出的
+draw的过去分词"
+drive,"n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器
+vt. 开车, 驱使, 推动, 驾驶
+vi. 开车, 猛击, 飞跑
+[计] 驱动器"
+drove,"n. 畜群
+drive的过去式"
+driven,"adj. 被动的，受到驱策的
+v. 驾驶，开车（drive的过去分词）"
+eat,"v. 吃；吃饭；用餐
+[网络] 食；喝；进食"
+ate,"v. eat(吃)的过去式
+[网络] 自动测试设备(Automatic Test Equipment)；自动化测试设备(Automated Test Equipment)；吃的过去式"
+eaten,eat的过去分词
+fall,"n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天
+vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低
+a. 秋天的"
+fell,"vt. 击倒
+n. 一季所伐的木材, 折缝
+a. 凶猛的, 可怕的
+fall的过去式"
+fallen,"a. 堕落的, 落下来的, 陷落的
+fall的过去分词"
+fly,"n. 苍蝇, 两翼昆虫, 飞行
+vi. 飞, 飞翔, 飘扬, 逃走
+vt. 飞, 飞越, 使飘扬, 逃出
+a. 敏捷的"
+flew,fly的过去式
+flown,fly的过去分词
+get,"vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
+vi. 到达, 成为, 变得
+n. (网球等)救球, 生殖, 幼兽
+[计] 取得指令, 获取文件"
+got,[网络] -得到-
+gotten,get的过去分词
+give,"n. 弹性, 适应性
+vt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出
+vi. 捐赠, 支持不住, 让步"
+gave,give的过去式
+given,"a. 赠予的, 沉溺的, 约定的
+give的过去分词"
+go,[网络] 困觉；绿基色输出；格拉苏蒂
+went,"v. 去，过去（go的过去式）
+n. (Went)人名；(德、匈、荷)文特；(英)温特"
+gone,"a. 离去的, 死去的, 用完的
+go的过去分词"
+grow,"vt. 种植, 使长满
+vi. 生长, 变成, 发展"
+grew,grow的过去式
+grown,"a. 长大的, 成年的, 长满某物的
+grow的过去分词"
+know,"v. 知道, 了解, 认识, 确信"
+knew,know的过去式
+known,"a. 已知的, 有名的
+know的过去分词"
+ride,"n. 骑马, 乘坐, 乘车, 搭便车
+vt. 骑, 乘坐, 压迫, 控制
+vi. 骑马, 乘车, 漂游"
+rode,"v. 骑（ride的过去式）
+n. (Rode)人名；(英、法、德、俄、塞、瑞典)罗德"
+ridden,"adj. 充斥…的；受虐待的
+v. 骑（ride的过去分词）"
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+ran,run的过去式
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+see,"vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+saw,[=surface area/weight]体表面积/体重
+seen,see的过去分词
+set,"v. 设置；放；树立；安排
+n. 集；集合；一套；电视机
+adj. 位于（或处于）…的；安排好的；确定的；固定的
+abbr. (=safe electronic transaction)安全电子交易
+[网络] 套装；设定(Settings)；组"
+set,"v. 设置；放；树立；安排
+n. 集；集合；一套；电视机
+adj. 位于（或处于）…的；安排好的；确定的；固定的
+abbr. (=safe electronic transaction)安全电子交易
+[网络] 套装；设定(Settings)；组"
+set,"v. 设置；放；树立；安排
+n. 集；集合；一套；电视机
+adj. 位于（或处于）…的；安排好的；确定的；固定的
+abbr. (=safe electronic transaction)安全电子交易
+[网络] 套装；设定(Settings)；组"
+sing,"vi. 唱歌；歌颂；鸣叫；呼号
+vt. 唱；用诗赞颂；唱着使
+n. 演唱；鸣声；呼啸声
+n. (Sing)人名；(老、德、泰)辛"
+sang,sing的过去式
+sung,sing的过去式和过去分词
+speak,"v. 说；说话；讲话；发言
+[网络] 谈话；演说"
+spoke,"n. 轮辐
+vt. 装轮辐, 用刹车刹住
+speak的过去式"
+spoken,"comb.form 表示“说话有…特点的”：blunt-spoken, quiet-spoken"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+swam,swim的过去式
+swum,swim的过去分词
+take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+took,take的过去式
+taken,take的过去分词
+wear,"n. 穿著,磨损,耐久性
+v. 穿著,用旧,耗损
+n. (Wear)人名；(英)韦尔"
+wore,wear的过去式和过去分词
+worn,"a. 用旧的, 穿旧的
+wear的过去分词"
+write,"vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+wrote,write的过去式
+written,"a. 书面的, 写成文字的
+write的过去分词"
+answer the phone,接电话
+apologize,"vi. 道歉, 辩解"
+daydream,"[医] 白日梦, 白日梦想"
+fail,"vi. 失败, 缺乏, 中断, 衰退, 失灵
+vt. 忘记, 使...失望, 缺乏, 不及格
+n. 不及格"
+get lost,"迷路,迷失方向"
+get stuck in traffic,无
+hand over,交出；移交
+oversleep,v. (使)睡过头
+refuse,"n. 垃圾；废物
+vt. 拒绝；不愿；抵制
+vi. 拒绝"
+shake hands, 握手; 搹
+skip dessert,无
+yell,[网络] 叫喊
+answer the phone,接电话
+daydream,"[医] 白日梦, 白日梦想"
+fail,"vi. 失败, 缺乏, 中断, 衰退, 失灵
+vt. 忘记, 使...失望, 缺乏, 不及格
+n. 不及格"
+get lost,"迷路,迷失方向"
+get stuck in traffic,无
+hand over,交出；移交
+refuse,"n. 垃圾；废物
+vt. 拒绝；不愿；抵制
+vi. 拒绝"
+shake hands, 握手; 搹
+skip dessert,无
+yell,[网络] 叫喊
+arrive late,无
+dance well,无
+do things differently,无
+dress comfortably,无
+drive carefully,无
+get to ... early,无
+practice more,无
+run fast, 跑得快
+speak confidently,无
+speak loud,无
+speak softly, 轻声细语
+study hard, 努力学习; 攻读; 刻苦攻读
+take ... out soon,无
+write legibly,无
+advanced,"a. 在前的, 高级的, 先进的, 年老的
+[法] 预付的, 预支的, 垫付的"
+beginning,"n. 开始；起点
+v. 开始；创建（begin的ing形式）"
+brave,"a. 勇敢的, 美好的, 华丽的
+n. 勇敢者
+vt. 勇敢地面对"
+concerned,"adj. 有关的；关心的
+v. 关心（concern的过去时和过去分词）；与…有关"
+curious,"a. 好奇的, 求知的, 古怪的"
+entire,"n. 整个, 全部
+a. 全体的, 完全的, 全部的"
+exhausted,a. 耗尽的；疲惫的
+financial,"a. 财政的, 金融的
+[经] 财政的, 金融的, 财务的"
+irritable,"a. 易怒的, 急躁的
+[医] 应激性的, 过敏的"
+lonely,"a. 孤单的, 孤寂的, 荒凉的"
+scared,"a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的"
+understanding,"(under-stand 的现在分词) vt. 理解；懂；获悉；推断；省略
+vi. 理解；懂得；熟悉"
+unimportant,a. 不重要的
+bicyclist,"n. 骑自行车者, 骑脚踏车者"
+casserole,"n. 餐桌上用有盖的焙盘, 砂锅菜
+[化] 勺皿"
+courier,"n. 送快信的人, 伴游服务员
+[法] 信使, 送急件者"
+decorations,n. 装修；装饰品（decoration的复数）
+dinosaur skeleton,无
+flowerpot,喇叭皮带线盆;大海棠盆
+identification card,[计] 标识卡
+invention,"n. 发明, 创作能力, 虚构的故事
+[经] 发明"
+mural,"a. 壁的, 壁上的, 壁似的
+n. 壁画"
+pickpocket,[网络] 扒手；偷窃；钱包被扒
+poodle,"n. 鬈毛狗, 追随者
+vt. 把(狗)的毛修剪成拳曲状"
+puddle,"n. 小池, 水坑, 胶土
+vt. 搅浊, 搅炼
+vi. 在泥污中打滚, (把黏土等)捣制成胶土"
+sidewalk,人行道
+uniform,"n. 制服
+a. 统一的, 一律的, 始终如一的"
+windowsill,窗台
+accident report,[机] 意外事故报告
+architect,"n. 建筑师, 设计者, 缔造者"
+architecture,"n. 建筑学, 建筑式样
+[计] 体系结构"
+bicyclist,"n. 骑自行车者, 骑脚踏车者"
+casserole,"n. 餐桌上用有盖的焙盘, 砂锅菜
+[化] 勺皿"
+ceremonies,n. 典礼( ceremony的名词复数 ); 仪式; 礼节; 礼仪
+construction,"n. 建筑, 构造, 建筑物
+[化] 施工"
+courier,"n. 送快信的人, 伴游服务员
+[法] 信使, 送急件者"
+decorations,n. 装修；装饰品（decoration的复数）
+dinosaur skeleton,无
+electric lights,n. 电灯；电光
+example,"n. 例子；榜样
+vt. 作为…的例子；为…做出榜样
+vi. 举例"
+flowerpot,喇叭皮带线盆;大海棠盆
+governor,"n. (美)州长, (英)总督, 统治者, 管理者, 理事
+[医] 节制器, 调节器"
+headquarters, （机构， 企业等的）总部; 总店（head-quarter的名词复数）
+identification card,[计] 标识卡
+information technology,[电] 信息技术
+interior,"n. 内部, 内政
+a. 内部的, 心灵的, 内地的, 内政的"
+invention,"n. 发明, 创作能力, 虚构的故事
+[经] 发明"
+materials,n. 材料；材料费；材料科学；材质（material的复数）
+mayor,[地名] 马约河 ( 阿根、秘 )
+meeting room,会议室
+mural,"a. 壁的, 壁上的, 壁似的
+n. 壁画"
+opening day,开幕日
+overnight mail,无
+pickpocket,[网络] 扒手；偷窃；钱包被扒
+plumbing,"n. 测深, 管子工行业, 管道设备"
+political cartoon,[网络] 政治漫画；政治卡通
+poodle,"n. 鬈毛狗, 追随者
+vt. 把(狗)的毛修剪成拳曲状"
+puddle,"n. 小池, 水坑, 胶土
+vt. 搅浊, 搅炼
+vi. 在泥污中打滚, (把黏土等)捣制成胶土"
+short story,n. 短篇小说
+sidewalk,人行道
+soldiers,n. [军] 士兵；战士数量（soldier的复数）
+sonata,n. 奏鸣曲
+statistics,"n. 统计学, 统计资料
+[计] 统计信息"
+structure,"n. 结构；构造；体系；结构体
+v. 使形成体系；系统安排；精心组织
+[网络] 建筑物；组织结构；市场结构"
+uniform,"n. 制服
+a. 统一的, 一律的, 始终如一的"
+warehouse,"n. 仓库；货栈；大商店
+vt. 储入仓库；以他人名义购进（股票）"
+will,"n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱
+vt. 用意志的力量驱使, 决意, 愿意, 立遗嘱
+vi. 下决心, 愿意
+aux. 将, 愿意, 必须"
+windowsill,窗台
+battery,"n. 电池, 殴打
+[化] 蓄电池"
+brakes,n. 刹车系统；制动；刹车（brake的复数）
+bumper,"n. 缓冲器, 满杯
+a. 大胜利的"
+engine,"n. 引擎, 发动机, 机车
+vt. 安装发动机于"
+headlight,前灯
+hood,"n. 罩；风帽；（布质）面罩；学位连领帽（表示学位种类）
+v. 覆盖；用头巾包；使(马,鹰等)戴头罩；给…加罩
+[网络] 胡德；兜帽；引擎盖"
+oil,[网络] 国际法制计量组织；油剂
+rear window, 后窗玻璃
+tires,n. 轮胎（tire的复数）
+amazing,a. 令人惊异的
+colorful,"a. 华美的, 富有色彩的, 有趣的"
+fascinating,"a. 迷人的, 吸引人的, 使人神魂颠倒的"
+finest,n. [总称]警察
+impressive,"a. 给人深刻印象的, 威严的"
+magnificent,"a. 华丽的, 高尚的, 宏伟的"
+original,"a. 最初的, 原始的, 有创意的
+n. 原物, 原作"
+overseas,"adv. 在海外，海外
+adj. 海外的，国外的"
+scary,"a. 容易受惊的, 胆小的, 提心吊胆的"
+adjust,"vt. 调整, 使适应于, 校准
+vi. 适应于, 被调节, 相互熟悉而适应"
+break out,"突发, 爆发, 叫嚷, 倒空, 取出, 使作准备
+[机] 铸漏"
+charge,"n. 指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令
+vt. 控诉, 加罪于, 使充满, 使充电, 使承担
+vi. 冲锋, 要价, 收费"
+check,"n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
+vt. 检查, 阻止, 核对, 寄存, 托运
+vi. 逐项相符, 开支票
+[计] 复选"
+clip,"n. 修剪, 夹子, 回形针, 剪下来的东西
+vt. 修剪, 痛打, 夹牢, 剪报
+vi. 剪报"
+complete,"a. 完全的, 十足的, 完成的
+vt. 完成, 完工, 使圆满"
+design,"n. 设计, 图样, 方案, 企图
+v. 设计, 计划"
+destroy,vt. 破坏；消灭；毁坏
+hold,"n. 把握, 把持力, 柄, 控制, 掌握, 监禁
+vt. 保存, 握住, 拿住, 占据, 持有, 拥有
+vi. 支持, 持续, 有效
+n. 保留
+[计] 保留"
+install,vt. 安装；设置；正式任命；使就职；任用；安顿；安置
+knock down,"na. 打倒；拆除；拆卸；(拍卖时)敲槌卖出
+[网络] 撞倒；击倒；击落"
+offer,"n. 给予(物), 出价, 提议, 意图, 报价
+vt. 提供, 出价, 奉献, 试图, 使出现, 演出
+vi. 出现, 献祭, 提议, 求婚"
+promote,"vt. 促进, 晋升, 创办, 推销
+[经] 促进, 推广, 推销"
+rebuild,"vt. 重建；改造, 重新组装；复原
+vi. 重建"
+register,"n. 寄存器, 记录, 登记簿, 注册
+vt. 记录, 注册, 提示, 表达, 把...挂号
+vi. 登记, 注册, 挂号
+[计] 寄存器"
+reject,"n. 被拒之人, 被弃之物, 不合格品, 次品
+vt. 拒绝, 抵制, 否决, 驳回, 丢弃, 呕出"
+reopen, 重张
+repaint,"vt. 重画；重新绘制；重漆
+n. 重新油漆的东西；重画的画"
+replace,"vt. 取代, 代替；替换, 更换；归还, 偿还；把…放回原处"
+rewrite,"v. 改写；重写
+n. 重写或改写的文稿；改写的作品"
+splash,"n. 飞溅, 污点, 一点儿, 溅泼声, 色斑
+vi. 溅湿, 溅开, 飞溅
+vt. 溅, 泼, 使溅起水, 洒, 使成斑驳状"
+sting,"n. 叮, 刺痛, 刺激, 讽刺
+vt. 叮, 刺痛, 刺激, 使苦恼
+vi. 叮, 刺痛"
+tune up,"调音, 定弦, 调整, 调节"
+conductor,"n. 领导者, 指挥者, 售票员, 向导
+[化] 导体"
+flight attendant,n. 飞行服务员
+librarian,"n. 图书馆员, 图书管理员
+[计] 程序库管理程序; 程序库生成程序"
+lifeguard,n. 救生员
+prime minister,"总理, 首相
+[法] 总理, 首相, 内阁总理"
+real estate agent,"n. 房地产经纪人
+[网络] 房地产代理；房产中介；地产代理人"
+receptionist,n. 接待员
+security guard,[计] 安全保护
+ticket agent,"代理售票人
+[经] 售票代理处"
+usher,"n. 引座员，带位员；接待员；门房
+vt. 引导，招待；迎接；开辟
+vi. 作招待员；当引座员
+n. (Usher)人名；(英)厄舍；(西、科特)乌谢尔"
+birthmark,"[法] 胎记, 痣, 人的特徵"
+plane ticket,n. 飞机票
+restrooms,n. 公共洗手间（restroom的复数）
+scar,[网络] S号汽车
+tonsils,n. 扁桃体( tonsil的复数形式 )
+conductor,"n. 领导者, 指挥者, 售票员, 向导
+[化] 导体"
+flight attendant,n. 飞行服务员
+librarian,"n. 图书馆员, 图书管理员
+[计] 程序库管理程序; 程序库生成程序"
+lifeguard,n. 救生员
+prime minister,"总理, 首相
+[法] 总理, 首相, 内阁总理"
+real estate agent,"n. 房地产经纪人
+[网络] 房地产代理；房产中介；地产代理人"
+receptionist,n. 接待员
+security guard,[计] 安全保护
+ticket agent,"代理售票人
+[经] 售票代理处"
+usher,"n. 引座员，带位员；接待员；门房
+vt. 引导，招待；迎接；开辟
+vi. 作招待员；当引座员
+n. (Usher)人名；(英)厄舍；(西、科特)乌谢尔"
+birthmark,"[法] 胎记, 痣, 人的特徵"
+capital,"n. 首都, 大写字母, 资本
+a. 首都的, 重要的"
+details,[网络] 细节
+information sheet,单篇情报资料
+missing person,[法] 失踪人
+plane ticket,n. 飞机票
+restrooms,n. 公共洗手间（restroom的复数）
+scar,[网络] S号汽车
+surprise quiz,无
+tonsils,n. 扁桃体( tonsil的复数形式 )
+assassinate,"vt. 暗杀, 行刺
+[法] 暗杀, 行刺, 中伤"
+check with,与...相符合
+come by,"从旁边走过, 得到"
+mean,"a. 低劣的, 卑贱的, 简陋的, 吝啬的, 惭愧的, 平均的, 中间的, 普通的
+vt. 意谓, 想要, 意欲, 预定
+vi. 用意, 有意义
+n. 平均数, 中间, 中庸"
+rob,[网络] 船上所有
+sign,"n. 符号, 招牌, 征兆, 正负号, 手势
+vt. 签名, 打手势表达
+vi. 签名
+[计] 正负号; 符号; 符号字符"
+vote,"n. 投票, 选举, 选票, 表决, 选举权, 得票数
+vi. 投票, 选举
+vt. 投票选举, 投票决定, 公认, 使投票"
+coin,"n. 硬币, 金钱, 货币
+vt. 铸币, 创造, 杜撰"
+pollution,"n. 污染, 玷污
+[化] 污染"
+report card,n. 成绩单
+representative,"n. 代表, 众议员, 典型
+a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
+wishing well, （投币）许愿井
+drop in,顺便走访
+encourage,"vt. 鼓励, 支持, 激励
+[法] 怂恿, 煽动, 助长"
+hold hands,"na. 手搀手
+[网络] 牵手；握住双手；手牵手"
+increase,"n. 增加, 增进, 利益
+vt. 增加, 加大
+vi. 增加, 繁殖"
+sneeze,"n. 喷嚏
+vi. 打喷嚏"
+aggressive,"a. 侵略的, 挑畔的, 进取的
+[法] 侵略的, 爱挑衅的, 行为过火的"
+burnt,burn的过去式和过去分词
+carsick,adj. 晕车的
+dressed up,adj. 穿上盛装的；装扮成…的
+missing,"adj. 失踪的；缺少的
+v. 错过（miss的ing形式）；想念；漏掉
+n. (Missing)人名；(德)米辛"
+break up,"v. 拆散；打碎；剖割(兽体等)；破坏
+[网络] 分手；结束；分解"
+drop in,顺便走访
+encourage,"vt. 鼓励, 支持, 激励
+[法] 怂恿, 煽动, 助长"
+get accepted,无
+get paid, 领工资
+get worse,v. 转坏
+hold hands,"na. 手搀手
+[网络] 牵手；握住双手；手牵手"
+hope,"n. 希望, 信心, 期待
+v. 希望, 期望, 信赖"
+increase,"n. 增加, 增进, 利益
+vt. 增加, 加大
+vi. 增加, 繁殖"
+make a wish,"欲望, 企图, 幻想"
+miss,"n. 失误, 避免, 失败, 小姐
+vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
+vi. 失败, 击不中"
+skip,"n. 跳跃, 跳读
+vi. 跳越, 跳读, 跳绳, 遗漏, 跳级
+vt. 跳过, 遗漏
+[计] 跳过"
+sneeze,"n. 喷嚏
+vi. 打喷嚏"
+spoil,"n. 战利品, 赃物, 奖品, 变质, 次品
+vt. 损坏, 破坏, 溺爱
+vi. 腐坏, 掠夺"
+access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
+vt. 访问, 存取, 接近, 使用
+[计] 访问, 存取"
+bonus,"n. 奖金, 红利
+[经] 奖金, 红利, 额外补贴"
+coin,"n. 硬币, 金钱, 货币
+vt. 铸币, 创造, 杜撰"
+Congress,"n. 国会, 会议, 讨论会
+[医] 会议, 会合"
+drill,"n. 钻孔机, 钻子, 播种机, 粗斜纹布
+v. 训练, 钻孔"
+economy,[网络] 经济；电子经济
+environment,"n. 环境, 外界, 围绕
+[计] 环境"
+physical condition,身体状况
+pollution,"n. 污染, 玷污
+[化] 污染"
+profits,n. [会计] 收益，红利；盈利（profit的复数）
+reaction,"n. 反应, 反作用, 反动
+[医] 反应"
+report card,n. 成绩单
+representative,"n. 代表, 众议员, 典型
+a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
+sound,"n. 声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡
+a. 健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的
+adv. 彻底地, 充分地
+vi. 发出声音, 回响, 测深, 试探, 听起来
+vt. 使发声, 宣告, 听诊, 测...深, 试探
+[计] 声音"
+spot,"n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量
+a. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的
+vt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射
+vi. 玷污, (从空中)侦察敌方目标"
+success,[网络] 越走越近
+wish,"n. 希望, 愿望, 祝愿, 命令, 请求
+vt. 愿, 想要, 希望, 祝愿
+vi. 希望"
+wishing well, （投币）许愿井
+aggressive,"a. 侵略的, 挑畔的, 进取的
+[法] 侵略的, 爱挑衅的, 行为过火的"
+burnt,burn的过去式和过去分词
+carsick,adj. 晕车的
+dressed up,adj. 穿上盛装的；装扮成…的
+important,[网络] 重要；紧要
+missing,"adj. 失踪的；缺少的
+v. 错过（miss的ing形式）；想念；漏掉
+n. (Missing)人名；(德)米辛"
+classified ad,n. 分类广告
+day shift,"日班
+[化] 日班"
+night shift,"夜班
+[经] 夜班"
+full-time job,无
+part-time job,无
+baby food,幼(婴)儿食品
+baby picture, 婴儿照
+beard,"n. 胡须
+vt. 抓住胡须, 公开反对"
+driver's ed,[网络] 驾驶；驾驶课；驾驶员知识题
+fan,"fan1
+[fæn]
+n.
+任何通过扇动引起空气流动的装置
+(羽毛、纸或布做的)扇子
+风扇
+扇形物(如鸟尾等)
+(风车的)翼，叶片，螺旋桨
+扬谷机
+【地理学】扇状三角洲际
+[俚语](扒手为探明钱物的部位，用手在扒窃对象身上)快速的一摸
+vt.
+(用扇子)扇：
+He fanned the fire.
+他用扇子扇火。
+(用扇)向…搧风；吹凉(食物等)：
+She fanned her face with a paper.
+她用纸向脸上搧风。
+煽动，鼓动，激起：
+to fan resentment
+激起忿恨
+(用扇)驱赶
+把…展成扇形：
+She fanned out the cards in her hand.
+她将纸牌在手中展成扇形。
+风选(谷)；扬去(糠、杂物等)
+[美国俚语]
+拍击，拍打
+(用枪)连击
+[美国英语]【棒球】使(击球员)三击不中出局
+vi.
+飘动，轻拂：
+the flag fanning in the breeze
+微风中飘动的旗帜
+成扇形展开(常与out连用)：
+The troops fanned out as they advanced.
+部队向前推进时呈扇形散开。
+The fire fanned out in all directions.
+大火向四周呈扇形蔓延。
+[美国英语]【棒球】(击球员)三击不中出局
+[口语]闲聊
+[口语](为窃取钱币)拨弄公用电话机的贮钱装置
+[英国英语](扒手为探明钱物往扒窃对象身上)快速地一摸
+短语:
+fan someone's tail
+打屁股
+flirt a (或 one's) fan
+一下子把扇子打开(或合拢)
+灵活地挥动扇子
+hit the fan
+[美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响
+变形：
+vt.
+fanned
+. fanning
+fan2
+[fæn]
+n.
+[美国口语](运动、娱乐等的)狂热者，爱好者，热心之士，…迷；(对演员、电影明星的)狂热仰慕者"
+foreign language,n. 外文，外语; 外国语
+obituary,"a. 关于死亡的, 讣告的
+n. 讣告"
+pronunciation,"n. 发音, 读法"
+taxes,n. 税收，税金；税务；[税收] 税捐
+voter,"n. 选民, 投票人
+[法] 选民, 选举人, 投票人"
+baby food,幼(婴)儿食品
+baby picture, 婴儿照
+beard,"n. 胡须
+vt. 抓住胡须, 公开反对"
+classified ad,n. 分类广告
+day shift,"日班
+[化] 日班"
+driver's ed,[网络] 驾驶；驾驶课；驾驶员知识题
+fan,"fan1
+[fæn]
+n.
+任何通过扇动引起空气流动的装置
+(羽毛、纸或布做的)扇子
+风扇
+扇形物(如鸟尾等)
+(风车的)翼，叶片，螺旋桨
+扬谷机
+【地理学】扇状三角洲际
+[俚语](扒手为探明钱物的部位，用手在扒窃对象身上)快速的一摸
+vt.
+(用扇子)扇：
+He fanned the fire.
+他用扇子扇火。
+(用扇)向…搧风；吹凉(食物等)：
+She fanned her face with a paper.
+她用纸向脸上搧风。
+煽动，鼓动，激起：
+to fan resentment
+激起忿恨
+(用扇)驱赶
+把…展成扇形：
+She fanned out the cards in her hand.
+她将纸牌在手中展成扇形。
+风选(谷)；扬去(糠、杂物等)
+[美国俚语]
+拍击，拍打
+(用枪)连击
+[美国英语]【棒球】使(击球员)三击不中出局
+vi.
+飘动，轻拂：
+the flag fanning in the breeze
+微风中飘动的旗帜
+成扇形展开(常与out连用)：
+The troops fanned out as they advanced.
+部队向前推进时呈扇形散开。
+The fire fanned out in all directions.
+大火向四周呈扇形蔓延。
+[美国英语]【棒球】(击球员)三击不中出局
+[口语]闲聊
+[口语](为窃取钱币)拨弄公用电话机的贮钱装置
+[英国英语](扒手为探明钱物往扒窃对象身上)快速地一摸
+短语:
+fan someone's tail
+打屁股
+flirt a (或 one's) fan
+一下子把扇子打开(或合拢)
+灵活地挥动扇子
+hit the fan
+[美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响
+变形：
+vt.
+fanned
+. fanning
+fan2
+[fæn]
+n.
+[美国口语](运动、娱乐等的)狂热者，爱好者，热心之士，…迷；(对演员、电影明星的)狂热仰慕者"
+foreign language,n. 外文，外语; 外国语
+full-time job,无
+high-rise building,无
+Internet company,[网络] 网络公司；国际网络公司；互联网公司
+night shift,"夜班
+[经] 夜班"
+obituary,"a. 关于死亡的, 讣告的
+n. 讣告"
+part-time job,无
+pronunciation,"n. 发音, 读法"
+repairs,"(re-pair 的第三人称 -s形式) vi. 修理；修复
+vt. 修理；恢复；补救, 纠正
+n. 修理, 修补；修补部位"
+spare time,n. 消遣时间; 闲空; 余; 工余
+suburbs,n. 郊外（suburb的复数）
+taxes,n. 税收，税金；税务；[税收] 税捐
+view,"n. 视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象
+vt. 看, 考虑, 视察, 查看, 估量
+[计] 视图"
+voter,"n. 选民, 投票人
+[法] 选民, 选举人, 投票人"
+borrow,"vt. 借, 借入, 借用
+vi. 借
+[计] 借位; 借位数"
+commute,"vt. 交换, 折偿, 减轻
+vi. 代偿, 经常乘车来往"
+concentrate,"n. 浓缩, 精选
+v. 集中, 专心"
+convince,"vt. 说服, 使相信
+[法] 使确信, 使信服, 使人认识错误"
+drop out of,"退出,辍学,脱离"
+evict,"vt. 逐出, 赶出, 驱逐
+[法] 逐出, 驱逐, 没收"
+go out with,和…约会
+miss,"n. 失误, 避免, 失败, 小姐
+vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
+vi. 失败, 击不中"
+raise,"n. 上升, 高地, 增高
+vt. 升起, 举起, 唤起, 提高, 使出现, 使复活, 提出, 筹集, 饲养"
+roll,"n. 卷, 滚动, 名单, 案卷, 压路机
+vi. 滚, 滚动, 飘流, 起伏, 卷, 绕
+vt. 使滚动, 卷, 绕"
+show,"n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相
+vt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领
+vi. 露面, 显现, 演出
+[计] 显示"
+skip,"n. 跳跃, 跳读
+vi. 跳越, 跳读, 跳绳, 遗漏, 跳级
+vt. 跳过, 遗漏
+[计] 跳过"
+angry,"a. 生气的, 愤怒的"
+annoyed,a. 恼怒的；烦闷的
+disappointed,a. 失望的
+embarrassed,[网络] 尴尬
+jealous,"a. 嫉妒的, 羡慕的, 留心的, 戒备的"
+mad,"adj. 疯狂的；发疯的；愚蠢的；着迷的
+n. 狂怒"
+self-conscious,无
+unhappy,[网络] 不开心
+upset,上端局设备
+all thumbs, 笨手笨脚的
+better ear,无
+lose your shirt,[网络] 丧失全部财产；恤衫都输埋；失去你嘅裇衫
+peace and quiet,[网络] 安定；不纷扰；安静
+sick and tired,[网络] 十分厌烦；经受疾病与疲倦；烦透了
+two left feet,[网络] 有两左脚；笨手笨脚；有两只左脚
+audience,"n. 听众, 观众, 读者
+[法] 听讼, 观众, 听众"
+cactus plant,无
+chemistry set,一套化学用具
+flu shot,注射流感疫苗
+income tax form,[经] 所得税申报书
+ingredients,材料；作料
+metal detector,[电] 金属检查器
+minister,"n. 部长, 牧师, 公使
+vi. 服侍, 救助, 主持宗教仪式"
+mortgage,"n. 抵押, 约束性义务, 抵押借款
+vt. 抵押, 以...作担保, 把...许给"
+performance,"n. 施行, 工作情况, 成绩, 行为, 表现, 演出
+[电] 绩效, 性能"
+postcard,明信片
+printer,"n. 印刷工, 打印机
+[计] 打印机"
+snowman,[网络] 雪人；小雪人；雪人於
+traffic light,"红绿灯
+[法] 交通指挥灯"
+wedding dress,n. 结婚礼服
+alarm clock,闹钟
+assembly line,"装配线
+[经] 装配线, 流水作业线"
+audience,"n. 听众, 观众, 读者
+[法] 听讼, 观众, 听众"
+automobile factory, 汽车制造厂; 汽车厂
+cactus plant,无
+chemistry set,一套化学用具
+condo,"n. 共同统治, 共管下的政府, 共管, 多层公寓大楼, 由个人占用的一套公寓房间"
+cotton,"n. 棉花
+vi. 和谐, 有好感, 理解"
+disease,[网络] 不舒服；不适；疾病
+encore,"n. 再演唱的要求, 要次登场
+interj. 再演唱一次
+vt. 要求再演(或唱)"
+flu shot,注射流感疫苗
+income tax form,[经] 所得税申报书
+ingredients,材料；作料
+metal detector,[电] 金属检查器
+minister,"n. 部长, 牧师, 公使
+vi. 服侍, 救助, 主持宗教仪式"
+mood,"n. 心情, 气氛, 生气, 基调
+[医] 心境"
+mortgage,"n. 抵押, 约束性义务, 抵押借款
+vt. 抵押, 以...作担保, 把...许给"
+nursery school,幼儿园
+optimist,"n. 乐观者, 乐观主义者"
+performance,"n. 施行, 工作情况, 成绩, 行为, 表现, 演出
+[电] 绩效, 性能"
+postcard,明信片
+printer,"n. 印刷工, 打印机
+[计] 打印机"
+relatives,n. 亲属；[语法学]关系词（relative的复数）
+rumor,"n. 谣言, 传闻
+vt. 谣传"
+school play, 校园剧
+snowman,[网络] 雪人；小雪人；雪人於
+traffic light,"红绿灯
+[法] 交通指挥灯"
+wedding dress,n. 结婚礼服
+close down,"关闭, 歇业, 停止播音"
+expect,"vt. 预期, 盼望, 期待"
+get searched,无
+get stopped,无
+hand in,"na. 交进
+[网络] 上交；交上；递交"
+perform,"vt. 进行, 履行, 完成, 执行, 表演
+vi. 行动, 工作, 执行, 演出"
+run by,[网络] 运行者；解释给…听；问…意见
+save,"n. 救球
+vt. 解救, 挽救, 储蓄, 保存, 节省, 保留
+vi. 挽救, 节省, 救球
+prep. 除...之外
+[计] 保存"
+scold,"n. 好骂街的人, 责骂
+v. 责骂"
+set off,"na. 分；分割；划开；区划
+[网络] 出发；动身；引起"
+shrink,"n. 收缩, 萎缩, 回避
+vi. 收缩, 退缩, 萎缩, 缩小, 回避
+vt. 使收缩, 使缩小"
+shut down,"na. 关闭；关拢(窗等)；停业；禁止
+[网络] 关机；停工；使关闭"
+take lessons,"听课,学习"
+trust,"n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯
+a. 信托的, 托拉斯的
+vt. 信赖, 信任, 相信, 盼望, 赊卖给
+vi. 相信, 信赖, 依靠
+[计] 委托, 信任"
+confused,"adj. 困惑的；混乱的；糊涂的
+v. 困惑（confuse的过去式）"
+convinced,"a. 确信的, 深信的"
+irritable,"a. 易怒的, 急躁的
+[医] 应激性的, 过敏的"
+lonely,"a. 孤单的, 孤寂的, 荒凉的"
+miserable,a. 悲惨的；痛苦的；卑鄙的
+prepared,"adj. 准备好的；精制的
+v. 准备（prepare的过去分词）"
+rare,"a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的
+adv. 非常"
+have a hard day,无
+out of place,"不在合适位置, 不合适"
+put up for sale,"na. 拿出拍卖
+[网络] 拿出销售；可供出售"
+run out of,用完
+set on fire, 激起
+under the weather," 身体不舒服, 心情不好"
+bride,n. 新娘
+groom,"n. 马夫, 新郎, 男仆
+vt. 喂马, 使...整洁, 推荐
+vi. 打扮, 穿戴"
+interviewer,"n. 会见者, 面谈者, 进行面试者"
+movie star,n. 电影明星
+school-bus driver,无
+college entrance exam,无
+dictionary,"n. 字典, 词典
+[计] 词典"
+engine,"n. 引擎, 发动机, 机车
+vt. 安装发动机于"
+lion,"n. 狮子；名人；勇猛的人；社交场合的名流
+n. (Lion)人名；(西、葡)利昂；(德、法、意、捷、瑞典)利翁；(英)莱昂"
+message,"n. 消息, 通讯, 讯息, 教训, 预言, 广告词
+vt. 通知
+vi. 通报, 报告, 报信
+[计] 报文; 消息; 信息"
+navy,"n. 海军, 海军人员, 海军军力, 烟蒂"
+pipe,"n. 管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器
+vt. 以管输送, 吹哨子, 吹奏, 尖声唱
+vi. 吹笛, 尖叫, 吹长哨发令
+[计] 管道"
+puppy,"n. 小狗, 小动物, 自负的年轻人"
+radiator,"n. 暖气装置, 散热器, 辐射体
+[化] 散热器"
+robbery,"n. 抢掠, 抢夺
+[法] 强盗, 抢劫, 劫掠"
+advice,"n. 忠告, 劝告, 意见, 报道, 通知
+[经] 通知书, 通知, 建议"
+bride,n. 新娘
+college entrance exam,无
+dictionary,"n. 字典, 词典
+[计] 词典"
+engine,"n. 引擎, 发动机, 机车
+vt. 安装发动机于"
+grease,"n. 脂肪, 兽脂, 油脂, 贿赂
+vt. 涂脂于, 贿赂"
+groom,"n. 马夫, 新郎, 男仆
+vt. 喂马, 使...整洁, 推荐
+vi. 打扮, 穿戴"
+interviewer,"n. 会见者, 面谈者, 进行面试者"
+lion,"n. 狮子；名人；勇猛的人；社交场合的名流
+n. (Lion)人名；(西、葡)利昂；(德、法、意、捷、瑞典)利翁；(英)莱昂"
+message,"n. 消息, 通讯, 讯息, 教训, 预言, 广告词
+vt. 通知
+vi. 通报, 报告, 报信
+[计] 报文; 消息; 信息"
+movie star,n. 电影明星
+navy,"n. 海军, 海军人员, 海军军力, 烟蒂"
+pipe,"n. 管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器
+vt. 以管输送, 吹哨子, 吹奏, 尖声唱
+vi. 吹笛, 尖叫, 吹长哨发令
+[计] 管道"
+position,[网络] 位置
+puppy,"n. 小狗, 小动物, 自负的年轻人"
+radiator,"n. 暖气装置, 散热器, 辐射体
+[化] 散热器"
+robber,"n. 强盗, 盗贼"
+school-bus driver,无
+training,"n. 训练, 培养
+[医] 训练"
+advise,"vt. 劝告, 给...出主意, 通知, 建议
+vi. 提意见, 商量"
+apply,"vt. 涂, 应用
+vi. 申请, 适用"
+bother,"vt. 烦扰, 迷惑
+vi. 烦恼, 操心
+n. 麻烦, 纠纷, 讨厌的人"
+cancel,"n. 取消, 撤消, 盖销(邮票)
+vt. 取消, 删去, 抵销, 盖销
+vi. 相互抵销
+[计] 作废"
+clog,"n. 障碍, 脚坠
+v. 障碍, 阻塞"
+deliver,"vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付
+[经] 交运"
+depend,"vi. 靠, 视...而定, 信赖"
+disturb,"vt. 扰乱, 妨碍, 使不安
+[法] 滋扰, 扰乱"
+dye,[网络] 染料
+escape,"n. 逃亡, 避难设备, 逃跑
+vi. 逃脱, 避开, 溜走
+vt. 逃避, 避免, 被...忘掉"
+kiss,[网络] 小司
+leave on,[网络] 留住；让…留在原处；好聚好散
+lock,[网络] -锁
+pour,"n. 流出, 倾泻, 骤雨
+vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐
+vi. 倾泻, 蜂涌而来, 下大雨"
+prevent,"v. 预防, 防止, 阻止, 妨碍"
+annoyed,a. 恼怒的；烦闷的
+confident,"a. 有信心的, 有把握的"
+engaged,"a. 忙碌的, 使用中的"
+prepared,"adj. 准备好的；精制的
+v. 准备（prepare的过去分词）"
+professional,"n. 专业人才
+a. 专业的, 职业的"
+qualified,"a. 有资格的
+[经] 合格的, 有条件的, 有限制的"
+reassured,"(re-assure 的过去分词) vt. 使…安心, 使消除疑虑"
+unaware,"a. 未认识到的, 不知道的
+[法] 不知道的, 不察觉的, 无意的"
+willing,"a. 乐意的, 自愿的, 甘愿的"
+couple,"n. 对, 夫妇, 数个
+vt. 使成双, 连接, 使成婚, 把...联系起来
+vi. 结合, 成婚"
+dolphin,n. 海豚
+kite,"n. 风筝, 筝帆, 空头支票, 骗子
+vi. 象风筝一样飞, 轻快地移动, 使用空头支票
+vt. 使上升, 骗钱"
+memo,"n. 备忘录
+[经] 备忘录"
+moon,"n. 月亮, 月球, 月光
+vi. 闲荡
+vt. 虚度"
+spare tire,n. 备用轮胎
+toaster,"n. 烤面包器, 烤面包炉, 祝酒人"
+wagon,"n. 四轮马车, 货车
+[法] 囚车, 马车, 运货车"
+engaged,"a. 忙碌的, 使用中的"
+overcooked,"(over-cook 的过去分词) 过煮
+糊煮"
+punctual,"a. 准时的, 守时的, 点状的, 中肯的
+[经] 准时的, 不误期的, 准时"
+scary,"a. 容易受惊的, 胆小的, 提心吊胆的"
+allergic,"a. 对...过敏的, 极反感的
+[医] 变应性的"
+angry,"a. 生气的, 愤怒的"
+considerate,adj. 体谅的，体贴的，关切的；考虑周全的，周密的；[废语]谨慎的；深思熟虑的
+cooperative,"a. 合作的；有协作精神的；愿意配合的; 齐心协力的；合作进行的
+n. 合作社；合作机构"
+dedicated,"a. 专注的, 献身的"
+efficient,"comb.form 表示“效率高的”,“充分利用的”：cost-efficient,energy-efficient"
+engaged,"a. 忙碌的, 使用中的"
+famous,"a. 出名的, 极好的"
+friendly,[网络] -友善
+generous,"具,有"
+honest,"a. 诚实的, 坦直的, 可靠的"
+industrious,"a. 勤勉的, 刻苦的"
+nervous,adj. 神经的；紧张不安的；强健有力的
+online,"[经] (与主机)联机, 在线, 机内"
+overcooked,"(over-cook 的过去分词) 过煮
+糊煮"
+pleased,"a. 高兴的, 喜欢的, 满足的"
+polite,"a. 有礼貌的, 文雅的, 客气的, 有教养的"
+promoted,a. 晋升的
+punctual,"a. 准时的, 守时的, 点状的, 中肯的
+[经] 准时的, 不误期的, 准时"
+scary,"a. 容易受惊的, 胆小的, 提心吊胆的"
+shocked,a. 震撼的；震惊的
+sour,"a. 酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的
+vi. 变酸, 发酵, 厌烦, 变坏
+vt. 使变酸, 使失望
+n. 酸味, 酸饮料"
+unfair,"a. 不公平的, 不正直的, 不正当的
+[法] 不正直的, 不公平的, 偏颇的"
+upset,上端局设备
+accusation,"n. 控告, 指控, 指责
+[法] 控告, 起诉, 告发"
+championship,n. 锦标赛；冠军称号；冠军的地位
+common cold,[医] 感冒
+couple,"n. 对, 夫妇, 数个
+vt. 使成双, 连接, 使成婚, 把...联系起来
+vi. 结合, 成婚"
+cure,"n. 治疗, 治愈, 治疗法
+vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化
+vi. 受治疗, 被加工处理, 被硫化"
+dolphin,n. 海豚
+engagement,"n. 诺言, 约会, 婚约, 交战
+[医] 衔接"
+guy,"n. 家伙, 支索
+vt. 用支索撑住, 取笑, 嘲弄
+vi. 逃跑"
+memo,"n. 备忘录
+[经] 备忘录"
+moon,"n. 月亮, 月球, 月光
+vi. 闲荡
+vt. 虚度"
+Olympics,n. 奥林匹克运动会
+performance,"n. 施行, 工作情况, 成绩, 行为, 表现, 演出
+[电] 绩效, 性能"
+ride,"n. 骑马, 乘坐, 乘车, 搭便车
+vt. 骑, 乘坐, 压迫, 控制
+vi. 骑马, 乘车, 漂游"
+SAT test score,无
+spare tire,n. 备用轮胎
+spot,"n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量
+a. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的
+vt. 点缀, 玷污, 认出, 准确定...的位, 用灯光照射
+vi. 玷污, (从空中)侦察敌方目标"
+suspect,"n. 被怀疑者, 嫌疑犯
+a. 令人怀疑的, 不可信的, 可疑的
+v. 怀疑, 猜想"
+toaster,"n. 烤面包器, 烤面包炉, 祝酒人"
+vacation day,[网络] 带薪假期；假期日
+wagon,"n. 四轮马车, 货车
+[法] 囚车, 马车, 运货车"
+wedding anniversary, 结婚纪念
+White House,[经] 白宫
+celebrate,"v. 庆祝, 祝贺, 举行"
+complain,"v. 抱怨, 抗议, 控诉"
+date,"n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+discover,"vt. 发现, 找到, 暴露
+vi. 发现"
+lock,[网络] -锁
+mention,"n. 提到, 言及, 陈述
+vt. 提到, 提及"
+miss,"n. 失误, 避免, 失败, 小姐
+vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
+vi. 失败, 击不中"
+move out,"搬出, 出发"
+observe,"vt. 觉察到, 遵守, 注意到, 庆祝
+vi. 注意, 评论"
+perform,"vt. 进行, 履行, 完成, 执行, 表演
+vi. 行动, 工作, 执行, 演出"
+play frisbee,无
+skateboard,n. 溜冰板
+star,"n. 星, 恒星, 星形物, 运气, 明星
+vt. 以星状物装饰, 用星号标, 使成为明星
+vi. 变成明星"
+taste,"n. 味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量
+vt. 尝, 察觉...的味道, 体会
+vi. 品尝, 察觉味道, 有某种味道"
+tie my shoes,无
+cast,"vt. 投，抛；计算；浇铸；投射（光、影、视线等）
+n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
+vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+n. (Cast)人名；(法)卡斯特"
+chicken pox,水痘
+cockroach,[网络] 蟑螂液
+diner,n. 用餐者
+files,n. 文件；文档（file的复数）
+hamster,"n. 仓鼠
+[医] 仓鼠"
+income tax return,[经] 所得税申报表
+key,[计] DataCAD图标工具条文件
+mess,"n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境
+vt. 将...弄糟, 妨碍, 使紊乱, 使就餐
+vi. 陷入困境, 搞乱, 用膳"
+passport,n. 护照，通行证；手段
+pet food, 玩尝动物食品，猫狗食（罐头）
+satellite dish,n. 圆盘式卫星电视天线
+scrap paper,n. 便条纸
+wallpaper,[化] 糊墙纸
+wisdom tooth,智齿
+advice,"n. 忠告, 劝告, 意见, 报道, 通知
+[经] 通知书, 通知, 建议"
+button,"n. 按钮；钮扣
+vt. 扣住；扣紧；在…上装钮扣
+vi. 扣住；装有钮扣；扣上钮扣
+n. (Button)人名；(英)巴顿"
+cast,"vt. 投，抛；计算；浇铸；投射（光、影、视线等）
+n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
+vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
+n. (Cast)人名；(法)卡斯特"
+chicken pox,水痘
+cockroach,[网络] 蟑螂液
+diner,n. 用餐者
+file,[网络] 文件；提取码；文件操作
+hamster,"n. 仓鼠
+[医] 仓鼠"
+income tax return,[经] 所得税申报表
+key,[计] DataCAD图标工具条文件
+mess,"n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境
+vt. 将...弄糟, 妨碍, 使紊乱, 使就餐
+vi. 陷入困境, 搞乱, 用膳"
+passport,n. 护照，通行证；手段
+pet food, 玩尝动物食品，猫狗食（罐头）
+pillow,"n. 枕头, 靠垫, 枕状岩
+vt. 作...的枕头, 垫, 枕于
+vi. 靠在枕上"
+repairs,"(re-pair 的第三人称 -s形式) vi. 修理；修复
+vt. 修理；恢复；补救, 纠正
+n. 修理, 修补；修补部位"
+satellite dish,n. 圆盘式卫星电视天线
+scrap paper,n. 便条纸
+ski instructor,[网络] 滑雪指导员；滑雪教练；胡子绅士
+ski resort,[网络] 滑雪场；滑雪胜地；滑雪度假村
+slope,"n. 倾斜, 斜坡, 斜率, 扛枪姿势
+vt. 使倾斜, 弄斜, 扛
+vi. 倾斜, 走, 逃走"
+video,"n. 影像, 电视
+a. 图像的, 电视的"
+wallpaper,[化] 糊墙纸
+wisdom tooth,智齿
+assemble,"vt. 集合, 收集, 装配
+vi. 集合
+[计] 汇编"
+delete,"vt. 删除
+[计] 删除"
+disconnect,"vt. 使分离, 使不相连, 拆开
+vi. 断开
+[计] 断开"
+erase,"vt. 抹去, 擦掉
+[计] 清洗; 擦除; 抹除; DOS内部命令:从磁盘上删除一个或多个文件"
+lose my balance,无
+misunderstand,"vt. 误解, 误会"
+mix up,"na. 调匀；混淆；使结交坏朋友；【拳击】猛烈互击
+[网络] 混合；搞糊涂；混合在一起"
+press,"vt. 压；按；逼迫；紧抱
+vi. 压；逼；重压
+n. 压；按；新闻；出版社；[印刷] 印刷机
+n. (Press)人名；(英、德、俄、西、瑞典)普雷斯"
+program,[网络] 程序；程序下载；项目
+put up,"adj. 预先商定的
+[网络] 举起；张贴；搭起"
+quit,"vi. 离开, 辞职, 停止
+vt. 离开, 放弃, 使解除, 停止
+n. 离开
+[计] 结束, 退出"
+replace,"vt. 取代, 代替；替换, 更换；归还, 偿还；把…放回原处"
+rewind,[网络] 四个靓妹氹氹转
+save,"n. 救球
+vt. 解救, 挽救, 储蓄, 保存, 节省, 保留
+vi. 挽救, 节省, 救球
+prep. 除...之外
+[计] 保存"
+set up,"na. 建立；创立；发起；开办
+[网络] 设立；设置；成立"
+tip over,使翻倒
+urge,"n. 冲动, 推动力, 迫切的要求
+vt. 驱策, 力劝, 竭力主张, 推动
+vi. 强烈要求"
+work out,"v. 作出；拟定；制定；计划一下
+[网络] 算出；解决；制定出"

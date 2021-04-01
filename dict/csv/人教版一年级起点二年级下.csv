@@ -1,55 +1,98 @@
-﻿play football,
-fly a kite,
-ride a bike,
-make a model plane,
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-make a snowman,
-can't,
-rainy,"adj.下雨的,多雨的"
-cloudy,"adj.多云的,阴天的,阴沉"
-snowy,"adj.雪的,多雪的"
-windy,"adj.有风的,刮风的,多风的,风强的,腹胀的,吹牛的"
-sunny,"adj.阳光充足的,照耀的,快乐的"
-umbrella,"n.伞,雨伞,庇护"
-weather,"n.天气,气候,气象,处境adj.迎风的,露天的vt.使受风吹雨打,侵蚀,使风化,经受住vi.风化,受侵蚀,经受风雨"
-wow,"n.叫声,<美俚>哄动一时的人物vi.发出叫声vt.使叫绝"
-let's,
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-summer,"n.夏季vi.避暑,过夏天adj.夏季的,在夏季的"
-autumn,"n.秋天,成熟期,渐衰期"
-winter,"n.冬,冬季,萧条期,衰退期adj.冬天的vt.对...进行冬天保护vi.过冬"
-hot,"adj.热的,热情的,辣的,激动的,紧迫的,节奏强的adv.热,热切的,紧迫地"
-warm,"adj.暖和的,暖的,温暖的,色情的,激烈的,热烈的,多情的,兴奋的adv.(常用以构成复合词)暖和地vt.使温暖,弄热,使兴奋,使热烈vi.变暖和,变温暖,激动,同情,爱好n.暖,保暖物"
-cool,"n.凉爽,凉爽的空气adj.凉爽,冷静的,无所顾虑的,淡漠的v.使冷,使镇定"
-cold,"n.寒冷,[物]零下温度,伤风,感冒adj.寒冷的,使人战栗的,冷淡的,不热情的,失去知觉的"
-favourite,"adj.特别喜爱的,中意的n.特别喜爱的(或物)"
-season,"n.季,季节v.(使)适应,(使)适用,调味"
-eleven,n.十一
-twelve, num.十二
-twenty," num.二十,二十个"
-thirty, num.三十
-forty," num.四十,40n.四十岁"
-fifty,adj.五十
-thirteen, num.十三
-fourteen, num.十四
-fifteen,adj.十五
-time,"n.时间,时侯,时机,节拍,期限,次数,时期,比赛限时vt.安排...的时间,记录...的时间,计时,定时vi.打拍子,(...)合拍adj.时间的,记时的,定时的,定期的,分期的 /n.时间/日期"
-playtime,"n.游戏时间,娱乐时间"
-get up,
-eat breakfast,
-go to school,
-eat lunch,
-go home,
-eat dinner,
-go to bed,
-when," conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
-every day,
-at," prep.在,于,向,对准,在...方面;Austria,奥地利"
-Sunday,
-Monday,
-Tuesday,
-Wednesday,
-Thursday,
-Friday,
-Saturday,
-today,"adv.今天,现今n.今天,现今"
+﻿play football,踢足球;对难办的事采取踢足球的态度
+fly a kite,"放风筝, 试探舆论, 开空头支票
+[经] 用空头支票筹款"
+ride a bike, 骑自行车
+make a model plane,无
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+make a snowman, 堆雪人
+can't,[网络] 不能
+rainy,"a. 下雨的, 多雨的"
+cloudy,"a. 多云的, 有愁容的, 云的, 浑浊的
+[建] (混)浊的"
+snowy,"a. 多雪的, 雪的, 被雪所覆盖着的, 下雪的"
+windy,"a. 多风的, 风强的, 腹胀的, 吹牛的"
+sunny,"a. 阳光充足的, 乐观的, 快乐的, 像太阳的"
+umbrella,"n. 伞, 雨伞, 保护伞
+a. 伞的, 包罗万象的
+vt. 用伞遮掩"
+weather,"n. 天气, 气象, 处境
+a. 迎风的
+vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
+vi. 风化, 受侵蚀, 经受风雨"
+wow,[计] Grave Composer音乐模块（MOD）文件
+let's,abbr. let us 让我们
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+summer,[网络] 夏季
+autumn,"n. 秋天；成熟期；渐衰期，凋落期
+adj. 秋天的，秋季的
+n. (Autumn)人名；(英)奥特姆"
+winter,"n. 冬季；年岁；萧条期
+vi. 过冬
+adj. 冬天的；越冬的
+n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+hot,[网络] 月明时
+warm,"a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的
+vt. 使温暖, 弄热, 使兴奋, 使充满仇恨
+vi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好
+n. 暖, 保暖物"
+cool,"n. 凉爽, 凉爽的空气
+a. 凉爽的, 冷淡的, 冷静的
+vi. 冷却, 平息
+vt. 使冷却, 使平静"
+cold,"n. 感冒, 寒冷
+a. 寒冷的, 冷淡的, 冷静的
+adv. 完全地"
+favourite,"n. 喜欢的事物
+a. 喜爱的, 宠爱的"
+season,"n. 季节, 时节, 当令期, 时期
+vt. 给...调味, 使成熟, 使老练, 缓和
+vi. 变干燥"
+eleven,"num. 十一, 十一个"
+twelve,"num. 十二, 十二个"
+twenty,"n. 二十几；二十年代
+num. 二十
+[网络] 二十个；廿；第二十"
+thirty,"num. 三十, 三十个"
+forty,"num. 四十, 四十个"
+fifty,"num. 五十
+n. 五十几；五十年代
+adj. 许多的
+[网络] 半百；五十个；五十的"
+thirteen,"num. 十三, 十三个"
+fourteen,"num. 十四, 十四个"
+fifteen,"num. 十五, 十五个"
+time,"n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
+vt. 测定...的时间, 记录...的时间, 计时, 定时
+a. 时间的, 记时的, 定时的, 定期的, 分期的
+[计] DOS内部命令:用于显示或设定系统的时间"
+playtime,[网络] 游戏时间；玩乐时间；演奏时间
+get up,"na. 起床；起身；站起来；叫…起床
+[网络] 起立；打扮；安排"
+eat breakfast,[网络] 吃早饭；吃早餐；食早餐
+go to school,上学
+eat lunch,[网络] 吃午饭；吃午餐；吃中午饭
+go home,回家
+eat dinner, 吃晚饭
+go to bed,"上床, 睡觉"
+when,"conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+every day, 每天; 日; 天天; 逐日
+at,"prep. 朝；向；在（某处）；在（表示学习或工作地点）
+abbr. (=astatine)【化】(=Air Transport)
+[网络] 自动变速箱(Automatic Transmission)；奥地利(Austria)；砹"
+Sunday,太阳日(太阳能动力鼓吹者选定的每年5月的一天，宣传大力研究和利用太阳能)
+Monday,n. 星期一
+Tuesday,n. 星期二
+Wednesday,n. 星期三
+Thursday,n. 星期四
+Friday,n. 星期五
+Saturday,n. 星期六
+today,"adv. 在今天, 在今日, 现在, 当代, 现今
+n. 今天, 今日"

@@ -1,84 +1,331 @@
-﻿take a test,
-play games,
-get a haircut,
-see the doctor,
-shop for clothes,
-have a party,
-write a letter,
-meet some friends,
-tonight,"adv.今晚,今夜n.今晚"
-tomorrow,"adv.明天见n.明天,未来"
-bored,"adj.无聊的,无趣的,烦人的,"
-vacation,"n.假期,休假,(房屋等的)腾出v.<美>度假,休假"
-go camping,
-like,"n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
-take photos,
-plan,"n.计划,设计图,平面图vt.计划,设计"
-love,"n.爱,热爱,爱情,爱好,性爱,情人,零vt.爱,热爱,爱好,爱慕vi.爱"
-ship,"n.船,海船,舰v.装上船,航运,载运,在船上工作"
-train,"n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线vt.训练,培养,瞄准,(园艺)整枝vi.锻炼"
-bus,"n.公共汽车,总线"
-by," prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
-by ship,
-by plane,
-by bus,
-by train,
-stay in a hotel,
-stay with my aunt and uncle,
-go sightseeing,
-Tibet,
-hurray,"n.(=hurrah)万岁呼声,狂热"
-wolves,"n.贪婪者,色狼 pl.wolf的复数"
-have a picnic,
-visit,"n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
-relatives,
-help,"n.帮忙,补救办法,助手,治疗,<美>佣工vt.帮助,助长,接济,治疗,款待vi.有用,救命,招待 [计] 显示命令格式的简短概述"
-play with friends,
-make models,
-surf the Internet,
-read books,
-next,"n.adj.下次的,其次的,与...连接,下一个adv.下一次,其次"
-during," prep.在...的期间,在...的时候"
-fruit,"n.水果,果实,果类,成果vi.结果实"
-the Great Wall of China,
-do tai chi,
-never,"adv.决不,从未"
-sometimes,"adv.不时,有时"
-usually,"adv.通常,大抵"
-always,"adv.总是,永远,始终"
-subway,"n.地道,<美> 地铁"
-taxi,n.出租汽车v.乘坐出租汽车
-bike,"n.脚踏车,自行车"
-take,"v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
-drive,"n.驾车,驱动器,快车道,推进力,驱使,动力,干劲,击球vt.开车,驱赶,推动、发动(机器等),驾驶(马车,汽车等)vi.开车,猛击,飞跑n.[计]驱动器"
-walk,"vi.步,行,走n.步行,散步,步,行道"
-woods,n.森林
-look for,
-candies,
-find,"vt.找到,发现,感到,查明,得到,认为,见到...的存在vi.裁决n.发现 [计] 在文件中查找指定的字符串"
-lost,"adj.失去的,丧失的,错过的,迷惑的,不为人知的 vbl.lose的过去式和过去分词"
-once,"n.adv.一次,从前,曾经 conj.一旦"
-twice,"adv.两次,两倍"
-three times,
-go fishing,
-go hiking,
-go ice-skating,
-go swimming,
-often,"adv.常常,经常"
-fish,"n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
-favorite,"n.特别喜欢的人(或物),喜欢的事物,亲信,心腹,幸运儿adj.喜爱的,宠爱的,中意的"
-activity,"n.活跃,活动性,行动,行为,[核]放射性"
-about,"adv.附近,大约,转向,左右,周围;prep.在附近,关于,在...周围,忙于"
-habit,"n.习惯,习性"
-brush,"n.刷子,毛刷,画笔vt.刷,掸,拂"
-teeth,n.pl.牙齿
-comb,"n.梳子,梳,鸡冠,蜂巢vi.梳(发),搜索"
-hair,"n.头发,毛发,毛状物,绒毛,些微"
-finish,"n.完成,结束,磨光,末道漆,完美vt.完成,结束,用完,毁掉,使完美vi.结束,终结,停止,终止"
-pack,"n.包裹,<贬>一群,一副,背包,包装vt.包装,捆扎,塞满,压紧,挑选vi.包装货物,挤,群集,被包装 背包"
-schoolbag,n.书包
-hang up,
-take out,
-trash,"n.无价值之物,无聊的作品,垃圾,废物"
-clean up,
-understand,"v.懂,了解,听说,推定,以为,省略"
+﻿take a test,参加测验
+play games, 敷衍塞责
+get a haircut,理发；被女人欺骗
+see the doctor,"v. 看医生
+[网络] 看病；就诊；去看医生"
+shop for clothes,无
+have a party,[网络] 聚会；举行晚会；开聚会
+write a letter, 写信; 修书
+meet some friends,无
+tonight,"adv. 在今夜, 在今晚
+n. 今夜, 今晚"
+tomorrow,"adv. 在明天, 在明日
+n. 明天, 明日, 来日, 未来, 将来"
+bored,a. 无聊的；烦人的；无趣的
+vacation,"n. 假期, 休假
+[法] 假期, 停审期, 休庭期"
+go camping,去野营
+like, 类似…的；有…特征的
+take photos, 照像，拍照
+plan,"n. 计划；方案；打算；平面图
+v. 计划；打算；设计；策划
+[网络] 规划；计画；计划阶段"
+love,[网络] 爱到底；林俊杰；香奈儿香水广告曲
+ship,n. [英国俚语](在同一工头下工作的)排字组 ( = companionship)
+train,"n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序
+vt. 训练, 教育, 对准
+vi. 受训练, 锻炼"
+bus,"n. 公共汽车；巴士；（计算机系统的）总线
+v. 用公共汽车运送
+[网络] 汇流排；公交车；公车"
+by,[网络] -通过
+by ship,乘船
+by plane,乘飞机
+by bus,乘公共汽车
+by train,乘火车
+stay in a hotel,无
+stay with my aunt and uncle,无
+go sightseeing, 游览；游玩；观光
+Tibet,n. 西藏
+hurray,interj. 好哇
+wolves,"狼, 狼皮, 残暴成性的人, 贪婪的人, 阴险狡猾的人, (贬)追逐女性的人, 色狼, 色鬼"
+have a picnic,"吃野餐,去野餐"
+visit,"n. 拜访, 访问, 游览, 视察
+vt. 拜访, 访问, 参观, 视察, 降临
+vi. 访问, 参观, 闲谈"
+relatives,n. 亲属；[语法学]关系词（relative的复数）
+help,"n. 帮忙, 帮助者, 补救办法, 有益的东西
+vt. 帮助, 帮忙, 接济, 治疗, 款待
+vi. 有用, 救命, 招待
+[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+play with friends,无
+make models,无
+surf the Internet, 网上冲浪
+read books,[网络] 读书；看书；阅读
+next,"n. 下一个
+a. 下一个的, 其次的, 贴近的
+adv. 然后, 下次, 次于
+[计] 近邻干扰"
+during,prep. 在...的时候
+fruit,"n. 水果, 果类, 结果
+[医] 果实, 种实"
+the Great Wall of China,无
+do tai chi,无
+never,adv. 从未；决不
+sometimes,[网络] 几次；好几次；数次
+usually,"adv. 通常, 大抵"
+always,[网络] 永远；总是
+subway,"n. 地铁, 地道
+vi. 乘地铁"
+taxi,"n. 出租车
+vi. 乘出租车
+vt. 用出租车送"
+bike,"bike1
+[baik]
+[口语]
+n.
+自行车，脚踏车，单车
+两轮机动车(泛指摩托车、轻便车等)，摩托车，机器脚踏车
+机动脚踏两用车
+(挽车赛马中的)单座两轮(轻便)马车(= sulky)
+[美国俚语]摩托警
+[澳大利亚俚语]淫妇，妓女
+vt., vi.
+骑自行车
+骑摩托车(或轻骑等)：
+I bike to work.
+我骑摩托车去上班。
+短语:
+get off one's bike
+[澳大利亚、新西兰口语]发火，生气，恼火；感情失去控制，激动；慌乱，手忙脚乱[常用于否定句]
+get on one's bike
+[英国俚语]
+离开
+着手干
+On your bike!
+[英国俚语]给我滚!滚开!
+变形：
+vt., vi.
+biked
+. biking
+bike2
+[baik]
+[苏格兰和英格兰北部英语]
+n.
+黄蜂巢；野蜂巢
+一窝黄蜂；一窝野蜂
+人群；群[亦作 byke]
+vi.
+蜂拥，群集，汇拢[亦作 byke]"
+take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+drive,"n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器
+vt. 开车, 驱使, 推动, 驾驶
+vi. 开车, 猛击, 飞跑
+[计] 驱动器"
+walk,"n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所
+vi. 走路, 步行, 处世
+vt. 走过, 遛, 使走, 护送...走"
+woods,[网络] 滤过紫外线检查；活仕牌
+look for,"寻找, 期待"
+candies,"n. 糖果, 果饵（candy的复数）"
+find,"vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+lost,"a. 失去的, 遗失的, 迷惑的
+lose的过去式和过去分词"
+once,"adv. 一次, 曾经, 一旦
+conj. 一旦, 一经
+n. 一次
+a. 从前的"
+twice,"adv. 两次, 两倍"
+three times, [电影]最好的时光
+go fishing,去钓鱼
+go hiking, 远足
+go ice-skating,无
+go swimming, （去）游泳
+often,adv. 常常，时常
+fish,"n. 鱼, 鱼肉, 鱼类, 接合板
+vt. 钓, 钓鱼, 查出, 用接合板连接
+vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找"
+favorite,"n. 喜欢的事物, 幸运儿
+a. 特别受喜爱的, 喜爱的, 宠爱的, 中意的"
+activity,"n. 活动, 行动, 活跃, 活力
+[计] 活动"
+about,"prep. 关于；大约
+adj. 在附近的；四处走动的；在起作用的
+adv. 大约；周围；到处
+n. 大致；粗枝大叶；不拘小节的人
+n. (About)人名；(法)阿布"
+habit,"n. 习惯, 嗜好, 习性
+vt. 使穿衣"
+brush,"n. 刷子, 毛笔, 争吵
+vt. 刷
+vi. 擦过, 掠过
+[计] 电刷"
+teeth,"teeth
+[ti:θ]
+tooth 的复数
+n.
+tooth的变形
+tooth
+[tu:θ]
+n.
+牙齿
+(无脊椎动物的)齿状物
+[复数] = denture
+(锯、齿轮、钉齿耙等的)齿，齿状物
+(邮票等上的)穿孔齿
+【植物学】叶齿
+嗜好；口味
+破坏力；起损害(或折磨、毁坏)作用的东西
+[复数]强迫(或强制、惩罚等)的有效手段；威力
+(金属、纸张等的)粗糙面
+(部队的)战斗人员
+vt.
+给…装齿
+使成锯齿状：
+to tooth a saw
+锉出锯齿
+(用牙齿)咬住
+使…的表面粗糙
+vi.
+(齿轮等)相咬；咬合
+近义词:
+fang
+. tusk
+短语:
+a kick in the teeth
+见 kick¹
+armed to the teeth
+武装到牙齿的，全副武装的
+a sweet tooth
+吃甜食的嗜好(常与 have 连用)
+(as) scarce as hen's teeth
+[美国口语]像母鸡的牙齿那样稀有；很稀有的，极罕见的
+bare one's teeth
+露出凶相(动物在厮杀前往往露出牙齿)
+between one's (或 the) teeth
+低声地
+by (或 with) the skin of one's teeth
+见 skin
+calf's teeth
+乳齿
+cast one's colt's teeth
+不再放荡，不再荒唐；脱除稚气，变得老成稳重
+cast (或 fling) something in someone's teeth
+以某事嘲骂某人；以某事非难(或责备)某人
+cut one's teeth
+长牙，出牙[亦作 cut a tooth 或 cut teeth]
+到达懂事年龄，开始懂事，开始通晓世故，获得生活经验，成熟[亦作 cut one's eyeteeth (或 wisdom teeth)]
+cut one's teeth (或 eyeteeth) on
+(很早就)开始从事…，(从小就)开始学习…，(从小就)学着做…
+draw (或 pull) someone's teeth
+消除某人的危险性，除去某人的爪牙，消除某人的武装；使某人不能为害，使某人不能作恶；使某人无权利(或无能为力)
+缓和某人的情绪(如愤怒等)，消除某人烦恼的原因[亦作 draw (或 pull) the teeth of someone]
+dressed to the teeth
+浓妆艳抹
+escape by (或 with) the skin of one's teeth
+死里逃生
+fed to the (back) teeth (with something)
+[俚语](对某事)厌倦(或厌烦)到极点，十分倒胃口[亦作 fed up to the teeth]
+fight tooth and nail
+你死我活地搏斗，拼命厮打
+fling something in someone's teeth
+= cast something in someone's teeth
+fly in the teeth (或 face) of
+当面反抗，公开反抗；公然违抗；悍然不顾；蔑视，不理睬
+from one's teeth
+怀恨地；无诚意地
+from the teeth outward(s)
+[或 forward(s)][口语]无诚意的(地)，不是出自内心的(地)，口头说说而已；表面上地，非实质地
+get one's teeth into
+死死咬住…
+紧紧抓住…
+[口语]集中精力搞…，全神贯注地做…；认真处理…，认真对待…；决心解决…[亦作 sink one's teeth into]
+吃…
+give teeth to
+[口语]使…真正有效，使生效；付诸实施；使…坚强有力
+grind one's teeth
+咬牙切齿；暗自生气
+grit one's (或 the) teeth
+咬紧牙关(表示忍住愤怒、下决心等)；忍受痛苦(或不安)
+锉牙做声，磨牙[亦作 grind one's (或 the) teeth]
+If you cannot bite, never show your teeth.
+[谚语]不能咬人，就别龇牙。
+in spite of someone's teeth
+不顾某人的反对(或威胁)
+in the (或 one's) teeth
+公然，当面
+直接反对
+in the teeth of
+直接反对；当面，公然
+不管，不顾
+面对着…，冒着…，有着…的危险
+in the teeth of the wind
+【航海学】顶着风，逆风[亦作 in the wind's eye 或 in the eye of the wind]
+lie in (或 through) one's teeth
+= lie in one's throat
+long in the tooth
+年纪大；年长的；马齿日增(原指老马齿龈萎缩，牙齿显得长)
+make someone's teeth chatter
+(吓得、冷得)使某人牙齿打战
+pick one's tooth
+(用牙签)剔牙齿
+pull someone's teeth
+= draw someone's teeth
+put someone's teeth on edge
+= set someone's teeth on edge
+put teeth into (或 in)
+使(法令、规章等)生效；使…具有约束力(或威力)；使…发挥积极作用
+set one's teeth
+咬牙切齿；咬紧牙齿(如在痛下决心时或以示愤怒等)
+set (或 put) someone's teeth on edge
+(如吃酸的东西、听到吱吱的声响等)使某人牙碜，叫某人牙根发酸
+使某人厌恶，使某人感到很不舒服
+show one's teeth
+张牙露齿，作威胁等姿态；现出敌意；发怒
+sink one's teeth into
+[口语]全神贯注做…，集中精力搞…；决心解决…，认真对待…
+sink tooth (into)
+[美国口语]吃
+Someone's back teeth are floating.
+[美国俚语]某人急着想撒尿，某人尿急。
+sow dragon's teeth
+散布(或挑起)纠纷，引起战争[源自希腊神话]
+store teeth
+[美国英语]假牙
+take the teeth out of
+使无害(或无力)，使…无法为害，使…无能为力
+throw (或 cast, fling) (something) in someone's
+teeth
+为…非难(或责备)某人；将…归咎于(某人)
+嘲笑；攻击；辱骂(某人)；向某人挑战
+tooth and nail (或 claw)
+全力以赴地，竭尽全力地；拼命地，猛烈地；不惜一切手段
+to one's teeth
+[古语]大胆地，公然，当面
+to the teeth
+从头到尾，全身地；充分地，完全地
+with set teeth
+以不可动摇的决心
+with teeth and all
+拼命地，猛烈地；全力以赴地，不惜一切手段地
+变形：
+n.
+teeth
+vt.
+toothed
+. toothing"
+comb,[网络] 梳子
+hair,"n. 头发, 毛发, 些微
+[医] 毛, 发"
+finish,"n. 完成, 结束, 末道漆, 磨光, 完美
+vt. 完成, 结束, 用完, 毁掉
+vi. 结束
+[计] 完成"
+pack,comb.form 表示“(瓶、罐头等)一箱”
+schoolbag,书包
+hang up,"v. 挂断电话；挂机；悬挂；耽搁
+[网络] 挂起；把…挂起来；挂电话"
+take out,"na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)
+[网络] 拿出；去掉；拿出来"
+trash,"n. 垃圾, 废物
+vt. 丢弃"
+clean up,"na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利
+[网络] 打扫；打扫干净；清除"
+understand,"vt. 理解；懂；获悉；推断；省略
+vi. 理解；懂得；熟悉"

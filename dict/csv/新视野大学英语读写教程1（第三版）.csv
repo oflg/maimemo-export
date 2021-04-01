@@ -1,957 +1,1752 @@
-﻿triumph,"n.胜利,成功v.获得胜利"
-pledge,"n.保证,誓言,抵押,抵押品vt.保证,使发誓,抵押,典当,举杯祝...健康"
-pose,"n.姿势,姿态v.(使...)摆好姿势,形成,引起,造成vi.摆姿势,佯装,矫揉造作"
-routine,"n.例行公事,常规,日常事务,程序"
-attain,"vt.达到,获得v.达到"
-foundation,"n.基础,根本,建立,创立,地基,基金,基金会"
-resource,"n.[pl.] 资源,财力,办法,智谋"
-faculty,"n.才能,本领,能力,全体教员,(大学的)系,科,(授予的)权力"
-comprehensive,"adj.全面的,广泛的,能充分理解的,包容的"
-facility,"n.容易,简易,灵巧,熟练,便利,敏捷,设备,工具"
-community,"n.公社,团体,社会,(政治)共同体,共有,一致,共同体,(生物)群落"
-explore,"v.探险,探测,探究"
-fascinating,"adj.迷人的,醉人的,着魔的"
-pursue,"vt.追赶,追踪,追击,继续,从事"
-passion,"n.激情,热情,耶稣的受难和死亡"
-unique,"adj.唯一的,独特的"
-enthusiasm,"n.狂热,热心,积极性,激发热情的事物"
-reap,"v.收割,收获"
-benefit,"n.利益,好处vt.有益于,有助于vi.受益"
-opportunity,"n.机会,时机"
-overwhelm,"vt.淹没,覆没,受打击,制服,压倒"
-available,"adj.可用到的,可利用的,有用的,有空的,接受探访的"
-sample,"n.标本,样品,例子vt.取样,采样,抽取...的样品,试验的一部分,尝试"
-assume,"vt.假定,设想,采取,呈现"
-emerge,"vi.显现,浮现,暴露,形成,(由某种状态)脱出,(事实)显现出来"
-giant,"n.巨人,大力士,巨大的动物或植物,伟人,天才adj.庞大的,巨大的"
-mate,"n.配偶,对手,助手vt.使配对,使一致,结伴vi.成配偶,紧密配合"
-roommate,"n.同屋者,室友"
-owl,"n.[动]猫头鹰,枭,惯于晚上活动的人 Object Window Library,Borland C++ 的类库"
-virtual,"adj.虚的,实质的,[物]有效的,事实上的"
-virtually,"adv.事实上,实质上"
-enrich,"vt.使富足,使肥沃,装饰,加料于,浓缩"
-glow,"vi.发光,发热"
-confidence,n.信心
-yield,"v.出产,生长,生产vi.(～ to)屈服,屈从n.产量,收益"
-abundant,"adj.丰富的,充裕的,丰富,盛产,富于"
-responsibility,"n.责任,职责"
-inherit,"vt.继承,遗传而得"
-inheritor,"n.继承人,后继者"
-transmit,"vt.传输,转送,传达,传导,发射,遗传,传播vi.发射信号,发报"
-acquire,"vt.获得,学到"
-prosperous,adj.繁荣的
-remind sb. of ...,
-get by,
-make the most of sth.,
-reap the benefits,
-reap the benefits of sth.,
-in advance,
-stand a chance,
-stand a chance of doing sth.,
-over time,
-turn into sth.,
-turn ... into ...,
-all at once,
-take pleasure in sth.,
-take pleasure in doing sth.,
-open the door to sth.,
-take delight in sth.,
-take delight in doing sth.,
-participate,"vi.参与,参加,分享,分担"
-incredible,adj.<口>难以置信的
-deny,"v.否认,拒绝"
-undeniably,
-depart,"vi.离开,起程,不按照,逝世adj.过去的,逝世的"
-inquisitive,adj.好奇的
-engage,"vt.使忙碌,雇佣,预定,使从事于,使参加vi.答应,从事,交战,[机]接合,啮合"
-despair,"n.绝望,失望,令人失望的人(事物)vi.绝望"
-embrace,"vt.拥抱,互相拥抱,包含,收买,信奉vi.拥抱n.拥抱"
-stimulate,"vt.刺激,激励v.刺激,激励"
-intellectual,"adj.智力的,有智力的,显示智力的n.知识分子"
-capacity,"n.容量,生产量,容量,智能,才能,能力,接受力,地位"
-bind,"v.绑,镶边,装订,凝固,约束"
-assure,"vt.断然地说,确告,保证,担保"
-assured,"adj.确实的,确定的"
-career,"n.(原意:道路,轨道)事业,生涯,速度"
-curve,"n.曲线,弯曲,[棒球]曲线球,[统]曲线图表vt.弯,使弯曲vi.成曲形"
-decent,"adj.正派的,端庄的,有分寸的,(服装)得体的,大方的adj.<口>相当好的、象样的"
-boast,"n.自夸,值得夸耀的事物v.自夸,以有...而自豪"
-bond,"n.结合(物),粘结(剂),联结,公债,债券,合同v.结合"
-blossom,"n.花(尤指结果实者),花开的状态,兴旺期vi.开花,兴旺,发展"
-decade,"n.十年,十"
-genuine,"adj.真实的,真正的,诚恳的"
-instinct,n.本能
-confident,"adj.自信的,确信的"
-secure,"adj.安全的,可靠的,放心的,无虑的v.保护"
-stereotype,"n.[印]铅版,陈腔滥调,老套vt.使用铅版,套用老套,使一成不变"
-comprehend,"vt.领会,理解,包括(包含),由...组成"
-cultivate,"vt.培养,耕作"
-range,"n.山脉,行列,范围,射程vt.排列,归类于,使并列,放牧vi.平行,延伸,漫游"
-innocence,n.清白
-curiosity,n.好奇心
-amount,"n.数量vi.(to) 总计,等于"
-flexibility,"n.弹性,适应性,机动性,挠性"
-approach,"n.接近,逼近,走进,方法,步骤,途径,通路vt.接近,动手处理vi.靠近"
-enthusiastic,"adj.热心的,热情的"
-enthusiastically,"adv.热心地,狂热地"
-talent,"n.天才,才干,才能"
-evolve,"v.(使)发展,(使)进展,(使)进化"
-potential,"adj.潜在的,可能的,势的,位的n.潜能,潜力,电压"
-bold,adj.大胆的n.粗体
-enormous,"adj.巨大的,庞大的,<古>极恶的,凶暴的"
-enormously,"adv.非常地,巨大地"
-be about to do sth.,
-go off,
-open up,
-take ... seriously,
-sign up,
-sign up for sth.,
-get to sb.,
-give sb. the benefit of the doubt,
-reduce sb. to sth.,
-as long as,
-feel like sth.,
-feel like doing sth.,
-safe and sound,
-take ... away,
-be born to be sth.,
-be born to do sth.,
-sb. can't wait,
-clutter,n.混乱
-await,vt.等候
-vehicle,"n.交通工具,车辆,媒介物,传达手段"
-efficiency,"n.效率,功效"
-embarrass,"vt.使困窘,使局促不安,阻碍,麻烦"
-embarrassment,"n.困窘,阻碍"
-rust,n.铁锈vt.(使)生锈
-blade,"n.刀刃,刀片"
-tube,"n.管,管子,[英] 地铁,<美> 电子管,显象管"
-paste,"n.糊,面团,黏土团vt.用浆糊粘,张贴n.粘贴"
-toothpaste,n.牙膏
-polish,"n.磨光,光泽,上光剂,优雅,精良vt.擦亮,发亮,磨光,推敲vi.发亮,变光滑adj.波兰的n.波兰人 Polish 波兰(Poland)的"
-trash,"n.无价值之物,无聊的作品,垃圾,废物"
-dump,"vt.倾倒(垃圾),倾卸n.堆存处"
-match,"n.火柴,比赛,竞赛,匹配,(足球,捧球,蓝球)比赛v.相配,相称,比赛,相比,匹配"
-mismatched,
-purple,adj.紫色的n.紫色
-closet,"n.壁橱,储藏室,厕所adj.关起门来的vt.关入私室密谈"
-comic,"n.滑稽演员adj.滑稽的,喜剧的"
-fiction,"n.虚构,编造,小说"
-romantic,"adj.传奇式的,浪漫的,空想的,夸大的"
-historical,"adj.历史(上)的,有关历史的"
-beloved,"adj.心爱的n.所爱的人,爱人"
-stuff,"n.原料,材料,素材资料vt.塞满,填满,填充"
-sack,"n.大袋,大袋之量,麻布袋,短而松的袍装,布袋装,洗劫vt.解雇,装入袋,洗劫,就寝"
-stack,"n.堆,一堆,堆栈v.堆叠"
-plague,"n.瘟疫,麻烦,苦恼,灾祸vt.折磨,使苦恼,使得灾祸"
-clumsy,adj.笨拙的
-charity,"n.慈善,施舍,慈善团体,"
-band,"n.带子,镶边,波段,队,乐队v.联合,结合"
-curl,v.(使)卷曲
-curler,"n.卷发的人,卷发夹子"
-strain,"n.过度的疲劳,紧张,张力,应变vt.扭伤,损伤v.拉紧,扯紧,(使)紧张,尽力"
-haul,"n.用力拖拉,拖,拉,捕获物,努力得到的结果,(尤指)一网捕获的鱼量,拖运距离vi.拖,拉,改变方向,改变主意vt.拖拉,拖运"
-donation,"n.捐赠品,捐款,贡献"
-curb,n.路边
-sore,"adj.疼痛的,痛心的,剧烈的n.痛的地方,痛处"
-ridiculous,"adj.荒谬的,可笑的"
-toss,"v.投,掷"
-strip,"vt.剥,剥去n.条,带"
-craft,"n.工艺,手艺"
-clip,"n.夹子,回形针,子弹夹vt.夹住,剪短,修剪"
-item,"n.(可分类或列举的)项目,条款,(消息、情报等的)一则,一条"
-emotional,"adj.情绪的,情感的"
-bug,"n.小虫,臭虫,缺陷,错误;v.装置窃昕器,打扰"
-reverse,"n.相反,背面,反面,倒退adj.相反的,倒转的,颠倒的vt.颠倒,倒转"
-token,"n.表示,向征,记号,代币adj.象征的,表意的"
-make it,
-free of,
-free from,
-catch oneself doing sth.,
-throw away,
-after all,
-reverse oneself,
-straighten up,
-keep back,
-with open arms,
-limp,"adj.柔软的,易曲的vi.跛行"
-surge,"n.巨涌,汹涌,澎湃vi.汹涌,澎湃,振荡,滑脱,放松vt.使汹涌奔腾,急放"
-breeze,"n.微风,煤屑,焦炭渣,轻而易举的事,小风波vi.吹微风,逃走"
-shiver,"v.颤抖,打碎,碎裂n.(无法控制的)颤抖,碎片"
-complain,"v.抱怨,悲叹,控诉"
-chill,"n.寒意,寒战,寒心adj.寒冷的,扫兴的v.使冷,变冷,冷藏"
-chilly,adj.寒冷的
-stride,"v.大步走(过),跨过,大步行走n.步幅"
-melt,"v.(使)融化,(使)熔化,使软化,使感动"
-melting,"adj.熔化的,融化的,溶解的,混合的"
-shed,"vt.流出,发散,散发,脱落,脱皮,摆脱n.分水岭,棚,小屋,工棚,货棚v.把...放入棚内,流下"
-immense,"adj.极广大的,无边的,<口>非常好的"
-fatigue,"n.疲乏,疲劳,累活,[军]杂役vt.使疲劳,使心智衰弱vi.疲劳"
-aboard,"adv.在船(飞机、车)上,上船(飞机、车) prep.在(船、飞机、车)上,上(船、飞机、车)"
-hut,"n.小屋,棚屋"
-barrel,n.桶vt.装入桶内
-shell,"n.贝壳,壳,外形,炮弹vt.去壳,脱落,炮轰vi.剥落,脱壳 [计] 设定命令行解释器的位置"
-shellfish,"n.贝,甲壳类动物"
-bundle,"n.捆,束,包v.捆扎"
-eel,"n.鳗鲡,美洲鳗,蛇形鱼类,油滑的人"
-portion,"n.一部分,一分"
-migrate,"vi.移动,移往,移植,随季节而移居,(鸟类的)迁徙vt.使移居,使移植"
-migration,"n.移民,移植,移往,移动"
-wrap,"n.外套,围巾,包裹,秘密,约束,限制vt.包装,卷,缠绕,包,覆盖,裹,遮蔽,隐藏vi.缠绕,重叠,穿外衣,包起来"
-unwrap,"vt.打开,解开,展开"
-suspicious,"adj.(～ of) 可疑的,怀疑的"
-suspiciously,"adv.猜疑着,怀疑着"
-pinch,"n.捏,撮,收缩,紧急关头,匮乏,压力vt.掐,夹痛,修剪,勒索,使感缺乏,使萎缩,偷vi.收缩,节省"
-vanish,"vi.消失,突然不见,[数]成为零n.[语]弱化音"
-slope,"n.斜坡,斜面,倾斜v.(使)顺斜"
-cracker,"n.饼干,爆竹,胡桃夹n.解密高手"
-peak,"n.山顶,顶点,帽舌,(记录的)最高峰adj.最高的vi.到达最高点,消瘦,缩小vt.使竖起,使达到最高点"
-stretch,"v.伸展,伸长n.一段时间,一段路程,伸展"
-overtake,"vt.赶上,追上,(暴风雨、麻烦等)突然来袭,压倒"
-anticipate,"vt.预期,期望,过早使用,先人一着,占先v.预订,预见,可以预料"
-reluctance,"n.不愿,勉强"
-stoop,"n.弯腰,屈背,屈服vi.弯下,弯下上身,屈服,弯腰,堕落vt.俯曲,辱没"
-restraint,"n.抑制,制止,克制"
-scrape,"n.刮,擦,擦痕,刮擦声,困境vi.刮掉,擦掉,刮出刺耳声vt.刮,擦,擦伤,挖成"
-delicate,"adj.精巧的,精致的,病弱的,脆弱的,微妙的,棘手的,灵敏的,精密的"
-grip,"vt.紧握,紧夹n.掌握,控制,把手v.抓住"
-gradual,"adj.逐渐的,逐步的,渐进的"
-gradually,adv.逐渐地
-sway,"v.摇摆,摇动"
-accompany,"vt.陪伴,伴奏"
-pureed,
-tuna,n.金枪鱼n.[动] 鲔鱼
-awkward,"adj.难使用的,笨拙的"
-sip,
-champagne,"n.香槟酒,香槟色"
-slow down,
-make sense,
-at least,
-lay sth. out,
-hang up,
-be supposed to do sth.,
-not that ... but ...,
-not that ... but that ...,
-once in a while,
-the small of one's back,
-not care for ...,
-campus,"n.<美>校园,大学教育"
-transform,"vt.转换,改变,改造,使...变形vi.改变,转化,变换n.[数]变换(式),[语]转换"
-fleet,"n.舰队(尤指有固定活动地区的舰队),港湾,小河adj.快速的,敏捷的,浅的adv.浅vt.消磨vi.疾驰,飞逝,掠过"
-typical,"adj.典型的,象征性的"
-access,"n.通路,访问,入门vt.存取,接近"
-accessible,"adj.易接近的,可到达的,易受影响的,可理解的"
-response,"n.回答,响应,反应"
-engineering,n.工程(学)
-dialect,"n.方言,语调"
-analyze,"vt.分析,分解"
-script,"n.手稿,手迹,剧本,考生的笔试卷,原本"
-device,"n.装置,设计,图案,策略,发明物,设备 [计]安装设备驱动程序"
-sophisticated,"adj.诡辩的,久经世故的"
-undergraduate,"n.大学肄业生,(尚未取得学位的)大学生adj.大学生的"
-adopt,"vt.采用,收养"
-indispensable,"n.不可缺少之物adj.不可缺少的,绝对必要的"
-outline,"n.大纲,轮廓,略图,外形,要点,概要vt.描画轮廓,略述"
-regulate,"vt.管制,控制,调节,校准"
-bubble,"n.泡沫,幻想的计划vi.起泡,潺潺的流"
-budget,"n.预算vi.做预算,编入预算"
-estimate,"v.估计,估价,评估n.估计,估价,评估"
-estimated,
-assignment,"n.分配,委派,任务,(课外)作业"
-highway,"n.公路,大路"
-inferior,"adj.下等的,下级的,差的,次的,自卑的,劣等的"
-inferiority,"n.自卑,次等"
-complex,"adj.复杂的,合成的,综合的n.联合体"
-compensate,"v.偿还,补偿,付报酬"
-lease,"n.租借,租约,租赁物,租期,延续的一段时间vt.出租,租出,租得"
-focus,"n.(兴趣活动等的)中心,焦点,焦距,[医]病灶,[地](地震的)震源vi.聚焦,注视vt.使集中在焦点上,定焦点,调焦,集中"
-competitive,adj.竞争的
-peer,"n.同等的人,贵族vi.凝视,窥视vt.与...同等,封为贵族"
-pitch,"n.程度,斜度,树脂,投掷,定调,(船只)前后颠簸,倾斜,沥青vt.投,掷,向前倾跌,定位于,用沥青涂,扎营vi.搭帐篷,投掷,坠落,倾斜"
-portable,"adj.轻便的,手提(式)的,便携式的"
-mode,"n.方式,模式,样式,时尚"
-loan,"n.(借出的)贷款,借出v.借,借给"
-loaner,"n.债权人,代替品"
-meantime,"n.其间,其时adv.其间"
-amazing,adj.令人惊异的
-solve,"vt.解决,解答"
-solver,
-intelligent,"adj.聪明的,伶俐的,有才智的,[计]智能的"
-less than interesting,
-less than honest,
-less than helpful,
-add to sth.,
-visit with sb.,
-take the lead,
-account for,
-fire off,
-keep up with,
-at a disadvantage,
-stand out,
-set up,
-in large part,
-addict,"vt.使沉溺,使上瘾;n.入迷的人,有瘾的人"
-addiction,"n.沉溺,上瘾"
-positive,"adj.肯定的,实际的,积极的,绝对的,确实的adj.[数]正的adj.[电]阳的adj.[语法] 原级的"
-enable,"vt.使能够,授予权利或方法"
-media,n.媒体
-outlet,"n.出口,出路"
-alternative,"n.二中择一,可供选择的办法,事物adj.选择性的,二中择一的"
-source,"n.来源,水源,消息来源,原始资料,发起者 源,源极"
-practically,"adv.实际上,事实上,在实践上adv.几乎,简直"
-negative,"n.否定,负数,底片adj.否定的,消极的,负的,阴性的vt.否定,拒绝(接受)"
-aspect,"n.样子,外表,面貌,(问题等的)方面"
-epidemic,"adj.流行的,传染的,流行性n.时疫,疫疾流行,(风尚等的)流行,流行病"
-neglect,"vt.忽视,疏忽,漏做n.忽视,疏忽,漏做"
-infant,"n.婴儿,幼儿adj.婴儿的,幼稚的"
-impact,"n.碰撞,冲击,冲突,影响,效果vt.挤入,撞击,压紧,对...发生影响"
-involved,"adj.棘手的,有关的"
-agony,"n.苦恼,极大的痛苦"
-risk,"vt.冒...的危险n.冒险,风险"
-concern,"vt.涉及,关系到n.(利害)关系,关心,关注,关注,所关心的是"
-concerned,"adj.关心的,有关的"
-discipline,"n.纪律,学科v.训练"
-structure,"n.结构,构造,建筑物vt.建筑,构成,组织"
-plunge,"n.跳进,投入vi.投入,跳进,陷入vt.使投入,使插入,使陷入"
-decline,"vi.下倾,下降,下垂v.拒绝,衰落n.下倾,下降,下垂,斜面,斜坡,衰败,衰落"
-cease,"v.停止,终了"
-imaginary,"adj.假想的,想象的,虚构的"
-attribute,"n.属性,品质,特征,加于,归结于"
-personality,"n.个性,人格,人物,名人,(用复数)诽谤、人身攻击"
-interaction,"n.交互作用,交感"
-blog,
-release,"n.释放,让渡,豁免,发行的书,释放证书vt.释放,解放,放弃,让与,免除,发表n.版本,发布"
-endorphin,
-essential,"adj.本质的,实质的,基本的,提炼的,精华的n.本质,实质,要素,要点"
-sustain,"vt.支撑,撑住,维持,持续"
-sustained,"adj.持续不变的,相同的"
-arouse,"vt.唤醒,唤起,鼓励,引起vi.睡醒"
-feedback,"n.[无]回授,反馈,反应"
-interact,"vi.互相作用,互相影响"
-gamble,"n.冒险v.赌博,投机,孤注一掷"
-gambler,"n.赌博的人,赌徒"
-lever,"n.杆,杠杆,控制杆v.抬起"
-rational,"adj.理性的,合理的,推理的n.[数]有理数"
-spoil,"vt.损坏,搞糟,宠坏,溺爱v.扰乱"
-moderate,"adj.中等的,适度的,适中的v.缓和"
-moderation,
-multiple,"adj.多样的,多重的n.倍数,若干v.成倍增加"
-schedule,"n.时间表,进度表v.确定时间"
-a wealth of sth.,
-make use of sth.,
-give rise to sth.,
-charge sb. with sth.,
-charge sb. with doing sth.,
-keep sb. from sth.,
-keep sb. from doing sth.,
-care for,
-tell of,
-as well,
-at risk,
-nothing but,
-era,"n.时代,纪元,时期,[地]代"
-victim,"n.受害人,牺牲者,牺牲品"
-survivor,"n.生还者,残存物"
-tragedy,"n.悲剧,惨案,悲惨,灾难"
-subsequent,"adj.后来的,并发的"
-associate,"vt.使发生联系,使联合vi.交往,结交n.合作人,同事adj.副的"
-congress,"n.(代表)大会,[C～] (美国等国的)国会,议会"
-congresswoman,"n.国会女议员,众议院女议员"
-tender,"adj.嫩的,温柔的,软弱的"
-sympathy,"n.同情,同情心"
-shield,"n.防护物,护罩,盾,盾状物vt.(from) 保护,防护v.遮蔽"
-hail,"n.冰雹,致敬,招呼,一阵vt.向...欢呼,致敬,招呼,使象下雹样落下,猛发vi.招呼,下雹int.万岁,欢迎"
-bullet,n.子弹
-priest,n.牧师
-remarkable,"adj.不平常的,非凡的,值得注意的,显著的"
-humanity,"n.人性,人类,博爱,仁慈"
-civilian,"n.平民,公务员,文官adj.民间的,民用的"
-grace,"n.优美,雅致,优雅 Grace 格雷斯(女子名)"
-circumstance,"n.环境,详情,境况"
-respond,"v.回答,响应,作出反应vi.有反应"
-responder,"n.回答者,回应者n.[电] 应答器,响应器"
-widow,n.寡妇v.使成寡妇(或鳏夫)
-solemn,"adj.庄严的,隆重的,严肃的"
-solemnly,"adv.严肃地,庄严地"
-sergeant,"n.警官,军士"
-commitment,"n.委托事项,许诺,承担义务"
-automobile,"n.<主美>汽车(=<英>motor car,car)"
-distinct,"adj.清楚的,明显的,截然不同的,独特的"
-military,"adj.军事的,军用的"
-personnel,"n.人员,职员"
-jail,n.监狱vt.监禁
-confine,"vt.限制,禁闭n.界限,边界"
-solitary,adj.孤独的
-chamber,"n.室,房间,议院,会所,(枪)膛"
-establish,"vt.建立,设立,安置,使定居,使人民接受,确定v.建立"
-harmony,"n.协调,融洽"
-reconcile,"vt.使和解,使和谐,使顺从"
-conflict,"n.斗争,冲突vi.抵触,冲突"
-conflicted,
-advocate,"n.提倡者,鼓吹者vt.提倡,鼓吹"
-grief,"n.悲痛,伤心事,不幸,忧伤"
-rage,"n.愤怒,情绪激动,狂暴,精神错乱vi.大怒,狂吹,风行"
-association,"n.协会,联合,结交,联想"
-legislation,"n.立法,法律的制定(或通过)"
-authority,"n.权威,威信,权威人士,权力,职权,典据,著作权威"
-intense,"adj.强烈的,剧烈的,热切的,热情的,激烈的"
-involve,"vt.包括,笼罩,潜心于,使陷于"
-fulfill,"vt.履行,实现,完成(计划等)"
-fulfillment,"n.履行,实行"
-give one's life,
-ring out,
-shield ... from ...,
-with grace,
-with good grace,
-with a good grace,
-be caught up in sth.,
-get caught up in sth.,
-in the words of sb.,
-in sb.'s words,
-reserve sth. for ...,
-relate to ...,
-make sense of sth.,
-sum up,
-in need,
-count on,
-call on,
-aspiration,"n.热望,渴望"
-barely,"adv.仅仅,刚刚,几乎不能"
-lane,"n.(乡间)小路,巷,里弄,狭窄的通道,航线"
-terror,"n.恐怖,可怕的人,恐怖时期,恐怖行动"
-awful,"adj.可怕的,威严的,<口>极度的,糟糕的"
-abolish,"vt.废止,废除(法律、制度、习俗等)"
-image,"n.图象,肖像,偶像,形象化的比喻,极为相象,映像,典型vt.想象,作...的像,反映,象征"
-slippery,"adj.滑的,光滑的"
-concrete,"adj.具体的,有形的n.混凝土v.用混凝土修筑,浇混凝土,凝结"
-primitive,"adj.原始的,远古的,粗糙的,简单的"
-crystal,"adj.结晶状的n.水晶,水晶饰品,结晶,晶体"
-reflect,"v.反射,反映,表现,反省,细想"
-lean,"n.倾斜,倾斜度,倚靠,倾向adj.瘦的,贫乏的,歉收的vi.倚靠,倾斜,依赖,倾向,偏向vt.使倾斜"
-ignore,"vt.不理睬,忽视,[律](因证据不足而)驳回诉讼"
-patrol,"v.出巡,巡逻n.巡逻"
-slam,"v.砰地关上,砰地放下,猛力抨击,冲击n.砰,猛击,撞击,冲击"
-halt,"n.停止,暂停,中断vt.使停止,使立定vi.立定,停止,踌躇,有缺点"
-yell,"vi.大叫,忍不住笑,呼喊vt.叫着说n.叫声,喊声"
-backup,"n.后援,支持,阻塞;vt.做备份;adj.候补的,支持性的"
-swell,"v.(使)膨胀,增大"
-monster,"n.怪物,妖怪"
-roar,"n.吼叫,怒号vi.吼叫,怒号v.滚动,咆哮"
-limb,"n.肢,翼,分支"
-current,"adj.当前的,通用的,流通的,现在的,草写的,最近的n.涌流,趋势,电流,水流,气流"
-submerge,"v.浸没,淹没,掩没vi.潜水"
-heave,v.举起n.举起
-lord,"n.封建领主,地主,统治者,[宗]上帝vi.称王称霸,作威作福vt.使成贵族"
-lower,"adj.较低的,下级的,下等的,下游的vi.降低,跌落,减弱vt.放下,降下,减弱,贬低"
-collapse,"n.倒塌,崩溃,失败,虚脱vi.倒塌,崩溃,瓦解,失败,病倒"
-badge,"n.徽章,证章"
-identify,"vt.识别,鉴别,把...和...看成一样v.确定"
-betray,"vt.出卖,背叛,泄露(秘密),露出...迹象"
-crack,"n.裂缝,噼啪声v.(使)破裂,裂纹,(使)爆裂adj.最好的,高明的"
-moan,"n.呻吟,哀悼,呼啸vi.发出呻吟声,抱怨,哀悼vt.呻吟"
-grab,"v.抢夺,攫取,夺取"
-slender,"adj.苗条的,微薄的,微弱的"
-streak,"v.飞跑,加上条纹"
-stiff,"adj.硬的,僵直的,拘谨的,呆板的,艰难的,费劲的,僵硬的"
-heal,"v.治愈,医治,结束"
-acute,"adj.敏锐的,[医]急性的,剧烈"
-nightmare,"n.梦魇,恶梦,可怕的事物"
-live in terror of ...,
-a string of,
-turn off,
-lean on,
-beat sb. to it,
-pull over,
-slip off,
-slip down,
-bring sth. to a halt,
-cut through,
-fill up with,
-identify sb. as sb.,
-catch up with,
-break through sth.,
-hold on,
-let go,
-let go of ...,
-be grateful for,
-marathon,"n.[体]马拉松赛跑(全长42,1954米),耐力的考验"
-annual,"n.一年生植物,年刊,年鉴adj.一年一次的,每年的,一年生的"
-route,"n.路线,路程,通道v.发送"
-harsh,"adj.粗糙的,荒芜的,苛刻的,刺耳的,刺目的"
-endurance,"n.忍耐(力),持久(力),耐久(性)"
-regardless,"adj.不管,不顾,不注意"
-super,"n.不重要的角色,冗员vt.用冷纱布贴(书背)vi.充当跑龙套的角色adj.上等的,特大的,特级的,十分的,过分的,极好的adv.非常 /n.上标/下标"
-contract,"n.合同,契约,婚约v.使缩短,感染,订约"
-prominent,"adj.卓越的,显著的,突出的"
-sponsor,"n.发起人,主办者,保证人,主办人vt.发起,主办v.赞助"
-finance,"n.财政,金融,财政学vt.供给...经费,负担经费vi.筹措资金"
-furnish,"vt.供应,提供,装备,布置v.供给"
-substantial,"adj.坚固的,实质的,真实的,充实的"
-mechanism,"n.机械装置,机构,机制"
-contest,"n.论争,竞赛v.,争论,争辩,竞赛,争夺"
-distinction,"n.区别,差别,级别,特性,声望,显赫"
-amateur,"n.业余爱好者,业余艺术家"
-odd,"adj.奇数的,单数的,单只的,不成对的,临时的,不固定的,带零头的,余的"
-invisible,"adj.看不见的,无形的"
-assemble,"vt.集合,聚集,装配vi.集合"
-assembled,"vbl.装配,组合"
-assert,"v.断言,声称"
-react,"vi.起反应,起作用,反抗,起反作用"
-apparent,"adj.显然的,外观上的"
-publicity,n.公开
-crush,"vt.压碎,碾碎,压服,压垮,粉碎,(使)变形"
-gear,"n.齿轮,传动装置v.调整,(使)适合,换档"
-style,"n.风格,时尚,文体,风度,类型,字体vt.称呼,设计,使合潮流 使铁笔作装饰画"
-shuffle,"n.拖着脚走,混乱,蒙混,洗纸牌v.拖曳,搅乱,慢吞吞地走,推诿,洗牌"
-commentator," 评论员,讲解员"
-alike,"adj.相同的,相似的adv.以同样的方式,类似于"
-welfare,"n.福利,安宁,幸福,福利事业,社会安全adj.福利的"
-insane,"adj.患精神病的,精神病患者的,极愚蠢的"
-smash,"v.打碎,粉碎n.打碎,粉碎adj.出色的"
-award,"n.奖,奖品vt.授予,判给"
-prominence,"n.突出,显著,突出物"
-despite," prep.不管,尽管,不论"
-dim,"adj.暗淡的,模糊的,无光泽的,悲观的,怀疑的vt.使暗淡,使失去光泽n.<美俚>笨蛋、傻子"
-stroke,"n.击,敲,报时的钟声,(网球等)一击,(划船等)一划,(绘画等)一笔,一次努力,打击vt.抚摸"
-legend,"n.传说,伟人传,图例 联想集团,中国最大的国有品牌微机制造商之一"
-magnificent,"adj.华丽的,高尚的,宏伟的"
-brilliant,"adj.灿烂的,闪耀的,有才气的"
-individual,"n.个人,个体adj.个别的,单独的,个人的"
-inherent,"adj.固有的,内在的,与生俱来的"
-inherently,"adv.天性地,固有地"
-up to,
-in attendance,
-might as well,
-might just as well,
-at a time,
-leave ... behind,
-out loud,
-fall ill,
-have no intention of doing sth.,
-endear sb. to sb.,
-give away,
-pass away,
-to this day,
-mold,"n.模子,铸型vt.浇铸,塑造"
-critical,"adj.评论的,鉴定的,批评的,危急的,临界的"
-underline,"vt.在...下面划线,作...的衬里,加下划线,强调n.下划线"
-humble,"adj.卑下的,微贱的,谦逊的,粗陋的vt.使...卑下,挫,贬抑"
-generous,"adj.慷慨的,大方的,有雅量的"
-emphasize,"vt.强调,着重v.强调"
-mutual,"adj.相互的,共有的"
-obligation,"n.义务,职责,债务"
-graceful,adj.优美的
-youngster,"n.年青人,少年"
-nevertheless," conj.然而,不过adv.仍然,不过"
-abstract,"n.摘要,概要,抽象;adj.抽象的,深奥的,理论的;vt.摘要,提炼,抽象化"
-concept,"n.观念,概念"
-strategy,"n.策略,军略"
-cooperation,"n.合作,协作"
-crucial,adj.至关紧要的
-overcome,"vt.战胜,克服,胜过,征服vi.得胜"
-fundamental,"adj.基础的,基本的n.[pl.] 基本原则,基本原理"
-outcome,"n.结果,成果"
-ambition,"n.野心,雄心"
-participation,"n.分享,参与"
-hazard,"n.冒险,危险,冒险的事vt.冒...的危险,赌运气,使遭危险"
-psychology,"n.心理学,心理状态"
-psychologist,n.心理学者
-considerable,"adj.相当大(或多)的,值得考虑的,相当可观的"
-intensity,"n.强烈,剧烈,强度 亮度"
-psychological,adj.心理(上)的
-emphasis,"n.强调,重点"
-exclusive,"adj.排外的,孤高的,唯我独尊的,独占的,唯一的,高级的"
-exclusively,"adv.排外地,专有地"
-outlook,"n.景色,风光,观点,见解,展望,前景"
-demanding,"adj.过分要求的,苛求的"
-excessive,"adj.过多的,过分的,额外"
-drain,"n.排水沟,消耗,排水vt.排出沟外,喝干,耗尽vi.排水,流干"
-draining,
-consequence,"n.结果,[逻]推理,推论,因果关系,重要的地位"
-rate,"n.比率,速度,等级,价格,费用vt.估价,认为,鉴定等级,责骂vi.被评价,责骂"
-accomplish,"vt.完成,达到,实现"
-accomplishment, ns//n.造诣
-adapt,"vt.使适应,改编"
-define,"vt.定义,详细说明"
-redefine,vt.重新定义vi.重新定义
-trait,"n.显著的特点,特性"
-extreme,"adj.尽头的,极端的,极度的,偏激的,最后的n.极端,极端的事物"
-extremely,"adv.极端地,非常地"
-pave,
-the here and now,
-early on,
-free ride,
-blame sb. for sth.,
-place emphasis on sth.,
-cancel out,
-on the surface,
-in shape,
-deal with sth.,
-the way of the world,
-pave the way for sth.,
-numerous,"adj.众多的,许多的,无数的"
-reliable,"adj.可靠的,可信赖的"
-contrast,"vt.使与...对比,使与...对照vi.和...形成对照n.对比,对照,(对照中的)差异"
-indicate,"vt.指出,显示,象征,预示,需要,简要地说明"
-indicator,"n.指示器,[化]指示剂"
-decrease,"n.减少,减少之量v.减少"
-assess,"vt.估定,评定"
-alter,v.改变
-stake,n.树桩
-academic,"adj.学院的,理论的"
-undermine,v.破坏
-significant,"adj.有意义的,重大的,重要的"
-significantly,"adv.意味深长地,值得注目地"
-interfere,"vi.干涉,干预,妨碍,打扰"
-overall,"adj.全部的,全面的"
-proof,"n.证据,试验,考验,[印刷]校样adj.不能透入的,证明用的,防...的,有耐力的vt.检验,校对,使不被穿透"
-approximately,"adv.近似地,大约"
-seemingly,adv.表面上地
-consistent,"adj.一致的,调和的,坚固的,[数、统]相容的"
-toll,"n.通行税(费),费,代价,钟声vt.征收,敲钟,鸣(钟)(特指宣布死亡),勾引,引诱vi.征税,鸣钟"
-given,"adj.赠予的,沉溺的,特定的,假设的 vbl.give的过去分词"
-indication,"n.指出,指示,迹象,暗示"
-compromise,"n.妥协,折衷v.妥协,折衷,危及...的安全"
-whereas," conj.然而,反之,鉴于,尽管,但是"
-marginal,"adj.记在页边的,边缘的,边际的"
-commit,"vt.犯(错误),干(坏事),把...交托给,提交,答应负责"
-committed,
-withdraw,"vt.收回,撤消vi.缩回,退出v.撤退"
-striking,"adj.打击的,显著的,惊人的,罢工的"
-generate,"vt.产生,发生"
-anew,"adv.重新,再"
-permanent,"adj.永久的,持久的"
-owing to,
-erode,"vt.侵蚀,腐蚀,使变化vi.受腐蚀,逐渐消蚀掉"
-characteristic," ally//adv.表示特adj.特有的,表示绦缘"
-intensive,"adj.强烈的,精深的,透彻的,[语法]加强语气的n.加强器"
-recreation,"n.消遣,娱乐"
-surplus,"n.剩余,过剩,[会计]盈余adj.过剩的,剩余的vt.转让,卖掉"
-accustomed,"adj.通常的,习惯的,按照风俗习惯的"
-depress,"vt.使沮丧,使消沉,压下,压低,使不活泼,使萧条v.压下"
-convention,"n.大会,协定,习俗,惯例"
-controversial,"adj.争论的,争议的"
-conventional,"adj.惯例的,常规的,习俗的,传统的"
-formative,adj.格式化的
-abandon,"vt.放弃,遗弃;n.放任,狂热"
-appealing,"adj.吸引人的,哀诉似的,恳求似的"
-myth,"n.神话,神话式的人物(或事物),虚构的故事,荒诞的说法"
-resolve,"n.决心v.决心,决定,决心要,(使)分解,溶解,解决vt.解决"
-interfere with,
-cut class,
-on the other hand,
-take a toll on,
-take its toll on,
-at risk,
-at risk of,
-to begin with,
-in other words,
-cut back on,
-cut corners,
-bit by bit,
-burn the midnight oil,
-drop out,
-in turn,
-contribute to,
-hold on to,
-soar,"v.高飞,高丛,滑翔,剧增,昂扬n.高飞范围,高涨程度"
-frank,"adj.坦白的,率直的,老实的vt.免费邮寄n.免费邮寄特权 Frank 弗兰克(男子名)"
-vigorous,"adj.精力旺盛的,有力的,健壮的"
-absorb,"vt.吸收,吸引"
-tuition,n.学费
-tremendous,"adj.极大的,巨大的"
-relevant,"adj.有关的,相应的"
-spite,"n.(in ～ of)不顾,不管,敌意v.困扰"
-obstacle,"n.障碍,妨害物"
-collective,adj.集体的n.集体
-collectively,"adv.全体地,共同地"
-claim,"n.(根据权利提出)要求,要求权,主张,要求而得到的东西vt.(根据权利)要求,认领,声称,主张,需要"
-endure,"v.耐久,忍耐"
-bulge,"n.凸出部分v.凸出,膨胀"
-tutor,"n.家庭教师,(大学)指导教师,助教,监护人,辅导教师v.辅导"
-startle,v.震惊
-startled,v.震惊 vbl.震惊
-necessity,"n.必要性,需要,(常 pl.) 必需品"
-luxury,"n.奢侈,华贵"
-glimpse,"n.一瞥,一看v.瞥见"
-prioritize,vt.把...区分优先次序
-aware,"adj.知道的,明白的,意识到的"
-influential,"adj.有影响的,有势力的"
-illustrate,"vt.举例说明,图解,加插图于,阐明vi.举例"
-cite,"vt.引用,引证,提名表扬"
-dropout,"n.退学学生,中途退学,辍学学生"
-evidence,"n.明显,显著,明白,迹象,根据,[物]证据,证物"
-exhaust,"vt.用尽,耗尽,抽完,使精疲力尽vi.排气n.排气,排气装置adj.用不完的,不会枯竭的"
-abuse,"n.滥用,虐待,辱骂,陋习,弊端v.滥用,虐待,辱骂"
-authentic,adj.可信的
-stress,"n.重压,逼迫,压力,重点,着重,强调,重音vt.着重,强调,重读"
-tension,"n.紧张(状态),不安,拉紧,压力,张力,牵力,电压vt.拉紧,使紧张"
-relieve,"vt.减轻,解除,援救,救济,换班"
-burden,"n.担子,负担v.负担"
-convince,"vt.使确信,使信服"
-convinced,"adj.确信的,深信的"
-ensure,"vt.保证,担保,使安全,保证得到v.确保,确保,保证"
-responsible,"adj.有责任的,可靠的,可依赖的,负责的"
-formal,"adj.外形的,正式的,合礼仪的,形式的,整齐匀称的n.正式的社交活动"
-advanced,"adj.高级的,年老的,先进的"
-singular,"n.单数adj.单一的,非凡的,异常的,持异议的"
-financial,"adj.财政的,金融的"
-furthermore,"adv.此外,而且"
-readily,"adv.乐意地,欣然,容易地"
-concede,"vt.勉强,承认,退让vi.让步"
-mature,"adj.成熟的,到期的,充分考虑的,(票据等)到期的vt.使成熟vi.成熟,到期"
-be in the minority,
-be in a minority,
-as for,
-a matter of sth.,
-a matter of doing sth.,
-look back,
-feel sorry for oneself,
-be envious of,
-catch a glimpse of,
-get a glimpse of,
-have a glimpse of,
-relieve sb. of sth.,
-fraud,"n.欺骗,欺诈行为,诡计,骗子,假货"
-corruption,"n.腐败,贪污,堕落"
-expel,"v.驱逐,开除,排出,发射"
-purchase,"vt.买,购买n.买,购买"
-layer,"n.层,阶层"
-exemplify,"vt.例证,例示,作为...例子"
-consumer,n.消费者
-bribe,"n.贿赂vt.贿赂,向...行贿"
-rip,"v.撕,剥,劈,锯,裂开,撕裂n.裂口,裂缝  愿灵安眠 RIP(rest in peace)"
-accurate,"adj.正确的,精确的"
-exaggerate,"v.夸大,夸张"
-principle,"n.法则,原则,原理"
-morality,adj.道德的n.道德
-extensive,"adj.广大的,广阔的,广泛的"
-facilitate,"vt.(不以人作主语的)使容易,使便利,推动,帮助,使容易,促进"
-nerve,"n.神经,胆量,勇气,叶脉vt.鼓起勇气"
-frustrate,"v.挫败,阻挠,使感到灰心,阻止"
-frustration,"n.挫败,挫折,受挫"
-ultimate,"adj.最后的,最终的,根本的n.最终"
-illegal,"adj.违法的,不合规定的"
-fake,"n.假货,欺骗adj.假的vt.伪造,赝造,捏造,假造,仿造vi.伪装"
-browse,"v.n.浏览,吃草,放牧"
-locate,"vt.查找...的地点,使...坐落于,位于v.定位,位于"
-appropriate,adj.适当的
-web,"n.环球网,网,蛛丝,蹼,翼手,织物,圈套,卷筒纸;vi.使陷入罗网,形成网;vt.织蜘蛛网于,使落入圈套"
-conscious,
-cope,"vi.(善于)应付,(善于)处理"
-plagiarism,"n.剽窃,剽窃物"
-software,n.软件
-plagiarize,"v.剽窃,抄袭"
-launch,"n.下水,汽艇,发射,发行,投放市场vt.使(船)下水,掷(标枪等),发射(导弹、火箭等),开办,发动,发起vi.起飞,下水,投入,开始"
-campaign,"n.[军]战役,(政治或商业性)活动,竞选运动vi.参加活动,从事活动,作战"
-eliminate,"vt.排除,消除v.除去"
-attach,"vt.缚上,系上,贴上v.配属,隶属于"
-attached,a.附加的
-satisfactory,"adj.满意的,赎罪的"
-confront,"vt.使面临,对抗"
-reveal,"vt.展现,显示,揭示,暴露"
-applaud,"v.拍手喝彩,称赞,赞同"
-awareness,"n.知道,晓得"
-imply,"vt.暗示,意味"
-absolute,"adj.完全的,绝对的"
-induce,"vt.劝诱,促使,导致,引起,感应"
-descend,"vi.下来,下降,遗传(指财产,气质,权利),突击,出其不意的拜访v.下去"
-chaos,"n.混乱,混沌(宇宙未形成前的情形)"
-affirmative,"adj.肯定的,(对正式辩论中的问题)表示赞成的,(态度,方法等)积极的,乐观的,怀有希望的n.肯定语"
-durable,"adj.持久的,耐用的"
-turn in,
-not to mention sth.,
-rip off,
-if this is the case,
-if that is the case,
-cope with,
-launch a campaign,
-make a complaint about sth.,
-the good old days,
-be confined to ...,
-descend into,
-element,"n.要素,元素,成分,元件,自然环境"
-lump,"n.块(尤指小块),肿块,笨人vt.使成块状,混在一起,忍耐,笨重地移动vi.结块"
-inhabitant,"n.居民,居住者"
-encounter,"v.遭遇,遇到,相遇n.遭遇,遭遇战"
-automatic,"n.自动机械adj.自动的,无意识的,机械的"
-bump,"n.撞击,肿块v.碰(伤),撞(破),颠簸"
-prompt,"n.提示,付款期限vt.提示,鼓动,促使,(给演员)提白adj.敏捷的,迅速的,即时的adv.准时地"
-chase,"n.追赶,追击vt.追赶,追逐,雕镂"
-reluctant,"adj.不顾的,勉强的,难得到的,难处理的"
-elevator,"n.电梯,升降机,[空]升降舵"
-switch,"n.开关,电闸,转换vt.转换,转变"
-beep,n.哔哔声v.嘟嘟响
-horn,"n.(牛、羊等的)角,喇叭,触角v.装角"
-subway,"n.地道,<美> 地铁"
-herd,"n.兽群,牧群v.把...赶在一起放牧,成群"
-commute,"v.交换,抵偿,减刑,<电工>整流"
-commuter,"n.通勤者,经常往返者"
-elbow,n.肘
-intimidate,v.胁迫
-pregnant,"adj.怀孕的,重要的,富有意义的,孕育的"
-nuisance,"n.讨厌的人或东西,麻烦事,损害"
-trend,"n.倾向,趋势vi.伸向,倾向,通向"
-traditional,"adj.传统的,惯例的,口传的,传说的"
-minor,"n.未成年人,副修科目adj.较小的,次要的,二流的,未成年的vi.辅修n.[乐]小调,小音阶"
-ignorant,adj.无知的
-counsel,"n.讨论,商议,辩护律师vt.劝告,忠告"
-counselor,"n.顾问,法律顾问"
-disgraceful,"adj.可耻的,不名誉的"
-insult,"n.侮辱,凌辱vt.侮辱,凌辱"
-target,"n.目标,对象,靶子"
-staff,"n.棒,杖,杆,支柱,全体职员,[军]参谋机构,[音]五线谱vt.供给人员,充当职员"
-hostile,"adj.敌对的,敌方的n.敌对"
-threaten,"vt.恐吓,威胁,预示(危险),似有发生或来临的可能,可能来临"
-threatening,"adj.胁迫的,危险的"
-agency,"n.代理处,行销处,代理,中介"
-perceive,"vt.察觉v.感知,感到,认识到"
-offensive,"adj.讨厌的,无礼的,攻击性的n.进攻,攻势"
-verbal,adj.口头的
-slap,"vt.拍,掌击,拍击n.拍,掌击,拍击"
-curse,"n.诅咒,咒语,祸根,祸因vt.诅咒,咒骂,降祸,使受罪"
-complaint,"n.诉苦,抱怨,牢骚,委屈,疾病"
-punch,"n.冲压机,冲床,打孔机vt.冲孔,打孔"
-utility,"n.效用,有用"
-executive,"adj.实行的,执行的,行政的n.执行者,经理主管人员"
-temper,"n.(钢等)韧度,回火,性情,脾气,情绪,心情,调剂,趋向v.(冶金)回火、锻炼,调和,调节"
-norm,"n.标准,规范"
-random,"n.随意,任意adj.任意的,随便的,胡乱的adv.胡乱地"
-compassionate,adj.富于同情心的
-volunteer,"n.志愿者,志愿兵adj.志愿的,义务的,无偿的v.自愿"
-optimistic,adj.乐观的
-prevail,"vi.流行,盛行,获胜,成功"
-mind one's own business,
-out of the way,
-crop up,
-cut in line,
-give chase,
-play a role in sth.,
-play a role in doing sth.,
-correspond with,
-cut both ways,
-in a ... fashion,
-go beyond sth.,
-all but,
-get lost,
-live with,
-show up,
-pass sth. on to sb.,
-point to,
-a variety of sth.,
-gender,"n.[语法] 性,<口>性别,性,性交"
-variable,"n.[数]变数,可变物,变量adj.可变的,不定的,易变的,[数]变量的"
-contradiction,"n.反驳,矛盾"
-intimate,"adj.亲密的,隐私的vt.宣布,明白表示n.熟友"
-magnetic,"adj.磁的,有磁性的,有吸引力的"
-sensitive,"adj.敏感的,灵敏的,感光的"
-deliberate,"adj.深思熟虑的,故意的,预有准备的v.商讨"
-comparison,"n.比较,对照,比喻,比较关系"
-ritual,"n.典礼,(宗教)仪式,礼节adj.典礼的,(宗教)仪式的"
-motion,"n.运动,动作v.运动"
-sequence,"n.次序,顺序,序列"
-deficiency,"n.缺乏,不足"
-narrative,adj.叙述性的n.叙述
-retreat,"vi.撤退,退却n.撤退,退却"
-steer,"v.驾驶,掌舵"
-steering,"n.操纵,掌舵,指导"
-intact,"adj.完整无缺的,尚未被人碰过的,(女子)保持童贞的,(家畜)未经阉割的"
-mission,"n.使命,任务,使团,代表团"
-evident,"adj.明显的,显然的"
-utter,"adj.全然的,绝对的vt.发出,做声,发表,发射,流通"
-inevitable,"adj.不可避免的,必然的"
-inevitable,"adj.不可避免的,必然的"
-microphone,"n.扩音器,麦克风"
-spill,"n.溢出,溅出,摔下,木片,小塞子,暴跌,溢出量vt.使溢出,使散落,洒,使流出,使摔下,倒出vi.溢出,涌流,充满"
-elaborate,"adj.精心制作的,详细阐述的,精细vt.精心制作,详细阐述v.详细描述"
-drama,"n.(在舞台上演的)戏剧,戏剧艺术"
-rigid,"adj.刚硬的,刚性的,严格的"
-farewell,"n.辞别,再见,再会int.再会,别了!(常含有永别或不容易再见面的意思)"
-abrupt,"adj.突然的,陡峭的,生硬的"
-abruptly,"adv.突然地,唐突地"
-panic,"n.惊慌,恐慌,没有理由的"
-splash,"n.溅,飞溅,斑点v.溅,泼,溅湿"
-scare,"v.惊吓,受惊,威吓n.惊恐,恐慌,恐惧"
-scared,adj.恐惧的
-spontaneous,"adj.自发的,自然产生的"
-spontaneously,"adv.自然地,本能地"
-transparent,"adj.透明的,显然的,明晰的"
-relief,"n.(痛苦等的)减轻,(债务等的)免除,救济,调剂,安慰,浮雕,地貌"
-process,"n.过程,作用,方法,程序,步骤,进行,推移vt.加工,处理"
-nurture,"n.养育,教育,教养,营养品vt.养育,给与营养物,教养"
-genetic,"adj.遗传的,起源的"
-tendency,"n.趋向,倾向"
-masculine,"adj.男性的,男子气概的,[语法] 阳性的n.男子,男孩"
-feminine,"adj.妇女(似)的,娇柔的,阴性的,女性的"
-tend,"vi.趋向,往往是vt.照管,护理"
-restrain,"vt.抑制,制止"
-restrained,"adj.受限制的,拘谨的,有限的"
-in ... terms,
-in comparison,
-make up for,
-at the time,
-on a mission,
-pull away,
-in a new light,
-in a bad light,
-in a different light,
-look sb. in the eye,
-to sb.'s relief,
-be born with sth.,
-privilege,"n.特权,特别待遇,基本公民权力,特免vt.给与...特权,特免"
-co-worker,
-framework,"n.构架,框架,结构"
-diverse,"adj.不同的,变化多的"
-subtle,"adj.狡猾的,敏感的,微妙的,精细的,稀薄的"
-constitute,"vt.制定(法律),建立(政府),组成,任命"
-forth,"adv.往前,向外"
-casual,"adj.偶然的,不经意的,临时的"
-casually,"adv.偶然地,随便地,临时地"
-worship,"n.崇拜,礼拜,尊敬vi.敬神,拜神vt.崇拜,尊敬"
-ally,"v.结盟,与...(在血统,性质等上)有关联,同盟n.同盟国,支持者"
-committee,n.委员会
-client,"n.[计]顾客,客户,委托人,客户机程序"
-superficial,"adj.表面的,肤浅的,浅薄的"
-scarcely,"adv.几乎不,简直没有"
-variation,"n.变更,变化,变异,变种,[音]变奏,变调"
-visible,"adj.看得见的,明显的,显著的n.可见物"
-arbitrary,"adj.任意的,武断的,独裁的,专断的"
-mood,"n.心情,情绪,语气,状态"
-ceremony,"n.典礼,仪式,礼节,报幕员"
-complicated,"adj.复杂的,难解的"
-keen,"adj.锋利的,敏锐的,敏捷的,热心的,渴望的"
-compatible,"adj.谐调的,一致的,兼容的"
-compatibility,n.[计]兼容性
-corresponding,"adj.相应的,通讯的"
-philosophy,"n.哲学,哲学体系,达观,冷静"
-boundary,"n.边界,分界线"
-poetry,"n.诗,作诗法,诗意,诗情"
-affection,"n.友爱,爱情,影响,疾病,倾向"
-alliance,"n.联盟,联合"
-wit,"n.智力,才智,智慧"
-ideal,"n.理想adj.理想的,完美的,想象的,观念的,唯心论的"
-inner,"adj.内部的,里面的,内心的n.内部"
-loyalty,"n.忠诚,忠心"
-enhance,"vt.提高,增强v.提高"
-integrate,"vt.使成整体,使一体化,求...的积分v.结合"
-integrated,"adj.综合的,完整的"
-significance,"n.意义,重要性"
-vital,"adj.生死攸关的,重大的,生命的,生机的,至关重要的,所必需的"
-conversely,"adv.倒地,逆地"
-guarantee,"n.保证,保证书,担保,抵押品vt.保证,担保"
-gratitude,n.感谢的心情
-extend,"v.扩充,延伸,伸展,扩大[军]使疏开,给予,提供,演化出的全文,<英>[律]对(地产等)估价"
-profound,"adj.深刻的,意义深远的,渊博的,造诣深的"
-profoundly,"adv.深深地,衷心地"
-miracle,"n.奇迹,奇事"
-shower sb. with sth.,
-a lack of,
-come into being,
-back and forth,
-apply to,
-a range of,
-not so much ... as ...,
-debt of gratitude,
-debt of thanks,
-feel at home,
-be at home,
+﻿triumph,"n. 凯旋, 胜利, 欢欣
+vi. 得胜, 成功"
+pledge,"n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿
+vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康"
+pose,"n. 姿势, 姿态, 装模作样, 伪装
+vi. 摆姿势, 装模作样, 假装
+vt. 使摆好姿势, 提出, 造成"
+routine,"n. 常规, 日常工作, 惯例, 例行公事
+a. 日常的, 常规的
+[计] 例程"
+attain,"vt. 达到, 获得
+vi. 达到"
+foundation,n. 基础；地基；基金会；根据；创立
+resource,"n. 资源, 财力, 办法, 策略, 急智, 消遣
+[计] 资源"
+faculty,"n. 才能, 能力, 全体教员, (大学的)系
+[医] 能力, [大学]院系"
+comprehensive,"a. 广泛的, 有理解力的, 综合的
+[经] 广泛的, 综合的, 全面的"
+facility,"n. 容易, 灵巧, 设备
+[计] 设施; 设备; 装备"
+community,n. 社区；[生态] 群落；共同体；团体
+explore,"v. 探险, 探测, 探究"
+fascinating,"a. 迷人的, 吸引人的, 使人神魂颠倒的"
+pursue,"vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事
+vi. 追赶, 继续"
+passion,"n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)"
+unique,"a. 独一无二的, 独特的, 稀罕的"
+enthusiasm,"n. 巨大的热情, 热心"
+reap,"vt. 收割, 收获, 获得
+vi. 收割, 得到报应"
+benefit,"n. 利益
+vt. 有益于
+vi. 受益"
+opportunity,"n. 机会, 时机"
+overwhelm,"vt. 淹没, 受打击, 制服, 压倒, 使不知所措
+[法] 打翻, 倾覆, 覆盖"
+available,adj. 有效的，可得的；可利用的；空闲的
+sample,"n. 样品, 范例, 样本
+vt. 抽样, 尝试
+[计] 示例, 字样"
+assume,"vt. 假定, 承担, 呈现
+vi. 装腔作势, 僭越"
+emerge,"vi. 浮现, 形成, 出现, (事实)显露"
+giant,"n. 巨人, 大力士, 巨大怪物
+a. 庞大的, 巨大的"
+mate,abbr. Materials Engineer 材料工程师
+roommate,"n. 室友；同住一室的人
+[网络] 暧昧的同居室友；我的室友；微电影"
+owl,[网络] 普通水位；普通巫术等级
+virtual,"a. 实际上起作用的, 虚的, 实质的, 有效的, 事实上生效的
+[计] 虚拟"
+virtually,adv. 事实上
+enrich,"vt. 使富足, 使肥沃"
+glow,"n. 赤热, 光辉, 热情, 热烈, 红光
+vi. 发红光, 红光焕发, 发热, 洋溢, 激动"
+confidence,[网络] 有自信
+yield,"n. 生产量, 投资收益
+vt. 出产, 给予, 让出, 放弃, 使屈服
+vi. 出产, 屈服, 投降, 倒塌"
+abundant,"a. 丰富的, 充分的, 大量的"
+responsibility,"n. 责任, 职责, 负担, 可靠性
+[化] 职责"
+inherit,"vt. 继承, 遗传
+vi. 接受遗产"
+inheritor,"n. 继承人, 后继者
+[法] 遗产继承人, 继承人"
+transmit,"vt. 传输, 传染, 传达, 遗传, 发射, 传播
+vi. 发射信号, 留传下来
+[计] 传送"
+acquire,"vt. 获得, 学到
+[电] 目标锁定"
+prosperous,"a. 成功的, 繁盛的, 幸运的
+[经] 繁荣的, 昌盛的"
+remind sb. of ...,[网络] 使某人想起；提醒某人某事；使某人想起某事
+get by,"通过, 混过"
+make the most of sth.,无
+reap the benefits,[网络] 获利；获得好处；者获得最大收益
+reap the benefits of sth.,无
+in advance,"预先
+[经] 预先"
+stand a chance,"有可能, 有希望"
+stand a chance of doing sth.,无
+over time,[计] 超时
+turn into sth.,无
+turn ... into ...,[网络] 了解
+all at once,"突然, 同时
+[计] 整批发送"
+take pleasure in sth.,无
+take pleasure in doing sth.,无
+open the door to sth.,[网络] 打开门
+take delight in sth.,无
+take delight in doing sth.,无
+participate,"vi. 参加, 分享, 参与, 带有
+vt. 分享, 分担"
+incredible,a. 难以置信的
+deny,"v. 否认, 拒绝"
+undeniably,adv. 确凿无疑地；不可否认地
+depart,"vi. 离开, 出发, 背离, 违反, 去世"
+inquisitive,"a. 好问的, 想知道的, 好追根究底的"
+engage,"vi. 答应, 从事, 交战
+vt. 使忙碌, 雇佣, 预定, 使从事于, 使参加"
+despair,"n. 绝望, 失望
+vi. 绝望"
+embrace,"n. 拥抱
+vt. 拥抱, 互相拥抱, 包含, 收买
+vi. 拥抱"
+stimulate,"vt. 刺激, 激励, 鼓舞
+vi. 起刺激作用"
+intellectual,"n. 有知识者, 知识分子, 凭理智做事者
+a. 智力的, 用脑力的, 聪明的"
+capacity,"n. 容量, 能力, 才能, 资格
+[计] 容量"
+bind,"vt. 绑, 约束, 装订, 包扎, 使结合
+vi. 凝固, 有约束力
+[计] 赋值, 绑定"
+assure,"vt. 保证, 使确信, 弄清楚, 担保
+[法] 确信, 保证, 保障"
+assured,"a. 确定的, 自信的
+[经] 被保险人, 被保证者, 投保人"
+career,"n. 事业, 生涯, 成功
+[法] 职业, 专业, 履历"
+curve,"n. 曲线, 弯曲, 曲线球
+vt. 弯, 使弯曲
+vi. 成曲形"
+decent,"a. 有分寸的, 得体的, 大方的"
+boast,"n. 吹牛
+vi. 吹牛, 自夸
+vt. 夸口说, 自恃有"
+bond,"n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留
+vt. 存入关栈, 使黏合
+vi. 结合"
+blossom,"n. 花, 花开的状态, 兴旺期
+vi. 开花, 兴旺, 发展"
+decade,"n. 十年, 十"
+genuine,"a. 真正的, 真实的, 诚恳的
+[医] 真性的"
+instinct,"n. 本能, 直觉
+a. 充满着的"
+confident,"a. 有信心的, 有把握的"
+secure,"a. 无虑的, 安心的, 安全的, 可靠的, 保险的
+vt. 固定, 获得, 保证, 使安全, 掩护, 招致
+vi. 停止操作, 船抛锚"
+stereotype,[网络] 刻板印象；定型；强硬派看待中国的流行做法
+comprehend,"vt. 理解, 包括"
+cultivate,"vt. 培养, 耕作"
+range,"n. 排, 行, 山脉, 范围, 行列, 射程
+vt. 排列, 归类于, 使并列, 放牧
+vi. 平行, 延伸, 漫游
+[计] 量程; 范围; 域; 距离"
+innocence,"n. 无罪, 无知, 天真无邪
+[法] 无罪, 无罪的人, 清白无辜者"
+curiosity,"n. 好奇心, 新奇的事物, 珍品"
+amount,"n. 总数, 总额
+vi. 总计, 等同"
+flexibility,"n. 弹性, 适应性
+[计] 灵活性; 适应性"
+approach,"n. 接近, 入门
+vt. 接近, 近似, 找...商量
+vi. 靠近"
+enthusiastic,"a. 狂热的, 热心的, 热烈的"
+enthusiastically,"adv. 热心地, 狂热地"
+talent,"n. 天才, 才能, 有才干的人, 天资"
+evolve,"vi. 进展, 进化, 展开
+vt. 使发展, 使推断出, 使进化"
+potential,"n. 潜在性, 可能性, 潜力, 潜能, 势, 位
+a. 有潜力的, 可能的, 潜在的"
+bold,"a. 大胆的
+n. 粗体
+[计] 粗体"
+enormous,"a. 巨大的, 庞大的"
+enormously,"adv. 非常地, 巨大地"
+be about to do sth.,"即将做某事
+刚要做某事"
+go off,"离开, 去世, 消失, 爆炸, 被发射, 变质, 进行, 睡去, 卖掉"
+open up,"na. (打)开；割开；开发(资源)；揭示
+[网络] 打开；开辟；开放"
+take ... seriously,"na. 重视；认真(想)；当真
+[网络] 认真对待；认真看待；高度重视"
+sign up,"签约参加工作, 签约雇用"
+sign up for sth.,无
+get to sb.,[网络] 让……烦心；生气；使……感到烦恼
+give sb. the benefit of the doubt,因证据不足而承认无罪
+reduce sb. to sth.,[网络] 减少sb到sth
+as long as,只要...
+feel like sth.,"摸上去如同..., 想要..., 需要..."
+feel like doing sth.,无
+safe and sound,安然无恙的
+take ... away,"adj. 买回去的
+[网络] 拿走；带走；外带"
+be born to be sth.,无
+be born to do sth.,无
+sb. can't wait,无
+clutter,"n. 杂乱
+vt. 弄乱, 使凌乱"
+await,"vt. 等候
+vi. 等待着"
+vehicle,"n. 交通工具, 车辆, 传播媒介
+[化] 载体; 运载体; 漆料"
+efficiency,"n. 效率, 效能, 功效
+[医] 效率, 效力"
+embarrass,"vt. 使困窘, 使局促不安, 阻碍"
+embarrassment,"n. 困难, 阻碍, 困窘
+[医] 窘迫"
+rust,"n. 锈, 生锈, 衰退
+vi. 生锈, 衰退
+vt. 使生锈, 腐蚀"
+blade,"n. 叶片, 刀锋, 刀口, 剑
+[医] 页[片], 叶片, 刀片, 刀刃, 刀口"
+tube,"n. 管, 软管, 隧道
+vt. 把...装管, 使通过管子
+[计] 管子"
+paste,"n. 面团, 面食, 浆糊, 糊状物, 粘贴, 用拳重击
+vt. 用浆糊粘, 张贴, 狠狠地打
+[计] 粘贴"
+toothpaste,牙膏
+polish,"a. 波兰的
+n. 波兰人, 上光剂, 光泽, 优雅
+vt. 擦亮, 擦去, 使完美
+vi. 擦亮, 变得光亮"
+trash,"n. 垃圾, 废物
+vt. 丢弃"
+dump,"n. 垃圾场
+vt. 倾倒, 倾销
+vi. 倒垃圾, 倾销商品
+[计] 转出; 转储; 倾卸; 切断电源"
+match,"n. 比赛, 火柴, 对手
+vt. 使相配, 使比赛, 与...竞争
+vi. 结婚, 相配
+[计] 比较"
+mismatched,"(mis-match 的过去分词) vt. 使配错
+n. 错配；不协调"
+purple,"n. 紫色, 帝位
+a. 紫色的, 帝王的, 华而不实的
+v. (使)成紫色"
+closet,"n. 壁橱, 小室
+a. 秘密的, 空谈的
+vt. 把...关入小室"
+comic,"n. 连环漫画, 喜剧演员, 滑稽的人
+a. 滑稽的, 有趣的, 喜剧的"
+fiction,"n. 小说, 虚构故事
+[法] 虚构的事实, 捏造, 拟制"
+romantic,"a. 浪漫的, 风流的, 传奇性的, 夸大的, 空想的, 浪漫派的"
+historical,"a. 历史的, 史实的, 历史上的
+[法] 历史性的"
+beloved,"a. 心爱的
+n. 心爱的人"
+stuff,"n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话
+vt. 装填
+vi. 狼吞虎咽"
+sack,"n. 麻布袋, 洗劫
+vt. 把...装入袋, 洗劫"
+stack,"n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈
+vt. 堆积, 堆满, 暗中对...做手脚
+vi. 堆起
+[计] 堆积, 堆栈"
+plague,"n. 瘟疫, 天罚, 麻烦, 灾祸
+vt. 折磨, 使苦恼, 使得灾祸"
+clumsy,"a. 笨拙的, 不雅观的, 粗陋的"
+charity,"n. 慈悲, 博爱, 慈善团体, 施舍
+[法] 宽大, 宽恕, 慈善机关"
+band,[网络] B提供住宿及早餐；连接两个并列成份
+curl,"n. 拳曲, 鬈发
+vt. 弄卷
+vi. 拳曲, 弯曲"
+curler,"n. 卷发的人, 卷发夹子"
+strain,"n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻
+vt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤
+vi. 尽力, 努力, 紧拉, 弯曲, 被滤出"
+haul,"n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离
+vi. 拖, 拉, 改变方向, 改变主意
+vt. 拖拉, 拖运"
+donation,"n. 捐赠物, 捐款, 捐赠
+[经] 赠品, 捐款, 捐赠"
+curb,"n. 抑制, 勒马绳, 边石
+vt. 抑制, 束缚, 勒住"
+sore,"a. 悲伤的, 痛的, 引起痛苦的
+n. 痛处, 溃疡, 疮"
+ridiculous,"a. 荒谬的, 可笑的"
+toss,"n. 投掷, 抛, 摇摆, 震荡, 掷钱币决定
+vt. 投掷, 猛抬, 摇荡, 使不安, 掷钱币决定
+vi. 被到处扔, 摇摆, 颠簸, 辗转, 掷钱币决定某事"
+strip,"n. 长条, 条状, 带, 脱衣舞
+vt. 脱衣, 被剥去, 剥夺, 拆卸
+vi. 脱衣服"
+craft,na. 术；行业
+clip,"n. 修剪, 夹子, 回形针, 剪下来的东西
+vt. 修剪, 痛打, 夹牢, 剪报
+vi. 剪报"
+item,"n. 项目, 条款, 一则, 项
+[计] 项"
+emotional,"a. 情绪的, 情感的
+[医] 情绪的"
+bug,"n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
+vt. 装防盗报警器, 装窃听器, 激怒
+vi. 捉虫, 暴突
+[计] 缺点, 错误"
+reverse,"n. 相反, 背面, 倒退, 挫折, 失败
+a. 反面的, 相反的, 反向的, 颠倒的
+vt. 使颠倒, 使逆转, 使倒退, 使反向
+vi. 倒退, 反向, 倒转, 反转
+[计] 反转"
+token,"n. 表征, 记号, 代币
+a. 象征的, 表意的
+[计] 记号"
+make it,"及时抵达, 做成"
+free of,"无...的, 在...外面"
+free from,"na. 无…的
+[网络] 不受…影响的；免于；没有"
+catch oneself doing sth.,无
+throw away,"na. 抛弃；浪费；拒绝(劝告)；失去(机会)
+[网络] 扔掉；丢弃；丢掉"
+after all,毕竟
+reverse oneself,"完全改变主张,改弦易辙,逆转"
+straighten up,"na. 改善；正派地过日子
+[网络] 好转；清理；整理"
+keep back,"na. 隐瞒；阻止；阻止向前；忍住
+[网络] 留下；留在后面；保留"
+with open arms,热情地
+limp,"n. 跛行
+a. 柔软的, 无力的, 软弱的
+vi. 跛行"
+surge,"n. 巨涌, 汹涌, 澎湃
+vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松
+vt. 使汹涌奔腾, 急放
+[计] 电压尖峰"
+breeze,"n. 微风, 煤屑, 轻而易举的事
+vi. 吹微风, 逃走"
+shiver,"vi. 颤抖, 哆嗦, 被打碎
+vt. 使迎风飘动, 粉碎
+n. 战栗, 碎块"
+complain,"v. 抱怨, 抗议, 控诉"
+chill,"n. 寒冷, 寒意, 失意
+a. 寒冷的, 冷漠的
+vt. 使寒心, 冷冻
+vi. 变冷"
+chilly,"a. 寒冷的, 冷淡的, 不友好的
+[建] 番椒, 冷"
+stride,"n. 大步, 步幅, 步态, 进步
+v. 迈大步走, 跨过, 跨"
+melt,"n. 熔化, 熔化物, 溶解
+v. (使)熔化, (使)溶解, (使)消散, (使)变软"
+melting,"a. 熔化的, 温柔的, 令人感动的, 甜美的
+[化] 熔化"
+shed,abbr. she had 她已经; she would 她可以
+immense,"a. 极广大的, 无边的, 非常好的"
+fatigue,"n. 疲乏, 疲劳
+vt. 使疲劳, 使心智衰弱
+vi. 疲劳
+a. 疲劳的"
+aboard,"un. A台
+[网络] 木板；钻木板；上有一块板"
+hut,"n. 小屋, 茅舍, 临时军营
+v. (使)住在茅舍"
+barrel,"n. 桶；枪管；一桶（的量）
+v. 飞驰
+[网络] 琵琶桶；圆筒；滚筒"
+shell,"abbr. (=she will [shall])
+[网络] 她将"
+shellfish, [医]水生贝壳类动物
+bundle,"n. 捆, 束
+vt. 包扎, 胡乱塞进
+vi. 匆忙离开"
+eel,"n. 鳗鱼, 鳝鱼"
+portion,"n. 部分, 一份, 命运, 嫁妆
+vt. 分配, 给...嫁妆"
+migrate,"vi. 移动, 移往, 随季节而移居
+[计] 迁移程序"
+migration,"n. 移民, 移往, 移动
+[计] 迁移"
+wrap,"n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行
+vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护
+vi. 缠绕, 穿外衣, 包起来
+[计] 换行"
+unwrap,vt. 打开
+suspicious,"a. 可疑的, 多疑的, 怀疑的
+[法] 怀疑的, 令人怀疑的, 可疑的"
+suspiciously,adv. 猜疑地；怀疑地
+pinch,"n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头
+vt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入, 逮捕, 勒索
+vi. 收缩, 节省, 挤压, 引起苦恼"
+vanish,"vi. 消失, 不见, 成为零"
+slope,"n. 倾斜, 斜坡, 斜率, 扛枪姿势
+vt. 使倾斜, 弄斜, 扛
+vi. 倾斜, 走, 逃走"
+cracker,"n. 饼干, 爆竹
+[计] 破袭者"
+peak,"n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌
+a. 最高的, 最大值的
+vi. 到达最高点, 消瘦, 变憔悴, 逐渐缩小
+vt. 使竖起, 使达到最高点"
+stretch,"vt. 伸展,张开
+vi. 伸展
+adj. 可伸缩的
+n. 伸展，延伸
+n. (Stretch)人名；(英)斯特雷奇"
+overtake,"vt. 赶上；压倒；突然来袭
+vi. 超车"
+anticipate,"vt. 预期, 占先, 加速, 提前使用
+[医] 提前出现, 先期发生"
+reluctance,"n. 不情愿, 勉强
+[电] 磁阻"
+stoop,"n. 佝偻, 屈从, 弯腰
+vi. 弯下, 屈从, 弯腰, 堕落
+vt. 使屈从, 使弯曲"
+restraint,"n. 抑制, 克制, 束缚
+[医] 约束, 拘束"
+scrape,"n. 刮, 擦, 挖, 擦痕, 刮擦声, 困境
+vi. 刮掉, 擦掉, 刮出刺耳声
+vt. 刮, 擦, 擦伤, 挖成, 积蓄"
+delicate,"a. 细致优雅的, 微妙的, 美味的
+[医] 柔弱的"
+grip,"n. 紧握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制
+vt. 抓紧, 抱住, 吸住, 掌握
+vi. 握牢, 有吸引力"
+gradual,"a. 逐渐的, 渐增的
+n. 弥撒升阶圣歌"
+gradually,adv. 逐渐地
+sway,[网络] 在…的路上；终极手段；挤出一条路
+accompany,"vt. 陪伴, 伴随, 补充, 为...伴奏
+vi. 伴奏, 伴唱"
+pureed,[网络] 纯净
+tuna,"n. 金枪鱼, 金枪鱼肉"
+awkward,"a. 笨拙的, 棘手的"
+sip,[网络] 肯定命题；矽智财
+champagne,[网络] 香槟省
+slow down,(使)慢下来
+make sense,有意义
+at least,"至少
+[法] 至少"
+lay sth. out,[网络] 摆开；布置；展示
+hang up,"v. 挂断电话；挂机；悬挂；耽搁
+[网络] 挂起；把…挂起来；挂电话"
+be supposed to do sth.,应该做某事；被期望干某事
+not that ... but ...,"并不是…, 而是…"
+not that ... but that ...,不是(因为)...而是(因为)...
+once in a while,偶尔
+the small of one's back,无
+not care for ...,[网络] 忽略
+campus,"n. 校园, 大学生活"
+transform,[化] 反式; 反式异构体
+fleet,"n. 舰队, 港湾, 小河
+a. 快速的, 敏捷的, 浅的, 短暂的
+adv. 浅
+vi. 疾驰, 飞逝, 掠过
+vt. 消磨, 变换船(或船员)的位置"
+typical,"a. 典型的, 象征性的
+[医] 典型的"
+access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
+vt. 访问, 存取, 接近, 使用
+[计] 访问, 存取"
+accessible,"a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
+response,"n. 反应, 回答, 响应
+[计] 应答"
+engineering,"n. 工程学, 工程, 操纵
+[化] 机器; 机器学"
+dialect,"n. 方言, 同源语"
+analyze,"vt. 分析, 细察, 分解
+[机] 分析"
+script,"n. 手迹, 手稿, 正本, 手写体
+vt. 改编为演出本
+[计] 手写体, 小型程序"
+device,"n. 装置, 设计, 策略, 发明物, 设备
+[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序"
+sophisticated,"a. 复杂的, 久经世故的
+[法] 尖端的, 高级的, 非常有经验的"
+undergraduate,"n. 大学生；大学肄业生
+a. 大学生的"
+adopt,"vt. 采用, 正式通过, 收养, 接受
+[医] 采取"
+indispensable,"n. 不可缺少之物
+a. 不可缺少的, 责无旁贷的, 绝对必要的"
+outline,"n. 大纲, 轮廓, 概要
+vt. 描画轮廓, 描述要点
+n. 大纲, 分级, 轮廓
+[计] 大纲, 分级, 轮廓"
+regulate,"vt. 管理, 控制, 调节, 调整, 校准
+[经] 控制, 管理"
+bubble,"n. 泡沫
+vi. 冒泡, 沸腾
+vt. 使冒泡, 滔滔不绝地说"
+budget,adj. 预算的；与形容词；像'low'和'big'连用形成形容词指花费多少钱的尤指拍电影的预算；comb
+estimate,"n. 估计, 判断
+vt. 估计, 评价, 判断
+vi. 估计"
+estimated,a. 估算的；估计的；预计的
+assignment,"n. 分配, 功课, 任务, 转让, 归因, 陈述
+[计] 赋值"
+highway,[网络] 高速公路；就是高速公路了；省道公路
+inferior,"a. 次等的, 较差的, 下方的, 下级的
+n. 部下, 次品, 下标(符号)"
+inferiority,"n. 自卑, 次等
+[医] 下位, 下级, 次级, 劣等"
+complex,"n. 综合体, 情结, 络合物
+a. 复杂的, 组合的"
+compensate,"v. 偿还, 补偿, 付报酬"
+lease,"n. 租约, 租期, 租
+vt. 出租, 租出, 租得"
+focus,"n. 焦点, 焦距
+vi. 聚焦, 注视
+vt. 使聚焦, 调焦, 集中
+[计] 焦点"
+competitive,"a. 竞争的
+[经] 竞争的"
+peer,"n. 同等的人, 匹敌, 贵族
+vi. 凝视, 窥视, 费力地看, 隐现
+vt. 与...同等, 封为贵族"
+pitch,"n. 程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青
+vt. 投, 掷, 向前倾跌, 扎营, 竭力推销, 为...定调, 定位于, 用沥青涂
+vi. 搭帐篷, 投掷, 向前跌, 猛然摔倒, 坠落, 倾斜
+[计] 孔距"
+portable,"a. 可携带的, 可搬运的, 可移动的
+[计] 可移植的"
+mode,"n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚
+[计] 方式; DOS外部命令:设定各种设备命令"
+loan,"n. 贷款, 借出
+v. 借, 供应货款, 借给"
+loaner,"n. 借出者, 债权人
+[法] 借出者, 债权人"
+meantime," 平时, 平均时"
+amazing,a. 令人惊异的
+solve,"vt. 解决, 付给, 溶解
+vt. 求解
+vi. 求解
+[计] 求解"
+solver,"[计] 解算机, 求解程序"
+intelligent,"a. 聪明的, 智能的, 了解的"
+less than interesting,无
+less than honest,无
+less than helpful,无
+add to sth.,无
+visit with sb.,[网络] 拜访sb
+take the lead,"为首, 带头"
+account for,对…负有责任；对…做出解释；说明……的原因；导致；（比例）占
+fire off,"na. 发射(火箭等)；发炮；使爆炸；熄灭(火)
+[网络] 开炮；升火；熄火"
+keep up with,"跟上
+[法] 追上, 跟上, 赶得上"
+at a disadvantage,处于不利地位
+stand out,"突出, 坚持抵抗"
+set up,"na. 建立；创立；发起；开办
+[网络] 设立；设置；成立"
+in large part,"un. 乐意；在很大程度上
+[网络] 大部分；大部份；大部份时间"
+addict,"vt. 使沉溺, 使上瘾
+n. 入迷的人, 上瘾者"
+addiction,"n. 入迷, 瘾
+[医] 瘾, 癖嗜"
+positive,"a. 肯定的, 积极的, 有把握的
+[医] 正的, 阳性的"
+enable,"vt. 使能够
+[计] 允许, 使能, 打开"
+media,"n. 媒体
+[计] 媒质"
+outlet,[网络] 电机功率；出口；找到出路
+alternative,"n. 两者择一, 供替代的选择
+a. 两者择一的, 供选择的
+[计] 选择对象"
+source,"n. 来源, 水源, 根源, 原始资料, 源
+[计] 来源, 源程序"
+practically,"adv. 几乎, 差不多, 事实上"
+negative,"n. 否定, 否定语, 负数, 底片
+a. 否定的, 消极的, 负的, 阴性的
+n. 负数, 负值
+[计] 负数, 负值"
+aspect,"n. 外观, 方面, 面貌, 方向
+[医] 方面, 局面; 外观"
+epidemic,"n. 传染病, 流行病
+a. 流行的, 传染性的"
+neglect,"n. 疏忽, 忽略, 漏做
+vt. 疏忽, 忽视, 不顾"
+infant,"n. 婴儿, 儿童, 初学者
+a. 婴儿的, 幼稚的"
+impact,"n. 冲击, 冲突, 影响, 效果
+vt. 挤入, 撞击, 压紧, 对...发生影响"
+involved,"adj. 有关的；卷入的；复杂的
+v. 涉及；使参与；包含（involve的过去式和过去分词）"
+agony,"n. 极大的痛苦, 挣扎
+[医] 濒死苦闷; 剧痛"
+risk,"n. 冒险, 危险, 保险额
+vt. 冒...的危险, 冒险干"
+concern,[网络] 关心；关系
+concerned,"adj. 有关的；关心的
+v. 关心（concern的过去时和过去分词）；与…有关"
+discipline,"n. 训练, 纪律
+vt. 训练, 惩罚"
+structure,"n. 结构；构造；体系；结构体
+v. 使形成体系；系统安排；精心组织
+[网络] 建筑物；组织结构；市场结构"
+plunge,"n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资
+vi. 投入, 投身于, 跳进, 陷入, 下降
+vt. 使投入, 使插入, 使陷入, 使遭受"
+decline,"n. 衰退, 跌落, 下降
+vt. 使降低, 婉谢
+vi. 下降, 衰落, 偏斜"
+cease,"n. 停止
+v. 停止, 终了"
+imaginary,"a. 想像的, 虚构的, 假想的"
+attribute,"n. 属性, 标志, 定语
+vt. 把...归于, 认为...属于
+[计] 属性"
+personality,"n. 个性, 人格, (团体、地方、国家)特有特性, 名人
+[医] 人格; 个性"
+interaction,"un. (美国)《相互影响》月刊
+[网络] 互动；作用；动作补间"
+blog,n. 博客；部落格；网络日志
+release,"vt. 释放；发射；让与；允许发表
+n. 释放；发布；让与"
+endorphin,"n. 内啡肽（内分泌激素，有镇痛作用）
+[网络] 脑内啡；内啡呔；安多芬"
+essential,"n. 要素, 要点, 本质
+a. 必要的, 重要的, 本质的
+[计] 本质冒险"
+sustain,"vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许
+[电] 持续"
+sustained,"a. 持续的, 持久不变的, 持久的, 不懈的
+[计] 持续的"
+arouse,"vt. 唤醒, 鼓励, 引起
+vi. 醒来"
+feedback," 反作用, 反馈"
+interact,"vi. 互相影响, 交互作用
+n. 幕间剧, 幕间休息"
+gamble,"n. 赌博, 冒险
+v. 赌博, 孤注一掷"
+gambler,"n. 赌博者, 赌徒
+[法] 赌徒, 投机商人"
+lever,"n. 杠杆, 似杠杆之工具
+vt. 撬开
+vi. 使用杠杆"
+rational,"a. 理性的, 合理的
+n. 有理数"
+spoil,"n. 战利品, 赃物, 奖品, 变质, 次品
+vt. 损坏, 破坏, 溺爱
+vi. 腐坏, 掠夺"
+moderate,"a. 适度的, 稳健的, 中等的, 节制的
+vt. 节制, 减轻, 使缓和
+vi. 变缓和, 主持会议"
+moderation,"n. 缓和, 适度, 温和
+[化] 慢化"
+multiple,"n. 倍数, 并联
+a. 多样的, 许多的, 多功能的"
+schedule,"n. 时间表, 一览表, 计划表, 议事日程
+vt. 预定, 编制目录, 制...表, 安排"
+a wealth of sth.,无
+make use of sth.,无
+give rise to sth.,无
+charge sb. with sth.,无
+charge sb. with doing sth.,无
+keep sb. from sth.,无
+keep sb. from doing sth.,使某人不做某事
+care for,"喜欢, 照顾, 为...操心, 尊重"
+tell of,讲述
+as well,也
+at risk,"un. 担风险
+[网络] 有危险；在危险中；处于危险中"
+nothing but,只
+era,"ERA
+abbr.
+earned run average
+Economic Regulatory Administration (美国)经济管理局
+Electrical Research Association (英国)电气研究协会
+electron ring accelerator 【核子学】电子环加速器
+Emergency Relief Administration (美国)紧急救济署
+Equal Rights Amend-ment
+era
+['iərə; 'εərə]
+n.
+纪元
+(标志新的重要历史阶段开端的) 重大事件(或重要日子)
+(某一重大历史事件后的)年代；阶段
+时代；历史时期
+【地质学】代[亦见epoch, period, age]
+近义词:
+period
+短语:
+carpet-bag era
+【美国历史】北方人到南方投机谋利时期(1861～1865年美国南北战争后重建时期，北方投机家只拎一只毯制旅行手提包到南方各州去投机，故称)
+era of good feeling
+ᰀ(1817～1825年门罗当美国总统的)善意的时代"
+victim,"n. 受害人, 牺牲者, 牺牲品
+[法] 受害人, 被害人, 遭难者"
+survivor,"n. 生还者, 幸存者
+[法] 生还者, 生存者, 辛存者"
+tragedy,"n. 悲剧, 惨案, 悲剧作品
+[法] 惨事, 灾难, 不辛"
+subsequent,adj. 后来的，随后的
+associate,"n. 同伴, 伙伴, 关联的事物
+vt. 使联合, 使发生联系
+vi. 交往
+[计] 关联"
+congress,"n. 国会, 会议, 讨论会
+[医] 会议, 会合"
+congresswoman,n. 美国国会女众议员
+tender,"a. 嫩的, 柔软的, 脆弱的, 温柔的, 亲切的, 未成熟的, 微妙的, 棘手的, 审慎的
+vt. 使变嫩, 提供, 偿还
+vi. 变柔软, 投标
+n. 照料, 看管人, 供应船, 小船, 提出, 偿付, 投标"
+sympathy,"n. 同情, 赞同, 怜悯, 慰问, 吊唁
+[医] 交感[作用], 同感[作用], 感应, 同情"
+shield,"n. 盾, 防卫物, 保护者, 屏蔽
+vt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开
+vi. 起保护作用"
+hail,"n. 冰雹, 致敬, 欢呼, 招呼
+vt. 向...欢呼, 致敬, 招呼, 使象下雹样落下
+vi. 招呼, 下雹
+interj. 万岁, 欢迎"
+bullet,"n. 子弹
+[医] 弹, 子弹, 距节(马)"
+priest,"n. 祭司, 牧师, 神父, 神质人员, 僧侣, 泰斗"
+remarkable,"a. 不平常的, 值得注意的, 显著的"
+humanity,"n. 人性, 人类, 博爱"
+civilian,"n. 平民, 民法专家
+a. 平民的, 百姓的, 民用的"
+grace,"n. 优雅, 风度, 慈悲, 恩惠, 体面, 赦免, 恩典, 谢恩祷告
+vt. 使优美"
+circumstance,"n. 环境, 状况, 事件"
+respond,"vt. 以...回答
+vi. 回答, 响应, 回报, 有反应, 承担责任"
+responder,"n. 回答者, 响应者, 响应器, 应答机
+[计] 响应站, 应答机"
+widow,"n. 寡妇, 孀妇
+vt. 使成寡妇"
+solemn,"a. 严肃的, 郑重的, 庄严的"
+solemnly,adv. 庄严地；严肃地
+sergeant,"n. 警察小队长, 军士"
+commitment,"n. 委托, 交押, 承担义务, 赞助
+[医] 院禁"
+automobile,n. 汽车
+distinct,"a. 清楚的, 显著的, 不同的"
+military,"n. 军队
+a. 军事的, 军人的, 适于战争的"
+personnel,"n. 人员, 人事部门, 人事科(处)
+[经] 人事, 全体人员, 职工"
+jail,"n. 监牢, 监狱, 拘留所
+vt. 监禁, 下狱"
+confine,"vt. 限制, 使不外出, 禁闭
+vi. 邻接, 交界
+n. 边缘, 范围, 区域"
+solitary,"adj. 独自的；单独的；喜欢（或惯于）独处的；单个的
+n. 独居者
+[网络] 孤独的；唯一的；独居的"
+chamber,"n. 室, 房间, 枪膛
+vt. 装(弹药), 把...关在室内
+a. 室内的"
+establish,"vt. 建立, 确立, 制定
+vi. 移植生长"
+harmony,"n. 协调, 和睦, 调和
+[电] 和声学"
+reconcile,"vt. 使和解, 调停, 使和谐, 使一致, 使听从
+[经] 对帐, 使一致"
+conflict,"n. 战斗, 冲突, 矛盾, 争执
+vi. 争执, 战斗, 冲突, 抵触
+[计] 冲突"
+conflicted,vi. 抵触（conflict的过去式与过去分词形式）
+advocate,"n. 提倡者, 拥护者
+vt. 主张, 提倡"
+grief,"n. 伤心, 忧愁, 悲痛, 不幸, 灾难"
+rage,"n. 愤怒；狂暴，肆虐；情绪激动
+vi. 大怒，发怒；流行，风行
+n. (Rage)人名；(丹)拉厄"
+association,"n. 协会
+[计] 关联"
+legislation,"n. 立法, 法律
+[医] 立法, 法规"
+authority,"n. 权力, 当权者, 当局, 权威, 专家
+[经] 代理权, 授权, 权威"
+intense,[网络] 紧张
+involve,"vt. 包括, 使陷于, 潜心于, 包围
+[医] 累及, 牵涉, 包含"
+fulfill,"vt. 实践, 履行, 实行, 完成, 结束, 满足
+[法] 履行, 完成, 达到"
+fulfillment,"n. 履行, 结束, 完成, 实现, 满意, 称心"
+give one's life,捐躯，牺牲生命，献出自己的生命
+ring out,"鸣钟送别, 打卡下班"
+shield ... from ...,遮蔽; 挡住使不受…的伤害; 使免遭(不幸之事)
+with grace,无
+with good grace,"欣然地,情愿地"
+with a good grace,情愿地
+be caught up in sth.,无
+get caught up in sth.,无
+in the words of sb.,无
+in sb.'s words,[网络] 用sb的话说
+reserve sth. for ...,无
+relate to ...,"na. 有关联；与…有关；理解
+[网络] 涉及；与…有联系；与……有关联"
+make sense of sth.,无
+sum up,"na. 〈口〉概括；总结
+[网络] 总计；归纳；总括"
+in need,"在急需时,在贫困时,在危难中"
+count on,"依靠, 指望"
+call on,"号召, 呼吁, 约请, 访问"
+aspiration,"n. 热望, 志向, 渴望
+[医] 吸入; 吸[引], 吸引术"
+barely,adv. 几乎不
+lane,[网络] 局域网仿真技术
+terror,"n. 恐怖, 可怕的人
+[医] 惊吓, 惊悸"
+awful,"a. 可怕的, 庄严的, 虔敬的"
+abolish,"vt. 废止, 革除, 消灭
+[经] 废除, 取消, 裁撤"
+image,"n. 图像；形象；影像；意象
+v. 反映；想像；象征；使…成像
+[网络] 图片；图象；映像"
+slippery,"a. 滑的, 光滑的, 靠不住的, 圆滑的, 不稳固的
+[法] 狡猾的, 不可靠的, 不安定的"
+concrete,"n. 凝结物, 混凝土
+a. 具体的, 实在的, 混凝土的
+v. (使)凝结, 用混凝土浇筑"
+primitive,"n. 原始人, 早期艺术家
+a. 原始的, 上古的
+[计] 图元; 原语; 基元"
+crystal,"n. 水晶, 水晶装饰品, 结晶
+a. 水晶的, 水晶一样的, 透明的"
+reflect,"vt. 反射, 反映, 招致, 深思
+vi. 被反射, 映出, 深思, 考虑, 指责"
+lean,"n. 瘦肉, 倾斜, 倾斜度
+a. 瘦的, 贫乏的, 歉收的
+vi. 倚靠, 倾斜, 依赖
+vt. 使倾斜"
+ignore,"vt. 不理睬, 忽视, 驳回, 忽略
+[计] 忽略"
+patrol,"n. 巡逻, 巡逻员, 侦察队
+v. 巡逻, 巡视"
+slam,"n. 砰然声, 猛然, 猛烈的抨击
+vt. 猛然关上, 砰地关上, 猛烈抨击
+vi. 砰地关上, 猛攻"
+halt,"n. 停止, 立定, 休息
+vt. 使停止, 使立定
+vi. 立定, 停止, 蹒跚, 踌躇, 有缺点
+[计] 停止"
+yell,[网络] 叫喊
+backup,"na. 支持；堵塞；【棒球】抢救后方；【计算机】把(文件等备份)
+[网络] 倒退；后退；援助"
+swell,"n. 增大, 隆起的部分, 巨浪, 肿胀
+a. 优秀的, 一流的
+vi. 增大, 膨胀, 肿胀, 增强, 骄傲
+vt. 使膨胀, 使增大, 使上涨, 使骄傲"
+monster,"n. 怪物；巨人，巨兽；残忍的人
+adj. 巨大的，庞大的"
+roar,"n. 吼, 咆哮, 轰鸣
+vi. 吼, 大声说出, 叫喊, 喧闹
+vt. 呼喊, 使轰鸣"
+limb,"n. 四肢, 枝干, 翼, 边缘
+vt. 切断...之手足"
+current,"n. 涌流, 趋势, 流
+a. 流通的, 现在的, 当前的, 流行的
+[计] 当前的"
+submerge,"vt. 使浸水, 使陷入, 淹没
+vi. 潜入水中"
+heave,"n. 举, 抛, 起伏, 鼓起
+vt. 用力举起, 使举起, 使鼓起
+vi. 抛出, 起伏, 喘息, 凸起"
+lord,"n. 统治者, 阁下, 上帝
+vi. 称王, 作威作福
+vt. 使成贵族"
+lower,"n. 低辐射; 低辐射膜; 低辐射玻璃
+(low-e 的比较级)"
+collapse,"n. 崩溃, 倒塌, 虚脱
+vi. 倒塌, 崩溃, 瓦解
+vt. 使倒塌, 折叠
+[计] 折叠"
+badge,"n. 徽章, 标记
+[计] 标记"
+identify,"vt. 识别, 认为...等同于, 确定, 使参与
+vi. 一致, 认同"
+betray,"vt. 出卖, 背叛, 辜负, 暴露
+[法] 出卖, 背叛, 泄漏"
+crack,"n. 裂缝, 爆裂声
+v. (使)爆裂, (使)裂开, (使)发出爆裂声
+a. 第一流的
+adv. 啪地一声"
+moan,"n. 呻吟, 悲叹
+vi. 呻吟, 抱怨, 悲叹
+vt. 呻吟着说"
+grab,"n. 抓握, 掠夺, 强占, 东方沿岸帆船
+vi. 抓取, 抢去
+vt. 攫取, 捕获, 霸占"
+slender,"a. 苗条的, 纤弱的, 微少的, 微薄的
+[机] 细的, 纤细的"
+streak,"n. 条理, 斑纹, 倾向
+vt. 加条纹
+vi. 变成条纹, 飞跑"
+stiff,"a. 坚硬的, 严厉的, 呆板的, 生硬的, 刚强的, 强烈的, 粘的, 稠的, 艰难的
+n. 死尸, 醉鬼, 钞票
+vt. 不肯付...小费"
+heal,"vi. 痊愈
+vt. 使复原, 使和解, 治愈"
+acute,"a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的
+[医] 急性的; 尖锐的"
+nightmare,梦魇
+live in terror of ...,无
+a string of,n. 一串的，一系列，一批; 一连串
+turn off,"v. 关掉
+[网络] 关上；关闭；解雇"
+lean on,靠着
+beat sb. to it,"抢在某人之前,佔了某人的上风"
+pull over,"靠岸, 开到路边"
+slip off,不告而别
+slip down,滑倒
+bring sth. to a halt,无
+cut through,"抄近路走过, 刺穿"
+fill up with,"v. 装满
+[网络] 用……装满；用…把…装满；充满"
+identify sb. as sb.,无
+catch up with,赶上
+break through sth.,[网络] 突破
+hold on,"继续, 不挂断, 停止"
+let go,"v. 放手；解雇；松手；忽视
+[网络] 展翅高飞；放开；释放"
+let go of ...," 释放, 放开"
+be grateful for, 感恩戴德
+marathon,"n. 马拉松, 耐力的考验"
+annual,"n. 年刊, 年报
+a. 每年的, 一年一次的, 全年的, 一年生的"
+route,"n. 路径, 途径, 路线
+vt. 确定路线, 按规定路线发送
+[计] 传递, 路由设定程序"
+harsh,"a. 粗糙的, 刺耳的, 严厉的
+[法] 粗糙的, 严厉的, 苛刻的"
+endurance,"n. 忍耐, 忍耐力, 耐性
+[机] 持九性"
+regardless,"a. 不管, 不注意, 不顾"
+super,"n. 跑龙套角色, 冗员, 特级品, 特大号, 管理人
+a. 上等的, 特大的, 超级的, 极好的, 十分的, 过分的
+adv. 非常"
+contract,"n. 合约, 婚约, 契约
+vt. 使皱缩, 使缩短, 感染, 订约, 缔结
+vi. 皱缩, 订约, 收缩"
+prominent,"a. 卓越的, 显著的, 突出的, 凸出的"
+sponsor,"n. 保证人, 赞助者, 发起者, 倡议者, 教父
+vt. 发起, 赞助, 倡议"
+finance,"n. 财政, 财务
+vt. 供给...经费, 负担经费
+vi. 筹措资金"
+furnish,"vt. 供给, 提供, 装设
+[化] 供应; 供给; 配料"
+substantial,"n. 重要材料(或事物), 有实际价值的东西
+a. 实质上的, 物质的, 有内容的, 结实的"
+mechanism,"n. 机械, 机构, 结构, 机理, 技巧
+[化] 机理; 历程; 机构"
+contest,"n. 竞赛, 争论
+vt. 竞争, 争取, 争辩
+vi. 竞争"
+distinction,n. 区别
+amateur,"n. 业余爱好者, 外行, 爱好者
+[电] 业余家"
+odd,"adj. 奇数的；古怪的；剩余的；临时的；零散的
+n. 奇数；怪人；奇特的事物
+n. (Odd)人名；(英、西、挪、瑞典)奥德"
+invisible,"a. 看不见的, 无形的
+[经] 无形的, 表面上看不见的, 未列在公开帐目的"
+assemble,"vt. 集合, 收集, 装配
+vi. 集合
+[计] 汇编"
+assembled,v. 集合；装配（assemble的过去分词）
+assert,"vt. 主张, 坚称, 断言
+[法] 宣称, 断言, 维护"
+react,"vt. 重做, 重演"
+apparent,"a. 清晰可见的, 显然的, 表面上的
+[电] 外在的"
+publicity,"n. 名声, 宣传, 公开场合
+[经] 宣传, 广告"
+crush,"n. 压碎, 粉碎, 群众, 迷恋
+vt. 压破, 征服, 塞, 弄皱, 榨出
+vi. 被压碎, 起皱, 挤"
+gear,"n. 齿轮, 工具
+vt. 以齿轮连起, 开动, 使适应, 安排
+vi. 连接上, 适合"
+style," 表示：“…式样的”：familystyle; “按…式样”, “有点儿…地”; 表示“…柱式”,“…柱的”：distyle"
+shuffle,"n. 拖着脚走, 曳步, 混乱, 蒙混, 洗纸牌
+v. 拖曳, 马虎地做, 笨手笨脚地穿(脱)衣, 推诿, 洗牌
+[计] 混洗"
+commentator,"n. 评论员, 实况广播员, 注释者, 时事评论员"
+alike,[网络] 相等的
+welfare,"n. 福利, 安宁, 幸福, 福利事业
+a. 福利的"
+insane,"a. 患精神病的, 极愚蠢的
+[医] 神经错乱的"
+smash,"n. 打碎, 粉碎, 打碎时哗啦声, 猛击, 扣球, 杀球, 经营失败, 破产, 硬币, 假硬币
+a. 非常轰动的, 了不起的
+vt. 打碎, 粉碎, 击溃, 使破产, 使裂变, 使用假硬币
+vi. 碎裂, 猛撞, 破产, 扣球, 杀球
+adv. 轰隆一声, 哗啦一声"
+award,"n. 奖品, 裁定, 判决
+vt. 授予, 给予"
+prominence,"n. 突起, 突出, 显著, 突出物, 凸出
+[医] 隆凸, 凸"
+despite,"n. 轻视, 憎恨
+prep. 虽然, 尽管"
+dim,"a. 暗淡的, 模糊的
+vt. 使暗淡
+[计] 数据解释模块"
+stroke,"n. 笔划, 打, 中风, 抚, 摩, 冲程
+vt. 划尾桨, 抚, 摩, 划去
+[计] 笔划"
+legend,"n. 传说, 传奇文学, 图例
+[计] 图例"
+magnificent,"a. 华丽的, 高尚的, 宏伟的"
+brilliant,"a. 光辉的, 灿烂的, 有才气的
+[机] 亮的"
+individual,"n. 人, 个人, 个体
+a. 个别的, 个人的, 独特的"
+inherent,"a. 固有的, 与生俱来的
+[医] 固有的, 生来的"
+inherently,"adv. 内在地, 生来地, 固有地
+[计] 固有的"
+up to,"从事于(坏事), 忙于, 胜任, 能做, 适合, 适于"
+in attendance, 当值;  出席; 侍候;  照料
+might as well,"还是...的好, 不妨"
+might just as well,最好还是…; 还是…为好
+at a time,"每次, 在某时"
+leave ... behind,"na. 遗留；留下；追过；留在后头
+[网络] 超过；落后；丢弃"
+out loud, 大声地
+fall ill,得病
+have no intention of doing sth.,没有意图做(某事)
+endear sb. to sb.,"使受人喜爱, 使受钟爱"
+give away,"na. 赠送；分发；放弃；露马脚
+[网络] 泄露；出卖；分送"
+pass away,"去世, 停止, 离去, 消逝"
+to this day,至今
+mold,"n. 模子, 模型, 霉
+v. 形成, 塑造, 发霉"
+critical,"a. 批评的, 决定性的, 危险的, 临界的
+[医] 危象的; 临界的, 极期的"
+underline, 腹线
+humble,"a. 低下的, 谦逊的, 粗陋的
+vt. 使...卑下, 降低...地位, 贬抑"
+generous,"具,有"
+emphasize,"vt. 强调, 加强语气, 着重"
+mutual,"a. 相互的, 共有的
+[经] 相互的"
+obligation,"n. 义务, 责任, 约束, 契约, 恩惠, 债务
+[经] 待付款, 债务, 义务"
+graceful,a. 优美的
+youngster,"n. 小孩, 年轻人, 少年
+[法] 儿童, 少年, 青年"
+nevertheless,"仍然
+尽管如此"
+abstract,"a. 抽象的, 深奥的
+n. 摘要, 抽象概念
+vt. 摘要, 提炼, 使抽象化
+[计] 摘录; 摘要; 抽象"
+concept,"n. 观念, 概念
+[医] 概念"
+strategy,"n. 战略, 策略
+[经] 战略, 策略"
+cooperation,n. 合作，协作；[劳经] 协力
+crucial,"a. 决定性的, 重要的, 严厉的
+[医] 十字形的; 决断的, 定局的"
+overcome,"vt. 克服；胜过
+vi. 克服；得胜"
+fundamental,"n. 基本原理, 原则, 基波
+a. 基本的, 重要的, 原音的"
+outcome,n. 结果，结局；成果
+ambition,"n. 野心, 志向"
+participation,n. participate的变形
+hazard,"n. 冒险, 危险, 机会
+vt. 冒...的危险, 赌运气, 使冒危险
+[计] 相关危险; 冒险"
+psychology,n. 心理学；心理状态
+psychologist,"n. 心理学家
+[医] 心理学家"
+considerable,"a. 相当的, 可观的, 重要的"
+intensity,[网络] 强度；亮度
+psychological,"a. 心理学的, 精神上的, 心灵的
+[法] 心理上的, 心理学的"
+emphasis,"n. 强调, 加强, 重点, 强语气"
+exclusive,"a. 排外的, 独占的, 唯一的
+[计] 独占的"
+exclusively,"adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地"
+outlook,"n. 观点, 景色, 前途, 了望
+[经] 展望"
+demanding,"a. 要求高的, 费力的"
+excessive,"a. 过度的, 过多的, 极端的
+[法] 过度的, 过分的, 额外的"
+drain,"n. 排水沟, 消耗, 排水
+vt. 排出, 喝光, 耗尽
+vi. 排水, 流干"
+draining,a. 排水的；滤水的
+consequence,"n. 结果, 重要性
+[法] 结果, 后果, 推断"
+rate,"n. 比率, 率, 速度, 价格, 费用, 等级
+vt. 估价, 认为, 鉴定等级, 责骂
+vi. 被评价, 责骂"
+accomplish,"vt. 完成, 达到, 实现, 使完美"
+accomplishment,"n. 成就, 完成"
+adapt,"vt. 使适应, 改编
+vi. 适应"
+define,"vt. 定义, 规定, 使明确
+[计] 定义"
+redefine,vt. 重新定义
+trait,"n. 特征, 特性, 一笔, 少许"
+extreme,"adj. 极端的；极度的；偏激的；尽头的
+n. 极端；末端；最大程度；极端的事物"
+extremely,"adv. 极端地, 非常地"
+pave,"vt. 铺设, 安排, 铺满, 为...铺路
+[化] 铺设"
+the here and now,[网络] 现时；现实情况中
+early on, 在早期; 前一阵子
+free ride," 坐享其成, 无本获利"
+blame sb. for sth.,无
+place emphasis on sth.,无
+cancel out,"v. 相约；相消；抵消
+[网络] 取消；抵偿；抵销"
+on the surface,表面上
+in shape,"在外形上, 处于良好状态"
+deal with sth.,[网络] 处理sth
+the way of the world,人情世故
+pave the way for sth.,铺路
+numerous,"a. 很多的, 数目众多的, 多数的
+[机] 多数的, 甚多的"
+reliable,"a. 可靠的, 可信赖的
+[法] 可靠的, 可信赖的, 确实的"
+contrast,"n. 差别, 对比, 对照物
+vt. 使对比
+vi. 成对照
+[计] 反差; 对比度"
+indicate,"vt. 显示, 象征, 指示, 指出
+[医] 指示"
+indicator,"n. 指示器, 指示剂, 指标
+[计] 指示器"
+decrease,"n. 减少, 减少量
+v. 减少"
+assess,"vt. 估定, 对...征税, 评定
+[经] 估计, 估价, 确定(税款罚款等)的金额"
+alter,v. 改变
+stake,"n. 桩, 炮烙刑, 木柱, 赌注, 奖金
+vt. 打桩, 用桩撑, 下赌注, 资助
+vi. 打赌"
+academic,"a. 学院的, 学术的, 不切实际的
+n. 大学生, 大学教师, 学者, 学会会员"
+undermine,"vt. 破坏, 渐渐破坏；挖掘地基"
+significant,"a. 重要的, 有效的, 有含义的, 暗示的, 值得注意的"
+significantly,adv. 值得注目地；意味深长地
+interfere,"vi. 妨碍, 冲突, 干涉, 抵触
+[医] 干扰, 干涉, 阻碍, 碰腿(马)"
+overall,遍及
+proof,suff. 表示“耐
+approximately,"adv. 大约, 大致, 近于
+[经] 大约, 近似"
+seemingly,"adv. 看来似乎, 表面上看来"
+consistent,"a. 一致的, 坚持的, 并立的, 坚固的"
+toll,"n. 通行费, 代价, 钟声
+vt. 征收, 敲钟, 鸣钟, 勾引, 引诱
+vi. 征税, 鸣钟"
+given,"a. 赠予的, 沉溺的, 约定的
+give的过去分词"
+indication,"n. 指示, 象征, 暗示
+[医] 指示, 指征, 适应征"
+compromise,"n. 妥协, 折中, 折中方案, 和解
+vi. 妥协处理
+vt. 危害"
+whereas,"conj. 然而, 鉴于
+[法] 考虑到, 鉴于, 就...而论"
+marginal,"a. 边缘的, 最低限度的, 有旁注的
+[医] 缘的"
+commit,"vt. 委托(托付), 犯罪, 指派...作战, 使承担义务
+[法] 犯, 做, 把...交托给"
+committed,"a. 献身于某种事业的
+[计] 委托的"
+withdraw,"vt. 撤退；收回；撤消；拉开
+vi. 撤退；离开"
+striking,"a. 醒目的, 惊人的, 打击的, 罢工的
+[法] 罢工的, 罢市的, 罢课的"
+generate,"vt. 产生, 发生, 导致
+[电] 产生"
+anew,"adv. 重新, 再"
+permanent,"a. 永久的, 不变的, 固定的, 持久的
+n. 烫发
+[计] 永久的"
+owing to,"由于..., 因为..."
+erode,"vt. 腐蚀, 侵蚀
+vi. 受腐蚀"
+characteristic,"n. 特性, 特征, 特色
+a. 特性的, 特有的, 有特色的
+[计] 阶; 指数"
+intensive,"adj. 加强的；集中的；透彻的；加强语气的
+n. 加强器"
+recreation,"n. 再创造；重新创造；再创造的事物
+[网络] 二度创造"
+surplus,"n. 剩余, 过剩, 盈余
+a. 过剩的, 剩余的"
+accustomed,"a. 惯常的, 习惯了的"
+depress,"vt. 使沮丧, 压低, 降低, 使萧条
+[化] 推下"
+convention,"n. 大会, 协定, 惯例, 约定
+[计] 约定"
+controversial,"a. 争论的, 论争的, 被议论的"
+conventional,"a. 传统的, 习惯的, 约定的
+[经] 惯例的, 常规的, 传统的"
+formative,"a. 有助于形成的, 造型的, 形成的
+n. 构词要素"
+abandon,"vt. 放弃, 抛弃, 遗弃, 使屈从, 沉溺, 放纵
+n. 放任, 无拘束, 狂热"
+appealing,"a. 有感染力的, 动人的, 恳求的"
+myth,"n. 神话, 虚构的事, 虚构的人"
+resolve,"vi. 决定, 分解, 决心
+vt. 使分解, 解析, 解决, 消除, 决心
+n. 决定之事, 决心, 坚决"
+interfere with,"干涉,干扰,妨碍"
+cut class,[网络] 逃课；逃学；翘课
+on the other hand,另一方面
+take a toll on, 夺去
+take its toll on,无
+at risk,"un. 担风险
+[网络] 有危险；在危险中；处于危险中"
+at risk of,无
+to begin with,首先
+in other words,换句话说
+cut back on,削减
+cut corners,抄近路
+bit by bit,一点一点
+burn the midnight oil,[网络] 挑灯夜战；熬夜
+drop out,"掉出, 退出, 离队
+[机] 落砂"
+in turn,"na. 挨次
+[网络] 依次；轮流；反过来"
+contribute to,捐献
+hold on to,坚持
+soar,"n. 高扬, 翱翔
+vi. 往上飞舞, 高耸, 翱翔"
+frank,"a. 坦白的, 率直的, 老实的
+vt. 免费邮寄
+n. 免费邮寄特权"
+vigorous,"a. 精力充沛的, 元气旺盛的, 茁壮的, 有力的"
+absorb,"vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担
+[医] 吸收"
+tuition,"n. 学费, 讲授"
+tremendous,"a. 巨大的, 非常的, 可怕的"
+relevant,"a. 有关联的, 有关系的, 适当的, 相应的
+[法] 有关的, 相关的"
+spite,"n. 恶意, 怨恨, 使人烦恼的事物
+vt. 故意刁难, 欺侮"
+obstacle,"n. 障碍, 妨害物, 阻碍"
+collective,"a. 集体的, 聚集的, 共同的
+[医] 集体的, 集合的"
+collectively,"adv. 集合, 聚合性, 共同, 集体主义, 集团, 集体"
+claim,叫喊
+endure,"vt. 忍受, 忍耐, 容忍, 耐
+vi. (正式)持久, 持续
+[计] 仍能工作, 继续工作"
+bulge,"n. 胀, 膨胀
+vi. 凸出
+vt. 使膨胀"
+tutor,"n. 家庭教师, 导师, 助教, 监护人
+vt. 当...的教师, 教, 指导, 约束, 克制
+vi. 当家庭教师, 受家庭教师的指导"
+startle,"n. 惊愕, 惊恐
+vt. 吃惊, 使惊愕
+vi. 惊起"
+startled,v. 震惊（startle的过去分词）
+necessity,"n. 需要, 必需品, 必然
+[法] 必要性, 必然性, 必要"
+luxury,"n. 奢侈, 豪华
+a. 奢侈的, 豪华的"
+glimpse,"n. 一瞥, 一闪
+vi. 投以一瞥, 闪烁不定
+vt. 瞥见"
+prioritize,"vt. 按优先次序列出, 优先考虑"
+aware,"a. 知道的, 有觉悟的"
+influential,"a. 有影响的, 有势力的"
+illustrate,"vt. 举例说明, 作图解, 阐明
+vi. 举例说明"
+cite,"vt. 引用, 引证, 表彰
+[建] 引证, 指引"
+dropout,"掉出, 退出, 离队
+[机] 落砂"
+evidence,[网络] 证据；大量运用事例证据
+exhaust,"n. 排气, 排气装置, 废气
+vt. 抽完, 用尽, 耗尽, 使精疲力尽
+vi. 排气"
+abuse,"n. 滥用, 虐待, 恶习, 辱骂
+vt. 滥用, 辱骂, 虐待"
+authentic,"a. 可靠的, 可信的, 真正的
+[法] 被认证的, 确认的, 可信的"
+stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
+tension,"n. 紧张, 不安, 拉紧, 张力, 压力, 电压
+vt. 拉紧, 使紧张"
+relieve,"vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著
+vi. 救济, 当替补投手, 呈鲜明突出"
+burden,"n. 负担, 重载, 担子, 责任
+vt. 装货于, 烦扰, 使负担"
+convince,"vt. 说服, 使相信
+[法] 使确信, 使信服, 使人认识错误"
+convinced,"a. 确信的, 深信的"
+ensure,"vt. 确定, 保证, 担保, 保护
+[经] 确保, 确定"
+responsible,"a. 有责任的, 负责的, 责任重大的
+[法] 应负责任的, 有责任的, 能履行责任的"
+formal,"a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的
+n. 正式的社交活动"
+advanced,"a. 在前的, 高级的, 先进的, 年老的
+[法] 预付的, 预支的, 垫付的"
+singular,"n. 单数
+a. 异常的, 单一的"
+financial,"a. 财政的, 金融的
+[经] 财政的, 金融的, 财务的"
+furthermore,"adv. 而且,此外"
+readily,"adv. 迅速地, 轻易地, 乐意地"
+concede,"vt. 承认, 退让
+vi. 让步"
+mature,"a. 成熟的, 到期的, 充分考虑的
+vt. 使成熟
+vi. 成熟, 到期"
+be in the minority,占少数
+be in a minority,是少数派(尤指在投票的两部分人中)
+as for,至于
+a matter of sth.,无
+a matter of doing sth.,无
+look back,"回顾, 三心二意
+[经] 银行对过去贷款的审查"
+feel sorry for oneself,"感到倒霉而愤愤不平, 垂头丧气"
+be envious of,"忌妒, 羡慕"
+catch a glimpse of,瞥见
+get a glimpse of,瞥见...
+have a glimpse of,无
+relieve sb. of sth.,从(某人手中)接过(重物/难办的事)
+fraud,"n. 欺骗, 欺诈, 诡计, 骗子
+[经] 欺诈, 舞弊, 骗子"
+corruption,"n. 腐败, 堕落, 贪污
+[计] 论误"
+expel,"vt. 驱逐, 逐出, 排出, 开除
+[医] 排除, 迫出"
+purchase,"n. 购买, 购买品, 紧握, 绞辘
+vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)"
+layer,"n. 层, 产卵鸡, 放置者
+vt. 分层堆积, 压植
+[计] 层"
+exemplify,"vt. 例证, 例示
+[法] 制作经公章证明的誊本, 例证"
+consumer,"n. 消费者
+[经] 消费者, 用户"
+bribe,"n. 贿赂
+vt. 贿赂, 收买
+vi. 行贿"
+rip,[网络] 卫非特
+accurate,"a. 正确的, 精确的
+[经] 准确的, 精确的"
+exaggerate,"v. 夸大, 夸张"
+principle,"n. 原则, 原理, 主义
+[化] 原理"
+morality,"n. 道德, 教训, 品行
+[法] 道德, 道义"
+extensive,"a. 广的, 广泛的, 多方面的
+[经] 广大的, 扩大的"
+facilitate,"vt. 使容易, 促进, 帮助
+[法] 使容易, 使便利, 推进"
+nerve,"n. 精神, 勇气, 叶脉, 神经
+vt. 鼓起勇气"
+frustrate,"vt. 挫败, 击败, 破坏
+a. 无益的, 挫败的, 挫折的"
+frustration,n. 挫折
+ultimate,"n. 终极, 根本, 顶点, 基本原则
+a. 终极的, 根本的, 极限的, 最远的, 最后的, 最大的"
+illegal,"a. 违法的, 不合规定的
+[经] 非法的, 犯规的"
+fake,"n. 假货, 欺骗, 诡计
+a. 假的
+vt. 假造, 仿造
+vi. 伪装"
+browse,"v. 浏览, 吃草
+n. 浏览, 吃草
+[计] 浏览"
+locate,"vt. 找出, 设于, 位于
+vi. 定居"
+appropriate,"adj. 适当的
+vt. 占用；拨出"
+web,[网络] 蜘蛛网；换为
+conscious,adj. 意识到的；故意的；神志清醒的
+cope,"vi. 处理；对付；竞争
+n. 长袍
+n. (Cope)人名；(英)科普；(西)科佩"
+plagiarism,"n. 剽窃, 抄袭, 剽窃物
+[法] 抄袭, 剽窃, 剽窃作品"
+software,软件;程序设备;语言设备;方案;设计计算法
+plagiarize,"v. 剽窃, 抄袭"
+launch,"n. 下水, 汽艇, 发射
+vt. 使下水, 发射, 发动
+vi. 起飞, 下水, 投入, 开始"
+campaign,"n. 战役, 运动, 竞选运动
+vi. 参加运动, 作战"
+eliminate,"vt. 除去, 排除, 剔除, 消除"
+attach,"vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚
+vi. 附属, 归属, 联系在一起
+[计] 挂接服务器命令, 关联, 挂接, 附加"
+attached,"a. 附加的；依恋的, 充满爱心的"
+satisfactory,"a. 满意的, 赎罪的
+[法] 令人满意的, 令当事人满意的, 充分的"
+confront,"vt. 使面对, 对抗, 遭遇, 使对质, 比较
+[法] 对证, 使对质, 比较"
+reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
+n. 窗侧, 门侧"
+applaud,"v. 拍手喝彩, 称赞, 赞同"
+awareness,"n. 意识, 认识
+[计] 识别, 议定, 明白"
+imply,"vt. 暗示, 意味
+[计] 隐含"
+absolute,"a. 绝对的, 专制的, 完全的, 独立的
+n. 绝对事物"
+induce,"vt. 引诱, 招致, 归纳出, 感应
+[医] 诱导, 感应"
+descend,"vi. 下降, 世代相传, 屈尊, 袭击
+vt. 下降"
+chaos,"n. 大混乱, 混沌
+[化] 混沌; 浑沌"
+affirmative,"a. 肯定的, 赞成的, 积极的
+n. 肯定语"
+durable,"a. 持久的, 耐用的"
+turn in,"v. 向里弯曲
+[网络] 上交；上床睡觉；交出"
+not to mention sth.,无
+rip off,"v. 剥削；抢劫；强奸；〈俚〉剽窃
+[网络] 宰客；宰人；撕掉"
+if this is the case,无
+if that is the case,无
+cope with,"与...竞争, 应付, 处理"
+launch a campaign, 发起运动
+make a complaint about sth.,无
+the good old days,[网络] 过去的好时光；再见艳阳天；过去的美好时光
+be confined to ...,"限制, 禁闭"
+descend into,向下行
+element,"n. 元件, 元素, 要素
+[计] 部分; 成分; 单元; 码元; 元件; 元素; 单元"
+lump,"n. 块, 瘤, 很多, 肿块, 笨人
+vt. 使成块状, 混在一起
+vi. 结块"
+inhabitant,"n. 居民, 居住者
+[医] 居民"
+encounter,"vt. 遭遇, 邂逅；遇到
+n. 遭遇, 偶然碰见
+vi. 遭遇；偶然相遇"
+automatic,"n. 自动手枪, 自动机械
+a. 自动的, 机械的, 必然的, 无意识的"
+bump,"n. 撞击, 肿块
+vt. 碰撞
+vi. 撞, 颠簸而行"
+prompt,"n. 激励, 提示, 提醒物, 提词, 付款期限
+a. 迅速的, 敏捷的, 立刻的, 提词员的
+vt. 激励, 鼓动, 提示
+adv. 准时地
+[计] 提示符; DOS内部命令:设定DOS命令行的提示符"
+chase,"n. 追求, 狩猎, 追逐
+vt. 追捕, 追逐, 雕刻, 在...上镶嵌宝石
+vi. 追赶, 奔跑"
+reluctant,"a. 不情愿的, 勉强的
+[法] 不愿的, 勉强的, 难以处理的"
+elevator,"n. 电梯, 升降机
+[化] 提升机"
+switch,"n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔
+vt. 转变, 切换, 摆动, 转换, 使转轨
+vi. 转换, 变换, 摆动
+[计] 交换机；开关; 翻转; 转移"
+beep,"n. 短而尖的声音, 嘟
+v. 嘟嘟响"
+horn,"n. 角, 角质, 喇叭, 号角
+a. 角制的
+vt. 用角触, 长角于"
+subway,"n. 地铁, 地道
+vi. 乘地铁"
+herd,"n. 兽群, 人群, 牧人
+vt. 群集, 使成群, 放牧
+vi. 聚在一起"
+commute,"vt. 交换, 折偿, 减轻
+vi. 代偿, 经常乘车来往"
+commuter,"n. 乘公共车辆上下班者, 月季票乘客
+[经] 非(当地)居民"
+elbow,"n. 手肘, 弯头, 扶手
+v. 用手肘推开, 推挤"
+intimidate,"vt. 威胁, 恐吓
+[法] 恐吓, 威胁, 使恐惧"
+pregnant,"a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的
+[医] 妊娠的, 有孕的"
+nuisance,"n. 讨厌的东西, 讨厌的人, 损害
+[医] 损害, 讨厌"
+trend,"n. 趋势, 倾向, 走向
+vi. 倾向, 转向
+[计] 趋势"
+traditional,"a. 传统的, 惯例的
+[经] 传统的, 惯例的"
+minor,"n. 未成年人, 副修科目
+a. 较小的, 二流的, 未成年的
+vi. 副修
+[计] 次要"
+ignorant,"a. 无知识的, 不知道的, 由无知产生的
+[法] 无知的, 愚昧的, 不知情的"
+counsel,"n. 商议, 忠告, 法律顾问
+v. 商议, 劝告"
+counselor,"n. 顾问, 参事, 法律顾问"
+disgraceful,"a. 可耻的, 不名誉的"
+insult,"n. 侮辱, 无礼, 损害
+vt. 损害, 侮辱, 攻击"
+target,"n. 目标, 靶子, 指标
+vt. 对准, 订指标"
+staff,"n. 全体人员, 工作班子, 棍棒, 杆, 拐杖, 支柱, 权杖
+a. 职员的, 雇员的, 参谋的
+vt. 为...配备人员"
+hostile,"a. 敌人的, 怀敌意的, 敌对的
+n. 敌对分子"
+threaten,"vt. 恐吓, 威胁, 预示...的凶兆
+vi. 威胁, 恫吓, 可能来临"
+threatening,"a. 胁迫的, 危险的
+[法] 威胁的, 恐吓的, 危险的"
+agency,"n. 代理机构, 经销商, 中介
+[化] 办事处"
+perceive,"v. 感觉; 认识, 理解; 察觉到, 意识到, 注意到"
+offensive,"a. 令人不快的, 侮辱的, 攻击性的
+[法] 攻击的, 进攻的, 冒犯的"
+verbal,"a. 用言辞的, 言语的, 口头的, 逐字的, 动词的
+[医] 言语的, 口述的"
+slap,"n. 掴, 掌击, 侮辱, 拍击声
+v. 拍击, 惩罚
+adv. 正面地, 直接地, 突然地"
+curse,"n. 咒骂, 诅咒
+vt. 诅咒, 咒骂"
+complaint,"n. 诉苦, 抱怨, 控诉
+[医] 陈诉; 病"
+punch,"n. 冲压机；打洞器；钻孔机
+vt. 开洞；以拳重击
+vi. 用拳猛击
+n. (Punch)人名；(马来)蓬芝；(英)庞奇"
+utility,"n. 功用, 有用之物, 实用, 公用事业, 实用程序
+a. 实用的, 有多种用途的
+[计] 实用程序, 工具"
+executive,"n. 执行部门, 执行委员会, 执行者, 经理主管人员
+a. 执行的, 善于执行的, 善于经营的
+[计] 执行程序"
+temper,"n. (钢等的)硬度, 脾气, 心情, 中和剂, 倾向, 回火
+vt. 使回火, 锻炼, 调和, 使缓和
+vi. 回火"
+norm,"n. 基准, 模范, 标准, 准则, 平均数
+[化] 定额"
+random,"n. 随意, 随机
+a. 任意的, 随便的, 胡乱的, 随机的
+adv. 胡乱地"
+compassionate,"a. 慈悲的, 富于同情心的, 照顾性的
+vt. 怜悯, 同情"
+volunteer,"n. 志愿者
+a. 志愿的
+v. 自愿"
+optimistic,"a. 乐观的, 乐观主义的, 乐天的"
+prevail,"vi. 获胜, 流行, 盛行
+[医] 流行, 盛行"
+mind one's own business,别管闲事
+out of the way,"不挡道, 不恰当, 异常, 偏僻
+[法] 把...移开, 把...除掉"
+crop up,突然出现
+cut in line,超车
+give chase,vi. 追赶
+play a role in sth.,无
+play a role in doing sth.,无
+correspond with,"符合, 一致, 通信"
+cut both ways,"对双方起作用, 模棱两可"
+in a ... fashion,"na. 多少
+[网络] 勉强；马马虎虎"
+go beyond sth.,无
+all but,"几乎, 差一点"
+get lost,"迷路,迷失方向"
+live with, 与…一起生活; 与（异性）同居; 学会去适应; 接受并忍受
+show up,"na. 显眼；揭发；嘲笑；露面
+[网络] 出现；出席；揭露"
+pass sth. on to sb.,无
+point to,指向
+a variety of sth.,无
+gender,"n. 性
+vt. 产生"
+variable,"n. 易变的事物, 变数, 可变物, 变量
+a. 可变的, 不定的, 易变的, 变量的
+[计] 变量"
+contradiction,"n. 反驳, 矛盾
+[法] 矛盾, 否认, 反驳"
+intimate,"a. 亲密的, 私人的, 秘密的
+vt. 暗示, 通知, 告诉
+n. 至交"
+magnetic,"a. 有磁性的, 有吸引力的, 催眠术的
+[医] 磁[性]的"
+sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
+deliberate,"a. 深思熟虑的, 故意的, 从容的
+v. 仔细考虑"
+comparison,"n. 比较, 对照, 比喻
+[经] 比较, 对比"
+ritual,"n. 仪式, 典礼, 宗教仪式
+a. 仪式的, 依仪式进行的"
+motion,"n. 移动, 手势, 动作, 意向, 请求, 提议
+v. 打手势"
+sequence,"n. 序列, 续发事件, 顺序, 连续
+vt. 按顺序排好
+[计] 顺序"
+deficiency,"n. 缺乏, 不足
+[医] 缺乏, 不足"
+narrative,"n. 叙述, 故事
+a. 叙述的, 叙事的, 故事体的"
+retreat,"n. 重新处理
+[网络] 重新治疗；重新提出了"
+steer,"vt. 引导, 驾驶, 航行, 控制
+vi. 驾驶, 掌舵, 行驶
+n. 驾驶指示, 劝告"
+steering,"n. 掌舵, 操纵, 指导"
+intact,[网络] 完好无缺
+mission,"n. 任务, 代表团, 使命, 传教团
+vt. 派遣, 向...传教"
+evident,"a. 显然的, 明显的"
+utter,"a. 全然的, 绝对的, 完全的
+vt. 发出声音, 做声, 发表, 发射, 流通"
+inevitable,"a. 不可避免的, 必然的
+[法] 不可避免的, 无法规避的, 必然的"
+inevitable,"a. 不可避免的, 必然的
+[法] 不可避免的, 无法规避的, 必然的"
+microphone,"n. 扩音器, 麦克风
+[医] 扩音器, 传声器"
+spill,"n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子
+vt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下
+vi. 溢出, 涌流, 摔下"
+elaborate,"a. 精细的, 详尽的, 精心计划(或制作)的
+vt. 详细地说明, 用心地制作, 发挥
+vi. 变复杂, 作详细说明"
+drama,"n. 戏剧, 戏剧艺术"
+rigid,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的"
+farewell,进展顺利
+abrupt,"a. 突然的, 唐突的, 陡峭的, 不连贯的"
+abruptly,"adv. 突然地, 唐突地"
+panic,"n. 恐慌, 惊慌
+a. 惊慌的, 没有理由的, 恐慌的
+vt. 使惊慌, 使狂热
+vi. 惊慌"
+splash,"n. 飞溅, 污点, 一点儿, 溅泼声, 色斑
+vi. 溅湿, 溅开, 飞溅
+vt. 溅, 泼, 使溅起水, 洒, 使成斑驳状"
+scare,"n. 惊吓, 恐慌
+vt. 惊吓, 使恐慌
+vi. 受惊"
+scared,"a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的"
+spontaneous,"a. 自然的, 自发的, 未经琢磨的
+[医] 自发的, 特发的, 自生的"
+spontaneously,"adv. 自发, 一时冲动, 出自自然, 不依赖人工, 自然产生, 本能, 自动, 自然而优雅"
+transparent,"a. 透明的, 显然的, 清晰的
+[计] 透明"
+relief,"n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏
+[医] 缓减, 减轻, 浮雕(绘画中)"
+process,[网络] 过程；流程；进程
+nurture,"n. 养育, 营养物, 培育
+vt. 养育, 供给营养物, 教养"
+genetic,a. 遗传的；基因的；起源的
+tendency,"n. 趋向, 倾向
+[医] 趋向, 趋势"
+masculine,"n. 阳性, 男性
+a. 男性的, 阳性的, 有丈夫气的"
+feminine,"a. 女性的, 阴性的, 柔弱的
+[医] 女性的, 雌性的"
+tend,伸
+restrain,[网络] 再紧张
+restrained,"a. 限制的, 拘谨的, 克制的"
+in ... terms,"在谈判,在协商;明确地,措词严密地"
+in comparison, 相比之下
+make up for,"补偿,弥补"
+at the time,"当时,那时"
+on a mission,带着使命执行任务的时候
+pull away,"脱身, 离开"
+in a new light,[网络] 在新的角度；生命的再思；另一种光线
+in a bad light,在暗处，在光线不好的地方，在看不清楚的地方；从坏的角度;处于不利的环境 [亦作 in an unfavourable light]
+in a different light,一个不同的角度
+look sb. in the eye,"无愧于心地正视某人, 无所畏惧地正视某人"
+to sb.'s relief,无
+be born with sth.,无
+privilege,"n. 特权, 特别恩典, 基本权利, 特免
+vt. 给与...特权, 特免"
+co-worker,无
+framework,结构材
+diverse,"a. 不同的, 变化多的"
+subtle,"a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的
+[医] 锐敏的; 精细的"
+constitute,"vt. 构成, 组成, 任命
+[建] 构造, 组成"
+forth,"adv. 往前, 以后, 向外"
+casual,"a. 偶然的, 不经意的, 便装的
+n. 临时工, 待命士兵"
+casually,"adv. 偶然地, 临时地, 随便地"
+worship,"n. 崇拜, 礼拜, 尊敬
+vi. 参加礼拜
+vt. 崇拜, 尊敬"
+ally, 以-al结尾的形容词加ly构成副词)
+committee,n. 委员会
+client,"n. 客户, 顾客, 委托人
+[计] 客户, 客户机, 客户机程序"
+superficial,"n. 表面, 外表
+a. 表面的, 肤浅的, 面积的"
+scarcely,"adv. 简直不, 一定不, 仅仅"
+variation,"n. 变更, 变化, 变种, 变奏
+[医] 变异, 变易; 变度"
+visible,"a. 看得见的, 明显的, 显然的
+n. 可见物"
+arbitrary,"a. 任意的, 武断的, 专治的, 霸道的"
+mood,"n. 心情, 气氛, 生气, 基调
+[医] 心境"
+ceremony,"n. 典礼, 仪式, 礼节
+[法] 典礼, 仪式"
+complicated,"a. 复杂的
+[医] 并发的"
+keen,"a. 锋利的, 敏锐的, 强烈的, 敏捷的, 热心的, 渴望的
+n. 挽歌, 痛哭
+v. 唱挽歌, 痛哭"
+compatible,comb.form 表示“兼容的”：plug-compatible
+compatibility,"n. 兼容性
+[计] 兼容性"
+corresponding,"a. 相当的, 一致的, 通信的
+[计] 对应"
+philosophy,"n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着"
+boundary,"n. 边界, 分界线
+[计] 边界"
+poetry,"n. 诗, 韵文, 诗歌艺术"
+affection,"n. 影响, 病, 喜爱, 情感, 倾向
+[医] 疾患, 病变, 病; 感情"
+alliance,"n. 联盟, 联合
+[法] 同盟, 联盟, 联姻"
+wit,"n. 机智, 智力, 头脑, 理智, 妙语, 机智的人"
+ideal,"n. 理想, 典范, 观念, 思想, 最后目标
+a. 理想的, 完美的, 空想的, 观念的, 唯心论的"
+inner,"a. 内部的, 内心的
+n. 内部"
+loyalty,"n. 忠贞, 忠诚, 忠实
+[法] 忠诚, 忠心"
+enhance,"vt. 提高, 加强, 增加"
+integrate,"vt. 综合, 使完整, 使成整体
+vi. 成一体
+a. 完整的, 完全的"
+integrated,"a. 综合的, 完整的, 互相协调的
+[法] 成为整体的, 综合的, 统筹的"
+significance,"n. 重要性, 意义, 意味
+[计] 有效; 有效性"
+vital,"a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的
+[医] 生命的, 生活的, 生活上必需的, 紧要的"
+conversely,"adv. 相反, 逆, 颠倒, 反题, 反"
+guarantee,"n. 担保, 抵押品, 保证书
+vt. 保证, 担保"
+gratitude,n. 感激之情
+extend,"v. 扩充, 延伸, 伸展, 扩大
+[计] 扩展"
+profound,"a. 极深的, 深厚的, 深刻的, 渊博的"
+profoundly,"adv. 深深地, 深切地"
+miracle,"n. 奇迹, 奇事"
+shower sb. with sth.,[网络] 淋浴sb与sth
+a lack of, 缺乏，缺少
+come into being,"形成, 产生"
+back and forth,来回地
+apply to,[计] 应用于
+a range of, 一系列; 一些; 一套
+not so much ... as ...,"conj. 甚至不
+[网络] 与其说…不如说；甚至没有；连…都不肯"
+debt of gratitude, 人情债
+debt of thanks,无
+feel at home,感到自在
+be at home,"觉得安适,无拘束"

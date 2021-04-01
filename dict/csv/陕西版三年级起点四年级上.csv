@@ -1,106 +1,195 @@
-﻿nurse,"n.护士,保姆vt.护理,看护v.照料"
-cook,"n.厨师v.烹调,煮,伪造"
-farmer,"n.农夫,百姓,农民,农场主,承包主,牧场主,畜牧者"
-doctor,"n.医生,博士,[古]学者,<俚>修理师vt.授以博士学位,诊断,修改,<美>治疗,搀混(食物、饮料),修改vi.行医"
-worker,n.工人
-driver,"n.驾驶员n.[计] 驱动器,驱动程序n.[机]起子,主动轮,传动器"
-policeman,n.警察
-want,"vt.想要,希望,需要,短缺,缺少n.需要,短缺"
-be," prep.是,在,存在 [域] Belgium ,比利时 [军] Base Ejection,弹底喷射 symb [化]铍 Be(beryllium)"
-man,"n.男人,人类,人,丈夫,雇工;vt.为...配备人手,操纵,在...就位,使振奋;Metropolitan Area Network 城域网"
-farm,"n.农场,农庄,农田vt.耕种vi.种田,务农,经营农场,从事畜牧"
-pig,"n.猪,猪肉,贪婪的人v.生小猪,贪婪地吃"
-horse,"n.马,[总称]骑兵,脚架,马力vi.骑马,作弄人vt.使骑马,系马于"
-cow,"n.母牛,大型母兽vt.威吓"
-sheep,"n.羊,绵羊,羞答答的人,胆小鬼,信徒"
-duck,"n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
-hen,"n.母鸡,雌鸟"
-really,"adv.真正地,实在地,(表语气)真的吗?"
-many,"n.多数,群众adj.许多的 pron.许多人,许多"
-any,"adj.任何的,任何一种,所有的 pron.无论那一个,任何"
-for," prep.(表示目的)为了,因为,至于,对于,适合于 conj.因为"
-breakfast,n.早餐vi.进早餐
-lunch,n.午餐
-rice,"n.稻,米"
-noodles,
-soup,
-dumplings,
-meat,"n.(食用)肉,肉类"
-chicken,"n.小鸡,小鸟,鸡肉"
-we, pron.我们
-great,"adj.伟大的,大的,强烈的,非常的,主要的,大写的,重大的,崇高的adv.顺利地,得意地n.全部,大人物,大师"
-very,"adv.很,甚,及其,非常,完全adj.真正的,真实的,恰好的,绝对的,十足的,特别的"
-aunt,"n.姑妈,伯母,舅妈,阿姨"
-welcome,n.欢迎vt.欢迎int.欢迎adj.受欢迎的
-dinner,"n.正餐,宴会"
-ready,"adj.有准备的,准备完毕的,甘心的,情愿的,现成的,迅速的"
-very little,
-when," conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
-class,"n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
-get up,
-have a class,
-have lunch,
-play,"n.游戏,比赛,运动,赌博,剧本v.玩,扮演,播放,进行比赛v.播放"
-game,"n.比赛,游戏,竞赛,[复]运动会,玩耍,比分,比赛规则,策略vi.赌博adj.勇敢的,有胆量的,关于野味的,跛的"
-play games,
-watch,"n.注视,注意,手表,看守,守护,监视,值班人vt.看,注视,照顾,监视,警戒,守护,看守vi.观看,注视,守侯adj.手表的,挂表的"
-watch TV,
-bed,"n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
-go to bed,
-at," prep.在,于,向,对准,在...方面;Austria,奥地利"
-early,"adj.早的,早熟的,及早的,早先的,早期的adv.早,在初期"
-late,"adj.迟的,晚(期)的,已故的,新近的adv.晚,迟,最近,在晚期"
-our, pron.我们的
-library,"n.图书馆,藏书室,库"
-garden,"n.(菜、花)园,花园"
-playground,"n.运动场,操场"
-toilet,"n.盥洗室,梳洗"
-computer,"n.计算机,电脑"
-office,"n.办公室,办事处,事务所,<英>政府机关,部,公职,职责,帮助"
-teachers' office,
-gate,n.大门
-school gate,
-of course,
-subject,"n.题目,主题,科目,学科,国民,[语法]主语adj.受他国统治的,未独立的,受制于...的,受...影响的,以...为条件的vt.使屈从于...,使隶属"
-Math,
-PE,
-Music,
-Chinese,
-English,
-Science,
-Art,
-let,"vt.假设,出租,允许,排放,让...进入(或通过),妨碍vi.出租,(工程等)被承包n.出租屋,障碍"
-be good at,
-drawing,"n.图画,制图,素描术"
-not,adv.不
-Tuesday,
-Sunday,
-Monday,
-Wednesday,
-Thursday,
-Friday,
-Saturday,
-week,"n.星期,周"
-day,"n.天,白天,日子,白昼,黎明,工作日,节日,重要日子"
-today,"adv.今天,现今n.今天,现今"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-picture,"n.画,图画,照片,像,美景,描述,相似物,化身vt.画,描绘"
-draw pictures,
-play ball,
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-swim,"n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
-dance,"n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
-jump,"n.跳跃,上涨,惊跳vt.跳跃,跃过,突升,使跳跃vi.跳跃,暴涨"
-rope,"n.绳,索,绳索v.围起"
-jump rope,
-basketball,"n.篮球,篮球运动"
-play basketball,
-sing,"v.唱,演唱"
-song,"n.歌,歌曲"
-sing songs,
-after,"adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
-after class,
-together,"adv.共同,一起,合起来,集拢地"
-OK,
-every,"adj.每一的,每个的,全部的,每隔...的"
-often,"adv.常常,经常"
+﻿nurse,"n. 护士, 保姆, 奶妈
+vt. 看护, 照顾, 培养
+vi. 喂奶, 看护病人"
+cook,"n. 厨子, 厨师
+vt. 烹调, 煮饭, 加热
+vi. 在煮着"
+farmer,"n. 农夫, 农场主
+[法] 农民, 农场主, 承包者"
+doctor,"n. 医生；博士
+vt. 修理；窜改，伪造；为…治病；授以博士学位
+vi. 就医；行医"
+worker,"n. 工人, 劳动者
+[经] 工人, 劳工, 劳动者"
+driver,"n. 驾驶员, 驱动器, 驱动程序
+[化] 驱动器"
+policeman,"un. 警察
+[网络] 警察大哥；你是警察；波丽士大人"
+want,[网络] 没有区别欲望
+be,"linkv. 有；等同；存在；提供名称或信息时用
+v. 到场；位于；在（某处）；（在某时或某地）发生
+auxv. 与过去分词连用构成被动语态；与现在分词连用构成进行时
+abbr. (=Bank of England)(英国)英格兰银行
+[网络] 是；铍(Beryllium)；比利时(Belgium)"
+man,"n. 成年男子；男人；人类；（特定历史时期的）人
+v. 在…岗位上工作；操纵（机器等）；配备（人员）
+int. （表示惊奇、气愤等）嘿
+[网络] 城域网(Metropolitan Area Network)；男士"
+farm,"n. 农场, 农田
+vt. 耕种
+vi. 种田"
+pig,"n. 猪, 猪肉, 贪婪的人, 猪一样的人
+v. 生小猪, 象猪般地生活"
+horse,"n. 马；骑兵；脚架；海洛因
+vt. 使骑马；系马于；捉弄
+vi. 骑马；作弄人
+n. (Horse)人名；(瑞典)霍尔瑟"
+cow,"n. 母牛, 母兽
+vt. 威胁"
+sheep,"n. 羊, 胆小者"
+duck,"n. 鸭子
+vi. 没入水中, 闪避
+vt. 猛按...入水, 躲避"
+hen,"n. 母鸡, 雌禽"
+really,[网络] 再结盟
+many,"n. 多数, 多数人
+a. 许多的
+pron. 许多"
+any,"a. 任何的
+pron. 任何"
+for,[网络] 铁路交货点的货价；励磁系统强迫停运率
+breakfast,[网络] 早餐；早餐红茶；破斋
+lunch,n. 午餐
+rice,[网络] -白饭
+noodles,"n. 面条, 挂面（noodle的复数形式）"
+soup,"n. 汤, 马力
+vt. 加速, 增加马力"
+dumplings,n. 汤团( dumpling的名词复数 ); 饺子; 水果布丁; 矮胖的人
+meat,"n. 肉, 餐, 食物
+[经] 肉类"
+chicken,"n. 小鸡, 鸡肉"
+we,"pron. 我们；咱们；人们
+[网络] 世界精英(World Elite)；是我们；我们的"
+great,"a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
+adv. 顺利地, 得意地
+n. 全部, 大人物, 大师"
+very,"a. 真正的, 恰好的, 十足的, 特有的
+adv. 非常, 完全"
+aunt,"n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
+welcome,"n. 欢迎, 欢迎词
+a. 受欢迎的, 可随意的, 可喜的
+vt. 欢迎, 接待
+interj. 欢迎"
+dinner,[网络] 正餐
+ready,"adj. 准备好；现成的；迅速的；情愿的；快要…的
+n. 现款；预备好的状态
+adv. 迅速地；预先
+vt. 使准备好
+n. (Ready)人名；(英)雷迪"
+very little, 寸；半；无几；微乎其微
+when,"conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+class,[计] Java类文件
+get up,"na. 起床；起身；站起来；叫…起床
+[网络] 起立；打扮；安排"
+have a class,[网络] 上课；学生上课
+have lunch, 吃午餐
+play,[网络] 戏耍
+game,"n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味
+vi. 赌博
+a. 勇敢的, 有胆量的, 关于野味的, 跛的
+[计] 博弈; 对策"
+play games, 敷衍塞责
+watch,comb.form [通常作复合词的第二部分]表示“研究”，“监视”，“观察”，“观望”；“观赏”
+watch TV, 看电视
+bed,[网络] 教育学士课程；教育学士学位课程
+go to bed,"上床, 睡觉"
+at,"prep. 朝；向；在（某处）；在（表示学习或工作地点）
+abbr. (=astatine)【化】(=Air Transport)
+[网络] 自动变速箱(Automatic Transmission)；奥地利(Austria)；砹"
+early,"a. 早的, 早熟的
+adv. 很早, 初"
+late,"a. 迟的, 晚的, 已故的
+adv. 很晚, 很迟, 晚"
+our,suf. 构成名词表示“状态”，“活动”：colour， labour
+library,"n. 图书馆, 藏书, 库
+[计] 库"
+garden,[网络] 花园；晋园
+playground,"体育场,运动场;游戏场"
+toilet,"n. 厕所, 梳妆
+vi. 梳妆, 打扮, 上厕所
+vt. 给...梳妆打扮"
+computer,"n. 电脑, 电子计算机
+[计] 计算机"
+office,[网络] 办公室；写字楼
+teachers' office,无
+gate,"n. 大门；出入口；门道
+vt. 给…装大门
+n. (Gate)人名；(英)盖特；(法、瑞典)加特"
+school gate,n. 学校大门
+of course,当然
+subject,[网络] 主体；对象；主题
+Math,n. 数学
+PE,"n. 体育（课）（全写为 physical education）
+[网络] 聚乙烯(Polyethylene)；私募股权投资(Private Equity)；市盈率"
+Music,"n. 音乐, 乐曲"
+Chinese,"n. 中文, 中国话, 中国人
+a. 中国的, 中国话的"
+English,[网络] 英语
+Science,"n. 科学, 学科, 学问, 自然科学
+[医] 科学"
+Art,"n. 艺术；技术；技巧；表演艺术
+v. 对一人讲话时用
+[网络] 艺术(Artistic)；美术；辅助生殖技术(assisted reproductive technology)"
+let, 小的；不很重要的
+be good at,擅长
+drawing,"n. 图画, 制图, 拉
+[计] 绘图"
+not,"adv. 不, 非, 未
+[计] 非"
+Tuesday,n. 星期二
+Sunday,太阳日(太阳能动力鼓吹者选定的每年5月的一天，宣传大力研究和利用太阳能)
+Monday,n. 星期一
+Wednesday,n. 星期三
+Thursday,n. 星期四
+Friday,n. 星期五
+Saturday,n. 星期六
+week,"n. 星期, 周"
+day,"n. 一天；时期；白昼
+adv. 每天；经常在白天地
+adj. 日间的；逐日的
+n. (Day)人名；(英、法、西)戴；(越)岱；(阿拉伯、土)达伊"
+today,"adv. 在今天, 在今日, 现在, 当代, 现今
+n. 今天, 今日"
+draw,[计] Acorn的基于对象的矢量图像文件
+picture,"n. 图画, 照片, 景色, 美丽如画的人(或物), 化身, 生动的描述, 想像, 形象思维
+vt. 画, 拍摄, 用图说明, 描写, 想像
+[计] 图象; 形象; 字形"
+draw pictures, 画画，画图; 画图画
+play ball,"发球, 开始活动, 办事公道"
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+dance,"n. 跳舞, 舞蹈, 舞会
+v. 跳舞"
+jump,"n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+rope,"n. 绳, 索, 粗绳, 绞索, 决窍
+vt. 捆, 缚, 绑, 圈起, 以绳将...系住
+vi. 拧成绳状"
+jump rope,n. [体]跳绳
+basketball,n. 篮球运动
+play basketball,[网络] 打篮球；玩篮球；篮球锻炼知多少
+sing,"vi. 唱歌；歌颂；鸣叫；呼号
+vt. 唱；用诗赞颂；唱着使
+n. 演唱；鸣声；呼啸声
+n. (Sing)人名；(老、德、泰)辛"
+song,"n. 歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌"
+sing songs,n. 歌咏
+after,"prep. 在...之后, 由于
+conj. 在...之后
+adv. 后来"
+after class, 下课后; 课余
+together,"adv. 一起；同时；相互；连续地；总共
+adj. 新潮的；情绪稳定的，做事有效率的"
+OK,[网络] 确定；好；击
+every,"a. 每一, 所有的"
+often,adv. 常常，时常

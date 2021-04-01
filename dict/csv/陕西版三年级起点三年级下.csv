@@ -1,99 +1,1082 @@
-﻿body,"n.身体,肉体,人,尸体,主要部分,团体,大量vt.赋以形体"
-head,"n.头,头脑,领袖,(队伍,名单等)最前的部分,人,顶点vt.作为...的首领,朝向,前进,用头顶vi.成头状物,出发adj.头的,主要的"
-eye,"n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼vt.看,注视,在...上打眼"
-nose,"n.鼻,(飞机、船等的)前端v.侦察出"
-mouth,"n.口,嘴"
-face,"n.脸,面容,表情,威信,正面,地形,外观vt.面对,面向,面临,承认,抹盖vi.朝,向"
-ear,"n.耳朵,倾听,听觉,听力,穗vi.抽穗"
-the, art.那
-has,vbl.have 的第三人称单数现在式
-arm,"n.臂,臂状物,衣袖,海湾,武器vt.供给,提供,武装,装备vi.武装起来"
-hand,"n.手,掌管,协助,支配,插手,指针,雇员,手艺vt.支持,搀扶,交给"
-does,"v.做,有用,工作 conj.是,做,要"
-leg,"n.腿,胫,旅程的一段vi.走,跑"
-feet,"n.脚(pl.),(foot的复数),英尺,韵脚"
-doesn't,
-family,"n.家庭,家族,家属,亲属,子女,僚属adj.家庭的,家族的"
-people,"n.人,人们,民族,人类,公民vt.使住(满)人"
-there,adv.在那里
-who," pron.谁,那...的(人)  世界卫生组织 WHO(the World Health Organization)"
-brother,n.兄弟
-sister,"n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
-grandma,n.奶奶
-grandpa,n.爷爷
-father,"n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
-mother,"n.母亲,妈妈"
-he," pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
-she, pron.[主格]她
-come,"vi.来,来临,到达,出现,来(自),出生(于),开始int.嗨! vbl.来,到达,合计为"
-school,"n.学校,学院,学习,授课,求学,全体学生,学派vt.锻炼,教育"
-go,"vi.离去,走,进行,变成,趋于,达到,求助于,诉诸vt.以...打赌,忍受,出产n.去,进行"
-bus,"n.公共汽车,总线"
-train,"n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线vt.训练,培养,瞄准,(园艺)整枝vi.锻炼"
-ship,"n.船,海船,舰v.装上船,航运,载运,在船上工作"
-taxi,n.出租汽车v.乘坐出租汽车
-home,"n.家,住宅,家乡,本国,产地,避难所adj.家庭的,国内的,有效的adv.在家,回家,深入地,在本国"
-by," prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
-about,"adv.附近,大约,转向,左右,周围;prep.在附近,关于,在...周围,忙于"
-what about,
-on foot,
-whose," pron.谁的,那(些)人的"
-coat,"n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
-wear,"vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
-dress,"n.女服,童装,服装,衣服v.(给...)穿衣"
-trousers,"n.pl.裤子,长裤"
-skirt,n.裙子v.环绕
-cap,"n.帽子,军帽,(瓶)帽,(笔)帽;vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
-sweater,"n.厚运动衫,毛线衫"
-shoes,n.鞋子
-socks,
-very much,
-her," pron.她的,她"
-his, pron.他的
-like,"n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
-candy,"n.糖果,冰糖v.蜜饯,糖煮(水果)"
-cake,"n.蛋糕,饼,块,"
-bread,"n.面包,生计"
-cookie,"n.(苏格兰)甜面包,(美国)小甜饼,一种网络服务器传递给浏览器的信息"
-tea,"n.茶,茶树,茶叶,茶点vt.给...沏茶vi.喝茶,进茶点"
-grapes,
-banana,n.香蕉
-can,"vt.装进罐中,把食品装罐n.罐头,铁罐 conj.能,可以"
-find,"vt.找到,发现,感到,查明,得到,认为,见到...的存在vi.裁决n.发现 [计] 在文件中查找指定的字符串"
-chair,"n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
-desk,"n.书桌,办公桌"
-window,"n.窗,窗口"
-door,"n.门,通道,家,户"
-floor,"n.(房间,走廊等的)地面,地板,基底,(室内的)场地,层,海底,议员席vt.在...上铺(地板),击倒,(被困难)难倒"
-classroom,n.教室
-excuse me,
-on," prep.在...之上,依附于,临近,靠近,向,在...时候,关于,涉及adv.在上,向前,行动中,作用中"
-thanks,n.感谢;int.谢谢
-under," prep.在...之下,在...之内,在...领导下,低于,假借adv.在下"
-near,"adj.亲近的,亲密的,近,(车,马等)左侧的,吝啬的adv.(时间,空间方面)近,不远 prep.在...近旁,近...v.接近,走近"
-TV,
-student,"n.(大小学校的)学生,研究者,学者"
-teacher,n.教师
-blackboard,n.黑板
-fan,"n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
-light,"n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
-twenty," num.二十,二十个"
-eleven,n.十一
-twelve, num.十二
-thirteen, num.十三
-fourteen, num.十四
-fifteen,adj.十五
-sixteen, num.十六
-seventeen, num.十七n.十七个
-eighteen,"adj.十八的,十八个的"
-nineteen, num.十九
-long,"adj.长的,长期的,做多头的,高的vi.渴望,热望adv.长期地,始终n.长时间,(市场上)做多头的人,[语音]长音节"
-see,"v.看,看见,了解,领会,注意,留心,经历,阅历"
-big,"adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
-small,"adj.小的,少的"
-tall,"adj.高的,长的,夸大的adv.<俚> 夸大地"
-short,"n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
-grass,n.草
-tree,"n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
-but," prep.除...以外 conj.而是,但是adv.几乎,仅仅"
-its, pron.它的
+﻿body,"n. 身体, 人, 尸体, 主要部分, 团体
+vt. 赋以形体
+[计] 体"
+head,"n. 头；头部；头脑；负责人
+v. 主管；领导；朝（某方向）行进；位于排行之首
+adj. 头的；主要的
+[网络] 海德；磁头；扬程"
+eye,"n. 眼睛, 视力, 看
+vt. 看, 注视"
+nose,"n. 鼻子, 突出部分, 嗅觉
+vt. 嗅到, 探出, 用鼻子触
+vi. 闻, 嗅, 探听, 告密"
+mouth,"n. 嘴, 口, 口腔, 口状物
+vi. 装腔作势说话, 做鬼脸
+vt. 说出, 做作地说"
+face,"n. 脸, 面容, 正面, 外观
+vt. 面对, 朝, 正视, 面临
+vi. 朝, 向
+[计] 现场可改变的控制元件"
+ear,"n. 耳；耳朵；有…耳朵的；耳朵…的
+v. 抽穗
+[网络] 耳状物；听觉；听力"
+the,"art. 这个；那个；河流；不言而喻的某事物
+defa. 此；指已提到或易领会到的人或事物
+[网络] 定冠词；这些；表示一类人"
+has,"v. 有；必须；取得；经受
+auxv. 现在完成式；过去完成式；未来完成式；表示假设语气
+n. 有钱人；(天然资源多的)富国；诈骗
+[网络] 有着；现在完成时；孩之宝公司(Hasbro)"
+arm,[网络] 反辐射导弹
+hand,"hand
+[hænd]
+n.
+手
+(脊椎动物的)前脚
+(鹰等鸟类的)爪
+(虾、蟹等的)螯
+手状物；具手功能的东西
+(钟表、仪器的)指针
+(工具等的)把，柄
+(香蕉等的)一扇，一把，一串；(烟草等的)一束
+指示(符号)
+猪肩肉，臀尖肉
+人手，劳力；[用复数]雇员，职员；船员，乘员
+有技术者，专业人员；行家
+手艺，技巧，技能；手法；(手工)细活
+[用复数]缰绳
+(做某项工作的)人才
+海员，水手
+[常用复数]权力；支配，管理
+(尤指谈判中的)地位
+援助之手，帮助
+参与，插手
+拍手喝彩，鼓掌
+(契约、信义等的)应允；誓约；婚约
+(量马高度的)一手之宽
+笔迹，手迹；书法
+签字，签名
+面，方面
+工具；媒介，手段
+立场；影响力；实力，作用
+(织物、皮革等的)手感
+【牌戏】
+手中的牌，一手牌
+参赛人，打牌人
+牌戏的一盘
+[用复数]驯马术；骑马术
+【机械学】(轴向)偏差
+[古语]提供情报(或给养)者
+adj.
+用手(表示)的；手操纵的
+vt.
+交，递；给，送，递送；呈送，递上(常与 up 连用):
+He handed me a necklace last night.
+昨晚他送给我一条项链。
+Would you please hand this letter to my wife?
+麻烦你把这封信交给我夫人。
+to hand up a paper
+向上级呈送文件
+帮助；搀扶:
+I handed him into his car.
+我把他搀上了他的车。
+【航海学】
+把(帆、旗等)卷起
+使改变航向
+[美国英语]【法律】上报(与up连用)
+[废语]用手操纵；对付
+短语:
+a bad hand at
+对…不内行，不善于…
+a cool hand
+厚面皮的人；精明人
+沉着勇敢的人
+a dab hand at
+[口语]做…(尤指体育项目)的能手(或健将)
+a free hand
+自由(权)，自由决定(权)
+大方，慷慨
+a good (或crack, great) hand at (doing) something
+巧于…，对…在行
+a green hand
+生手，新手[亦作fresh hand]
+园艺技能[亦作green thumb]
+a hand
+[口语]
+掌声，鼓掌
+一臂之力，帮忙
+插手，参与
+a hand's turn
+[口语][常用于否定句]举手之劳
+a legible hand
+清楚的字迹，工整的书法
+a light hand
+精湛的技巧，熟练的手艺
+清楚的字迹
+all hands
+[口语]全部人手；全体人员，大家伙
+【航海学】全体海员，全体船员
+All hands to the pumps (或pump)!
+【航海学】全体船员都去抽水!
+大家都来帮忙!
+a nap hand
+【牌戏】肯冒险就能赢的牌
+冒险一下就获全胜的地位
+an iron hand in a velvet glove
+外柔内刚
+口蜜腹剑，笑里藏刀
+an old hand (at)
+内行，里手，行家
+an open hand
+慷慨，大方
+a numb hand
+笨蛋；无经验者
+a poor (或bad) hand at
+对…不熟练(或不内行)，不善于
+(as) flat as one's hand
+很平的，极平的
+ask for a lady's hand
+向某女子求婚
+at first hand
+直接地，第一手地
+at hand
+在手边，在附近
+即将发生，即将到来，迫近
+在考虑中
+at second hand
+间接地，二手地
+旧的，用过的
+at someone's hands (或 hand) (或 at the hands (或hand) of someone)
+在某人手里
+出自某人之手，从某人那里
+bathe (或dip) one's hand in blood
+双手沾着鲜血，杀了人
+bear a hand
+出一把力，帮忙
+参与，插手
+[水手用语]干起来
+bear in hand
+管理，控制
+允诺
+坚持认为；指控
+be even hands with (someone)
+[苏格兰英语]同(某人)算账，向(某人)报复
+bind (或tie)hand and foot
+捆住手脚
+使受束缚，约束
+bite the hand that feeds one
+以怨报德，恩将仇报
+bridle hand
+左手(指持缰绳之手)
+by hand
+用手的，手工的
+由专人送的
+(婴儿喂养)人工方法的，非母乳喂养的
+手写的
+by the hands (或hand) of
+经由…之手，通过，用，由
+by the left hand
+私生的，非婚生的；贵族男子与下层女子所生的
+by (或with) the (或a) strong hand
+用强硬的手段；断然地，强制地，用暴力
+call one's own hand
+公开自己的主张(或意图)
+【牌戏】摊牌
+call someone's hand
+要求某人摊牌
+挫败某人的阴谋
+cap in hand
+毕恭毕敬地，卑躬屈膝地
+carry it (或things) with a high hand
+盛气凌人；专横跋扈
+change hands
+(财产等)易主，更换所有权
+(钱被)花掉
+chuck one's hand in
+[俚语]拒绝做某事
+clean hands
+两手青白，洁身自好
+come into someone's hands
+到手，收到
+come out with clean hands
+清白无辜，被宣告无罪
+come the heavy hand
+强迫(某人)做某事，强加于人
+come to (one's) hand
+到手；收到
+发现，偶然找到，偶然(被)抓到
+come to (one's) hands
+短兵相接
+cross someone's hand with silver (或coin等)
+见cross
+die by one's own hand
+自杀
+dip one's hand in (或 into) the pocket (或purse)
+见dip¹
+dirty one's hands
+弄脏双手，玷污自己(的好名誉)
+eat (或feed) out of someone's hand
+对某人俯首帖耳，完全受某人支配，惟某人之命是从
+fall into good hands
+落在好人手里
+fall into someone's hands
+落在某人手中；为某人所掌握(或占有、照料等)
+force someone's hand
+【牌戏】逼迫某人出牌
+迫使某人暴露自己的计划，迫使某人表态(或采取行动)
+for four hands
+【音乐】(钢琴曲)以四手联奏
+for one's own hand
+为了自己(个人)的利益
+from hand to hand
+传递；转手
+from hand to mouth
+刚够糊口，现挣现吃
+gain (或get, have) the upper hand (of)
+控制，掌握；居支配地位
+get oneself in hand
+克制(或控制)自己
+get one's hand in
+使自己懂行起来，开始熟悉(或掌握技巧)
+get one's hands on
+弄到，搞到
+抓到(某人并加以危害)
+狠揍，猛打
+get out of hand
+摆脱控制
+变得难以管教
+完工
+get someone under hand
+制服某人
+get something off one's hands
+摆脱某事物，免除对某事的责任
+get the hands
+[美国口语]博得热烈掌声
+get (或have) the whip hand
+占上风，处于支配地位
+give a helping hand
+助一臂之力，(向某人)伸出援助之手
+give one's hand on (或upon)
+对…作出保证，以名誉担保履行诺言
+give one's hand on a bargain
+握手成交
+give someone a big hand
+对某人报以热烈的掌声(欢迎)
+give someone a hand (with)
+帮助…(做某事)，给…以帮助，帮某人一把
+give someone a free hand
+给予某人办某事的充分自主权
+give someone one's hand
+伸手与某人握手
+(女子)答应与某人订婚(或结婚)
+given under my hand and seal
+经我本人签字盖章
+go hand in hand with
+与…携手同行
+和一致，与…结合在一起；与…相配合
+go through someone's hands
+由某人处理；归某人负责
+grease someone's hand
+贿赂某人，向某人行贿
+付小费；给酒钱[亦作grease the hand of someone]
+hand and foot
+连手带脚一起，完全地
+(始终)辛勤地；周到地，殷勤地，无微不至地
+hand in (或and) glove (with)
+(跟…)亲密无间；(跟…)互相勾结
+hand in hand
+手拉手地
+连在一起，联合地；形影不离地
+联合的；形影不离的
+hand it (或the punishment) out
+[口语]严惩；痛打
+hand it to
+[美国俚语]给予…应有的信赖
+hand it to someone
+[俚语]赞扬某人，承认某人的长处(或优势、成就、优良品质)；服某人；向某人致敬
+hand of God
+天灾；不可避免的灾祸
+hand of writ(或write)
+[苏格兰英语]
+笔迹，手迹；书法
+书法家
+hand over fist
+迅速地，平稳快捷地
+(爬绳、游泳等时)双手交替运用地
+[口语]容易地，不费气力地
+[口语](尤指钱)大量地
+hand over head
+[古语]
+冒冒失失地，轻率地，鲁莽地
+飞快地
+hands down
+容易地，轻易地，毫不费力地
+无疑地
+Hands off!
+[参观警示语]请勿动手!
+不许碰! 别动!
+Hands up!
+[美国英语]举起手来!不许动!
+hand to fist
+[口语]亲密地
+hand to hand
+(战争等)逼近地，短兵相接地，肉搏地
+hand heavily(或heavy) on one's hands
+(时间)过得缓慢而沉闷无聊
+have a free hand
+不受约束，得以自由行动，可全权处理，能够不受干扰地自行决策，能放手去做
+have(或hold) a good hand
+【牌戏】拿到一手好牌
+有可能成功，占上风，取得决定性的优势
+have(或take) a hand in(或at)
+参与到…中间，参加；与…有关
+have a hand like a foot
+笨手笨脚，笨拙
+have…in hand
+开始做，着手，开始
+控制，掌握；制服
+have long hands
+极有势力(或权力)
+have one's hands free
+没事做，空闲
+可以自由行动
+have one's hands full
+手里有许多工作要做，很忙，忙得不可开交
+have one's hands tied
+被牵制，被束缚，不能自由行动
+have someone's fate(或life) in one's hands
+掌握着某人的生死(或命运)
+have something (或someone) well in hand
+完全控制了某事(或某人)
+have the better hand
+占上风，占优势
+have the cards in one's hands
+见 card
+heart and hand
+见 heart
+heavy (或iron) hand
+高压手段，严酷的手腕
+heavy in (或on) hand
+(马)难以驾驶的
+(人)难对付的；行动迟缓的，头脑迟钝的
+枯燥无味的
+Here's my hand upon it.
+我赞成。
+hold hands
+(表示信赖、爱情等的)手拉手
+hold (或keep) in hand
+控制，掌握
+[废语]
+a) 玩弄
+b) 将信将疑；抱着期望
+hold one's hand (或hands)
+罢手，住手，手下留情
+hold someone's hand
+握住某人的手
+给某人以指导，在精神上支持某人；帮助某人克服困难
+hold up one's hands
+举手投降
+举手同意(或赞同)
+in a dead hand
+【法律】(不动产)为无让与权的法团所有
+in good hands
+在可靠(或内行)的人手里；受到十分好的照料
+in hand
+在掌握中，在控制下
+在手头，手头现有的，可使用的
+在支配下的；在保护下的
+办理中的，进行中的；考虑中的；当前的
+负责办理的；承担下来的
+in safe hands
+在可靠的人手中
+in the hands of someone (或in someone's hands)
+掌握在…手中，在…支配之下，被…控制
+由…照料
+由…负责(或处理)
+in the turn (或turning) of a hand
+立刻，马上，顷刻之间
+iron hand in the velvet glove
+外柔内刚，外宽内严
+join hands (with)
+(与…)握手；(同…)携手联合
+(同…)合伙
+(与…)结婚，(和…)结为夫妻
+keep a firm (或tight) hand on
+对…实行严密控制(或有力的控制)，紧紧抓住(或控制住)[亦作keep one's hand on]
+keep a slack hand
+放松缰绳
+放任自流；漫不经心地管理(事物)，懈怠
+keep a tight hand on someone
+紧紧掌握(或控制)住某人
+keep in hand
+掌握，控制，管理
+保留，留存
+keep one's hand in
+不间断地练习以保持技术熟练，使技术不致荒废
+继续保持对…的控制权，继续过问
+keep one's hands in one's pockets
+懒散；游手好闲
+keep (one's) hands off
+不拿取
+不接触
+不干涉
+keep one's hand on
+抓住
+控制，掌握
+kiss hands (或kiss the hand, kiss the Queen's hand)
+吻(女)君王的手
+kiss one's hand to
+向…飞吻，给…飞吻
+last hand
+最后的润色；最后的几笔
+lay a hand on
+[口语][仅用于否定句或疑问句]动手打人
+lay hands on (或upon)
+抓到，拿到；得手
+碰至，触及；(主教)施坚信礼
+袭击；动手打人，施暴
+(对女性)动手动脚
+lay hands on oneself
+自杀
+lay hands on the ark
+亵渎圣物，冒渎神圣
+laying on of hands
+【宗教】按手礼
+lay violent hands on
+向…施暴(或行凶)
+杀害，下毒手
+lend a hand
+[口语]帮忙，拉一把
+let someone's left hand know what his right hand is doing
+合作者之间互通情报
+lie on someone's hands
+(商品)未脱手，没卖出，滞留在某人手中
+(钱、物)尚未使用
+(时间)令某人感到无聊，(时日)过得缓慢[亦作 lie on hand]
+lift a hand
+只费举手之劳，不费吹灰之力
+lift one's hand against (或to)
+动手打，伤害；攻击，袭击
+lift (up) one's hands (或hand)
+举手宣誓
+light hand
+巧手；熟练的手艺
+节制；温和
+light in hand
+(马)容易驾驭的
+(人)易处的，容易对付的
+live by one's hand
+靠体力劳动生活
+live from hand to mouth
+仅能𪤛口，半饥半饱；只能顾眼前
+make (或take) a hand at
+参与，参加
+make a hand of
+从中得利，从…捞一把
+有进展；成功
+make no hand of
+[口语]不能解释(或说明)
+marry with the left hand
+贵族男子和身份低的女子结婚
+near at hand
+在手边；在附近
+迫近，即将到来
+not do a hand's turn
+不干一点体力劳动，不做最微弱的努力
+not let one's left hand know what one's right hand does
+不要宣扬自己的善行
+not lift a hand
+什么也不做，不愿费举手之劳，连试都不试
+not much of a hand at
+= a bad hand at
+odd hand
+做杂工(或短工)的人
+offer one's hand
+伸出手来(握手)
+(向女子)求婚
+off hand
+没有准备的；未加思索(或考虑)的，即席的
+不大客气的，随便的
+马上，立刻，即刻；无准备地，即席
+off someone's hands
+不再由某人负责(或照料)
+(任务、工作)完成
+(货物)脱手，卖出
+oil someone's hand
+向某人行贿
+on (或at) every hand
+在各方面，四面八方，到处
+普通地，大家一致地
+on either hand
+在两边
+(one's) hand be up
+举手(打招呼或要求发言等)
+one's hand is in
+做熟，熟练起来
+one's hand is out
+手生了，技巧生疏了
+one's hands are full
+碰到许多困难
+忙得不可开交
+on hand
+附近
+[美国英语]即将到来(或发生)
+[美国英语]在手边，在附近
+[美国英语]现有的，存有的
+[美国英语]到场，出席，在场
+on one's (或someone's) hand
+由某人负责(或照料)，归某人支配
+on the advancing(或growing, thriving) hand
+在进步中，在增长中
+蒸蒸日上，日趋繁荣
+on the bow hand
+离题太远；离目标太远
+on the mending hand
+(病情或事态等)在好转中
+on the other hand
+另一方面，但是
+open hand
+豪爽，慷慨
+out of hand
+不受约束，无法控制，失去控制
+完结，结束，告终；脱手
+立即，马上；临时，无准备地
+out of someone's hands
+不再由某人负责(或掌管)
+非某人所控制
+overplay one's hand
+【牌戏】因过高估计手中牌力而输牌
+过于冒险，做事太过头，过高估计自己的力量
+pass into someone's hands(或the hands of someone)
+转到某人手里
+pass through many hands
+经过许多人之手
+play a lone hand
+[美国英语] 单枪匹马地干，独立经营 [亦作 play one's hand alone]
+play for one's own hand
+全替自己打算，为自己的利益做事
+play into (someone's) hands
+(因疏忽而)做对某人(尤指对手)有利的事，给某人以可乘之机，(因失算而)使某人占便宜
+play one's hand for all it is worth
+尽最大的努力；充分利用现有的机会
+play one's hand for all there's in it
+利用一切手段达到目的
+play one's hand openly
+公开自己的计划(或意图)
+poor hand
+不熟练的人
+pump someone's hand
+[口语]同某人热烈握手，使劲握某人的手
+put (或stretch) forth one's (或the) hands against
+对…行凶(或动武)
+put in hand
+开始，着手
+put into someone's hand
+把…交到某人手里
+把…托付给某人
+put oneself in (或into) someone's hand
+把自己交给某人，听凭某人处理
+put one's hand in (或into) a hornet's (或hornets') nest
+捅马蜂窝，成为众矢之的，触犯公怒
+put one's hand in one's pocket
+付款，支付，认捐，慷慨解囊
+put one's hands on
+触，摸
+(轻易)找到
+put one's hand on one's heart
+做出庄严声明(或保证)
+put (或set) one's hand to
+着手做(某事)
+put (或set) one's hand to the plough
+着手工作，动手做；开始过某种生活
+put one's hand up
+(表示同意、赞同或要求发言等时的)举手
+(表示投降等)举起手来
+put the last hand to
+做最后几笔(或润色)；完成
+raise one's hands against
+准备对…动武，动手打(某人)；威胁(某人)
+read someone's hand
+给某人看手相
+ready to (one's) hand
+在手头，在手边，伸手可取
+red hands
+血腥的手，沾满鲜血的双手
+right hand
+右手，有力的手
+友谊之手；欢迎之手
+上席，上座，荣誉席位；优先地位
+得力助手，亲信
+right hand of fellowship
+同意某人入伙的表示
+【宗教】表示教友关系
+rub one's hands
+(因高兴、不知所措等)搓自己的双手
+rule with a heavy (或high) hand
+以严厉手段对待；用高压手段统治，实行专制统治
+see the hand of God in
+(认为)是神力所致
+seize with both hands
+(用双手)急切抓住(或利用)
+send something by hand
+托人(或派人)把东西送去(或带去)
+set (a) hand to something
+着手去做(某事)
+set one's hand to something
+着手，从事
+在…上签名；批准，认可，承认
+shake hands
+相互握手[亦作 shake someone's hands]
+离开某事物，和某事物告别
+握手表示同意；握手成交
+shake hands with oneself
+庆贺自己
+shorten the hand of someone
+限制某人的权力
+short of hands
+缺少人手
+show of hands
+举手(表决)
+show one's hand
+摊牌；公开自己的真正意图(或目的)
+sit on one's hands
+[美国英语]
+(观众)不鼓掌；表示不赞成
+旁观，按兵不动
+slip out of (或from) someone's hands (或hand)
+逃脱某人的掌握；从某人手中滑脱
+slip something into someone's hand
+悄悄把某物塞给某人
+soil one's hands
+做了不名誉的事
+stand one's hand
+[口语]请大家喝酒，为大家付酒钱
+stay one's hand
+住手，放弃不干
+stay someone's hand
+使某人住手，阻止某人去做
+steady hand
+不颤抖的手
+果断的手腕；坚定的领导
+stick your hands up
+[口语]把手举过头，把手举起来[匪徒用语][亦作 stick 'em up]
+stir a hand
+帮忙， 尽举手之劳
+strengthen someone's hands(或hand)
+增强某人的资本(或实力)，加强某人的地位
+支持某人的论点；鼓励某人积极行动
+stretch out a helping hand
+(向某人)伸出援助之手，助一臂之力；欣然帮助(某人)
+strike hands
+击掌定约；成交，达成协议
+take a hand at (或in)
+玩(纸牌游戏)
+参与；介入
+take gifts (或money) with both hands
+接受利害相反双方的贿赂，两面要钱
+take in hand
+(对某事)担负起责任，承担(某事)
+接手办理，处理，负责照顾(或管理、指导)
+尝试
+take her by the hand
+[美国英语] 由总统亲自干预以制止种族歧视
+take matters into one's own hands
+自行其是
+take…off someone's hands
+[口语]使某人摆脱对…的责任(或负担)
+take oneself in hand
+控制自己
+take out of someone's hands
+卸掉某人对…的责任
+take the high hand
+采取专横手段
+take the left hand of someone
+在某人的左侧
+the hidden hand
+幕后操纵者，背后的势力
+the upper(或whip) hand
+优势，上风，有利地位
+throw in one's hand
+退出竞争
+放弃尝试，认输
+throw on (或upon) someone's hands
+让某人负起…的责任，把…推给某人去管
+throw up one's hands
+举起手来；绝望
+撒手不管
+举手投降，认输
+tie (up) one's(或someone's) hands
+缚住某人的双手，使某人受束缚，让某人束手无策
+tip one's hand
+(无意中)暴露自己的意图(或计划)
+to hand
+(近)在手边；唾手可得
+劳动所得
+收到
+受控制，被征服
+to one's hand
+到手，得到
+try one's hand (at)
+尝试一下，试试身手，在…试试才能
+turn a hand
+转手；交给助手处理
+[常用于否定句]帮一点忙，助一臂之力
+turn a(或one's) hand to
+着手，从事
+under hand
+私下，暗中[亦作underhand]
+有人照顾
+受到控制
+under one's hand
+在手边，马上就能用
+经本人亲笔签名(并盖章)，由某人署名
+wash one's hands
+[委婉语]上厕所
+搓手，干洗手
+洗手不干，彻底断绝(与…的)关系
+wash one's hands of
+不再管，不再过问；拒绝对…(继续)承担责任，不再负责
+完全退出，洗手不干
+wash one's hands with (或in)invisible soap (and imperceptible water)
+(因紧张、不安、拘束等)搓手
+whip hand
+持鞭子的人
+支配地位，优势
+win hands down
+【赛马】毫不费力地获胜
+轻易得胜
+win someone's hand
+得到某女子同意结婚
+with a bold hand
+大胆地，蛮横地，傲慢地
+with a firm hand
+坚决地，毫不动摇地
+with a heavy hand
+压制地，专制地；粗暴地，暴虐地
+冷酷地，无情地
+不中用；笨拙地
+苛刻地；严厉地
+with a high hand
+用高压手段；专断地；傲慢地
+with an iron hand
+以铁腕，严厉地
+with an open hand
+手头大方地，慷慨地
+with a sparing hand
+吝惜地；节俭地
+with a(或the) strong hand
+用强硬手段；断然地
+with both hands
+全力以赴地，尽其所能地
+with clean hands
+清白无辜地
+廉洁地
+with one hand(或hands) tied behind one's back
+[口语]把苦处咽在肚里
+with one's bare hands
+赤手空拳地，徒手
+with open hand (或hands)
+= with an open hand
+wring one's hands
+(因失望、痛苦、悲哀等)用力绞扭自己的双手，绞手，扭手
+wring someone's hand
+(热情地)紧握某人的手
+write a good(或fair)hand
+写得一手好字
+younger hand
+见young"
+does,v. 做；工作；有用（do的第三人称单数形式）
+leg,"挑选,采集"
+feet,"pl. 脚
+n. 尺"
+doesn't,aux. 表示否定
+family,[网络] 家族；家庭
+people,"n. 人, 人民, 民族, 平民
+vt. 使住满人, 居住于"
+there,[网络] -那里
+who,[医] 世界卫生组织
+brother,"brother
+['brʌðə]
+n.
+兄弟(常指人，有时也指动物)
+[亦称half brother](同父异母或同母异父的)兄弟
+继父与其前妻(或继母与其前夫)所生之子
+奶兄弟
+(有亲属关系的广义上的)兄弟
+(兄弟般的)密友，挚友，伙伴；同胞，国人
+[复数常作brethren]同行业(或教会、团体)的人，同业，同人，同事；教友，会友
+【基督教《圣经》】男亲戚
+【基督教】(某些教派的)牧师兄弟[后接专有人名或作称呼语]
+同种族的人
+【教会】
+(修道院里做杂役的)僧侣，托钵僧；(尚未晋升神父的)修士
+[B-](不担任圣职的)教会在俗人员，(教会中非神职)教士
+[总称]人；人类[尤用于值得同情、敬意之时]
+[美国黑人英语]黑人兄弟，黑人同胞(泛指黑人或与黑人利益密切相关的人)；(美国)黑人男子
+[俚语、称呼语]老兄，朋友，家伙[尤多用于不知对方姓名时]
+vt.
+兄弟般地对待；以兄弟相称，称…为兄弟，称兄道弟；把…接纳加入兄弟会
+adj.
+同行业的
+interj.
+[俚语][用以表示失望、厌恶、惊讶等强烈感情]我的老兄!天哪!
+短语:
+a brother of the angle
+垂钓者，钓友[见 angle¹]
+brother chip
+[英格兰北部用语]相貌、性格等极其相似
+同行，同业者，同行业的工人
+brother doctor
+加入医师公会的医生
+brother it
+做兄弟应做之事；尽兄弟之责
+brother of the brush
+画友；画家；油漆匠
+brother of the quill
+著述家
+brother of the spigot
+小酒店主人，酒保[戏谑语]
+brother in arms
+战友，袍泽(指正在或曾在部队服役的军人)
+uterine brother
+(同母异父的)隔山兄弟
+变形：
+n.
+brothers或 brethren"
+sister,[网络] 姐妹
+grandma,"n. 奶奶, 外婆"
+grandpa,"爷爷, 老太爷, 外公"
+father,[网络] 父亲
+mother,"n. 母亲；大娘；女修道院院长
+vt. 生下；养育；像母亲般关怀或照管
+adj. 母亲的；出生地的"
+he,"abbr. 阁下；高等教育
+[网络] 他；氦(helium)；贺"
+she,"pron. 她；它；船或车等
+n. 〈口〉女性；雌性动物
+[网络] 佘；就是她；伊"
+come,"v. 来；来到；发生；成为
+n. 精液；精子
+int. 得啦
+prep. （提及的时间）到来
+[网络] 来吧；过来；前来"
+school,"n. 学校, 鱼群, 门派, 学派
+vt. 教育, 训练, 培养
+vi. 成群地游"
+go,[网络] 困觉；绿基色输出；格拉苏蒂
+bus,"n. 公共汽车；巴士；（计算机系统的）总线
+v. 用公共汽车运送
+[网络] 汇流排；公交车；公车"
+train,"n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序
+vt. 训练, 教育, 对准
+vi. 受训练, 锻炼"
+ship,n. [英国俚语](在同一工头下工作的)排字组 ( = companionship)
+taxi,"n. 出租车
+vi. 乘出租车
+vt. 用出租车送"
+home,[网络] 网站首页；用户文件；回首页
+by,[网络] -通过
+about,"prep. 关于；大约
+adj. 在附近的；四处走动的；在起作用的
+adv. 大约；周围；到处
+n. 大致；粗枝大叶；不拘小节的人
+n. (About)人名；(法)阿布"
+what about,adv. 怎么样，以为如何（提出建议或用以引出话题）
+on foot,"na. 步行；在进行中；徒步
+[网络] 走路；步行时；走路去"
+whose,pron. 谁的
+coat,"n. 外套
+vt. 外面覆盖, 给...穿外套"
+wear,"n. 穿著,磨损,耐久性
+v. 穿著,用旧,耗损
+n. (Wear)人名；(英)韦尔"
+dress,"n. 服装, 覆盖物
+vi. 穿着
+vt. 给...穿衣, 整理"
+trousers,"pl. 裤子, 长裤"
+skirt,"n. 裙子, 下摆, 边缘, 郊区
+vt. 位于...边缘, 绕过, 回避
+vi. 位于边缘"
+cap,[计] 压缩音乐文件格式
+sweater,"n. 毛衣, 毛线衫, 运动衫, 出汗者
+[化] 发汗器"
+shoes,n. 鞋子（shoe的复数）
+socks,"短袜, 袜子, 鞋内的衬垫, 轻软鞋, 巨款, 存款, 存钱处, 银箱, 拳打, 一击, 重击"
+very much, 非常; 良; 无可不可
+her,"pron. 她的；她
+n. (Her)人名；(法)埃尔"
+his,"pron. 他的
+[化] 组氨酸"
+like, 类似…的；有…特征的
+candy,[网络] 服务又分青少年
+cake,"n. 蛋糕, 块, 饼
+vt. 使结块, 加块状物于
+vi. 结块"
+bread,"n. 面包, 生计, 食物
+vt. 裹以面包屑"
+cookie,"n. 饼干, 小甜点
+[建] 糕点"
+tea,"n. 茶叶；茶树；茶点
+vt. 给…沏茶
+vi. 喝茶；进茶点
+n. (Tea)人名；(柬)迪"
+grapes,"[医] 马体葡萄疮, 牛结核"
+banana,n. 香蕉
+can,[=child abuse and neglect]虐待和忽视儿童
+find,"vt. 发现, 感到, 找到, 认为, 得到
+vi. 裁决
+n. 发现
+[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中
+寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
+chair,[网络] 委员长
+desk,"desk
+[desk]
+n.
+书桌，办公桌，写字台，绘图桌
+【宗教】
+(教堂中的)读经台
+[美国英语]讲道台；讲坛，布道坛
+文书(或办事员等)的职位(或职业、工作)
+(旅馆服务员)工作台，(旅馆、办公楼等中的)服务台(用作旅客登记、邮件收发等)；(值勤人员的)工作台；问讯台，出纳台
+服务台等的工作人员
+[美国英语](报馆)编辑部
+【音乐】
+(管弦乐队的)乐谱架；(两位管弦乐师合用的)乐谱架
+(合用乐谱架的)两位管弦乐师
+(管弦乐队的)乐师席，演奏者席
+(政府部门、报社等内的)部，司，室，组
+【计算机】
+桌面
+控制台，操纵台；试验台
+面板，控制板
+adj.
+书桌的，办公桌的，写字台的
+台式的，书桌(或办公桌、写字台)上用的
+坐办公室的，在办公桌上做的，伏案做的，案头的"
+window,[网络] 学习环境
+door,n. 门
+floor,"n. 地板, 楼层, 底部, 底价
+vt. 铺地板, 打倒
+n. 地面, 地板, 基底
+[计] 基底"
+classroom,室
+excuse me,对不起
+on,suf. 表示“非酮(或氧基)化合物”：parathion; 表示：[生物学]“…子(指基本遗传成分)”; [物理学]“…子(指基本粒子或量子)”; [化学]表示“惰性气体”：neon
+thanks,[网络] 多谢；感谢的
+under,[网络] 下面
+near,"a. 近的, 近亲的, 近似的
+adv. 接近, 亲近
+prep. 靠近, 近似于
+v. 接近, 走近"
+TV,"n. 电视；电视机
+abbr. (=television)
+[网络] 电视(television)；电视剧；快门优先"
+student,"n. 学生, 研究者, 学者"
+teacher,"n. 教师, 老师, 导师"
+blackboard,[网络] 黑板；黑板效果；黑板上书写的文字
+fan,"fan1
+[fæn]
+n.
+任何通过扇动引起空气流动的装置
+(羽毛、纸或布做的)扇子
+风扇
+扇形物(如鸟尾等)
+(风车的)翼，叶片，螺旋桨
+扬谷机
+【地理学】扇状三角洲际
+[俚语](扒手为探明钱物的部位，用手在扒窃对象身上)快速的一摸
+vt.
+(用扇子)扇：
+He fanned the fire.
+他用扇子扇火。
+(用扇)向…搧风；吹凉(食物等)：
+She fanned her face with a paper.
+她用纸向脸上搧风。
+煽动，鼓动，激起：
+to fan resentment
+激起忿恨
+(用扇)驱赶
+把…展成扇形：
+She fanned out the cards in her hand.
+她将纸牌在手中展成扇形。
+风选(谷)；扬去(糠、杂物等)
+[美国俚语]
+拍击，拍打
+(用枪)连击
+[美国英语]【棒球】使(击球员)三击不中出局
+vi.
+飘动，轻拂：
+the flag fanning in the breeze
+微风中飘动的旗帜
+成扇形展开(常与out连用)：
+The troops fanned out as they advanced.
+部队向前推进时呈扇形散开。
+The fire fanned out in all directions.
+大火向四周呈扇形蔓延。
+[美国英语]【棒球】(击球员)三击不中出局
+[口语]闲聊
+[口语](为窃取钱币)拨弄公用电话机的贮钱装置
+[英国英语](扒手为探明钱物往扒窃对象身上)快速地一摸
+短语:
+fan someone's tail
+打屁股
+flirt a (或 one's) fan
+一下子把扇子打开(或合拢)
+灵活地挥动扇子
+hit the fan
+[美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响
+变形：
+vt.
+fanned
+. fanning
+fan2
+[fæn]
+n.
+[美国口语](运动、娱乐等的)狂热者，爱好者，热心之士，…迷；(对演员、电影明星的)狂热仰慕者"
+light,"n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光
+a. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的
+vt. 点燃, 照亮
+vi. 点着, 变亮, 突降, 偶然碰到
+adv. 轻地"
+twenty,"n. 二十几；二十年代
+num. 二十
+[网络] 二十个；廿；第二十"
+eleven,"num. 十一, 十一个"
+twelve,"num. 十二, 十二个"
+thirteen,"num. 十三, 十三个"
+fourteen,"num. 十四, 十四个"
+fifteen,"num. 十五, 十五个"
+sixteen,"num. 十六, 十六个"
+seventeen,"num. 十七, 十七个"
+eighteen,"num. 十八, 十八个"
+nineteen,"num. 十九, 十九个"
+long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
+adj. （长度或距离）长的；（询问或谈论长度或距离）长；长时间的；长久的
+adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
+v. （尤指对看似不会很快发生的事）渴望
+[网络] 长整型；长整数；多头"
+see,"vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+small,"a. 小的, 少的, 小型的, 低微的, 小气的, 细微的
+adv. 些微地
+n. 狭小部分"
+tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
+short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
+adv. 简短地, 突然
+n. 扼要, 短片, 缺乏
+vt. 故意少给, 使短路"
+grass,"n. 草, 草原, 牧场
+[医] 草, 禾本"
+tree,[网络] 树；树结构；连通图为树
+but,"conj. 而；然而；只有；尽管如此
+prep. 除了；除…之外
+adv. 只有；仅仅
+n. 借口；托辞
+v. 对(某人)讲“但是”(以示反对,拒绝等)
+[网络] 可是；不过；而是"
+its,"pron. 其
+short. it is；it has
+adv. （指事物、动物或婴儿）它的
+[网络] 智能交通系统(Intelligent Transportation System)；智能运输系统"

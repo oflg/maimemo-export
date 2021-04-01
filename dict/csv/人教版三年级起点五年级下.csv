@@ -1,156 +1,557 @@
-﻿eat breakfast,
-have ... class,
-play sports,
-exercise,"n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
-do morning exercises,
-eat dinner,
-clean my room,
-go for a walk,
-go shopping,
-take,"v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
-dancing,n.舞蹈
-take a dancing class,
-when," conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
-after,"adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
-start,"n.动身,出发点,开始,惊起,惊跳,赛跑的先跑权,优先地位v.出发,起程,开始,着手,惊动,惊起,起动,发动  削减战略武器条约START(Strategic Arms Reduction Treaty)"
-usually,"adv.通常,大抵"
-Spain,
-late,"adj.迟的,晚(期)的,已故的,新近的adv.晚,迟,最近,在晚期"
-a.m.,
-p.m.,
-why,"adv.为什么,...的(理由)int.(表吃惊,满意等)哎呀!什么?"
-shop,"n.商店,店铺vi.买东西,购货"
-work,"n.工作,劳动,操作,职业,[物]功,手工,作品,机件v.(使)工作,(使)运转,起作用,造成,产生,经营,(使)渐渐移动,煅制"
-last,"adj.最后的,临终的,末尾的,最近的,结论性的vi.持续,支持,维持vt.使维持,楦adv.最后,后来n.最后,末尾,临终,鞋楦头"
-sound,"n.声音,语音,噪音,吵闹,海峡,听力范围,探条adj.健全的,可靠的,合理的,有效彻底的,健康的adv.彻底地,充分地vi.发出声音,回响,测深,听起来vt.使发声,宣告,听诊,测...深,试探"
-also,"adv.也,同样"
-busy,"adj.忙碌的,热闹的,临时占用的"
-need,"n.需要,必需,必需品,要求,贫困vt.需要 modalv.必要,必须"
-play,"n.游戏,比赛,运动,赌博,剧本v.玩,扮演,播放,进行比赛v.播放"
-letter,"n.文字,字母,信函,字面意义,铅字,(pl.)证书,(pl.)文学,学问vt.用字母标明,在...上刻(或题)字vi.写印刷体字母"
-live,"adj.活的,生动的,精力充沛的,实况转播的,点燃的vi.活着,生活,居住,流在人们记忆中vt.过着,度过,经历adv.以实况地"
-island,"n.岛,岛屿,岛状物(孤立状态的物),安全岛vt.使成岛状,孤立"
-always,"adv.总是,永远,始终"
-cave,"n.洞穴,窑洞vi.凹陷,投降vt.挖洞,使凹陷"
-go swimming,
-win,"v.(获)胜,赢得,劝诱,取得胜利n.赢,胜利"
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-summer,"n.夏季vi.避暑,过夏天adj.夏季的,在夏季的"
-autumn,"n.秋天,成熟期,渐衰期"
-winter,"n.冬,冬季,萧条期,衰退期adj.冬天的vt.对...进行冬天保护vi.过冬"
-season,"n.季,季节v.(使)适应,(使)适用,调味"
-picnic,n.野餐vi.(去)野餐
-go on a picnic,
-pick,"n.精选,掘,鹤嘴锄vt.摘,掘,凿,挑选,挖,挑剔vi.摘,掘,凿,挖,挑选v.拾取"
-pick apples,
-snowman,n.雪人
-make a snowman,
-go swimming,
-which," pron.哪个,哪几个,...的,...那个adj.哪个"
-best,"adj.最好的adv.最好地,最,极n.最佳状态或作品,最好的东西"
-snow,n.雪vi.下雪
-good job,
-because, conj.adv.因为
-vacation,"n.假期,休假,(房屋等的)腾出v.<美>度假,休假"
-all,"adj.全部的,所有的,整个的adv.完全,更加,越发 pron.全部"
-pink,"n.粉红色,石竹花,化身,极致,精华adj.粉红的vt.刺,扎,刺痛,使变粉红色vi.变粉红色"
-lovely,"adj.可爱的,有趣的"
-leaf,"n.叶,树叶,(书的)一张(两叶),页vi.生叶,翻书页vt.翻...的页"
-fall,"n.秋天,落下,瀑布,降低,落差,采伐量,堕落,下降vi.倒下,落下,来临,失守,变成,垮台,下跌,阵亡vt.<美><英方>击倒,砍倒(树木)adj.秋天的"
-paint,"n.油漆,颜料,涂料v.油漆,(用颜料等)画,绘,描绘,逼真地描述"
-January,
-February,
-March,
-April,
-May,
-June,
-July,
-August,
-September,
-October,
-November,
-December,
-few,"adj.很少的,不多的,少数的n.[表示否定]很少数,几乎没有"
-a few,
-thing,"n.东西,物,[pl.] 所有物,用品,事,事情,事件,[pl.] 事态"
-meet,"n.会,集会adj.适宜的,合适的vt.遇见,(迎)接,与(某人目光)相遇,(赴约)和...会面,(经介绍)与...相识,对付vi.相遇,接触"
-sports meet,
-Easter,
-trip,"n.(短途)旅行,绊倒,摔倒,失足,往返,差错,支吾,旅程vt.使跌倒,使犯错,使失败,挑剔vi.轻快地走,摔倒,绊倒,失足,结巴,远足,犯错,旅行"
-year,"n.年,年龄,年岁"
-plant,"n.植物,庄稼,工厂,车间,设备vt.种植,栽培,培养,安置vi.种植"
-contest,"n.论争,竞赛v.,争论,争辩,竞赛,争夺"
-the Great Wall,
-national,"adj.国家的,国立[有]的,民族的"
-National Day,
-American,
-Thanksgiving,
-Christmas,
-holiday,"n.假日,节日,假期"
-game,"n.比赛,游戏,竞赛,[复]运动会,玩耍,比分,比赛规则,策略vi.赌博adj.勇敢的,有胆量的,关于野味的,跛的"
-roll,"adj.滚动,滚转,(使)摇摆,(使)摇晃,卷起,卷拢vt.辗,轧n.(一)卷,卷形物,摇晃,摆动,名单"
-look for,
-chocolate,"n.巧克力,巧克力色"
-bunny,n.小兔子(儿童对兔子的昵称)
-RSVP,
-by," prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
-first,"adv.首先,最初,第一(列举条目等用),优先adj.第一的 num.第一(个)n.开始,第一,(比赛)冠军"
-second,"n.秒,片刻,第二者,第二人,助手,次货,二等品adj.另一个,又一个 num.第二vt.赞成,支持"
-third," num.第三,三分之一"
-fourth, num.第四个
-fifth,adj.第五的
-twelfth, num.第十二
-twentieth,"adj.第二十的,二十分之一的n.第二十(个),二十分之一,(月)的第二十日"
-twenty-first,
-twenty-third,
-thirtieth," num.第三十,三十分之一"
-special,"n.特派员,专车,专刊adj.特别的,特殊的,专门的,专用的"
-fool,"n.愚人,白痴,莽汉,受骗者,奶油拌水果vt.愚弄,欺骗,浪费vi.干傻事,开玩笑,游荡adj.傻的"
-kitten,"n.小猫,小动物"
-diary,n.日记
-still,"n.寂静,剧照,照片adj.静止的,静寂的adv.还,仍,更,还要,尽管如此,依然 静止画面,静态图片"
-noise,"n.喧闹声,噪声,噪音"
-fur,"n.毛皮,毛,软毛"
-open,"n.公开,户外,空旷adj.开着的,敞开的,(车等)无篷的,开阔的,营业着的,公开的,坦率的,未决定的vt.打开,公开,开放vi.展开,开始,展现"
-walk,"vi.步,行,走n.步行,散步,步,行道"
-mine,"n.矿,矿山,矿井,源泉,宝库,地雷,水雷vt.挖掘,开采,在...布雷,破坏vi.开矿,埋设地雷 pron.我的"
-yours," pron.你的,你们的"
-his, pron.他的
-hers, pron.她的
-theirs," pron.他们的(所有物),属于他们的(东西)"
-ours, pron.我们的
-climbing,"adj.攀登的,上升的n.攀登"
-eating,"n.吃,食物adj.食用的,可生食的"
-playing,
-jumping,adj.跳跃的
-drinking,"n.喝,喝酒"
-sleeping,n.睡眠adj.睡着的
-each,"adj.各自的,每个的,每一 pron.各,各自,每个adv.每个"
-other,"adj.其他的,另外的,从前的 pron.其他的,他人,另外一个adv.另外地,不同地"
-each other,
-excited, 兴奋的
-like,"n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
-doing morning exercises,
-having ... class,
-eating lunch,
-reading a book,
-listening to music,
-keep,"n.保持,保养,生计,监狱,[史]要塞vt.保持,保存,遵守,经营,看守,拘留,维持,记(日记,帐等)vi.保持,继续不断"
-keep to the right,
-keep your desk clean,
-talk quietly,
-turn,"n.转动,旋转,转变方向,轮流,时机,(一)回,倾向,癖性v.(使)转动,翻转,扭转,(使)变质,超过(年龄,数量等),车(成)"
-take turns,
-bamboo,n.竹子
-its, pron.它的
-show,"n.表示,展览,炫耀,外观,假装v.出示,指示,引导,说明,显示,展出,放映"
-anything, pron.任何事
-else,"adj.别的,其他的adv.另外,其他"
-exhibition,"n.表现,展览会,展览品,显示"
-say,"v.说,讲,背诵,念,表示,比方说,假定n.话语,想说的意见,发言权"
-have a look,
-sushi,
-teach,"v.讲授,教授"
-sure,"adj.对....有把握,确信某事,稳当的,可靠的adv.的确,当然"
-Canadian,
-Spanish,
+﻿do morning exercises, 做早操; 晨练
+eat breakfast,[网络] 吃早饭；吃早餐；食早餐
+eat breakfast,[网络] 吃早饭；吃早餐；食早餐
+have ... class,[网络] 上课；指上课；该上课了
+have English class,无
+play sports, 参加体育运动或比赛
+play sports, 参加体育运动或比赛
+exercise,"n. 行使, 执行, 运动, 练习, 作业
+vt. 运用, 练习, 运动
+vi. 练习, 锻炼"
+eat dinner, 吃晚饭
+do morning exercises, 做早操; 晨练
+when,"conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+eat dinner, 吃晚饭
+about,"prep. 关于；大约
+adj. 在附近的；四处走动的；在起作用的
+adv. 大约；周围；到处
+n. 大致；粗枝大叶；不拘小节的人
+n. (About)人名；(法)阿布"
+clean my room,无
+policeman,"un. 警察
+[网络] 警察大哥；你是警察；波丽士大人"
+go for a walk,散步
+work,"n. 工作；作品；劳动；功
+v. 劳动；干活；奏效；运行
+[网络] 运转；职业；有效"
+go shopping,去买东西
+evening,"n. 晚上；傍晚；（联欢性的）晚会；后期
+adj. 在晚上的；为晚上的；晚上用的
+int. 晚上好（等于good evening）"
+take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+get up,"na. 起床；起身；站起来；叫…起床
+[网络] 起立；打扮；安排"
+dancing,"n. 舞蹈
+[建] 跳动的"
+at,"prep. 朝；向；在（某处）；在（表示学习或工作地点）
+abbr. (=astatine)【化】(=Air Transport)
+[网络] 自动变速箱(Automatic Transmission)；奥地利(Austria)；砹"
+take a dancing class,无
+usually,"adv. 通常, 大抵"
+when,"conj. 当...的时候
+adv. 何时, 什么时候
+pron. 什么时侯
+n. 时间"
+noon,"n. 正午, 中午, 全盛期"
+after,"prep. 在...之后, 由于
+conj. 在...之后
+adv. 后来"
+tell,"vt. 告诉, 说, 吩咐, 断定, 知道
+vi. 讲述, 泄密, 告发, 表明"
+start,[网络] 开始；星星踢；明星踢
+climb mountains,v. 爬山
+usually,"adv. 通常, 大抵"
+go shopping,去买东西
+Spain,n. 西班牙
+play the piano, 弹钢琴
+late,"a. 迟的, 晚的, 已故的
+adv. 很晚, 很迟, 晚"
+visit grandparents,无
+a.m.,"abbr. 调幅；振幅调制；议员（威尔士议会成员）
+[网络] 调幅(amplitude modulation)；上午(a.m.)；是"
+go hiking, 远足
+p.m.,"abbr. (=prime minister)总理；首相；午后
+n. 总理（全写为 prime minister）
+[网络] 下午；项目管理(Project Management)；颗粒物(particulate matter)"
+weekend,n. 周末
+why,"adv. 为何；（反问，表示不必）何必；（说明理由）为什么
+n. 原因；难解的问题
+int. 嗨
+[网络] 为什麽；为什么做；何故"
+often,adv. 常常，时常
+shop,"n. 商店, 工厂, 车间
+vi. 购物, 到处寻找
+vt. 选购"
+sometimes,[网络] 几次；好几次；数次
+work,"n. 工作；作品；劳动；功
+v. 劳动；干活；奏效；运行
+[网络] 运转；职业；有效"
+rain,"n. 雨, 下雨, 雨天
+vi. 下雨
+vt. 使大量落下"
+last,"a. 最后的, 末尾的, 最近的
+vi. 持续, 支持, 维持
+vt. 使维持, 够...用
+adv. 最后, 后来
+n. 最后, 末尾, 鞋楦头"
+either,[网络] 其他
+sound,"n. 声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡
+a. 健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的
+adv. 彻底地, 充分地
+vi. 发出声音, 回响, 测深, 试探, 听起来
+vt. 使发声, 宣告, 听诊, 测...深, 试探
+[计] 声音"
+next,"n. 下一个
+a. 下一个的, 其次的, 贴近的
+adv. 然后, 下次, 次于
+[计] 近邻干扰"
+also,"adv. 也, 并且, 同样地"
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+busy,"a. 忙碌的, 热闹的, 没空的
+vt. 使忙
+vi. 忙碌
+[计] 忙; 忙碌"
+summer,[网络] 夏季
+need,"n. 需要, 必须, 缺乏
+vt. 需要, 必需
+vi. 贫困, 有必要
+aux. 需要"
+fall,"n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天
+vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低
+a. 秋天的"
+play,[网络] 戏耍
+winter,"n. 冬季；年岁；萧条期
+vi. 过冬
+adj. 冬天的；越冬的
+n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+letter,"n. 信；字母，文字；证书；文学，学问；字面意义
+vt. 写字母于
+vi. 写印刷体字母
+n. (Letter)人名；(英)莱特"
+season,"n. 季节, 时节, 当令期, 时期
+vt. 给...调味, 使成熟, 使老练, 缓和
+vi. 变干燥"
+live,"a. 活的, 生动的, 精力充沛的, 实况转播的
+vi. 活, 生存, 居住
+vt. 过着, 度过, 经历
+adv. 实况地"
+which,"pron. 哪一个, 那一个"
+island,[网络] 陆地
+best,"adv. 最；最高程度地；最出色地；最高标准地
+adj. 最好的；最出色的；最优秀的；最愉快的
+n. 最好的事物（或人）；（人或事物所能达到的）最高标准
+v. 胜过；打败
+[网络] 最佳；贝斯特；倍思特"
+always,[网络] 永远；总是
+always,[网络] 永远；总是
+cave,"n. 洞, 穴
+vi. 凹陷, 塌落
+vt. 挖洞, 使凹陷, 损坏...的基础"
+play with,"和…一起玩耍,漫不经心地摆弄,玩弄"
+go swimming, （去）游泳
+snow,"n. 雪, 积雪, 下雪, 雪花形干扰
+vi. 下雪, 似雪般落下
+vt. 使雪白, 用雪覆盖, 使像雪般落下"
+win,"vt. 赢得, 打胜, 成功
+vi. 获胜, 达到, 影响
+n. 胜利, 赢, 收益"
+leaf,"n. 叶, 树叶, 花瓣, 页
+vi. 生叶, 翻书页
+vt. 在...上长叶, 翻...的页"
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+up,[网络] -向上
+summer,[网络] 夏季
+north,"n. 北方, 北
+a. 北的, 北方的
+adv. 向北方, 在北方"
+autumn,"n. 秋天；成熟期；渐衰期，凋落期
+adj. 秋天的，秋季的
+n. (Autumn)人名；(英)奥特姆"
+Halloween,n. 万圣节前夕（10月31日夜）
+winter,"n. 冬季；年岁；萧条期
+vi. 过冬
+adj. 冬天的；越冬的
+n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+Thanksgiving,n. 感谢
+season,"n. 季节, 时节, 当令期, 时期
+vt. 给...调味, 使成熟, 使老练, 缓和
+vi. 变干燥"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+picnic,"n. 野餐, 远足, 愉快的经历
+vi. 去野餐, 远足"
+fly kites, 放风筝
+go on a picnic,去野餐
+skate,"n. 溜冰, 冰鞋
+vi. 滑冰, 滑过"
+pick,"n. 精选, 选择, 掘, 精华, 牙签, 鹤嘴锄
+v. 摘, 掘, 凿, 挖, 挑选
+[计] 拾取"
+make a snowman, 堆雪人
+pick apples, 摘苹果
+plant trees,栽树
+snowman,[网络] 雪人；小雪人；雪人於
+why,"adv. 为何；（反问，表示不必）何必；（说明理由）为什么
+n. 原因；难解的问题
+int. 嗨
+[网络] 为什麽；为什么做；何故"
+make a snowman, 堆雪人
+because,conj. 因为
+go swimming, （去）游泳
+sleep,"n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠
+vi. 睡觉, 睡眠, 静止
+vt. 睡"
+which,"pron. 哪一个, 那一个"
+Jan.,n. 一月
+best,"adv. 最；最高程度地；最出色地；最高标准地
+adj. 最好的；最出色的；最优秀的；最愉快的
+n. 最好的事物（或人）；（人或事物所能达到的）最高标准
+v. 胜过；打败
+[网络] 最佳；贝斯特；倍思特"
+January,n. 一月
+snow,"n. 雪, 积雪, 下雪, 雪花形干扰
+vi. 下雪, 似雪般落下
+vt. 使雪白, 用雪覆盖, 使像雪般落下"
+Feb.,abbr. 二月（February）
+good job,"n. 好运,事业发达"
+February,n. 二月
+because,conj. 因为
+Mar.,"vt. 损毁；损伤；糟蹋；玷污
+n. 污点；瑕疵
+n. (Mar)人名；(英、俄、以、葡、塞内)马尔"
+vacation,"n. 假期, 休假
+[法] 假期, 停审期, 休庭期"
+March,abbr. Master of Architecture 建筑学硕士
+all,"pron. 一切；全部；大家；全都
+adj. 一切；全；整个；全体
+adv. 都；全部；全身；那么
+n. 一切；全部；全体
+[网络] 所有；所有的；全部的"
+Apr.,[网络] 沉积率；电源
+pink,[网络] 光子晶体技术；光子墨水
+April,n. 四月
+lovely,"a. 可爱的, 有趣的"
+May,"n. 五月
+aux. 愿能, 可以, 愿意"
+leaf,"n. 叶, 树叶, 花瓣, 页
+vi. 生叶, 翻书页
+vt. 在...上长叶, 翻...的页"
+June,n. 六月
+fall,"n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天
+vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低
+a. 秋天的"
+July,n. 七月
+paint,"n. 油漆, 颜料, 绘画作品, 涂漆
+vt. 油漆, 绘, 画, 描绘, 装饰, 点缀
+vi. 绘画, 涂漆"
+Aug.,abbr. 八月（August）
+January,n. 一月
+August,"n. 八月
+a. 威严的, 令人敬畏的"
+February,n. 二月
+Sept.,"n. 氏族；(爱尔兰或苏格兰)氏族
+[网络] 七；九月；synthetic exon promoter trap"
+March,abbr. Master of Architecture 建筑学硕士
+September,n. 九月
+April,n. 四月
+Oct.,abbr. 十月（October）
+May,"n. 五月
+aux. 愿能, 可以, 愿意"
+October,n. 十月
+June,n. 六月
+Nov.,abbr. 十一月（November）
+July,n. 七月
+November,n. 十一月
+August,"n. 八月
+a. 威严的, 令人敬畏的"
+Dec.,[网络] 设备公司；十进制；中国东方电气集团公司
+September,n. 九月
+December,n. 十二月
+October,n. 十月
+chart,"n. 图表, 海图
+vt. 制成图表
+[计] 图表"
+November,n. 十一月
+birthday,n. 生日，诞辰；诞生的日子
+December,n. 十二月
+uncle,[网络] -叔叔
+few,"a. 很少的, 不多的, 少数的
+n. 少数"
+cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
+[法] 同辈表亲或堂亲"
+a few,"几个, 少数, 一些"
+first,"adv. 第一；首先；优先；宁愿
+n. 第一；开始；冠军
+adj. 第一的；基本的；最早的
+num. 第一
+n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
+thing,"n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征"
+second,"n. 秒；第二名；瞬间；二等品
+vt. 支持
+adj. 第二的；次要的；附加的
+num. 第二
+adv. 第二；其次；居第二位
+n. (Second)人名；(法)塞孔"
+meet,"n. 会, 集会
+a. 适宜的, 合适的
+vt. 遇见, 引见, 认识, 满足, 对付
+vi. 相遇, 接触"
+third,"num. 第三, 三分之一
+[机] 第三; 第三的"
+sports meet,体育运动会
+fourth,"num. 第四, 四分之一"
+Easter,n. 复活节
+fifth,"num. 第五, 五分之一"
+trip,"n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程
+vt. 使跌倒, 使犯错, 使失败
+vi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足"
+eighth,"num. 第八, 八分之一"
+year,"n. 年, 年度, 年龄
+[经] 年度"
+ninth,"num. 第九, 九分之一"
+plant,"n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备
+vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于
+vi. 种植"
+twelfth,"num. 第十二, 十二分之一"
+contest,"n. 竞赛, 争论
+vt. 竞争, 争取, 争辩
+vi. 竞争"
+twentieth,"num. 第二十, 二十分之一"
+the Great Wall, 长城; 万里长城
+send,[网络] 结束；路程尽头；四十六的下场
+national,"a. 国家的, 国立的, 全国性的, 民族的
+[经] 全国性的, 国家的, 国民的"
+e-card,无
+National Day, 国庆日，国庆节；国定纪念日
+her,"pron. 她的；她
+n. (Her)人名；(法)埃尔"
+American,"n. 美国人
+a. 美国的, 美洲的"
+able,"suf. [附在动词或名词后构成形容词] 表示：“能…的,会…的”：durable; “可以…的”：drinkable; “具有…特性的”：fashionable; “有助于…的”,“倾向于…的”：peaceable; “易于…的”：breakable"
+Thanksgiving,n. 感谢
+everyone,每一个人
+Christmas,[网络] 圣诞；基督的弥撒
+then,"adv. 然后, 当时
+conj. 然后, 当时
+n. 那时"
+holiday,[网络] 圣日；神圣的一天
+date,"n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+game,"n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味
+vi. 赌博
+a. 勇敢的, 有胆量的, 关于野味的, 跛的
+[计] 博弈; 对策"
+draw pictures, 画画，画图; 画图画
+roll,"n. 卷, 滚动, 名单, 案卷, 压路机
+vi. 滚, 滚动, 飘流, 起伏, 卷, 绕
+vt. 使滚动, 卷, 绕"
+cook dinner,[网络] 做饭；做晚饭；煮晚饭
+look for,"寻找, 期待"
+read a book, 看书
+chocolate,"n. 巧克力
+a. 巧克力制的"
+answer the phone,接电话
+bunny,n. 兔子
+talk,"n. 谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言
+vi. 讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话
+vt. 讲, 说, 讨论, 谈论
+[计] 对话类, 聊天"
+RSVP,[网络] 资源预留协议
+Children's Center,[网络] 儿童活动中心；儿童娱乐室
+by,[网络] -通过
+see you later,再见
+first,"adv. 第一；首先；优先；宁愿
+n. 第一；开始；冠军
+adj. 第一的；基本的；最早的
+num. 第一
+n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
+listen to music, 听音乐
+second,"n. 秒；第二名；瞬间；二等品
+vt. 支持
+adj. 第二的；次要的；附加的
+num. 第二
+adv. 第二；其次；居第二位
+n. (Second)人名；(法)塞孔"
+clean the room,[网络] 打扫房间；清扫房间；清洁房间
+third,"num. 第三, 三分之一
+[机] 第三; 第三的"
+write a letter, 写信; 修书
+fourth,"num. 第四, 四分之一"
+write an e-mail,无
+fifth,"num. 第五, 五分之一"
+mom,[网络] 职业医学硕士；魔法部
+twelfth,"num. 第十二, 十二分之一"
+grandpa,"爷爷, 老太爷, 外公"
+twentieth,"num. 第二十, 二十分之一"
+speak to,"对...说话, 说到, 责备, 证明"
+twenty-first,无
+study,"n. 学习, 研究, 学科, 论文, 求学, 书房, 试作
+vt. 学习, 读书, 研究, 考虑, 计划
+vi. 学习, 思索"
+twenty-third,无
+fly,"n. 苍蝇, 两翼昆虫, 飞行
+vi. 飞, 飞翔, 飘扬, 逃走
+vt. 飞, 飞越, 使飘扬, 逃出
+a. 敏捷的"
+thirtieth,"num. 第三十, 三十分之一"
+jump,"n. 跳跃, 跳动, 暴涨, 惊跳
+vt. 跳跃, 跃过, 突升, 使跳跃
+vi. 跳跃, 跳, 跳动, 暴涨
+[计] 转移, 跳转"
+special,"n. 专辑, 专车, 号外, 特别的东西, 负有特别任务的人员
+a. 特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的"
+walk,"n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所
+vi. 走路, 步行, 处世
+vt. 走过, 遛, 使走, 护送...走"
+fool,"n. 愚人, 受骗者, 奶油拌水果
+vt. 愚弄, 欺骗, 浪费
+vi. 干傻事, 开玩笑, 游荡
+a. 傻的"
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+kitten,"n. 小猫, 淘气姑娘
+vt. 产仔, 卖弄风情"
+swim,"n. 游泳, 漂浮, 潮流, 眩晕
+vi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕
+vt. 游过, 使浮起"
+diary,"n. 日记
+[经] 日记簿"
+kangaroo,"n. 袋鼠
+[医] 袋鼠(澳洲产)"
+still,"n. 蒸馏室, 寂静, 剧照
+v. 蒸馏, (使)平静, (使)静止
+a. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的
+adv. 仍然, 更, 静止地
+conj. 然而, 但是"
+trunk,"n. 树干, 干线, 躯干, 主干, 象鼻, 箱子
+vt. 把...放入旅行箱内
+a. 树干的, 躯干的, 干线的, 箱形的
+[计] 中继线; 母线"
+noise,"n. 噪音, 杂音, 响声, 喧闹
+vt. 谣传
+vi. 喧闹
+[计] 噪声"
+sleep,"n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠
+vi. 睡觉, 睡眠, 静止
+vt. 睡"
+fur,"n. 毛皮
+vt. 以毛皮制作, 使生苔, 使生水垢
+vi. 生苔, 积水垢"
+climb,"v. 攀登, 上升, 爬
+n. 攀登, 爬升"
+open,"n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+fight,"n. 打架, 争吵, 斗志
+v. 对抗, 打架"
+walk,"n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所
+vi. 走路, 步行, 处世
+vt. 走过, 遛, 使走, 护送...走"
+swing,"n. 摇摆, 振幅, 音律, 节奏, 涨落, 秋千, 旋转, 行动自由
+vi. 摇摆, 悬挂, 旋转, 大摇大摆地走, 转向
+vt. 挥舞, 使旋转, 使转向, 悬挂, 吊运
+a. 旋转的, 悬挂的, 强节奏爵士音乐的"
+mine,"n. 矿, 矿藏, 地雷
+vt. 挖掘, 开采, 在...布雷, 破坏
+vi. 开矿, 埋设地雷
+pron. 我的"
+drink water,[网络] 喝水；饮水；多喝水
+yours,[网络] 是你的
+climber,"n. 登山者
+[电] 登杆器"
+his,"pron. 他的
+[化] 组氨酸"
+take pictures,照相
+hers,[网络] 她的
+watch insects,无
+theirs,[网络] 美国国税局
+pick up leaves,无
+ours,pron. 我们的
+do an experiment,[网络] 做实验；做试验；做一个实验
+climbing,"a. 攀缘而登的, 上升的
+n. 攀登"
+catch butterflies, 捉蝴蝶
+eating,"n. 吃；饮食
+adj. 食用的；可生吃的；腐蚀的
+v. “eat”的现在分词
+[网络] 进食；吃饭；吃东西"
+woods,[网络] 滤过紫外线检查；活仕牌
+playing,[网络] 踢足球
+ant,"suf. [构成形容词] 表示：进行...动作的,处于...状态的,促进...作用的：repentant, triumphant, expectorant; 有...的,显示...的,做...的：defiant, radiant; [构成名词]表示进行...动作的人,施行...作用者,...者(人或物):accountant, assistant, occupant"
+jumping,a. 跳跃的
+interesting,adj. 有趣的；引起兴趣的，令人关注的
+drinking,"n. 喝, 喝酒"
+have a look, 看一看
+sleeping,"n. 睡眠
+a. 睡着的"
+honey,蜂蜜
+each,"a. 每个, 每一
+adv. 每个
+pron. 每个, 个人, 各自"
+thing,"n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征"
+other,"a. 其他的, 另外的, 从前的
+pron. 其他的, 他人, 另外一个"
+count insects,无
+each other,彼此
+collect leaves,[网络] 收集树叶；搜集树叶；收集树口十
+excited,"a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的"
+write a report,[网络] 写报告；写一份报告；写报导
+like, 类似…的；有…特征的
+play chess,下棋
+doing morning exercises,无
+have a picnic,"吃野餐,去野餐"
+having ... class,无
+him,pron. 他
+eating lunch,无
+leave,"n. 许可, 告别, 请假, 休假
+vt. 离开, 剩下, 遗忘, 委托, 丢弃
+vi. 出发, 离开, 生叶"
+reading a book,无
+us,[网络] -我们
+listening to music,无
+over there,在那边
+keep,"n. 生计, 维持, 保持
+vt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐
+vi. 保持, 继续不断"
+keep to the right,靠右走
+keep your desk clean,无
+talk quietly,无
+turn,"n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折
+vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通
+vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手"
+take turns,"轮流, 依次"
+bamboo,"n. 竹子
+[医] 竹类"
+its,"pron. 其
+short. it is；it has
+adv. （指事物、动物或婴儿）它的
+[网络] 智能交通系统(Intelligent Transportation System)；智能运输系统"
+show,"n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相
+vt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领
+vi. 露面, 显现, 演出
+[计] 显示"
+anything,pron. 任何事
+else,"a. 别的, 其他的
+adv. 另外, 否则, 不然"
+exhibition,"n. 表现, 展览会, 展览品
+[医] 投药, 展览, 展出"
+say,"v. 说；告诉；讲；表达
+n. 发言权；决定权
+int. 啧啧；我说
+[网络] 说话；念；比如说"
+have a look, 看一看
+sushi,苏轼
+teach,"vt. 教, 讲授, 教导, 教育
+vi. 教书, 教学, 可以教"
+sure,"a. 确信, 必然的, 必定的
+adv. 当然, 确实地, 无疑地"
+Canadian,a. 加拿大的
+Spanish,"n. 西班牙人, 西班牙语
+a. 西班牙的"

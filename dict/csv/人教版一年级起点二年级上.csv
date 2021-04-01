@@ -1,54 +1,156 @@
-﻿father,"n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
-mother,"n.母亲,妈妈"
-brother,n.兄弟
-sister,"n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
-grandmother,n.祖母
-grandfather,"n.祖父,始祖"
-who," pron.谁,那...的(人)  世界卫生组织 WHO(the World Health Organization)"
-he," pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
-she, pron.[主格]她
-classmate,n.同班同学
-friend,"n.朋友,赞助者,助手"
-woman,"n.女人,妇女,女仆adj.女人的,女性的,妇女的vt.为...配备妇女,使成女人腔"
-girl,"n.女孩,少女,女仆,(商店等的)女工作人员"
-man,"n.男人,人类,人,丈夫,雇工;vt.为...配备人手,操纵,在...就位,使振奋;Metropolitan Area Network 城域网"
-boy,"n.男孩,儿子,孩子气的人,男仆"
-look,"n.看,注视,脸色,面容,外表vi.看,注意,朝着,好象,显得vt.打量,注视,用眼神(或脸色)表示,期待"
-his, pron.他的
-name,"n.名字,名称,姓名,名誉vt.命名,提名,叫出,指定adj.姓名的,据以取名的"
-her," pron.她的,她"
-or," conj.或,或者,还是 [军] Operational Requirement,作战需求 [军] Operations Research,运筹学研究"
-big,"adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
-tall,"adj.高的,长的,夸大的adv.<俚> 夸大地"
-pretty,"adj.漂亮的,可爱的,优美的,机灵的,恰当的"
-thin,"adj.薄的,细的,瘦的,稀少的,稀疏的,(液体、气体)稀薄的,淡的,空洞的vt.使变薄,使变细,使稀少,使淡vi.变薄,变细,稀少,变淡adv.薄地,稀疏地,微弱地n.细小部分"
-short,"n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
-handsome,"adj.英俊的,大方的,慷慨的,美观的,堂皇的"
-new,"adj.新的,初见的,更新的adv.新近"
-does,"v.做,有用,工作 conj.是,做,要"
-bookshop,n.书店
-zoo,n.动物园
-school,"n.学校,学院,学习,授课,求学,全体学生,学派vt.锻炼,教育"
-supermarket,n.超级市场
-park,"n.公园,停车场,炮场vt.停放(汽车等)"
-hospital,n.医院
-go,"vi.离去,走,进行,变成,趋于,达到,求助于,诉诸vt.以...打赌,忍受,出产n.去,进行"
-to," prep.向,往,给...,于...,直到...为止,在...之前,比,对,[表示程度、范围] 到,达 [域] Tonga ,汤加"
-grass,n.草
-tree,"n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
-flower,"n.花,开花的植物,花卉,精华,盛时vi.开花,旺盛,成熟vt.用花装饰,使开花"
-boat,"n.小船,艇v.划船"
-lake,
-hill,"n.小山,丘陵,斜坡,山岗"
-Christmas,
-Father Christmas,
-Christmas tree,
-card,"n.纸牌,卡片"
-present,"n.赠品,礼物,现在,瞄准adj.现在的,出席的,当面的vt.介绍,引见,给,赠送,上演,提出,呈现vi.举枪瞄准"
-New Year,
-merry,"adj.欢乐的,愉快的"
-too,"adv.也,太过份"
-here,"adv.在这里,此时,这时,[宗]在尘世间n.这里"
-for," prep.(表示目的)为了,因为,至于,对于,适合于 conj.因为"
-thank,"vt.感谢,用于表示强制的要求,用将来时"
-happy,"adj.快乐的,幸福的,陶醉于...的,恰当的"
+﻿father,[网络] 父亲
+mother,"n. 母亲；大娘；女修道院院长
+vt. 生下；养育；像母亲般关怀或照管
+adj. 母亲的；出生地的"
+brother,"brother
+['brʌðə]
+n.
+兄弟(常指人，有时也指动物)
+[亦称half brother](同父异母或同母异父的)兄弟
+继父与其前妻(或继母与其前夫)所生之子
+奶兄弟
+(有亲属关系的广义上的)兄弟
+(兄弟般的)密友，挚友，伙伴；同胞，国人
+[复数常作brethren]同行业(或教会、团体)的人，同业，同人，同事；教友，会友
+【基督教《圣经》】男亲戚
+【基督教】(某些教派的)牧师兄弟[后接专有人名或作称呼语]
+同种族的人
+【教会】
+(修道院里做杂役的)僧侣，托钵僧；(尚未晋升神父的)修士
+[B-](不担任圣职的)教会在俗人员，(教会中非神职)教士
+[总称]人；人类[尤用于值得同情、敬意之时]
+[美国黑人英语]黑人兄弟，黑人同胞(泛指黑人或与黑人利益密切相关的人)；(美国)黑人男子
+[俚语、称呼语]老兄，朋友，家伙[尤多用于不知对方姓名时]
+vt.
+兄弟般地对待；以兄弟相称，称…为兄弟，称兄道弟；把…接纳加入兄弟会
+adj.
+同行业的
+interj.
+[俚语][用以表示失望、厌恶、惊讶等强烈感情]我的老兄!天哪!
+短语:
+a brother of the angle
+垂钓者，钓友[见 angle¹]
+brother chip
+[英格兰北部用语]相貌、性格等极其相似
+同行，同业者，同行业的工人
+brother doctor
+加入医师公会的医生
+brother it
+做兄弟应做之事；尽兄弟之责
+brother of the brush
+画友；画家；油漆匠
+brother of the quill
+著述家
+brother of the spigot
+小酒店主人，酒保[戏谑语]
+brother in arms
+战友，袍泽(指正在或曾在部队服役的军人)
+uterine brother
+(同母异父的)隔山兄弟
+变形：
+n.
+brothers或 brethren"
+sister,[网络] 姐妹
+grandmother, [医][外]祖母
+grandfather, [医][外]祖父
+who,[医] 世界卫生组织
+he,"abbr. 阁下；高等教育
+[网络] 他；氦(helium)；贺"
+she,"pron. 她；它；船或车等
+n. 〈口〉女性；雌性动物
+[网络] 佘；就是她；伊"
+classmate,n. 同班同学
+friend,"n. 朋友, 支持者, 赞助者
+[法] 朋友, 友人, 赞助者"
+woman,"[名词后缀]表示“…国女人”,“…地女人”：Englishwoman, countrywoman; 表示“…职业的女人”,“…身份的女人”：policewoman, laywoman; [形容词后缀]表示“…个妇女组成的”：a four-woman band"
+girl,"n. 女孩, 少女, 女佣"
+man,"n. 成年男子；男人；人类；（特定历史时期的）人
+v. 在…岗位上工作；操纵（机器等）；配备（人员）
+int. （表示惊奇、气愤等）嘿
+[网络] 城域网(Metropolitan Area Network)；男士"
+boy,"n. 男孩
+[法] 男孩, 少年, 儿子"
+look,"n. 看；外观；查找；瞧
+v. 看；寻找；瞧；注意
+linkv. 显得；似乎；看来好像
+int. 听我说
+[网络] 看起来；看上去；注视"
+his,"pron. 他的
+[化] 组氨酸"
+name,"n. 名称；名字；名声；名誉
+v. 命名；任命；给…取名；说出…的名称
+adj. 〈美口〉著名的；(作品等)据以取名的
+[网络] 姓名；品名；产品名称"
+her,"pron. 她的；她
+n. (Her)人名；(法)埃尔"
+or, …的人（或物）
+big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
+pretty,"a. 漂亮的, 优美的, 机灵的, 狡猾的, 恰当的
+adv. 相当, 颇"
+thin,"a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的
+vt. 使变薄, 使变细, 使稀少, 使淡
+vi. 变薄, 变细, 变少, 变淡
+adv. 薄地, 稀疏地, 微弱地
+n. 细小部分"
+short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
+adv. 简短地, 突然
+n. 扼要, 短片, 缺乏
+vt. 故意少给, 使短路"
+handsome,[网络] 手一些；手多；竹兰在国际刑警英俊
+new,"adj. 刚出现的；新的；新近推出的；新买的
+n. 新东西；新事物
+abbr. 〈美(=net economic welfare)纯经济福利
+adv. 同“newly”
+[网络] 新建(New.)；新品；全新"
+does,v. 做；工作；有用（do的第三人称单数形式）
+bookshop,"un. 书店
+[网络] 街转角的书店；逛书店；书局"
+zoo,"n. 动物园
+[网络] 动物园的一天；早前版本的压缩文件；公园"
+school,"n. 学校, 鱼群, 门派, 学派
+vt. 教育, 训练, 培养
+vi. 成群地游"
+supermarket,超级市场
+park,"n. 公园, 停车处
+vt. 停车, 置于
+vi. 停车"
+hospital,"n. 医院
+n. (Hospital)人名；(英)霍斯皮特尔"
+go,[网络] 困觉；绿基色输出；格拉苏蒂
+to,"prep. 到；向；至；对于
+infinmarker. 应该；必须；表示目的或意图；表示结果
+adv. 关着；关闭；关上
+[网络] 收件人；给；往"
+grass,"n. 草, 草原, 牧场
+[医] 草, 禾本"
+tree,[网络] 树；树结构；连通图为树
+flower,"n. 花, 开花植物, 精华, 盛时
+vi. 开花, 发育, 旺盛, 成熟
+vt. 用花装饰, 使开花"
+boat,"n. 船
+vi. 乘船
+vt. 以船运"
+lake,"n. 湖, 池, 色淀
+v. (使)血球溶解"
+hill,"n. 小山, 丘陵, 小土堆
+vt. 作成土堆, 堆成小丘"
+Christmas,[网络] 圣诞；基督的弥撒
+Father Christmas,圣诞老人；耶诞老人（等于Santa Claus）
+Christmas tree,圣诞树
+card,"n. 卡片, 纸牌, 节目单, 明信片, 梳棉机
+vt. 备置卡片, 记于卡片上, 梳理
+[计] 卡片, 卡"
+present,"n. 现在, 礼品, 瞄准
+a. 现在的, 出席的
+vt. 介绍, 引见, 赠送, 提出, 呈现, 上演
+vi. 举枪瞄准"
+New Year,新年
+merry,"a. 快乐的, 愉快的, 嬉戏作乐的"
+too,"adv. 也, 非常, 太"
+here,"adv. 在这里, 此时, 这里
+n. 这里"
+for,[网络] 铁路交货点的货价；励磁系统强迫停运率
+thank,"n. 谢意, 感谢
+vt. 谢谢, 感谢"
+happy,[网络] -快乐

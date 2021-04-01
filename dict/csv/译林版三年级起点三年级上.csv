@@ -1,91 +1,231 @@
-﻿Hello!,
-Good morning.,
-Miss,
-Hi.,
-Good afternoon.,
-class,"n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
-I,
-I'm,
-I am,
-are," prep.是,在,公亩"
-you," pron.你,你们"
-yes,adv.n.是
-am,"prep.是,在n.A.M.上午,午前 [域] Armenia ,亚美尼亚 [军] Amplitude Modulation,调幅 (AM) 调幅 (amplitude modulation)"
-no,"n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
-not,adv.不
-Goodbye.,
-my," pron.我的int.<口>嗳呀!啊呀! [域] Malaysia ,马来西亚"
-friend,"n.朋友,赞助者,助手"
-she, pron.[主格]她
-she's,
-she is,
-he," pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
-he's,
-he is,
-too,"adv.也,太过份"
-this,"adj.这,这个,今,本 pron.这,这个"
-is," prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
-sister,"n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
-family,"n.家庭,家族,家属,亲属,子女,僚属adj.家庭的,家族的"
-father,"n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
-mother,"n.母亲,妈妈"
-brother,n.兄弟
-me, pron.我
-grandpa,n.爷爷
-grandma,n.奶奶
-Good evening.,
-look at,
-T-shirt,
-it," pron.它;Italy,意大利;Information Technology,信息技术"
-it's,
-it is,
-nice,"adj.美好的,和蔼的,正派的,细微的,挑剔的,精密的,拘泥的"
-skirt,n.裙子v.环绕
-How nice!,
-cap,"n.帽子,军帽,(瓶)帽,(笔)帽;vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
-great,"adj.伟大的,大的,强烈的,非常的,主要的,大写的,重大的,崇高的adv.顺利地,得意地n.全部,大人物,大师"
-jacket,"n.短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
-new,"adj.新的,初见的,更新的adv.新近"
-What colour ...?,
-red,"n.红色,红衣服,红颜料,赤字,亏空adj.红(色)的,革命的"
-colour,"n.<英>(=color)颜色,气色,风格,外貌vt.把...涂颜色,粉饰,脸红,歪曲vi.变色"
-orange,"n.柑,桔,橙,橙色"
-now,"adv.现在,目前,此刻,立刻,马上n.现在,如今 conj.既然"
-green,"n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
-and," conj.和,及,并,然后,接着又 /conj.及(或)"
-yellow,n.黄色adj.黄色的
-black,"n.黑色,黑颜料,黑人adj.黑色的,弄脏了的,忧郁的vt.(使)变黑,涂黑"
-blue,"n.蓝色adj.蓝色的,忧郁的,沮丧的"
-brown,"n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
-white,"n.白色,蛋白,白种人adj.白(色)的,白种人的"
-Would you like ...?,
-an," art.一(在元音字母前代替不定代词a) [域] Netherlands Antilles ,荷兰属地"
-egg,"n.蛋,鸡蛋,卵v.怂恿,怂恿"
-"Yes, please.",
-or," conj.或,或者,还是 [军] Operational Requirement,作战需求 [军] Operations Research,运筹学研究"
-a,"n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
-pie,"n.馅饼,杂乱,喜鹊,爱说话的人vt.弄乱"
-Nice to meet you.,
-"No, thank you.",
-What about ...?,
-cake,"n.蛋糕,饼,块,"
-ice cream,
-sweet,"adj.甜的,可受的,美好的,芳香的n.糖果"
-hot dog,
-look,"n.看,注视,脸色,面容,外表vi.看,注意,朝着,好象,显得vt.打量,注视,用眼神(或脸色)表示,期待"
-what," pron.什么int.怎么,多么adj.什么adv.到什么程度,在哪一方面n.本质,实质,要素"
-what's,
-what is,
-Happy New Year!,
-uncle,"n.伯父,叔父,姨丈,援助者"
-This is for you.,
-doll,"n.洋娃娃,玩偶,美丽但无头脑的女子,<俚>美男子"
-that,"adj.那,那个 pron.那,那个 conj.引导从句"
-ball,"n.球,球状物,子弹,舞会,尽情地玩"
-robot,"n.机器人,遥控设备,自动机械,机械般工作的人"
-CD,
-car,"n.汽车,小汽车,车辆,客车,[铁]车厢"
-Happy Birthday!,
-toy,
-ah,"int.啊,哈 [军] Attack Helicopter,攻击直升机 (AH)  希吉拉纪元,伊斯兰教纪元"
-ha,"int.嘿!,哈!"
+﻿Hello!,"int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛"
+Good morning.,早上好
+Miss,"n. 失误, 避免, 失败, 小姐
+vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
+vi. 失败, 击不中"
+Hi.,[网络] 可移动磁盘
+Good afternoon.,下午好
+class,[计] Java类文件
+I,"pron. 我
+n. 英语字母表的第9个字母；（罗马数字）1
+abbr. 岛，群岛
+[网络] 伊诗尔；自我"
+I'm,"na. 'im = him
+[网络] 即时通讯(Instant Messaging)；即时通信(Instant Messenger)；即时消息"
+I am,[网络] 我是；这就是我；唯我是问
+are,[网络] 一重
+you,"pron. 你；您；你们；大家
+[网络] 尤；是你；你是"
+yes,"int. 答话时表示正确或真实；表示同意所说的话；反驳否定的话
+adv. (回答问话、招呼等)是；(怀疑或促人往下讲)真的吗
+n. 表示同意的答复；表示同意的人
+[网络] 是的；有；不错"
+am,"abbr. 调幅；振幅调制；议员（威尔士议会成员）
+[网络] 调幅(amplitude modulation)；上午(a.m.)；是"
+no,"adv. 没有；无；并不；禁止
+int. 没有；不是；不要；（用于否定的回答或陈述）不
+adj. 禁止；(一个也)没有；一点儿也没有；什么也[谁也]没有
+n. 否定的回答；作否定回答的人；（统称）投反对票者
+abbr. 【化】同“nobelium”(=number)
+[网络] 一氧化氮(Nitric Oxide)；不(nope)；没有(None)"
+not,"adv. 不, 非, 未
+[计] 非"
+Goodbye.,再见（歌曲名）
+my,"int. 哎呀；表示惊讶
+adv. 我的；表示吃惊等；表示亲切；对下级的称呼
+abbr. (=Malaysia)马来西亚
+pron. ""I"" 的所有格形式
+[网络] 马来西亚(Malaysia)；关於我；买"
+friend,"n. 朋友, 支持者, 赞助者
+[法] 朋友, 友人, 赞助者"
+she,"pron. 她；它；船或车等
+n. 〈口〉女性；雌性动物
+[网络] 佘；就是她；伊"
+she's,abbr. she has 她（已经）; she is 她是
+she is,无
+he,"abbr. 阁下；高等教育
+[网络] 他；氦(helium)；贺"
+he's,"他是, 他有"
+he is,他是
+too,"adv. 也, 非常, 太"
+this,"pron. 这；这里；这时；(前述二物中的)后者
+adj. 这；即将来到的；今…
+adv. 这个；本；这样；这么
+[网络] 这场；此；这位"
+is,"v. 是
+abbr. (=island；isle)岛；群岛
+[网络] 冰岛；在；印度标准(Indian Standard)"
+sister,[网络] 姐妹
+family,[网络] 家族；家庭
+father,[网络] 父亲
+mother,"n. 母亲；大娘；女修道院院长
+vt. 生下；养育；像母亲般关怀或照管
+adj. 母亲的；出生地的"
+brother,"brother
+['brʌðə]
+n.
+兄弟(常指人，有时也指动物)
+[亦称half brother](同父异母或同母异父的)兄弟
+继父与其前妻(或继母与其前夫)所生之子
+奶兄弟
+(有亲属关系的广义上的)兄弟
+(兄弟般的)密友，挚友，伙伴；同胞，国人
+[复数常作brethren]同行业(或教会、团体)的人，同业，同人，同事；教友，会友
+【基督教《圣经》】男亲戚
+【基督教】(某些教派的)牧师兄弟[后接专有人名或作称呼语]
+同种族的人
+【教会】
+(修道院里做杂役的)僧侣，托钵僧；(尚未晋升神父的)修士
+[B-](不担任圣职的)教会在俗人员，(教会中非神职)教士
+[总称]人；人类[尤用于值得同情、敬意之时]
+[美国黑人英语]黑人兄弟，黑人同胞(泛指黑人或与黑人利益密切相关的人)；(美国)黑人男子
+[俚语、称呼语]老兄，朋友，家伙[尤多用于不知对方姓名时]
+vt.
+兄弟般地对待；以兄弟相称，称…为兄弟，称兄道弟；把…接纳加入兄弟会
+adj.
+同行业的
+interj.
+[俚语][用以表示失望、厌恶、惊讶等强烈感情]我的老兄!天哪!
+短语:
+a brother of the angle
+垂钓者，钓友[见 angle¹]
+brother chip
+[英格兰北部用语]相貌、性格等极其相似
+同行，同业者，同行业的工人
+brother doctor
+加入医师公会的医生
+brother it
+做兄弟应做之事；尽兄弟之责
+brother of the brush
+画友；画家；油漆匠
+brother of the quill
+著述家
+brother of the spigot
+小酒店主人，酒保[戏谑语]
+brother in arms
+战友，袍泽(指正在或曾在部队服役的军人)
+uterine brother
+(同母异父的)隔山兄弟
+变形：
+n.
+brothers或 brethren"
+me,[网络] -我-
+grandpa,"爷爷, 老太爷, 外公"
+grandma,"n. 奶奶, 外婆"
+Good evening.,晚上好
+look at,"看, 考虑, 着眼于"
+T-shirt,无
+it,"n. 信息技术（全写为 information technology，对将电子处理程序及设备应用于存储和发送各类信息的研究和利用）
+[网络] 信息技术(Information Technology)；它；资讯科技"
+it's,"pron. 其
+short. it is；it has
+adv. （指事物、动物或婴儿）它的
+[网络] 智能交通系统(Intelligent Transportation System)；智能运输系统"
+it is," [医]〔复-itides〕〔后缀〕炎, 炎症"
+nice,"a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的"
+skirt,"n. 裙子, 下摆, 边缘, 郊区
+vt. 位于...边缘, 绕过, 回避
+vi. 位于边缘"
+How nice!,[网络] 多好啊；好漂亮；多好呀
+cap,[计] 压缩音乐文件格式
+great,"a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
+adv. 顺利地, 得意地
+n. 全部, 大人物, 大师"
+jacket,"n. 夹克, 外套, 护套
+vt. 给...穿夹克, 给...装护套"
+new,"adj. 刚出现的；新的；新近推出的；新买的
+n. 新东西；新事物
+abbr. 〈美(=net economic welfare)纯经济福利
+adv. 同“newly”
+[网络] 新建(New.)；新品；全新"
+What colour ...?,无
+red,"n. 红色；红葡萄酒；左翼人士；激进分子
+adj. 红的；红色的；充血的；布满血丝的
+[网络] 红(redness)；赤焰战场；红颜色"
+colour,颜色，色料，色素
+orange,"n. 柑橘, 桔子, 橘色
+a. 橘色的"
+now,[网络] 首饰
+green,"n. 绿色；草坪；绿色蔬菜；草绿色
+v. 绿化；使增强环境保护意识；使善待环境
+adj. 绿色的；草绿色的；长满青草的；绿油油的
+[网络] 格林；果岭；绿的"
+and,"conj. 与；和；而；又
+n. 附加条件；附加细节
+[网络] 并且；而且；及"
+yellow,"n. 黄色
+a. 黄色的"
+black,"n. 黑色, 黑颜料
+a. 黑色的"
+blue,"n. 蓝色
+a. 蓝色的, 下流的, 忧郁的
+vt. 染成蓝色
+vi. 变蓝"
+brown,"n. 褐色
+a. 褐色的
+v. (使)变褐色"
+white,"n. 白色, 洁白, 眼白, 白种人, 蛋白
+a. 白色的, 纯洁的, 白种的, 苍白的, 空白的, 幸运的"
+Would you like ...?,无
+an,"suf. 表示; “碳水化合物的酐类”：dextran; “不饱和的碳化物”：tolan; 用于专有人、地名等后构成通常可兼作名词用的形容词表示“…时期的(人)”, “…地方的(人)”, “在…居住的(人)”, “在…出生的(人)”：American, Asian, Elizabethan, Victorian; 用于表示体制、学科等的词后及宗教或其他流派创始人的人名后构成可兼作名词的形容词或单词性的形容词或名词表示“精通…的(人)”, “带有…特征的(人)”, “属于…的(人)”, “信奉…的(人)”, “追随…的(人)”"
+egg,"n. 蛋, 卵
+vt. 挑唆, 煽动, 调蛋黄"
+"Yes, please.",[网络] 是的；是的谢谢；那就麻烦你了
+or, …的人（或物）
+a,"na. 一
+n. 英文字母表的第一字母；【乐】A音
+art. 冠以不定冠词主要表示类别
+[网络] 从；按；一个"
+pie,"n. 馅饼, 财富, 总额, 贪污受贿, 杂乱, 喜鹊
+[计] 饼图"
+Nice to meet you.,[网络] 很高兴见到你；很高兴认识你；见到你很高兴
+"No, thank you.",[网络] 不用了，谢谢；不用谢；谢谢不用了
+What about ...?,无
+cake,"n. 蛋糕, 块, 饼
+vt. 使结块, 加块状物于
+vi. 结块"
+ice cream,"冰淇淋
+[化] 冰淇淋"
+sweet,"n. 甜蜜, 糖果, 情人
+a. 甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的"
+hot dog,"n. <口>热狗（一种中间夹有熏红肠并配有芥菜, 作料等的面包）"
+look,"n. 看；外观；查找；瞧
+v. 看；寻找；瞧；注意
+linkv. 显得；似乎；看来好像
+int. 听我说
+[网络] 看起来；看上去；注视"
+what,"pron. 什么；多么；真；…的事物
+adj. 什么；多少；关系形容词
+adv. 多少
+conj. 同“as much as. He helps me what he can”
+[网络] 什麽；做什么；是什么"
+what's," （尤当 has 为助动词时, what is 或 what has 的常用口语形式）; 乌"
+what is,[计] whatis命令
+Happy New Year!, 新年快乐；新春快乐
+uncle,[网络] -叔叔
+This is for you.,无
+doll,"n. 洋娃娃, 无头脑的美丽女人"
+that,"pron. 那；那个
+adv. 那么；那样
+conj. 因为；以至于
+adj. 那；那个
+n. (That)人名；(德)塔特"
+ball,"comb.form [主美国俚语]表示；“令人讨厌或古怪的人”：goofball；“自作聪明的人”,“傻瓜”：butterball"
+robot,"n. 机械人, 自动机械, 机械般工作的人
+[计] 机器人; 自动机"
+CD,"abbr. (=compact disc)激光唱片
+n. 光盘
+[网络] 镉；光盘(compact disc)；文件大小"
+car,[网络] 控制阻抗
+Happy Birthday!,n. 生日快乐
+toy,"n. 玩具, 小玩艺儿, 小型的东西, 消遣
+a. 供玩耍的, 作为玩具的
+vi. 玩弄, 戏弄, 调情"
+ah,abbr. accident and health 【保险业】意外事故及医疗保险
+ha,"int. （惊奇、高兴或有所发现时用）哈；（笑声）哈；认为某事并不可笑
+n. “哈；【女名】女子名
+abbr. （书写形式）公顷
+v. “哈
+[网络] 透明质酸(Hyaluronic Acid)；高可用性(High Availability)；血凝素(hemagglutinin)"

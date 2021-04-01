@@ -1,136 +1,277 @@
-﻿spaceship,n.太空船
-moon,"n.月球,月亮,卫星"
-astronaut,"n.太空人,宇航员"
-have,"vt.有,持有,拿,从事(某事) aux.已经"
-has,vbl.have 的第三人称单数现在式
-had,vbl.have 的过去式和过去分词 conj.有
-dream,"v.做梦,梦见,梦想,想到n.梦,梦想"
-last night,
-am,"prep.是,在n.A.M.上午,午前 [域] Armenia ,亚美尼亚 [军] Amplitude Modulation,调幅 (AM) 调幅 (amplitude modulation)"
-is," prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
-was,vbl.be的过去式
-are," prep.是,在,公亩"
-were,vbl.be的过去式
-air,"n.空气,样子,天空,空中,曲调vt.晾干,使通风,宣扬,夸耀,显示"
-friendly,"adj.友好的,友谊的"
-Earth,
-yesterday,n.昨天adv.昨天
-swimming pool,
-clean,"adj.清洁的,干净的,清白的v.打扫,使干净,清扫"
-cleaned,
-film,"n.薄膜,膜层,胶卷,影片,薄雾,轻烟,电影vt.在...上覆以薄膜,拍成电影vi.生薄膜,变成朦胧,拍电影"
-visit,"n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
-visited,
-go,"vi.离去,走,进行,变成,趋于,达到,求助于,诉诸vt.以...打赌,忍受,出产n.去,进行"
-went,vbl.go的过去式
-slowly,"adv.慢慢地,迟缓地"
-want,"vt.想要,希望,需要,短缺,缺少n.需要,短缺"
-wanted,
-pass,"n.经过,关口,途径,护照,通行证,入场券,传球,及格vt.通过,审查通过,忽略,传递vi.经过,变化,流通,宣判,被忽略,终止,传递,不叫牌"
-passed,
-eat,"v.吃,腐蚀"
-ate," vbl.吃 [军] Automatic Test Equipment,自动试验设备"
-quickly,adv.很快地
-another,"adj.另外的,又一,不同的 prep.另一个,另一个人,同类的东西"
-suddenly,adv.突然地
-look,"n.看,注视,脸色,面容,外表vi.看,注意,朝着,好象,显得vt.打量,注视,用眼神(或脸色)表示,期待"
-looked,
-sick,"n.病人adj.不舒服,有病的,恶心的,厌恶的,渴望的,病态的vt.呕吐,追击,使狗去咬"
-cough,n.咳嗽v.咳嗽
-coughed,
-everywhere,"adv.各处,到处"
-help,"n.帮忙,补救办法,助手,治疗,<美>佣工vt.帮助,助长,接济,治疗,款待vi.有用,救命,招待 [计] 显示命令格式的简短概述"
-helped,
-careful,"adj.小心的,仔细的"
-first,"adv.首先,最初,第一(列举条目等用),优先adj.第一的 num.第一(个)n.开始,第一,(比赛)冠军"
-second,"n.秒,片刻,第二者,第二人,助手,次货,二等品adj.另一个,又一个 num.第二vt.赞成,支持"
-third," num.第三,三分之一"
-fourth, num.第四个
-fifth,adj.第五的
-run,"n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
-ran, vbl.run的过去式
-race,"n.种族,种族气质,种族特征,赛跑,急流,姜根vi.赛跑,疾走vt.与...赛跑,使空转"
-meter,"n.米,公尺,计,表,仪表"
-win,"v.(获)胜,赢得,劝诱,取得胜利n.赢,胜利"
-won,vbl.win的过去式和过去分词
-excited, 兴奋的
-last,"adj.最后的,临终的,末尾的,最近的,结论性的vi.持续,支持,维持vt.使维持,楦adv.最后,后来n.最后,末尾,临终,鞋楦头"
-prize,"n.奖赏,奖金,奖品,捕获,捕获物,战利品adj.得奖的vt.珍视,估价,捕获,撬,撬开"
-sad,"adj.忧愁的,悲哀的"
-decide,"v.决定,判决"
-decided,"adj.确定的,坚决的"
-high,"n.高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
-happy,"adj.快乐的,幸福的,陶醉于...的,恰当的"
-sixth," num.第六,六分之一"
-seventh, num.第七
-eighth, num.第八
-ninth," num.第九,九分之一"
-tenth," num.第十,十分之一"
-birthday,n.生日
-June,
-May,
-September,
-November,
-July,
-spring,"n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
-March,
-check,"n.阻止,制止,控制,阻止物,支票,检讫的记号,饭馆的帐单vt.检查,制止,核对,寄存,托运vi.证明无误,核对无误,逐项相符,[象棋]将军"
-checked,"adj.格子花纹的,棋盘状的adj.选中的"
-autumn,"n.秋天,成熟期,渐衰期"
-either,"adj.任一的,(两方中的)每一方的 pron.任一,随便任一个 conj.或者,也"
-call,"n.喊声,叫声,命令,号召,访问,叫牌,通话,必要v.呼叫,召集,称呼,认为,命名,打电话"
-called,
-talk,"v.谈话,讲,谈论,议论,说服某人做某事n.谈话,会谈,讲演,讲话"
-talked,
-December,
-summer,"n.夏季vi.避暑,过夏天adj.夏季的,在夏季的"
-October,
-January,
-February,
-April,
-August,
-winter,"n.冬,冬季,萧条期,衰退期adj.冬天的vt.对...进行冬天保护vi.过冬"
-season,"n.季,季节v.(使)适应,(使)适用,调味"
-height,"n.高度,海拔,高地(常用复数),顶点"
-weight,"n.重力,重量,分量,砝码,重要(性),势力,负担,重累"
-centimeter,n.厘米
-weigh,"vt.称...重量,称vi.重(若干)"
-kilogram,"n.[物]千克,公斤"
-take,"v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
-took,vbl.take的过去式
-center,"n.中心,中央,中心点,中锋adj.中央的,位于正中的vt.集中,使聚集在一点,定中心,居中vi.居中,有中心,被置于中心"
-tall,"adj.高的,长的,夸大的adv.<俚> 夸大地"
-taller,
-tallest,
-short,"n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
-shorter,
-shortest,
-than, conj.比 prep.与...相比较
-heavy,"adj.重的,繁重的,巨大的,沉重的,阴沉的adv.沉重地,笨重地,大量地n.重物,严肃角色"
-heavier,"adj.沉重的,巨大的"
-heaviest,"adj.重的,巨大的"
-something," pron.某事,某物adj.有点象,大约"
-wrong,"adj.错误的,不正当的,道德不好的,失常的adv.错误地n.坏事,错误,不公正"
-big,"adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
-bigger,"adj.大的,长大的"
-biggest,"adj.大的,长大的"
-small,"adj.小的,少的"
-smaller,
-smallest,
-long,"adj.长的,长期的,做多头的,高的vi.渴望,热望adv.长期地,始终n.长时间,(市场上)做多头的人,[语音]长音节"
-longer,adj.比较久的adv.比较久
-longest,adj.长的
-young,"adj.年轻的,年纪小的,没有经验的,尚早的,初期的n.(动物的)崽,仔"
-younger,n.年纪较小者adj.较年轻的
-youngest,
-old,"adj.年老的,老的,...岁的,陈旧的,古老的"
-older,adj.年长的
-oldest,
-thin,"adj.薄的,细的,瘦的,稀少的,稀疏的,(液体、气体)稀薄的,淡的,空洞的vt.使变薄,使变细,使稀少,使淡vi.变薄,变细,稀少,变淡adv.薄地,稀疏地,微弱地n.细小部分"
-thinner,n.稀释剂
-thinnest,"adj.薄的,瘦的"
-date,"n.日期,日子,(历史上某一)年代,时期,约会,枣椰子vt.约会,定日期vi.注明...的日期,过时 [计] 显示或设置系统日期"
-around,"adv.周围,四周,到处,大约,左右 prep.在...周围,四处"
-planet,n.[天]行星
-sun,"n.太阳,阳光,恒星vt.晒n.(Sun) 星期天(=Sunday) 美国Sun公司,主要生产SUN系列工作站和网络产品,是JAVA语言的创始者"
-American,
+﻿spaceship,"[法] 太空船, 航天飞船"
+moon,"n. 月亮, 月球, 月光
+vi. 闲荡
+vt. 虚度"
+astronaut,"n. 太空旅行者, 宇航员
+[法] 美国太空人"
+have,"vt. 有, 怀有, 拿, 进行
+aux. 已经"
+has,"v. 有；必须；取得；经受
+auxv. 现在完成式；过去完成式；未来完成式；表示假设语气
+n. 有钱人；(天然资源多的)富国；诈骗
+[网络] 有着；现在完成时；孩之宝公司(Hasbro)"
+had,[网络] 不是
+dream,"vi. 梦想；做梦，梦见；想到
+n. 梦想，愿望；梦
+vt. 梦想；做梦；想到
+adj. 梦的；理想的；不切实际的"
+last night,昨晚
+am,"abbr. 调幅；振幅调制；议员（威尔士议会成员）
+[网络] 调幅(amplitude modulation)；上午(a.m.)；是"
+is,"v. 是
+abbr. (=island；isle)岛；群岛
+[网络] 冰岛；在；印度标准(Indian Standard)"
+was,be的过去式
+are,[网络] 一重
+were, (we are 的常用口语形式)
+air,"n. 空气；空中；天空；神态
+v. 晾；播出；播送；晾干
+[网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
+friendly,[网络] -友善
+Earth,[网络] 莉莎的天空
+yesterday,[网络] 昨日
+swimming pool,n. 游泳池
+clean,"a. 干净的, 清白的, 简洁的
+adv. 清洁地, 完全地
+vt. 清理, 使干净, 出空
+vi. 被搞干净
+n. 打扫"
+cleaned,v. （使）清洁( clean的过去式和过去分词 ); 变干净; 除去…的灰尘; 使…干净
+film,"n. 软片, 薄膜, 胶卷, 电影
+vt. 覆以薄膜, 拍摄
+vi. 生薄膜, 拍电影"
+visit,"n. 拜访, 访问, 游览, 视察
+vt. 拜访, 访问, 参观, 视察, 降临
+vi. 访问, 参观, 闲谈"
+visited,"v. 拜访, 访问（visit的过去式）"
+go,[网络] 困觉；绿基色输出；格拉苏蒂
+went,"v. 去，过去（go的过去式）
+n. (Went)人名；(德、匈、荷)文特；(英)温特"
+slowly,adv. 缓慢地，慢慢地
+want,[网络] 没有区别欲望
+wanted,a. 被通缉的
+pass,"n. 经过, 要隘, 途径, 通行, 护照, 及格
+vt. 经过, 越过, 通过, 批准, 度过, 传递, 忽略
+vi. 经过, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌, 传递
+[计] 遍"
+passed,a. 已被传递的；已经通过的；已经过去的
+eat,"v. 吃；吃饭；用餐
+[网络] 食；喝；进食"
+ate,"v. eat(吃)的过去式
+[网络] 自动测试设备(Automatic Test Equipment)；自动化测试设备(Automated Test Equipment)；吃的过去式"
+quickly,adv. 很快地
+another,n. 待定人选
+suddenly,adv. 突然地；忽然
+look,"n. 看；外观；查找；瞧
+v. 看；寻找；瞧；注意
+linkv. 显得；似乎；看来好像
+int. 听我说
+[网络] 看起来；看上去；注视"
+looked,"v. 看, 瞧( look的过去式和过去分词 ); 注意; 面向; 寻找"
+sick,"n. 病人
+a. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的
+vt. 呕吐, 追击, 使(狗)去攻击"
+cough,"n. 咳嗽
+vi. 咳嗽
+vt. 咳出"
+coughed,v. 咳嗽( cough的过去式和过去分词 ); （从喉咙或肺中）咳出; （突然）发出刺耳的噪音
+everywhere,[网络] 到处；无所不在；别管距离多远
+help,"n. 帮忙, 帮助者, 补救办法, 有益的东西
+vt. 帮助, 帮忙, 接济, 治疗, 款待
+vi. 有用, 救命, 招待
+[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+helped,v. 帮助（help的过去分词）
+careful,adj. 仔细的，小心的
+first,"adv. 第一；首先；优先；宁愿
+n. 第一；开始；冠军
+adj. 第一的；基本的；最早的
+num. 第一
+n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
+second,"n. 秒；第二名；瞬间；二等品
+vt. 支持
+adj. 第二的；次要的；附加的
+num. 第二
+adv. 第二；其次；居第二位
+n. (Second)人名；(法)塞孔"
+third,"num. 第三, 三分之一
+[机] 第三; 第三的"
+fourth,"num. 第四, 四分之一"
+fifth,"num. 第五, 五分之一"
+run,"vi. 经营；奔跑；运转
+vt. 管理，经营；运行；参赛
+n. 奔跑；赛跑；趋向；奔跑的路程
+n. (Run)人名；(塞)鲁恩"
+ran,run的过去式
+race,"n. 种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根
+vi. 赛跑, 竞赛, 疾走
+vt. 与...赛跑, 使疾走, 使猛转
+[计] 竞争; 追赶; 欧州高级通信研究开发计划"
+meter, [医]〔后缀〕意为：测量用的计、表、量器
+win,"vt. 赢得, 打胜, 成功
+vi. 获胜, 达到, 影响
+n. 胜利, 赢, 收益"
+won,win的过去式和过去分词
+excited,"a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的"
+last,"a. 最后的, 末尾的, 最近的
+vi. 持续, 支持, 维持
+vt. 使维持, 够...用
+adv. 最后, 后来
+n. 最后, 末尾, 鞋楦头"
+prize,"n. 奖赏, 奖金, 奖品, 战利品, 捕获
+a. 得奖的
+vt. 珍视, 估价, 捕获, 撬, 撬动"
+sad,"a. 忧愁的, 悲哀的"
+decide,"v. 决定, 判决"
+decided,"a. 确定的, 坚决的"
+high,"adj. 高的；高级的；崇高的；高音调的
+n. 高水平；天空；由麻醉品引起的快感；高压地带
+adv. 高；奢侈地
+n. (High)人名；(英)海伊"
+happy,[网络] -快乐
+sixth,"num. 第六, 六分之一"
+seventh,"num. 第七, 七分之一"
+eighth,"num. 第八, 八分之一"
+ninth,"num. 第九, 九分之一"
+tenth,"num. 第十, 十分之一"
+birthday,n. 生日，诞辰；诞生的日子
+June,n. 六月
+May,"n. 五月
+aux. 愿能, 可以, 愿意"
+September,n. 九月
+November,n. 十一月
+July,n. 七月
+spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
+a. 春天的
+vi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸
+vt. 使跳起, 使爆炸, 突然提出"
+March,abbr. Master of Architecture 建筑学硕士
+check,"n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
+vt. 检查, 阻止, 核对, 寄存, 托运
+vi. 逐项相符, 开支票
+[计] 复选"
+checked,"a. 有格子图案的, 闭音节的, 选中的
+[计] 选中的"
+autumn,"n. 秋天；成熟期；渐衰期，凋落期
+adj. 秋天的，秋季的
+n. (Autumn)人名；(英)奥特姆"
+either,[网络] 其他
+call,"n. 呼叫, 访问, 打电话, 号召, 召集, 要求
+vt. 呼叫, 召集, 打电话
+vi. 叫喊, 访问, 叫牌
+[计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件"
+called,a. 被呼叫的
+talk,"n. 谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言
+vi. 讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话
+vt. 讲, 说, 讨论, 谈论
+[计] 对话类, 聊天"
+talked,"n. 讲话, 交谈 talk的过去式
+v. 说( talk的过去式和过去分词 ); 讨论; 说话; （用以强调款额、情况严重程度等）讲的是"
+December,n. 十二月
+summer,[网络] 夏季
+October,n. 十月
+January,n. 一月
+February,n. 二月
+April,n. 四月
+August,"n. 八月
+a. 威严的, 令人敬畏的"
+winter,"n. 冬季；年岁；萧条期
+vi. 过冬
+adj. 冬天的；越冬的
+n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+season,"n. 季节, 时节, 当令期, 时期
+vt. 给...调味, 使成熟, 使老练, 缓和
+vi. 变干燥"
+height,"n. 高度, 海拔, 高地, 顶点
+[化] 高度"
+weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
+vt. 加重量于, 压迫, 使加权, 称重量
+[计] 粗细"
+centimeter,[网络] 公分；厘米
+weigh,"vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚
+vi. 称分量, 有意义, 重压, 起锚
+n. 过秤, 称分量"
+kilogram,n. 公斤；千克
+take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
+vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
+n. 拿, 取, 收成, 奏效"
+took,take的过去式
+center,"n. 中心, 中心点, 中锋
+a. 中央的, 位在正中的
+vt. 集中, 定中心
+vi. 居中
+[计] 居中; 中央"
+tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
+taller,a. 高的( tall的比较级 ); 难以置信的; 难以完成的; （用以表示或询问高度）有...高
+tallest,a. 最高的
+short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
+adv. 简短地, 突然
+n. 扼要, 短片, 缺乏
+vt. 故意少给, 使短路"
+shorter,a. 较短的；更短的；更矮的（short的比较级）
+shortest,[计] 最短的
+than,"conj. 比, 除...外
+prep. 比"
+heavy,"a. 重的, 巨大的, 沉重的, 笨重的, 过度的
+adv. 沉重地
+n. 重物, 严肃角色"
+heavier,a. 巨大的；沉重的
+heaviest,a. 最重的（heavy的最高级）
+something,"pron. 某事；某物
+n. 重要的人；值得重视的事
+adv. 非常；有点；大约
+adj. 大约；有点象"
+wrong,"a. 错误的, 不正当的, 失常的
+adv. 错误地"
+big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+bigger,a. 更大的（big的比较级）
+biggest,a. 最大的（big的最高级）
+small,"a. 小的, 少的, 小型的, 低微的, 小气的, 细微的
+adv. 些微地
+n. 狭小部分"
+smaller,"a. 较小, 更小的"
+smallest,a. 最小的（small的最高级）
+long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
+adj. （长度或距离）长的；（询问或谈论长度或距离）长；长时间的；长久的
+adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
+v. （尤指对看似不会很快发生的事）渴望
+[网络] 长整型；长整数；多头"
+longer,"(long- 的比较级) n. 长时间；[语] 长音节
+a. 长的；过长的；做多头的
+vi. 渴望；热望
+adv. 长期地；始终
+n. (Long)人名；(英、法、德、瑞典)朗；(柬)隆"
+longest,"n. 长时间；[语] 长音节
+a. 长的；过长的；做多头的
+vi. 渴望；热望
+adv. 长期地；始终
+n. (Long)人名；(英、法、德、瑞典)朗；(柬)隆
+(long- 的最高级)"
+young,"a. 年轻的, 无经验的, 朝气蓬勃的
+n. 青年们, 幼小动物, 崽"
+younger,"n. 年纪较小者
+a. 较年轻的"
+youngest,"n. 年纪最小的人, 最小的儿子/女儿
+[计] 最近期的"
+old,"n. 老年人；…岁的(人)；旧事物
+adj. 老的；陈年的；…久的；年龄较长的
+[网络] 旧的；年老的；古老的"
+older,a. 年长的；较旧的
+oldest,a. 最旧的；最老的（old的最高级）
+thin,"a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的
+vt. 使变薄, 使变细, 使稀少, 使淡
+vi. 变薄, 变细, 变少, 变淡
+adv. 薄地, 稀疏地, 微弱地
+n. 细小部分"
+thinner,"n. 稀释剂
+[化] 稀释剂"
+thinnest,"a. 薄的, 瘦的"
+date,"n. 日期, 约会, 枣椰树
+vt. 约会, 定日期
+vi. 注明日期, 过时"
+around, 一发；一圈
+planet,"n. 行星, 命运星辰, 杰出的人, 重大影响的事"
+sun,"n. 太阳, 日, 日光, 阳光
+vt. 晒
+vi. 晒太阳"
+American,"n. 美国人
+a. 美国的, 美洲的"

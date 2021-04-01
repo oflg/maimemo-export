@@ -1,68 +1,143 @@
-﻿Hello.,
-I'm,
-I am,
-Hi.,
-Good morning!,
-Good afternoon!,
-Good evening!,
-Woof!,
-Good night!,
-morning,"n.早晨,上午"
-afternoon,"n.午后,下午adv.下午的,晚期"
-evening,"n.傍晚,晚间,后期,(联欢性的)晚会"
-night,"n.夜,夜晚,黑暗,死亡"
-Miss,
-Miss Li,
-mum,"n.[植](=chrysanthemum)菊花,沉默adj.沉默的vi.演哑剧int.别说话!"
-dad,"n.爸爸,爹爹"
-this,"adj.这,这个,今,本 pron.这,这个"
-is," prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
-This is ...,
-Goodbye!,
-Mr,
-Mr Green,
-Is this ...?,
-a,"n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
-teddy,n.(流行于20世纪20年代的妇女)连衫衬裤
-box,"n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
-yes,adv.n.是
-bag,"n.袋子,猎获物"
-no,"n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
-puppy,"n.(常指未满一岁的)小狗,小动物,自负的青年"
-cherry,"n.樱桃,樱桃树,如樱桃的鲜红色,<俚,鄙>处女膜,处女"
-please,"adj.满足的vt.请v.使喜欢,中...的意,使满足,取悦"
-banana,n.香蕉
-peach,"n.桃子,桃树,桃色,<美俚>受人喜欢的人(或物)vt.告发vi.告密"
-grape,"n.葡萄,葡萄树"
-OK.,
-Thank you.,
-Look!,
-Ha! Ha!,
-look at,
-my," pron.我的int.<口>嗳呀!啊呀! [域] Malaysia ,马来西亚"
-balloon,n.气球
-pink,"n.粉红色,石竹花,化身,极致,精华adj.粉红的vt.刺,扎,刺痛,使变粉红色vi.变粉红色"
-it's,
-it is,
-nice,"adj.美好的,和蔼的,正派的,细微的,挑剔的,精密的,拘泥的"
-red,"n.红色,红衣服,红颜料,赤字,亏空adj.红(色)的,革命的"
-blue,"n.蓝色adj.蓝色的,忧郁的,沮丧的"
-green,"n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
-I,
-can,"vt.装进罐中,把食品装罐n.罐头,铁罐 conj.能,可以"
-I can ...,
-dance,"n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
-robot,"n.机器人,遥控设备,自动机械,机械般工作的人"
-sing,"v.唱,演唱"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-Great!,
-cook,"n.厨师v.烹调,煮,伪造"
-Wow!,
-put on,
-your," pron.你的,你们的"
-coat,"n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
-oh,"int.[表示惊讶、害怕等] 哦,哎哟"
-cold,"n.寒冷,[物]零下温度,伤风,感冒adj.寒冷的,使人战栗的,冷淡的,不热情的,失去知觉的"
-scarf,"n.围巾,头巾领巾,嵌接,嵌接处,切口v.围(围巾),披(头巾)嵌接"
-beanie,n.(大学一年级男生或儿童等戴的)无檐小便帽
-sweater,"n.厚运动衫,毛线衫"
+﻿Hello.,"int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛"
+I'm,"na. 'im = him
+[网络] 即时通讯(Instant Messaging)；即时通信(Instant Messenger)；即时消息"
+I am,[网络] 我是；这就是我；唯我是问
+Hi.,[网络] 可移动磁盘
+Good morning!,早上好
+Good afternoon!,下午好
+Good evening!,晚上好
+Woof!,"n. 纬线, 织物, 基本成分, 低吠声, 低鸣声"
+Good night!,"晚安, 再见"
+morning,n. 早晨；黎明；初期
+afternoon,n. 午后，下午
+evening,"n. 晚上；傍晚；（联欢性的）晚会；后期
+adj. 在晚上的；为晚上的；晚上用的
+int. 晚上好（等于good evening）"
+night,"n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作
+[法] 夜, 黑夜, 黑暗"
+Miss,"n. 失误, 避免, 失败, 小姐
+vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
+vi. 失败, 击不中"
+Miss Li,无
+mum,"n. 菊花, 沉默
+a. 沉默的
+vi. 演哑剧
+interj. 别说话"
+dad,[网络] 爸爸；无明显疾病；一台带二级管阵列检测器
+this,"pron. 这；这里；这时；(前述二物中的)后者
+adj. 这；即将来到的；今…
+adv. 这个；本；这样；这么
+[网络] 这场；此；这位"
+is,"v. 是
+abbr. (=island；isle)岛；群岛
+[网络] 冰岛；在；印度标准(Indian Standard)"
+This is ...,[网络] 这是；这位是；我是
+Goodbye!,再见（歌曲名）
+Mr,"abbr. （用于男子的姓氏或姓名前）先生；（用于称呼要员）先生
+[网络] 磁共振(magnetic resonance)；中置后驱；甲基红(Methyl Red)"
+Mr Green,无
+Is this ...?,无
+a,"na. 一
+n. 英文字母表的第一字母；【乐】A音
+art. 冠以不定冠词主要表示类别
+[网络] 从；按；一个"
+teddy,n. 连衫衬裤；泰迪玩具熊
+box,"n. 箱；盒；方框；匣
+v. （拳击运动中）击打（某人）；把（某物）装箱（或盒、匣）
+[网络] 盒子；箱子；长方体"
+yes,"int. 答话时表示正确或真实；表示同意所说的话；反驳否定的话
+adv. (回答问话、招呼等)是；(怀疑或促人往下讲)真的吗
+n. 表示同意的答复；表示同意的人
+[网络] 是的；有；不错"
+bag,[医] 颊轴龈的
+no,"adv. 没有；无；并不；禁止
+int. 没有；不是；不要；（用于否定的回答或陈述）不
+adj. 禁止；(一个也)没有；一点儿也没有；什么也[谁也]没有
+n. 否定的回答；作否定回答的人；（统称）投反对票者
+abbr. 【化】同“nobelium”(=number)
+[网络] 一氧化氮(Nitric Oxide)；不(nope)；没有(None)"
+puppy,"n. 小狗, 小动物, 自负的年轻人"
+cherry,"n. 樱桃, 樱桃树, 樱桃色
+[医] 樱桃"
+please,"adv. 请
+vt. 使高兴, 合...的心意, 取悦
+vi. 使人满意, 讨好, 愿意, 敬请"
+banana,n. 香蕉
+peach,"n. 桃子, 桃树, 桃色, 美人儿, 极好的事物
+vt. 告发
+vi. 告密, 检举"
+grape,"n. 葡萄, 葡萄树
+[医] 葡萄"
+OK.,[网络] 确定；好；击
+Thank you., 谢谢你
+Look!,"n. 看；外观；查找；瞧
+v. 看；寻找；瞧；注意
+linkv. 显得；似乎；看来好像
+int. 听我说
+[网络] 看起来；看上去；注视"
+Ha! Ha!,n. 哈哈的笑声
+look at,"看, 考虑, 着眼于"
+my,"int. 哎呀；表示惊讶
+adv. 我的；表示吃惊等；表示亲切；对下级的称呼
+abbr. (=Malaysia)马来西亚
+pron. ""I"" 的所有格形式
+[网络] 马来西亚(Malaysia)；关於我；买"
+balloon,"n. 气球
+vt. 使成气球状
+vi. 膨胀如气球, 激增"
+pink,[网络] 光子晶体技术；光子墨水
+it's,"pron. 其
+short. it is；it has
+adv. （指事物、动物或婴儿）它的
+[网络] 智能交通系统(Intelligent Transportation System)；智能运输系统"
+it is," [医]〔复-itides〕〔后缀〕炎, 炎症"
+nice,"a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的"
+red,"n. 红色；红葡萄酒；左翼人士；激进分子
+adj. 红的；红色的；充血的；布满血丝的
+[网络] 红(redness)；赤焰战场；红颜色"
+blue,"n. 蓝色
+a. 蓝色的, 下流的, 忧郁的
+vt. 染成蓝色
+vi. 变蓝"
+green,"n. 绿色；草坪；绿色蔬菜；草绿色
+v. 绿化；使增强环境保护意识；使善待环境
+adj. 绿色的；草绿色的；长满青草的；绿油油的
+[网络] 格林；果岭；绿的"
+I,"pron. 我
+n. 英语字母表的第9个字母；（罗马数字）1
+abbr. 岛，群岛
+[网络] 伊诗尔；自我"
+can,[=child abuse and neglect]虐待和忽视儿童
+I can ...,[网络] 我能；爱肯我能；能够
+dance,"n. 跳舞, 舞蹈, 舞会
+v. 跳舞"
+robot,"n. 机械人, 自动机械, 机械般工作的人
+[计] 机器人; 自动机"
+sing,"vi. 唱歌；歌颂；鸣叫；呼号
+vt. 唱；用诗赞颂；唱着使
+n. 演唱；鸣声；呼啸声
+n. (Sing)人名；(老、德、泰)辛"
+draw,[计] Acorn的基于对象的矢量图像文件
+Great!,"a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
+adv. 顺利地, 得意地
+n. 全部, 大人物, 大师"
+cook,"n. 厨子, 厨师
+vt. 烹调, 煮饭, 加热
+vi. 在煮着"
+Wow!,[计] Grave Composer音乐模块（MOD）文件
+put on,"na. 假话
+[网络] 穿上；上演；戴上"
+your,"pron. 你的, 你们的"
+coat,"n. 外套
+vt. 外面覆盖, 给...穿外套"
+oh,abbr. on-Hudson 邻近哈得逊河
+cold,"n. 感冒, 寒冷
+a. 寒冷的, 冷淡的, 冷静的
+adv. 完全地"
+scarf,"n. 围巾, 头巾, 领带, 领巾, 嵌接
+vt. 用围巾围, 嵌接"
+beanie,n. (大学一年级男生或儿童等戴的)无檐小便帽
+sweater,"n. 毛衣, 毛线衫, 运动衫, 出汗者
+[化] 发汗器"

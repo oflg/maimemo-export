@@ -1,101 +1,131 @@
-﻿too much,
-candy,"n.糖果,冰糖v.蜜饯,糖煮(水果)"
-go to bed,
-early,"adj.早的,早熟的,及早的,早先的,早期的adv.早,在初期"
-exercise,"n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
-tired,"adj.疲劳的,累的,疲倦的"
-drink,"n.饮料,酒,酗酒,一口(或一些)饮料v.喝,喝酒,(植物、土壤等的)吸水,举杯庆贺"
-before,"adv.在前,以前 prep.在...之前 conj.在...之前,与其...宁可"
-dirty,"adj.肮脏的,卑鄙的,下流的,暴风雨的,恶劣的(天气)vt.弄脏vi.变脏"
-always,"adv.总是,永远,始终"
-stomachache,"n.胃痛,肚子痛"
-headache,"n.头痛,令人头痛之事"
-toothache,n.牙痛
-a lot of,
-sleepy,"adj.困乏的,欲睡的"
-subject,"n.题目,主题,科目,学科,国民,[语法]主语adj.受他国统治的,未独立的,受制于...的,受...影响的,以...为条件的vt.使屈从于...,使隶属"
-mark,"n.标志,分数,痕迹,记号vt.做标记于,打分数,标志vi.作记号 Mark 马克(男子名)"
-advice,"n.忠告,建议,[商]通知"
-more,"adj.更多的n.更多adv.更,更多,更加,超过,多,大大高于 num.更多"
-New Year's Day,
-Tree Planting Day,
-Mother's Day,
-Children's Day,
-Father's Day,
-Teachers' Day,
-National Day,
-Christmas Day,
-birthday,n.生日
-fifth,adj.第五的
-5th,
-tenth," num.第十,十分之一"
-10th,
-twelfth, num.第十二
-12th,
-twenty-fifth,
-25th,
-plant,"n.植物,庄稼,工厂,车间,设备vt.种植,栽培,培养,安置vi.种植"
-make a poster,
-celebrate,"v.庆祝,祝贺,表扬,赞美,举行"
-have a picnic,
-office,"n.办公室,办事处,事务所,<英>政府机关,部,公职,职责,帮助"
-together,"adv.共同,一起,合起来,集拢地"
-special,"n.特派员,专车,专刊adj.特别的,特殊的,专门的,专用的"
-send an email,
-write a letter,
-make a phone call,
-send a short message,
-mail a present,
-make a video call,
-say,"v.说,讲,背诵,念,表示,比方说,假定n.话语,想说的意见,发言权"
-make a card,
-everywhere,"adv.各处,到处"
-flower show,
-cleaned the window,
-watched TV,
-climbed a hill,
-visited grandparents,
-danced,
-jumped rope,
-listened to music,
-rowed a boat,
-played computer games,
-stayed at home,
-played the piano,
-played chess,
-washed clothes,
-boring,n.钻(孔)adj.令人厌烦的
-badminton,n.羽毛球
-won,vbl.win的过去式和过去分词
-went to the beach,
-drank cold drinks,
-swam, vbl.swim的过去式
-ate ice-cream,
-the Stone Forest,
-bought some gifts,
-took photos,
-saw flowers,
-slept,vbl.sleep的过去式和过去分词
-delicious,adj.美味的
-felt happy,
-sad,"adj.忧愁的,悲哀的"
-left,"adj.左边的,左倾的,左侧的,左派的,左翼的adv.在左面n.左,左边,左派 vbl.leave的过去式和过去分词"
-French fries,
-were,vbl.be的过去式
-was born,
-started to speak,
-learned to walk,
-learned to ride a bike,
-went to kindergarten,
-went to school,
-learned to swim,
-fifteenth,adj.第十五的
-15th,
-started to buy things,
-started to study English,
-started to use a computer,
-all over,
-out of,
-into," prep.到...里,进入到...之内,成为...状况,深入...之中"
-chopsticks,n.筷子
-wet,"adj.湿的,潮湿的,有雨的,多雨的vt.弄湿"
+﻿too much,"太多, 太高"
+candy,[网络] 服务又分青少年
+go to bed,"上床, 睡觉"
+early,"a. 早的, 早熟的
+adv. 很早, 初"
+exercise,"n. 行使, 执行, 运动, 练习, 作业
+vt. 运用, 练习, 运动
+vi. 练习, 锻炼"
+tired,"a. 疲累的, 疲乏的, 厌倦的"
+drink,"n. 饮料, 酒
+v. 喝, 喝酒"
+before,"prep. 在…之前，先于
+adv. 以前；在前
+conj. 在…以前；在…之前"
+dirty,"a. 肮脏的, 卑鄙的
+vt. 弄脏
+vi. 变脏"
+always,[网络] 永远；总是
+stomachache,n. 胃痛；肚子痛
+headache,[网络] 头痛
+toothache,[医] 牙痛
+a lot of,许多的
+sleepy,"a. 困乏的, 欲睡的"
+subject,[网络] 主体；对象；主题
+mark,"n. 标志, 分数, 马克, 痕迹, 斑点, 靶子, 刻度, 记号, 符号, 戳记, 标准, 起跑线
+vt. 做标记于, 留意, 打分数, 表明, 标志, 记录
+vi. 作记号, 记得分
+[计] 标志; 标记; 传号"
+advice,"n. 忠告, 劝告, 意见, 报道, 通知
+[经] 通知书, 通知, 建议"
+more,suff. 更…
+New Year's Day,元旦
+Tree Planting Day,无
+Mother's Day,"na. (美国和加拿大的)母亲节
+[网络] 第二个星期日母亲节；月的第二个星期日；月第二个星期日"
+Children's Day,"n. 儿童节(基督教会浸礼的节日,通常在六月的第二个星期日)"
+Father's Day,n. 父亲节（每年六月份的第三个星期日）
+Teachers' Day,教师节
+National Day, 国庆日，国庆节；国定纪念日
+Christmas Day,圣诞节
+birthday,n. 生日，诞辰；诞生的日子
+fifth,"num. 第五, 五分之一"
+5th,n. 第五（fifth）
+tenth,"num. 第十, 十分之一"
+10th,无
+twelfth,"num. 第十二, 十二分之一"
+12th,无
+twenty-fifth,无
+25th,无
+plant,"n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备
+vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于
+vi. 种植"
+make a poster,n. 制作海报
+celebrate,"v. 庆祝, 祝贺, 举行"
+have a picnic,"吃野餐,去野餐"
+office,[网络] 办公室；写字楼
+together,"adv. 一起；同时；相互；连续地；总共
+adj. 新潮的；情绪稳定的，做事有效率的"
+special,"n. 专辑, 专车, 号外, 特别的东西, 负有特别任务的人员
+a. 特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的"
+send an email,无
+write a letter, 写信; 修书
+make a phone call,[网络] 打电话；打个电话；打电话号码
+send a short message,无
+mail a present,无
+make a video call,无
+say,"v. 说；告诉；讲；表达
+n. 发言权；决定权
+int. 啧啧；我说
+[网络] 说话；念；比如说"
+make a card,以一牌赢一墩
+everywhere,[网络] 到处；无所不在；别管距离多远
+flower show,花展
+cleaned the window,无
+watched TV,无
+climbed a hill,无
+visited grandparents,无
+danced,v. 跳舞( dance的过去式和过去分词 ); 手舞足蹈; 摇晃; 跳跃
+jumped rope,跳绳游戏；跨越横线
+listened to music,无
+rowed a boat,无
+played computer games,无
+stayed at home,无
+played the piano,无
+played chess,无
+washed clothes,无
+boring,"adj. 无聊的；令人厌烦的
+n. 钻孔
+v. 钻孔；使厌烦；挖空（bore的ing形式）
+n. (Boring)人名；(英、瑞典)博林"
+badminton,n. 羽毛球运动
+won,win的过去式和过去分词
+went to the beach,无
+drank cold drinks,无
+swam,swim的过去式
+ate ice-cream,无
+the Stone Forest,无
+bought some gifts,无
+took photos,无
+saw flowers,无
+slept,sleep的过去式和过去分词
+delicious,[网络] 美味书签；社会书签；收藏到
+felt happy,无
+sad,"a. 忧愁的, 悲哀的"
+left,"a. 左边的, 左倾的, 左侧的, 左派的
+adv. 在左面
+n. 左, 左面, 左派
+leave的过去式和过去分词"
+French fries, 炸薯条
+were, (we are 的常用口语形式)
+was born,[网络] 出生；出生於；出生于
+started to speak,无
+learned to walk,无
+learned to ride a bike,无
+went to kindergarten,无
+went to school,无
+learned to swim,无
+fifteenth,"num. 第十五, 十五分之一"
+15th,无
+started to buy things,无
+started to study English,无
+started to use a computer,无
+all over,"全部结束, 到处, 浑身"
+out of,"在...外, 离开..., 从...里面, 出于, 由于, 因为, 缺乏, 没有, 放弃, 丧失"
+into,"prep. 到…里；深入…之中；成为…状况；进入到…之内
+n. (Into)人名；(芬、英)因托"
+chopsticks,n. 筷子
+wet,"n. 湿气, 潮湿, 水分, 雨天
+a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的
+vi. 变湿
+vt. 使...湿"

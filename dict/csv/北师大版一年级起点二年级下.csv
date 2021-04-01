@@ -1,81 +1,155 @@
-﻿fruit,"n.水果,果实,果类,成果vi.结果实"
-it," pron.它;Italy,意大利;Information Technology,信息技术"
-banana,n.香蕉
-nut,"n.坚果,螺母,螺帽,难解的问题"
-pear,"n.梨子,梨树"
-strawberry,n.[植]草莓
-yes,adv.n.是
-lemon,n.柠檬adj.柠檬色的
-an," art.一(在元音字母前代替不定代词a) [域] Netherlands Antilles ,荷兰属地"
-orange,"n.柑,桔,橙,橙色"
-vegetables,
-are," prep.是,在,公亩"
-these,adj.pron.这些
-they," pron.他们,它们"
-tomatoes,
-those,adj.pron.那些
-beans,
-mushrooms,
-cabbages,
-onions,
-potatoes,
-carrots,
-eggplants,
-peppers,
-number,"n.数,数字,数量,号码,算术,诗,韵律v.遍号码,共计...,计入,计算,算入"
-bird,"n.鸟,<俚>人vi.在野外观察或鉴别鸟类"
-how many,
-there,adv.在那里
-nest,"n.巢,窝,休息所,隐匿处,舒适的地方,(可以一个套一个的)一套器具vi.筑巢,找鸟巢vt.造巢,使套入"
-too,"adv.也,太过份"
-egg,"n.蛋,鸡蛋,卵v.怂恿,怂恿"
-flower,"n.花,开花的植物,花卉,精华,盛时vi.开花,旺盛,成熟vt.用花装饰,使开花"
-eleven,n.十一
-thirteen, num.十三
-twelve, num.十二
-small,"adj.小的,少的"
-crocodile,"n.鳄鱼,鳄鱼皮"
-big,"adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
-fourteen, num.十四
-fifteen,adj.十五
-sixteen, num.十六
-seventeen, num.十七n.十七个
-eighteen,"adj.十八的,十八个的"
-nineteen, num.十九
-twenty," num.二十,二十个"
-color,"n.<美>(=colour)颜色,色彩,脸色,风格,外貌vt.给...涂颜色,改变...的颜色,粉饰,脸红,歪曲vi.获得颜色,变色"
-butterfly,n.[动]蝴蝶 蝶泳
-beautiful,"adj.美丽的,很好的"
-red,"n.红色,红衣服,红颜料,赤字,亏空adj.红(色)的,革命的"
-yellow,n.黄色adj.黄色的
-blue,"n.蓝色adj.蓝色的,忧郁的,沮丧的"
-green,"n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
-brown,"n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
-orange,"n.柑,桔,橙,橙色"
-look at,
-all,"adj.全部的,所有的,整个的adv.完全,更加,越发 pron.全部"
-white,"n.白色,蛋白,白种人adj.白(色)的,白种人的"
-black,"n.黑色,黑颜料,黑人adj.黑色的,弄脏了的,忧郁的vt.(使)变黑,涂黑"
-pink,"n.粉红色,石竹花,化身,极致,精华adj.粉红的vt.刺,扎,刺痛,使变粉红色vi.变粉红色"
-purple,adj.紫色的n.紫色
-can,"vt.装进罐中,把食品装罐n.罐头,铁罐 conj.能,可以"
-climb,"v.攀登,爬n.攀登,爬"
-tree,"n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
-see,"v.看,看见,了解,领会,注意,留心,经历,阅历"
-house,"n.房子,住宅,库房,机构,家庭,家族,议院,剧场vt.给...房子住,收藏,覆盖vi.住,躲藏(up)"
-catch,"n.捕捉,捕获物,(窗)钩v.捕获,赶上(车船等),发觉,感染(疾病)vi.抓住,燃着"
-walk,"vi.步,行,走n.步行,散步,步,行道"
-carry,"n.进位,射程,运载vt.携带,运送,支持,支撑,传送,意味vi.被携带,能达到"
-listen,"vi.听,听从v.听,收听"
-read,"v.读,阅读,理解,学习adj.有学问的n.读取 vbl.read的过去式和过去分词"
-write,"vt.书写,著述,写,写满,写信给vi.写,写字,写信,写作,作曲"
-sing,"v.唱,演唱"
-dance,"n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
-talk,"v.谈话,讲,谈论,议论,说服某人做某事n.谈话,会谈,讲演,讲话"
-draw,"v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
-open,"n.公开,户外,空旷adj.开着的,敞开的,(车等)无篷的,开阔的,营业着的,公开的,坦率的,未决定的vt.打开,公开,开放vi.展开,开始,展现"
-door,"n.门,通道,家,户"
-candy bar,
-cookie,"n.(苏格兰)甜面包,(美国)小甜饼,一种网络服务器传递给浏览器的信息"
-monkey,n.猴子
-animal,n.动物
+﻿fruit,"n. 水果, 果类, 结果
+[医] 果实, 种实"
+it,"n. 信息技术（全写为 information technology，对将电子处理程序及设备应用于存储和发送各类信息的研究和利用）
+[网络] 信息技术(Information Technology)；它；资讯科技"
+banana,n. 香蕉
+nut,"n. 坚果, 核心, 螺帽
+[计] Novell NetWare服务器实用程序"
+pear,"n. 梨子, 梨树, 梨木
+[机] 梨木"
+strawberry,n. 草莓
+yes,"int. 答话时表示正确或真实；表示同意所说的话；反驳否定的话
+adv. (回答问话、招呼等)是；(怀疑或促人往下讲)真的吗
+n. 表示同意的答复；表示同意的人
+[网络] 是的；有；不错"
+lemon,"n. 柠檬, 柠檬树, 柠檬色
+[医] 柠檬"
+an,"suf. 表示; “碳水化合物的酐类”：dextran; “不饱和的碳化物”：tolan; 用于专有人、地名等后构成通常可兼作名词用的形容词表示“…时期的(人)”, “…地方的(人)”, “在…居住的(人)”, “在…出生的(人)”：American, Asian, Elizabethan, Victorian; 用于表示体制、学科等的词后及宗教或其他流派创始人的人名后构成可兼作名词的形容词或单词性的形容词或名词表示“精通…的(人)”, “带有…特征的(人)”, “属于…的(人)”, “信奉…的(人)”, “追随…的(人)”"
+orange,"n. 柑橘, 桔子, 橘色
+a. 橘色的"
+vegetables,n. [园艺] 蔬菜（vegetable的复数形式）；菜类
+are,[网络] 一重
+these,pron. 这些
+they,[网络] 青春不羁；沂河水；白玉兰
+tomatoes,n. 蕃茄（tomato的复数形式）
+those,pron. 那些
+beans,n. 豆子；豆类；黄豆（bean的复数）
+mushrooms,n. 蘑菇；蕈类（mushroom的复数形式）
+cabbages,"n. 洋白菜, 卷心菜( cabbage的名词复数 )"
+onions,n. 奥尼恩斯（姓氏）；奥尼恩斯（英国语言学家、词典编纂家）
+potatoes,n. 马铃薯；土豆（potato的复数形式）
+carrots,n. 胡萝卜；红萝卜（carrot的复数形式）
+eggplants,n. 茄子( eggplant的复数形式 )
+peppers,n. 胡椒粉( pepper的名词复数 ); 辣椒
+number,[网络] 数量
+bird,"n. 鸟, 羽毛球
+vi. 打鸟"
+how many, 几何；几；多少；几多
+there,[网络] -那里
+nest,[网络] 巢
+too,"adv. 也, 非常, 太"
+egg,"n. 蛋, 卵
+vt. 挑唆, 煽动, 调蛋黄"
+flower,"n. 花, 开花植物, 精华, 盛时
+vi. 开花, 发育, 旺盛, 成熟
+vt. 用花装饰, 使开花"
+eleven,"num. 十一, 十一个"
+thirteen,"num. 十三, 十三个"
+twelve,"num. 十二, 十二个"
+small,"a. 小的, 少的, 小型的, 低微的, 小气的, 细微的
+adv. 些微地
+n. 狭小部分"
+crocodile,n. 鳄鱼
+big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+fourteen,"num. 十四, 十四个"
+fifteen,"num. 十五, 十五个"
+sixteen,"num. 十六, 十六个"
+seventeen,"num. 十七, 十七个"
+eighteen,"num. 十八, 十八个"
+nineteen,"num. 十九, 十九个"
+twenty,"n. 二十几；二十年代
+num. 二十
+[网络] 二十个；廿；第二十"
+color,[地名] 科洛河 ( 澳 )
+butterfly,"n. 蝴蝶
+[医] 蝶式棉块, 翼形皮癣, 纸蝶"
+beautiful,"adj. 美丽的
+出色地
+出色的
+迷人的
+迷人地"
+red,"n. 红色；红葡萄酒；左翼人士；激进分子
+adj. 红的；红色的；充血的；布满血丝的
+[网络] 红(redness)；赤焰战场；红颜色"
+yellow,"n. 黄色
+a. 黄色的"
+blue,"n. 蓝色
+a. 蓝色的, 下流的, 忧郁的
+vt. 染成蓝色
+vi. 变蓝"
+green,"n. 绿色；草坪；绿色蔬菜；草绿色
+v. 绿化；使增强环境保护意识；使善待环境
+adj. 绿色的；草绿色的；长满青草的；绿油油的
+[网络] 格林；果岭；绿的"
+brown,"n. 褐色
+a. 褐色的
+v. (使)变褐色"
+orange,"n. 柑橘, 桔子, 橘色
+a. 橘色的"
+look at,"看, 考虑, 着眼于"
+all,"pron. 一切；全部；大家；全都
+adj. 一切；全；整个；全体
+adv. 都；全部；全身；那么
+n. 一切；全部；全体
+[网络] 所有；所有的；全部的"
+white,"n. 白色, 洁白, 眼白, 白种人, 蛋白
+a. 白色的, 纯洁的, 白种的, 苍白的, 空白的, 幸运的"
+black,"n. 黑色, 黑颜料
+a. 黑色的"
+pink,[网络] 光子晶体技术；光子墨水
+purple,"n. 紫色, 帝位
+a. 紫色的, 帝王的, 华而不实的
+v. (使)成紫色"
+can,[=child abuse and neglect]虐待和忽视儿童
+climb,"v. 攀登, 上升, 爬
+n. 攀登, 爬升"
+tree,[网络] 树；树结构；连通图为树
+see,"vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
+vi. 看, 观看, 注意, 知道, 考虑
+n. 主教的职位"
+house,"n. 房子, 住宅, 机构, 议院, 家族, 家庭
+vt. 给...房子住, 收藏
+vi. 住, 躲藏"
+catch,"n. 捕捉, 陷阱, 捕捉之物, 抓, 拉手
+vt. 捕捉, 赶上, 感染, 听清楚
+vi. 抓住, 燃着"
+walk,"n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所
+vi. 走路, 步行, 处世
+vt. 走过, 遛, 使走, 护送...走"
+carry,"n. 进位, 射程, 运载
+vt. 携带, 运送, 支持, 传送, 包含
+vi. 被携带, 能达到
+[计] 进位; 进位数"
+listen,"vi. 听, 倾听, 听从
+n. 听, 倾听"
+read,"v. 读, 阅读, 理解
+a. 有学问的
+n. 读取, 阅读
+[计] 读取"
+write,"vt. 书写, 著述, 写, 写满, 写信给
+vi. 写, 写字, 写信, 写作, 作曲
+[计] 书写器"
+sing,"vi. 唱歌；歌颂；鸣叫；呼号
+vt. 唱；用诗赞颂；唱着使
+n. 演唱；鸣声；呼啸声
+n. (Sing)人名；(老、德、泰)辛"
+dance,"n. 跳舞, 舞蹈, 舞会
+v. 跳舞"
+talk,"n. 谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言
+vi. 讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话
+vt. 讲, 说, 讨论, 谈论
+[计] 对话类, 聊天"
+draw,[计] Acorn的基于对象的矢量图像文件
+open,"n. 公开, 户外, 空旷
+a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
+vt. 打开, 公开, 开放
+vi. 展开, 开始, 展现
+[计] 打开指令; 打开语句"
+door,n. 门
+candy bar,n. 单独包装的块状糖
+cookie,"n. 饼干, 小甜点
+[建] 糕点"
+monkey,"n. 猴子, 猿, 打桩锤
+vi. 淘气, 胡闹
+vt. 嘲弄"
+animal,[网络] 动物
