@@ -11,7 +11,6 @@ import argparse
 import codecs
 import csv
 import os
-import re
 import sqlite3
 import sys
 
@@ -58,8 +57,8 @@ class Generate(object):
     def get_exp(self, word):
         cursor = self.stardict_cursor
         newword = word.replace("sth.", "").replace("sb.", "")
-        newword = re.sub("[\s+\.\!\/_,$%^*(+\"\']+|[+——！，。？、~@#￥%……&*（）]+", "",
-                         word)
+        # 去除单词中非字母的字符
+        newword = (''.join([n for n in newword if n.isalnum()])).lower()
         sql = """
         SELECT translation
         FROM stardict
@@ -111,10 +110,13 @@ class Generate(object):
 if __name__ == "__main__":
     if os.path.exists("maimemo.db") == False:
         print(
-            "maimemo.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹")
+            "maimemo.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
+        )
         sys.exit(0)
     if os.path.exists("stardict.db") == False:
-        print("stardict.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹")
+        print(
+            "stardict.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
+        )
 
         sys.exit(0)
 

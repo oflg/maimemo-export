@@ -3,6 +3,8 @@
 仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以去 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 下载所有词库的压缩包，也可以去 [蓝奏云](https://busiyi.lanzous.com/ipGmInjmqte) 下载。
 - csv 格式用于导入 List 背单词，自带中文解释
 - txt 格式用于导入欧陆词典或不被单词，无中文解释
+
+注：中文解释并非导出自墨墨背单词，而是使用 ECDICT 的数据，暂时无法做到与单词书上一致。
 ## Usage
 > 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
 ```shell
