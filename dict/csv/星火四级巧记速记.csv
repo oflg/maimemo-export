@@ -418,7 +418,7 @@ vt. 呼叫, 召集, 打电话
 vi. 叫喊, 访问, 叫牌
 [计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件"
 recall,[网络] 召回；汽车召回制度；招回
-so-called,无
+so-called,adj. 所谓的
 challenge,"n. 挑战, 盘问
 vt. 向...挑战, 要求, 怀疑
 vi. 挑战, 对(证据等)表示异议"
@@ -1941,7 +1941,7 @@ ray,"n. 射线；光线
 vt. 放射；显出
 vi. 放射光线；浮现
 n. (Ray)人名；(西、意、匈、印、尼日尔、瑞典、阿拉伯)拉伊；(英、法、柬、博)雷，蕾(女名)"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 radical,"n. 激进分子, 词根, 基础, 根式, 根
 a. 激进的, 根本的, 基本的, 根的"
 migrate,"vi. 移动, 移往, 随季节而移居
@@ -3408,9 +3408,12 @@ younger hand
 beforehand,[网络] 预先；事先；提前
 handicap,"n. 障碍, 困难, 不利条件
 vt. 加障碍于, 妨碍"
-left-handed,无
-right-handed,无
-second-hand,无
+left-handed,惯用左手的
+right-handed,"adj. 惯用右手的；向右旋转的；〈罕〉可原谅的
+adv. 用右手
+[网络] 右旋的；右利；右利手"
+second-hand,"中间人, 助手
+[经] 旧货"
 handful,"n. 少数, 一把, 棘手事"
 handle,"n. 柄, 把手, 把柄, 柄状物, 手感
 vt. 触摸, 运用, 买卖, 处理, 操作
@@ -3624,7 +3627,7 @@ watt,"n. 瓦(特)
 term,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
 vt. 称, 呼
 [计] 检索词; 项"
-short-term,无
+short-term,[经] 短期
 determine,"v. 决定, 决心"
 determination,"n. 决心, 果断
 [化] 判定; 测定"
@@ -3916,7 +3919,7 @@ vt. 预想, 预测, 预报
 forth,"adv. 往前, 以后, 向外"
 forthcoming,[网络] 北京大学出版社；社会科学类
 forward,[网络] 正激式；转寄
-pre-,无
+pre-,abbr. 炼油工程师（Petroleum Refining Engineer）
 prior,"a. 更重要的, 较早的, 在先的
 n. 小隐修院院长, 大隐修院副院长"
 priority,"n. 优先权, 优先
@@ -3986,7 +3989,8 @@ vt. 澄清, 清除障碍
 vi. 放晴, 变清澈
 n. 空隙
 [计] 清除"
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 clarify,"vi. 澄清, 阐明
 vt. 使明晰"
 clarity,"n. 清楚, 明晰
@@ -5097,14 +5101,16 @@ n. 丘陵, 软毛, 开阔的高地
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airplane,n. 飞机
 backup,"na. 支持；堵塞；【棒球】抢救后方；【计算机】把(文件等备份)
 [网络] 倒退；后退；援助"
 backyard,"n. 后院；后花园
 [网络] 后院与店家；充满花香果香的后院；后院式"
-best-seller,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
 blueprint,"蓝图
 [法] 蓝图"
 fingerprint,指纹；指印
@@ -5942,7 +5948,7 @@ n. 保留
 [计] 保留"
 dropout,"掉出, 退出, 离队
 [机] 落砂"
-easy-going,无
+easy-going, 从容不迫的
 feedback," 反作用, 反馈"
 fulfil,"vt. 实践, 履行, 实行, 完成, 结束, 满足
 [经] 履行(契约), 满期"
@@ -6025,9 +6031,10 @@ adj. 远离的；空闲的"
 intake,[网络] 吸收；语言获得
 mainstream, 干流; 主流
 masterpiece,杰作
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 moreover,[网络] 再说；再加上
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 outskirts,[网络] 外裙
 pastime,"n. 消遣, 娱乐, 游戏"
 payroll,"工资清单,薪工清单;工资薪金总额"
@@ -6084,11 +6091,12 @@ n. 更新；现代化"
 upgrade,"上坡,往上走"
 upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 waterproof,[电] 防水
 watertight,[电] 水密
-well-being,无
-well-known,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
 whereas,"conj. 然而, 鉴于
 [法] 考虑到, 鉴于, 就...而论"
 elsewhere,在别处

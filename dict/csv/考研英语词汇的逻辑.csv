@@ -1419,7 +1419,7 @@ facility,"n. 容易, 灵巧, 设备
 [计] 设施; 设备; 装备"
 infrastructure,[网络] 基础结构；基础建设；水电路等基础设施
 upkeep,[网络] 保持场地良好；保养；上坡球
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 improve,"vt. 改良, 提高...的价值, 改善, 利用
 vi. 变得更好, 增加"
 improvement,"n. 进步, 改善, 利用
@@ -3479,7 +3479,7 @@ plant,"n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备
 vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于
 vi. 种植"
 workshop,"[计] 专题讨论会, 学术会议"
-shop-floor,无
+shop-floor,"[经] 工厂普通工人, 工厂生产或操作场地"
 manufacture,"n. 产品, 制造
 vt. 制造, 假造
 vi. 制造"
@@ -3559,7 +3559,7 @@ explorer,"n. 探险家, 探测者, 勘探器
 patent,"n. 专利权, 许可证, 执照, 专利品, 素质
 a. 专利的, 特许的, 显著的, 新奇的
 vt. 取得...的专利权, 请准专利"
-high-tech,无
+high-tech,高技术
 portable,"a. 可携带的, 可搬运的, 可移动的
 [计] 可移植的"
 network,[机] 净功
@@ -4367,7 +4367,7 @@ cell,"n. 细胞；电池；牢房；基层组织
 [网络] 单元；单元格；信元"
 gene,comb.form =-gen
 genetic,a. 遗传的；基因的；起源的
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 transplant,"vt. 使移居, 移植, 使迁移
 vi. 移居, 耐移植
 n. 移居者, 移植"
@@ -7163,7 +7163,7 @@ invert,"a. 转化的
 vt. 使反转, 使颠倒, 使转化
 n. 颠倒的事物
 [计] 倒置; 反转"
-about-face,无
+about-face,"v. 〈美〉向后转(指操练动作),(立场,观点的)彻底改变"
 upheaval,"n. 举起, 隆起, 大变动, 剧变"
 advent,"n. 来到, 来临"
 outset,外盖型套轮
@@ -7519,7 +7519,7 @@ susceptible,"a. 易受影响的, 易感动的, 容许...的
 inclined,"a. 倾向于...的, 想要...的, 可能的, 趋向于...的"
 reliant,"a. 依赖的, 信赖的"
 alive,"a. 活着的, 活泼的, 敏感的, 热闹的"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 asleep,"a. 睡着的, 长眠的, 麻木的
 adv. 熟睡地"
 pregnant,"a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的
@@ -7686,7 +7686,7 @@ n. 独居者
 solo,"n. 独奏, 独唱, 单独表演
 a. 单独的, 独奏的, 独唱的
 vi. 放单飞"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 drastic,"a. 激烈的
 [医] 峻泻药, 剧烈的"
 dramatic,"a. 戏剧性的, 生动的"
@@ -8953,7 +8953,7 @@ adj. 海边的；海滨的"
 ashore,[网络] 到岸
 remote,"a. 遥远的, 偏僻的, 疏远的, 微少的
 [计] 远程, 远程访问实用程序"
-far-off,无
+far-off," 远, 在远处的"
 place,"n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位
 vt. 放置, 寄予, 认出, 评定, 任命
 vi. 名次列前"
@@ -9108,7 +9108,8 @@ a. 现代的, 时髦的"
 modernize,"vi. 现代化
 vt. 使现代化"
 modernization,n. 现代化
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 nowadays,[网络] 现在；现在数天
 previous,"a. 早先的, 前面的, 过急的
 [法] 以前的, 生前的, 前述的"
@@ -9935,7 +9936,8 @@ vt. 包围, 达到, 图谋, 理解"
 passerby,n. 过路人; 经过者
 pedestrian,"n. 行人, 步行者
 a. 人行的, 徒步的, 呆板的, 通俗的, 平淡无奇的"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 appliance,"n. 器械, 用具, 应用
 [医] 矫正器; 器"
 freezer,"n. 冰库, 冰箱, 冷冻库"

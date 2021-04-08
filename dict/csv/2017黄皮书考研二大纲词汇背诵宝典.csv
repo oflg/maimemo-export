@@ -168,7 +168,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 alarm,"n. 惊恐, 警报, 警钟
@@ -1694,7 +1695,7 @@ elite,"n. 精华, 精锐, 中坚分子"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 embarrass,"vt. 使困窘, 使局促不安, 阻碍"
 embody,"vt. 具体表达, 使具体化
 [经] 合并, 具体化, 具体表现"
@@ -5802,7 +5803,7 @@ so,comb.form =-soever
 soap,"n. 肥皂, 阿谀
 vt. 以肥皂洗, 阿谀
 [计] 评语"
-so-called,无
+so-called,adj. 所谓的
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
 social,"a. 社会的, 群居的, 社交的
@@ -6615,7 +6616,8 @@ upper,"a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的
 n. 鞋帮, 上齿"
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -9136,7 +9138,7 @@ n. 摸索"
 gross,"n. 总数, 总量
 a. 总共的, 未打折扣的, 恶劣的, 粗野的
 vt. 总共收入"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 guard,"n. 守卫者, 警戒, 护卫队, 防护装置
 vt. 保卫, 看守, 当心
 vi. 防止, 警惕, 警卫, 看守"
@@ -9360,7 +9362,8 @@ hypocrisy,"n. 伪善
 [法] 伪善, 虚伪"
 hysterical,"a. 歇斯底里的, 异常兴奋的
 [医] 癔病的, 歇斯底里的"
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 identification,"n. 识别, 身份证明, 认同
 [化] 鉴定; 鉴别; 鉴别法; 认证"
 ideology,"n. 思想体系, 意识形态, 观念学, 空论
@@ -9803,7 +9806,7 @@ vi. 产仔, 乱丢垃圾"
 lively,"a. 活泼的, 鲜明的, 生动的"
 liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
-living-room,无
+living-room,"客厅, 起居室"
 loaf,"n. 一条面包, 块, 游荡
 v. 游手好闲, 虚度光阴"
 lobby,"n. 大厅, 休息室, 游说议员者
@@ -12541,7 +12544,7 @@ vt. 哭着使..., 悲叹, 滴下"
 weld,"n. 焊接处, 焊接
 vt. 焊接, 使密接, 使结合, 使成整体
 vi. 焊牢"
-well-known,无
+well-known, 众所周知的; 出名的
 wet,"n. 湿气, 潮湿, 水分, 雨天
 a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的
 vi. 变湿
@@ -12627,7 +12630,7 @@ vi. 起皱
 vt. 使起皱纹"
 wrist,"n. 手腕, 腕关节
 [医] 腕"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 yawn,"n. 哈欠
@@ -12702,4 +12705,4 @@ n. (Searing)人名；(英)西林"
 spree,"n. 戏耍, 喧闹, 宴会, 狂饮
 vi. 狂欢, 狂饮"
 techie,"n. 技师, 技术员"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态

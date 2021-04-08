@@ -1370,7 +1370,7 @@ primary,"n. 最主要者, 原色
 a. 主要的, 初期的, 根本的, 原始的, 首要的, 基本的
 [计] 初等量; 主要的; 一次的"
 primarily,"adv. 主要地, 首先地"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 primacy,"n. 第一, 首位, 卓越"
 prime,"n. 最佳部分, 初期, 全盛期
 a. 主要的, 最初的, 根本的
@@ -1953,7 +1953,7 @@ vt. 假造, 仿造
 vi. 伪装"
 artificial,"a. 人造的, 假的, 非原地产的
 [医] 人工的, 人造的, 伟牟"
-so-called,无
+so-called,adj. 所谓的
 synthetic,"n. 合成物质
 a. 综合(性)的, 人造的, 合成的"
 equal,"n. 对手, 匹敌, 同辈
@@ -2523,7 +2523,7 @@ purchase,"n. 购买, 购买品, 紧握, 绞辘
 vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)"
 commercial,"a. 商业的, 商用的, 商品化的
 n. 商业广告节目"
-e-commerce,无
+e-commerce, [计]电子商务
 commerce,"n. 商业, 商务, 贸易
 [经] 商业, 贸易, 商务"
 consumption,"n. 消费, 消费量, 痨病
@@ -4150,7 +4150,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 airline,[化] 空气管路
 airplane,n. 飞机
 airport,[机] 通气口
@@ -5024,7 +5025,7 @@ vt. 猛按...入水, 躲避"
 during,prep. 在...的时候
 dying,"a. 垂死的
 [法] 快要死的, 垂死的, 临终的"
-e-mail,无
+e-mail, 电子函政
 each,"a. 每个, 每一
 adv. 每个
 pron. 每个, 个人, 各自"
@@ -6544,7 +6545,8 @@ n. 英语字母表的第9个字母；（罗马数字）1
 abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 if,"conj. 如果；当；倘若；假若
@@ -6833,7 +6835,7 @@ adv. 实况地"
 lively,"a. 活泼的, 鲜明的, 生动的"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 local,abbr. low calorie 低卡路里
 lock,[网络] -锁
 long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
@@ -6841,7 +6843,7 @@ adj. （长度或距离）长的；（询问或谈论长度或距离）长；长
 adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
 v. （尤指对看似不会很快发生的事）渴望
 [网络] 长整型；长整数；多头"
-long-term,无
+long-term, 长期的
 look,"n. 看；外观；查找；瞧
 v. 看；寻找；瞧；注意
 linkv. 显得；似乎；看来好像
@@ -6967,7 +6969,8 @@ method,"n. 方法, 办法, 条理, 秩序
 [医] [方]法"
 middle,"n. 中央, 中间, 腰部
 a. 中央的, 中庸的, 中间的"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 might,"n. 力量, 权力
 aux. 可能, 也许"
 mile,"n. 英里, 很大距离
@@ -7832,7 +7835,7 @@ short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
 adv. 简短地, 突然
 n. 扼要, 短片, 缺乏
 vt. 故意少给, 使短路"
-short-term,无
+short-term,[经] 短期
 should,"aux. 应该, 将要"
 shoulder,[网络] 大号
 shout,"n. 呼喊, 喊声
@@ -8502,7 +8505,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -8635,7 +8638,7 @@ writer,"n. 作家, 撰稿者, 抄写员
 [化] 记录器"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 year,"n. 年, 年度, 年龄
@@ -9207,7 +9210,7 @@ vt. 呻吟地说"
 gross,"n. 总数, 总量
 a. 总共的, 未打折扣的, 恶劣的, 粗野的
 vt. 总共收入"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 gulf,"n. 海湾, 深渊, 漩涡, 隔阂
 vt. 吞没"
 hamper,"n. 食篮, 阻碍物, 食盒
@@ -12970,7 +12973,8 @@ unify,"v. 统一, 使成一体"
 unload,"vi. 卸货
 vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货)
 [计] 卸载"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upper,"a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的
 n. 鞋帮, 上齿"
 uproar,"n. 骚动, 喧嚣"
@@ -13191,7 +13195,8 @@ cascade,"n. 小瀑布, 瀑布状物
 vi. 成瀑布落下
 [计] 层叠, 级联"
 casino,"n. 卡西诺赌场, 卡西诺牌戏"
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 composure,"n. 镇静, 沉着"
 conservative,"a. 保守的, 守旧的, 有保存力的
 [化] 防腐剂; 保存剂"
@@ -13202,7 +13207,7 @@ cortex,"n. 皮层
 [医] (树)皮; 皮质, 皮层"
 craze,"n. 狂热, 大流行
 v. (使)发狂, (使)开裂"
-cure-all,无
+cure-all,n. 万灵药
 decisiveness, 果断性
 defender,"n. 防卫者, 防护者, 辩护者
 [法] 辩护人, 保护人"
@@ -13214,7 +13219,7 @@ demographic,"a. 人口统计的
 deploy,"v. 展开, 配置"
 developer,"n. 开发者
 [计] 显影器"
-dirt-cheap,无
+dirt-cheap,"a. & adv. 非常便宜的[地], 毫无价值的[地]"
 dishonor,"n. 不名誉
 vt. 玷辱, 使蒙羞"
 distinctive,"a. 有特色的, 出众的"
@@ -13292,7 +13297,7 @@ learn的过去式和过去分词"
 lenient,"a. 宽大的, 温和的, 慈悲为怀的
 [法] 宽大的, 仁慈的"
 linguistics,n. 语言学
-long-standing,无
+long-standing,维持；存在已久的
 managerial,"a. 管理的
 [经] 管理上的, 经营上的"
 mania, …狂；…癖
@@ -13372,7 +13377,7 @@ sociologist,"n. 社会学家
 [法] 社会学家"
 speculative,"a. 思索性的, 投机的, 推测的
 [经] 投机的, 冒险的"
-start-up,无
+start-up,"突然站起, 突然出现, 发动, 开动"
 subscription,"n. 捐献, 订金, 订阅, 签署, 同意
 [化] 订购"
 supplier,"n. 供应者, 供给国, 供应商

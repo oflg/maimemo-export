@@ -148,7 +148,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airplane,n. 飞机
@@ -563,7 +564,8 @@ adj. 最好的；最出色的；最优秀的；最愉快的
 n. 最好的事物（或人）；（人或事物所能达到的）最高标准
 v. 胜过；打败
 [网络] 最佳；贝斯特；倍思特"
-best-seller,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
 bet,abbr. Black Entertainment Television(美国对黑人播放的)闭路电视网络
 better,"n. 长辈；较好者；打赌的人（等于bettor）
 adv. 更好的；更多的；较大程度地
@@ -985,7 +987,7 @@ vt. 挖洞, 使凹陷, 损坏...的基础"
 CD,"abbr. (=compact disc)激光唱片
 n. 光盘
 [网络] 镉；光盘(compact disc)；文件大小"
-CD-ROM,无
+CD-ROM,光盘只读存储器；只读型光盘
 ceiling,"n. 天花板
 [经] 顶点, 顶线, 上限"
 celebrate,"v. 庆祝, 祝贺, 举行"
@@ -1196,7 +1198,7 @@ coast,"n. 海岸, 滑坡
 v. 沿海岸而行"
 coat,"n. 外套
 vt. 外面覆盖, 给...穿外套"
-Coca-Cola,无
+Coca-Cola, 可口可乐
 cock,"n. 公鸡；龙头；雄鸟；头目
 vt. 使竖起；使耸立；使朝上
 vi. 翘起；竖起；大摇大摆
@@ -1924,7 +1926,7 @@ eastern,"n. 东方人, 东正教徒
 a. 东方的, 向东的, 自东的"
 easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
 adv. 容易地, 慢慢地"
-easy-going,无
+easy-going, 从容不迫的
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
 economics,"n. 经济学
@@ -1981,7 +1983,7 @@ else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
 email, 电子函政
-e-mail,无
+e-mail, 电子函政
 embassy,"n. 大使馆, 大使馆全体人员
 [经] 大使馆"
 emergency,"n. 紧急状况, 紧急事件, 紧急需要
@@ -2724,7 +2726,7 @@ get,"vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
 vi. 到达, 成为, 变得
 n. (网球等)救球, 生殖, 幼兽
 [计] 取得指令, 获取文件"
-get-together,无
+get-together,"聚集, 收集, 积累"
 gift,[网络] 礼物婴儿
 gifted,a. 有天才的
 giraffe,"n. 长颈鹿, 鹿豹座"
@@ -2763,7 +2765,7 @@ golf,"n. 高尔夫球
 vi. 打高尔夫球"
 good,"n. 善行, 好处, 利益
 a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
-good-bye,无
+good-bye,再见（歌曲名）
 goodness,"n. 仁慈, 善良"
 goods,"n. 货物
 [经] 货物, 商品, 动产"
@@ -3943,7 +3945,8 @@ n. 英语字母表的第9个字母；（罗马数字）1
 abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 Iceland,n. 冰岛
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
@@ -4274,7 +4277,8 @@ kind,"n. 种类；性质
 adj. 和蔼的；宽容的；令人感激的
 n. (Kind)人名；(德、俄、法、捷)金德；(瑞典)欣德"
 kindergarten,n. 幼稚园
-kind-hearted,无
+kind-hearted,"adj. 仁慈的
+[网络] 好心的；善良；仁慈的心"
 kindness,"n. 仁慈, 亲切, 和蔼"
 king,"n. 国王, 君主
 vt. 使...成为君主
@@ -4400,9 +4404,9 @@ left,"a. 左边的, 左倾的, 左侧的, 左派的
 adv. 在左面
 n. 左, 左面, 左派
 leave的过去式和过去分词"
-left-handed,无
+left-handed,惯用左手的
 leftover, [计]剩余
-left-wing,无
+left-wing,"左翼,激进派;左边锋"
 leg,"挑选,采集"
 legal,"a. 法律的, 法定的, 合法的
 [经] 法定权利; 法律(上)的, 合法的"
@@ -4421,7 +4425,7 @@ letter,"n. 信；字母，文字；证书；文学，学问；字面意义
 vt. 写字母于
 vi. 写印刷体字母
 n. (Letter)人名；(英)莱特"
-letter-box,无
+letter-box, 信箱
 level,comb.form [用来构成复合词]表示“…级别的”，“…水平的”：high-level
 liberate,"vt. 解放, 释放, 使自由
 [机] 释出, 放出"
@@ -4597,7 +4601,7 @@ management,"n. 经营, 支配, 管理
 manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
 mankind,"n. 人类, 男性"
-man-made,无
+man-made,人造的
 manner,"n. 样子, 礼貌, 风格
 [法] 方式, 方法, 样式"
 manual,"n. 手册, 指南
@@ -4745,7 +4749,7 @@ microphone,"n. 扩音器, 麦克风
 [医] 扩音器, 传声器"
 microscope,[网络] 显微镜
 microwave, [医]微波
-mid-autumn,无
+mid-autumn,中秋
 midday,"n. 中午；正午
 adj. 正午的"
 middle,"n. 中央, 中间, 腰部
@@ -4861,7 +4865,7 @@ mood,"n. 心情, 气氛, 生气, 基调
 moon,"n. 月亮, 月球, 月光
 vi. 闲荡
 vt. 虚度"
-moon-cake,无
+moon-cake,月饼(中国食品)
 moral,"n. 道德, 品行, 寓意
 a. 道德的, 品性端正的, 精神上的"
 more,suff. 更…
@@ -5031,7 +5035,7 @@ nice,"a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, �
 niece,"n. 侄女, 甥女"
 night,"n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作
 [法] 夜, 黑夜, 黑暗"
-night-club,无
+night-club,n. 夜总会
 nightmare,梦魇
 nine,"num. 九, 九个"
 nineteen,"num. 十九, 十九个"
@@ -5375,7 +5379,7 @@ a. 特别的, 独有的, 挑剔的, 详尽的"
 particularly,"adv. 特别, 格外, 尤其, 详细地, 细致地"
 partly,"adv. 部分地, 在一定程度上"
 partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
-part-time,无
+part-time,n. 兼任，部分时间
 party,"n. 宴会, 党, 政党, 团体, 当事人, 聚会
 v. 举办聚会"
 pass,"n. 经过, 要隘, 途径, 通行, 护照, 及格
@@ -5430,7 +5434,7 @@ vt. 与...同等, 封为贵族"
 pen,[网络] 国际笔会
 pencil,"n. 铅笔, 色笔, 眉笔, 画笔, 光线束
 vt. 用铅笔写或涂, 草拟"
-pen-friend,无
+pen-friend,n. 笔友
 penny, 表示值...便士
 pension,"n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费
 vt. 发给退休金, 用津贴拉拢"
@@ -6251,12 +6255,14 @@ ride,"n. 骑马, 乘坐, 乘车, 搭便车
 vt. 骑, 乘坐, 压迫, 控制
 vi. 骑马, 乘车, 漂游"
 right,[网络] -对
-right-handed,无
-right-wing,无
+right-handed,"adj. 惯用右手的；向右旋转的；〈罕〉可原谅的
+adv. 用右手
+[网络] 右旋的；右利；右利手"
+right-wing,"右翼,保守派;右边锋"
 ring,"n. 环, 环形物, 拳击场, 戒指, 角逐, 小集团, 铃声, 钟声, 声调
 vt. 包围, 套住, 按铃, 敲钟
 vi. 成环形, 响, 鸣, 按铃, 敲钟, 回响"
-ring-road,无
+ring-road,n. 环行路
 ripe,"a. 成熟的, 熟练的, 成年的
 [医] 成熟的"
 ripen,"vt. 使成熟
@@ -6674,7 +6680,7 @@ shortage,"n. 不足, 缺乏
 shortcoming,n. 缺点；短处
 shortly,"adv. 不久, 简短, 唐突地"
 shorts,[网络] 短的
-short-term,无
+short-term,[经] 短期
 shot,"n. 发射, 炮弹, 射击, 射手, 投篮, 射门, 子弹, 射程, 拍摄, 注射
 vt. 装弹, 使成颗粒状
 a. 杂色的, 交织着的, 渗透的, 点焊的, 破旧的
@@ -6744,7 +6750,8 @@ n. 相似的东西"
 similarly,"adv. 相像地, 类似于"
 simple,"a. 简单的, 普通的, 朴素的, 单纯的, 绝对的, 初级的, 原始的, 迟钝的
 n. 出身低微者, 傻子"
-simple-minded,无
+simple-minded,"adj. 傻；头脑简单的
+[网络] 纯朴的；心思单一"
 simplify,"vt. 单一化, 简单化"
 simply,"adv. 简单地, 只是, 简直, 简朴地, 坦白地"
 since,"prep. 自...以后, 自...以来
@@ -6854,7 +6861,7 @@ smog,"n. 烟雾
 smoke,"n. 烟, 雾气, 烟熏剂, 抽烟, 烟色
 vi. 吸烟, 冒烟, 弥漫
 vt. 以烟熏, 抽烟而导致..."
-smoke-free,无
+smoke-free,无烟
 smooth,"adj. 平整的；平坦的；平滑的；光滑的
 n. 抚平；〈美〉平地；草原；一角银币
 v. 使平整；使平坦；使平滑；使光滑
@@ -6862,7 +6869,7 @@ adv. 同“smoothly. a smooth skin”
 [网络] 流畅；平顺；平静的"
 snack,"n. 小吃, 点心, 快餐
 vi. 吃零食, 吃快餐"
-snack-bar,无
+snack-bar,"快餐柜, 小吃店"
 snake,"n. 蛇, 阴险的人
 vi. 曲折行进
 vt. 迂回, 拉, 急抽"
@@ -6879,7 +6886,7 @@ soap,"n. 肥皂, 阿谀
 vt. 以肥皂洗, 阿谀
 [计] 评语"
 sob,n. 呼吸短促; 畜生
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 social,"a. 社会的, 群居的, 社交的
 n. 联欢会"
@@ -6897,7 +6904,7 @@ soda,"n. 苏打, 碳酸水
 sofa,n. 沙发
 soft,[网络] -柔软的
 softball,容易处理的事情
-soft-drink,无
+soft-drink,n. 不含酒精的饮料
 software,软件;程序设备;语言设备;方案;设计计算法
 soil,"n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池
 vt. 弄脏, 污辱
@@ -6938,7 +6945,7 @@ vt. 分类, 排序, 挑选
 vi. 交往, 协调
 [计] 排序; DOS外部命令:从标准输入设备接收数据, 整个数据输入完后
 对它以行为单位进行排序, 然后在标准输出设备上输出"
-so-so,无
+so-so,"勉强过得去, 一般"
 soul,"n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂
 a. 黑人的"
 sound,"n. 声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡
@@ -7404,7 +7411,8 @@ vi. 品尝, 察觉味道, 有某种味道"
 tasty,"a. 好吃的, 可口的"
 tax,"n. 税, 税款, 重负, 会费
 vt. 课以税, 使负重荷, 斥责"
-tax-free,无
+tax-free,"adj. 免税的；上过税的
+[网络] 退税；免税店；退税的免税购物标志"
 taxi,"n. 出租车
 vi. 乘出租车
 vt. 用出租车送"
@@ -7842,7 +7850,7 @@ truth,"n. 事实, 实情
 try,"n. 尝试, 试验, 审理, 审判
 vt. 试, 尝试, 试验, 考验, 审问, 提炼
 vi. 尝试, 试图"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 tube,"n. 管, 软管, 隧道
 vt. 把...装管, 使通过管子
 [计] 管子"
@@ -7932,7 +7940,8 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 upset,上端局设备
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
 [法] 城市的, 都市的, 市区的"
 us,[网络] -我们
@@ -8140,7 +8149,7 @@ interj. 欢迎"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -8331,7 +8340,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 year,"n. 年, 年度, 年龄
@@ -8491,7 +8500,8 @@ adv. 清楚地, 显然地
 [计] 无格式"
 corny,"a. 谷类的, 乡巴佬似的, 粗野的
 [建] 角制的, 角(质)的"
-pick-up,无
+pick-up,"v. 拾起；探出；重新开始
+[网络] 捡起；拿起；学会"
 tastefully,adv. 高雅地；雅致地
 undeniably,adv. 确凿无疑地；不可否认地
 refinement,"n. 精致, 高尚, 精巧
@@ -8594,7 +8604,8 @@ core,comb.form 表示“…类别的摇滚乐”：queercore
 reaffirm,"vt. 再肯定, 重申；再断言"
 immigrant,"n. 移民
 a. 移入的, 移民的"
-no-nonsense,无
+no-nonsense,"adj. 严肃的
+[网络] 女士服饰品牌包装欣赏；挑战命运；竞销侬侬牌"
 roofer,"n. 盖屋顶的人, (客人致主人的)道谢函"
 cashier,"n. 出纳员
 [经] 司库, 出纳员, 收支员"
@@ -8607,7 +8618,8 @@ busboy,n. 餐厅侍者助手
 witness,"n. 证人, 目击者, 证据, 证词
 vt. 目击, 作证, 证明, 表明
 vi. 作证人, 作为证据"
-self-induced,无
+self-induced,"自感应的
+自诱导的"
 take a trip,作旅行
 go on a trip,去作旅行
 in an instant,马上
@@ -8708,7 +8720,7 @@ abstract,"a. 抽象的, 深奥的
 n. 摘要, 抽象概念
 vt. 摘要, 提炼, 使抽象化
 [计] 摘录; 摘要; 抽象"
-small-scale,无
+small-scale,"小比例(尺),小规模"
 mundane,"a. 现世的, 世俗的, 宇宙的"
 individual,"n. 人, 个人, 个体
 a. 个别的, 个人的, 独特的"
@@ -8771,7 +8783,7 @@ subsidize,"vt. 补助, 资助, 贿赂
 deduct,[网络] 扣除
 efficient,"comb.form 表示“效率高的”,“充分利用的”：cost-efficient,energy-efficient"
 basically,"adv. 基本上, 主要地"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 aerobic,"a. 需氧的, 需氧菌产生的, 增氧健身法的
 [医] 需氧的"
 boost,"n. 推进, 吹捧
@@ -9058,7 +9070,7 @@ in itself,"本身,实质上"
 over time,[计] 超时
 ranch,"n. 大牧场
 v. 经营牧场"
-fund-raising,无
+fund-raising,[经] 筹措资金
 itinerant,"a. 巡回的
 n. 巡回者"
 trainer,"n. 训练员, 驯马师
@@ -9257,9 +9269,10 @@ awareness,"n. 意识, 认识
 inner,"a. 内部的, 内心的
 n. 内部"
 self-encouragement,无
-self-motivation,无
-self-defeat,无
-self-pity,无
+self-motivation, [体]自我激励
+self-defeat,[网络] 自然胜
+self-pity,"n. 自怜
+[网络] 自哀自怜；自怜心；自我怜悯"
 encounter,"vt. 遭遇, 邂逅；遇到
 n. 遭遇, 偶然碰见
 vi. 遭遇；偶然相遇"
@@ -9278,13 +9291,13 @@ behavior,"n. 行为, 举止
 [医] 行为"
 inaccurate,adj. 错误的
 influential,"a. 有影响的, 有势力的"
-self-criticism,无
+self-criticism,n. 自我批评
 optimistic,"a. 乐观的, 乐观主义的, 乐天的"
 pessimistic,"a. 悲观的, 厌世的, 悲观主义的"
 consciously,adv. 自觉地；有意识地
 habitual,"a. 习惯的, 惯常的, 平常的
 [法] 习惯的, 以习惯为常业的, 惯常的"
-self-esteem,无
+self-esteem, 自尊
 resentment,"n. 怨恨, 愤恨"
 inability,在能力方面
 baggage,"n. 行李
@@ -9433,7 +9446,7 @@ experience,"n. 经历, 经验, 体验
 vt. 经历, 经验, 体验"
 powerful,"a. 有力的, 有权力的, 强大的
 [机] 强力的"
-near-death experience,无
+near-death experience,[网络] 濒死体验；濒死经验；濒临死亡经验
 confess,"v. 承认, 坦白, 忏悔, 供认"
 one's last breath,濒死，临终
 down,"a. 向下的
@@ -9448,7 +9461,7 @@ in a sense,在某种意义上
 clear ... up,"na. 整顿；说明；(天气)转晴
 [网络] 放晴；整理；清理"
 not that I know of,〈废〉〈口〉据我知道事情不是这样
-bring sb. to their knees,[网络] 打败
+bring sb. to their knees,无
 keeper,"n. 〈非正式〉守门员；门将；看守人；(动物园的)饲养员
 [网络] 看护人；守护者；管理人"
 spring,"n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉
@@ -9592,7 +9605,8 @@ animated,"a. 活生生的, 能活动的, 活泼的, 欢快的"
 naive,"a. 天真的, 纯真的, 幼稚的"
 genuinely,adv. 真诚地；诚实地
 costume,"n. 装束, 服装"
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 bunch,"n. 串, 束
 [医] 骨肿块(马)"
 uncomfortable,"a. 不舒服的, 不自在的, 不安的"
@@ -9654,7 +9668,8 @@ skinny,"a. 似皮的, 极瘦的, 少的, 小气的
 [医] 皮的; 消瘦的"
 flawless,"a. 无瑕疵的, 无缺点的
 [化] 无裂纹的; 无裂缝的"
-self-image,无
+self-image,"n. 对自己的看法[估价]
+[网络] 自我形象；自我意象；自我意像"
 issue,"n. 发行, 问题, 后果, 流出, 出口, 争端
 vi. 发行, 流出, 造成...结果, 传下
 vt. 使流出, 放出, 发行, 发布, 发给"
@@ -9665,7 +9680,8 @@ n. 口水, 胡说"
 admiration,"n. 赞赏, 钦佩, 引人赞赏的对象"
 protrude,"vi. 伸出, 突出
 vt. 使伸出, 使突出"
-sugar-coated,无
+sugar-coated,"adj. 裹有糖的；包糖衣的；巧加粉饰的；使表面吸引人的
+[网络] 口蜜腹剑；看得懂糖衣说；包有糖衣的"
 exterior,"n. 外部, 表面, 外貌
 a. 外部的, 外在的, 表面的"
 mimic,"a. 模仿的, 摹拟的
@@ -9686,7 +9702,8 @@ vi. 崇拜偶像"
 promote,"vt. 促进, 晋升, 创办, 推销
 [经] 促进, 推广, 推销"
 strive,"vi. 努力, 奋斗, 斗争"
-self-doubt,无
+self-doubt,"n. 自疑；对自己缺乏信心
+[网络] 自我怀疑；自我质疑"
 individuality,"n. 个性, 个人, 特征"
 portray,"vt. 描绘, 描写, 描绘...的肖像"
 conviction,"n. 定罪, 信服, 坚信
@@ -9721,7 +9738,8 @@ anxious,"a. 忧虑的, 发愁的, 渴望的"
 essential,"n. 要素, 要点, 本质
 a. 必要的, 重要的, 本质的
 [计] 本质冒险"
-co-worker,无
+co-worker,"n. 共同工作者
+[网络] 同事；合作者"
 passively,"adv. (贬)被动, 守势, 受动, (贬)消极, 不抵抗, 驯服, 钝性, 无源, 钝态, 无利息"
 establish,"vt. 建立, 确立, 制定
 vi. 移植生长"

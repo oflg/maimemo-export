@@ -29,8 +29,8 @@ terminus,"n. 终点, 界标, 终点站
 confident,"a. 有信心的, 有把握的"
 be confident about sth.,无
 be confident about sb.,无
-be confident of sth.,无
-be confident of sb.,无
+be confident of sth.,确信...
+be confident of sb.,确信...
 transport,[网络] 运输
 Latin,"n. 拉丁人, 拉丁语
 a. 拉丁人的, 拉丁语的"
@@ -74,8 +74,8 @@ shameful,"a. 可耻的, 丢脸的, 不道德的, 淫猥的, 猥亵的, 不体面
 temporarily,"adv. 暂时, 一时, 临时"
 bookcase,n. 书柜
 gaze,[网络] -凝视
-gaze at sth.,无
-gaze at sb.,无
+gaze at sth.,盯住
+gaze at sb.,盯住
 hot,[网络] 月明时
 cause,"n. 原因；事业；病因；理由
 v. 导致；使；引起；产生"
@@ -168,7 +168,7 @@ lorry,"n. 卡车, 货车
 gardening,n. 园艺(学)
 machinery,"n. 机器, 机械装置, 机构
 [化] 机械"
-confide in sb.,"信任某人, 向某人吐露秘密, 随意漫谈"
+confide in sb.,信任
 a great deal of,很多的
 excitement,[网络] 激动人心
 Benz,n. 奔驰(汽车)
@@ -206,8 +206,8 @@ fur coat, 皮大衣
 seek,"vt. 寻求, 寻找, 探索, 追求, 搜索, 请求
 vi. 寻找, 搜索
 [计] 查找"
-seek sth. out,无
-seek sb. out,无
+seek sth. out,"搜出, 挑出"
+seek sb. out,"搜出, 挑出"
 eager,"a. 热心的, 渴望的, 热望的"
 lobby,"n. 大厅, 休息室, 游说议员者
 vi. 游说议员, 游说
@@ -303,7 +303,7 @@ a. 定制的
 [计] 定制; 自定义"
 future,"n. 未来, 将来
 a. 将来的, 未来的"
-fortune-teller,无
+fortune-teller, 算命者
 crystal,"n. 水晶, 水晶装饰品, 结晶
 a. 水晶的, 水晶一样的, 透明的"
 crystal ball,"n. （占卜用的）水晶球, 玻璃球, 预言未来的方法"
@@ -348,7 +348,7 @@ vt. 淹没, 使泛滥, 注满
 vi. 被淹, 溢出, 涌进"
 authority,"n. 权力, 当权者, 当局, 权威, 专家
 [经] 代理权, 授权, 权威"
-grass-seed,无
+grass-seed,草籽
 spray,"n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝
 vt. 喷雾, 扫射, 喷射
 vi. 喷, 溅开"
@@ -406,10 +406,11 @@ ventilate,"vt. 使空气流通, 使通风, 公开讨论, 公开
 [医] 通风, 换气"
 chimney,"n. 烟囱, 灯罩
 [电] 烟囱"
-put sth. forward,[网络] 提出
+put sth. forward,"na. 提出(计划,意见等)；建议；促进；推举(候补人等)
+[网络] 提前；推荐；表提出"
 ventilation,"n. 通风, 空气流通, 公开讨论
 [医] 通风, 换气"
-draw sth. in,无
+draw sth. in,"收缩, 引诱, 接近黄昏, 紧缩开支"
 fear,"n. 恐怖, 害怕, 担心
 v. 害怕, 恐惧, 为...担心, 敬畏"
 invasion,"n. 侵犯, 侵入, 侵害
@@ -421,7 +422,8 @@ draw back,"收回, 退却, 缩回
 [经] 退钱, 退税"
 draw up,"na. 写出；正容；整(队)；拉起(鱼网等)
 [网络] 起草；草拟；停住"
-draw sth. up,"写出, 起草, 草拟, 制订, 停住, 逼近, 追上"
+draw sth. up,"na. 写出；正容；整(队)；拉起(鱼网等)
+[网络] 起草；草拟；停住"
 horrify,"vt. 使恐惧, 使震惊"
 outline,"n. 大纲, 轮廓, 概要
 vt. 描画轮廓, 描述要点
@@ -441,14 +443,18 @@ vt. 接近, 近似, 找...商量
 vi. 靠近"
 ought to,应该
 side street,背街
-hold sb. up,无
-hold sth. up,[网络] 支持住；指某物被延误了
+hold sb. up,"举起, 支撑, 继续下去, 阻挡, 拦截
+[法] 支撑, 继续下去, 阻塞"
+hold sth. up,"举起, 支撑, 继续下去, 阻挡, 拦截
+[法] 支撑, 继续下去, 阻塞"
 weigh,"vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚
 vi. 称分量, 有意义, 重压, 起锚
 n. 过秤, 称分量"
 fortunate,"a. 幸运的, 幸福的"
-let sb. off,让下车
-let sb. down,[网络] 让某人失望；使某人失望；使失望
+let sb. off,"na. 放(枪,花炮等)；说出(俏皮话等)；宽恕
+[网络] 免除；放过；放出"
+let sb. down,"na. 使失望；放下；丢面子
+[网络] 失望沮丧；辜负；松劲"
 apology,"n. 道歉, 辩护
 [法] 道歉, 谢罪, 辩解者"
 negate,"vt. 否定, 否认, 取消
@@ -500,7 +506,7 @@ helicopter,"n. 直升机
 vt. 由直升机运送
 vi. 乘直升机"
 bit by bit,一点一点
-well-known,无
+well-known, 众所周知的; 出名的
 volcano,n. 火山
 active,"a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的
 n. 主动语态, 积极分子"
@@ -557,7 +563,7 @@ driving licence,n. 驾驶执照
 acquire,"vt. 获得, 学到
 [电] 目标锁定"
 confidence,[网络] 有自信
-tap on sth.,无
+tap on sth.,"轻轻叩打,轻敲,轻拍"
 react,"vt. 重做, 重演"
 brake,"n. 刹车, 阻碍, 丛林
 v. 刹车"
@@ -582,7 +588,7 @@ vt. 包围, 套住, 按铃, 敲钟
 vi. 成环形, 响, 鸣, 按铃, 敲钟, 回响"
 unaware,"a. 未认识到的, 不知道的
 [法] 不知道的, 不察觉的, 无意的"
-be unaware of sth.,无
+be unaware of sth.,"不知道, 不注意"
 bull,"n. 公牛
 [法] 买方, 买空者"
 matador,n. 斗牛士
@@ -594,7 +600,7 @@ criticism,"n. 批评, 评论, 非难
 charge,"n. 指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令
 vt. 控诉, 加罪于, 使充满, 使充电, 使承担
 vi. 冲锋, 要价, 收费"
-charge at sb.,无
+charge at sb.,向…袭击; 扑向
 clumsily,"adv. 笨拙, 粗陋, 不漂亮"
 bow,[网络] 兵器；生化武器；生化兵器
 drag,"n. 拖, 拖累
@@ -675,7 +681,7 @@ a. 公务的, 官方的, 正式的"
 Greenwich Observatory, 格林尼治天文台
 microphone,"n. 扩音器, 麦克风
 [医] 扩音器, 传声器"
-slow sth. down,无
+slow sth. down,(使)慢下来
 despite,"n. 轻视, 憎恨
 prep. 虽然, 尽管"
 poet,n. 诗人
@@ -702,5 +708,5 @@ vi. 平均为, 呈中间色"
 kneel,[地名] 尼湖 ( 加 )
 kneel down,跪下
 prayer,[网络] 祷告者；祈祷的人；祈祷者
-record-holder,无
+record-holder,n. 纪录保持者
 desperate,"a. 不顾一切的, 危急的, 令人绝望的, 极渴望的"

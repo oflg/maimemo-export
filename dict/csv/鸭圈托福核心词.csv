@@ -38,8 +38,8 @@ vt. 归功于, 赞颂, 信任, 相信
 advanced degree,高级学位
 advanced study, [医]进修，深造
 take-home exam,无
-mid-term,无
-mid-term exam,无
+mid-term,[法] 中期
+mid-term exam,[网络] 期中考；期中考试；期中报告
 final exam, 大考
 academic year,学年
 school year,学年
@@ -118,7 +118,7 @@ academic convention,无
 logical order,逻辑指令
 systematic,"a. 有系统的, 分类上的, 体系的
 [医] 系统的, 系的, 分类的"
-well-developed,无
+well-developed, [医]发育良好和营养良好的
 argument,"n. 争论, 论证, 论据, 自变量
 [计] 参数"
 main argument,无
@@ -179,7 +179,7 @@ progress report,"[计] 进展报告
 [经] 进度报告(表)"
 check out,"na. 开支票(提款)；(旅馆)付账后离开；及格；〔美俚〕死
 [网络] 退房；检查；结帐"
-re-shelve,无
+re-shelve,[网络] 重新开始
 recall,[网络] 召回；汽车召回制度；招回
 retrieve,"vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 检索
 vi. 找回猎物
@@ -342,8 +342,8 @@ recommendation,"n. 推荐, 介绍, 推荐信, 劝告
 personal statement,[网络] 个人陈述；自传；个人自述
 good standing,[网络] 申办美国公司良好记录证明；存续任证；良好注册地位
 academic interests,无
-part-time position,无
-part-timers,无
+part-time position,兼任
+part-timers,n. 兼职的人( part-timer的复数形式 )
 campus job,无
 internship,"n. 实习医师的职务
 [医] 实习医师职位, 实习医师期"
@@ -351,10 +351,10 @@ teaching assistant,n. [法]助教
 janitor,"n. 守卫, 门警, 管理人
 [医] 幽门"
 legwork,[网络] 跑腿；跑腿的活儿；跑腿工作
-off-campus,无
+off-campus,在校外；不住校
 tuition fee,n. 学费，（某一学科的）教学
 special circumstance,无
-work-study program,无
+work-study program,[网络] 勤工俭学；工学计画
 financial assistance,[网络] 财政资助；经济援助；经济资助
 financial aid,"[法] 经济援助, 财务资助"
 scholarship,"n. 学问, 学术成就, 奖学金"
@@ -517,7 +517,7 @@ equitable,"a. 公平的, 公正的
 game strategy,无
 ground rules,基本规则
 irrational boom,无
-long-term lease,无
+long-term lease, [财]长期租赁
 asset,"n. 资产, 有益的东西"
 creature,n. 动物，生物；人；创造物
 species,"n. 种, 类, 外形
@@ -543,7 +543,7 @@ herbivore,n. 草食动物
 grazing animals,无
 prehistoric animals,无
 modern animals,无
-cold-blooded animal,无
+cold-blooded animal,un. 冷血动物
 invertebrate animals,无
 primate,"n. 大主教, 灵长目动物
 [医] 灵长类"
@@ -641,7 +641,7 @@ vi. 捕食"
 predator,"n. 食肉动物, 掠夺者
 [医] 捕食者"
 predation,掠夺行为
-predator-prey relationship,无
+predator-prey relationship,"捕食者与被食者之关系, 捕食-被捕食关系"
 enemy,"n. 敌人, 仇敌, 敌军
 a. 敌人的"
 camouflage,"vt. 伪装, 掩饰
@@ -668,7 +668,7 @@ a. 赖以生存的"
 survival rate,成活率
 lifespan,[化] 使用期限; 有效期限
 degrade,"v. (使)降级, (使)退化"
-over-hunting,无
+over-hunting,[网络] 过度狩猎
 domestication,"n. 驯养, 教化"
 extinct,"a. 熄灭的, 灭绝的, 耗尽的
 [法] 消灭了的, 过时的, 无效的"
@@ -704,7 +704,7 @@ vegetation,"n. 植物
 [医] 贽生物, 贽疣, 增殖体; 生长, 增殖"
 shrub,"n. 矮树, 灌木, 果汁甜酒"
 jungle,"n. 丛林, 杂乱的一堆, 弱肉强食的地方"
-old-growth forest,无
+old-growth forest,[网络] 森林；原始森林；老龄林
 prairie,"n. 大草原, 草甸"
 bulb,"n. 球茎, 电灯泡
 [医] 球, 鳞茎, 球茎"
@@ -989,7 +989,7 @@ vt. 支撑, 维持"
 costume,"n. 装束, 服装"
 gesture,"n. 手势, 姿态
 vi. 作手势, 作姿态"
-close-up shot,无
+close-up shot,特写镜头
 scene,"n. 场, 情景, 镜头, 发生地点, 道具, 布景, 景色
 [化] 现场"
 scenery,"n. 风景, 景色, 舞台布景"
@@ -1002,7 +1002,8 @@ performer,"n. 表演者, 执行者, 完成者
 practice room,无
 choreograph,v. 设计舞蹈动作
 dance tune,无
-line-up,无
+line-up,"na. 整顿(机械等)；排成一列；使(兵士)排齐；整顿阵容
+[网络] 排队；整队；排成一行"
 rehearsal,"n. 预演, 排演, 练习, 叙述, 复述
 [法] 详述, 列举事实, 复述"
 intermission,"n. 中止, 中断, 停顿, 间歇
@@ -1138,7 +1139,7 @@ ice crystal,[机] 冰晶
 freezing cold,[网络] 冰冷；极冷；滴水成冰
 crevasse,"n. 裂缝, (堤、坝等的)决口, 崩溃处
 vt. 使有裂缝"
-anti-freeze,无
+anti-freeze,adj. 防冻
 thaw,"n. 融解, 融化, 解冻时期
 vt. 使融解, 使缓和
 vi. 融化, 解冻"
@@ -1194,7 +1195,7 @@ heavy metal,"n. 重金属, 强敌"
 land reclamation,开垦荒地
 waste water treatment,[化] 废水处理
 water conservation, 水利
-micro-organisms,无
+micro-organisms,n. 微生物( micro-organism的复数形式 )
 algae,藻类
 bacteria,"pl. 细菌
 [医] 细菌, [无芽胞]杆菌"
@@ -1284,7 +1285,8 @@ vt. 使叠缩, 使缩短"
 radio telescope,[电] 无线电测远仪
 a head start, 优势，有利条件
 back and forth,来回地
-beat-up,无
+beat-up,"na. 搅(蛋)；虐待；冷不防地；打鼓召集
+[网络] 痛打；毒打；殴打"
 best bet,"最佳抉择,最稳妥的办法"
 blank out,"na. 同“blank”
 [网络] 取消；使熄灭；消失，一片空白"
@@ -1296,19 +1298,21 @@ box in,"na. =box up.；【赛马】阻拦(他马)
 [网络] 如盒子一般地围起来；矩形缩小；方格收敛"
 carry away,"na. 带去；冲走；获得(印象)；使冲昏头脑
 [网络] 运走；使入迷；使失去自制力"
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 comes to light,暴露；真相大白；众所周知
 draw the line,"划一界线, 划定最后界限"
 drown out,"na. (洪水)把(人)赶跑；把(另一声音)压倒[淹没,盖住]
 [网络] 压过；盖过；常比喻声音被盖过"
 ease the pain,无
 fade away,逐渐消失
-far-fetched,无
-far-between,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
+far-between,稀疏的；稀少的；彼此相距很远的；相隔很久才发生的
 flip through,"浏览,翻阅"
 free rider, 免费享用公共货物者; 搭便车者
 get around,"病后能够走动, (非正式)旅行, 传开来"
-get-go,无
+get-go,[网络] 回复
 get in the way,"挡住去路,障碍,碍事"
 get rid of,"摆脱, 除去"
 get the picture, 了解（形式、情况等）
@@ -1319,11 +1323,11 @@ hang on,"v. 坚守；守住；坚持；支撑着
 [网络] 坚持下去；抓紧不放；等一下"
 joke around,[网络] 开玩笑；笑口常开；闹着玩
 just in case, 以防万一
-last-minute,无
+last-minute,"n. 最后一刻, 紧急关头"
 long shot,"胡乱的猜测, 远景, 风险大的赌注
 [电] 远景"
 long story short,[网络] 长话短说；长话短说吧；稍长短篇小说
-low-key,无
+low-key,[电] 暗键
 novel idea,新奇的想法
 over my head,无法承担；不懂
 play it safe,"小心避开危险, 慎重行事"
@@ -1353,7 +1357,7 @@ way off,〈美〉有很大距离;错得厉害
 wander around,"徘徊, 转来转去"
 wear and tear,"磨损, 折磨
 [化] 耗损"
-well-fed,无
+well-fed, 吃得好的；营养足的
 wind up,"na. 解散(公司等)；终止；卷紧；绕紧
 [网络] 结束；使紧张；上发条"
 word of mouth,n. 口头传述的，口碑
@@ -2304,7 +2308,8 @@ vi. 分离, 隔离, 分凝
 vt. 使分离, 使隔离"
 seldom,"a. 不常的, 稀少的
 adv. 很少, 不常"
-self-sufficient,无
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
 sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
 sloping,"a. 成斜坡的, 倾斜的"
 signature,"n. 签字, 识别标志, 调号

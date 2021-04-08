@@ -557,7 +557,7 @@ assessment,"n. 评估, 估定, 评定的款额
 asset,"n. 资产, 有益的东西"
 cassette,"n. 盒式磁带, 珠宝箱, 暗盒
 [计] 字盒"
-video-cassette,无
+video-cassette,[计] 盒式录象带
 assignment,"n. 分配, 功课, 任务, 转让, 归因, 陈述
 [计] 赋值"
 assimilate,"vt. 使同化, 吸收, 使相拟, 把...比作
@@ -679,7 +679,8 @@ available,adj. 有效的，可得的；可利用的；空闲的
 avalanche,"n. 雪崩, 山崩, 大量
 vi. 崩塌
 vt. 大量涌至"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 average,"n. 平均, 平均数, 一般水平, 海损
 a. 平均的, 中等的, 平常的
 vt. 算出...平均数, 平均做, 均分, 使平衡
@@ -706,7 +707,7 @@ awareness,"n. 意识, 认识
 awkward,"a. 笨拙的, 棘手的"
 awkwardly,adv. 笨拙地；无技巧地
 axis,n. 轴；轴线；轴心国
-baby-sitter,无
+baby-sitter,临时替人看护婴幼儿者
 bachelor,"n. 单身汉, 学士
 [法] 学士, 单身汉"
 back and forth,来回地
@@ -998,7 +999,7 @@ brilliance,"n. 卓越, 光辉
 brim,"n. 边, 边缘, (河)边
 vt. 注满, 使满溢
 vi. 满溢"
-broad-brimmed,无
+broad-brimmed, 宽边的
 briny,"a. 盐水似的, 海水似的, 咸的
 [机] 含盐度"
 brisk,"a. 强烈的, 寒冷而干燥的, 活泼的
@@ -1012,7 +1013,7 @@ brochure,"n. 小册子, 小册"
 bronze,"n. 青铜, 铜像
 a. 青铜色的"
 Bronze Age,铜器时代；青铜器时代
-sun-bronzed,无
+sun-bronzed, 被太阳晒成古铜色的
 brook,"n. 小溪
 vt. 容忍"
 brown,"n. 褐色
@@ -1077,7 +1078,7 @@ vt. 使嗡嗡叫, 散布"
 buzzer,"n. 嗡嗡作声的东西, 蜂音器
 [化] 蜂鸣器; 磨轮; 砂轮"
 by chance,"偶然, 也许"
-by-product,无
+by-product, 副产品，副产物
 cab,"n. 出租车；计程车；的士；（公共汽车、火车、卡车的）驾驶室
 abbr. 〈美(=Civil Aeronautics Board)民用航空局
 v. 作弊
@@ -1156,7 +1157,8 @@ cast,"vt. 投，抛；计算；浇铸；投射（光、影、视线等）
 n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
 vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
 n. (Cast)人名；(法)卡斯特"
-cast-iron,无
+cast-iron,"铸铁
+[化] 铸铁"
 cast off,丢弃
 cast away,"抛弃, 使失事, 使漂流到岸上"
 forecast,"n. 预想, 预测, 预报
@@ -1176,7 +1178,8 @@ catalyze,"vt. 催化, 促进, 刺激
 [医] 催化"
 catastrophe,n. 大灾难；大祸；惨败
 catching,"a. 易传染的, 有魅力的, 吸引人的"
-eye-catching,无
+eye-catching,"adj. 〈美口〉引人注目的
+[网络] 惹眼；是引人注目的；捕声捉影"
 catch on,"变得流行, 理解, 明白"
 categorize,"vt. 分类, 归类"
 category,"n. 种类, 类项
@@ -1315,7 +1318,8 @@ cipher,"n. 零, 暗号, 密码, 无用的东西, 阿拉伯数字
 v. 计算, 做算术"
 circuit,"n. 电路, 环(行)道, 巡回
 [计] 线路; 电路"
-closed-circuit,无
+closed-circuit,"[计] 闭合线路
+[化] 闭路"
 circular,"a. 圆形的, 循环的, 间接的
 [医] 环状的, 循环的"
 circle,"n. 圆周, 社交圈, 循环, 范围
@@ -1632,7 +1636,7 @@ condenser,"n. 凝结器, 冷凝器, 缩写者
 condiment,"n. 辛辣调味品
 [化] 调味品"
 condition,[网络] 要件；经营环境；条件
-air-conditioner,无
+air-conditioner,[化] 空调器; 空气调节器
 conditioning,"n. 调节, 条件作用, 整修
 [计] 调节; 调整"
 condor,"n. 神鹰
@@ -2105,7 +2109,8 @@ curriculum,"n. 课程
 cushion,"n. 垫子, 橡皮软垫
 vt. 加垫褥, 缓冲, 掩盖"
 a cushion of,无
-air-cushion vehicle,无
+air-cushion vehicle,"un. 气垫车辆；气垫付船
+[网络] 气垫船；气垫式运载工具；气垫船气垫交通工具"
 custodian,"n. 管理人, 保管人, 监护人
 [经] 保管人, 管理人"
 custom,"n. 习惯, 风俗, 海关, 自定义
@@ -3237,7 +3242,7 @@ infancy,"n. 幼年, 初期, 幼儿期
 fantastic,[网络] 电扇探密
 fantasy,"n. 幻想, 想象的产物
 [医] 幻想"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 farce,"n. 闹剧, 滑稽剧, 胡闹"
 fascinate,"vt. 令人入神, 使着迷
 vi. 入迷"
@@ -4582,7 +4587,7 @@ jewel,"n. 珠宝, 贵重物, 镶珠宝的饰物
 vt. 饰以珠宝, 镶以宝石"
 jewelry,"n. 珠宝, 珠宝类"
 jeweler,"n. 宝石商, 宝石匠, 珠宝商"
-jibe with sth., （与…）相符，一致，相匹配
+jibe with sth.,[尤用于美国英语]与…一致，与…相符
 jog,"n. 轻推, 轻撞, 慢跑
 v. 轻推, (使)蹒跚行进, (使)慢跑"
 jogging,"n. 慢跑
@@ -4698,7 +4703,7 @@ vi. 闪光, 闪现, 反射
 vt. 使闪光, 反射"
 lasting,"a. 永久的, 永恒的, 持久的
 n. 厚实斜纹织物"
-long-lasting,无
+long-lasting,[化] 长效的
 everlasting,[网络] 永恒的；永恒持续的积极态度；持久的
 latent,"a. 潜伏性的, 隐藏的
 n. 隐约指纹"
@@ -5291,7 +5296,7 @@ mortar,"n. 臼, 研钵, 灰泥
 vt. 用灰泥涂抹, 用灰泥结合"
 mulberry,"n. 桑树, 桑椹, 深紫红色
 [医] 桑树; 桑葚"
-multi-faceted,无
+multi-faceted,n. 多方面的、多元化的
 multiple,"n. 倍数, 并联
 a. 多样的, 许多的, 多功能的"
 multiply,"vt. 乘；使增加；使繁殖；使相乘
@@ -6741,7 +6746,7 @@ n. 释放；发布；让与"
 relevant,"a. 有关联的, 有关系的, 适当的, 相应的
 [法] 有关的, 相关的"
 relevance,n. 有关；贴切；中肯；确切；相关(性)；相应；成比例；重大意义；实用性
-non-relevant,无
+non-relevant,[网络] 无误地规避一些不相干；不相应的
 irrelevant,"a. 不恰当的, 无关系的, 不相干的
 [法] 无关的, 不相干的, 离题的"
 reliable,"a. 可靠的, 可信赖的
@@ -7297,7 +7302,7 @@ secrete,"vt. 隐秘, 隐藏, 隐匿, 分泌
 [医] 分泌"
 secretin,"n. 促胰液素
 [化] 肠促胰液肽; 胰泌素"
-over-secretion,无
+over-secretion,分泌过多
 secret,"n. 秘密, 机密, 秘诀, 秘方
 a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
 sect,"comb.form 表示“切开”,“分开”：bisect;pinnatisect"
@@ -7850,7 +7855,7 @@ a. 标准的, 合规格的
 standardized,a. 标准化的；标准的；定型的
 standing,"n. 起立, 持续, 身分
 a. 立着的, 不动的, 经常的, 持续的"
-long-standing,无
+long-standing,维持；存在已久的
 outstanding,"adj. 杰出的；显著的；未解决的；未偿付的
 n. 未偿贷款"
 stanza,"n. 演出期, (体育比赛的)局"
@@ -8438,7 +8443,7 @@ vi. 倾斜, 翘起, 冲, 评击
 stilt,"n. 高跷, 支柱, 脚柱"
 timber,"n. 木材, 木料
 vt. 用木材建造"
-time-consuming,无
+time-consuming,adj. 耗费时间的，旷日持久的
 timid,"a. 胆小的, 羞怯的"
 tint,"n. 色彩, 浅色
 vt. 染色于"
@@ -8725,7 +8730,7 @@ uphold,vt. 支撑；鼓励；赞成；举起
 upland,高地
 uproot,"vt. 连根拔起, 根除"
 upset,上端局设备
-upside-down,无
+upside-down,[网络] 机腹朝上；颠倒；上的姿势
 urban,"a. 都市的, 住在都市的, 习惯于都市的
 [法] 城市的, 都市的, 市区的"
 urbane,a. 彬彬有礼的
@@ -9071,7 +9076,7 @@ vi. 结婚：；结合，交融："
 wedding,"n. 婚礼，婚宴；结婚；结合
 v. 与…结婚（wed的ing形式）
 n. (Wedding)人名；(德)韦丁"
-wedge-shaped,无
+wedge-shaped,楔状
 weed,"vt. 除草；铲除
 n. 杂草，野草；菸草
 vi. 除草
@@ -9085,7 +9090,7 @@ weird,"a. 怪异的, 超自然的, 不可思议的
 n. 命运, 预言, 符咒"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 whim,"n. 一时的兴致, 冲动, 怪念头, 绞盘"
 whisk off, 拂拭
 whittle,"vt. 逐渐削薄, 削整, 削弱, 削减
@@ -9802,7 +9807,7 @@ draw,[计] Acorn的基于对象的矢量图像文件
 attract,"vt. 吸引, 诱惑
 vi. 有吸引力"
 durable,"a. 持久的, 耐用的"
-long-lasting,无
+long-lasting,[化] 长效的
 dwelling,"n. 住处
 [医] 住房"
 house,"n. 房子, 住宅, 机构, 议院, 家族, 家庭
@@ -10583,7 +10588,7 @@ v. 用探针探测, 调查, 探索"
 explore,"v. 探险, 探测, 探究"
 progressive,"n. 改革论者, 进步论者
 a. 前进的, 累进的, 进步的"
-forward-looking,无
+forward-looking, [计划] 前瞻性
 projecting,"a. 突出的, 伸出的"
 protruding,"v. （使某物）伸出, （使某物）突出( protrude的现在分词 ); 凸"
 prolific,"a. 有生殖力的, 多产的, 丰富的

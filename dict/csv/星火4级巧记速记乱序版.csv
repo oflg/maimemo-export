@@ -295,7 +295,7 @@ spouse,n. 配偶
 term,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
 vt. 称, 呼
 [计] 检索词; 项"
-short-term,无
+short-term,[经] 短期
 determine,"v. 决定, 决心"
 determination,"n. 决心, 果断
 [化] 判定; 测定"
@@ -1335,7 +1335,7 @@ ray,"n. 射线；光线
 vt. 放射；显出
 vi. 放射光线；浮现
 n. (Ray)人名；(西、意、匈、印、尼日尔、瑞典、阿拉伯)拉伊；(英、法、柬、博)雷，蕾(女名)"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 radical,"n. 激进分子, 词根, 基础, 根式, 根
 a. 激进的, 根本的, 基本的, 根的"
 regard,"n. 注意；尊重；问候；凝视
@@ -2990,7 +2990,7 @@ vt. 呼叫, 召集, 打电话
 vi. 叫喊, 访问, 叫牌
 [计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件"
 recall,[网络] 召回；汽车召回制度；招回
-so-called,无
+so-called,adj. 所谓的
 challenge,"n. 挑战, 盘问
 vt. 向...挑战, 要求, 怀疑
 vi. 挑战, 对(证据等)表示异议"
@@ -4928,9 +4928,12 @@ write a good(或fair)hand
 younger hand
 见young"
 beforehand,[网络] 预先；事先；提前
-left-handed,无
-right-handed,无
-second-hand,无
+left-handed,惯用左手的
+right-handed,"adj. 惯用右手的；向右旋转的；〈罕〉可原谅的
+adv. 用右手
+[网络] 右旋的；右利；右利手"
+second-hand,"中间人, 助手
+[经] 旧货"
 handful,"n. 少数, 一把, 棘手事"
 handle,"n. 柄, 把手, 把柄, 柄状物, 手感
 vt. 触摸, 运用, 买卖, 处理, 操作

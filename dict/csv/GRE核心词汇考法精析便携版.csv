@@ -30,7 +30,7 @@ bravura,n. 大胆的尝试；令人赞赏的演唱或演奏技巧
 quota,"n. 配额, 限额
 [化] 定额"
 drab,"a. 土褐色的, 单调的"
-ad-lib,无
+ad-lib,没有限制地
 glib,"a. 能说善道的, 流畅的"
 succumb,"vi. 屈从, 屈服, 死"
 plumb,"n. 铅锤, 垂直
@@ -223,7 +223,7 @@ goad,"n. 赶牛棒, 激励, 刺激
 vt. 用刺棒驱赶, 激励, 刺激, 唆使, 煽动"
 embed,"vt. 使插入, 使嵌入, 使深留脑中
 [计] 嵌入"
-self-absorbed,无
+self-absorbed, 专顾自己的
 barefaced,"厚颜无耻的
 公然的"
 wrongheaded,"a. 执迷不悟的, 固执错误的"
@@ -232,27 +232,29 @@ jaded,"a. 疲倦不堪的, 厌倦的"
 lopsided,"a. 倾侧的, 不平衡的"
 backhanded,"adj. 间接的；反手拍击的
 v. 用手背打击；反手击球（backhand的过去分词）"
-ham-handed,无
+ham-handed,"na. “ham-fisted”的变体
+[网络] 笨手笨脚"
 outmoded,"adj. 过时的，不流行的
 v. 使不流行（outmode的过去分词）"
 secluded,"a. 隐退的, 隐蔽的"
 ragged,"a. 衣衫褴褛的, 参差不齐的, 不协调的, 粗糙的, 刺耳的"
 dogged,"a. 顽固的, 顽强的"
-far-fetched,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
 wretched,"a. 可怜的, 不幸的, 卑鄙的"
 polished,"a. 擦亮的, 优雅的, 精良的"
 cherished,v. 珍爱( cherish的过去式和过去分词 ); 怀有; 爱护; 抚育
 watershed,集水区
-full-bodied,无
+full-bodied,完满的
 dignified,"a. 有尊严的, 高尚的"
 serried,"a. 密集的, 林立的, 锯齿状的"
-half-baked,无
+half-baked,"半熟的,没有经验的"
 wicked,"a. 坏的, 邪恶的, 缺德的, 刻毒的, 恶劣的, 淘气的"
 dappled,adj. 有斑纹(或斑点)的，斑驳的，花斑的
 ingrained,"a. 根深蒂固的, 彻底的, 深染的"
-thick-skinned,无
+thick-skinned,"a. 厚皮的, 脸皮厚的, 感觉迟钝的"
 cramped,"a. 狭窄的, 难懂的, 难辨的"
-ill-bred,无
+ill-bred,没有[有]教养
 kindred,"n. 家族, 相似, 亲戚关系
 a. 同族的, 同类的, 血缘的"
 mannered,adj. 矫饰的；守规矩的；矫揉造作的
@@ -620,7 +622,8 @@ decode,"vt. 解码, 译解
 implode,"vi. 内爆, 向内破裂, 爆裂
 [电] 内裂"
 discommode,"vt. 使不方便, 打扰, 给...添麻烦"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 preclude,"vt. 预先排除, 预防, 阻止, 妨碍
 [法] 预防, 排除, 消除"
 elude,"vt. 逃避, 规避, 把...难倒"
@@ -653,7 +656,7 @@ carefree,"a. 无忧无虑的, 舒畅的, 愉快的"
 repartee,"n. 机敏巧妙的回答, 妙语, 机智的反驳, 巧辩, 敏捷答辩的才能"
 vouchsafe,"vt. 惠赐, 允许, 给予
 [法] 准予, 惠予, 俯允"
-fail-safe,无
+fail-safe,有故障安全装置
 gaffe,"n. 过失, 失态, 出丑"
 rife,"a. 流行的, 盛传的, 充满的"
 disengage,"vt. 使脱离, 使松开, 使摆脱约束(或义务等)
@@ -2263,9 +2266,9 @@ hamstring,"n. 后腿腱
 vt. 切断腿腱使成跛腿, 使瘫痪"
 imposing,"a. 令人难忘的, 壮丽的, 威风的"
 prepossessing,a. 给人好感的
-self-defeating,无
+self-defeating,自我挫败
 ingratiating,"a. 逢迎的, 迎合的"
-self-perpetuating,无
+self-perpetuating,a. 能使自身永久存在的
 exacting,"a. 苛求的, 吃力的"
 fleeting,"a. 疾驰的, 短暂的, 飞逝的"
 riveting,"a. 非常有趣的, 引人注目的
@@ -2611,7 +2614,7 @@ hypocritical,"a. 伪善的, 伪善者的"
 elliptical,[数] 椭圆形的
 nautical,"a. 海上的, 航海的, 船员的"
 univocal,"a. 单一意思的, 意义明确的"
-soft-pedal,无
+soft-pedal,"钢琴弱音踏板, 减弱效果的东西"
 conceal,"vt. 隐藏, 掩盖, 隐瞒
 [法] 隐瞒, 隐匿, 保守秘密"
 ordeal,"n. 严酷考验, 痛苦经历, 煎熬
@@ -3092,7 +3095,7 @@ dampen,"vt. 弄湿, 使沮丧
 vi. 变湿, 丧气"
 barren,"a. 不育的, 贫瘠的
 n. 荒地"
-moth-eaten,无
+moth-eaten, 蛀坏了的
 enlighten,"vt. 教育, 启发, 启蒙, 开导, 教导"
 hearten,"vt. 使振作, 激励
 vi. 振作"
@@ -3101,7 +3104,7 @@ hasten,"vt. 催促, 加紧
 vi. 赶快, 急忙"
 glisten,"vi. 闪亮, 辉耀
 n. 闪光, 闪耀"
-hard-bitten,无
+hard-bitten,"顽固的,刚愎的"
 leaven,"n. 酵母, 促使渐变的因素
 vt. 使发酵, 渐变"
 haven,"n. 港, 避难所, 安息所
@@ -4466,7 +4469,7 @@ implement,"n. 工具, 器具, 手段
 vt. 实现, 使生效, 执行"
 supplement,"vt. 增补，补充
 n. 增补，补充；补充物；增刊，副刊"
-self-abasement,无
+self-abasement,n. 自卑
 segment,"n. 片段, 部分, 分节, 段
 v. 分割, 分裂
 [计] 段"
@@ -4877,7 +4880,8 @@ sturdy,"a. 强健的, 健全的
 gaudy,"a. 俗丽的, 华而不实的
 n. 盛大宴会"
 cagey,"a. 狡猾的, 机警的, 有戒心的, 不敢表态的, 小心谨慎的, 不甚友善的"
-off-key,无
+off-key,"adj. 走音的；不正常的
+[网络] 走调；走调地；不合拍地"
 medley,"n. 混合, 混杂, 杂录
 a. 混合的, 拼凑的"
 motley,"a. 杂色的, 穿杂色衣的, 杂乱的, 混杂的
@@ -4955,7 +4959,9 @@ wily,"a. 使用计谋的, 有诡计的, 狡猾的"
 ally, 以-al结尾的形容词加ly构成副词)
 dally,"vi. 戏耍, 玩弄, 闲混
 vt. 浪费"
-willy-nilly,无
+willy-nilly,"adj. 犹豫不决的；不管愿不愿意的
+adv. 有背意愿地
+[网络] 三七二十一；囧字生活；强迫地"
 bully,"n. 欺凌弱小者, 土霸
 vt. 威胁, 恐吓, 欺负
 vi. 欺负
@@ -5229,7 +5235,9 @@ obloquy,"n. 辱骂, 毁谤, 耻辱"
 soliloquy,"n. 自言自语, 独白"
 scurvy,"a. 下流的, 卑鄙的, 无礼的
 n. 坏血病"
-topsy-turvy,无
+topsy-turvy,"adj. 〈非正式〉混乱的；〈非正式〉上下颠倒的
+n. 混乱；颠倒
+[网络] 酣歌畅戏；混乱世界；翻天覆地"
 savvy,"v. 理解, 领悟
 n. 理解能力, 机智, 悟性"
 frenzy,"n. 疯狂, 狂暴, 狂怒

@@ -16,7 +16,8 @@ absence,"n. 缺席, 缺乏, 没有
 [医] 失神"
 absent,"a. 缺席的, 不在的, 缺乏的, 漫不经心的
 vt. 使缺席"
-absent-minded,无
+absent-minded,"adj. 茫然的
+[网络] 心不在焉；健忘的；心不在焉的"
 absolute,"a. 绝对的, 专制的, 完全的, 独立的
 n. 绝对事物"
 absolve,"vt. 宣告...无罪, 赦免, 免除
@@ -136,7 +137,7 @@ n. 附加物, 词缀"
 affluent,"a. 丰富的, 富裕的
 n. 支流, 富人"
 affordable,[计] 普及型
-after-effect,无
+after-effect,[机] 事后效应
 aftermath,"n. 结果, 后果
 [法] 后果, 结果"
 aged,"a. 老的, 陈的, 有...岁的
@@ -450,7 +451,8 @@ backward,[网络] 后向的；叶向呈后向弯曲
 backwards,adv. 向后
 bacteria,"pl. 细菌
 [医] 细菌, [无芽胞]杆菌"
-bad-tempered,无
+bad-tempered,"adj. 暴躁的
+[网络] 坏脾气的；脾气坏的"
 baggy,"a. 袋状的, 松垂的"
 bail,"n. 保释, 拎环, 杓, 栅栏
 vt. 保释, 舀水"
@@ -790,7 +792,7 @@ buzz,"n. 嗡嗡声, 流言
 vi. 发出嗡嗡声, 说闲话
 vt. 使嗡嗡叫, 散布"
 bypass, 旁路，绕道
-by-product,无
+by-product, 副产品，副产物
 cabin,"n. 小屋, 客舱
 vt. 关在小屋"
 cabinet,"n. 橱柜, 内阁
@@ -1373,7 +1375,7 @@ counter,"n. 计算器, 计算者, 柜台, 筹码
 a. 反方向的, 相反的
 adv. 反方向地, 相反地
 [计] 计数器; 计数字"
-counter-attack,无
+counter-attack,逆袭
 counterpart,"[计] 副本, 配对物, 对应物"
 courageous,"a. 勇敢的, 大胆的, 有胆量的"
 court,"n. 法院, 庭院, 奉承
@@ -3497,7 +3499,8 @@ a. 未婚的, 处女的, 初次的, 无经验的"
 maintain,"vt. 维持, 维修, 保持, 坚持, 供养, 主张
 [化] 维修"
 majesty,[网络] 权威；壮丽；威权
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 making,comb.form [英国英语][构成形容词]表示“造成…的”，“酿成…的”: happy-making
 malady,"n. 病, 疾病, 弊病
 [医] 病"
@@ -5257,7 +5260,7 @@ sophisticated,"a. 复杂的, 久经世故的
 sore,"a. 悲伤的, 痛的, 引起痛苦的
 n. 痛处, 溃疡, 疮"
 sorrowful,a. 悲伤的
-so-so,无
+so-so,"勉强过得去, 一般"
 source,"n. 来源, 水源, 根源, 原始资料, 源
 [计] 来源, 源程序"
 souvenir,n. 纪念品
@@ -5492,7 +5495,7 @@ v. 浸, 泡"
 steer,"vt. 引导, 驾驶, 航行, 控制
 vi. 驾驶, 掌舵, 行驶
 n. 驾驶指示, 劝告"
-steering-wheel,无
+steering-wheel,"[机] 轮船舵轮, 驾驶盘"
 stem,"n. 茎, 干, 柄, 船首, 血统, 堵塞物
 vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行
 vi. 堵住, 逆行"
@@ -6330,8 +6333,9 @@ vt. 焊接, 使密接, 使结合, 使成整体
 vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
-well-being,无
-well-to-do,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-to-do,"na. 经济宽裕
+[网络] 富裕的；小康的"
 whereabouts,"n. 下落, 所在之处
 adv. 在何处"
 whereas,"conj. 然而, 鉴于
@@ -6455,7 +6459,7 @@ esthetics,n. 美学
 aesthetics,[社科] 美学
 aimless,"a. 无目的的, 没有目标的"
 airbase,n. 空军基地
-air-conditioned,无
+air-conditioned,装有空气调节器的
 airfield,n. 飞机场
 airforce,"空军, 美国航空队"
 airhostess,空中小姐
@@ -6541,7 +6545,7 @@ axiom,"n. 自明之理, 公理, 原理, 格言
 [法] 公理, 原理, 原则"
 axle,"n. 轴, 车轴
 [电] 轴"
-baby-sit,无
+baby-sit,"vi. 担任临时保姆, 照顾婴儿"
 backbone,[医] 脊柱
 badge,"n. 徽章, 标记
 [计] 标记"
@@ -6582,7 +6586,7 @@ beak,"n. 鸟嘴, 喙
 [医] 嘴, 喙"
 beaker,"n. 大口酒杯, 烧杯
 [化] 烧杯"
-bean-sprout,无
+bean-sprout,n. 豆芽
 beet,"n. 甜菜(根)
 [化] 甜菜"
 beetle,"n. 甲虫, 大槌
@@ -6982,7 +6986,8 @@ doctrine,"n. 教条, 学说
 documentary,"adj. 记录的；文件的；记实的
 n. 纪录片"
 dogged,"a. 顽固的, 顽强的"
-do-it-yourself,无
+do-it-yourself,"adj. (业余爱好者等)自制的
+[网络] 自己动手；自己动手做；自己做"
 dolphin,n. 海豚
 dome,[网络] 都想整我；整死我；利用我
 domino,"n. 化装外衣, 面具, 骨牌, 多米诺骨牌"
@@ -7002,7 +7007,7 @@ dive的过去式"
 dreary,a. 沉闷的
 dresser,"n. 化妆台, (剧团)服装师, 碗柜
 [医] 敷裹员"
-dressing-gown,无
+dressing-gown, 晨衣
 druggist,"n. 药商, 药材商, 药剂师
 [医] 药商, 调剂员"
 drugstore,"药房,杂货店"
@@ -7011,7 +7016,7 @@ drummer,"n. 鼓手, 旅行推销员
 drumstick,"〈美〉鸡腿下段,下段鸡腿肉"
 drunkard,"n. 酒鬼
 [医] 嗜酒者"
-dry-clean,无
+dry-clean,vt.& vi. 干洗
 dryer,"n. 干衣机, 干燥剂
 [化] 干燥剂; 催干剂; 干燥器; 干燥设备; 烘箱"
 dual,"a. 双重的, 双的
@@ -7032,7 +7037,7 @@ duster,"n. 掸子, 打扫灰尘的人"
 dustman,"n. 清洁工人
 n. (Dustman)人名；(英)达斯特曼"
 dustpan,簸箕
-duty-free,无
+duty-free,[经] 免税
 dynamo,"n. 发电机
 [医] 电机, 发电机"
 dynasty,"n. 朝代, 王朝"
@@ -7086,7 +7091,8 @@ entrepreneur,"n. 企业家, 主办人
 envious,"a. 嫉妒的, 羡慕的"
 environmental,[网络] 环保
 enzyme,酵素
-epoch-making,无
+epoch-making,"adj. 开新纪元的
+[网络] 划时代的；划时代意义；开天辟地"
 equality,"n. 平等, 均匀, 相等
 [法] 同等, 平等, 相等"
 equation,"n. 相等, 等式, 平衡
@@ -7120,7 +7126,7 @@ extracurricular,a. 课外的
 eyebrow,眉毛板
 eyelash,眼睫；睫毛
 eyelid,眼睑；眼皮
-eye-opener,无
+eye-opener,"使人瞠目吃惊的事物, 有启发作用的东西, 外表迷人的东西"
 eyesore,"n. 眼中钉
 [网络] 丑陋；丑陋的东西；难看的东西"
 eyewitness,"un. 目睹
@@ -7148,8 +7154,8 @@ a. 狂热的, 盲信的"
 farewell,进展顺利
 farmhand,n. 农场工人
 farmyard,[网络] 农场场院
-far-off,无
-far-reaching,无
+far-off," 远, 在远处的"
+far-reaching,adj. 影响深远的; 有广泛影响的
 fascism,"n. 法西斯主义, 极端国家主义"
 fascist,"n. 法西斯主义者, 法西斯党员"
 fashionable,"a. 时髦的, 上流社会的, 流行的"
@@ -7188,8 +7194,9 @@ fir,"n. 枞树, 杉木
 [机] 枞木"
 firearm,轻武器
 firecracker, 炮竹
-fire-drill,无
-fire-engine,无
+fire-drill,消防演习
+fire-engine,"消防车
+[法] 救火车, 消防车"
 firefighter,[法] 消防人员
 fireman,"n. 消防队员；救火队员；锅炉工
 n. (Fireman)人名；(英)法尔曼"
@@ -7201,10 +7208,13 @@ firework,"un. 动火作业
 [网络] 灿烂的夜空"
 firstborn,"adj. 头生的,最长的"
 firsthand, [体]第一家
-first-rate,无
+first-rate,"n. 一级战舰；一流人物
+adj. 第一等的
+adv. 〈口〉非常(好)地
+[网络] 一流的；甲级；第一流的"
 fishing,"n. 钓鱼, 鱼业
 a. 钓鱼的"
-fishing-rod,无
+fishing-rod,钓鱼桿
 fission,"n. 裂开, 分裂, 分体
 [化] 裂变"
 flagship,旗舰
@@ -7285,8 +7295,8 @@ frosting,"n. 霜状白糖, 无光泽面, 装饰玻璃粉
 frosty,"a. 霜冻的, 严寒的, 冷淡的"
 fruitful,"a. 结果实的, 多实的, 产量多的"
 fruitless,"a. 不结果的, 不长果实的, 无子的"
-frying-pan,无
-full-time,无
+frying-pan,"煎锅, 长柄平底锅"
+full-time,"专职,全部工作时间的,全日制"
 funeral,"n. 葬礼, 出殡"
 funfair,游乐园
 fungus,"n. 真菌, 真菌类植物
@@ -7331,7 +7341,7 @@ geopolitics,[网络] 地缘政治；地缘政治学；地域地缘政治学
 germ,"n. 细菌, 种子, 生殖细胞, 根源
 [医] 芽胞, 胚, 胚芽, 病菌"
 gerund,n. 动名词
-get-together,无
+get-together,"聚集, 收集, 积累"
 ghetto,n. 犹太人区
 ghost,[网络] 及高盘
 gigantic,"a. 巨人般的, 巨大的"
@@ -7353,8 +7363,8 @@ goalkeeper,"un. 守门员
 golfer,n. 打高尔夫球的人
 gong,"n. 铜锣, 皿形钟
 vt. 鸣锣召唤"
-good-humored,无
-good-humoured,无
+good-humored,"a. 心情好的, 脾气好的, 心情愉快的"
+good-humoured,"a. 心情好的, 脾气好的, 心情愉快的"
 goodness,"n. 仁慈, 善良"
 goodwill,善意；信誉
 gorge,"n. 峡谷, 凹槽, 塞饱, 咽喉
@@ -7419,7 +7429,8 @@ hairdresser,[网络] 理发师；发型师；美发师
 hairpin,n. 簪；束发夹；夹发针
 hairspray,[化] 喷发胶
 hairy,"a. 多毛的, 毛状的, 长毛的"
-half-time,无
+half-time,"na. 半工半薪；(比赛中的)半场休息时间
+[网络] 中场休息；半时；半衰期"
 handcuff,"vt. 给…戴上手铐；限制
 n. 手铐；思想上的桎梏"
 handgun,"手喷枪,手动油枪"
@@ -7444,7 +7455,7 @@ headlong,"adj. 轻率的；头向前的；匆促而用力的
 adv. 头向前地；猛然用力地"
 headman, [体]游泳表演者
 headmistress,[网络] 女校长
-head-on,无
+head-on,迎面地
 headphones,n. 听筒；耳机；头戴式受话器（headphone的复数形式）
 headroom,[化] 净空高度
 headset,"(头戴式)耳机,听筒"
@@ -7492,18 +7503,19 @@ heroin,"n. 海洛因, 吗啡
 herring,"n. 青鱼, 鲱"
 hexagon,"n. 六角形, 六边形
 [机] 六角, 六角形, 六角边"
-hide-and-seek,无
+hide-and-seek,藏猫猫
 hideous,"a. 丑恶的, 可憎的, 令人沮丧的"
-hi-fi,无
-high-energy,无
+hi-fi,n. 高保真度，即，high fidelity
+high-energy,高能量;高能率
 highland,高地
-high-pitched,无
-high-ranking,无
-high-rise,无
-high-riser,无
-high-sounding,无
-high-spirited,无
-high-tech,无
+high-pitched,"a. 调子高的, 紧张的"
+high-ranking,高级的
+high-rise,高层建筑
+high-riser,[网络] 高把手自行车；发音播放
+high-sounding,adj. 夸张的
+high-spirited,"na. 精神极好的
+[网络] 风发；极爱极恨的高灵"
+high-tech,高技术
 hillside,山坡
 hinterland,"n. 内地, 腹地, 偏僻地区
 [经] 腹地"
@@ -7659,7 +7671,7 @@ influential,"a. 有影响的, 有势力的"
 influenza,"n. 流行性感冒
 [医] 流行性感冒, 流感"
 inimitable,"a. 无法仿效的, 独特的, 无比的"
-in-laws,无
+in-laws,n. 姻亲
 innkeeper,"n. 客栈老板, 酒店主"
 insecticide,"n. 杀虫剂
 [化] 杀虫剂"
@@ -7811,7 +7823,7 @@ vt. 覆以皮革, 鞭苔, 抽打
 a. 皮革的, 皮制的"
 lecturer,"n. 演讲者, 讲师
 [法] 讲演人, 讲课人, 讲师"
-left-handed,无
+left-handed,惯用左手的
 leftover, [计]剩余
 legion,"n. 军团, 军队, 众多的人"
 lens,"n. 透镜, 镜头, 镜片, 晶状体
@@ -8156,7 +8168,7 @@ oats,"n. 燕麦, 燕麦属植物, 燕麦粥, 麦片粥"
 offshore,离岸
 oily,"a. 油的, 油滑的, 油嘴的
 [化] 油的; 含油的; 油性的; 油质的; 多油的; 油腻的; 油滑的"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 olive,"n. 橄榄, 橄榄树, 橄榄色, 橄榄枝
 a. 黄绿色的, 黄褐色的, 橄榄色的"
 onlooker,"n. 观众, 旁观者"
@@ -8470,7 +8482,7 @@ recurrence,"n. 再现, 再发生, 反复, 循环
 [医] 复发, 再发"
 reddish,"a. 微红的, 略带红色的"
 redevelopment, 重新发展
-red-hot,无
+red-hot, 红热
 redistribute,vt. 重新分配；再区分
 reduction,"n. 减少, 缩影, 变化
 [化] 还原"
@@ -8531,7 +8543,7 @@ rifle,"n. 来复枪, 步枪
 vt. 用步枪射击, 抢夺
 vi. (抱有不良意图)迅速翻查"
 rifleman,"n. 步枪射手, 步兵"
-right-wing,无
+right-wing,"右翼,保守派;右边锋"
 roadway,路幅；车行道
 robbery,"n. 抢掠, 抢夺
 [法] 强盗, 抢劫, 劫掠"
@@ -8543,7 +8555,7 @@ rod,"n. 竿, 笞鞭, 小枝
 [化] 棒"
 roller,"n. 滚筒, 滚轴, 压路机
 [化] 滚柱; 托辊"
-rolling-pin,无
+rolling-pin,n. 擀面杖
 romance,"n. 冒险故事, 浪漫史, 传奇文学
 vi. 写传奇, 作空想, 虚构"
 romanticism,"n. 浪漫主义精神, 浪漫主义"
@@ -8559,7 +8571,7 @@ runaway,"潜逃
 [化] 失控"
 runner,"n. 跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽
 [化] 碾碎机; 压碎机"
-runner-up,无
+runner-up,n. 亚军; [体]第二名
 running,"n. 运转；赛跑；流出
 adj. 连续的；流动的；跑着的；运转着的
 v. 跑；运转（run的ing形式）；行驶
@@ -8637,7 +8649,7 @@ vi. 当雕刻师"
 scythe,"n. 长柄大镰刀, 大钐镰
 vt. 用大镰刀割"
 seaport,"[法] 海港, 港市"
-sea-shell,无
+sea-shell, 贝壳
 seasoning,"n. 调味品, 作料, 佐料, 锻练
 [化] 天然时效"
 seatbelt,安全带
@@ -8654,31 +8666,42 @@ seemingly,"adv. 看来似乎, 表面上看来"
 seesaw, 跷跷板
 seizure,"n. 捕获, 夺取, 占领, 捕获物, 没收, 充公
 [医] 发作; 癫痫发作"
-self-assured,无
-self-confidence,无
-self-conscious,无
-self-contained,无
-self-contradictory,无
-self-control,无
-self-criticism,无
-self-determination,无
-self-education,无
-self-employed,无
-self-evident,无
-self-government,无
-self-interest,无
-self-pity,无
-self-reliant,无
-self-respect,无
-self-service,无
-self-sufficient,无
-self-taught,无
+self-assured, [体]自信
+self-confidence,自信
+self-conscious,"adj. 自觉的；怕难为情的；害羞的
+[网络] 自我意识；自我意识过剩"
+self-contained, [体]自给的
+self-contradictory,adj. 自相矛盾的；前后矛盾的
+self-control,"n. 克己；自制
+[网络] 自我控制；自制力；自身对照"
+self-criticism,n. 自我批评
+self-determination,"n. 自决；民族自决；【哲】(强调意志自由的)自我决定
+[网络] 自决権；自我决定性；民族自决原则"
+self-education, [体]自我教育
+self-employed, 自营；个体经营的
+self-evident,adj. 不证自明的
+self-government,"n. 自治；克己
+[网络] 人民自治；自我管理；自治政府"
+self-interest,"私心
+利己
+自我利益"
+self-pity,"n. 自怜
+[网络] 自哀自怜；自怜心；自我怜悯"
+self-reliant,a. 独断独行的
+self-respect, [体]自尊
+self-service,自饲
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
 semester,n. 学期
 semicolon,[网络] 分号
-semi-conductor,无
+semi-conductor,n. 半导体
 seminar,"n. 研究班, 专题讨论会
 [经] 讨论会, 专家讨论会"
-semi-skilled,无
+semi-skilled,"adj. 半熟练；半熟链的
+n. 半熟练的
+[网络] 半技术；半技术人员；技巧稍差的"
 senate,"n. 参议院, 立法机构, 评议会"
 senator,"n. 参议员, (某些大学的)理事
 [法] 参议员, 上议员"
@@ -8724,14 +8747,15 @@ shoplift,"vt. 从商店中偷商品
 vi. 从商店中偷商品"
 shopper,"n. 购物者
 [经] 顾客, 购物的人"
-short-circuit,无
+short-circuit,"短路
+[计] 短路"
 shortcoming,n. 缺点；短处
 shortcut,"n. 近路, 捷径"
 shorthand, 速记
 shorts,[网络] 短的
 shortsighted, [医]近视的
-short-term,无
-short-wave,无
+short-term,[经] 短期
+short-wave,[医] 短波
 shotgun, 猎枪
 shovel,"n. 铲, 铁铲
 v. 铲"
@@ -8756,7 +8780,7 @@ siren,"n. 女海妖, 妖女, 警报器, 汽笛, 迷人的美女
 a. 诱惑的
 vi. 响着警报器前进"
 sitcom,abbr. 情景喜剧（situation comedy）
-sitting-room,无
+sitting-room,起居室
 skateboard,n. 溜冰板
 skull,"n. 头盖骨, 头脑, 好学生
 [医] 头颅"
@@ -8809,7 +8833,7 @@ sorghum,"n. 高粱, 芦黍糖浆, 甜得发腻的东西
 soya bean,n. 大豆
 spa,[网络] 伤心的母亲
 spacecraft,"[计] 宇宙飞船, 空间飞行器"
-space-shuttle,无
+space-shuttle,航天飞机
 Spaniard,n. 西班牙人
 spanner,"n. 扳手
 [化] 扳手; 紧固扳手; 紧固器"
@@ -8856,7 +8880,7 @@ starter,"n. 开端者, 在起跑线上的人, 参加赛跑的人, 调度员, 起
 starvation,"n. 饥饿, 饿死
 [医] 绝食, 饥锇(指长时期的)"
 stateroom,(客车)高级包房
-station-wagon,无
+station-wagon,"旅行汽车,小型客车,客货两用车"
 statistical,"a. 统计的, 统计上的, 统计学的
 [经] 统计的, 统计学的"
 statistician,"n. 统计员, 统计学家
@@ -8951,7 +8975,7 @@ tanker,"n. 坦克手, 油船, 空中加油飞机, 运油飞机, 油槽/水槽汽
 taper,"n. 带子操作工, 小蜡烛, 尖细, 渐弱, 锥形, 尖塔
 a. 尖细的, 分等级的
 v. (使)一头逐渐变细, (使)逐渐减少"
-tape-recording,无
+tape-recording,n. 磁带录音; 录音带
 tapestry,"n. 挂毯, 绒绣
 vt. 用挂毯装饰"
 tarmac,"n. 柏油碎石, 柏油碎石路"
@@ -8985,14 +9009,14 @@ thermostat,"n. 自动调温器, 温度自动启闭装置
 [化] 恒温器; 恒温箱"
 thesaurus,"n. 专类辞典, 宝库, 知识宝库, 叙词表, 主题词表
 [计] 同义词, 同义词典"
-thick-skinned,无
+thick-skinned,"a. 厚皮的, 脸皮厚的, 感觉迟钝的"
 thigh,"n. 大腿, 股
 [医] 股, 大腿"
 thorn,"n. 刺, 棘, 荆棘"
 thoroughbred,"a. 受过严格训练的, 良种的
 n. 受过严格训练的人, 良种动物"
 thou,"pron. 汝, 你, 尔"
-three-quarters,无
+three-quarters, 四分之三
 thresh,"vt. 打谷, 摔打, 反复研究, 推敲
 vi. 打谷, 鞭打, 剧烈扭动"
 thrush,"n. 鸫, 鹅口疮, 蹄叉腐烂
@@ -9050,7 +9074,7 @@ vt. 丢弃"
 trawl,"n. 拖网
 v. 用拖网捕鱼"
 tray,[网络] 太赫兹；射线；太赫兹技术
-treasure-house,无
+treasure-house,[经] 宝库
 treeline,n. 林木线
 tribunal,"n. 法庭, 法官席, 裁决
 [法] 法庭, 裁判所, 裁判"
@@ -9121,11 +9145,11 @@ underwater,"(在生活中)失败,潦倒"
 underworld,n. 黑社会；地狱；下层社会；尘世
 undesirable,"a. 不受欢迎的, 不合乎社会道德标准的
 [法] 不受欢迎的人, 不良份子, 不法份子"
-undreamed-of,无
+undreamed-of,"a. 梦想不到的, 意外的"
 unemployed,"a. 失业的, 未被利用的
 [经] 没有被雇用的, 失业的, 没有被利用的"
 unethical,a. 不道德的
-unheard-of,无
+unheard-of,a. 没发生过的; 令人震惊的；前所未有的
 unisex,a. 男女皆宜的
 unlawful,"a. 非法的, 不正当的
 [法] 不法, 不法的, 非法的"
@@ -9351,7 +9375,7 @@ a. 非常坚硬的, 坚强的, 固执的"
 addictive,a. 上瘾的
 additive,"a. 添加的, 附加的, 加法的, 累积的
 n. 添加物"
-add-on,无
+add-on," （在计算或目录的末尾额外）加上, 附加"
 adept,"a. 熟练的, 老练的, 巧妙的
 n. 能手, 内行"
 adhesive,"a. 粘着的, 涂有粘性物质的
@@ -10368,7 +10392,7 @@ vt. 使弯曲, 诈骗
 vi. 弯曲"
 crooked,"a. 弯曲的, 歪的, 邪恶的"
 crossbow,横向弯曲
-cross-examine,无
+cross-examine, 反诘
 crossword,[网络] 纵横字；跨词；上下文相关
 crotch,"n. 分叉处, 丫叉, 胯部"
 crucify,vt. 十字架上钉死
@@ -10748,9 +10772,10 @@ divisive,"a. 区分的, 制造分裂的, 造成不和的"
 divulge,"vt. 泄露, 透露"
 docile,"a. 容易教的, 温顺的"
 doctorate,n. 博士头衔
-dog-eared,无
+dog-eared,"un. 卷边
+[网络] 摺角痕"
 dogma,n. 教条
-dog-tired,无
+dog-tired,"精疲力竭,疲惫不堪"
 doldrums,"n. 忧郁, 赤道无风带"
 dole,"n. 救济品, 失业救济金
 vt. 发放救济"
@@ -10785,7 +10810,7 @@ adv. 下, 下去, 降下
 prep. 往下, 沿着
 n. 丘陵, 软毛, 开阔的高地
 [计] 向下, 退下命令"
-down-and-out,无
+down-and-out,穷困潦倒
 downgrade,"un. 下坡
 [网络] 降级；次级品；下调评级"
 downhearted,adj. 情绪低落的；消沉的
@@ -10819,7 +10844,7 @@ vt. 使滴下, 运球
 n. 点滴, 口水, 少量"
 drily,"adv. 干燥地, 不加渲染地, 冷冰冰地, 枯燥地"
 dripping,"n. 滴, 滴下物, 水滴"
-drive-in,无
+drive-in, 驶进; 打入; 强行灌输; 敲进
 drone,"n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船)
 vi. 嗡嗡作声, 混日子
 vt. 低沉地说"
@@ -11171,7 +11196,8 @@ exuberant,"a. 繁茂的, 丰富的, 生气勃勃的
 [医] 生成过多的, 高度增生的"
 exude,"v. (使)流出, (使)渗出"
 exult,"vi. 非常高兴, 欢欣"
-eye-catching,无
+eye-catching,"adj. 〈美口〉引人注目的
+[网络] 惹眼；是引人注目的；捕声捉影"
 eyewash,[医] 洗眼剂
 fabricate,"vt. 制造, 建造, 装配, 伪造"
 facade,"n. 建筑物的正面, 外观, 表面"
@@ -11190,7 +11216,7 @@ vi. 努力地工作"
 failing,"n. 失败, 缺点
 prep. 如果没有...
 a. 失败的"
-faint-hearted,无
+faint-hearted,"a. 胆怯的, 怯懦的"
 fairground,n. 露天市场；举行赛会的场所；游乐场
 fairway,[经] 航道
 falcon,"n. 隼, 猎鹰"
@@ -11211,8 +11237,9 @@ fantasise,"v. 梦想, 幻想"
 fantasize,"vt.vi. 想象, 出现幻想, 产生幻想, 使幻想化, 幻想"
 faraway, 遥远; 迢迢; 远离; 迥
 farce,"n. 闹剧, 滑稽剧, 胡闹"
-far-fetched,无
-far-sighted,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
+far-sighted,"a. 有远见的, 远视的, 慎重的"
 fastidious,"a. 难取悦的, 挑剔的, 苛求的"
 fatality,"n. 不幸, 厄运, 致命性, 死亡者, 厄运, 天命"
 fated,"a. 宿命的, 命中注定的, 受命运支配的"
@@ -11226,7 +11253,7 @@ favoritism,"n. 偏爱, 偏袒"
 fawn,"n. 小鹿
 vi. 摇尾乞怜, 奉承"
 faze,"vt. 打扰, 折磨, 使狼狈"
-feather-brained,无
+feather-brained, 浑头浑脑的
 feckless,"a. 无效的, 无能的, 不负责任的"
 fecund,"a. 生殖力旺盛的, 多产的, 丰饶的, 肥沃的"
 federalism,"n. 联邦制, 联邦主义
@@ -11235,7 +11262,7 @@ federalist,"n. 联邦制拥护者
 [法] 联邦党, 联邦派, 联邦制拥护者"
 federate,"a. 同盟的, 联合的, 联邦制度下的
 v. 公布联邦制, (使)联合, 同盟"
-feeble-minded,无
+feeble-minded,低能的
 feign,"vt. 假装, 装作
 vi. 作假"
 feint,"n. 伪装, 假装, 假托, 佯攻
@@ -11313,7 +11340,7 @@ finesse,"n. 策略, 手段, (桥牌中的)飞牌
 v. 用计谋处理, 出小牌"
 fingertip,[医] 指尖
 finicky,"a. 过分注意的, 过分周到的, 过分讲究的"
-fire-bomb,无
+fire-bomb,"n. 燃烧弹,火焰炸弹"
 firebrand,火源(如燃烧树叶、木材及炭火火花等物质)
 firebrick,[化] 火砖; 耐火砖
 firedamp,"[医] 引火毒气(碳氢化物,主要是沼气)"
@@ -11565,8 +11592,8 @@ fry,"n. 油炸食物, 鱼苗
 v. 油炸, 煎"
 fugitive,"a. 逃亡的, 短暂的, 难捉摸的
 n. 逃亡者, 亡命者, 难捕捉之物"
-full-blown,无
-full-length,无
+full-blown,完全成熟的；充分发展的
+full-length,[机] 全长
 fumble,"n. 摸索, 笨拙的行动, 漏球
 vt. 摸索, 乱摸, 笨拙的处理, 漏接(球)
 vi. 摸索, 笨手笨脚, 漏球"
@@ -11578,7 +11605,7 @@ vi. 惊恐, 发出臭味"
 furl,"vt. 卷收, 叠, 收拢
 vi. 卷起, 收拢
 n. 卷收, 卷起, 卷起的方式"
-fur-lined,无
+fur-lined, 衬毛皮的
 furnishings,n. 家具；供应；穿戴用品（furnishing的复数）
 furrier,"n. 毛皮商, 毛皮衣制作工"
 furrow,"n. 犁沟, 车辙, 皱纹
@@ -11796,9 +11823,9 @@ hardball,"un. 棒球
 [网络] 硬球状态；硬汉；硬式网球"
 hardboard,"人造板,刚纸"
 hardbitten,"顽固的,刚愎的"
-hard-boiled,无
+hard-boiled,"熟蛋黄,冷酷"
 hard core,中坚力量；碎砖垫层
-hard-headed,无
+hard-headed,"实际的,精明的,圆满的,週道的"
 hardtop, 坚固顶板; 硬质铺装路; 硬顶跑车; 硬顶轿车
 hardwood,"硬材,阔叶树材"
 harebrained,"a. 轻率的, 浮躁的"
@@ -12067,7 +12094,7 @@ horticulture,n. 园艺
 hosiery,"n. 袜, 内衣裤"
 hospice,"n. 旅客住宿处, 收容所"
 hotbed,热床
-hot-blooded,无
+hot-blooded, [体]纯种的
 hotchpotch,n. 大杂烩
 hotelier,n. 旅馆老板
 hotfoot,"un. 机轮刹车装置过热的
@@ -12314,7 +12341,8 @@ indent,"n. 契约, 订货单, 凹痕
 vi. 切割成锯齿状
 vt. 缩排, 定货, 印凹痕
 [计] 缩进"
-in-depth,无
+in-depth,"na. 广泛
+[网络] 深入地；全面深入地；深入的"
 indeterminate,"a. 不明确的, 不确定的, 含混的
 [法] 不明确的, 无定期的, 不确定的"
 indict,"vt. 起诉, 控告, 指控
@@ -12572,8 +12600,8 @@ ivy,"n. 常春藤
 a. 学院的, 抽象的"
 jab,"v. 刺, 戳, 猛击
 n. 刺, 戳, 猛击"
-jack-in-the-box,无
-jack-of-all-trades,无
+jack-in-the-box,n. 玩偶匣（快餐店）(JBX)
+jack-of-all-trades,"多面手,百事通"
 jagged,"a. 锯齿状的
 [电] 锯齿形的"
 jargon,"n. 专门术语, 行话, 梦话, 土语
@@ -12636,7 +12664,7 @@ vt. 置于狗舍, 宿于狗舍
 vi. 进狗窝"
 kernel,"n. 核心, 中心, 精髓, 内核
 [计] 内核"
-kick-off,无
+kick-off,"踢脱, 中线开球"
 kin,"suf. 表示小：lambkin, princekin; [构成姓氏]：Peterkin"
 kindred,"n. 家族, 相似, 亲戚关系
 a. 同族的, 同类的, 血缘的"
@@ -12647,7 +12675,7 @@ knack,"n. 熟练技术, 巧妙手法, 诀窍
 [化] 窍门"
 knead,"vt. 揉, 按摩, 捏
 [机] 揉合"
-know-how,无
+know-how,[化] 专门技术; 窍门
 laborious,"a. 艰苦的, 费劲的, 勤劳的"
 lacquer,"n. 瓷漆, 漆, 漆器
 vt. 涂漆"
@@ -12685,7 +12713,8 @@ lavish,"a. 大方的, 丰富的, 浪费的
 vt. 浪费, 滥用, 慷慨给予"
 lawsuit,[经] 向法院提出的诉讼
 lax,[网络] 洛杉矶国际机场；点由洛杉矶
-lay-off,无
+lay-off,"na. 辞退；停止；暂停
+[网络] 解雇；下岗；裁员"
 lb,"n. 后排左5号位队员；左后卫；残垒；水左卫2号队员
 abbr. 磅（源自拉丁语 libra，约等于 454 克）
 [网络] 负载均衡(Load Balance)；左后卫(left back)；磅级"
@@ -12848,7 +12877,8 @@ maim,"vt. 使残废, 使不能工作, 使伤残
 mainspring,[机] 主弹簧
 mainstay, 主桅前支索
 majestic,"a. 宏伟的, 庄严的"
-make-believe,无
+make-believe,"假装
+[法] 假装, 佯为借口, 托词"
 makeshift,设法应付
 maladjusted,"a. 失调的, 不适应环境的"
 maladministration,"n. 管理不善, 弊政
@@ -13000,7 +13030,7 @@ mercantile,"a. 商业的, 商人的
 mercenary,"n. 唯利是图者, 雇佣兵
 a. 为钱而工作的, 被雇的, 图利的"
 mermaid,"n. 美人鱼, 善泳的女子"
-merry-go-round,无
+merry-go-round,n. 旋转木马
 mesh,"n. 网孔, 网丝, 网眼, 网状物, 圈套, 陷阱, 啮合
 vt. 以网捕捉, 啮合, 使缠住
 vi. 落网, 相啮合"
@@ -13660,7 +13690,7 @@ plasma,"n. 血浆, 淋巴液, 原生质, 等离子体
 plaster,"n. 石膏, 灰泥, 安慰(缓解)用品, 膏药
 vt. 涂以灰泥, 敷以膏药, 掩饰, 使平服, 彻底击败, 减轻, 粘贴"
 platoon,"n. 排, 一组, 一群人"
-play-off,无
+play-off,"使出丑, 延长比赛以破平局, 使相斗, (用欺骗手段)使...脱手"
 plea,"n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词
 [法] 抗辩, 申诉案件, 答辩"
 plead,"vi. 辩护, 恳求
@@ -13985,7 +14015,7 @@ ravine,"n. 峡谷, 冲沟, 溪谷"
 ravish,"vt. 强夺, 夺走, 使出神, 强奸
 [法] 强夺, 抢去, 强奸"
 reaffirm,"vt. 再肯定, 重申；再断言"
-rear-admiral,无
+rear-admiral,海军少将
 rearguard,后卫部队
 rearmament,n. [军] 重整军备；改良装备
 reassure,"vt. 使…安心, 使消除疑虑"
@@ -14034,7 +14064,8 @@ reductio ad absurdum,"[拉](=reduction to absurdity)[逻]归谬法, 间接证明
 redundant,"a. 多余的, 过多的, 冗长的
 [医] 过多的, 多余的"
 reedy,"a. 芦苇丛生的, 芦苇做的, 芦苇状的"
-re-examine,无
+re-examine,"v. 再考试；再审查
+[网络] 再次检查；再检查；复查"
 referendum,n. （就重大政治或社会问题进行的）全民公决，全民投票
 refurbish,vt. 刷新；再磨光
 refutation,"n. 反驳, 辩驳, 反驳的证据
@@ -14230,7 +14261,8 @@ vi. 溜冰"
 rinse,"n. 清洗, 染发, 染发剂
 vt. 以清水冲洗, 漱, 漂清
 vi. 被漂净"
-rip-roaring,无
+rip-roaring,"adj. 喧闹的；〈美俚〉非常热闹的
+[网络] 吵闹的"
 rivet,"n. 铆钉
 vt. 用铆钉固定, 敲进去, 注目, 吸引住"
 roach,"n. 斜齿鳊
@@ -14244,7 +14276,7 @@ n. 啮齿动物"
 rodeo,"n. 竞技表演
 [经] 牛市场"
 roger,"interj. 对!, 行!, 好!"
-rolling-stock,无
+rolling-stock,(铁路)全部车辆
 rookie,n. 新手
 roost,"n. 栖木, 休息所, 群栖的禽鸟
 vi. 栖息, 安歇
@@ -14473,16 +14505,19 @@ segregation,"n. 隔离, 偏析, 被隔离的部分, 种族隔离
 [化] 分离; 分凝; 离析; 偏析; 分聚"
 selenium,"n. 硒
 [化] 硒Se"
-self-annihilation,无
-self-effacing,无
-self-fulfilling,无
-self-made,无
-self-opinionated,无
-self-possessed,无
-self-preservation,无
-self-restraint,无
-self-styled,无
-self-willed,无
+self-annihilation,n. （在对神默祷中的）自我消灭
+self-effacing,"a. 不出风头的, 不喜出风头的, 谦让的"
+self-fulfilling,"adj. 自我实现的
+[网络] 自我满足"
+self-made,"adj. 自己搞的；自力更生的
+[网络] 白手起家；自制；自我奋斗成功者"
+self-opinionated,"adj. 固执己见的；自负的
+[网络] 刚愎自用的；固持己见"
+self-possessed,adj. 有自制力的；沉着的
+self-preservation,自我保护
+self-restraint, 自动抑制
+self-styled,"a. 自称的, 自任的"
+self-willed,"a. 任性的, 顽固的"
 semantic,"a. 语义的
 [计] 语义"
 semblance,"n. 外表, 伪装, 假象, 少量"
@@ -14517,7 +14552,7 @@ serviceable,"a. 有用的, 耐用的
 servile,"a. 奴隶的, 奴性的, 卑屈的"
 servitude,"n. 奴隶状态, 惩役, 地役权
 [法] 苦役, 劳役, 奴役"
-set-piece,无
+set-piece,n. 具有众所周知的固定形式
 setter,"n. 从事安装的人, 调节器, (警察)眼线"
 severity,"n. 严格, 朴素, 激烈"
 sexism,"n. 性别歧视, 歧视女性"
@@ -14666,7 +14701,7 @@ v. 滑雪；坐雪橇
 [网络] 打滑；栈板"
 skimmer,"n. 撇去浮沫的器具, 浏览者, 蛤, 蜻, 剪嘴鸥
 [化] 撇沫板; 撇乳器"
-skin-diving,无
+skin-diving, 轻装潜水; 裸潜
 skinny,"a. 似皮的, 极瘦的, 少的, 小气的
 [医] 皮的; 消瘦的"
 skipper,"n. 船长, 机长, 队长"
@@ -15187,7 +15222,8 @@ thy,pron. 你的
 thyroid,"a. 甲状腺的, 甲状的, 甲状软骨的
 n. 甲状腺, 甲状软骨, 甲状腺剂"
 tiara,n. 冕状头饰
-tie-up,无
+tie-up,"na. 绑；系；包扎；(船只)系泊
+[网络] 捆；捆绑；占用"
 tinder,n. 火绒盒
 tinge,"n. 色调, 色彩, 气味, 气息
 vt. 染, 使带气息"
@@ -15295,7 +15331,8 @@ vi. 滚动, 移动, 投球
 vt. 使滚动, 使移转"
 trying,"a. 难受的, 难堪的
 [法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的"
-try-out,无
+try-out,"na. (采用前)严密试验；筛矿；量(金属的)纯度
+[网络] 试用；尝试；考验"
 tuba,"n. 大号
 [医] 管"
 tubular,"a. 管状的
@@ -15699,7 +15736,7 @@ vt. 扭曲, 缠绕
 vi. 蠕动, 扭动身体, 盘绕, 遭受苦难"
 wry,"a. 扭歪的, 歪曲的, 歪斜的
 v. 扭曲, 扭歪"
-X-chromosome,无
+X-chromosome,n. [生]X染色体(性染色体的一种)
 xenophobia,"n. 无端畏惧和憎恨外国人/陌生人, 对外国人的畏惧和憎恨
 [医] 生客恐怖"
 yahoo,[网络] 雅虎

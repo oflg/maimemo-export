@@ -299,8 +299,9 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
-air-conditioner,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
+air-conditioner,[化] 空调器; 空气调节器
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airplane,n. 飞机
@@ -1005,8 +1006,9 @@ adj. 最好的；最出色的；最优秀的；最愉快的
 n. 最好的事物（或人）；（人或事物所能达到的）最高标准
 v. 胜过；打败
 [网络] 最佳；贝斯特；倍思特"
-best-seller,无
-best-selling,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
+best-selling,"a. 最畅销的, 畅销作品的"
 bet,abbr. Black Entertainment Television(美国对黑人播放的)闭路电视网络
 betray,"vt. 出卖, 背叛, 辜负, 暴露
 [法] 出卖, 背叛, 泄漏"
@@ -1279,7 +1281,7 @@ brake,"n. 刹车, 阻碍, 丛林
 v. 刹车"
 branch,comb.form 【脊椎动物学】表示“具有…鳃的”：lamellibranch
 brand,[网络] 布兰多
-brand-new,无
+brand-new,"崭新的,全新的"
 brandy,"n. 白兰地酒
 [化] 白兰地"
 brass,"n. 黄铜, 黄铜制品
@@ -1688,7 +1690,7 @@ celebration,"n. 庆祝, 庆典"
 cell,"n. 细胞；电池；牢房；基层组织
 [网络] 单元；单元格；信元"
 cellar,"n. 地窖, 地下室, 藏酒"
-cell-phone,无
+cell-phone,n. 手机
 Celsius,a. 摄氏的
 cement,"n. 水泥, 胶结剂
 vt. 胶合, 用水泥涂
@@ -1950,7 +1952,8 @@ vi. 放晴, 变清澈
 n. 空隙
 [计] 清除"
 clearly,adv. 清楚地
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 clerk,"n. 办事员, 职员, 文书
 vi. 当店员"
 clerical,"n. 牧师
@@ -2067,7 +2070,7 @@ collective,"a. 集体的, 聚集的, 共同的
 college,"n. 学院, 大学, 学会"
 colon,"n. 冒号, 结肠
 [医] 结肠"
-semi-colon,无
+semi-colon,[网络] 分号
 colony,"n. 殖民地, 移民队
 [医] 菌(集)落, 菌丛; 移民区"
 colonial,"a. 殖民的, 殖民地的
@@ -3630,7 +3633,7 @@ a. 东方的, 向东的, 自东的"
 easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
 adv. 容易地, 慢慢地"
 easily,"adv. 容易地, 轻易地, 流利地"
-easy-going,无
+easy-going, 从容不迫的
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
 echo,"n. 回声, 回音, 回波
@@ -6174,7 +6177,7 @@ n. (High)人名；(英)海伊"
 highly,"adv. 非常, 非常赞许地
 [电] 大大地"
 highlight, 图像最亮部分，高度光泽，高亮度
-high-tech,无
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hijack, 劫道
 hill,"n. 小山, 丘陵, 小土堆
@@ -6444,7 +6447,8 @@ abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
 icy,"a. 冰的, 冰冷的, 冷淡的, 滑溜的"
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 ideal,"n. 理想, 典范, 观念, 思想, 最后目标
@@ -7487,7 +7491,7 @@ livelihood,"n. 生计, 营生, 生活"
 lively,"a. 活泼的, 鲜明的, 生动的"
 liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
-living-room,无
+living-room,"客厅, 起居室"
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
@@ -7904,7 +7908,8 @@ midday,"n. 中午；正午
 adj. 正午的"
 middle,"n. 中央, 中间, 腰部
 a. 中央的, 中庸的, 中间的"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 midnight, [医]人定
 might,"n. 力量, 权力
 aux. 可能, 也许"
@@ -8586,7 +8591,7 @@ okay,[网络] 好吧
 old,"n. 老年人；…岁的(人)；旧事物
 adj. 老的；陈年的；…久的；年龄较长的
 [网络] 旧的；年老的；古老的"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 Olympic,"a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
 Olympics,n. 奥林匹克运动会
 Olympiad,"n. (四年一次的)奥林匹克世界运动大会, 四年周期"
@@ -10754,7 +10759,8 @@ adv. 第二；其次；居第二位
 n. (Second)人名；(法)塞孔"
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 secret,"n. 秘密, 机密, 秘诀, 秘方
 a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
 secrecy,"n. 秘密, 保密
@@ -11265,7 +11271,7 @@ vt. 以肥皂洗, 阿谀
 [计] 评语"
 soar,"n. 高扬, 翱翔
 vi. 往上飞舞, 高耸, 翱翔"
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 society,n. 社会；社交界；交往；社团
 social,"a. 社会的, 群居的, 社交的
@@ -12939,7 +12945,8 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 upset,上端局设备
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 upwards,"adv. 以上, 向上"
@@ -13308,9 +13315,9 @@ welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
 well, (we shall或 we will 的常用口语形式)
-well-being,无
-well-known,无
-well-off,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
+well-off,"富裕的, 处境好的"
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -13549,7 +13556,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-x-ray,无
+x-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 year,"n. 年, 年度, 年龄

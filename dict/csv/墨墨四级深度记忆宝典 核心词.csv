@@ -96,7 +96,7 @@ inability,在能力方面
 quality,"n. 品质, 特性, 才能, 质量
 a. 优质的
 [计] 品质"
-high-quality,无
+high-quality,[经] 高级品质
 power,"n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率
 vt. 使...有力量, 供以动力, 激励
 [计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性"
@@ -419,7 +419,7 @@ balance,[网络] 平衡；达到平衡
 comfortable,[网络] 舒适
 comfort,"n. 舒适, 安慰, 安慰者
 vt. 安慰"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 convenient,"a. 方便的, 合宜的
 [法] 适当的, 合理而可行的, 方便的"
 convenience,"n. 方便, 便利的事物, 方便的时候"
@@ -829,7 +829,7 @@ actual,"a. 真实的, 实际的, 现行的
 [医] 实际死亡率"
 actually,"adv. 事实上, 竟然, 如今, 现在"
 indeed,真正
-so-called,无
+so-called,adj. 所谓的
 artificial,"a. 人造的, 假的, 非原地产的
 [医] 人工的, 人造的, 伟牟"
 genuine,"a. 真正的, 真实的, 诚恳的
@@ -1971,7 +1971,7 @@ interj. 就是这话, 就是这么回事"
 term,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
 vt. 称, 呼
 [计] 检索词; 项"
-long-term,无
+long-term, 长期的
 decade,"n. 十年, 十"
 century,"n. 世纪, 百年"
 moment,[网络] 一刹那
@@ -1980,8 +1980,8 @@ generation,"n. 一代, 一世, 产生
 stage,"n. 阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架
 vt. 上演, 表演, 筹划
 vi. 适于上演, 乘驿车旅行"
-full-time,无
-part-time,无
+full-time,"专职,全部工作时间的,全日制"
+part-time,n. 兼任，部分时间
 overtime,[计] 超时
 vacation,"n. 假期, 休假
 [法] 假期, 停审期, 休庭期"
@@ -2187,7 +2187,8 @@ modern,"n. 现代人, 有思想的人
 a. 现代的, 时髦的"
 contemporary,"n. 同时代的人
 a. 同时代的, 属于同一时期的"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 ongoing,"adj. 不间断的，进行的；前进的
 n. 前进；行为，举止"
 record,"vt. 记录，记载；标明；将...录音
@@ -2577,7 +2578,8 @@ vt. 看护, 照顾, 培养
 vi. 喂奶, 看护病人"
 secretary,"n. 秘书, 书记, 大臣
 [经] 秘书"
-co-author,无
+co-author,"n. （书或文章的）合著者
+[网络] 合作者"
 pilot,"n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人
 vt. 领航, 驾驶, 引导, 试用
 a. 引导的, 控制的, 试点的
@@ -2952,7 +2954,7 @@ technology,"n. 技术, 工业技术, 术语
 [医] 技术学, 工艺学"
 technological,"a. 技术的
 [经] 工艺的, 技术的"
-high-tech,无
+high-tech,高技术
 media,"n. 媒体
 [计] 媒质"
 network,[机] 净功
@@ -3649,7 +3651,7 @@ vt. 擦伤
 [计] 写后读"
 alcohol,"n. 酒精, 酒
 [化] 醇; 乙醇; 酒精"
-fast-food,无
+fast-food,n. 速食; 快餐
 crop,"n. 农作物, 产量, 平头
 vt. 收割, 修剪, 种植
 vi. 收获

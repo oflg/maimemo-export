@@ -1,10 +1,11 @@
 ﻿grid,"n. 格子, 栅格
 [计] 网格"
-city-dweller,无
+city-dweller,城市居民
 slow down,(使)慢下来
 property,"n. 财产, 所有权, 性质, 属性
 [计] 属性"
-self-sufficient,无
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
 accomplish,"vt. 完成, 达到, 实现, 使完美"
 set about,"开始, 散布
 [法] 着手, 开始"
@@ -35,8 +36,8 @@ generate,"vt. 产生, 发生, 导致
 consist of,由...组成
 adjustment,"n. 调整, 调节, 校正
 [化] 调节"
-take sth. for granted,认为某事理所当然
-take sb. for granted,视某人为理所当然
+take sth. for granted, 信以为然
+take sb. for granted, 信以为然
 laundry,"n. 洗衣店, 洗好的衣服, 洗涤
 [机] 洗衣作, 洗衣店, 洗衣房"
 in use,"在使用着, 在应用"
@@ -53,7 +54,7 @@ vi. 被到处扔, 摇摆, 颠簸, 辗转, 掷钱币决定某事"
 overall,遍及
 appreciate,"vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏
 vi. 增值, 涨价"
-free-wheeling,无
+free-wheeling, 单向离合器
 go further, 进一步地说[做]
 give up,"na. 放弃；断绝；投降；自首
 [网络] 停止；抛弃；认输"
@@ -106,7 +107,8 @@ arduous,"a. 费力的, 努力的, 险峻的"
 stressful,"a. 着重, 强调, 重读, 使受应力"
 maintenance,"n. 维护, 保持, 维修, 生活费用, 坚持, 扶养
 [计] 维护; 维修"
-break-in,无
+break-in,"na. 闯入；插嘴；驯(马)；训练(人)
+[网络] 打断；强行进入；插话"
 theft,n. 盗窃；偷；赃物
 crash,"n. 哗啦声, 猛撞, 崩溃, 粗布
 v. 撞碎, 破碎, (使)...坠毁
@@ -131,7 +133,7 @@ roam,"v. 漫游, 闲逛, 徜徉
 n. 漫步, 漫游"
 purchase,"n. 购买, 购买品, 紧握, 绞辘
 vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)"
-fuel-efficient,无
+fuel-efficient,adj. 燃料消耗低的; 省油的
 automobile,n. 汽车
 commute,"vt. 交换, 折偿, 减轻
 vi. 代偿, 经常乘车来往"
@@ -191,7 +193,7 @@ tragedy,"n. 悲剧, 惨案, 悲剧作品
 exchange,"n. 交换, (电话)交换局, 交换机, 汇兑, 交易所
 v. 交换, 交易, 兑换
 [计] 交换; 电话局"
-bring oneself to do sth.,"下决心做某事,说服自己做某事"
+bring oneself to do sth.,无
 retire,"n. 隐居
 vi. 引退, 退役, 退休, 退去, 撤退, 退却
 vt. 使...撤退, 辞退"
@@ -531,8 +533,8 @@ n. 过程；航向；球场；【教】课程
 v. (某种液体)流下；(某种感觉)突然变得很强烈；(带着猎犬)打猎
 [网络] 一道菜；路线；经过"
 feel like," 摸起来像是…, 有…的感觉; 想要…"
-feel like sth.,"摸上去如同..., 想要..., 需要..."
-feel like doing sth.,无
+feel like sth.," 摸起来像是…, 有…的感觉; 想要…"
+feel like doing sth.,想要(做)...
 sufficiently,"adv. 足够, 充分"
 rate,"n. 比率, 率, 速度, 价格, 费用, 等级
 vt. 估价, 认为, 鉴定等级, 责骂
@@ -690,7 +692,7 @@ vt. 劈开, 切开, 使分裂, 使分离
 [计] 拆分"
 pull apart,"na. 扯断(索子等)；劝开(吵闹)
 [网络] 拉开；撕开；分开"
-plead with sb.,无
+plead with sb.,向…恳求
 plead with sb. to do sth.,无
 turn in,"v. 向里弯曲
 [网络] 上交；上床睡觉；交出"
@@ -730,7 +732,8 @@ vt. 付费给"
 proximity,"n. 接近, 亲近"
 cosmopolitan,"a. 世界主义的, 世界性的, 全世界的, 遍生的, 不偏狭的, 卓有见识的
 n. 世界主义者, 世界性"
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 diverse,"a. 不同的, 变化多的"
 make for,"走向, 有利于, 倾向于"
 advisable,"a. 适当的, 明智的"
@@ -749,7 +752,7 @@ vt. 当主人招待, 作...节目主持人
 [计] 主机, 宿主机"
 prospective,"a. 预期的, 将来的
 [经] 预期的, 未来的"
-add-on,无
+add-on," （在计算或目录的末尾额外）加上, 附加"
 take advantage of,"v. 利用
  欺骗, 占…的便宜"
 edge,"n. 边缘, 尖锐, 刀刃, 优势
@@ -760,9 +763,10 @@ intern,"n. 实习生，实习医师
 vt. 拘留，软禁
 vi. 作实习医师"
 ethic,"n. 道德规范, 伦理"
-on a day-to-day basis,无
+on a day-to-day basis,"un. 按日计算
+[网络] 日常；每天；每日"
 be bound to,"肯定,必然,注定;保证做某事,有义务做某事"
-be bound to do sth.,无
+be bound to do sth.,[网络] 注定；一定会做某事；必然
 stand out,"突出, 坚持抵抗"
 bureaucracy,"n. 官僚, 官吏
 [法] 官僚主义, 官僚政治, 官僚机构"
@@ -780,7 +784,7 @@ institution,[网络] 刚刚开始研究中国制度；新制度经济学把制�
 trend,"n. 趋势, 倾向, 走向
 vi. 倾向, 转向
 [计] 趋势"
-self-funded,无
+self-funded, 自费
 self-sponsored,无
 demographic,"a. 人口统计的
 [法] 人口统计的, 人口学的"
@@ -844,11 +848,12 @@ vi. 附属, 归属, 联系在一起
 [计] 挂接服务器命令, 关联, 挂接, 附加"
 torch,"n. 火把, 启发之物
 [化] 火炬"
-earth-shattering,无
+earth-shattering,a. 惊天动地的；令人震惊的
 primitive,"n. 原始人, 早期艺术家
 a. 原始的, 上古的
 [计] 图元; 原语; 基元"
-far-fetched,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
 principle,"n. 原则, 原理, 主义
 [化] 原理"
 spaceflight,"太空飞行,宇航"
@@ -942,7 +947,7 @@ upgrade,"上坡,往上走"
 be covered with,"被...盖满, 充满着..."
 cell,"n. 细胞；电池；牢房；基层组织
 [网络] 单元；单元格；信元"
-custom-made,无
+custom-made,[经] 定制品
 lithium,"n. 锂
 [化] 锂Li"
 endurance,"n. 忍耐, 忍耐力, 耐性
@@ -992,7 +997,7 @@ undertaking,"n. 事业, 企业, 保证
 make it to, 赶上，到达
 stratosphere,"n. 同温层, 最上层, 尖端的学科领域
 [医] 同温层, 平流层"
-follow in sb.'s footsteps,[网络] 步人后尘；跟随某人的脚步；步某人的后尘
+follow in sb.'s footsteps,无
 early on, 在早期; 前一阵子
 join forces with,"会师, 联合"
 entrepreneur,"n. 企业家, 主办人
@@ -1063,7 +1068,7 @@ drill,"n. 钻孔机, 钻子, 播种机, 粗斜纹布
 v. 训练, 钻孔"
 solder,"n. 焊接剂, 接合物
 v. 施以焊接, 焊合, 联结"
-open-source,无
+open-source,[计] 打开源
 microcontroller,微控制器
 interact with, 与…相互作用，与…相互影响; 与…相互配合
 meditation,"n. 沉思, 冥想"
@@ -1158,7 +1163,7 @@ sprawl,"vi. 伸开手足躺, 爬行, 蔓生, 蔓延
 vt. 懒散地伸开, 使蔓生, 使不规则地伸展
 n. 伸开手足躺卧姿势"
 liken ... to,v. 与…相比
-ultra-chic,无
+ultra-chic,[网络] 杜塞尔多夫市超流行
 get a taste of,无
 connection,"n. 连接, 关系, 前后关系
 [计] 连接"
@@ -1168,7 +1173,7 @@ kit,"n. 装备, 工具箱, 成套工具
 [计] 成套部件; 成套零件"
 for sale,"待售
 [经] 出售, 待售"
-hands-on,无
+hands-on,实习的；亲自动手的
 browse,"v. 浏览, 吃草
 n. 浏览, 吃草
 [计] 浏览"
@@ -1183,14 +1188,14 @@ vt. 用车床加工"
 saw,[=surface area/weight]体表面积/体重
 in part,部分地
 supply chain,n. 供应链
-laser-cut,无
+laser-cut, 激光切割
 circuit board, （实验用）电路板
 screw,"n. 螺旋, 螺杆, 螺钉, 螺旋桨, 吝啬鬼
 vt. 调节, 扭紧, 旋, 拧, 加强, 压榨, 勒索
 vi. 转动, 旋, 拧"
 collaboration,"n. 合作, 勾结
 [法] 通敌卖国者, 奸细"
-high-end,无
+high-end, 高端
 puzzle,[网络] 难题
 differentiator,[计] 微分电路; 微分器
 lag,[网络] 有负荷代理
@@ -1199,9 +1204,9 @@ gap,"n. 缝隙, 缺口, 间断, 间距, 通用汇编程序
 vt. 打开缺口, 造成缝隙
 vi. 豁开
 [计] 通用汇编程序, 图形应用程序, 间距"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 divide up,"划分,分配,瓜分"
-low-margin,无
+low-margin, 低利润
 invest in,"投资于, 买进"
 strategy,"n. 战略, 策略
 [经] 战略, 策略"
@@ -1237,7 +1242,7 @@ take apart,"na. 分解；拆分；剖析
 [网络] 拆开；拆卸；卸开"
 show stopper,"n. 受到阵阵鼓掌喝彩的节目
 [网络] 一槌定音；项目障碍物；魂断掌声"
-full-sized,无
+full-sized," 全轮廓, 真实尺寸"
 chew,"vt. 咀嚼, 嚼碎
 vi. 咀嚼, 细想
 n. 咀嚼, 咀嚼物"

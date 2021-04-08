@@ -4819,7 +4819,7 @@ n. 大学生, 大学教师, 学者, 学会会员"
 institute,"vt. 开始（调查）；制定；创立；提起（诉讼）
 n. 学会，协会；学院"
 institution,[网络] 刚刚开始研究中国制度；新制度经济学把制度
-apply to sb.,无
+apply to sb.,[计] 应用于
 letter of recommendation,"[经] 保荐信, 介绍信"
 competition,"n. 竞争, 竞赛
 [经] 竞争, 竞销, 比赛"
@@ -5043,7 +5043,7 @@ balcony,"n. 阳台, 戏院楼厅"
 corridor,"n. 走廊, 回廊, 人口密集地带"
 elevator,"n. 电梯, 升降机
 [化] 提升机"
-living-room,无
+living-room,"客厅, 起居室"
 basement,n. 地下室；地窖
 cellar,"n. 地窖, 地下室, 藏酒"
 lavatory,"n. 洗脸盆, 厕所"
@@ -5098,7 +5098,8 @@ vt. 作...的枕头, 垫, 枕于
 vi. 靠在枕上"
 towel,"n. 手巾, 毛巾
 v. 擦干身子"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 plug,"n. 塞子, 栓, 插头
 vt. 插入, 塞住, 接插头
 vi. 被塞住"
@@ -5301,9 +5302,10 @@ timetable,时间表
 behind schedule,落后于预定计划
 express train,"直达快车,特快列车"
 platform,"n. 平台；月台, 站台；坛；讲台"
-one-way ticket,无
+one-way ticket,"n. 单程票
+[网络] 单程车票；单程机票；一张单程车票"
 return ticket,[经] 来回票
-round-trip ticket,无
+round-trip ticket,[网络] 来回票；往返票；双程票
 carriage,"n. 马车, 客车, 举止, 运输
 [经] 搬运费, 运费"
 wagon,"n. 四轮马车, 货车
@@ -5375,11 +5377,11 @@ behavior,"n. 行为, 举止
 ceremony,"n. 典礼, 仪式, 礼节
 [法] 典礼, 仪式"
 funeral,"n. 葬礼, 出殡"
-cross-cultural communication,无
+cross-cultural communication,[网络] 跨文化交流；跨文化交际；跨文化沟通
 manner,"n. 样子, 礼貌, 风格
 [法] 方式, 方法, 样式"
-good-mannered,无
-ill-mannered,无
+good-mannered,a. 有礼貌的
+ill-mannered,"a. 无礼的, 粗野的"
 national identity and value,无
 ethnic,"a. 人种的, 种族的
 [医] 人种的"
@@ -5820,7 +5822,7 @@ surf,"n. 海浪, 拍岸浪
 vi. 作冲浪运动"
 surf on the Internet, 网上冲浪
 log in,[计] 注册
-E-mail,无
+E-mail, 电子函政
 chat room,"n. （电脑网络上的）聊天室, 交谈室"
 forum,"n. 论坛, 公开讨论的广场, 法庭, 讨论会
 [法] 讨论会, 专题讨论, 公共论坛"
@@ -6393,7 +6395,7 @@ vt. 加边于, 加旁注于
 millionaire,"n. 百万富翁, 大富豪
 [经] 大资本家, 巨富, 百万富翁"
 candidate,n. 候选人，候补者；应试者
-job-hunting,无
+job-hunting, 求职
 the want ads,无
 application letter,[网络] 求职信；申请信；申请书
 job resume,无
@@ -6692,7 +6694,8 @@ temper,"n. (钢等的)硬度, 脾气, 心情, 中和剂, 倾向, 回火
 vt. 使回火, 锻炼, 调和, 使缓和
 vi. 回火"
 lose one's temper,发脾气
-bad-tempered,无
+bad-tempered,"adj. 暴躁的
+[网络] 坏脾气的；脾气坏的"
 in a bad mood, 不爽
 banquet,n. 宴会
 greedy,"a. 贪婪的, 贪得的, 贪吃的"
@@ -6781,7 +6784,8 @@ take away,"adj. 买回去的
 fry,"n. 油炸食物, 鱼苗
 v. 油炸, 煎"
 dessert,n. 餐后甜点
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 steak,"n. 牛排, 鱼排, 肉排"
 chop,"n. 肋条肉, 排骨, 砍, 戳记, 商标
 vt. 剁碎, 砍, 切击, 割断

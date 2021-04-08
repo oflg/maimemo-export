@@ -1,6 +1,4 @@
 .vscode
-maimemo.db
-全部词库.zip
-全部词库.7z
-stardict.db
-maimemo_db&stardict_db.7z
+*.db
+*.zip
+*.7z

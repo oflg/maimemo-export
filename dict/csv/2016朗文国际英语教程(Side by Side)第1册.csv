@@ -20,7 +20,7 @@ last name,姓
 address,"n. 住址, 演说, 举止, 灵巧, 求爱
 vt. 发表(演说或讲话), 对付, 写地址
 [计] 地址, 寻址"
-e-mail address,无
+e-mail address,[网络] 电邮
 telephone number,[电] 电话号码
 phone number,电话号码
 apartment number,无
@@ -316,7 +316,7 @@ washing my clothes,无
 washing my hair,无
 washing my windows,无
 Hi!,[网络] 可移动磁盘
-Jane?,无
+Jane?,n. 简（女子名）
 tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
 short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
 adv. 简短地, 突然
@@ -1248,7 +1248,7 @@ Wednesday,n. 星期三
 Thursday,n. 星期四
 Friday,n. 星期五
 Saturday,n. 星期六
-baby-sit,无
+baby-sit,"vi. 担任临时保姆, 照顾婴儿"
 clean,"a. 干净的, 清白的, 简洁的
 adv. 清洁地, 完全地
 vt. 清理, 使干净, 出空
@@ -1310,7 +1310,7 @@ outgoing,a. 外向的
 popular,"a. 通俗的, 流行的, 受欢迎的, 大众的, 人民的, 普及的
 [经] 大众的, 通俗的, 普及的"
 shy,na. 讨厌…的
-baby-sit,无
+baby-sit,"vi. 担任临时保姆, 照顾婴儿"
 clean,"a. 干净的, 清白的, 简洁的
 adv. 清洁地, 完全地
 vt. 清理, 使干净, 出空
@@ -1623,13 +1623,14 @@ sore throat,"咽喉痛
 [医] 咽喉痛"
 stomachache,n. 胃痛；肚子痛
 toothache,[医] 牙痛
-How are you?,无
+How are you?,你好吗?
 How do you feel today?,无
-What's the matter?,无
+What's the matter?,"na. 发生了什么事?
+[网络] 怎么了；出什么事了；你怎么了"
 I feel great!,无
 I feel fine.,无
 I feel okay.,无
-So-so.,无
+So-so.,"勉强过得去, 一般"
 Not so good.,[网络] 不怎么好；不太好；不是很好
 I feel terrible.,[网络] 我感觉糟透了；我感到很难受；我觉得糟透了
 got up,v. 装订，精力，打扮( get-up的过去式 ); 起床

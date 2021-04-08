@@ -463,7 +463,7 @@ vi. 更新, 重新开始"
 consistent,"a. 一致的, 坚持的, 并立的, 坚固的"
 quotation,"n. 引用语, 语录, 牌价, 报价
 [化] 报价"
-so-called,无
+so-called,adj. 所谓的
 magnitude,"n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)
 [计] 大小; 值"
 rectangle,"n. 长方形, 矩形
@@ -1243,7 +1243,7 @@ rigor,"n. 严格, 严厉, 苛刻, 严酷, 严密, 精确
 [医] 寒战, 强直, 僵硬"
 complex,"n. 综合体, 情结, 络合物
 a. 复杂的, 组合的"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 franchise,"n. 公民权, 特权, 特许经营权, 免赔额
 vt. 给以特权, 给以...公民权"
 item,"n. 项目, 条款, 一则, 项
@@ -4806,7 +4806,7 @@ n. 效颦者, 模仿者, 小丑, 仿制品
 vt. 模仿, 摹拟"
 laboratory,"n. 实验室, 研究室, 化工厂
 [医] 实验室, 检验室, 化验室"
-criss-cross,无
+criss-cross, 交叉
 sour,"a. 酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的
 vi. 变酸, 发酵, 厌烦, 变坏
 vt. 使变酸, 使失望
@@ -5147,7 +5147,7 @@ league,"n. 同盟, 联盟, 盟约
 v. 组联盟, (使)加盟"
 consonant,"n. 辅音
 a. 一致的, 调和的"
-well-heeled,无
+well-heeled, 有钱的；富有的
 binary,"a. 由两部分组成的, 二进位的, 二元的
 [计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令"
 digitize,"vt. 使成为数字, 使计数化, 使数字化
@@ -5278,7 +5278,7 @@ diagram,n. 图表；图解
 scavenger,"n. (英)清道夫, 清扫工, 拾垃圾的人, 清除剂, 净化剂, 食腐动物, 黄色作家
 [计] 清除器"
 multitude,"n. 多数, 群众"
-lost-and-found,无
+lost-and-found,[法] 失物招领
 statistic,"n. 统计量
 a. 统计的, 统计学的"
 break,"n. 休息, 中断, 破裂处, 绝交, 破晓, 突变
@@ -5930,7 +5930,7 @@ foment,"vt. 热敷, 煽动"
 stalk,"n. 茎, 追踪, 高视阔步
 vi. 悄悄靠近, 蹑手蹑脚地走近, 蔓延, 高视阔步
 vt. 追踪, 搜索"
-part-time,无
+part-time,n. 兼任，部分时间
 harbor,"n. 港, 避难所
 v. 庇护, 藏匿, (使)入港停泊"
 irrigate,"vt. 灌溉, 冲洗伤口, 使清新
@@ -5982,7 +5982,7 @@ complicated,"a. 复杂的
 limb,"n. 四肢, 枝干, 翼, 边缘
 vt. 切断...之手足"
 subsequent,adj. 后来的，随后的
-by-product,无
+by-product, 副产品，副产物
 dorsal,"a. 背的, 背部的, 背侧的
 [医] 背的, 背侧的"
 zinc,"n. 锌
@@ -7024,7 +7024,7 @@ obscene,"a. 淫秽的, 猥亵的, 讨人厌的, 可憎的
 [法] 猥亵的, 海洋的, 污秽的"
 paradox,"n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事
 [化] 佯谬"
-wedge-shaped,无
+wedge-shaped,楔状
 semantic,"a. 语义的
 [计] 语义"
 preach,"v. 传道, 讲道, 说教, 宣讲, 鼓吹
@@ -8083,7 +8083,8 @@ vi. 缠结, 乱作一团"
 opposite,"a. 相对的, 相反的, 对面的
 prep. 对面
 n. 对立面"
-far-fetched,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
 senator,"n. 参议员, (某些大学的)理事
 [法] 参议员, 上议员"
 anarchist,"n. 无政府主义者

@@ -2713,7 +2713,7 @@ a. 松弛的, 不流畅的, 疏忽的, 无力的, 呆滞的, 软弱的, 漏水�
 adv. 马虎地, 缓慢地
 vt. 放松, 使缓慢
 vi. 松懈, 减弱, 松弛"
-so-called,无
+so-called,adj. 所谓的
 sociology,"n. 社会学
 [医] 社会学"
 sow,"n. 母猪, 懒胖女人
@@ -3061,7 +3061,7 @@ vi. 撞, 颠簸而行"
 bunch,"n. 串, 束
 [医] 骨肿块(马)"
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 cabin,"n. 小屋, 客舱
 vt. 关在小屋"
 cable,"n. 电缆, 海底电报, 缆, 索
@@ -4420,7 +4420,8 @@ upper,"a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的
 n. 鞋帮, 上齿"
 upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 utter,"a. 全然的, 绝对的, 完全的
@@ -4485,7 +4486,7 @@ wholly,"adv. 完全地, 整个, 统统, 全部
 withdraw,"vt. 撤退；收回；撤消；拉开
 vi. 撤退；离开"
 workshop,"[计] 专题讨论会, 学术会议"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 youngster,"n. 小孩, 年轻人, 少年
 [法] 儿童, 少年, 青年"
 zebra,n. 斑马
@@ -5497,7 +5498,7 @@ vi. 磨, 磨碎, 苦干"
 grocer,n. 食品商
 grope,"v. 摸索
 n. 摸索"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 gulf,"n. 海湾, 深渊, 漩涡, 隔阂
 vt. 吞没"
 gut,"n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气
@@ -7675,12 +7676,12 @@ keyword,"关键字, 保留字
 [计] 关键字"
 kindle,"vt. 点燃, 使着火, 引起, 照亮
 vi. 着火, 激动, 发亮"
-laid-off,无
+laid-off,[经] 被解雇的
 lavish,"a. 大方的, 丰富的, 浪费的
 vt. 浪费, 滥用, 慷慨给予"
 lawsuit,[经] 向法院提出的诉讼
 legible,"a. 清晰的, 易读的"
-light-year,无
+light-year,n. 光年
 limpid,"a. 清澈的, 透明的, 平静的"
 livelihood,"n. 生计, 营生, 生活"
 lobster,n. 龙虾
@@ -7749,7 +7750,7 @@ oasis,"n. 绿洲, 舒适的地方
 [医] 绿洲(沙漠中), 健岛(病变区中的健康组织)"
 obsess,"vt. 迷住, 使困扰"
 offshore,离岸
-off-the-cuff,无
+off-the-cuff,"即兴地, 非正式地"
 olive,"n. 橄榄, 橄榄树, 橄榄色, 橄榄枝
 a. 黄绿色的, 黄褐色的, 橄榄色的"
 oncologist,n. 肿瘤学家；肿瘤医师
@@ -7811,8 +7812,8 @@ rating,"n. 等级, 额定功率, 责骂
 [经] 等级评定"
 rattlesnake,响尾蛇
 raze,"vt. 毁灭, 刮去, 把...夷为平地, 消除, 抹去, 破坏"
-ready-made,无
-red-hot,无
+ready-made,"[经] 现成的, 预先制好的"
+red-hot, 红热
 refrigerated,v. 冷藏( refrigerate的过去式和过去分词 ); 冷冻
 regain,"vt. 恢复；重新获得；收回
 vi. 上涨
@@ -7875,7 +7876,8 @@ sledge,"n. 雪橇, 大锤
 vt. 用雪橇搬运
 vi. 坐雪橇"
 slowdown,(使)慢下来
-small-minded,无
+small-minded,"adj. 小气的
+[网络] 心胸狭窄的；气量小的"
 smallpox,天花
 smoothly,"adv. 平滑地, 流畅地, 流利地"
 smother,[网络] 他受到嘉莉母亲的细心护理；的妈妈
@@ -8005,7 +8007,7 @@ n. 有翅动物, 挥发物
 wade,"vi. 跋涉
 vt. 涉水
 n. 跋涉, 浅滩"
-wait-and-see,无
+wait-and-see,等着瞧
 warranty,"n. 正当理由, 授权, 担保, 保证, 根据
 [经] 保单, 担保书, 保证书"
 waver,"n. 动摇, 踌躇, 挥动者
@@ -8114,7 +8116,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 airport,[机] 通气口
 alive,"a. 活着的, 活泼的, 敏感的, 热闹的"
 all,"pron. 一切；全部；大家；全都
@@ -9250,7 +9253,7 @@ eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 emperor,"n. 皇帝, 君主"
 employ,"n. 雇用
 vt. 雇用, 使用, 使从事于"
@@ -10828,7 +10831,8 @@ n. 英语字母表的第9个字母；（罗马数字）1
 abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 if,"conj. 如果；当；倘若；假若
@@ -11137,7 +11141,7 @@ adv. 实况地"
 lively,"a. 活泼的, 鲜明的, 生动的"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
@@ -13297,7 +13301,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"

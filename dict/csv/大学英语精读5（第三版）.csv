@@ -50,7 +50,7 @@ novel,"n. 小说, 长篇故事
 a. 新奇的, 异常的"
 rely,"vi. 信赖, 依赖, 信任"
 practicable,"a. 可实行的, 可做的, 可用的"
-short-cut,无
+short-cut,"n. 近路, 捷径"
 beaten,"a. 被打败了的, 筋疲力竭的, 敲平的, 踏平的
 beat的过去分词"
 overgrown,"(over-grow 的过去分词) vt. 长满于；长得超过
@@ -263,7 +263,7 @@ nourish,"vt. 滋养, 使健壮, 怀有"
 blueprint,"蓝图
 [法] 蓝图"
 vague,"a. 含糊的, 不清楚的, 茫然的"
-ill-defined,无
+ill-defined,"a. 不清楚的, 欠明了的"
 recognizable,"a. 可认识的, 可承认的, 可识别的
 [法] 可被认出的, 可辩认的, 可被承认的"
 conception,"n. 观念, 概念
@@ -293,7 +293,7 @@ vicious,"a. 邪恶的, 堕落的, 品性不端的, 恶毒的, 恶性的, 有错�
 vicious cycle,[经] 恶性循环
 beneficent,"a. 仁慈的, 慈善的, 善行的"
 woebegone,adj. 愁眉苦脸的；忧愁的；寒碜的
-hang-dog,无
+hang-dog,un. 贱人
 hostility,"n. 敌意, 敌对, 反对"
 affront,"n. 公开侮辱, 轻蔑
 vt. 公开侮辱, 冒犯, 面对"
@@ -342,7 +342,7 @@ induce,"vt. 引诱, 招致, 归纳出, 感应
 [医] 诱导, 感应"
 definition,"n. 定义, 精确度, 清晰度
 [计] 清晰度; 清晰度"
-self-definition,无
+self-definition,n. （对自身天性及基本素质的）自我界定
 misspell,"vt. 拼错
 vi. 拼错"
 flunk,"n. 失败, 不及格
@@ -363,7 +363,7 @@ mathematical,[数] 数学的
 factual,"a. 事实的, 实际的
 [法] 事实的, 与事实有关的, 实际的"
 descriptive,"a. 描述的, 叙述的"
-flunk-out,无
+flunk-out,(因不及格使...)退学
 down to the last detail,非常详尽地
 as the case may be,"看情况
 [法] 看情况, 根据具体情况"
@@ -488,7 +488,7 @@ intrusive,"a. 打扰的, 插入的
 [法] 闯入的, 侵入的, 干涉的"
 initiative,"n. 主动行动, 首创精神, 主动权
 a. 自发的, 起始的"
-self-esteem,无
+self-esteem, 自尊
 esteem,"n. 尊敬, 尊重
 vt. 尊敬, 尊重, 认为"
 correlation,"n. 相互关系, 相关, 关联
@@ -527,7 +527,7 @@ priority,"n. 优先权, 优先
 [计] 优先级"
 competence,"n. 胜任, 职称, 能力
 [医] 能力, 活性"
-well-mannered,无
+well-mannered, 行为端正的；举止得当的；有礼貌的
 decent,"a. 有分寸的, 得体的, 大方的"
 look upon ... as, 当做；看成；看做
 ahead of the pack,保持领先
@@ -543,10 +543,12 @@ take responsibility for,负责…
 be involved in, 涉及，专心; 卷入
 cure of,"v. 治愈
 [网络] 医治；矫正；治癒"
-cure sb. of,无
+cure sb. of,"v. 治愈
+[网络] 医治；矫正；治癒"
 be symptomatic of,"有...的症状, 表明..."
 be tailored to,无
-impose sth. on sb.,把...强加给...
+impose sth. on sb.,"v. 强迫；欺骗
+[网络] 把…强加于；施加影响于；利用"
 for sb.'s own good,无
 more likely than not, 保不住
 hapless,"a. 倒霉的, 不幸的"
@@ -698,14 +700,15 @@ a. 主要的, 深红色的"
 testable,"a. 可试验的, 有资格作证人的, 有资格立遗嘱的, 可根据遗嘱处理的"
 procedure,"n. 程序, 过程, 手续
 [计] 规程; 过程"
-stepping-stone,无
+stepping-stone,"n. 垫脚石, 跳板"
 criterion,"n. 标准, 准则, 规范
 [化] 判据"
 speculation,"n. 沉思, 推测, 投机
 [经] 投机交易, 买空卖空"
 speculate,"vi. 深思, 推测, 投机
 [经] 投机"
-long-run,无
+long-run,"[计] 长时间操作, 长运行
+[化] 长期使用; 长期运行"
 publicize,vt. 宣传
 publicity,"n. 名声, 宣传, 公开场合
 [经] 宣传, 广告"
@@ -718,7 +721,8 @@ have to do with,"na. 和…有关系
 bow to,"屈服于,屈从于,服从"
 place a high value on,高度重视
 meet with,"偶遇, 遭受"
-credit sb. with sth.,"相信(某人)有, 认为(某人)..., 把...归功于(某人)"
+credit sb. with sth.,"na. 把(某数)记入(某人)账户的贷方；相信(某人)具有(某性质)
+[网络] 把…记入贷方；信用与；相信有"
 account for,对…负有责任；对…做出解释；说明……的原因；导致；（比例）占
 to the contrary,相反地
 distinguish between,v. 区别
@@ -728,7 +732,7 @@ put a premium on,"奖励, 鼓励, 重视"
 put a high premium on,无
 in principle,"原则上, 大体上"
 take sb.'s word,无
-take sb.'s word for it,[网络] 相信某人的话
+take sb.'s word for it,无
 subject to,"v. 处于…中；使服从
 [网络] 受制于；以……为条件；以……为准"
 precede,"vt. 在...之前, 优于, 较...优先
@@ -949,7 +953,7 @@ confine,"vt. 限制, 使不外出, 禁闭
 vi. 邻接, 交界
 n. 边缘, 范围, 区域"
 obstacle,"n. 障碍, 妨害物, 阻碍"
-able-bodied,无
+able-bodied,adj. 体格健壮的
 roam,"v. 漫游, 闲逛, 徜徉
 n. 漫步, 漫游"
 cosmos,"n. 宇宙, 秩序, 和谐, 大波斯菊
@@ -981,7 +985,7 @@ deterioration,"n. 恶化, 衰退, 退化
 [医] 变坏, 变质, 颓废, 衰退"
 voluntary,"a. 自动的, 自愿的, 故意的, 志愿的, 自发的
 n. 自愿行动, 志愿者, 自由调"
-built-in,无
+built-in, 安装在里面的
 synthesizer,"n. 合成器, 综合者
 [计] 合成器"
 voice synthesizer,[计] 语音合成器
@@ -1009,7 +1013,7 @@ plaque,"n. 匾, 饰板, 名牌, 勋章, 胸襟饰物, 血小板"
 irreverently,"adv. 不敬地, 不逊地"
 midmorning,"n. 上午中段时间；上午十点左右
 adj. 发生在上午中段时间的；上午10时左右的；与上午中段时间有关的"
-book-lined,无
+book-lined,布满书籍的
 common room,公共休息室
 evoke,"vt. 唤起, 引起, 召(魂)
 [法] 提审, 移送"
@@ -1040,7 +1044,8 @@ irresistible,"a. 不可抵抗的, 不能压制的
 voluminous,"a. 卷数多的, 大部头的, 著书多的, 长篇的, 庞大的, 很多的, 盘绕的"
 compelling,"a. 强制的, 强迫性的, 激发兴趣的"
 thesis,"n. 论题, 论文"
-mini-,无
+mini-,"n. 同类中的极小者, 微型汽车, 超短裙
+a. 微型的"
 terrestrial,"n. 地球上的人
 a. 地球的, 陆生的, 陆地的, 人间的"
 proton,"n. 质子
@@ -1062,7 +1067,7 @@ vi. 发光, 辐射, 流露
 a. 有射线的, 辐射状的"
 evaporate,"vi. 蒸发, 失去水分, 消失
 vt. 使蒸发, 使脱水, 使消失"
-H-bomb,无
+H-bomb,氢弹
 deviate,"vi. 脱离, 偏离
 vt. 使偏离
 a. 脱离常规的
@@ -1131,7 +1136,7 @@ qualm,"n. 晕眩, 不安, 疑虑
 [法] 疑虑, 不安, 内疚"
 recant,"vt. 放弃
 vi. 放弃信仰, 撤回声明, 公开认错"
-self-contained,无
+self-contained, [体]自给的
 creator,"n. 上帝, 创造者, 创作者"
 be confined to,"限制, 禁闭"
 light up,"开始吸烟, 发亮, 露喜色

@@ -203,7 +203,7 @@ warfare,"n. 战争, 战斗, 交战, 斗争, 竞争
 aptitude,"n. 资质, 才能, 自然倾向
 [医] 资质, 才能"
 buddy,"n. 好朋友, 伙伴"
-cell-phone,无
+cell-phone,n. 手机
 hyphen,"n. 连字符
 vt. 用连字符连接"
 naughty,"a. 顽皮的, 没规矩的, 不适当的, 下流的"
@@ -937,7 +937,8 @@ optimism,"n. 乐观主义, 乐观, 乐天
 vulnerable,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的
 [医] 易损的"
 deteriorate,v. (使)恶化
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 chorus,"n. 合唱队, 齐声
 v. 齐声说道, 合唱"
 counsel,"n. 商议, 忠告, 法律顾问
@@ -1385,7 +1386,7 @@ whisky,"n. 威士忌酒, 轻便马车
 buckle,"n. 皮带扣, 扣子
 vt. 扣住, 使弯曲
 vi. 扣住, 变弯曲, 屈服"
-brand-new,无
+brand-new,"崭新的,全新的"
 influenza,"n. 流行性感冒
 [医] 流行性感冒, 流感"
 bridegroom,n. 新郎
@@ -3155,7 +3156,7 @@ teller,"n. 叙述者, 讲故事者, 出纳员
 [经] 出纳员"
 swipe,"n. 强打, 用力挥击, 尖刻的话, 碰擦, 起重杆
 vt. 强打, 用力挥击, 偷"
-high-tech,无
+high-tech,高技术
 dissident,"a. 意见不同的, 持不同政见的
 n. 意见不同的人, 持不同政见者"
 skip,"n. 跳跃, 跳读
@@ -3394,7 +3395,7 @@ booth,"n. 亭, 摊棚
 gadget,"n. 小配件, 小玩意, 诡计"
 allege,"vt. 宣称, 主张, 提出, 断言
 [法] 断言, 指称, 指证"
-well-off,无
+well-off,"富裕的, 处境好的"
 gossip,"n. 闲聊, 随笔, 流言, 爱讲闲话的人
 vi. 说闲话, 闲聊"
 romance,"n. 冒险故事, 浪漫史, 传奇文学
@@ -4153,7 +4154,7 @@ n. (Ass)人名；(俄)阿斯"
 gravitation,"n. 引力, 重力, 沉下
 [化] 引力"
 clown,"n. 小丑, 乡下人"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 necklace,n. 项链
 peril,"n. 危险, 冒...之险, 险境, 险因
 vt. 置...于险境, 冒险, 危及"
@@ -4661,7 +4662,7 @@ broker,"n. 掮客, 经纪人
 [经] 经纪人, 掮客"
 takeoff,"v. (飞机)起飞；出去；拿掉；移送
 [网络] 脱下；脱掉；脱去"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 reside,"vt. 住，居住；属于
 n. (Reside)人名；(英)雷赛德"
 junk,"n. 垃圾, 乌七八糟的东西, 舢板
@@ -4943,7 +4944,7 @@ adolescent,"a. 青春期的, 青少年的
 n. 青少年"
 advisory body,"[法] 咨询机构, 咨询团体, 顾问团"
 affirmative vote,[法] 赞成票
-after-sale service,无
+after-sale service, [计]售后服务
 aftershock,[机] 余震
 aggression,"n. 侵犯, 侵略
 [医] 攻击"
@@ -4954,7 +4955,7 @@ album,"n. 粘贴簿, 唱片套
 alleged,"a. 被断言的, 所谓的
 [法] 提出而尚未证实的, 声称的, 宣称的"
 allied nations,无
-all-out ban,无
+all-out ban,全面禁止
 all-round title,无
 alumnus,"n. 男毕业生, 男校友"
 alumni,"pl. 男毕业生, 男校友"
@@ -4970,7 +4971,7 @@ ancient,"a. 古代的, 古老的, 年老的, 旧的"
 announcement,"n. 公告, 发表, 告知
 [经] 通告, 布告, 公告"
 annualized,"a. [税收] 按年计算的（利率等）, 年度化"
-anti-corruption,无
+anti-corruption,n. 反腐败；反贪腐；廉政风暴
 antique,"n. 古董, 古物
 a. 古老的, 古风的, 旧式的, 过时的"
 antiquity,"n. 古老, 古代, 古代人, 古物"
@@ -4982,11 +4983,13 @@ appointment,"n. 约会, 委任的职位, 委派
 [经] 任命, 派, 指定"
 archaeology,[古] 考古学
 archeologist,n. 考古学家
-arch-foe,无
+arch-foe,【宗教】恶魔
 argumentative,"a. 好辩的, 引起争论的, 论证式的
 [法] 争辩的, 辩论的, 有争议的"
 armed intervention,[法] 武装干涉
-arm-twisting,无
+arm-twisting,"adj. 强大压力的
+n. 强大压力或影响
+[网络] 扭手腕"
 arrest,"n. 逮捕, 监禁
 vt. 拘捕, 抑制, 吸引, 阻止"
 arson,"n. 纵火, 纵火罪
@@ -5101,7 +5104,8 @@ capitalism,"n. 资本主义
 [经] 资本主义"
 cargo,"n. 货物
 [经] 货柜"
-cash-strapped,无
+cash-strapped,"adj. 资金短缺的
+[网络] 缺乏现金的；缺钱的；囊中羞涩的"
 catastrophe,n. 大灾难；大祸；惨败
 catastrophic,"a. 悲惨的, 灾难的"
 caucus,"n. 干部会议；核心会议
@@ -5159,7 +5163,7 @@ vt. 宣告有罪, 使知罪"
 coup,"n. 砰然的一击, 妙计, 出乎意料的行动, 政变
 [医] 发作, 中, 击"
 coup plotter,无
-crack-down,无
+crack-down," 采取严厉措施, 制裁; 打击"
 cram,"adj. 填鸭式学的
 vi. 狼吞虎咽地吃东西；死记硬背功课
 vt. 填满，塞满；死记硬背；猛吃
@@ -5225,7 +5229,7 @@ dominant,"a. 占优势的, 支配的
 [医] 优性的, 显性的"
 donate,v. 捐赠
 download,"[计] 下装, 卸载"
-down-to-earth,无
+down-to-earth,直率的
 downturn,经济下降
 draft,"n. 气流, 草稿, 汇票, 草案
 vt. 起草, 征兵
@@ -5260,7 +5264,7 @@ excavate,"v. 挖空, 挖出, 凿通"
 excavation,"n. 挖掘, 发掘, 挖掘的洞
 [医] 陷凹, 挖除"
 excess labor,无
-export-oriented industry,无
+export-oriented industry,un. 面向出口的工业
 extinct,"a. 熄灭的, 灭绝的, 耗尽的
 [法] 消灭了的, 过时的, 无效的"
 famine,"n. 饥荒, 缺乏, 饥饿"
@@ -5377,10 +5381,10 @@ a. 少年的, 不成熟的, 适于少年的"
 kidnapper,"n. 拐子, 绑架者
 [法] 诱拐者, 拐骗犯, 绑架者"
 kiosk,"n. 亭, 凉亭, 报摊"
-knock-out system,无
+knock-out system,淘汰制
 knowledge economy,知识经济
 lag behind,落后(于...)
-laid-off,无
+laid-off,[经] 被解雇的
 lands loss and soil degradation,无
 laptop,n. 笔记本电脑
 launch pad,发射台
@@ -5405,7 +5409,7 @@ vt. 给...摄影"
 liberal,"adj. 自由主义的；慷慨的；不拘泥的；宽大的
 n. 自由主义者
 n. (Liberal)人名；(葡)利贝拉尔"
-lip-synching,无
+lip-synching,[网络] 对口型；假唱；对口型假唱
 log off,"[计] 注销, 下网"
 log on,"[计] 注册, 登录, 登录入网"
 loot,"n. 赃物, 洗劫, 抢夺
@@ -5477,19 +5481,20 @@ news conference,记者招待会
 news flash,"电讯,简讯,新闻短讯"
 nominee,"n. 被提名者, 被任命者
 [经] 被指定人"
-non-tariff barrier,无
+non-tariff barrier,[网络] 非关税避垒；非关税壁垒；非并税避垒
 normalization,"n. 常态化, 正常化, 正规化
 [化] 归一化; 正态化; 正火; 正火处理"
 nosedive,n. 空降; 暴跌
 null and void,"无效的
 [化] 作废"
 off-hour hobby,无
-off-the-job training,无
+off-the-job training,[网络] 脱产培训；管理层分级培训体系；在职场外工作训练
 on site, 就地，当地
 on standby,待命；待命状态；严阵以待
 on the throne,无
 online,"[经] (与主机)联机, 在线, 机内"
-on-the-job training,无
+on-the-job training,"un. 在职训练；在岗培训
+[网络] 员工岗位培训体系；在职培训；工作时的培训"
 on-the-spot broadcasting,无
 operating system,"操作系统
 [计] 操作系统"
@@ -5771,7 +5776,7 @@ will,"n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱
 vt. 用意志的力量驱使, 决意, 愿意, 立遗嘱
 vi. 下决心, 愿意
 aux. 将, 愿意, 必须"
-work-to-rule,无
+work-to-rule,怠工
 wreck,"n. 失事, 残骸, 破坏
 vt. 使失事, 拆毁, 破坏
 vi. (船)失事, 营救失事船只"

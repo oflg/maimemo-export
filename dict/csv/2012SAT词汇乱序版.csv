@@ -1118,7 +1118,7 @@ persecution,"n. 虐待, 迫害运动, 迫害, 烦扰
 synthesis,"n. 综合, 组织, 综合体
 [化] 合成"
 retract,"v. 缩回, 收回, 取消, 撤消"
-well-wisher,无
+well-wisher,n. 祝福者
 discern,"v. 辨别, 看清楚, 了解"
 collective,"a. 集体的, 聚集的, 共同的
 [医] 集体的, 集合的"
@@ -1858,7 +1858,8 @@ embrace,"n. 拥抱
 vt. 拥抱, 互相拥抱, 包含, 收买
 vi. 拥抱"
 pathos,"n. 伤感力, 感伤, 悲怅, 同情, 偶然因素, 哀婉动人的词句"
-absent-minded,无
+absent-minded,"adj. 茫然的
+[网络] 心不在焉；健忘的；心不在焉的"
 absolve,"vt. 宣告...无罪, 赦免, 免除
 [经] 免偿(债务), 解除"
 exploit,"n. 功绩, 勋绩
@@ -5611,7 +5612,9 @@ vacuous,"a. 空的, 空虚的, 没有思想的"
 lexicographer,n. 辞典编纂者
 empiricism,"n. 经验主义, 庸医的医术, 经验论
 [医] 经验[主义]医学"
-Anglo-Saxon,无
+Anglo-Saxon,"n. 五世纪左右移居英国的日耳曼族人民；盎格鲁撒克逊族；盎格鲁撒克逊语
+adj. 盎格鲁撒克逊族[语]的；古代英语的；英国的
+[网络] 盎格鲁萨克森语；在盎格鲁；撒克逊人"
 harbinger,"n. 通告者, 预告者, 先驱, 预兆
 vt. 预告, 充做...的前驱"
 inscrutable,"a. 难以了解的, 不能预测的
@@ -5927,7 +5930,8 @@ antiquary,"n. 古文物收藏家, 古董商"
 resuscitate,"v. (使)复苏, (使)复兴"
 florid,"a. 华丽的, 红润的
 [医] 鲜红的"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 indicant,"[计] 指示符, 指示的
 [医] 指征, 指示的"
 waif,"n. 无家可归者, 无主物, 飘流物, 流浪者, 信号旗"
@@ -9617,7 +9621,7 @@ cloaca,"n. 泄殖腔, 阴沟
 condenser lens,聚光透镜
 connective tissue,"[医] 结缔组织, 结缔织"
 cotransport,[化] 协同转运
-crossing-over,无
+crossing-over, 互换
 cytokines,(cytokine 的复数)  细胞活素
 cytoplasm,"n. 细胞质
 [医] [细]胞质, [细]胞浆"
@@ -10252,7 +10256,7 @@ Copper,"n. 铜, 警察
 [化] 铜Cu"
 Cu,"abbr. (=cuprum)【化】
 [网络] 铜(Cuprum)；铜离子；金属铜"
-copper-smelting,无
+copper-smelting,[建] 炼铜
 counter balance,[化] 托盘天平
 covalent bond,"共价键
 [化] 共价键"
@@ -10437,7 +10441,8 @@ Ir,"abbr. 红外辐射（Infrared Radiation）；信息检索（information retr
 n. (Ir)人名；(柬)伊；(朝)一"
 iron stand,铁架
 iron wire,低碳钢丝
-iron-smelting,无
+iron-smelting,"un. 生铁熔炼
+[网络] 炼铁；含铬生铁；冶炼钢铁"
 Krypton,"n. 氪
 [化] 氪Kr"
 Kr,"abbr. (=kiloroentgen)【物】
@@ -10511,7 +10516,7 @@ monosaccharide,"单糖
 [化] 单糖"
 monovalence,"n. 单价
 [网络] 一价"
-narrow-mouthed bottle,无
+narrow-mouthed bottle,细口瓶
 Neodymium,"n. 钕
 [化] 钕Nd"
 Nd,"suf. 构成名词：fiend; 附于动词后构成名词或形容词,表示“(人或事物)应予…对待(或处理)”：reverend, dividend; 用以构成以二(除12外)的序数词表示“第二”, “第…二”：22nd, 82nd"
@@ -10554,7 +10559,7 @@ Osmium,"n. 锇
 [化] 锇Os"
 Os,"abbr. 操作系统（Operating System）；西洋旧历（Old Style）
 n. (Os)人名；(挪)奥斯"
-oxidation-reduction reaction,无
+oxidation-reduction reaction,氧化还原反应
 oxy acid,[医] 含氧酸
 oxygen family element,[化] 氧族元素
 Palladium,"n. 钯
@@ -10687,7 +10692,7 @@ sodium carbonate,"[化] 碳酸钠
 [医] 碳酸钠"
 sodium hydroxide,"[化] 氢氧化钠
 [医] 氢氧化钠, 苛性钠"
-sodium meta-aluminate,无
+sodium meta-aluminate,偏铝酸钠
 sodium oxide,[化] 氧化钠
 sodium peroxide,"[化] 过氧化钠
 [医] 过氧化钠"
@@ -10832,7 +10837,7 @@ polarization,"n. 极化, 极化强度, 偏振, 两极分化
 plasma,"n. 血浆, 淋巴液, 原生质, 等离子体
 [化] 等离体; 等离子体"
 semiconductor,n. 半导体
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 electrification,"n. 起电, 带电, 电气化
 [化] 起电"
 observation,[网络] 观察
@@ -11352,7 +11357,8 @@ buoyancy force,[流] 浮力
 capillarity,"n. 毛细作用, 毛细现象
 [化] 毛细现象"
 cathode ray,[化] 阴极射线
-cathode-ray tube,无
+cathode-ray tube,"n. 阴极射线管
+[网络] 阴极射管线；是阴极射线管；阴极射线管投影机"
 cell battery,太阳能电池
 Celsius scale,[医] 摄氏温度标
 center of gravity,[化] 重心
@@ -11509,7 +11515,8 @@ electron microscope,"[化] 电子显微镜
 [医] 电子显微镜"
 electron volt,"[计] 电子伏特
 [化] 电子伏; 电子伏特"
-electron-volt,无
+electron-volt,"[计] 电子伏特
+[化] 电子伏; 电子伏特"
 electrostatic equilibrium,[化] 静电平衡
 electrostatic field,"[计] 静电场
 [化] 静电场"
@@ -11545,10 +11552,10 @@ farad,"n. 法拉(电容单位)
 Faraday cylinder,[化] 法拉第筒; 法拉第圆筒
 Faraday's law of electromagnetic induction,法拉第电磁感应定律
 fastening,"n. 紧固件, 系结物"
-thin-film interference,无
+thin-film interference,[网络] 薄膜干涉；薄膜干涉作用
 final velocity,[化] 末速; 末速度
 first cosmic velocity,[化] 第一宇宙速度
-fixed-axis rotation,无
+fixed-axis rotation,[物] 定轴转动
 flat mirror,[医] 平面[返光]镜
 flotation balance,[化] 浮力秤
 focal length,"[计] 焦距
@@ -11562,7 +11569,7 @@ free electron,"[化] 自由电子
 [医] 自由电子"
 free fall,"n. 自由降落（尤指降落伞张开前的降落）, （尤指火箭等的）惯性运动"
 free period, 免费期间; 自由课; 自习课; 空课时间
-freely-falling body,无
+freely-falling body,自由落体
 freezing point,"n. 冰点, 凝固点
 [计] 凝固点"
 friction force,[化] 摩擦力
@@ -11581,7 +11588,7 @@ gravity field,[化] 重力场
 ground earth,无
 ground state,[化] 基态
 ground wire,[化] 避雷地线
-half-life period,无
+half-life period,[化] 半衰期
 heat transfer,[化] 传热; 热传递
 Heinrich Friedrich Emil Lenz,无
 Heinrich Rudolph Hertz,[网络] 赫兹；德国物理学家赫兹
@@ -11672,7 +11679,7 @@ the International system of Units,无
 SI,"abbr. 国际单位制（源自法语 Système International）
 n. 【乐】长音阶的第七音
 [网络] 硅(silicon)；国际单位制(system international)；矽"
-left-hand rule,无
+left-hand rule,[化] 左手定则
 lens formula,[化] 透镜公式
 Lenz's law,[电] Lenz's定律
 lepton,"n. 轻子, 雷普顿(希腊货币单位)
@@ -11715,10 +11722,10 @@ magnetization,"n. 磁化
 [化] 磁感应强度"
 magnifier,"n. 放大镜, 放大器
 [化] 放大镜"
-man-made earth satellite,无
+man-made earth satellite,人造地球卫星
 mass defect,"[化] 质量亏损
 [医] 质量亏损"
-mass-energy equation,无
+mass-energy equation,【物理学】 (表示质与能关系的)质能方程
 matter wave,物质波
 Maxwell's equations,[网络] 麦克斯韦方程组；马克士威方程式；麦克斯事方程
 mean kinetic energy,平均动能
@@ -11777,7 +11784,7 @@ Newton's first law,[网络] 牛顿第一定律
 Newton's second law,[网络] 牛顿第二定律；牛顿第二运动定律
 Newton's third law,[网络] 牛顿第三定律；牛顿第三运动定律
 Nikola Tesla,[网络] 特斯拉；尼古拉特斯拉；台斯拉
-non-crystal,无
+non-crystal,非晶体的
 nonequilibrium state,"un. 不平衡状态
 [网络] 非平衡态；非平衡状态；中间态并"
 non-soakage,无
@@ -11820,7 +11827,7 @@ rule,"n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅�
 vt. 规定, 统治, 管理, 控制, 支配, 裁决
 vi. 统治, 管辖, 裁定
 [计] 规则, 水线"
-parallel-resonance circuit,无
+parallel-resonance circuit,并联共振[谐振]电路
 Pascal's law,[医] 帕斯卡耳氏定律(液体压)
 pendulum length,摆长
 perfect tester,无
@@ -11922,7 +11929,7 @@ resistance,"n. 抵抗力, 反抗, 耐力, 阻力, 电阻
 [化] 抵抗; 抗性; 阻力; 抗药性; 电阻"
 resultant force,[化] 合力
 net force,净力
-right-hand rule,无
+right-hand rule, 右手定则
 rotational axis,旋转轴(线)
 Rutherford's Model,拉瑟福德模型
 scalar,"n. 数量, 纯量
@@ -11933,14 +11940,14 @@ second cosmic velocity,[化] 第二宇宙速度
 selective absorption,"[化] 选择吸收
 [医] 选择吸收"
 self-induced electromotive force,无
-self-inductance,无
+self-inductance,自感现象
 self-induction phenomenon,无
-semi-transparent film,无
+semi-transparent film,[化] 半透膜; 半透明膜
 sensitive galvanometer,灵敏电流计
 sensitometer,"n. 感光计, 曝光表
 [化] 感光计"
 series connection of condensers,无
-series-resonance circuit,无
+series-resonance circuit,串联共振电路
 short circuit,"短路
 [计] 短路"
 short sight,[化] 近视
@@ -12096,7 +12103,7 @@ voltage divider,"[计] 分压器
 voltage division circuit,无
 voltaic cell,[化] 伏打电池
 voltmeter,电压表
-voltmeter-ammeter method,无
+voltmeter-ammeter method,[网络] 电压电流表法
 vortex electric field,无
 wave crest,[电] 波顶
 wave equation,"[计] 波动方程
@@ -12104,7 +12111,7 @@ wave equation,"[计] 波动方程
 wave theory,"[计] 波动论
 [化] 波动说"
 wave velocity,[电] 波速
-wave-particle dualism,无
+wave-particle dualism,[化] 波粒二象性
 white light,[化] 白光
 Wilhelm Conrad Rontgen,无
 Wilhelm Weber,无
@@ -12566,7 +12573,7 @@ consecutive odd integer,无
 consecutive integer,无
 corresponding angles," 同位角, 对应角"
 corresponding side,无
-counter-clockwise,无
+counter-clockwise,反时针方向
 cross multiplication, 叉乘法
 cubic block,无
 solid,"n. 固体
@@ -12601,7 +12608,8 @@ v. 支持；偏袒；宽度仅有…；站在…的一边
 independent variables,"na. 【数】自变数[量]
 [网络] 自变量；独立变量；独立变项"
 infinite decimal,无尽小数
-non-terminating decimal,无
+non-terminating decimal,"un. 无尽小数
+[网络] 无穷小数"
 infinite sequence,[计] 无穷序列
 inscribed angle,内接角
 inside dimension,内部尺寸;内尺寸
@@ -12637,9 +12645,9 @@ numerical coefficient,数字系数
 natural number,[计] 自然数
 negative number,"[计] 负数
 [经] 负数"
-n-gon,无
+n-gon,[数] ｎ角
 n-sided polygon,无
-non-adjacent,无
+non-adjacent,[网络] 非相邻
 nonagon,n. 九边形
 nonzero,非零
 number line,[计] 数字行
@@ -12683,7 +12691,7 @@ simple annual interest,无
 simple fraction,n. 简分数
 simultaneous equations,n. 联立方程
 straight angle,平角
-straight-line distance,无
+straight-line distance,[网络] 直线距离；直线距离函数
 surface area,[机] 表面面积
 times,[网络] 时代；美国时代杂杂志
 transversal,"a. 横的, 横断的
@@ -12692,11 +12700,11 @@ trinomial,"a. 三项式的
 n. 三项式"
 unlike terms,异类项
 value variable,无
-X-axis,无
-X-coordinate,无
+X-axis, x 轴，横坐标，横坐标轴
+X-coordinate,X坐标
 XY-coordinate system,无
-Y-axis,无
-Y-coordinate,无
+Y-axis,[电] Y轴
+Y-coordinate, 纵坐标
 tautology,"n. 同义反复, 赘述, 重言式
 [计] 重言式"
 blather,"vi. 说废话

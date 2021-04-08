@@ -1021,7 +1021,8 @@ check,"n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
 vt. 检查, 阻止, 核对, 寄存, 托运
 vi. 逐项相符, 开支票
 [计] 复选"
-check-up,无
+check-up,"核对, 检查
+[经] 检查, 查对"
 chef,n. 厨师
 chemical,"n. 化学药品
 a. 化学的, 化学上用的"
@@ -1156,7 +1157,8 @@ collision,"n. 碰撞, 冲突, 抵触
 colony,"n. 殖民地, 移民队
 [医] 菌(集)落, 菌丛; 移民区"
 colossal,"a. 巨大的, 巨像似的"
-colour-blind,无
+colour-blind,"adj. 不辨颜色的；无种族歧视的
+[网络] 色盲"
 column,n. 纵队，列；专栏；圆柱，柱形物
 comb,[网络] 梳子
 combat,"n. 争斗, 战斗
@@ -2171,12 +2173,13 @@ dystrophy,"n. 营养障碍, 营养不良
 earthquake,地震
 earthwork,"土工作业,土方工程"
 earthworm,蚯蚓
-easy-going,无
+easy-going, 从容不迫的
 eccentric,"n. 怪人, 偏心圆
 a. 古怪的, 反常的, 不同圆心的"
 ecliptic,"n. 黄道
 a. 黄道的, 食的"
-eco-friendly,无
+eco-friendly,"adj. 对环境无害的；环保的
+[网络] 环保材质；生态友好；环保概念"
 ecological,"a. 生态学的, 主张生态保护的
 [法] 生态的, 生态学的"
 ecology,"n. 生态学, 社会生态学
@@ -2880,7 +2883,7 @@ frightened,"a. 受惊吓的, 受惊的, (非正式)害怕...的"
 frock,"n. 女礼服, 连衣裙, 工装, 罩袍, 僧衣"
 frontier,"n. 边界, 边境
 [法] 国境, 边境, 边界"
-front-line,无
+front-line,"前线, 第一线"
 frown,"n. 皱眉
 vi. 皱眉头
 vt. 皱眉表示"
@@ -3197,7 +3200,7 @@ hierarchy,"n. 等级制度, 僧侣统治, 等级体系
 [计] 分级结构; 分层结构; 新闻组, 新闻组分层"
 highland,高地
 highlight, 图像最亮部分，高度光泽，高亮度
-high-tech,无
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
@@ -3789,7 +3792,7 @@ landscape,地景
 landward,"a. 向陆的, 近陆的
 adv. 向陆地"
 lane,[网络] 局域网仿真技术
-large-scale,无
+large-scale,"[计] 大型的, 大规模的"
 larva,"n. 幼虫
 [医] 幼虫(昆虫), 蚴(蠕虫)"
 laser,"n. 激光
@@ -3931,7 +3934,7 @@ longitude,"n. 经度, 经线
 [电] 经度"
 longitudinal,"a. 经度的, 经线的, 纵的
 [医] 纵的"
-long-term,无
+long-term, 长期的
 loop,"n. 环, 圈, 弯曲部分, 循环
 vt. 使成环, 以圈结, 以环连结
 vi. 打环, 翻筋斗
@@ -4749,7 +4752,8 @@ possession,"n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷
 [经] 占有, 持有"
 postcode,"[计] 算后码, 记入码"
 postgraduate,[网络] 研究生；研究生文凭；硕士
-post-mortem,无
+post-mortem,"[计] 算后检查, 事后剖析
+[医] 死后"
 postpone,"vt. 延迟, 使延期, 缓办, 搁延
 vi. 延缓, 延缓发作"
 posture,"n. 姿势, 态度, 情形, 形势
@@ -5542,7 +5546,7 @@ select,"a. 挑选出来的, 极好的
 v. 选择, 挑选
 n. 被挑选者, 精萃
 [计] 选定"
-self-esteem,无
+self-esteem, 自尊
 semantic,"a. 语义的
 [计] 语义"
 semester,n. 学期
@@ -5630,7 +5634,7 @@ vt. 把...送上岸, 支撑, 支持"
 shortage,"n. 不足, 缺乏
 [化] 缺额"
 shorthand, 速记
-short-term,无
+short-term,[经] 短期
 shrewd,"a. 精明的, 锐利的, 剧烈的, 机灵的, 厉害的"
 shrink,"n. 收缩, 萎缩, 回避
 vi. 收缩, 退缩, 萎缩, 缩小, 回避
@@ -5795,7 +5799,7 @@ sociology,"n. 社会学
 [医] 社会学"
 solar,"a. 太阳的, 日光的, 源自太阳的
 [医] 太阳的; 腹腔丛的"
-solar-powered,无
+solar-powered,adj. 太阳能的
 sole,"n. 脚掌, 鞋底, 底部
 a. 唯一的, 仅有的, 单独的, 独身的
 vt. 上鞋底, 触底"
@@ -6734,7 +6738,8 @@ uphill,[网络] 上山；上山转运；上坡球
 upper,"a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的
 n. 鞋帮, 上齿"
 upset,上端局设备
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
 [法] 城市的, 都市的, 市区的"
 urbanization,"n. 都市化
@@ -6913,7 +6918,7 @@ warrant,"n. 授权, 正当理由, 根据, 证明, 批准, 凭证, 令状, 委任
 vt. 授权给, 保证, 担保, 批准, 使有正当理由"
 wastage,"n. 浪费, 浪费量, 废物
 [化] 废物"
-water-borne,无
+water-borne, 水上
 waterfront,岸线
 waterproof,[电] 防水
 wax,"n. 蜡, 蜡状物, 一阵发怒, 增加, (月亮)渐盈
@@ -6939,7 +6944,7 @@ vi. 称分量, 有意义, 重压, 起锚
 n. 过秤, 称分量"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 whaling,n. 捕鲸
 wheelchair,n. 轮椅
 whereas,"conj. 然而, 鉴于
@@ -6975,7 +6980,7 @@ workaholic,"n. 专心工作的人；醉心于工作的人；为免遭辞退而�
 adj. 醉心于工作的"
 workforce,"劳动力
 [经] 劳动力"
-world-wide,无
+world-wide, 全球的
 worm,"n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆
 vi. 蠕行, 慢慢前进
 vt. 使蠕行, 慢慢地走, 除虫
@@ -8787,7 +8792,7 @@ golden,"a. 金的, 含金的, 金色的, 贵重的, 繁盛的
 [法] 金制的, 金色的, 兴隆的"
 good,"n. 善行, 好处, 利益
 a. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的"
-good-bye,无
+good-bye,再见（歌曲名）
 goods,"n. 货物
 [经] 货物, 商品, 动产"
 govern,"v. 统治, 支配, 管理"
@@ -10674,7 +10679,7 @@ oil,[网络] 国际法制计量组织；油剂
 old,"n. 老年人；…岁的(人)；旧事物
 adj. 老的；陈年的；…久的；年龄较长的
 [网络] 旧的；年老的；古老的"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 on,suf. 表示“非酮(或氧基)化合物”：parathion; 表示：[生物学]“…子(指基本遗传成分)”; [物理学]“…子(指基本粒子或量子)”; [化学]表示“惰性气体”：neon
 once,"adv. 一次, 曾经, 一旦
 conj. 一旦, 一经
@@ -13008,7 +13013,8 @@ vi. 进行遥测
 tripod,"n. 三脚桌, 三脚架
 [医] 三脚架, 三脚台"
 viewfinder, 取录器，探视器
-wide-angle lens,无
+wide-angle lens,"un. 广角镜头；广角物镜
+[网络] 一个广角镜头；广角针孔镜头；宽镜头"
 zoom lens,变焦镜头
 versatile,"a. 多才多艺的, 万用的, 万向的"
 alchemy,"n. 炼金术, 魔力
@@ -13273,11 +13279,12 @@ payday,"[经] 付款日, 发薪日, 交割日"
 pay slip,工资单
 payroll,"工资清单,薪工清单;工资薪金总额"
 unemployment benefit,[经] 失业救济金(津贴)
-old-age pension,无
+old-age pension,"n. 养老金
+[网络] 养老金计划；退休金；养老保险制度"
 retirement,"n. 退休, 隐居, 撤退
 [经] 退休, 退股, (固定资产)报废"
 claim,叫喊
-go-slow,无
+go-slow,"慢慢走, 怠工"
 strike pay,[经] 工会在罢工期间给工人的津贴
 demonstration,"n. 示范, 实证
 [医] 示教, 实物教授"
@@ -13512,7 +13519,7 @@ metallurgy,"n. 冶金学, 冶金术
 finance,"n. 财政, 财务
 vt. 供给...经费, 负担经费
 vi. 筹措资金"
-mass-communication,无
+mass-communication,大众传播
 journalism,"n. 新闻业, 报章杂志
 [法] 报刊, 新闻业, 新闻出版"
 atomic energy,"[化] 原子能

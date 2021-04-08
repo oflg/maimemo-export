@@ -78,7 +78,8 @@ accurate,"a. 正确的, 精确的
 [经] 准确的, 精确的"
 accuse,"vt. 指责, 控告, 归咎于
 vi. 指责, 控告"
-accuse sb. of sth.,控告某人做了某事
+accuse sb. of sth.,"un. 控告
+[网络] 指责；指控；因某事控告某人"
 accustomed,"a. 惯常的, 习惯了的"
 achieve,"vt. 完成, 达到
 vi. 如愿以偿"
@@ -559,7 +560,7 @@ behave,"vi. 表现；（机器等）运转；举止端正；（事物）起某�
 vt. 使守规矩；使表现得…"
 behavior,"n. 行为, 举止
 [医] 行为"
-behind sb.'s back,"在(某人)背后, 背着(某人)"
+behind sb.'s back,无
 behind the scenes,"在后台, 在幕后
 [法] 秘密地, 暗中, 幕后"
 believe,"vi. 信任；料想；笃信宗教
@@ -735,7 +736,7 @@ buy up,"na. 囤积；整批收购；购进(其他公司)
 [网络] 尽可能买进；全部买进；全部买下"
 by accident,偶然
 by all means,"尽一切办法, 一定"
-by-and-by,无
+by-and-by,不久以后
 by and large,"大体上, 基本上"
 by degrees,"逐渐地
 [机] 渐渐, 逐渐"
@@ -829,7 +830,8 @@ vt. 捕捉, 赶上, 感染, 听清楚
 vi. 抓住, 燃着"
 catch at,"试图抓住, 死命抓住"
 catch on,"变得流行, 理解, 明白"
-catch sb. out,发觉某人的错误
+catch sb. out,"na. 接住球使击球员退出；看破
+[网络] 发现；发觉；看出"
 catch up with,赶上
 category,"n. 种类, 类项
 [计] 分类"
@@ -3301,7 +3303,7 @@ vi. 发源, 发生, 起航
 [计] 发自"
 other than,"不同于, 除了"
 otherwise,[网络] 聪明
-ought to do sth.,应该；应该做某事
+ought to do sth.,[网络] 应该做某事；应该做……如；应当做
 out of date,"过时的, 废弃的
 [化] 过期的; 过时的"
 out of question,毫无疑问
@@ -4642,7 +4644,8 @@ settle down,"使舒服地坐下, 定居, 平静下来, 专心于"
 settle up,"付清, 了结"
 settlement,"n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降
 [医] 居住区; 沉渣"
-set-up,无
+set-up,"na. 建立；创立；发起；开办
+[网络] 设立；设置；成立"
 severe,"a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的
 [法] 严厉的, 苛刻的, 严重的"
 shade,"n. 荫, 阴暗, 遮光物, 灯罩, 帘, 浓淡, 微量, 底纹
@@ -5724,8 +5727,8 @@ throughout,[网络] 生产量；有效产出；透背
 throw,"vt. 投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱
 vi. 丢, 掷, 抛
 n. 投掷, 掷骰子, 冒险"
-throw light on sth.,"把光射在某物上, (喻)有助于理解某事物"
-throw light upon sth.,无
+throw light on sth.,"照亮,阐明,使理解,启迪"
+throw light upon sth.,阐明;使人理解某事;使某事更为清楚 [亦作 shed (或 throw a flood of) light on (或 upon)]
 throw off,"na. 摆脱(习惯,拘束等)；抛弃；脱掉(衣服)；甩掉
 [网络] 扔掉；摆脱掉；扔开"
 thrust,"n. 插, 戳, 刺, 猛推, 口头攻击, 推力
@@ -5747,7 +5750,8 @@ vi. 整理, 收拾"
 tie in with,(使)跟…相符; 跟…连接起来
 tie up,"na. 绑；系；包扎；(船只)系泊
 [网络] 捆；捆绑；占用"
-tie-in-sale,无
+tie-in-sale,"un. 限制性销货
+[网络] 搭售；搭配销售；搭卖"
 tight,comb.form 表示“不透的”，“不漏的”，“密封的”，“防…的”
 tighten up,"na. 同“tighten ”
 [网络] 加强；绷紧；密封"
@@ -6070,7 +6074,8 @@ unwilling,"a. 不愿意的, 勉强的
 [法] 不愿意的, 勉强的, 不服从的"
 up against,面临
 up and down,"上下地, 到处"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 up to,"从事于(坏事), 忙于, 胜任, 能做, 适合, 适于"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
@@ -6422,7 +6427,8 @@ aftermarket,销售后市场
 agenda,"pl. 议程, 日常工作事项
 [计] 待议事件"
 agent,[网络] 代理；智能体；软件代理
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aisle,"n. 走廊, 侧廊, 过道
 [机] 走道"
 album,"n. 粘贴簿, 唱片套
@@ -6641,7 +6647,8 @@ v. 镀以黄铜, 支付"
 brave,"a. 勇敢的, 美好的, 华丽的
 n. 勇敢者
 vt. 勇敢地面对"
-break-even,无
+break-even,"并列起跑, 得失相当
+[经] 不赚不赔, 收支相抵"
 breeze,"n. 微风, 煤屑, 轻而易举的事
 vi. 吹微风, 逃走"
 brochure,"n. 小册子, 小册"
@@ -6671,10 +6678,10 @@ bulb,"n. 球茎, 电灯泡
 [医] 球, 鳞茎, 球茎"
 bulk,"n. 大小, 体积, 大块, 大多数
 vt. 显得大, 显得重要"
-bulk-cheap,无
+bulk-cheap,薄利多销的
 bull,"n. 公牛
 [法] 买方, 买空者"
-bull-bear,无
+bull-bear, [财]多头—空头
 bullet,"n. 子弹
 [医] 弹, 子弹, 距节(马)"
 bulletin,"n. 公告, 布告, 公报
@@ -6692,8 +6699,9 @@ bureaucracy,"n. 官僚, 官吏
 [法] 官僚主义, 官僚政治, 官僚机构"
 burglar,"n. 窃贼
 [法] 夜盗, 窃贼, 盗窃者"
-by-business,无
-by-law,无
+by-business,"un. 副业
+[网络] 业务类型分布"
+by-law,根据法律
 byproduct, 副产品，副产物
 C.O.D,[计] Microsoft C编译器产生的可显示机器码/汇编代码文件，其中附有源C代码作为注释
 cash on delivery,"货到付款
@@ -6955,7 +6963,7 @@ vt. 记入借方"
 debtee,[经] 债权人
 debtor,"n. 债务人, 借主, 借方
 [法] 负债者, 债务人, 借方"
-debt-ridden,无
+debt-ridden,负债累累的
 decimal,"a. 十进位的, 小数的
 n. 十进制, 小数
 [计] 十进制, 小数点"
@@ -7183,7 +7191,7 @@ prep. 除了...之外, 若不是, 除非
 conj. 只是"
 excise,"n. (烟、酒等)消费税, 货物税, 国产税
 vt. 切除"
-ex-dividend,无
+ex-dividend,"[法] 无红利, 无股息"
 executor,"n. 执行者
 [经] 指定遗嘱执行人, 执行者"
 exemption,"n. 解除, 免除, 免税
@@ -7310,7 +7318,7 @@ vi. 起泡沫, 吐白沫
 vt. 使起泡沫"
 folk,"n. 人们, 家人, 亲属, 民族
 a. 民间的"
-foot-note,无
+foot-note,"附注,脚注"
 footstep,n. 脚步；脚步声；足迹
 force,"n. 力量, 武力, 势力, 影响力, 军队, 力, 效力
 vt. 强迫, 强夺, 推动, 提高
@@ -7427,7 +7435,7 @@ graft,"n. 嫁接, 贪污
 v. 嫁接, 移植, 贪污"
 grain,"n. 谷粒, 颗粒, 谷类, 纹理, 本质
 v. (使)成谷粒"
-grant-in-aid,无
+grant-in-aid,"[经] 补助金, 中央给地方的拨款"
 graph," 表示：书写器；描绘器；记录器：telegraph; (以某种方法)书写(或描绘、记录)的结果(或东西)：monograph, lithograph"
 graphic,a. 形象的；图表的；绘画似的
 grave,[网络] -坟
@@ -7605,7 +7613,7 @@ instrumental,"a. 仪器的, 器具的, 可作为手段的
 insurance,n. 保险；保险费；保险契约；赔偿金
 intercourse,"n. 交往, 交流
 [医] 交际, 往来"
-interest-free,无
+interest-free,[经] 无息的
 interface,"n. 分界面, 接触面, 界面
 [计] 接口, 界面"
 intermediary,"n. 仲裁者, 调解者, 媒介物, 中间人
@@ -7635,9 +7643,9 @@ investor,"n. 投资者
 [经] 投资者"
 jobber,"n. 批发商, 股票经纪人
 [经] 做包工的人, 临时工, 股票经纪人"
-job-holder,无
-job-hop,无
-job-hopper,无
+job-holder,"国家职员,固定工作者"
+job-hop,跳槽
+job-hopper,频繁变换工作的人
 jog,"n. 轻推, 轻撞, 慢跑
 v. 轻推, (使)蹒跚行进, (使)慢跑"
 join,"vi. 参加, 结合, 加入
@@ -7669,7 +7677,7 @@ kin,"suf. 表示小：lambkin, princekin; [构成姓氏]：Peterkin"
 kite,"n. 风筝, 筝帆, 空头支票, 骗子
 vi. 象风筝一样飞, 轻快地移动, 使用空头支票
 vt. 使上升, 骗钱"
-kite-flyer,无
+kite-flyer, [体]风筝式滑翔机运动员
 kneel,[地名] 尼湖 ( 加 )
 knit,"v. 编织, 结合"
 knob,"n. 把手, 瘤, 旋钮, 球形突出物
@@ -7777,7 +7785,7 @@ mammal,"n. 哺乳动物
 [化] 哺乳动物"
 mankind,"n. 人类, 男性"
 manly,"a. 象男人的, 强壮的, 适于男人的"
-man-made,无
+man-made,人造的
 manpower,[经] 人力
 manufacturer,"n. 制造业者, 厂商
 [经] 制造人, 制造商, 制造厂"
@@ -7843,7 +7851,7 @@ military,"n. 军队
 a. 军事的, 军人的, 适于战争的"
 militia,"n. 义勇军, 民兵组织, 国民军"
 millimeter,[网络] 公厘
-mini-computer,无
+mini-computer,n. [计] 小型计算机；微型电脑
 minister,"n. 部长, 牧师, 公使
 vi. 服侍, 救助, 主持宗教仪式"
 ministry,"n. 部, 内阁, 服务
@@ -7889,7 +7897,8 @@ mortgage,"n. 抵押, 约束性义务, 抵押借款
 vt. 抵押, 以...作担保, 把...许给"
 mosquito,"n. 蚊子
 [医] 蚊"
-most-favored-nation,无
+most-favored-nation,"un. 最惠国
+[网络] 最惠国待遇；最惠方待遇"
 mostly,"adv. 大概, 大部分, 主要
 [经] 大部份"
 motel,n. 汽车旅馆
@@ -8755,7 +8764,7 @@ wink,"n. 眨眼, 使眼色, 瞬间
 vi. 眨眼, 使眼色, 闪烁
 vt. 眨"
 Xerox,v. 静电复印
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yeast,"n. 酵母
 [化] 酵母"
 zebra,n. 斑马
@@ -9891,7 +9900,7 @@ eleventh,"num. 第十一, 十一分之一"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 emperor,"n. 皇帝, 君主"
 employ,"n. 雇用
 vt. 雇用, 使用, 使从事于"
@@ -13253,7 +13262,8 @@ vi. 跟踪, 船尾搁浅"
 take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
 vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
 n. 拿, 取, 收成, 奏效"
-take-off,无
+take-off,"v. (飞机)起飞；出去；拿掉；移送
+[网络] 脱下；脱掉；脱去"
 talk,"n. 谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言
 vi. 讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话
 vt. 讲, 说, 讨论, 谈论
@@ -13860,9 +13870,10 @@ universally,"adv. 宇宙, 全世界, 普遍, 一般, 普通, 全体, 一致, 通
 without saying,无
 admittedly,"adv. 公认地, 诚然"
 agree to,"同意,赞成…"
-anxiety for sth.,无
+anxiety for sth.,"adj. 渴望
+[网络] 担心；焦虑；对某事的渴望"
 agree with,"同意…,与…意见一致;适应…"
-appeal to sb. for sth.,无
+appeal to sb. for sth.,[网络] 求助于
 attach importance to,重视
 be afraid of,害怕
 be aware of,知道
@@ -13883,7 +13894,7 @@ concern about, 使（自己）关心…
 concern for, 为…担心
 concern over,"对…的忧虑,担忧"
 confidence in,[网络] 相信；信任；对……的信任
-consent to sth.,无
+consent to sth.,"同意, 答应"
 favorable to,"un. 赞成
 [网络] 支持；有利于"
 focus on, 致力于; 使聚焦于; 对（某事或做某事）予以注意; 把…作为兴趣中心

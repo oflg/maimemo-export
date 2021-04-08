@@ -89,7 +89,7 @@ adjourn,"vi. 休会, 换地方
 vt. 使中止, 推迟"
 adjunct,"n. 附属物, 附件, 助手, 修饰语
 a. 附属的"
-ad-lib,无
+ad-lib,没有限制地
 admonish,"vt. 警告, 劝告, 训诫, 告诫"
 adore,"vt. 崇拜, 爱慕, 喜爱
 vi. 崇拜, 爱慕"
@@ -293,7 +293,8 @@ awash,[网络] 冲洗；一家洗；我洗了我的汽车
 awe,"n. ☉(对神等的)敬畏；(对权势等的)畏怯
 vt. 使敬畏，令人敬畏，对…充满敬畏之情；使充满畏惧，使畏怯：；使惊叹，使惊奇："
 awkward,"a. 笨拙的, 棘手的"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 awry,"a. 歪的, 错误的
 adv. 歪斜地, 错地"
 axiomatic,a. 自明的
@@ -1485,7 +1486,7 @@ faction,n. 派别；内讧；小集团；纪实小说
 fallacious,"a. 使人误解的, 谬误的, 不合理的, 骗人的"
 fallow,"n. 休耕地
 a. 休耕的, 淡棕色的"
-fail-safe,无
+fail-safe,有故障安全装置
 falsehood,虚假
 falter,"vt. 支吾地说
 vi. 支吾, 蹒跚地走
@@ -1639,7 +1640,8 @@ fraudulent,"a. 欺诈的, 不正的, 不诚实的
 fraught,"a. 含有...的, 伴着...的, 充满...的"
 frenzy,"n. 疯狂, 狂暴, 狂怒
 [医] 暴怒, 狂乱"
-far-fetched,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
 fretful,"a. 烦燥的, 焦噪的, 起波纹的"
 friable,"a. 易碎的, 易成粉末的, 脆弱的
 [医] 易碎的, 脆的"
@@ -1657,7 +1659,7 @@ frowsy,a. 霉臭的；难闻的；不整洁的（等于frowzy）
 frugal,"a. 节俭的, 朴素的"
 fungible,"a. 可取代的, 代替的
 n. 代替物"
-full-bodied,无
+full-bodied,完满的
 fulminate,"vt. 使爆发, 以严词谴责
 vi. 爆炸, 怒喝, 电闪
 n. 雷酸盐, 烈性炸药"
@@ -1808,13 +1810,14 @@ halcyon,"n. 神翠鸟, 翡翠鸟
 a. 宁静的, 平稳的, 翡翠鸟的"
 hale,"a. 强壮的, 矍铄的, 健壮的
 vt. 猛拉, 拖曳"
-half-baked,无
+half-baked,"半熟的,没有经验的"
 hallmark,伦敦金业公会证明金银纯度的检验印记
 hallow,"vt. 使...神圣, 视为神圣
 n. 圣徒"
 hallucination,"n. 幻觉, 幻想
 [医] 幻觉"
-ham-handed,无
+ham-handed,"na. “ham-fisted”的变体
+[网络] 笨手笨脚"
 hammer,"n. 锤, 铁锤, 钉锤
 vt. 锤打, 敲打, 钉
 vi. 连续锤打
@@ -1835,7 +1838,7 @@ harbinger,"n. 通告者, 预告者, 先驱, 预兆
 vt. 预告, 充做...的前驱"
 harbor,"n. 港, 避难所
 v. 庇护, 藏匿, (使)入港停泊"
-hard-bitten,无
+hard-bitten,"顽固的,刚愎的"
 hardy,"a. 难的, 艰苦的, 坚硬的, 勇敢的
 adv. 努力地, 辛苦地, 坚硬地"
 harmonious,"a. 和睦的, 调和的, 和谐的, 协调的"
@@ -2586,7 +2589,7 @@ vt. 用镶嵌细工装饰
 [计] Mosaic浏览程序"
 monolithic,"a. 独石的, 完全统一的, 整体的
 [化] 整体(铸,烧结)的; 龟甲网衬里; 单片; 单块"
-moth-eaten,无
+moth-eaten, 蛀坏了的
 motile,"a. 能动的, 运动表象型的
 n. 运动表象型"
 motivate,"vt. 给与动机, 刺激, 提高...的学习欲望, 促动
@@ -2722,7 +2725,8 @@ offhand,"不假思索地, 无准备地"
 officious,"a. 多管闲事的, 非官方的
 [法] 非官方的, 非正式的"
 offish,"a. 不亲热的, 冷漠的, 疏远的, 健康较差的"
-off-key,无
+off-key,"adj. 走音的；不正常的
+[网络] 走调；走调地；不合拍地"
 ominous,"a. 恶兆的, 不吉利的, 预兆的"
 omniscient,"a. 全知的, 无所不知的
 n. 无所不知者, 上帝"
@@ -3691,8 +3695,8 @@ seemly,"a. 适当的, 恰当的, 合适的, 好看的"
 segment,"n. 片段, 部分, 分节, 段
 v. 分割, 分裂
 [计] 段"
-self-abasement,无
-self-absorbed,无
+self-abasement,n. 自卑
+self-absorbed, 专顾自己的
 seminal,"a. 精液的, 种子的, 生殖的
 [医] 种子的; 精液的"
 sensation,"n. 感觉, 轰动
@@ -3728,7 +3732,7 @@ serpentine,"a. 蛇的, 层层卷绕的, 阴险的, 迂回的
 n. 蛇纹石, 弯弯曲曲之物
 vi. 蜿蜒
 vt. 使迂回曲折地行进"
-self-defeating,无
+self-defeating,自我挫败
 serried,"a. 密集的, 林立的, 锯齿状的"
 servile,"a. 奴隶的, 奴性的, 卑屈的"
 shifty,"a. 变化的
@@ -3799,7 +3803,7 @@ a. 作为信号的, 显著的
 simpleton,"n. 笨蛋, 傻子"
 simulate,"vt. 模拟, 假装, 模仿
 [法] 伪装的, 模拟的; 假装的, 伪装的, 冒充"
-self-perpetuating,无
+self-perpetuating,a. 能使自身永久存在的
 sensuality,"n. 耽于声色, 淫荡, 好色"
 sinecure,"n. 闲职
 [经] 领干俸的职位"
@@ -3991,7 +3995,7 @@ squat,"n. 蹲, 窝
 a. 蹲着的, 矮胖的
 vi. 蹲下, 蹲坐, 蹲伏
 vt. 使蹲下, 擅自占有"
-soft-pedal,无
+soft-pedal,"钢琴弱音踏板, 减弱效果的东西"
 squelch,"n. 嘎吱声, 压碎的一堆, 使对手哑口无言的话
 vt. 压碎, 镇压, 使咯吱咯吱响
 vi. 咯吱咯吱响, 涉水而过
@@ -4330,7 +4334,9 @@ tirade,n. 激烈的长篇演说
 toady,"n. 谄媚者, 马屁精
 v. 谄媚, 拍马屁"
 tonic,[网络] 网卡连接口；隔离卡网卡的连接口
-topsy-turvy,无
+topsy-turvy,"adj. 〈非正式〉混乱的；〈非正式〉上下颠倒的
+n. 混乱；颠倒
+[网络] 酣歌畅戏；混乱世界；翻天覆地"
 torpid,"a. 麻痹的, 迟缓的, 迟钝的, 蛰伏的
 [医] 迟钝的, 不活泼的, 缓慢的"
 torpor,"n. 麻木, 无感觉, 迟钝
@@ -4984,7 +4990,7 @@ vi. 无所事事, 闲散, 浪费, 空转
 vt. 虚度, 使闲散, 使空转
 n. 空转, 空闲时间
 [计] 空闲时间"
-ill-bred,无
+ill-bred,没有[有]教养
 illustrious,"a. 著名的, 辉煌的, 明亮的"
 imperishable,"a. 不灭的, 不朽的"
 implicit,"a. 暗示的, 含蓄的, 固有的, 绝对的
@@ -5203,7 +5209,7 @@ temporal,"a. 时间的, 暂时的, 现世的, 世俗的, 颞的, 太阳穴的
 n. 世间万物, 教会财产"
 tentative,"n. 试验
 a. 试验性的, 暂时的"
-thick-skinned,无
+thick-skinned,"a. 厚皮的, 脸皮厚的, 感觉迟钝的"
 thrill,"n. 震颤, 激动, 刺激性, 一阵激动
 vi. 震颤, 颤抖, 激动
 vt. 使激动, 使颤动"
@@ -5229,7 +5235,9 @@ a. 迎风的
 vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
 vi. 风化, 受侵蚀, 经受风雨"
 willful,"a. 任性的, 故意的, 有意的"
-willy-nilly,无
+willy-nilly,"adj. 犹豫不决的；不管愿不愿意的
+adv. 有背意愿地
+[网络] 三七二十一；囧字生活；强迫地"
 wilt,"v. (使)枯萎, (使)衰弱, (使)畏缩
 n. 枯萎, 衰弱, 憔悴"
 wily,"a. 使用计谋的, 有诡计的, 狡猾的"

@@ -3180,7 +3180,7 @@ perception,"n. 知觉, 感觉, 领悟力, 获取
 insight,被看到
 affluent,"a. 丰富的, 富裕的
 n. 支流, 富人"
-well-off,无
+well-off,"富裕的, 处境好的"
 wealthy,"a. 富有的, 丰裕的, 充分的"
 actual,"a. 真实的, 实际的, 现行的
 [医] 实际死亡率"
@@ -3409,8 +3409,9 @@ autonomous,"a. 自治的
 [医] 自主的"
 sovereign,"n. 元首, 独立国
 a. 具有主权的, 至高无上的, 国王的, 完全的"
-self-reliant,无
-self-sufficient,无
+self-reliant,a. 独断独行的
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
 neutral,"adj. 中立的，中性的；中立国的；非彩色的
 n. 中立国；中立者；非彩色；齿轮的空档"
 impartial,"a. 公平的, 不偏不倚的
@@ -5149,7 +5150,7 @@ vt. 淋湿, 倾注"
 mist,"n. 雾, 迷蒙, 朦胧不清
 vt. 使模糊, 使蒙上雾
 vi. 变模糊, 下雾"
-so-called,无
+so-called,adj. 所谓的
 alleged,"a. 被断言的, 所谓的
 [法] 提出而尚未证实的, 声称的, 宣称的"
 supposed,"a. 想象上的, 假定的, 被信以为真的
@@ -5541,7 +5542,7 @@ hemisphere,"n. 半球, 地球的半面, 大脑半球
 [医] 半球"
 ego,"n. 自我
 [医] 自我"
-self-esteem,无
+self-esteem, 自尊
 embed,"vt. 使插入, 使嵌入, 使深留脑中
 [计] 嵌入"
 insert,"n. 插入物
@@ -6549,7 +6550,7 @@ vt. 准予...毕业, 授予...学位, 分等级, 刻刻度"
 grey,"n. 灰色
 a. 灰色的, 阴沉的
 v. (使)成灰色"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 guest,"n. 客人, 来宾, 旅客
 [化] 客体"
 hammer,"n. 锤, 铁锤, 钉锤
@@ -7895,7 +7896,7 @@ vi. 猛扭, 猛绞"
 wrinkle,"n. 皱纹, 妙计, 方法, 技巧
 vi. 起皱
 vt. 使起皱纹"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yawn,"n. 哈欠
 vi. 打哈欠, 裂开
 vt. 打着哈欠说"
@@ -7923,7 +7924,8 @@ aeroplane,"n. 飞机
 [机] 飞机"
 agriculture,"n. 农业
 [机] 农业, 农学"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 airport,[机] 通气口
 album,"n. 粘贴簿, 唱片套
 [医] 白色物"
@@ -8824,7 +8826,8 @@ lawn,"n. 草地, 草坪, 上等细麻布
 layer,"n. 层, 产卵鸡, 放置者
 vt. 分层堆积, 压植
 [计] 层"
-lay-off,无
+lay-off,"na. 辞退；停止；暂停
+[网络] 解雇；下岗；裁员"
 leaf,"n. 叶, 树叶, 花瓣, 页
 vi. 生叶, 翻书页
 vt. 在...上长叶, 翻...的页"
@@ -10005,12 +10008,13 @@ ultraviolet,adj. 紫外线的
 unexpected,[网络] 预期的花费
 unlikely,a. 不太可能的
 untouched,"a. 未触摸过的, 未改变的, 未受影响的"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 versatile,"a. 多才多艺的, 万用的, 万向的"
 vulgar,"a. 粗俗的, 庸俗的, 普通的, 通俗的, 方言的
 [法] 庸俗的, 卑下的, 粗俗的"
 waterproof,[电] 防水
-well-known,无
+well-known, 众所周知的; 出名的
 wholesome,"合乎卫生的,有益健康的"
 wicked,"a. 坏的, 邪恶的, 缺德的, 刻毒的, 恶劣的, 淘气的"
 willing,"a. 乐意的, 自愿的, 甘愿的"

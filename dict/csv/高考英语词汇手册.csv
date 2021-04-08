@@ -175,7 +175,7 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioned,无
+air-conditioned,装有空气调节器的
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airmail,"航空邮政, 航空邮件
@@ -265,7 +265,8 @@ vt. 回答, 反驳, 适应, 响应, 符合
 vi. 回答, 答应, 负责, 符合, 成功
 [计] 用户问题及答案新闻组"
 ant,"suf. [构成形容词] 表示：进行...动作的,处于...状态的,促进...作用的：repentant, triumphant, expectorant; 有...的,显示...的,做...的：defiant, radiant; [构成名词]表示进行...动作的人,施行...作用者,...者(人或物):accountant, assistant, occupant"
-anti-pollution,无
+anti-pollution,"adj. 防止环境污染的；反对公害的
+n. 反污染"
 anxiety,"n. 焦虑, 忧虑, 令人焦虑的事
 [医] 焦虑"
 anxious,"a. 忧虑的, 发愁的, 渴望的"
@@ -427,7 +428,7 @@ attract,"vt. 吸引, 诱惑
 vi. 有吸引力"
 audience,"n. 听众, 观众, 读者
 [法] 听讼, 观众, 听众"
-audio-visual,无
+audio-visual,视听;直观
 aunt,"n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
 author,"n. 作家, 作家的著作, 创始人
 [法] 作者, 著作人, 本人"
@@ -2236,7 +2237,8 @@ easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随�
 adv. 容易地, 慢慢地"
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
-E-book,无
+E-book,"n. 【计】电子书
+[网络] 经典电子书；电子书免费下载；电子图书"
 economic,"a. 经济上的, 实用的, 节省的
 [经] 经济的"
 economical,济的，节省的
@@ -2299,8 +2301,8 @@ eliminate,"vt. 除去, 排除, 剔除, 消除"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
-E-mail,无
+e-mail, 电子函政
+E-mail, 电子函政
 email, 电子函政
 embarrass,"vt. 使困窘, 使局促不安, 阻碍"
 emerge,"vi. 浮现, 形成, 出现, (事实)显露"
@@ -3206,7 +3208,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guarantee,"n. 担保, 抵押品, 保证书
@@ -4991,7 +4993,7 @@ adj. （长度或距离）长的；（询问或谈论长度或距离）长；长
 adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
 v. （尤指对看似不会很快发生的事）渴望
 [网络] 长整型；长整数；多头"
-long-term,无
+long-term, 长期的
 look,"n. 看；外观；查找；瞧
 v. 看；寻找；瞧；注意
 linkv. 显得；似乎；看来好像
@@ -5076,7 +5078,7 @@ manage,[网络] 管理；成年人
 manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
 mankind,"n. 人类, 男性"
-man-made,无
+man-made,人造的
 manner,"n. 样子, 礼貌, 风格
 [法] 方式, 方法, 样式"
 mansion,"n. 大厦, 宅邸"
@@ -5674,7 +5676,7 @@ conj. 一旦, 一经
 n. 一次
 a. 从前的"
 oneself,[网络] 一体自性；自己；自我
-one-sided,无
+one-sided,"一方的,不客观的,部分的"
 online,"[经] (与主机)联机, 在线, 机内"
 only,"a. 唯一的, 仅有的, 最佳的
 adv. 只有, 仅仅, 只能
@@ -5882,7 +5884,7 @@ passage,"n. 一段（文章）；走廊；通路
 n. (Passage)人名；(英)帕西奇；(法)帕萨热"
 passenger,"n. 乘客, 旅客
 [经] 乘客, 旅客"
-passer-by,无
+passer-by,n. 过路人; 经过者
 passion,"n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)"
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
 [医] 被动的"
@@ -8528,7 +8530,8 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 upset,上端局设备
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -8689,7 +8692,7 @@ warm,"a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情�
 vt. 使温暖, 弄热, 使兴奋, 使充满仇恨
 vi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好
 n. 暖, 保暖物"
-warm-hearted,无
+warm-hearted,"a. 热烈的, 热心的, 富有同情心的, 热情的"
 warmth,"n. 温暖, 温情, 暖和, 激动, 生气"
 warn,"vt. 警告, 提醒, 通知
 vi. 发出警告"
@@ -8766,7 +8769,7 @@ interj. 欢迎"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -8962,7 +8965,7 @@ writer,"n. 作家, 撰稿者, 抄写员
 [化] 记录器"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 year,"n. 年, 年度, 年龄

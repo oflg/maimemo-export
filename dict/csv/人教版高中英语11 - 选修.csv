@@ -174,8 +174,10 @@ statistics,"n. 统计学, 统计资料
 [计] 统计信息"
 statistics,"n. 统计学, 统计资料
 [计] 统计信息"
-eco-friendly,无
-eco-friendly,无
+eco-friendly,"adj. 对环境无害的；环保的
+[网络] 环保材质；生态友好；环保概念"
+eco-friendly,"adj. 对环境无害的；环保的
+[网络] 环保材质；生态友好；环保概念"
 subtropical,adj. （地区）副热带的，亚热带的; （植物）亚热带的
 subtropical,adj. （地区）副热带的，亚热带的; （植物）亚热带的
 fiord,n. 峡湾
@@ -245,9 +247,9 @@ database,"[计] 数据库
 cater,"v. 提供饮食及服务, 投合, 迎合"
 cater,"v. 提供饮食及服务, 投合, 迎合"
 cater for sb,无
-cater for sb.,无
+cater for sb.,"供应伙食, 迎合"
 cater for sth,无
-cater for sth.,无
+cater for sth.,"供应伙食, 迎合"
 enquiry,"n. 询问
 [经] 询价, 询盘"
 enquiry,"n. 询问
@@ -291,7 +293,7 @@ torso,"n. 躯干, 裸体躯干雕像
 Dempsey,登普西（人名）
 surgeon,"n. 外科医生, 军医, 船医
 [医] 外科医师"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 abnormal,"a. 反常的, 不规则的, 变态的, 畸形的
 n. 畸形的人"
 Shipley,希普利（人名）（英国城市）
@@ -364,7 +366,7 @@ harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
 depressed,"adj. 沮丧的；萧条的；压低的
 v. 使沮丧；使萧条（depress的过去式和过去分词形式）；压低"
-well-balanced,无
+well-balanced, [体]匀称
 prescription,"n. 处方, 命令, 指定
 [医] 处方, 药方"
 cope,"vi. 处理；对付；竞争
@@ -397,7 +399,7 @@ deadline,"[计] 静线
 rigid,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的"
 subscribe,"vi. 订阅；捐款；认购；赞成；签署
 vt. 签署；赞成；捐助"
-post-graduate,无
+post-graduate,[网络] 研究生；研究生文凭；硕士
 academy,"n. 学院, 院校, 学会"
 stead,"n. 代替, 接替, 有利, 用处, 好处
 vt. 对...有利"
@@ -583,7 +585,7 @@ expectantly,"adv. 期待, 期待着, 期望, 预期"
 suck,"vt. 吸, 吮, 吸入, 吮吸, 吸收
 vi. 吸, 吸奶
 n. 吸, 吸入, 吮吸"
-co-operate,无
+co-operate,v. 合作；配合
 preference,"n. 偏爱, 优先, 喜爱物
 [计] 首选项"
 pleasurable,"a. 快乐的, 愉快的, 舒适的, 心情舒畅的"
@@ -685,7 +687,7 @@ torso,"n. 躯干, 裸体躯干雕像
 Dempsey,登普西（人名）
 surgeon,"n. 外科医生, 军医, 船医
 [医] 外科医师"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 abnormal,"a. 反常的, 不规则的, 变态的, 畸形的
 n. 畸形的人"
 Shipley,希普利（人名）（英国城市）
@@ -758,7 +760,7 @@ harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
 depressed,"adj. 沮丧的；萧条的；压低的
 v. 使沮丧；使萧条（depress的过去式和过去分词形式）；压低"
-well-balanced,无
+well-balanced, [体]匀称
 prescription,"n. 处方, 命令, 指定
 [医] 处方, 药方"
 cope,"vi. 处理；对付；竞争
@@ -791,11 +793,11 @@ deadline,"[计] 静线
 rigid,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的"
 subscribe,"vi. 订阅；捐款；认购；赞成；签署
 vt. 签署；赞成；捐助"
-post-graduate,无
+post-graduate,[网络] 研究生；研究生文凭；硕士
 academy,"n. 学院, 院校, 学会"
 stead,"n. 代替, 接替, 有利, 用处, 好处
 vt. 对...有利"
-stand sb. in good stead,"给某人好处, 对某人有用"
+stand sb. in good stead,[网络] 对你有好处
 employer,"n. 雇主, 老板
 [经] 雇主, 业主"
 diploma,"n. 文凭, 毕业证书
@@ -977,7 +979,7 @@ expectantly,"adv. 期待, 期待着, 期望, 预期"
 suck,"vt. 吸, 吮, 吸入, 吮吸, 吸收
 vi. 吸, 吸奶
 n. 吸, 吸入, 吮吸"
-co-operate,无
+co-operate,v. 合作；配合
 preference,"n. 偏爱, 优先, 喜爱物
 [计] 首选项"
 pleasurable,"a. 快乐的, 愉快的, 舒适的, 心情舒畅的"

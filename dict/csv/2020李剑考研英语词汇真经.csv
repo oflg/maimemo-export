@@ -1695,7 +1695,7 @@ automatic,"n. 自动手枪, 自动机械
 a. 自动的, 机械的, 必然的, 无意识的"
 automate,"vt.vi. (使)自动化
 [计] 自动化"
-self-acting,无
+self-acting,[机] 自动的
 simultaneous,"a. 同时的, 同时发生的
 [计] 同时的"
 instantaneous,"a. 即时的, 瞬间的, 猝发的
@@ -1779,7 +1779,7 @@ vt. 展开
 vi. 展开
 [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上"
 well, (we shall或 we will 的常用口语形式)
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 discipline,"n. 训练, 纪律
 vt. 训练, 惩罚"
 disciplined,a. 遵守纪律的；受过训练的
@@ -5399,7 +5399,7 @@ side,"n. 边；身边；一边；一面
 adj. 旁；横；副的；片面的
 v. 支持；偏袒；宽度仅有…；站在…的一边
 [网络] 旁边；侧面；方面"
-upside-down,无
+upside-down,[网络] 机腹朝上；颠倒；上的姿势
 aside,[网络] 旁边；一边；A面
 alongside,"adv. 在旁边
 prep. 在……旁边"
@@ -7621,7 +7621,7 @@ conditional,"a. 有条件的, 有前提的
 [电] 有条件的"
 conditioner,"n. 调节器, 土壤团粒结构促进剂
 [计] 调节器, 整形器"
-air-conditioner,无
+air-conditioner,[化] 空调器; 空气调节器
 conditionally,adv. 有条件地
 envision,"vt. 想象, 预想"
 enviable,"a. 令人羡慕的, 可羡慕的"
@@ -7629,7 +7629,7 @@ environment,"n. 环境, 外界, 围绕
 [计] 环境"
 environmentalist,n. 环保人士
 environmental,[网络] 环保
-all-around,无
+all-around,周围
 background,[经] 背景
 surrounding,"n. 环境
 a. 周围的"
@@ -7691,7 +7691,7 @@ vt. 给...房子住, 收藏
 vi. 住, 躲藏"
 household,"n. 家眷, 家务, 王室
 a. 家务的, 家常的"
-in-house,无
+in-house, 内部的; 室内的
 home,[网络] 网站首页；用户文件；回首页
 family,[网络] 家族；家庭
 familiar,"a. 熟悉的, 常见的, 亲密的
@@ -11940,7 +11940,7 @@ vi. 作手势, 作姿态"
 given,"a. 赠予的, 沉溺的, 约定的
 give的过去分词"
 glacier,n. 冰川
-grown-up,无
+grown-up,"成年的,适于成年人的"
 gym,"n. +体育馆, 体育训练, 体育课, 体操"
 gymnasium,"n. 健身房, 体育馆
 [医] 体育馆, 健身室, 运动场"
@@ -12688,8 +12688,8 @@ learn by heart,"na. 记住；熟记
 [网络] 背诵；牢记；背熟"
 heart and soul,全心全意地
 lose heart,丧失勇气
-lose one's heart to sth.,无
-lose one's heart to sb.,无
+lose one's heart to sth.,"心被...俘去, 爱上..."
+lose one's heart to sb.,"心被...俘去, 爱上..."
 can't help,"〈英〉抑制不住, 禁不住"
 couldn't help,[网络] 忍不住
 help oneself,自用
@@ -12773,7 +12773,7 @@ more or less,或多或少
 much less,更不
 still less, 更少
 draw lessons from,借鉴
-teach sb. a lesson,给某人上课;教训某人一顿
+teach sb. a lesson,[网络] 给…一个教训；给以教训；教训一顿
 let alone,"na. 任随；更不用说；放任；莫说…(连)
 [网络] 更别提；更不必说；不管"
 let down,"na. 使失望；放下；丢面子
@@ -12972,8 +12972,7 @@ on the point of,正要...的时候
 point out,"na. 指出
 [网络] 指明；说明；指示"
 to the point,"中肯, 扼要"
-make a point of doing sth.,"坚持做某事
-决心做某事"
+make a point of doing sth.,重视做
 bring ... into practice,实行，实施；付诸实践
 put ... into practice,"na. 实行
 [网络] 实施；付诸实施；落实"
@@ -13058,7 +13057,7 @@ all right,"好, 顺利, 良好的, 正确的"
 ring off,挂断电话
 give rise to,"引起, 使发生"
 without a rival,无可匹敌
-rival ... in sth.,无
+rival ... in sth.,在 ... 方面的对手
 on the road,"在旅途中, 在...过程中"
 rest room,"公共厕所,卫生间"
 all round,"周围, 四处"
@@ -13104,7 +13103,8 @@ make sense,有意义
 in sequence,"挨次,按顺序,一个接一个"
 a series of,"一系列..., 一批..."
 serve as,"被用作..., 充当..., 起...的作用"
-serve sb. right,给某人应得的报应
+serve sb. right,"na. 给(某人)该得的待遇
+[网络] 活该；给应得的待遇；活该，给应得的待遇"
 set about,"开始, 散布
 [法] 着手, 开始"
 set aside,"na. 搁置；拨出；驳回
@@ -13281,7 +13281,7 @@ try out,"na. (采用前)严密试验；筛矿；量(金属的)纯度
 try on,"na. 试穿；〈非正式〉搞恶作剧(以试探能否被容忍)；〈非正式〉耍花招
 [网络] 试试看；试穿衣物；试衣服"
 tune in,收听
-tune in to sth.,无
+tune in to sth., 调谐，收听；收到
 by turns,"轮流, 交替"
 in turn,"na. 挨次
 [网络] 依次；轮流；反过来"

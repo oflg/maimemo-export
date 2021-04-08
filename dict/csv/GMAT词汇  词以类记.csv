@@ -318,7 +318,7 @@ investment,"n. 投资
 invigorate,"vt. 使精力充沛, 鼓舞, 搞活, 使健壮"
 keynesian,"a. 凯因斯主义的
 n. 凯因斯主义的追随者, 凯因斯主义的鼓吹者"
-laissez-faire capitalism,无
+laissez-faire capitalism,自由资本主义
 list price,"[经] 目录价格, 价目单定价"
 managerial,"a. 管理的
 [经] 管理上的, 经营上的"
@@ -506,7 +506,7 @@ nausea,"n. 反胃, 晕船, 恶心, 厌恶
 [医] 恶心"
 nicotine,"n. 烟碱, 尼古丁
 [化] 烟碱; 尼古丁"
-off-the-shelf,无
+off-the-shelf,复活
 opiate,"n. 鸦片制剂, 镇静剂
 a. 含鸦片的, 催眠的
 vt. 使麻醉, 使缓和"
@@ -1060,7 +1060,7 @@ salinity,"n. 盐性, 盐度
 [化] 盐度"
 seismic,a. 地震的
 seismology,n. 地震学
-semi-arid,无
+semi-arid, 半干燥的
 slant,"n. 倾斜, 斜面, 观点, 偏见, 歪曲
 a. 倾斜的
 v. (使)倾斜"
@@ -1178,7 +1178,7 @@ linguistics,n. 语言学
 lyrical,"a. 抒情诗调的, 有抒情味的, 感情丰富的"
 methodology,"n. 方法学, 方法论
 [化] 操作法; 工艺"
-non-verbal,无
+non-verbal,adj. 非用言语的
 paradox,"n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事
 [化] 佯谬"
 parenthetical,"a. 作为插入语的, 作为附带说明的, 作为附加注解的, 放在括号里的, (喻)插曲的"
@@ -1298,7 +1298,7 @@ missile,"n. 发射物, 导弹, 飞弹, 火箭
 a. 可发射的"
 nuclear,"a. 核子的, 原子能的, 核的, 中心的
 [医] 核的"
-rear-echelon,无
+rear-echelon, 后方梯队
 recruit,"n. 新兵, 新手, 新会员, 补给品
 vt. 恢复, 补充, 充实, 征募
 vi. 征募新兵, 复原, 得到补充"
@@ -1405,7 +1405,7 @@ municipal,"a. 市政的, 自治区的, 内政的
 NATO,"abbr. North Atlantic Treaty Organization 北大西洋公约组织(简称北约)[亦作 Nato, 参较 Warsaw Treaty Organization]"
 North Atlantic Treaty Organization,"北大西洋公约组织, 北约组织
 [法] 北大西洋公约组织"
-non-partisan,无
+non-partisan,"a. 超党的, 无党派的"
 partisan,"n. 党羽, 虔诚信徒, 同党, 游击队员
 a. 党派的, 偏袒的, 效忠的, 献身的, 盲目推崇的"
 polyarchy,n. 多头政治
@@ -1964,7 +1964,8 @@ pharmacology,"n. 药理学, 药物学
 physiology,"n. 生理学, 生理机能
 [医] 生理学"
 pseudoscience, 伪科学
-socio-economic,无
+socio-economic,"adj. 社会与经济的；社经的
+[网络] 社会经济；确实激励鼓舞了社会经济；其社会经济"
 sociology,"n. 社会学
 [医] 社会学"
 wholesale,"批发,趸售"
@@ -2240,7 +2241,7 @@ vanish,"vi. 消失, 不见, 成为零"
 beatific,"a. 至福的, 赐福的, 极乐的"
 euphoria,"n. 兴奋, 陶醉, 陶醉感
 [医] 精神愉快, 欣快"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 aftermath,"n. 结果, 后果
 [法] 后果, 结果"
 calamity,"n. 灾难, 不幸事件"
@@ -2644,7 +2645,7 @@ elite,"n. 精华, 精锐, 中坚分子"
 essential,"n. 要素, 要点, 本质
 a. 必要的, 重要的, 本质的
 [计] 本质冒险"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 fatal,"a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的
 [医] 致命的, 致死的"
 fatality,"n. 不幸, 厄运, 致命性, 死亡者, 厄运, 天命"
@@ -2797,7 +2798,7 @@ widespread,"adj. 广布的；蔓延的；普遍的
 [网络] 普及的；广泛流传的"
 endemic,"n. 地方病
 a. 某地(或某些人中)流行的, 地方的"
-in-house,无
+in-house, 内部的; 室内的
 residential,"a. 住宅的, 与居住有关的
 [法] 有关居住的, 房产的:居所的, 适于居住的"
 phase,"期,阶段"
@@ -2910,7 +2911,7 @@ vt. 使垂直, 探测
 vi. 成垂直"
 spiny,"a. 多刺的, 尽是尖刺的, 尖刺状的, 麻烦的, 棘手的"
 stubby,"a. 又短又秃的(铅笔), 粗而短的(身材), 浓密短硬的(毛发)"
-wedge-shaped,无
+wedge-shaped,楔状
 rapidity,"n. 迅速, 急速, 速度"
 tempo,"n. 速度, 节奏, 进行速度, (棋的)一着"
 hasty,"a. 匆匆的, 轻率的, 性怠的"
@@ -4621,7 +4622,8 @@ eminent,"a. 显赫的, 杰出的, 有名的"
 exceptional,"a. 例外的, 异常的, 特别的"
 optimal,"a. 最佳的, 最理想的
 [化] 最优的"
-pre-eminent,无
+pre-eminent,"adj. 优秀的
+[网络] 卓越的；出类拔萃的"
 preponderant,"a. 占优势的, 多数的, 主要的, 突出的"
 prominent,"a. 卓越的, 显著的, 突出的, 凸出的"
 quintessential,"a. 精萃的, 精髓的, 典范的"
@@ -4851,7 +4853,7 @@ tangible,"n. 可触知的东西, 有形资产
 a. 可触摸的, 有实体的, 非相像的, 有形的, 明确的"
 visual,"a. 视觉的
 [医] 视觉的, 视力的, 视觉性记忆优势者"
-short-sighted,无
+short-sighted, [医]近视的
 spectator,"n. 观众, 目击者, 旁观者"
 interrogate,"vt. 质问, 讯问, 审问
 vi. 质问, 讯问"
@@ -4984,7 +4986,7 @@ vi. 掘洞穴, 躲藏
 vt. 掘, 打洞"
 cellular,"a. 细胞的
 [医] 细胞的"
-cure-all,无
+cure-all,n. 万灵药
 deluxe,"a. 优质的, 豪华的
 [经] 精装的, 高级的"
 despite,"n. 轻视, 憎恨
@@ -5278,11 +5280,11 @@ incubator,"n. 孵卵器, 细菌培养器, 早产儿保育器
 [化] 恒温箱; 孵化箱"
 internal rate of return,[经] 内部盈利率
 IRR,abbr. infrared rays 红外线; irregular 不规则的; infrared reflectance 红外反射; irredeemable （公债、纸币等）不能偿还的
-leveraged buy-out,无
+leveraged buy-out,[网络] 杠杆买断交易；借贷融资收购；杠杆收购
 LBO,n. leveraged buyout 杠杆并购; leveraged buyouts 融资买入; 融资合并; 三硼酸锂
-management buy-in,无
+management buy-in,买下管理权
 MBI,abbr. May Be Issued 可以发行[发布，发出]
-management buy-out,无
+management buy-out,[网络] 管理层收购；卖出管理收购；管理者收购
 MBO,"abbr. 买下管理权, 买下产权（management buyout）"
 private equity, 私募股权；私人股本
 term sheet,条款书

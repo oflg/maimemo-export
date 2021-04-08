@@ -73,7 +73,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airplane,n. 飞机
 airway,[机] 通风道
@@ -605,7 +606,7 @@ coastal,"a. 海岸的, 沿海的, 沿岸的
 [法] 海岸的, 沿海的"
 coat,"n. 外套
 vt. 外面覆盖, 给...穿外套"
-coca-cola,无
+coca-cola, 可口可乐
 cocaine,?-古柯硷
 cock,"n. 公鸡；龙头；雄鸟；头目
 vt. 使竖起；使耸立；使朝上
@@ -980,8 +981,8 @@ vt. 开车, 驱使, 推动, 驾驶
 vi. 开车, 猛击, 飞跑
 [计] 驱动器"
 driveway,车道
-driving-licence,无
-driving-license,无
+driving-licence,n. 驾驶执照
+driving-license, [法]驾驶执照
 drop,"n. 滴, 微量, 落下, 空投
 vi. 放下, 掉下, 下降
 vt. 使滴下, 放下, 丢失, 遗漏
@@ -1039,7 +1040,7 @@ eastern,"n. 东方人, 东正教徒
 a. 东方的, 向东的, 自东的"
 easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
 adv. 容易地, 慢慢地"
-easy-going,无
+easy-going, 从容不迫的
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
 ecological,"a. 生态学的, 主张生态保护的
@@ -1521,7 +1522,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guard,"n. 守卫者, 警戒, 护卫队, 防护装置
@@ -2348,7 +2349,7 @@ v. 主管；领导；朝（某方向）行进；位于排行之首
 adj. 头的；主要的
 [网络] 海德；磁头；扬程"
 headache,[网络] 头痛
-head-teacher,无
+head-teacher,n. 校长; 班主任
 healthcare, 卫生保健
 health,"n. 健康, 卫生, 蓬勃, 健康状态
 [医] 健康"
@@ -2392,7 +2393,7 @@ adv. 高；奢侈地
 n. (High)人名；(英)海伊"
 highly,"adv. 非常, 非常赞许地
 [电] 大大地"
-high-speed,无
+high-speed, 高速，高速的，高速度
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hill,"n. 小山, 丘陵, 小土堆
 vt. 作成土堆, 堆成小丘"
@@ -2481,7 +2482,8 @@ v. 伤害, (使)伤心, 危害, 刺痛"
 husband,[网络] 外子
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
 iceberg,冰山
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 idiom,"n. 习语, 成语, 惯用语法, 方言"
@@ -2688,7 +2690,7 @@ left,"a. 左边的, 左倾的, 左侧的, 左派的
 adv. 在左面
 n. 左, 左面, 左派
 leave的过去式和过去分词"
-left-handed,无
+left-handed,惯用左手的
 leftist,"n. 左翼的人, 左派
 a. 左派的"
 leg,"挑选,采集"
@@ -2737,7 +2739,7 @@ vt. 过着, 度过, 经历
 adv. 实况地"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 locate,"vt. 找出, 设于, 位于
 vi. 定居"
 lock,[网络] -锁
@@ -2799,7 +2801,7 @@ management,"n. 经营, 支配, 管理
 manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
 mankind,"n. 人类, 男性"
-man-made,无
+man-made,人造的
 manner,"n. 样子, 礼貌, 风格
 [法] 方式, 方法, 样式"
 mansion,"n. 大厦, 宅邸"
@@ -2951,7 +2953,7 @@ mood,"n. 心情, 气氛, 生气, 基调
 moon,"n. 月亮, 月球, 月光
 vi. 闲荡
 vt. 虚度"
-moon-cake,无
+moon-cake,月饼(中国食品)
 mop,"n. 拖把, 鬼脸
 vt. 用拖把洗擦, 擦, 拭
 vi. 做鬼脸
@@ -3033,7 +3035,7 @@ neighborhood,n. 附近；街坊；接近
 network,[机] 净功
 night,"n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作
 [法] 夜, 黑夜, 黑暗"
-night-club,无
+night-club,n. 夜总会
 ninth,"num. 第九, 九分之一"
 noble,"n. 贵族
 a. 高贵的, 高尚的, 贵族的, 辉煌的"
@@ -3620,7 +3622,7 @@ vi. 骑马, 乘车, 漂游"
 right,[网络] -对
 rightist,"n. 右派人士
 adj. 右派的；右翼的"
-right-wing,无
+right-wing,"右翼,保守派;右边锋"
 risk,"n. 冒险, 危险, 保险额
 vt. 冒...的危险, 冒险干"
 risky,a. 危险的
@@ -3835,7 +3837,7 @@ shortage,"n. 不足, 缺乏
 shortcoming,n. 缺点；短处
 shortly,"adv. 不久, 简短, 唐突地"
 shorts,[网络] 短的
-short-wave,无
+short-wave,[医] 短波
 should,"aux. 应该, 将要"
 shoulder,[网络] 大号
 shout,"n. 呼喊, 喊声
@@ -3953,7 +3955,7 @@ vt. 插进插座
 [计] 套接字"
 soft,[网络] -柔软的
 softball,容易处理的事情
-soft-drink,无
+soft-drink,n. 不含酒精的饮料
 soldier,"n. 军人；[昆] 兵蚁；懒汉；一片烤面包
 vi. 当兵；磨洋工；坚持干；假称害病"
 solid,"n. 固体
@@ -4223,7 +4225,8 @@ vt. 课以税, 使负重荷, 斥责"
 taxi,"n. 出租车
 vi. 乘出租车
 vt. 用出租车送"
-tax-free,无
+tax-free,"adj. 免税的；上过税的
+[网络] 退税；免税店；退税的免税购物标志"
 tea,"n. 茶叶；茶树；茶点
 vt. 给…沏茶
 vi. 喝茶；进茶点
@@ -4385,7 +4388,7 @@ vi. 驾驶卡车, 以物易物"
 true,"a. 真实的, 正确的, 忠诚的, 可靠的, 纯粹的, 正式的
 n. 真实, 准确
 adv. 真实地, 准确地"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 Tuesday,n. 星期二
 tuition,"n. 学费, 讲授"
 tunnel,"n. 隧道, 地下道
@@ -4591,9 +4594,9 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-being,无
-well-known,无
-well-off,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
+well-off,"富裕的, 处境好的"
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -4638,7 +4641,8 @@ vi. 吹口哨, 鸣汽笛, 发嘘嘘声
 vt. 用口哨或吹哨传意, 用口哨演奏"
 white,"n. 白色, 洁白, 眼白, 白种人, 蛋白
 a. 白色的, 纯洁的, 白种的, 苍白的, 空白的, 幸运的"
-white-collar,无
+white-collar,"adj. 白领
+[网络] 妙警贼探；猫鼠游戏；不是冤家不聚头"
 whoever,[网络] 略谈大连凤鸣街的原居民；爱谁谁；资源聚合爱谁谁
 whole,"n. 全部, 全体, 整体, 完全之体系
 a. 所有的, 完整的, 完全的, 纯粹的"
@@ -4729,7 +4733,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yearly,"a. 每年的, 一年一度的
 adv. 一年一次, 每年"
 yellow,"n. 黄色
@@ -10353,7 +10357,7 @@ selected,"a. 挑选出来的, 精选的
 [计] 被选的"
 selectivity,"n. 选择性, 选择度
 [化] 选择性"
-self-driven,无
+self-driven,自驱
 semantically,[计] 语义地
 seminal,"a. 精液的, 种子的, 生殖的
 [医] 种子的; 精液的"
@@ -10373,7 +10377,8 @@ sentiment,"n. 感情, 感伤, 情操, 情绪, 感想, 意见
 sentimental,"a. 感伤的, 感情用事的"
 setback,"na. 阻碍；延迟；〈非正式〉花费
 [网络] 推迟；推迟，延缓；使退步"
-shake-up,无
+shake-up,"na. 摇匀；摇动；抖匀(枕头等)；震动
+[网络] 重新改组；摇醒；使重组"
 shareholder,"[经] 股东, 股票持有人"
 shortfall,"亏空,缺少"
 shrewd,"a. 精明的, 锐利的, 剧烈的, 机灵的, 厉害的"
@@ -10399,7 +10404,7 @@ simulated,"a. 模仿的
 [计] 模拟的"
 simultaneous,"a. 同时的, 同时发生的
 [计] 同时的"
-single-minded,无
+single-minded, 精一
 singular,"n. 单数
 a. 异常的, 单一的"
 situate,"vt. 使位于, 使处于"
@@ -11415,7 +11420,8 @@ vi. 打起精神
 breach,"n. 裂口, 违背, 破坏, 违反, 突破, 破裂
 vt. 攻破, 突破
 vi. 跳出水面"
-break-even,无
+break-even,"并列起跑, 得失相当
+[经] 不赚不赔, 收支相抵"
 brew,"n. 酿造酒, 酝酿
 v. 酿造, 酝酿"
 brewery,"n. 啤酒厂, 酿酒厂
@@ -11898,7 +11904,8 @@ n. 多里安人"
 dour,，气味，迹象
 downsize,[计] 缩小尺寸
 downsizing,[网络] 缩编；企业规模；削减工资及人手
-down-time,无
+down-time,"[计] 故障时间, 停机时间
+[经] 停工时间, 停机时间, 准备时间"
 downtime,"[计] 故障时间, 停机时间
 [经] 停工时间, 停机时间, 准备时间"
 downturn,经济下降
@@ -12093,7 +12100,7 @@ vi. 支吾, 蹒跚地走
 n. 颤抖, 支吾, 踌躇"
 fantasize,"vt.vi. 想象, 出现幻想, 产生幻想, 使幻想化, 幻想"
 faraway, 遥远; 迢迢; 远离; 迥
-far-flung,无
+far-flung, 分布很广的（遥远的，漫长的，辽阔的）
 fascist,"n. 法西斯主义者, 法西斯党员"
 farsighted,"a. 有远见的, 远视的, 慎重的"
 fashionably,"adv. 时髦地, 按照流行地"
@@ -12231,7 +12238,8 @@ gestation,"n. 妊娠, 妊娠期, 孕育, 酝酿
 gilt,"n. 镀金, 眩目的外表, 小母猪
 a. 镀金的
 gild的过去式"
-gilt-edged,无
+gilt-edged,"a. 金边的, 最上等的
+[经] 金边的, 最上等的"
 gimmick,"n. 暗机关
 vt. 耍花招改变, 使暗机关"
 gingerly,"adv. 小心翼翼地, 慎重地
@@ -12331,7 +12339,7 @@ headhunter,"na. 割取敌人的头作战利品的人；物色人材的人
 heave,"n. 举, 抛, 起伏, 鼓起
 vt. 用力举起, 使举起, 使鼓起
 vi. 抛出, 起伏, 喘息, 凸起"
-heavy-handed,无
+heavy-handed, [体]强力控缰的
 hedge,"n. 树篱, 障碍, 套头交易
 vt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失
 vi. 筑树篱, 躲闪, 两面下注以防损失
@@ -12761,7 +12769,8 @@ Jean,"n. 牛仔裤, 牛仔布, 斜纹棉布"
 Jeff,"n. 杰夫（男子名, 等于Jeffrey）"
 Jeremiah,"n. 耶利米(<<圣经>>故事人物), <<耶利米书>>"
 Jeremy,n. 杰里米（男子名）
-jet-setter,无
+jet-setter,"na. 乘喷气飞机到处旅行的富人
+[网络] 名流人物；我飞来飞去；在所有场地进行比赛"
 Jewish,"a. 犹太人的, 犹太族的"
 jokey,"a. 好开玩笑的, 滑稽的"
 jokingly,"adv. 开玩笑地, 打趣地"
@@ -13179,7 +13188,7 @@ martyr,"n. 烈士, 受苦者, 受难者
 vt. 使成为烈士, 使受苦"
 massage,"n. 按摩, 揉
 vt. 按摩, 揉"
-mass-marketing,无
+mass-marketing,大规模销售
 mast,"n. 桅, 桅杆, 杆
 vt. 装桅杆于"
 masted,"comb.form 表示“…桅的”：a three-masted ship (三桅船),a tall-masted ship (高桅船)"
@@ -15264,7 +15273,8 @@ townspeople,"n. 镇民, 市民, 城里生长的人, 城镇居民"
 traceable,"a. 可追踪的, 可描绘的
 [经] 可追溯的, 可追踪的"
 tradable,"a. 可贸易的, 可买卖的"
-trade-off,无
+trade-off,"na. 卖出
+[网络] 权衡；取舍；交替使用"
 trailer,"n. 追踪者, 拖车
 [电] 拖车"
 tram,"n. 电车轨道；煤车
@@ -15598,7 +15608,8 @@ bring on,"na. “bring forward”的变体
 bring out,"na. 公布；说出；出版；上演
 [网络] 生产；阐明；说明"
 bring through,救活
-bring sb. to,使某人苏醒过来
+bring sb. to,"na. 使恢复知觉；【航】使停船
+[网络] 使复苏；使苏醒；加进"
 bring up,"na. 抚养；教导；教育；在…长大
 [网络] 培养；提出；养育"
 build into, 使成为…的一部分

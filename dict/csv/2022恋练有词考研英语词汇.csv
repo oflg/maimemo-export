@@ -76,7 +76,7 @@ vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
 n. 拿, 取, 收成, 奏效"
 mistake,[网络] 失误镜头
 government,[网络] 统治
-government-funded,无
+government-funded,[网络] 政府资助的；政府拨款的；政府出资
 govern,"v. 统治, 支配, 管理"
 governor,"n. (美)州长, (英)总督, 统治者, 管理者, 理事
 [医] 节制器, 调节器"
@@ -227,7 +227,8 @@ economic,"a. 经济上的, 实用的, 节省的
 [经] 经济的"
 uneconomic,"a. 不经济的, 浪费的
 [经] 不经济的, 不实用的"
-socio-economic,无
+socio-economic,"adj. 社会与经济的；社经的
+[网络] 社会经济；确实激励鼓舞了社会经济；其社会经济"
 economics,"n. 经济学
 [经] 经济学"
 economist,[网络] 经济学家
@@ -459,7 +460,7 @@ productivity,"n. 生产力
 [经] 生产率, 生产能力"
 reproduce,"vt. 复制；再生；生殖；使…在脑海中重现
 vi. 复制；繁殖"
-by-product,无
+by-product, 副产品，副产物
 effect,"n. 结果, 影响, 效果, 印象
 vt. 实行, 引起, 完成
 [计] 效果"
@@ -610,7 +611,7 @@ vt. 呼叫, 召集, 打电话
 vi. 叫喊, 访问, 叫牌
 [计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件"
 recall,[网络] 召回；汽车召回制度；招回
-so-called,无
+so-called,adj. 所谓的
 patent,"n. 专利权, 许可证, 执照, 专利品, 素质
 a. 专利的, 特许的, 显著的, 新奇的
 vt. 取得...的专利权, 请准专利"
@@ -690,7 +691,7 @@ adv. 下, 下去, 降下
 prep. 往下, 沿着
 n. 丘陵, 软毛, 开阔的高地
 [计] 向下, 退下命令"
-be down to sb.,[网络] 有某人负责
+be down to sb.,只剩下(少许钱财、货物等)
 downward,[网络] 向下；下行型
 skill,"n. 技术, 技巧, 技能, 熟练, 熟练工人
 [化] 技能"
@@ -1226,7 +1227,7 @@ unanimous,"a. 意见一致的, 无异议的"
 win,"vt. 赢得, 打胜, 成功
 vi. 获胜, 达到, 影响
 n. 胜利, 赢, 收益"
-win-win,无
+win-win, [电影]双赢
 champion,"n. 冠军, 拥护者, 战士
 vt. 保卫, 拥护
 a. 优胜的"
@@ -1882,21 +1883,21 @@ vt. 回答
 [计] 答复"
 return,[网络] 返回；归回
 in return,作为报答
-in return for sth.,无
+in return for sth.,作为…的回报
 turn,"n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折
 vt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通
 vi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手"
 in turn,"na. 挨次
 [网络] 依次；轮流；反过来"
 take turns,"轮流, 依次"
-take turns in sth.,无
+take turns in sth.,轮流做某事
 take turns to do sth.,无
 turn around,"na. 转身；〈美〉使向好的方向转变
 [网络] 回转；转过身；转过来"
 turn out to be,"结果是, 原来是, 证明是"
 turn the corner,"拐弯, 转危为安"
-turn to sb.,"转向, 翻到(某页), 变成, 求教于, 讨教于, 致力于, 着手, 开始工作, 积极行动"
-turn to sth.,"转向, 翻到(某页), 变成, 求教于, 讨教于, 致力于, 着手, 开始工作, 积极行动"
+turn to sb.,"转向, 变成, 求助于, 起劲地开始行动"
+turn to sth.,"转向, 变成, 求助于, 起劲地开始行动"
 turn over,"na. ￡ 500 a week 每星期卖得五百镑
 [网络] 移交；翻转；翻过来"
 turnover,"na. ￡ 500 a week 每星期卖得五百镑
@@ -2877,7 +2878,7 @@ manager,"n. 经理, 管理员, 管理器
 managerial,"a. 管理的
 [经] 管理上的, 经营上的"
 manageable,"a. 易办的, 易管理的, 易控制的"
-ill-managed,无
+ill-managed,[网络] 管理不利
 mass,"n. 块, 大多数, 质量, 大量, 群众, 弥撒
 a. 群众的, 大规模的, 整个的
 vt. 使集合, 集中
@@ -3493,7 +3494,7 @@ disrespect,"n. 不敬, 失礼, 无礼"
 respective,"a. 分别的, 各自的"
 esteem,"n. 尊敬, 尊重
 vt. 尊敬, 尊重, 认为"
-self-esteem,无
+self-esteem, 自尊
 save,"n. 救球
 vt. 解救, 挽救, 储蓄, 保存, 节省, 保留
 vi. 挽救, 节省, 救球
@@ -4092,7 +4093,8 @@ vi. 驾驶卡车, 协作"
 tease,"n. 揶揄, 戏弄, 逗惹
 vt. 戏弄, 取笑, 强求, 梳理, 使起毛"
 tear,[地名] 特阿河 ( 西 )
-tear sb. away,让某人离开
+tear sb. away,"na. 撕掉；扯开；飞跑
+[网络] 撕开；勉强离去；扯掉"
 wait,"n. 等待, 等候
 vt. 等候, 期待, 延缓, 伺候, 推迟
 vi. 等, 等候, 耽搁, 伺候用餐
@@ -4134,7 +4136,7 @@ commercial,"a. 商业的, 商用的, 商品化的
 n. 商业广告节目"
 commerce,"n. 商业, 商务, 贸易
 [经] 商业, 贸易, 商务"
-e-commerce,无
+e-commerce, [计]电子商务
 constitution,"n. 构成, 宪法, 体格
 [医] 体质; 结构, 组织"
 constitutional,"a. 宪法的, 立宪的, 体质的
@@ -4437,7 +4439,7 @@ v. 侮慢；冷落；轻视
 [网络] 微小的；少量的；细长的"
 slightly,"adv. 些微地, 苗条地"
 tight,comb.form 表示“不透的”，“不漏的”，“密封的”，“防…的”
-tight-lipped,无
+tight-lipped,"adj. 嘴唇紧闭的,沉默的"
 enlighten,"vt. 教育, 启发, 启蒙, 开导, 教导"
 invite,"vt. 邀请, 请求, 引起, 招致
 n. 邀请"
@@ -4876,7 +4878,8 @@ update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
 updated,"(up-date 的过去分词) vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 outdated,(out-date 的过去分词) 过期；出单日期
 discuss,"vt. 讨论, 论述
 [医] 讨论, 辩论"
@@ -5132,7 +5135,8 @@ fair,"n. 展览会, 市集, 美好的事物
 a. 公平的, 按规则进行的, 不好不坏的, 晴朗的, 美丽的
 adv. 公平地, 正面地, 有教养地, 清楚地
 vi. 转晴"
-fair-minded,无
+fair-minded,"adj. 公正的
+[网络] 公平的思想；一碗水端平的心态"
 fairly,"adv. 美观地, 公平地, 相当地, 清楚地"
 affair,"n. 事件, 事务, 恋爱事件"
 extend,"v. 扩充, 延伸, 伸展, 扩大
@@ -5627,7 +5631,7 @@ destruction,"n. 破坏, 毁灭
 [医] 破坏"
 destructive,"a. 毁灭性的, 破坏的, 有害的
 [医] 破坏的, 毁坏的"
-self-destructive,无
+self-destructive,自我打击
 demolition,"n. 破坏, 毁坏, 撤销
 [经] 拆毁(除,破坏)"
 crash,"n. 哗啦声, 猛撞, 崩溃, 粗布
@@ -6033,7 +6037,7 @@ a. 部分的
 adv. 局部地"
 parcel out,"na. 分派
 [网络] 分配；把……分成若干部分；分送"
-part and parcel of sth.,无
+part and parcel of sth.,"不可缺少的一部分,…的重要部分,…的组成部分"
 participant,"n. 参加者, 参与者
 a. 有份的, 参加的, 参与的"
 participate,"vi. 参加, 分享, 参与, 带有
@@ -6063,7 +6067,8 @@ an avalanche of,[网络] 大量；如雪片般的；似雪片般的
 weigh,"vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚
 vi. 称分量, 有意义, 重压, 起锚
 n. 过秤, 称分量"
-weigh sb. down,"使下垂, 压下"
+weigh sb. down,"na. 使负重担；压迫
+[网络] 压倒；使…负重担；沉重地压在心头"
 outweigh,vt. 比…重（在重量上）；比…重要；比…有价值
 weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
 vt. 加重量于, 压迫, 使加权, 称重量
@@ -6366,7 +6371,8 @@ vi. 投票
 a. 剪过毛的, 修过枝的
 [计] 轮询"
 pop,[网络] 相纸，打印纸
-mom-and-pop,无
+mom-and-pop,"adj. 夫妻（或家庭）经营的
+[网络] 夫妻店；老妈与老爹；爸爸妈妈型"
 pour,"n. 流出, 倾泻, 骤雨
 vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐
 vi. 倾泻, 蜂涌而来, 下大雨"
@@ -6493,7 +6499,7 @@ ray,"n. 射线；光线
 vt. 放射；显出
 vi. 放射光线；浮现
 n. (Ray)人名；(西、意、匈、印、尼日尔、瑞典、阿拉伯)拉伊；(英、法、柬、博)雷，蕾(女名)"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 magnify,"vt. 放大, 扩大, 赞美, 夸大
 vi. 有放大能力"
 magnificent,"a. 华丽的, 高尚的, 宏伟的"
@@ -7080,7 +7086,7 @@ beverage,"n. 饮料
 amiable,"a. 亲切的, 和蔼可亲的
 [法] 亲和的, 和蔼可亲的"
 beat,"从事于,做"
-beat sb. to the punch,"抢在某人之前行动,先下手为强"
+beat sb. to the punch,[网络] 先发制人；捷足先登；抢得先机
 bear,[网络] 蚕豆
 bearing,"n. [机] 轴承；关系；方位；举止
 v. 忍受（bear的ing形式）"
@@ -7973,7 +7979,7 @@ cunning,"a. 狡猾的, 巧妙的, 可爱的
 dust,"n. 灰尘, 尘埃, 粉末, 花粉, 土, 骚乱
 vt. 拂去灰尘, 撒, 弄成粉末
 vi. 拂去灰尘, 化为粉末"
-leave sb. in the dust,无
+leave sb. in the dust,[网络] 撇下某人或某物
 sake,"n. 目的, 缘故, 理由"
 fake,"n. 假货, 欺骗, 诡计
 a. 假的
@@ -8110,8 +8116,9 @@ deceive,"v. 欺骗, 行骗"
 deceit,"n. 欺骗, 谎言
 [经] 诈骗, 欺骗"
 deceptiveness,n. 虚伪；迷惑骗人
-self-deception,无
-self-deceptive,无
+self-deception,自我欺骗
+self-deceptive,"adj. 自欺的
+[网络] 自欺欺人"
 trick,"n. 诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍
 vt. 愚弄, 欺骗, 装饰
 vi. 哄骗, 戏弄

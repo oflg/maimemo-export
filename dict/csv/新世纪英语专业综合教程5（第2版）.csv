@@ -7,7 +7,7 @@ marigold,"n. 万寿菊, 金盏花
 spice,"n. 香料, 药料, 香气, 调味品, 情趣, 少许
 vt. 加香料, 使添趣味"
 bun,[计] CakeWalk 声音捆绑文件（一种MIDI程序）
-rock-cake,无
+rock-cake,n. 岩皮饼（一种表面粗硬的糕饼）
 bakery,n. 面包店
 mayonnaise,n. 蛋黄酱
 pickle,"n. 盐卤, 腌汁, 泡菜, 困境, 讨厌鬼
@@ -259,16 +259,17 @@ refractory,"a. 不听话的, 执拗的, 难治疗的, 耐火的
 dislodge,"vt. 逐出, 使移动, 驱逐
 vi. 离开原位"
 genially,"adv. 亲切地, 和蔼地, 友善地"
-do with sth.,无
-could do with sth.,[网络] 可以做sth
+do with sth.,"与...相处, 忍受, 对付"
+could do with sth.,"na. 需要
+[网络] 得"
 chuckle,"n. 咯咯的笑声, 轻笑
 vi. 咯咯的笑, 咕咕叫"
 amicably,adv. 友善地
 elm,"n. 榆树
 [计] unix操作系统的信件处理程序"
 radioactivity,n. 放射性；[核] 放射能力；[核] 放射现象
-single-minded,无
-made-up,无
+single-minded, 精一
+made-up,"捏造的,虚构的"
 exotic,"a. 异国的, 外来的
 n. 外来人, 外来物, 舶来品"
 encircle,"vt. 环绕, 围绕, 包围"
@@ -331,7 +332,7 @@ polonium,"n. 钋
 [化] 钋Po"
 onset,"adj. 开始
 [网络] 开集；设；起始温度"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 aplastic,[网络] 塑料
 pernicious,"a. 有害的, 致命的, 恶劣的, 险恶的
 [医] 恶性的"
@@ -679,7 +680,8 @@ desensitize,"vt. 使麻木不仁, 使不敏感
 [医] 脱敏[感], 失敏[感]"
 coil,"n. 线圈, 盘绕, 骚动, 卷
 vt. 盘绕, 卷"
-make-believe,无
+make-believe,"假装
+[法] 假装, 佯为借口, 托词"
 morph,"comb.form 表示“形态”,“结构”：isomorph, allomorph"
 bunny,n. 兔子
 serpent,"n. 巨蛇座, 蛇, 蛇形管, 狡猾的人"
@@ -728,14 +730,16 @@ vi. 用指轻弹, 抽打, 蹦跳
 n. 抛, 弹, 筋斗
 a. 无礼的
 [计] 翻转"
-give-and-take,无
+give-and-take,"平等交换, 互让, 交换意见"
 vulnerability,"n. 易受伤, 易受责难, 易受伤部位
 [医] 易损性"
-one-liner,无
+one-liner,"n. 简短
+[网络] 一棍；一句话；一语道破"
 zinger,n. 有力的反驳/警句
 caustic,"n. 腐蚀剂
 a. 腐蚀性的"
-put-down,无
+put-down,"na. 平定；贬低(的话)；(飞机的)降落
+[网络] 放下；镇压；记下"
 alliance,"n. 联盟, 联合
 [法] 同盟, 联盟, 联姻"
 flame,"n. 火焰, 火舌, 热情, 光辉
@@ -813,7 +817,7 @@ assert,"vt. 主张, 坚称, 断言
 [法] 宣称, 断言, 维护"
 lamely,"adv. 一瘸一拐地, 不完全地"
 enviously,adv. 羡慕地
-well-born,无
+well-born, 出身高贵的；出身名门的
 Athenian,"n. 雅典人
 a. 雅典的, 雅典人的"
 honorable,"a. 值得尊敬的, 荣耀的, 高贵的"
@@ -911,7 +915,7 @@ weave,"n. 编法, 织法, 编织式样
 vt. 编织, 组合, 编排, 使迂回前进
 vi. 纺织, 迂回行进"
 shun,interj. (口号)立正![attention的缩略语]
-oxford-cloth,无
+oxford-cloth," 牛津布（厚棉布, 主要做衬衫用）"
 mystify,"vt. 使神秘化, 使难解, 迷惑
 [计] 变幻线"
 ferocity,"n. 凶猛, 残忍, 狂暴的行为"
@@ -932,7 +936,7 @@ discomfiture,"n. 失败, 狼狈, 困窘, 挫败, 败北"
 conspicuous,"a. 显著的, 显眼的, 出众的"
 turtleneck,"un. 高圆套领
 [网络] 樽领；高领；高而紧的领口"
-bell-bottom,无
+bell-bottom,[网络] 喇叭裤脚；喇叭脚口；喇叭裤脚网络英语资源
 comfy,"a. 舒服的,轻松的"
 anonymity,"n. 匿名, 姓氏不明
 [计] 匿名信件"
@@ -1003,7 +1007,7 @@ member,"n. 成员；会员；分子；身体部位（尤指胳膊或腿）
 [网络] 会员中心；委员；构件"
 pertinacity,"n. 执拗, 顽固, 顽强, (疾病的)难治"
 bulldog, [医]哈巴狗
-battle-cry,无
+battle-cry,"呐喊, 战斗口号"
 dispatch,"vt. 派遣
 n. 派遣, 急件
 [计] 调度"
@@ -1037,7 +1041,8 @@ carbuncle,"n. 痈, 红玉, 红榴石
 ghastly,"a. 可怕的, 惨白的, 极坏的
 adv. 可怖地, 惨白地"
 trophy," [医]〔后缀〕食物, 营养"
-saddle-bow,无
+saddle-bow,"na. 鞍的前穹；鞍的后穹
+[网络] 前鞍桥"
 remnant,"n. 剩余, 零料, 遗迹
 a. 剩余的, 残余的"
 harrow,"n. 哈罗公学, 耙
@@ -1099,7 +1104,7 @@ fallout,"脱落, 离队, 争吵, 结果是
 [化] 落下; 脱落; 散落物; 核爆炸散落物; 沉降物; 落下灰"
 shrewd,"a. 精明的, 锐利的, 剧烈的, 机灵的, 厉害的"
 terminally,"adv. 在末端, 末尾, 每期"
-self-absorbed,无
+self-absorbed, 专顾自己的
 cashmere,"n. 开士米, 山羊绒
 [化] 山羊绒; 开斯米绒"
 whizzy,a. 采用最新技术的

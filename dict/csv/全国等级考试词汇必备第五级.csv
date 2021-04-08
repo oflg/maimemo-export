@@ -292,7 +292,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airmail,"航空邮政, 航空邮件
@@ -332,7 +333,7 @@ adj. 一切；全；整个；全体
 adv. 都；全部；全身；那么
 n. 一切；全部；全体
 [网络] 所有；所有的；全部的"
-all-around,无
+all-around,周围
 allege,"vt. 宣称, 主张, 提出, 断言
 [法] 断言, 指称, 指证"
 allergic,"a. 对...过敏的, 极反感的
@@ -1520,7 +1521,7 @@ brake,"n. 刹车, 阻碍, 丛林
 v. 刹车"
 branch,comb.form 【脊椎动物学】表示“具有…鳃的”：lamellibranch
 brand,[网络] 布兰多
-brand-new,无
+brand-new,"崭新的,全新的"
 brandy,"n. 白兰地酒
 [化] 白兰地"
 brass,"n. 黄铜, 黄铜制品
@@ -1666,7 +1667,7 @@ uterine brother
 n.
 brothers或 brethren"
 brotherhood,"n. 手足情谊, 兄弟关系"
-brother-in-law,无
+brother-in-law, 姐夫，妹夫
 brow,"n. 眉毛, 额
 [医] 额, 眉, 睫毛"
 brown,"n. 褐色
@@ -1721,8 +1722,9 @@ build,"v. 建立, 建筑
 n. 构造, 体格"
 building,"n. 建筑；建筑物
 v. 建筑；建立；增加（build的ing形式）"
-build-up,无
-built-in,无
+build-up,"树立, 增进, 增大, 堵塞
+[化] 提升力"
+built-in, 安装在里面的
 bulb,"n. 球茎, 电灯泡
 [医] 球, 鳞茎, 球茎"
 bulge,"n. 胀, 膨胀
@@ -1822,10 +1824,10 @@ vt. 使嗡嗡叫, 散布"
 buzzer,"n. 嗡嗡作声的东西, 蜂音器
 [化] 蜂鸣器; 磨轮; 砂轮"
 by,[网络] -通过
-bye-bye,无
+bye-bye,"睡觉,床铺,再见"
 bygone,[网络] 往事；过去的事情；逝去
 bypass, 旁路，绕道
-by-product,无
+by-product, 副产品，副产物
 cab,"n. 出租车；计程车；的士；（公共汽车、火车、卡车的）驾驶室
 abbr. 〈美(=Civil Aeronautics Board)民用航空局
 v. 作弊
@@ -3168,7 +3170,8 @@ vi. 收获
 cross,[网络] 罗斯；萝丝
 crossing,"n. 横越, 横渡, 交叉点, 渡口
 [经] 划线"
-cross-roads,无
+cross-roads,"n. 十字街头
+[网络] 十字路口；交叉路口；十字形交叉"
 crouch,"n. 蹲伏, 蜷缩
 vi. 蹲下, 蜷着, 缩着
 vt. 低头"
@@ -3338,7 +3341,7 @@ date,"n. 日期, 约会, 枣椰树
 vt. 约会, 定日期
 vi. 注明日期, 过时"
 daughter,[网络] 女儿
-daughter-in-law,无
+daughter-in-law,儿媳妇
 dawn,"n. 破晓, 黎明
 vi. 破晓"
 day,"n. 一天；时期；白昼
@@ -4246,7 +4249,7 @@ a. 向东方的
 adv. 向东"
 easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
 adv. 容易地, 慢慢地"
-easy-going,无
+easy-going, 从容不迫的
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
 eaves,pl. 屋檐
@@ -5051,7 +5054,7 @@ fatal,"a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的
 fate,"n. 命运, 运气
 vt. 注定"
 father,[网络] 父亲
-father-in-law,无
+father-in-law,"[法] 岳父, 继父"
 fatigue,"n. 疲乏, 疲劳
 vt. 使疲劳, 使心智衰弱
 vi. 疲劳
@@ -5231,7 +5234,8 @@ fir,"n. 枞树, 杉木
 fire,"n. 火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情
 vt. 点燃, 烧制, 使发光, 激动, 放枪, 解雇
 vi. 着火, 烧火, 开枪, 射击, 激动"
-fire-engine,无
+fire-engine,"消防车
+[法] 救火车, 消防车"
 fireman,"n. 消防队员；救火队员；锅炉工
 n. (Fireman)人名；(英)法尔曼"
 fireplace,壁炉
@@ -5596,7 +5600,7 @@ frustrate,"vt. 挫败, 击败, 破坏
 a. 无益的, 挫败的, 挫折的"
 fry,"n. 油炸食物, 鱼苗
 v. 油炸, 煎"
-frying-pan,无
+frying-pan,"煎锅, 长柄平底锅"
 fuel,"n. 燃料, 木炭
 vt. 加燃料, 供燃料
 vi. 得到燃料"
@@ -5788,7 +5792,7 @@ get,"vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
 vi. 到达, 成为, 变得
 n. (网球等)救球, 生殖, 幼兽
 [计] 取得指令, 获取文件"
-get-together,无
+get-together,"聚集, 收集, 积累"
 ghastly,"a. 可怕的, 惨白的, 极坏的
 adv. 可怖地, 惨白地"
 ghetto,n. 犹太人区
@@ -6041,7 +6045,7 @@ grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
 growl,"n. 吠声, 咆哮声
 v. 怒吠, 咆哮, 吼"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 grudge,"n. 怨恨, 恶意
@@ -7457,7 +7461,8 @@ hysterical,"a. 歇斯底里的, 异常兴奋的
 [医] 癔病的, 歇斯底里的"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
 iceberg,冰山
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 icon,"n. 画像, 肖像, 偶像, 图标, 像标
 [计] 像标, 图标"
 icy,"a. 冰的, 冰冷的, 冷淡的, 滑溜的"
@@ -8357,7 +8362,7 @@ v. 敲击, 互撞, 攻击"
 knot,"n. 结, 群, 难题
 v. 打结, (使)纠缠"
 know,"v. 知道, 了解, 认识, 确信"
-know-how,无
+know-how,[化] 专门技术; 窍门
 knowledge,[网络] 知识；英语知识；识记
 knuckle,"n. 指节, 蹄爪, 膝关节
 v. 以指节打, 以手指射"
@@ -8730,7 +8735,7 @@ lively,"a. 活泼的, 鲜明的, 生动的"
 liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
 livestock,"牲口,牲畜,家畜"
-living-room,无
+living-room,"客厅, 起居室"
 lizard,"n. 蜥蜴
 [医] 蜥蜴"
 load,"n. 负载，负荷；工作量；装载量
@@ -8978,7 +8983,7 @@ manifesto,"n. 宣言, 声明"
 manipulate,"vt. 操纵, 利用, 操作, 巧妙地处理, 假造"
 mankind,"n. 人类, 男性"
 manly,"a. 象男人的, 强壮的, 适于男人的"
-man-made,无
+man-made,人造的
 manner,"n. 样子, 礼貌, 风格
 [法] 方式, 方法, 样式"
 mansion,"n. 大厦, 宅邸"
@@ -9533,7 +9538,7 @@ mother,"n. 母亲；大娘；女修道院院长
 vt. 生下；养育；像母亲般关怀或照管
 adj. 母亲的；出生地的"
 motherhood,n. 母性；母亲身份；母亲们（总称）
-mother-in-law,无
+mother-in-law,"岳母,婆婆"
 motherland,n. 祖国；母国
 motion,"n. 移动, 手势, 动作, 意向, 请求, 提议
 v. 打手势"
@@ -9792,7 +9797,7 @@ newcomer,n. 新来的人，初来乍到的人; [体]新手
 news,"n. 新闻；消息；音信；新闻人物
 [网络] 新闻资讯；新闻中心；新闻动态"
 newspaper,报纸
-news-stand,无
+news-stand,n. 报摊；杂志摊
 next,"n. 下一个
 a. 下一个的, 其次的, 贴近的
 adv. 然后, 下次, 次于
@@ -9810,7 +9815,7 @@ nickname,n. 昵称
 niece,"n. 侄女, 甥女"
 night,"n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作
 [法] 夜, 黑夜, 黑暗"
-night-gown,无
+night-gown,睡袍
 nightingale,n. 夜莺
 nightmare,梦魇
 nil,[网络] -零-
@@ -10120,7 +10125,7 @@ opener,"n. 开...的人, 开局人, 开创人, 开具, 开启工具, 首项
 [经] 申请开证人"
 opening,"n. 开始, 口子, 穴, 揭幕
 a. 开始的"
-open-minded,无
+open-minded,虚心坦怀的
 opera,n. 歌剧
 operate,"v. 操作, 运转, 动手术, 活动"
 operation,"n. 操作, 动作, 手术, 运算, 作用, 业务
@@ -10458,7 +10463,7 @@ vt. 区分, 瓜分, 隔开, 分割
 [计] 分区; 划分"
 partly,"adv. 部分地, 在一定程度上"
 partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
-part-time,无
+part-time,n. 兼任，部分时间
 party,"n. 宴会, 党, 政党, 团体, 当事人, 聚会
 v. 举办聚会"
 pass,"n. 经过, 要隘, 途径, 通行, 护照, 及格
@@ -10469,7 +10474,7 @@ passage,"n. 一段（文章）；走廊；通路
 n. (Passage)人名；(英)帕西奇；(法)帕萨热"
 passenger,"n. 乘客, 旅客
 [经] 乘客, 旅客"
-passer-by,无
+passer-by,n. 过路人; 经过者
 passion,"n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)"
 passionate,"a. 热情的, 热烈的, 易怒的, 热恋的"
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
@@ -10783,7 +10788,7 @@ pine,"n. 松树, 松木
 vi. 消瘦, 憔悴, 痛苦, 怀念, 渴望
 [计] 邮件程序"
 pineapple,[网络] 凤梨；菠萝
-Ping-Pong,无
+Ping-Pong,苹婆
 pink,[网络] 光子晶体技术；光子墨水
 pint,"n. 品脱(干量或液量的单位)
 [医] 量磅, 品脱"
@@ -12652,7 +12657,8 @@ seclude,"vt. 使隔离, 使孤立, 隔开"
 seclusion,"n. 隔离, 隐退"
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 secondly,"adv. 第二, 其次"
 secret,"n. 秘密, 机密, 秘诀, 秘方
 a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
@@ -12702,12 +12708,15 @@ n. 被挑选者, 精萃
 selection,"n. 选择, 选文, 精选品
 [医] 选择, 淘汰"
 self,suff. 自己
-self-conscious,无
-self-control,无
+self-conscious,"adj. 自觉的；怕难为情的；害羞的
+[网络] 自我意识；自我意识过剩"
+self-control,"n. 克己；自制
+[网络] 自我控制；自制力；自身对照"
 selfish,"a. 自私的, 利己主义的, 自我中心的"
-self-reliance,无
-self-respect,无
-self-taught,无
+self-reliance,自力更生；依靠自已
+self-respect, [体]自尊
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
 sell,"vt. 卖, 背叛, 销售, 出卖
 vi. 卖, 销售
 n. 卖, 推销术, 失望"
@@ -12933,7 +12942,7 @@ vi. 射出, 射击, 发出, 拍电影, 射门, 发芽"
 shop,"n. 商店, 工厂, 车间
 vi. 购物, 到处寻找
 vt. 选购"
-shop-assistant,无
+shop-assistant,n. 店员
 shopkeeper,"[经] 零售商人, 店主, 业主"
 shore,"n. 海岸, 海滨, 斜撑柱
 vt. 把...送上岸, 支撑, 支持"
@@ -13113,7 +13122,7 @@ sit,"v. 坐；蹲；开庭；担任
 site,"n. 网站；站点；现场；位置
 v. 使坐落在；为…选址
 [网络] 场所；地点；场地"
-sitting-room,无
+sitting-room,起居室
 situate,"vt. 使位于, 使处于"
 situation,n. 情况；形势；处境；位置
 size,comb.form =-sized:life-size
@@ -13347,7 +13356,7 @@ sob,n. 呼吸短促; 畜生
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
@@ -13425,7 +13434,7 @@ somewhat,[网络] 一些什么；稍微；有点
 somewhere,[网络] 在某处；不知处
 son,[网络] -儿子
 song,"n. 歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌"
-son-in-law,无
+son-in-law, [电影]宝贝新官人
 sonnet,n. 十四行诗
 soon,[网络] 如些这般；就上吧；叫阵
 soothe,"vt. 缓和, 使安静, 安慰, 奉承
@@ -15170,7 +15179,7 @@ truthful,"a. 说真话的, 诚实的, 真实的, 如实的
 try,"n. 尝试, 试验, 审理, 审判
 vt. 试, 尝试, 试验, 考验, 审问, 提炼
 vi. 尝试, 试图"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 tub,"n. 桶, 浴盆
 vt. 装入桶, 洗澡
 vi. 洗盆浴, 被放在桶里洗"
@@ -15408,10 +15417,11 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 uproar,"n. 骚动, 喧嚣"
 upset,上端局设备
 upside,[网络] 迎风面；上升段
-upside-down,无
+upside-down,[网络] 机腹朝上；颠倒；上的姿势
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -15891,7 +15901,7 @@ vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -16139,7 +16149,9 @@ worthwhile,"na. 有…的价值；有利益的
 [网络] 值得；值得的；值得去做"
 worthy,"suf. [构成形容词]表示：“值得…的”,“该…的”：praiseworthy,“适于…的”,“易于…的”：roadworthy"
 would,"aux. 将, 愿意"
-would-be,无
+would-be,"adj. 冒充的；想…的
+n. 想要成为某种人物的人
+[网络] 过去将来时；表示肯定是；会是"
 wound,"n. 创伤, 伤口, 伤疤, 伤害, 痛苦
 vt. 伤害, 损害, 使受伤
 vi. 打伤, 伤害
@@ -16180,7 +16192,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yacht,"n. 快艇, 游艇
 vi. 驾游艇, 乘游艇"
 yard,"n. 码, 庭院, 工场
@@ -16283,10 +16295,11 @@ nineteen,"num. 十九, 十九个"
 twenty,"n. 二十几；二十年代
 num. 二十
 [网络] 二十个；廿；第二十"
-twenty-one,无
-twenty-two,无
-twenty-three,无
-twenty-five,无
+twenty-one,[网络] 二十一；二十一到三十的英文；二十一号
+twenty-two,[网络] 二十二；二十二号
+twenty-three, 二十三
+twenty-five,"na. 【曲,橄】距(球门)25码界线(以内)
+[网络] 二十五；廿五；麦角酰二乙胺"
 thirty,"num. 三十, 三十个"
 forty,"num. 四十, 四十个"
 fifty,"num. 五十
@@ -16310,7 +16323,7 @@ two hundred thirty-two,无
 two hundred and thirty-two,无
 one thousand, [医]一千
 nine thousand nine hundred ninety-nine,无
-nine thousand nine hundred and ninety-nine,无
+nine thousand nine hundred and ninety-nine,[网络] 九千九百九十九；九九九九
 first,"adv. 第一；首先；优先；宁愿
 n. 第一；开始；冠军
 adj. 第一的；基本的；最早的
@@ -16342,10 +16355,10 @@ eighteenth,"adj. 第十八的，第十八个的；十八分之一的
 num. 第十八；十八分之一"
 nineteenth,"num. 第十九, 十九分之一"
 twentieth,"num. 第二十, 二十分之一"
-twenty-first,无
-twenty-second,无
-twenty-third,无
-twenty-fifth,无
+twenty-first, 第二十一
+twenty-second,[网络] 第二十二；第二十二章
+twenty-third, 第二十三
+twenty-fifth,第二十五
 thirtieth,"num. 第三十, 三十分之一"
 fortieth,"num. 第四十, 四十分之一"
 fiftieth,"num. 第五十, 五十分之一"

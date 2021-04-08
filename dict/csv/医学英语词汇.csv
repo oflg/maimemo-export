@@ -171,7 +171,7 @@ achylia,胃液缺乏
 acid,酸
 acidemia,"n. 酸血症
 [医] 酸血[症]"
-acid-fast,无
+acid-fast,[医] 耐酸的
 acidic,"a. 成酸的, 尖刻的, 酸性的
 [机] 酸性"
 acidification,"n. 使发酸, 酸化, 成酸性
@@ -628,9 +628,9 @@ alopecia,"n. 脱发
 [医] 脱发, 秃[发]"
 alpha,"n. 希腊字母表的第一个字母, 最初, 开端
 [医] α(希腊文的第一个字母), 甲种"
-alpha-fetoprotein,无
+alpha-fetoprotein, [医](AFP)甲胎蛋白，α胎儿蛋白
 alphainterferon, [医]α干扰素
-alpha-methyldopa,无
+alpha-methyldopa,[网络] a-甲基多巴
 alpinetin,山姜素
 alter,v. 改变
 alterable,"a. 可变的, 可改的"
@@ -976,7 +976,7 @@ antihistamine,抗组织氨
 antihistaminic,"[化] 抗组织胺药
 [医] 抗组胺的, 抗组胺剂"
 antihypertensive,抗高血压
-anti-idiotype,无
+anti-idiotype,n. 把另一种抗体视为抗原并抑制其免疫反应性的抗体
 Antiidiotypic,adj. anti-idiotype的变形
 antiinflammatory,"un. 抗炎的；消炎药；消炎的
 [网络] 抗发炎；消炎镇痛类产品；消炎效果"
@@ -1955,7 +1955,7 @@ boutonniere,[医] 钮孔状切开术(尿道)
 bovine,a. 牛的；似牛的；迟钝的
 bowel,"n. 肠, 内脏, 内部
 vt. 挖...的内脏"
-bow-legs,无
+bow-legs, 弓形腿；罗圈腿
 brace,"n. 支柱, 曲柄, 支撑, 一对
 vt. 紧缚, 支撑, 激励
 vi. 打起精神
@@ -1979,7 +1979,8 @@ breakdown,"v. 分解；抛锚；分析；划分
 [网络] 损坏；出故障；瓦解"
 breakthrough,"突围, 突破
 [计] 断缺"
-breast-fed,无
+breast-fed,"un. 人乳哺育的
+[网络] 吃母奶的；喂食母乳；吃人奶长大的"
 breathe,"vi. 呼吸, 生存, 低语
 vt. 呼吸, 使喘息, 发散, 低声说"
 breathing,"n. 呼吸, 瞬间, 微风
@@ -1995,7 +1996,7 @@ bridging,"n. 造桥
 [电] 桥接"
 brittle,"a. 易碎的, 脆弱的, 易坏的
 [机] 脆的, 脆性的, 易碎的"
-broad-spectrum,无
+broad-spectrum,[医] 广谱
 bromate,"vt. 使溴化
 n. 溴酸盐"
 bromocriptine,"n. [药]溴麦角环肽,溴麦角隐亭"
@@ -2086,7 +2087,7 @@ butazone,泰宗
 buttock,"n. 半边臀部, 屁股, 船尾突出部
 vt. 过背摔"
 bypass, 旁路，绕道
-by-product,无
+by-product, 副产品，副产物
 byssinosis,n. 绵纤维吸入性肺炎
 cable,"n. 电缆, 海底电报, 缆, 索
 vi. 打海底电报
@@ -2520,7 +2521,7 @@ chew,"vt. 咀嚼, 嚼碎
 vi. 咀嚼, 细想
 n. 咀嚼, 咀嚼物"
 chiasma,交叉
-chicken-pox,无
+chicken-pox,水痘
 childbearing,"生孩子,分娩"
 chill,"n. 寒冷, 寒意, 失意
 a. 寒冷的, 冷漠的
@@ -2620,7 +2621,7 @@ choreiform,a. [医]舞蹈病样的
 choreoathetoid,[医] 舞蹈病手足徐动症样的
 chorioamnionitis,绒毛膜羊膜炎
 choriocarcinoma,绒毛膜瘤
-chorio-epithelioma,无
+chorio-epithelioma,"[医] 绒[毛]膜上皮癌, 绒[毛]膜瘤"
 chorion,"n. 绒毛膜, 浆膜, 卵壳
 [医] 绒[毛]膜"
 chorionic,[医] 绒[毛]膜的
@@ -2702,7 +2703,7 @@ circumstance,"n. 环境, 状况, 事件"
 cirrhosis,"n. 肝硬化
 [医] 硬变; 肝硬变"
 cisplatin,"顺二氯二氨铂,顺铂"
-cis-platinum,无
+cis-platinum," [医][=cis-diamminedichloroplatinum]Ⅱ顺氯氨铂, 顺氯氨铂, 顺铂"
 cisterna,池；槽；腔
 cistron,"n. 顺反子, 作用子
 [化] 顺反子"
@@ -2779,7 +2780,8 @@ clonorchiasis,支睾吸虫病
 clonotypic,adj. 克隆型的
 clonus,"n. 阵挛
 [医] 阵挛"
-closed-circuit,无
+closed-circuit,"[计] 闭合线路
+[化] 闭路"
 clostridial,"a. [生]梭菌的, 梭菌属的"
 clostridium,[医] 梭状芽胞杆菌
 clot,"n. 凝块, 一团
@@ -2827,8 +2829,8 @@ cobalamin,"n. 钴胺素, 维生素B12
 cobalt,"n. 钴, 钴类颜料
 [化] 钴Co"
 cocaine,?-古柯硷
-co-carcinogen,无
-co-carcinogenesis,无
+co-carcinogen,[医] 辅致癌物质
+co-carcinogenesis,"协癌过程,合致癌作用"
 coccobacillus,[生]球杆菌
 coccus, 表示球菌[用于各种细菌名称]
 coccyx,"n. 尾骨
@@ -3454,7 +3456,7 @@ cosmetic,"n. 化妆品
 a. 化妆用的"
 cosmopolitan,"a. 世界主义的, 世界性的, 全世界的, 遍生的, 不偏狭的, 卓有见识的
 n. 世界主义者, 世界性"
-co-stimulation,无
+co-stimulation,[网络] 共刺激；共同信号
 costimulator,"n. 协同刺激因子
 [网络] 共刺激分子；共剌激因子；协同刺激分子"
 costotransversectomy,[医] 肋骨椎骨横突切除术
@@ -3560,11 +3562,11 @@ cromoglycate,"n. 色甘酸盐
 cromolyn,[化] 色甘酸
 crospovidone,[网络] 交联聚维酮；交聚维酮；交联聚乙烯吡咯烷酮
 cross,[网络] 罗斯；萝丝
-crossing-over,无
-cross-linkage,无
-cross-match,无
+crossing-over, 互换
+cross-linkage,"[建] 交键, 交联"
+cross-match, [医]交叉配（血）
 cross-presentation,无
-cross-reaction,无
+cross-reaction,[医] 交叉反应
 crossreactivity, [医]交叉反应性
 croton,n. 巴豆
 crotonaldehyde,"[化] 巴豆醛
@@ -4353,7 +4355,7 @@ discrimination,"n. 差别, 岐视, 辨别力
 [化] 鉴别"
 discriminator,"n. 辨别者, 鉴别器
 [电] 鉴别器"
-disease-free,无
+disease-free, 无病的
 disequilibrium,n. 不均衡；不安定；失调
 disfiguration,"n. 毁容,缺陷,畸形"
 disfigure,"vt. 毁损...的外形, 玷污, 损害, 毁损...的容貌
@@ -4517,7 +4519,7 @@ dizziness,"n. 头昏眼花
 dizzy,"a. 晕眩的, 眼花缭乱的
 vt. 使晕眩"
 DNA,[网络] 神射之殇
-DNA-adduct,无
+DNA-adduct,dna加合物
 doctor,"n. 医生；博士
 vt. 修理；窜改，伪造；为…治病；授以博士学位
 vi. 就医；行医"
@@ -4556,7 +4558,7 @@ dose,"n. 剂量, 服用量
 vt. 给药, (用药)医治
 vi. 服药"
 dot,[计] Microsoft Word文档模板
-double-blind,无
+double-blind, 双盲
 doublet,四环素[四环素类抗生素]
 download,"[计] 下装, 卸载"
 downstream,"[计] 下游
@@ -4607,8 +4609,8 @@ drowsy,"a. 昏昏欲睡的
 drug,"n. 药, 麻药, 麻醉药
 vi. 吸毒
 vt. 使服麻醉药, 使麻木"
-drug-induced,无
-drug-resistant,无
+drug-induced, [医]药物造成的
+drug-resistant, [医]抗药，耐药的
 drunkenness,"[医] 醉酒, 酒醉"
 dual,"a. 双重的, 双的
 n. 双数"
@@ -4704,7 +4706,7 @@ dystrophy,"n. 营养障碍, 营养不良
 dysuria,"n. 排尿困难
 [医] 排尿困难"
 earache,耳痛
-ear-drum,无
+ear-drum,[医] 鼓室(俗也作为鼓膜)
 eccentric,"n. 怪人, 偏心圆
 a. 古怪的, 反常的, 不同圆心的"
 ecchymosis,"n. 瘀斑
@@ -4725,7 +4727,7 @@ ecological,"a. 生态学的, 主张生态保护的
 [法] 生态的, 生态学的"
 ecology,"n. 生态学, 社会生态学
 [化] 生态学"
-e-commerce,无
+e-commerce, [计]电子商务
 econazole,[化] 益康唑; 氯苯甲氧咪唑
 economics,"n. 经济学
 [经] 经济学"
@@ -5023,7 +5025,7 @@ endow,"vt. 捐赠, 捐助, 赋予
 [法] 赠送财产给, 分给寡妇一份遗产, 授与"
 endpoint,"终点
 [化] 终点"
-end-stage,无
+end-stage, [医]末期
 endurance,"n. 忍耐, 忍耐力, 耐性
 [机] 持九性"
 endure,"vt. 忍受, 忍耐, 容忍, 耐
@@ -5061,7 +5063,7 @@ enteral,"[医] 肠内的, 肠的"
 enterectomy,n. [医]肠切除术
 enteric,"a. 肠的
 [医] 肠的"
-enteric-coated,无
+enteric-coated,[医] 包有肠溶衣的
 enteritis,"n. 肠炎
 [医] 肠炎"
 Enterobacteriaceae,[医] 肠杆菌科
@@ -5506,7 +5508,7 @@ external,"n. 外部, 外面
 a. 外部的, 客观的, 表面的"
 extirpate,"vt. 连根拔起, 消灭, 根除, 毁灭"
 extra-abdominal,无
-extra-articular,无
+extra-articular,[医] 关节外的
 extracardiac,心外的
 extracardial,[医] 心外的
 extracellular,"un. 胞外的
@@ -5780,8 +5782,8 @@ vi. 变稳固, 变坚实
 adv. 稳固地"
 firmicutes,[网络] 厚壁菌门；壁厚菌门；厚壁细菌门
 firmness,"n. 坚固, 坚牢, 坚定"
-first-pass,无
-fish-flesh,无
+first-pass,[计] 第一遍
+fish-flesh,鱼肉
 fission,"n. 裂开, 分裂, 分体
 [化] 裂变"
 fissure,分裂术
@@ -5911,7 +5913,8 @@ vi. 跟随；接着
 n. 跟随；追随"
 following,"n. 下列各项, 部下, 追随者
 a. 下列的, 其次的"
-follow-up,无
+follow-up,"v. 把…探究到底；回答
+[网络] 跟进；追踪；跟踪"
 fontanelle,n. 囟门
 food,"n. 食物, 养料
 [医] 食物, 食品"
@@ -6012,7 +6015,8 @@ fugax,"[医] 一时的, 暂时的"
 fulfill,"vt. 实践, 履行, 实行, 完成, 结束, 满足
 [法] 履行, 完成, 达到"
 fullerene,n. 富勒烯，富勒分子(碳原子簇，为20世纪80年代中期的重要发现)[亦作fullerene]
-full-term,无
+full-term,"妊娠期满
+足月"
 fulminant,"a. 突然闪亮的, 轰响的, 爆炸的
 [医] 暴发的"
 fulminating,"a. 爆炸发光的, 暴发性的, 疾病暴发性的, 呵斥的, 起爆的"
@@ -6256,7 +6260,7 @@ glutaraldehyde,n. [化]戊二醛
 glutaric acidemia,无
 glutaric aciduria,无
 glutathione,谷胱甘肽
-glutathione-S-transferase,无
+glutathione-S-transferase,谷胱苷肽S-转移酶
 gluteal,[医] 臀的
 glycan,"n. [生化]多糖,聚糖,多聚糖"
 glycation, [医]糖化，加糖（作用）
@@ -6311,12 +6315,12 @@ gradation,"n. 逐渐变化, 分等级, 阶级, 顺序
 [电] 阶度"
 gradient,"n. 倾斜度, 梯度, 坡度, 斜率
 a. 渐升的, 渐降的, 步行的"
-gradient-echo,无
+gradient-echo,[网络] 梯度回波；梯度回讯
 grading,"[经] 分级, 归类"
 graft,"n. 嫁接, 贪污
 v. 嫁接, 移植, 贪污"
-gram-negative,无
-gram-positive,无
+gram-negative,革兰氏(染色)阴性
+gram-positive,革兰氏(染色)阳性
 grant,"n. 授予, 授予物, 允许
 vt. 允许, 承认, 授与
 [计] 授权命令"
@@ -6378,7 +6382,7 @@ guidance,"n. 指导, 领导
 [医] 导"
 guideline,"[计] 准则
 [医] 导线, 观测线"
-guinea-pig,无
+guinea-pig,天竺鼠
 gum,"n. 树胶, 橡皮, 橡皮糖, 牙床, 老天
 vt. 涂以树胶, 用胶粘, 使有粘性
 vi. 分泌树胶, 发粘"
@@ -6401,7 +6405,7 @@ habitually,"adv. 习惯(性), 惯常, 习以为常, 出于习惯, 已成规则"
 haem,n. [生化]血红素
 haemorrhoid,n. [常作～s][医]痔
 haemostasis,n. (=hemostasis)[医]止血法
-half-life,无
+half-life,"[医] 半衰期(放射性物质), 半存留期(化学性物质)"
 hallmark,伦敦金业公会证明金银纯度的检验印记
 hallucination,"n. 幻觉, 幻想
 [医] 幻觉"
@@ -6641,7 +6645,7 @@ heroin,"n. 海洛因, 吗啡
 [化] 海洛因; 二醋吗啡; 二乙酰吗啡"
 herpes,"n. 疱疹
 [医] 疱疹"
-herpes-zoster,无
+herpes-zoster,[医] 带状疱疹
 hesitation,"n. 犹豫, 踌躇, 含糊, 口吃, 暂停
 [计] 暂停"
 hesperetin,"[化] 桔皮素; (旧称)橙皮素; 5,7,3'-三羟基-4'-甲氧基黄烷酮
@@ -6843,7 +6847,7 @@ hydrotropy,水溶助长性
 hydroxide,"n. 氢氧化物
 [化] 氢氧化物"
 hydroxybenzene,"n. [化]酚, 羟基苯"
-hydroxyeicosatetraenoic-acid,无
+hydroxyeicosatetraenoic-acid,[网络] 羟基二十碳四烯酸
 hydroxylase,n. [生化]羟化酶
 hydroxypiperaquine,羟基哌喹
 hydroxypropylstarch,羟丙淀粉
@@ -7068,7 +7072,7 @@ ileus,"n. 肠梗阻
 [医] 肠梗阻"
 iliac,"a. 髂骨的, 回肠的
 [医] 髂的, 髂骨的"
-ill-defined,无
+ill-defined,"a. 不清楚的, 欠明了的"
 illegal,"a. 违法的, 不合规定的
 [经] 非法的, 犯规的"
 illegible,"a. 难辨认的, 字迹模糊的"
@@ -8088,7 +8092,7 @@ a. 少年的, 不成熟的, 适于少年的"
 juxtacortical,"adj. 近皮质的
 [网络] 近密质骨；近皮质型"
 juxtaglomerular,a. [生理]近肾小球的
-kala-azar,无
+kala-azar, 黑热病
 kalium,"n. 钾
 [医] 钾(19号元素)"
 kaliuresis,尿钾排洩
@@ -8358,12 +8362,13 @@ vt. 给...盖盖子"
 lidocaine,"[化] 利多卡因
 [医] 利多卡因, 塞罗卡因"
 lie,[网络] 长岛迷情；少男初体验；中间
-life-expectancy,无
+life-expectancy,"[计] 估计寿命, 预期使用寿命
+[化] 耐用期限"
 lifeless,"a. 无生命的, 无趣味的, 死气沉沉的"
 lifelong,"adj. 终身的
 [网络] 终身险；终身服用；是长寿"
 lifespan,[化] 使用期限; 有效期限
-life-threatening,无
+life-threatening,a. 威胁生命的
 lifetime, 使用期限，寿命
 ligament,"n. 结带, 纽带, 韧带
 [医] 韧带"
@@ -8415,7 +8420,7 @@ lipid,"n. 脂类, 类脂物, 脂质
 lipid-insoluble,无
 lipidome,[网络] 脂质组
 lipidosis,脂沉积(症)
-lipid-soluble,无
+lipid-soluble,[可]脂溶的
 lipoblast,[医] 成脂细胞
 lipocyte,"n. [解]脂肪细胞, 肥粒血球"
 lipodystrophy,"(=lipodystrophia)脂肪代谢障碍, 脂肪营养不良"
@@ -8487,7 +8492,7 @@ longevity,"n. 长命, 长寿, 寿命
 [医] 长寿"
 longitudinal,"a. 经度的, 经线的, 纵的
 [医] 纵的"
-long-term,无
+long-term, 长期的
 loop,"n. 环, 圈, 弯曲部分, 循环
 vt. 使成环, 以圈结, 以环连结
 vi. 打环, 翻筋斗
@@ -8871,7 +8876,7 @@ menstruation,"n. 月经, 月经期间
 mental,"suf. 表示""行为的"""
 mentally,"adv. 心理上, 精神上, 智力上
 [法] 精神上, 智力上"
-mental-status,无
+mental-status,精神状态
 meperidine,"n. <主美>[药]盐酸麦佩里定,哌替啶,度冷丁(镇痛药)(亦作 meperidine hydrochloride)"
 mephenytoin,[化] 美芬妥因; 3-甲基苯乙妥因
 meprobamate,"n. [药]安宁,眠尔通, 氨甲丙二酯(安定药)"
@@ -8910,7 +8915,7 @@ vi. 通报, 报告, 报信
 [计] 报文; 消息; 信息"
 messenger,"n. 报信者, 使者
 [经] 使者, 送信者, 通信员"
-meta-analysis,无
+meta-analysis,"后设分析；统合分析, 后设分析；综覈分析, 综合分析"
 metabolic,"a. 变化的, 变形的, 新陈代谢的
 [医] [新陈]代谢的"
 metabolically, 代谢的（metabolic的副词形式）
@@ -9715,15 +9720,16 @@ nondifferential,[网络] 无差异的
 nondiscrimination, 非歧视；非歧视原则
 nondisjunction, 不分开，或非
 nonfatal,[网络] 非致命；非致命性；非致命错误
-non-genetic,无
-non-genotoxic,无
+non-genetic, 非遗传
+non-genotoxic,[网络] 致癌剂可能有非基因毒
 nonhereditary,非遗传的
 nonhomogeneous, 不均匀，非同质
 noninfectious,[网络] 非传染性疾病；非感染性；非感染组
 noninvasive,"un. 非侵害的
 [网络] 无创美容中心；非侵犯性；采用无副作用疗法"
 nonionized,[网络] 电离的离子化的；非电离的；非离子性
-non-ionizing,无
+non-ionizing,"un. 不电离的
+[网络] 非游离"
 nonoperative,非手术的
 nonparalytic,[医]非麻痹的，非瘫痪的
 nonparenchymal,[网络] 非实质的
@@ -9738,7 +9744,7 @@ nonsense,"n. 胡说；废话
 a. 荒谬的
 int. 胡说！"
 nonsterile,[网络] 为不经过消毒
-non-suppurative,无
+non-suppurative,[医] 非化脓性的
 nonsurgical,非外科的
 nonsynonymous,[网络] 非同义
 nontoxic,无毒
@@ -9777,7 +9783,7 @@ noxious,"a. 有害的, 有毒的, 使道德败坏的
 [医] 有害的, 有毒的"
 nuclear,"a. 核子的, 原子能的, 核的, 中心的
 [医] 核的"
-nuclear-powered,无
+nuclear-powered,能的，原子能的；核动力的，核动力装置的
 nucleate,"v. (使)成核
 a. 有核的"
 nucleic,a. 核的
@@ -10320,7 +10326,7 @@ papilloma,[医] 乳头[状]瘤
 papillomatosis,多发性乳头(形)瘤病
 papule,"丘疹, 小突起
 [医] 丘疹"
-para-aminosalicylic,无
+para-aminosalicylic,对-氨水杨酸
 para-articular,无
 paracentesis,[网络] 腹腔穿刺
 paracetamol,对乙酰氨基酚
@@ -10471,7 +10477,7 @@ pathology,"n. 病理学, 病理, 病状, 病变
 pathomechanism," [医]病理机理, 病理（学）机制"
 pathophysiologic,病理生理的
 pathway,[计] 通道
-patient-centered,无
+patient-centered,[网络] 以病人为中心；以病患为中心；以病人为中心的
 pauciarthritis,少关节炎
 peak,"n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌
 a. 最高的, 最大值的
@@ -10741,7 +10747,7 @@ pharyngitis,"n. 咽炎
 pharynx,"n. 咽
 [医] 咽"
 phase,"期,阶段"
-phase-contrast,无
+phase-contrast,[化] 相衬; 相位衬
 phellodendrine,黄柏碱
 phenacetin,"n. [医] 乙酰对氨苯乙醚, 非那西汀(解热镇痛剂的一种)"
 phenformin,"n. [药]苯乙双胍,降糖灵(一种降血糖药)"
@@ -10783,7 +10789,8 @@ phosphatase,"n. 磷酸酶
 [化] 磷酸酶; 磷酸酯酶"
 phosphate,"n. 磷酸盐；磷酸酯
 [网络] 皮膜化成；磷酸根；磷肥"
-phosphatidic-acid,无
+phosphatidic-acid,"[化] 磷脂酸
+[医] 磷脂酸"
 phosphatidylcholine,[医] 磷脂酰胆硷
 phosphatidylinositol,[医] 磷脂酰肌醇
 phosphokinase,n. [生化]磷酸激酶
@@ -11120,13 +11127,14 @@ postmortem,"[计] 算后检查, 事后剖析
 postoperative,"un. 发生于外科手术之后
 [网络] 术后的"
 postpartum,[医] 产后
-post-pericardiotomy,无
+post-pericardiotomy,[网络] 心包切开术
 postpone,"vt. 延迟, 使延期, 缓办, 搁延
 vi. 延缓, 延缓发作"
 postponement,"n. 延迟, 延期
 [法] 延期, 延迟"
 postprandial,adj. 饭后的；餐后的
-post-traumatic,无
+post-traumatic,"un. 外伤后的
+[网络] 创伤后"
 postulate,"n. 假定, 基本条件
 vt. 要求, 假定"
 postural,"a. 姿势的, 位置的
@@ -11776,7 +11784,7 @@ quest,[网络] 寻求
 questionnaire,调查表
 quickening,"n. 胎动初期
 a. 加快的, 活跃的"
-quick-frozen,无
+quick-frozen,冻的
 quiescent,"a. 静止的, 不活动的, 寂静的
 [医] 静息的, 静止的"
 quinidine,"n. 奎尼丁
@@ -11899,7 +11907,7 @@ realgar,"n. 雄黄
 [化] 雄黄"
 realm,"n. 王国, 领土, 领域
 [计] 领域"
-real-world,无
+real-world, 真实世界
 reanimate,vt. 鼓舞；使复活；使恢复生气
 rearrangement,"重排列, 重新安排"
 reasonable,adj. 合理的，公道的；通情达理的
@@ -12136,7 +12144,7 @@ renography,"[医]肾X线照相术, 肾造影照片"
 renovascular,a. [解][医]肾血管(性)的
 rent,n. [口语]爸；妈
 reoperation, 再手术
-re-orientation,无
+re-orientation, [医]重新定向
 reovirus,"n. [微]呼肠孤病毒, 呼吸道肠道病毒"
 reperfusion, [医]再灌注
 repertoire,"n. 全部剧目, 全部技能, 全部节目, 全部作品"
@@ -12448,7 +12456,7 @@ vt. 使粗糙, 使不平, 使蓬乱, 粗制, 草拟, 粗暴对待, 对...动粗
 vi. 变粗糙
 adv. 粗糙地, 粗暴地"
 roughly,"adv. 概略地, 粗糙地, 粗暴地"
-round-the-clock,无
+round-the-clock,连续一整天
 route,"n. 路径, 途径, 路线
 vt. 确定路线, 按规定路线发送
 [计] 传递, 路由设定程序"
@@ -12695,7 +12703,7 @@ sebaceous,"a. 脂肪的, 脂肪质的, 分泌脂肪的
 seborrhea,[医] 皮脂溢
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-choice,无
+second-choice, [医]次选，第二选择
 secretase,[网络] 分泌酶；分泌素；酶复杂
 secrete,"vt. 隐秘, 隐藏, 隐匿, 分泌
 [医] 分泌"
@@ -12755,12 +12763,12 @@ selenite,"n. [矿]透明石膏,[化] 亚硒酸盐"
 selenium,"n. 硒
 [化] 硒Se"
 selenoprotein,[网络] 硒蛋白；硒蛋白质；S炎症负调控因子蛋白抗体
-self-contained,无
-self-esteem,无
+self-contained, [体]自给的
+self-esteem, 自尊
 selfheal, 夏枯草
-self-imposed,无
-self-renewal,无
-self-tolerance,无
+self-imposed,"a. 自愿接受的, 自愿承担的"
+self-renewal, [医]自我更新
+self-tolerance,自身耐受[性]
 sella,[医] 鞍
 semaphorin,[网络] 脑信号蛋白；臂板蛋白；导向蛋白
 semen,"n. 精液, 精子
@@ -12768,7 +12776,8 @@ semen,"n. 精液, 精子
 semicoma,[网络] 半昏迷
 semicomatose,adj. 半昏迷的
 semiconservative,[网络] 半保留性；半保留复制；半守旧
-semi-liquid,无
+semi-liquid,"un. 半液体的
+[网络] 半流；固体状"
 semilunar,"a. 半月形的
 [医] 半月形的"
 seminal,"a. 精液的, 种子的, 生殖的
@@ -12777,7 +12786,7 @@ seminar,"n. 研究班, 专题讨论会
 [经] 讨论会, 专家讨论会"
 seminiferous,"a. 产种子的, 产生精液的, 输精的"
 seminoma,n. [医]精原细胞瘤
-semi-permeable,无
+semi-permeable,adj. 半渗透的
 semisynthetic,[网络] 半合成；半合成油；半合成润滑油
 semitransparent,"un. 半透明的
 [网络] 半透明化"
@@ -12964,7 +12973,7 @@ shortage,"n. 不足, 缺乏
 shortcoming,n. 缺点；短处
 shorten,"vt. 弄短, 缩短, 减少
 vi. 缩小, 变短"
-short-term,无
+short-term,[经] 短期
 shoulder,[网络] 大号
 shower,"n. 阵雨, 淋浴, 一阵, 展出者, 显示者
 vi. 淋浴, 下阵雨
@@ -12981,10 +12990,11 @@ sibling,"n. 兄弟, 同胞
 sibpair,无
 sickbay,[医] 军舰卫生所
 sickle,n. 镰刀
-sickle-cell,无
+sickle-cell," 镰状细胞, 镰刀形红细胞"
 sickness,"n. 疾病, 不健康, 呕吐
 [医] 病"
-side-effect,无
+side-effect,"副作用
+[计] 副作用"
 sideroblastic,[网络] 性贫血
 siderocyte,n. [医]高铁红细胞
 siderosis,"n. 铁质沉着病
@@ -13003,10 +13013,12 @@ vt. 向...作信号, 标志, 用信号通知
 vi. 发信号
 a. 作为信号的, 显著的
 [计] 信号"
-signal-to-noise ratio,无
+signal-to-noise ratio,"un. 信号噪声比；信号噪音比
+[网络] 信噪比；讯号杂讯比；信号杂讯比"
 signature,"n. 签字, 识别标志, 调号
 [计] 签名附件"
-signet-ring,无
+signet-ring,"图章戒指
+[医] 环状体(疟原虫)"
 significance,"n. 重要性, 意义, 意味
 [计] 有效; 有效性"
 significant,"a. 重要的, 有效的, 有含义的, 暗示的, 值得注意的"
@@ -13041,7 +13053,7 @@ n. 一个, 单打, 单程票
 vt. 选出
 vi. 击出一垒打
 [计] 单精度型"
-single-blind,无
+single-blind,[化] 带单圈的盲板
 sinus,"n. 窦, 静脉窦, 凹陷处"
 sinusitis,"n. 窦炎
 [医] 窦炎"
@@ -13065,7 +13077,7 @@ skull,"n. 头盖骨, 头脑, 好学生
 [医] 头颅"
 sleeplessness,[医] 失眠
 sleeptalking, 梦呓
-sleep-walker,无
+sleep-walker,[医] 梦行者
 slide,"n. 滑, 滑道, 山崩, 雪崩, 幻灯片
 vt. 使滑动, 偷偷放入
 vi. 滑动, 滑落, 不知不觉陷入, 偷偷地走"
@@ -13127,7 +13139,7 @@ n. 浸；湿透；大雨"
 soap,"n. 肥皂, 阿谀
 vt. 以肥皂洗, 阿谀
 [计] 评语"
-sober-minded,无
+sober-minded,"a. 镇定的, 沉着的, 冷静的"
 socioeconomic,"adj. 社会与经济的；社经的
 [网络] 社会经济；确实激励鼓舞了社会经济；其社会经济"
 sociology,"n. 社会学
@@ -13624,7 +13636,7 @@ styrene,"n. 苯乙烯
 [化] 苯乙烯; 苏合香烯; 苯亚乙基"
 subacute,[网络] 亚急性；次急性；亚急起
 subarachnoid,[医] 蛛网膜下的
-sub-cellular,无
+sub-cellular,[网络] 亚细胞的
 subchronic,[网络] 亚慢性；次慢性
 subclass, 子集
 subclinical,[网络] 亚临床；次临床期；临床下
@@ -14907,7 +14919,8 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
 upset,上端局设备
 uptake,升道
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 uragogue,利尿剂
@@ -15341,8 +15354,8 @@ wastewater,"[化] 废水
 wasting,"a. 造成浪费的, 消耗性的
 [医] 消瘦, 消耗"
 water,[网络] 水
-water-borne,无
-water-soluble,无
+water-borne, 水上
+water-soluble,[化] 水溶的; 水溶性的
 wavelet,"n. 小浪, 微波
 [化] 子波"
 weakness,n. 弱点；软弱；嗜好
@@ -15358,8 +15371,8 @@ n. 过秤, 称分量"
 weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
 vt. 加重量于, 压迫, 使加权, 称重量
 [计] 粗细"
-well-being,无
-well-known,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
 wheal,"n. 鞭痕, 小脓疱, 风疹块
 [医] 风团, 风块"
 wheelchair,n. 轮椅
@@ -15371,7 +15384,8 @@ whey,"n. 乳清
 whipworm,鞭虫
 WHO,[医] 世界卫生组织
 wholesome,"合乎卫生的,有益健康的"
-whooping-cough,无
+whooping-cough,"百日咳
+[医] 百日咳"
 widespread,"adj. 广布的；蔓延的；普遍的
 [网络] 普及的；广泛流传的"
 widow,"n. 寡妇, 孀妇
@@ -15400,7 +15414,8 @@ wolfberry,n. （美）西方雪果
 womb,"n. 子宫, 发源地
 [医] 子宫"
 workstation,[计] 工作站
-work-up,无
+work-up,"na. 刺激；煽动；刻苦完成；展开(故事的情节)
+[网络] 激发；激起；逐步引起"
 World Health Organization,"(联合国)世界卫生组织
 [医] 世界卫生组织"
 worm,"n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆

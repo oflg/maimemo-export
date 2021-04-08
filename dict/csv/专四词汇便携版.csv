@@ -93,7 +93,8 @@ vt. 使守规矩；使表现得…"
 believe,"vi. 信任；料想；笃信宗教
 vt. 相信；认为；信任"
 belief,"n. 信念, 相信, 信仰"
-make-believe,无
+make-believe,"假装
+[法] 假装, 佯为借口, 托词"
 benefit,"n. 利益
 vt. 有益于
 vi. 受益"
@@ -5645,7 +5646,7 @@ air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
 airbase,n. 空军基地
-air-conditioned,无
+air-conditioned,装有空气调节器的
 aircraft,"n. 航空器,飞机"
 airfield,n. 飞机场
 air hostess,空中小姐
@@ -5896,7 +5897,8 @@ bacteria,"pl. 细菌
 badge,"n. 徽章, 标记
 [计] 标记"
 badminton,n. 羽毛球运动
-bad-tempered,无
+bad-tempered,"adj. 暴躁的
+[网络] 坏脾气的；脾气坏的"
 bait,"n. 饵
 vt. 以饵引诱, 欺负
 vi. 中途休息"
@@ -5977,7 +5979,7 @@ vt. 照耀, 感到欣喜
 [计] 束"
 bean,"n. 豆子
 [化] 油嘴; 豆"
-bean-sprout,无
+bean-sprout,n. 豆芽
 beard,"n. 胡须
 vt. 抓住胡须, 公开反对"
 beast,"n. 畜生, 动物, 野兽, 兽性"
@@ -6193,7 +6195,7 @@ butler,"n. 男管家, 司膳总管"
 buzz,"n. 嗡嗡声, 流言
 vi. 发出嗡嗡声, 说闲话
 vt. 使嗡嗡叫, 散布"
-by-product,无
+by-product, 副产品，副产物
 byte,"n. 字节, 位组
 [计] 字节"
 cabin,"n. 小屋, 客舱
@@ -6772,10 +6774,12 @@ vt. 证明, 为...引证
 [计] 文档"
 documentary,"adj. 记录的；文件的；记实的
 n. 纪录片"
-dog-eared,无
+dog-eared,"un. 卷边
+[网络] 摺角痕"
 dogged,"a. 顽固的, 顽强的"
-dog-tired,无
-do-it-yourself,无
+dog-tired,"精疲力竭,疲惫不堪"
+do-it-yourself,"adj. (业余爱好者等)自制的
+[网络] 自己动手；自己动手做；自己做"
 dome,[网络] 都想整我；整死我；利用我
 donut,[网络] 甜甜圈
 doodle,"vi. 涂鸦, 混时间
@@ -6898,7 +6902,8 @@ enzyme,酵素
 epic,"n. 史诗, 叙事诗
 a. 史诗的, 叙事诗的"
 epoch,"n. 新纪元, 时代, 时期"
-epoch-making,无
+epoch-making,"adj. 开新纪元的
+[网络] 划时代的；划时代意义；开天辟地"
 equator,"n. 赤道
 [医] 赤道, 中纬线"
 equip,"vt. 装备, 配备
@@ -6992,7 +6997,7 @@ famine,"n. 饥荒, 缺乏, 饥饿"
 fare,"vi. 经营；进展；遭遇；过活
 n. 票价；费用；旅客；食物
 n. (Fare)人名；(瑞典)法勒；(法、意)法尔"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 fatalism,n. 宿命论
 fatten,"vi. 养肥
 vt. 使肥胖"
@@ -7045,7 +7050,10 @@ firework,"un. 动火作业
 [网络] 灿烂的夜空"
 firstborn,"adj. 头生的,最长的"
 firsthand, [体]第一家
-first-rate,无
+first-rate,"n. 一级战舰；一流人物
+adj. 第一等的
+adv. 〈口〉非常(好)地
+[网络] 一流的；甲级；第一流的"
 fission,"n. 裂开, 分裂, 分体
 [化] 裂变"
 fissure,分裂术
@@ -7188,8 +7196,8 @@ glossy,"a. 平滑的, 有光泽的"
 glove,[网络] 棒球之爱
 glue,"n. 胶, 粘性物
 vt. 粘合, 胶合"
-good-humored,无
-good-humoured,无
+good-humored,"a. 心情好的, 脾气好的, 心情愉快的"
+good-humoured,"a. 心情好的, 脾气好的, 心情愉快的"
 gorilla,"n. 大猩猩, 残暴的男人, 歹徒"
 gourmet,n. 美食家
 govern,"v. 统治, 支配, 管理"
@@ -7238,7 +7246,7 @@ groove,"n. 凹槽, 惯例, 理想境况
 vt. 开槽于"
 growl,"n. 吠声, 咆哮声
 v. 怒吠, 咆哮, 吼"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 guerrilla,n. 游击队
 guillotine,"n. 断头台, 截断机, 切除器
 vt. 用断头台斩首, 用截断机切"
@@ -7292,7 +7300,7 @@ hawker,"n. 饲鹰者, 以鹰行猎者, 叫卖小贩
 [经] 推车叫卖小贩"
 headlong,"adj. 轻率的；头向前的；匆促而用力的
 adv. 头向前地；猛然用力地"
-head-on,无
+head-on,迎面地
 headphones,n. 听筒；耳机；头戴式受话器（headphone的复数形式）
 headquarters, （机构， 企业等的）总部; 总店（head-quarter的名词复数）
 headroom,[化] 净空高度
@@ -7342,13 +7350,14 @@ hermit,"n. 隐士, 隐居者"
 herring,"n. 青鱼, 鲱"
 hexagon,"n. 六角形, 六边形
 [机] 六角, 六角形, 六角边"
-hide-and-seek,无
-high-pitched,无
-high-ranking,无
-high-rise,无
-high-sounding,无
-high-spirited,无
-high-tech,无
+hide-and-seek,藏猫猫
+high-pitched,"a. 调子高的, 紧张的"
+high-ranking,高级的
+high-rise,高层建筑
+high-sounding,adj. 夸张的
+high-spirited,"na. 精神极好的
+[网络] 风发；极爱极恨的高灵"
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hinterland,"n. 内地, 腹地, 偏僻地区
 [经] 腹地"
@@ -7817,7 +7826,7 @@ adv. 最小, 最少"
 leather,"n. 皮革, 皮制品, 马镫的皮带
 vt. 覆以皮革, 鞭苔, 抽打
 a. 皮革的, 皮制的"
-left-handed,无
+left-handed,惯用左手的
 legend,"n. 传说, 传奇文学, 图例
 [计] 图例"
 legion,"n. 军团, 军队, 众多的人"
@@ -7941,7 +7950,8 @@ mainstream, 干流; 主流
 maize,"n. 玉蜀黍, 黄色
 a. 玉蜀黍色的, 黄色的"
 majesty,[网络] 权威；壮丽；威权
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 making,comb.form [英国英语][构成形容词]表示“造成…的”，“酿成…的”: happy-making
 malady,"n. 病, 疾病, 弊病
 [医] 病"
@@ -8347,7 +8357,7 @@ oily,"a. 油的, 油滑的, 油嘴的
 [化] 油的; 含油的; 油性的; 油质的; 多油的; 油腻的; 油滑的"
 ointment,"n. 软膏, 油膏
 [化] 软膏; 药膏"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 olive,"n. 橄榄, 橄榄树, 橄榄色, 橄榄枝
 a. 黄绿色的, 黄褐色的, 橄榄色的"
 omen,"n. 预兆, 前兆, 征兆
@@ -9032,8 +9042,8 @@ rhythmical,"a. 有韵律的, 有节奏的
 [医] 节律的"
 ridicule,"n. 嘲笑, 愚弄, 笑柄
 vt. 嘲笑, 嘲弄, 愚弄"
-right-hand,无
-right-wing,无
+right-hand,右手
+right-wing,"右翼,保守派;右边锋"
 rim,"n. 边, 轮缘, 框
 vt. 镶边, 为...装边
 vi. 形成边缘"
@@ -9116,7 +9126,7 @@ rumour,"n. 谣言, 传闻
 vt. 谣传"
 runaway,"潜逃
 [化] 失控"
-runner-up,无
+runner-up,n. 亚军; [体]第二名
 runway,"n. 跑道, 河床, 过道
 [化] 单轨架空道; 吊车道"
 rural,"a. 乡下的, 田园的, 乡村风味的
@@ -9261,7 +9271,7 @@ vt. 缝合, 接合, 焊合, 使留下伤痕
 vi. 裂开, 发生裂痕"
 seaman,"海员,水手"
 seaport,"[法] 海港, 港市"
-sea-shell,无
+sea-shell, 贝壳
 seasick, [医]晕船[症]
 seasickness,[医] 晕船
 seasoning,"n. 调味品, 作料, 佐料, 锻练
@@ -9272,7 +9282,7 @@ adv. 往海那边"
 seaweed,海苔
 secondhand,"中间人, 助手
 [经] 旧货"
-second-rate,无
+second-rate,二等的
 secrecy,"n. 秘密, 保密
 [法] 秘密, 秘密状态, 保密"
 secretarial,"a. 秘书的, 书记的"
@@ -9293,32 +9303,43 @@ seesaw, 跷跷板
 segment,"n. 片段, 部分, 分节, 段
 v. 分割, 分裂
 [计] 段"
-self-assured,无
-self-confidence,无
-self-conscious,无
-self-contained,无
-self-contradictory,无
-self-control,无
-self-criticism,无
-self-determination,无
-self-education,无
-self-employed,无
-self-evident,无
-self-government,无
-self-interest,无
+self-assured, [体]自信
+self-confidence,自信
+self-conscious,"adj. 自觉的；怕难为情的；害羞的
+[网络] 自我意识；自我意识过剩"
+self-contained, [体]自给的
+self-contradictory,adj. 自相矛盾的；前后矛盾的
+self-control,"n. 克己；自制
+[网络] 自我控制；自制力；自身对照"
+self-criticism,n. 自我批评
+self-determination,"n. 自决；民族自决；【哲】(强调意志自由的)自我决定
+[网络] 自决権；自我决定性；民族自决原则"
+self-education, [体]自我教育
+self-employed, 自营；个体经营的
+self-evident,adj. 不证自明的
+self-government,"n. 自治；克己
+[网络] 人民自治；自我管理；自治政府"
+self-interest,"私心
+利己
+自我利益"
 selfless,[网络] 无我；没有自己
-self-pity,无
-self-reliant,无
-self-respect,无
-self-service,无
-self-sufficient,无
-self-taught,无
+self-pity,"n. 自怜
+[网络] 自哀自怜；自怜心；自我怜悯"
+self-reliant,a. 独断独行的
+self-respect, [体]自尊
+self-service,自饲
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
 semester,n. 学期
 semicolon,[网络] 分号
-semi-conductor,无
+semi-conductor,n. 半导体
 seminar,"n. 研究班, 专题讨论会
 [经] 讨论会, 专家讨论会"
-semi-skilled,无
+semi-skilled,"adj. 半熟练；半熟链的
+n. 半熟练的
+[网络] 半技术；半技术人员；技巧稍差的"
 senate,"n. 参议院, 立法机构, 评议会"
 senator,"n. 参议员, (某些大学的)理事
 [法] 参议员, 上议员"
@@ -9404,15 +9425,16 @@ shoplift,"vt. 从商店中偷商品
 vi. 从商店中偷商品"
 shopper,"n. 购物者
 [经] 顾客, 购物的人"
-short-circuit,无
+short-circuit,"短路
+[计] 短路"
 shortcoming,n. 缺点；短处
 shortcut,"n. 近路, 捷径"
 shorthand, 速记
 shortly,"adv. 不久, 简短, 唐突地"
 shorts,[网络] 短的
 shortsighted, [医]近视的
-short-term,无
-short-wave,无
+short-term,[经] 短期
+short-wave,[医] 短波
 shot,"n. 发射, 炮弹, 射击, 射手, 投篮, 射门, 子弹, 射程, 拍摄, 注射
 vt. 装弹, 使成颗粒状
 a. 杂色的, 交织着的, 渗透的, 点焊的, 破旧的
@@ -9624,7 +9646,7 @@ sorrowful,a. 悲伤的
 SOS,"n. 紧急求救信号
 vi. 发出遇难信号
 n. (Sos)人名；(罗)绍什；(西、俄、印尼)索斯；(柬)索"
-so-so,无
+so-so,"勉强过得去, 一般"
 soul,"n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂
 a. 黑人的"
 sour,"a. 酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的
@@ -10091,7 +10113,7 @@ thermostat,"n. 自动调温器, 温度自动启闭装置
 [化] 恒温器; 恒温箱"
 thesaurus,"n. 专类辞典, 宝库, 知识宝库, 叙词表, 主题词表
 [计] 同义词, 同义词典"
-thick-skinned,无
+thick-skinned,"a. 厚皮的, 脸皮厚的, 感觉迟钝的"
 thief,"n. 小偷, 贼
 [化] 取样"
 thigh,"n. 大腿, 股
@@ -10225,7 +10247,7 @@ treasonable,"a. 叛逆的, 谋反的, 不忠的
 [法] 犯叛国罪的, 叛国的, 叛逆的, 不忠的"
 treasure,"n. 宝物, 财富
 vt. 珍爱, 重视, 秘藏"
-treasure-house,无
+treasure-house,[经] 宝库
 treble,"n. 最高声部, 三倍
 a. 三倍的, 最高声部的
 vt. 使增为三倍
@@ -10366,7 +10388,7 @@ underworld,n. 黑社会；地狱；下层社会；尘世
 undignified,"a. 不庄严的, 无尊严的"
 undoubted,"a. 无疑的, 确实的
 [法] 无疑的, 确实的"
-undreamed-of,无
+undreamed-of,"a. 梦想不到的, 意外的"
 undue,"a. 不适当的, 过度的, 未到期的
 [经] 未到(支付)期的"
 uneasy,"a. 心神不安的, 不自在的, 不稳定的, 不舒服的"
@@ -10376,7 +10398,7 @@ unethical,a. 不道德的
 uneven,"a. 不平坦的, 不均等的, 奇数的"
 unfaithful,"a. 不诚实的, 不忠实的
 [法] 不正当的, 不信实的, 不正确的"
-unheard-of,无
+unheard-of,a. 没发生过的; 令人震惊的；前所未有的
 uninformed,"a. 没有得到通知的, 未被告知的, 无知的, 不学无术的, 未受教育的, 蒙昧的
 [法] 未被告知的, 未得通知的, 无知的"
 unisex,a. 男女皆宜的
@@ -10577,9 +10599,10 @@ wed,"vt. 与…结婚；尤指：；嫁、娶：
 vi. 结婚：；结合，交融："
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
-well-being,无
-well-known,无
-well-to-do,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
+well-to-do,"na. 经济宽裕
+[网络] 富裕的；小康的"
 westward,[网络] 狂野西部
 wharf,"n. 码头
 vt. 卸在码头上, 靠码头
@@ -10644,7 +10667,7 @@ vt. 使起皱纹"
 wrist,"n. 手腕, 腕关节
 [医] 腕"
 Xerox,v. 静电复印
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yacht,"n. 快艇, 游艇
 vi. 驾游艇, 乘游艇"
 yardstick,"尺码,尺度,衡量标准"

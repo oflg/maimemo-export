@@ -164,7 +164,8 @@ bathroom,"na. 洗澡间；盥洗室；〈书〉厕所
 bedroom,[网络] 卧室；睡房；卧室系列
 classroom,室
 playroom,儿童游戏室
-waiting-room,无
+waiting-room,"候车室, 等候室
+[医] 侯诊室, 等待室"
 washroom,"un. 盥洗室
 [网络] 洗手间；洗衣房；卫生间"
 cave,"n. 洞, 穴
@@ -672,7 +673,7 @@ vt. 邮寄, 给...穿盔甲
 [计] 邮件"
 airmail,"航空邮政, 航空邮件
 [经] 航空信件, 空邮"
-e-mail,无
+e-mail, 电子函政
 box,"n. 箱；盒；方框；匣
 v. （拳击运动中）击打（某人）；把（某物）装箱（或盒、匣）
 [网络] 盒子；箱子；长方体"
@@ -997,7 +998,7 @@ vt. 贮藏"
 together,"adv. 一起；同时；相互；连续地；总共
 adj. 新潮的；情绪稳定的，做事有效率的"
 altogether,"adv. 完全地, 总而言之"
-get-together,无
+get-together,"聚集, 收集, 积累"
 gather,"n. 集合, 聚集
 vi. 聚集, 集合, 渐增
 vt. 使聚集, 搜集, 积聚"
@@ -1598,8 +1599,9 @@ according,"a. 相符的, 根据...而定的
 adv. 相应地"
 heart,"n. 心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿
 vt. 鼓励"
-kind-hearted,无
-warm-hearted,无
+kind-hearted,"adj. 仁慈的
+[网络] 好心的；善良；仁慈的心"
+warm-hearted,"a. 热烈的, 热心的, 富有同情心的, 热情的"
 harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
 rhyme,"n. 韵, 押韵, 韵文
@@ -1698,7 +1700,8 @@ waiter,[地名] 韦特河 ( 澳 )
 waitress,"n. 女侍者, 女服务员"
 await,"vt. 等候
 vi. 等待着"
-waiting-room,无
+waiting-room,"候车室, 等候室
+[医] 侯诊室, 等待室"
 spy,"n. 间谍, 侦探, 侦察
 vt. 侦察, 找出, 发现
 vi. 做密探, 侦查"
@@ -3036,7 +3039,7 @@ ambiguous,"a. 不明确的, 模棱两可的
 road,"n. 路, 道路, 公路, 途径, 方法
 [法] 公路, 道路, 行车道"
 crossroad,横路
-side-road,无
+side-road,旁路
 routine,"n. 常规, 日常工作, 惯例, 例行公事
 a. 日常的, 常规的
 [计] 例程"
@@ -3061,7 +3064,7 @@ ray,"n. 射线；光线
 vt. 放射；显出
 vi. 放射光线；浮现
 n. (Ray)人名；(西、意、匈、印、尼日尔、瑞典、阿拉伯)拉伊；(英、法、柬、博)雷，蕾(女名)"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 laser,"n. 激光
 [计] 激光器"
 root,"n. 根, 根本, 根源, 基础, 底部
@@ -3141,7 +3144,7 @@ past,"n. 过去, 昔时, 往事, 早年经历, 过去时
 a. 过去的, 结束的, 卸任的, 过去时的
 prep. 越过, 晚于, 超越, 超出...的可能性(能力、范围等)
 pass的过去分词"
-passer-by,无
+passer-by,n. 过路人; 经过者
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
 [医] 被动的"
 pause,[网络] -暂停
@@ -3468,7 +3471,7 @@ bounce,"n. 跳, 跳跃, 弹力, 撞击
 vi. 反跳, 弹跳
 vt. 使跳回, 撞击
 [计] 打回"
-ping-pong,无
+ping-pong,苹婆
 bingo,"n. 宾戈游戏
 n. (Bingo)人名；(日)备后(姓)"
 butcher,"n. 屠夫, 肉商, 小贩
@@ -3479,7 +3482,7 @@ n. 丑陋的人(或物)"
 frog,"n. 青蛙
 [医] 蛙, 马蹄叉"
 stop,[网络] 中国医师戒烟项目；停止服务
-bus-stop,无
+bus-stop,公共汽车站
 still,"n. 蒸馏室, 寂静, 剧照
 v. 蒸馏, (使)平静, (使)静止
 a. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的
@@ -4057,7 +4060,8 @@ granddaughter,第三代子核
 lady,[网络] 稀土氧化物
 cream,"n. 乳酪, 奶油, 面霜
 [医] 乳油, 乳皮; 乳膏, 霜"
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 Christ,"n. 基督, 救世主"
 Christian,"n. 基督徒, 正派人
 a. 基督的, 基督教的"
@@ -4282,7 +4286,7 @@ fiction,"n. 小说, 虚构故事
 make,"vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
 vi. 开始, 前进, 增大, 被制造, 被处理
 n. 制造, 构造, 性情"
-man-made,无
+man-made,人造的
 machine,[网络] 机具
 deed,"n. 行为；行动；证书
 adv. 〈口〉同“indeed”
@@ -6083,8 +6087,10 @@ handful,"n. 少数, 一把, 棘手事"
 handsome,[网络] 手一些；手多；竹兰在国际刑警英俊
 secondhand,"中间人, 助手
 [经] 旧货"
-left-handed,无
-right-handed,无
+left-handed,惯用左手的
+right-handed,"adj. 惯用右手的；向右旋转的；〈罕〉可原谅的
+adv. 用右手
+[网络] 右旋的；右利；右利手"
 hunt,"n. 狩猎, 追捕, 搜寻, 猎区
 vt. 狩猎, 打猎, 搜索
 vi. 打猎, 猎食, 搜寻"
@@ -6269,7 +6275,8 @@ conditional,"a. 有条件的, 有前提的
 [电] 有条件的"
 unconditional,"a. 无条件的, 无限制的, 绝对的
 [经] 无条件的, 无保留的"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 edit,[网络] 中点编辑
 edition,"n. 版本, 版, 翻版"
 editor,"n. 编者, 编辑, 主笔, 编辑器, 编辑装置
@@ -6483,7 +6490,7 @@ tailor,"n. 裁缝, 成衣匠
 vt. 缝制, 制作, 使适应
 vi. 做裁缝"
 shirt,"n. 衬衫, 内衣, 汗衫"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 trunk,"n. 树干, 干线, 躯干, 主干, 象鼻, 箱子
 vt. 把...放入旅行箱内
 a. 树干的, 躯干的, 干线的, 箱形的
@@ -6688,7 +6695,7 @@ vt. 测定...的时间, 记录...的时间, 计时, 定时
 a. 时间的, 记时的, 定时的, 定期的, 分期的
 [计] DOS内部命令:用于显示或设定系统的时间"
 lifetime, 使用期限，寿命
-part-time,无
+part-time,n. 兼任，部分时间
 sometime,一会儿
 sometimes,[网络] 几次；好几次；数次
 temporary,"a. 暂时的, 临时的

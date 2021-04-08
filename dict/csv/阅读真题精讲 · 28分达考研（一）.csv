@@ -58,7 +58,8 @@ indulgence,"n. 沉溺, 放纵, 嗜好
 [法] 宽容, 纵容, 赎罪券"
 misleading,"a. 引入歧途的, 使人误解的, 骗人的
 [法] 误写姓名的, 误称的, 令人误解的"
-self-centered,无
+self-centered,"adj. 以自我为中心的；唯我独尊；自我中心的
+[网络] 不受外力的影响"
 skepticism,"n. 怀疑论
 [医] 多疑癖"
 unworthy,"a. 不值得的, 不相称的"
@@ -89,7 +90,7 @@ favorable,"a. 有利的, 赞许的, 良好的"
 Hooray,"interj. 万岁
 n. 万岁
 v. 呼万岁"
-sober-sided,无
+sober-sided,a. 持重的；认真的; 严肃的；正式的
 comparatively,"adv. 比较地, 相对地"
 unpretentious,"a. 不铺张的, 不炫耀的, 不装模作样的, 不招摇的, 谦逊的, 质朴的"
 air,"n. 空气；空中；天空；神态
@@ -99,8 +100,7 @@ formidable,"a. 巨大的, 优秀的, 可怕的, 艰难的"
 description,[网络] 描写；摹状词
 orchestra,"n. 管弦乐队, 乐队演奏处"
 hitherto,"adv. 迄今, 至今"
-strike sb. as,"un. 打…一记耳光；使…认为
-[网络] 给某人以印象；使某人感到；给……以印象"
+strike sb. as,无
 faint,"n. 昏厥, 昏倒
 a. 模糊的, 微弱的, 无力的
 vi. 昏倒, 变得微弱"
@@ -197,8 +197,8 @@ deputy,n. 副手，代理人
 quarter,"n. 四分之一, 一刻钟, 季度, 地区
 vt. 四等分, 肢解
 vi. 驻扎, 住宿"
-stick with sb.,无
-stick with sth.,无
+stick with sb., 继续做; 跟着…; 插满
+stick with sth., 继续做; 跟着…; 插满
 pick up,"v. 拾起；探出；重新开始
 [网络] 捡起；拿起；学会"
 abound,"vi. 大量存在, 富于, 充满"
@@ -370,11 +370,11 @@ vt. 使震动, 使休克, 使受电击, 震惊得
 vi. 震动, 吓人
 a. 蓬乱浓密的"
 lean on,靠着
-round-the-clock,无
+round-the-clock,连续一整天
 dumb,"a. 哑的, 不说话的, 无声音的
 [医] 哑的"
 glamorous,"a. 富有魅力的, 迷人的"
-stress-free,无
+stress-free, 无应力的
 happiness-enhancing,无
 subconscious,[网络] 下意识的；潜意识；那意
 contribute to,捐献
@@ -414,7 +414,7 @@ perceptive,"a. 知觉的, 有知觉力的, 感知的
 critique,"n. 评论文章, 评论"
 lameness,"n. 跛, 瘸, 残废
 [医] 跛, 跛行"
-spot-on,无
+spot-on," 完全正确的; 精确的, 准确的"
 mobilize,"vt. 动员, 调动, 使流通
 vi. 动员"
 demonstrate,"vt. 示范, 证明
@@ -549,7 +549,7 @@ whereas,"conj. 然而, 鉴于
 [法] 考虑到, 鉴于, 就...而论"
 authority,"n. 权力, 当权者, 当局, 权威, 专家
 [经] 代理权, 授权, 权威"
-precedent-setting,无
+precedent-setting,[网络] 先例性；开先例的；判例确立式的
 extend,"v. 扩充, 延伸, 伸展, 扩大
 [计] 扩展"
 valid,"a. 有确实根据的, 有法律效力的, 正当的, 正确的
@@ -565,7 +565,8 @@ permission,"n. 许可, 允许
 [计] 许可, 认可"
 application,"n. 应用, 申请, 志愿书, 应用程序
 [计] 应用, 应用程序"
-keep sth. in mind,无
+keep sth. in mind,"na. 记在心里；记住；注意
+[网络] 牢记；紧记；牢记在心"
 idealized, 理想化的
 observe,"vt. 觉察到, 遵守, 注意到, 庆祝
 vi. 注意, 评论"
@@ -580,7 +581,7 @@ prior,"a. 更重要的, 较早的, 在先的
 n. 小隐修院院长, 大隐修院副院长"
 subsequent,adj. 后来的，随后的
 misinterpretation,[计] 错误判断
-self-deception,无
+self-deception,自我欺骗
 abound,"vi. 大量存在, 富于, 充满"
 protoscience,[网络] 原科学；原始科学；初级科学
 mining claim,"采矿请求权
@@ -659,7 +660,7 @@ vt. 把...分成扇形
 [计] 扇面; 扇区; 段; 区段"
 fellow,"n. 男人, 朋友, 同事
 a. 同伴的, 同事的, 同道的"
-private-sector,无
+private-sector," 私营成分, 私营部门"
 unionize,"vi.vt. (使)成立工会, (使)加入工会"
 thriving,"a. 兴旺的, 旺盛的, 繁荣的"
 shut down,"na. 关闭；关拢(窗等)；停业；禁止
@@ -669,7 +670,7 @@ vi. 受痛苦, 受损害"
 consequence,"n. 结果, 重要性
 [法] 结果, 后果, 推断"
 dominate,"v. 支配, 占优势"
-left-of-centre,无
+left-of-centre,[网络] 中心左侧
 tie,"tie
 [tai]
 vt.
@@ -767,7 +768,7 @@ academy,"n. 学院, 院校, 学会"
 merit,"n. 优点, 功绩, 价值, 功过, 真相
 vt. 值得
 vi. 应受"
-drawn-out,无
+drawn-out,抽出，拉长
 variable,"n. 易变的事物, 变数, 可变物, 变量
 a. 可变的, 不定的, 易变的, 变量的
 [计] 变量"
@@ -804,7 +805,7 @@ at odds with, 与…不和，与…争吵
 feverish,"a. 发热的, 极度兴奋的, 不安的"
 indictment,"n. 起诉, 控告, 起诉状
 [经] 起诉书"
-mass-market,无
+mass-market,[经] 大规模的市场
 anticipate,"vt. 预期, 占先, 加速, 提前使用
 [医] 提前出现, 先期发生"
 precisely,"adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错"
@@ -816,12 +817,12 @@ vt. 列入详细目录, 清点存货
 release,"vt. 释放；发射；让与；允许发表
 n. 释放；发布；让与"
 profit,[网络] 专家型；宝发实业有限公司
-style-conscious,无
+style-conscious,[网络] 注意打扮的；注重时尚的
 disposable,"a. 可任意处理的
 [法] 可任意处理或处置的, 可自由使用的"
 wardrobe,"n. 衣橱, 衣室, 全部衣服"
-on-trend,无
-dirt-cheap,无
+on-trend,[网络] 流行；衰止
+dirt-cheap,"a. & adv. 非常便宜的[地], 毫无价值的[地]"
 hijack, 劫道
 accustomed to, 习惯于···
 pace,"n. 速度, 步调, 步法
@@ -839,7 +840,7 @@ vt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤
 vi. 尽力, 努力, 紧拉, 弯曲, 被滤出"
 massive,"a. 大而重的, 宽大的, 宏伟的
 [医] 大块的, 整块的, 大量的"
-non-durable,无
+non-durable, 不耐用物品
 give away,"na. 赠送；分发；放弃；露马脚
 [网络] 泄露；出卖；分送"
 excess,"n. 过度, 剩于, 超过, 超额
@@ -870,7 +871,7 @@ quarrel,"n. 吵架, 反目, 怨言, 方头凿
 vi. 吵架, 争论, 挑剔"
 illustrate,"vt. 举例说明, 作图解, 阐明
 vi. 举例说明"
-fine-grained,无
+fine-grained, [医]细粒的
 assume,"vt. 假定, 承担, 呈现
 vi. 装腔作势, 僭越"
 track,"n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径
@@ -970,7 +971,7 @@ dedicate to,献身
 assurance,"n. 保证, 把握, 信心, 保险
 [经] 保证, 担保, 保险"
 pattern,[网络] 实地调查和抽样
-evidence-based,无
+evidence-based,[网络] 循证；实证；以证据为基础
 forecast,"n. 预想, 预测, 预报
 vt. 预想, 预测, 预报
 [计] 趋势预测"
@@ -1143,7 +1144,9 @@ n. 烫发
 indulge,"vt. 纵情于, 使高兴, 放任, 迁就
 vi. 沉溺"
 falsehood,虚假
-ever-tougher,无
+ever-tougher,"比以往更艰难
+比以往更严厉
+比以往更坚强"
 administration,"n. 行政, 管理, 政府机关
 [化] 给药"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
@@ -1242,7 +1245,7 @@ upstart,"n. 新贵, 暴发户, 自命不凡者
 a. 暴富的"
 prestige,"n. 声望, 威望, 威信
 [经] 商誉, 声誉"
-self-promotion,无
+self-promotion,自我推销、自我促进
 distort,"vt. 扭曲, 歪曲
 [法] 歪区, 曲解, 纂改"
 peer-review-led,无
@@ -1307,7 +1310,7 @@ vt. 发表(演说或讲话), 对付, 写地址
 congressional,"a. 会议的, 议会的, 国会的
 [法] 代表大会的, 大会的, 议会的"
 Democrat and Republican,无
-top-tier,无
+top-tier,[网络] 当之无愧的一流商学院；顶级；顶尖的
 president,[网络] 总统；会长
 prominent,"a. 卓越的, 显著的, 突出的, 凸出的"
 figure,"n. 数字；人物；图形；价格；（人的）体形；画像
@@ -1352,7 +1355,7 @@ vehicle,"n. 交通工具, 车辆, 传播媒介
 publicize,vt. 宣传
 progressive,"n. 改革论者, 进步论者
 a. 前进的, 累进的, 进步的"
-left-liberal,无
+left-liberal,[网络] 左翼自由主义；自由左翼；左翼自由派
 propaganda,"n. 宣传, 宣传活动
 [医] 宣传"
 routinely,"adv. 日常, 乏味, 常规, 例行"
@@ -1362,7 +1365,7 @@ proper,[网络] 自我辩护；专业辩护；正确的
 portray,"vt. 描绘, 描写, 描绘...的肖像"
 conservative,"a. 保守的, 守旧的, 有保存力的
 [化] 防腐剂; 保存剂"
-self-reliance,无
+self-reliance,自力更生；依靠自已
 boundary,"n. 边界, 分界线
 [计] 边界"
 investigation,n. 调查；调查研究
@@ -1383,7 +1386,8 @@ scandal,"n. 丑闻, 中伤, 耻辱, 反感, 流言蜚语
 [法] 丑事, 丑闻, 干丑事的人"
 republican,"n. 共和主义者, 共和党员
 a. 共和政体的, 共和国的, 共和主义的"
-force sb. to do sth.,强迫某人做某事
+force sb. to do sth.,"v. 强人所难
+[网络] 强迫；好多都用不定式；被迫做某事"
 eat one's words,认错道歉
 stand down,"离开证人席, 退出, 顺潮航行
 [法] 离开证人席, 退休, 撤退"
@@ -1410,7 +1414,8 @@ royal,"n. 王室, 皇族
 a. 王室的, 皇家的, 盛大的, 庄严的"
 voter,"n. 选民, 投票人
 [法] 选民, 选举人, 投票人"
-non-controversial,无
+non-controversial,"adj. 不会引起争议的；一致的
+[网络] 非争议的；无争论"
 public figure,n. 社会名人; 人士
 undoubtedly,"adv. 无疑, 必定, 确实地"
 downside,(三辊式机座的)机前侧
@@ -1440,7 +1445,7 @@ to come,未来地
 preserve,"vt. 保护, 保持, 保存, 维持, 腌, 禁猎
 vi. 加工食品, 禁猎
 n. 加工成的食品, 禁猎地, 保护区, 防护物"
-well-heeled,无
+well-heeled, 有钱的；富有的
 granny,"n. 奶奶, 老奶奶, 老婆婆, 外婆, 婆婆妈妈的人, 唠叨挑剔的人, 接生婆"
 hierarchical,"[计] 分级的, 分层的, 层次的"
 Constitution,"n. 构成, 宪法, 体格
@@ -1495,7 +1500,8 @@ privacy,"n. 隐私, 隐居, 秘密
 [计] 个人保密权"
 sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
 prohibition,"n. 禁令, 禁止"
-line-drawing,无
+line-drawing,"线条画, 素描
+[计] 线提取; 绘线型图形"
 burdensome,"a. 累赘的, 恼人的, 繁重的
 [法] 难于负担的, 压抑的, 累赘的"
 obtain,"vt. 获得, 达到
@@ -1535,7 +1541,7 @@ sort out,"na. 清理
 [网络] 分类；整理；解决"
 statistical,"a. 统计的, 统计上的, 统计学的
 [经] 统计的, 统计学的"
-peer-review,无
+peer-review,[经] 同业互查
 process,[网络] 过程；流程；进程
 contribute to,捐献
 irreproducibility,非再生性
@@ -1696,7 +1702,7 @@ n. 绝对事物"
 lawmaker,[法] 立法者
 preliminary,"n. 初步做法, 初步措施, 预试, 预选赛
 a. 初步的, 开始的, 预备的"
-ultra-thin,无
+ultra-thin, 超薄型
 runway,"n. 跑道, 河床, 过道
 [化] 单轨架空道; 吊车道"
 parliament,"n. 国会, 议会
@@ -1708,7 +1714,8 @@ excessive,"a. 过度的, 过多的, 极端的
 uplifting,"a. 令人振奋的; 使人开心的
 v. 举起(uplift的现在分词)"
 impinge on,"撞击, 侵犯, 紧密接触"
-tape-measure,无
+tape-measure,"卷尺
+[医] 带尺"
 enforce,"vt. 强迫, 执行, 坚持
 [经] 予以强制执行"
 arbiter,"n. 仲裁人, 裁决者, 公断人
@@ -1718,7 +1725,7 @@ hint,"n. 暗示, 提示
 v. 暗示, 示意"
 intangible,"a. 难以明了的, 无形的
 [经] 无形的"
-wasp-waist,无
+wasp-waist,"n. 蜂腰, 细腰"
 physique,"n. 体格, 体形
 [医] 体格"
 severe,"a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的
@@ -1931,7 +1938,7 @@ anticipate,"vt. 预期, 占先, 加速, 提前使用
 [医] 提前出现, 先期发生"
 screener,筛
 overpack,第二层包装
-carry-on bag,无
+carry-on bag,[网络] 携带上飞机；随身行李
 fee,"n. 费用, 小费, 封地, 所有权
 vt. 付费给"
 dispute,"n. 争论
@@ -2041,7 +2048,7 @@ convert,"n. 皈依者, 改变宗教信仰者
 vt. 使改变信仰, 转换, 兑换, 倒置
 vi. 皈依
 [计] 转换"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 shed some light on,无
 translate,[网络] 翻译
 focus,"n. 焦点, 焦距
@@ -2097,7 +2104,7 @@ vt. 迫使, 使增压, 密封"
 justice,"n. 正义, 公平, 公正, 正确, 司法, 审判"
 distasteful,"a. 味道差的, 使人不愉快的, 讨厌的"
 nasty,表示u201c感性u201d：hyponasty
-anti-bribery,无
+anti-bribery,反贿赂
 concrete,"n. 凝结物, 混凝土
 a. 具体的, 实在的, 混凝土的
 v. (使)凝结, 用混凝土浇筑"
@@ -2304,7 +2311,8 @@ cyberspace,网际空间之意
 verify,"vt. 证明, 查证, 证实, 检验, 校验
 [计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性"
 story,"n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层"
-cross-check,无
+cross-check,"[计] 交叉校验
+[经] 横线支票, 划线支票"
 bias,"n. 偏见, 斜纹
 a. 偏斜的
 adv. 偏斜
@@ -2330,7 +2338,8 @@ reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
 n. 窗侧, 门侧"
 discipline,"n. 训练, 纪律
 vt. 训练, 惩罚"
-fair-minded,无
+fair-minded,"adj. 公正的
+[网络] 公平的思想；一碗水端平的心态"
 assessment,"n. 评估, 估定, 评定的款额
 [化] 评估"
 artificial intelligence,[计] 人工智能
@@ -2370,7 +2379,8 @@ bankruptcy,"n. 破产者
 permanently,"adv. 永久, 不变, 持久
 [计] 永久性的"
 regulatory,adj. 管理的；控制的；调整的
-self-interested,无
+self-interested,"adj. 自我本位的
+[网络] 自利；自利的；利己主义的"
 legislation,"n. 立法, 法律
 [医] 立法, 法规"
 defer,"vi. 推迟, 延期, 听从

@@ -6,7 +6,7 @@ privacy,"n. 隐私, 隐居, 秘密
 [计] 个人保密权"
 explosion,"n. 爆发, 激增, 爆炸(声)
 [化] 爆炸"
-cyber-crime,无
+cyber-crime,计算机犯罪，网络犯罪(未经许可私自进入他人的计算机以窃取机密资料或通过转账盗取金钱)
 preserve,"vt. 保护, 保持, 保存, 维持, 腌, 禁猎
 vi. 加工食品, 禁猎
 n. 加工成的食品, 禁猎地, 保护区, 防护物"
@@ -15,7 +15,7 @@ proposal,"n. 提议, 计划, 求婚
 [经] 提案, 申请, 投标"
 voluntary,"a. 自动的, 自愿的, 故意的, 志愿的, 自发的
 n. 自愿行动, 志愿者, 自由调"
-high-tech,无
+high-tech,高技术
 physical,"a. 身体的, 物质的, 自然的, 物理学的, 好色的
 n. 体格检查"
 fingerprint,指纹；指印
@@ -134,7 +134,7 @@ restate,vt. 重申；重新叙述；重讲
 earnings,"n. 所赚的钱, 工资, 收入
 [经] 工资, 收入, 收益, 盈余"
 likelihood,"n. 可能, 可能性"
-class-action,无
+class-action,[法] 集体诉讼
 lawsuit,[经] 向法院提出的诉讼
 stock,"n. 股份，股票；库存；血统；树干
 adj. 存货的，常备的；平凡的
@@ -339,7 +339,7 @@ ministerial,"a. 部长的, 内阁的, 执政的
 [法] 部长的, 部的, 公使的"
 council,"n. 会议, 委员会
 [经] 委员会"
-co-ordination,无
+co-ordination,[建] 配位
 liberalism,n. 自由主义
 rigour,"n. 严格, 严厉, 苛刻, 严酷, 严密, 精确"
 interference,"n. 冲突, 干涉
@@ -623,10 +623,10 @@ associate,"n. 同伴, 伙伴, 关联的事物
 vt. 使联合, 使发生联系
 vi. 交往
 [计] 关联"
-colour-coded,无
+colour-coded,[网络] 色彩；色彩解密
 domestic,"a. 家庭的, 国内的, 驯养的
 [医] 家庭的, 家用的"
-gender-neutral,无
+gender-neutral,性别中立
 masculine,"n. 阳性, 男性
 a. 男性的, 阳性的, 有丈夫气的"
 pastel,"n. 粉蜡笔, 粉蜡笔画, 随笔
@@ -804,7 +804,8 @@ a. 道德的, 品性端正的, 精神上的"
 lengthy,"a. 冗长的, 漫长的"
 stagnation,"n. 淤塞, 停滞
 [医] 停滞, 滞留, 郁积"
-mean-spirited,无
+mean-spirited,"adj. 卑劣的
+[网络] 心胸狭窄；坏心下流"
 inclusive,"a. 包含的, 包括的"
 reverse,"n. 相反, 背面, 倒退, 挫折, 失败
 a. 反面的, 相反的, 反向的, 颠倒的
@@ -981,7 +982,8 @@ immigration,"n. 移民, 移居
 [医] 移民"
 privilege,"n. 特权, 特别恩典, 基本权利, 特免
 vt. 给与...特权, 特免"
-well-educated,无
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
 household,"n. 家眷, 家务, 王室
 a. 家务的, 家常的"
 emigrant,"n. 移民, 侨民
@@ -1137,7 +1139,7 @@ thrive,"vi. 繁荣, 兴旺, 茁壮成长
 challenge,"n. 挑战, 盘问
 vt. 向...挑战, 要求, 怀疑
 vi. 挑战, 对(证据等)表示异议"
-health-care,无
+health-care, 卫生保健
 aide,"n. 助手, 副官
 [计] 数据输入的可说明性"
 physicist,"n. 物理学家, 机械唯物论者, 自然科学家
@@ -1501,11 +1503,11 @@ vi. 起飞, 下水, 投入, 开始"
 visibility,"n. 可见性, 能见度, 能见距离
 [计] 可见性"
 claim,叫喊
-tin-roofed,无
+tin-roofed,[网络] 铁皮房顶的；铁皮屋顶
 undivided,"a. 未分开的, 专一的, (组织等)未分裂的
 [法] 不可分割的, 完整的, 未分割的"
 jackpot,彩票头奖
-new-found,无
+new-found,a. 新发现的；新得到的
 yield,"n. 生产量, 投资收益
 vt. 出产, 给予, 让出, 放弃, 使屈服
 vi. 出产, 屈服, 投降, 倒塌"
@@ -1527,7 +1529,7 @@ a. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的
 vt. 想象, 设想, 相信, 喜爱
 vi. 想象, 幻想"
 extravagant,"a. 奢侈的, 挥霍无度的, 浪费的"
-old-hat,无
+old-hat,"老式的, 过时的"
 creep,"n. 爬, 徐行, 蠕动
 vi. 爬, 蔓延, 潜行"
 slim,"a. 瘦的, 苗条的, 微小的, 稀少的, 微薄的
@@ -1572,7 +1574,7 @@ vi. 平行, 延伸, 漫游
 [计] 量程; 范围; 域; 距离"
 homebuyer,[网络] 购房者
 empirical,经验
-deep-seated,无
+deep-seated, [医]深在的
 amass,"vt. 积聚, 堆积"
 illusory,"a. 产生幻觉的, 幻影的, 错觉的
 [法] 因错觉产生的, 虚幻的"
@@ -1580,7 +1582,7 @@ leadership,[网络] 领导力；领导才能；领导力专辑
 statistical,"a. 统计的, 统计上的, 统计学的
 [经] 统计的, 统计学的"
 rose-tint,无
-self-affirming,无
+self-affirming,[网络] 自我证实；自身的断定
 defensive,"a. 防卫的, 防备用的, 自卫的
 n. 守势, 防卫姿势, 防卫物"
 criticise,"v. 批评, 吹毛求疵, 非难"
@@ -1622,7 +1624,7 @@ conj. 一...(就...), 一当...就...
 [计] 直接的"
 marker,"n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记
 [计] 标记"
-self-esteem,无
+self-esteem, 自尊
 delusion,"n. 迷惑, 欺瞒, 错觉
 [医] 妄想"
 reflection,"n. 反映, 沉思, 映像, 想法, 责难
@@ -1787,7 +1789,8 @@ object,"n. 物体, 目标, 目的, 对象, 宾语, 客体
 vi. 反对, 抱反感
 vt. 提出...来反对
 [计] 对象"
-best-known,无
+best-known,"na. 最有名的
+[网络] 最著名的；有时也可以是；广为人知的"
 purplish,a. 略带紫色的
 elegant,"a. 优雅的, 端庄的, 高雅的"
 rarefied,"a. 变成稀薄的, 纯化的, 精炼过的, 崇高的"
@@ -1915,7 +1918,7 @@ protect,"vt. 防卫, 保护, 警戒
 [法] 庇护, 保护, 警戒"
 perceive,"v. 感觉; 认识, 理解; 察觉到, 意识到, 注意到"
 band,[网络] B提供住宿及早餐；连接两个并列成份
-band-aid,无
+band-aid, 邦迪创口贴
 tuck,"n. 缝褶, 活力, 鼓声, 船尾突出部, 食品
 vt. 打褶, 卷起, 挤进, 塞, 收藏
 vi. 缝褶裥, 缩拢"
@@ -1965,7 +1968,7 @@ physical,"a. 身体的, 物质的, 自然的, 物理学的, 好色的
 n. 体格检查"
 sustain,"vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许
 [电] 持续"
-life-sustaining,无
+life-sustaining,a. 维持生命的
 clarity,"n. 清楚, 明晰
 [化] 透明度; 透明性; 清晰性"
 division,"n. 分, 分开, 除法, 部门(如部、处、系等), 师
@@ -1983,10 +1986,11 @@ n. 正号, 加号, 附加额, 正数, 增益
 [计] 正差"
 infinite,"n. 无限, 神
 a. 无穷的, 无限的, 极大的"
-co-worker,无
+co-worker,"n. 共同工作者
+[网络] 同事；合作者"
 motivate,"vt. 给与动机, 刺激, 提高...的学习欲望, 促动
 [经] 促动, 激发, 激励"
-first-generation,无
+first-generation,[电] 第一代
 dropout,"掉出, 退出, 离队
 [机] 落砂"
 advance,"n. 前进, 进展, 行过的路程
@@ -2055,7 +2059,8 @@ struggle,"n. 斗争, 努力, 奋斗
 vi. 努力, 奋斗, 挣扎"
 navigate,"vi. 航行
 vt. 航行于, 驾驶, 操纵, 使通过"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 resource,"n. 资源, 财力, 办法, 策略, 急智, 消遣
 [计] 资源"
 disadvantage,"n. 缺点, 不利, 坏处"
@@ -2064,7 +2069,7 @@ vt. 缺乏, 短少, 不足, 需要
 vi. 缺乏"
 emotional,"a. 情绪的, 情感的
 [医] 情绪的"
-right-brained,无
+right-brained,右脑型的
 parachute,"n. 降落伞
 vi. 跳伞"
 frequent,"a. 时常发生的, 频繁的, 快速的
@@ -2081,7 +2086,7 @@ energy,"n. 精力, 精神, 活力, 能量
 oriented,"以……为方向的
 以……为取向的
 以……为导向的"
-male-dominated,无
+male-dominated,adj. （在社会、机构或某活动领域等）男人主宰的，男权占主导地位的
 explicitly,adv. 明确地；明白地
 infuse,"vt. 注入, 使充满, 泡制, 鼓舞
 vi. 泡"
@@ -2091,7 +2096,7 @@ importation,"n. 进口, 输入品
 terminology,"n. 术语, 术语学
 [医] 名词学, 命名法"
 historically,adv. 历史上地；从历史观点上说
-non-profit,无
+non-profit, 非营利的
 religious,"a. 宗教性的, 虔诚的, 宗教上的, 严谨的
 n. 修道士, 出家人"
 vision,"n. 视觉, 眼光, 视力, 幻想
@@ -2146,13 +2151,13 @@ vt. 跳跃, 跃过, 突升, 使跳跃
 vi. 跳跃, 跳, 跳动, 暴涨
 [计] 转移, 跳转"
 voluntarily,"adv. 自愿地, 以自由意志"
-part-time,无
+part-time,n. 兼任，部分时间
 figure,"n. 数字；人物；图形；价格；（人的）体形；画像
 vi. 计算；出现；扮演角色
 vt. 计算；认为；描绘；象征"
 Obamacare,[网络] 奥巴马医保；奥巴马医改计划；奥巴马医改
 distinction,n. 区别
-full-time,无
+full-time,"专职,全部工作时间的,全日制"
 involuntary,adj. 无意识的；自然而然的；不知不觉的
 weakness,n. 弱点；软弱；嗜好
 general,"n. 一般, 将军, 大体
@@ -2254,7 +2259,7 @@ consequence,"n. 结果, 重要性
 take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
 vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
 n. 拿, 取, 收成, 奏效"
-well-travelled,无
+well-travelled, 旅行经历丰富的；去过很多地方的
 effect,"n. 结果, 影响, 效果, 印象
 vt. 实行, 引起, 完成
 [计] 效果"
@@ -2279,7 +2284,7 @@ vi. 定居"
 researcher,n. 研究人员
 inclination,"n. 倾向, 趋向, 倾斜度, 点头
 [化] 倾角"
-risk-taking,无
+risk-taking, [财]承担风险的
 compare,"vt. 比较, 比喻, 对照
 vi. 相比
 n. 比较
@@ -2317,8 +2322,9 @@ vi. 成形, 形成, 成长
 [计] 形状"
 plausible,"a. 貌似真实的, 貌似合理的, 说得煞有其事的
 [法] 花言巧语的, 似乎有理的"
-forward-thinking,无
-high-school,无
+forward-thinking,"abbr. (=forward-looking)
+[网络] 前瞻思维；前瞻性的思考；前瞻思考"
+high-school,中学
 coding,"n. 译码
 [计] 编码"
 experience,"n. 经历, 经验, 体验
@@ -2341,7 +2347,7 @@ artwork,"n. 艺术作品；美术品；插图；插画
 [网络] 布线图；原图；艺术品"
 hypothesis,"n. 假设
 [化] 假设"
-bite-sized,无
+bite-sized,a. （食物）大小适合入口的; 很小的；小而简单的
 chunk,"n. 大块, 矮胖的人(或物)
 [经] 定样"
 solve,"vt. 解决, 付给, 溶解
@@ -2357,7 +2363,7 @@ vi. 满溢"
 flatiron,[化] 扁铁
 programming,划，规划；程序设计，程序编制
 bootcamp,n. 新兵训练营; 劳教营
-high-schooler,无
+high-schooler,[美国英语]中学生
 curriculum,"n. 课程
 [医] 课程, 学程"
 gear,"n. 齿轮, 工具
@@ -2443,7 +2449,7 @@ vi. 告发, 起诉, 作检察官"
 unintentionally,"adv. 非故意地, 非存心地; 无意之中"
 disturb,"vt. 扰乱, 妨碍, 使不安
 [法] 滋扰, 扰乱"
-range-wide,无
+range-wide,[网络] 跑马车
 management,"n. 经营, 支配, 管理
 [化] 管理处"
 restore,[网络] 再储藏；恢复
@@ -2466,7 +2472,7 @@ overall,遍及
 buy,"vt. 买, 获得
 vi. 买
 n. 购买, 买得的东西"
-win-win,无
+win-win, [电影]双赢
 rhetoric,"n. 修辞, 修辞学, 雄辩(术)"
 block,"n. 街区, 木块, 石块, 块
 vt. 阻塞, 封锁, 使成块状
@@ -2582,7 +2588,7 @@ conveyor,"n. 搬运者, 传达者, 转让财产者, 输送机, 输送设备
 [计] 传送机, 传送带"
 sacred,"a. 神圣的, 献给上帝的, 庄严的, 祭祀的
 [法] 神圣的, 不可侵犯的"
-mind-set,无
+mind-set,n. 心态；倾向；习惯；精神状态
 surprisingly,"adv. 使人惊奇, 出人意外, 惊人, 令人惊讶"
 schedule,"n. 时间表, 一览表, 计划表, 议事日程
 vt. 预定, 编制目录, 制...表, 安排"
@@ -2591,7 +2597,7 @@ vt. 加燃料, 供燃料
 vi. 得到燃料"
 ritualistic,"a. 仪式的, 遵守仪式的"
 behaviour,作，行为；性能，特性，品质；状态，工况，运行情况
-single-purpose,无
+single-purpose,adj. 单一目的，单目标
 providing,"conj. 以...为条件, 假如"
 default,"n. 违约, 不履行责任, 缺席, 默认值
 v. 疏怠职责, 缺席, 拖欠, 默认
@@ -2654,7 +2660,7 @@ pursue,"vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事
 vi. 追赶, 继续"
 mixed,"a. 混合的, 形形色色的, 弄糊涂的
 [计] 混合的"
-self-help,无
+self-help, 自助救助
 therapy,"suf. 表示“治疗”,“疗法”：physiotherapy"
 instinctively,"adv. 本能地, 直觉地"
 effectively,"adv. 有效地, 有力地, 实际上"
@@ -2730,7 +2736,8 @@ vi. 押韵, 扫描
 [计] 网络软件目录, 编码与分析系统"
 demand,"n. 要求, 需求, 需要
 v. 要求, 查询"
-decision-making,无
+decision-making,"[计] 决策, 判定
+[化] 决策"
 rationally,adv. 理性地；讲道理地
 selective,"a. 选择的, 选择性的
 [经] 选择的, 选择性的"
@@ -2754,11 +2761,11 @@ mortality,"n. 必死的命运, 死亡数目, 死亡率
 [医] 必死性, 死亡率"
 addiction,"n. 入迷, 瘾
 [医] 瘾, 癖嗜"
-poorly-educated,无
-middle-aged,无
+poorly-educated, 受不良教育
+middle-aged, 中年
 shortage,"n. 不足, 缺乏
 [化] 缺额"
-well-paid,无
+well-paid, 报酬（或薪金）丰厚的
 agonizing,"a. 折磨人的, 痛苦难忍的"
 dullness,n. dull的变形
 jobless,"a. 失职的, 无职业的
@@ -2815,7 +2822,8 @@ legacy,"n. 祖先传下来之物, 遗赠物
 lever,"n. 杠杆, 似杠杆之工具
 vt. 撬开
 vi. 使用杠杆"
-run-up,无
+run-up,"na. 抬高(市价等)；升(旗等)；造；增加(费用,债款等)
+[网络] 短而低的近距离击球；向上跑；积欠"
 accelerate,"v. 加速, 促进"
 opposition,"n. 反对, 敌对, 相反, 在野党
 [医] 对生, 对向, 反抗, 反对症"
@@ -3092,7 +3100,8 @@ transformer,"n. 变压器, 促使变化的人
 welding,"a. 焊的
 [机] 熔接, 焊接, 锻接"
 equipment,[网络] 设备；设备标志符；仪器设备
-co-found,无
+co-found,"v. 共同创立
+[网络] 共同创办"
 enroll,"vt. 登记, 使加入
 vi. 参军, 注册"
 worktable,[计] 工作表
@@ -3174,7 +3183,7 @@ a. 充满着的"
 inquiry,"n. 质询, 探索, 调查, 询盘
 [计] 询问; 查询"
 insight,被看到
-self-destructive,无
+self-destructive,自我打击
 determine,"v. 决定, 决心"
 endeavor,"n. 努力, 尽力
 vi. 努力, 尽力"
@@ -3220,7 +3229,7 @@ vanish,"vi. 消失, 不见, 成为零"
 stare,"vi. 注视, 凝视, 瞪视, 显眼
 vt. 盯
 n. 凝视"
-one-size-fits-all,无
+one-size-fits-all,一刀切；一体适用；万全之策
 diversity,"n. 差异, 多样性
 [化] 多样性"
 renewable,"a. 可更新的, 可恢复的, 可继续的, 可换新的, 可重复的, 可重说的
@@ -3250,7 +3259,8 @@ dot,[计] Microsoft Word文档模板
 giant,"n. 巨人, 大力士, 巨大怪物
 a. 庞大的, 巨大的"
 availability,定修期；可用率
-put-down,无
+put-down,"na. 平定；贬低(的话)；(飞机的)降落
+[网络] 放下；镇压；记下"
 skeptic,"n. 怀疑者, 怀疑论者, 不可知论者"
 electric,"a. 电的, 导电的, 电动的
 [医] 电的"
@@ -3361,7 +3371,7 @@ vt. 扰乱, 使失调"
 detail,"n. 细节，详情
 vt. 详述；选派
 vi. 画详图"
-well-structured,无
+well-structured,[网络] 结构良好的；良构；结构完善
 execution,"n. 实行, 完成, 执行, 死刑
 [计] 执行"
 demotivate,vt. 使失去动力；使变得消极
@@ -3521,7 +3531,7 @@ pregnant,"a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的
 breathing,"n. 呼吸, 瞬间, 微风
 a. 呼吸的, 逼真的"
 vaccinate,v. 预防接种
-high-risk,无
+high-risk,高危
 run,"vi. 经营；奔跑；运转
 vt. 管理，经营；运行；参赛
 n. 奔跑；赛跑；趋向；奔跑的路程
@@ -3655,7 +3665,7 @@ scrub,"n. 用力擦洗, 矮树, 矮人, 渺小之物
 vt. 用力擦洗, 擦掉, 摩擦
 vi. 擦洗干净, 进行手臂消毒
 a. 次等的, 矮小的, 非正规球队的, 临时凑合的"
-far-off,无
+far-off," 远, 在远处的"
 adolescent,"a. 青春期的, 青少年的
 n. 青少年"
 feature,"n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
@@ -3865,7 +3875,7 @@ decay,"n. 衰退, 腐败
 v. (使)衰退, (使)腐败"
 diminish,"v. (使)减少, (使)变小"
 investigate,"v. 调查, 审查"
-co-ordinate,无
+co-ordinate,"[经] 协调, 调节"
 cargo,"n. 货物
 [经] 货柜"
 reschedule,vt. 重新排定日程；重订时间表；重新计划
@@ -4316,8 +4326,8 @@ vt. 列出, 列于表上, 记入名单内, 装布条
 vi. 列于表上
 [计] 列表, 序列, 数据清单"
 local,abbr. low calorie 低卡路里
-longer-term,无
-long-term,无
+longer-term,[网络] 更长期的；长时期决策
+long-term, 长期的
 lottery,"n. 奖券, 彩票, 运气
 [经] 抽彩给奖法"
 loud,"a. 大声的, 不断的, 喧吵的
@@ -4385,7 +4395,7 @@ vi. 流行, 得到公认"
 obvious,"a. 明显的, 明白的, 显然的, 平淡无奇的"
 occur,"vi. 发生, 被想到, 存在"
 Olympic,"a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
-open-mindedness,无
+open-mindedness,[网络] 开放；开放的心；开放的心态
 operation,"n. 操作, 动作, 手术, 运算, 作用, 业务
 [计] 运算"
 order,"n. 次序, 规则, 命令
@@ -4742,12 +4752,13 @@ threat,"n. 恐吓, 恶兆, 威胁
 throw,"vt. 投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱
 vi. 丢, 掷, 抛
 n. 投掷, 掷骰子, 冒险"
-time-wasting,无
+time-wasting,"a. 浪费时间的
+n. 浪费时间, 蹉跎岁月"
 tin,"保持,握,容纳"
 tiny,"a. 很少的, 微小的"
 tobacco,"n. 烟草, 香烟
 [医] 烟草"
-to-do,无
+to-do,要做某事
 tool,"n. 工具, 机床, 傀儡
 vt. 用工具加工
 vi. 使用工具"
@@ -4811,7 +4822,7 @@ wealth,"n. 财富, 资源, 财产, 丰富, 富裕, 大量
 [经] 财富"
 wealthy,"a. 富有的, 丰裕的, 充分的"
 web,[网络] 蜘蛛网；换为
-well-known,无
+well-known, 众所周知的; 出名的
 western,"n. 西方人, 西部片, 西部小说
 a. 向西方的, 来自西方的, 西方的, 西洋的, 西部的"
 whole,"n. 全部, 全体, 整体, 完全之体系
@@ -4834,9 +4845,9 @@ adv. 更坏地, 更恶劣地"
 worst,"n. 最坏, 最坏的时候
 a. 最坏的, 最恶劣的, 最不利的
 adv. 最坏, 最糟"
-air-traffic-control,无
-anti-discrimination,无
-anti-obesity,无
+air-traffic-control,[计] 空中交通管理; 空中交通管制
+anti-discrimination,[网络] 反歧视；反歧视项目
+anti-obesity,n. 抗肥胖
 astronaut,"n. 太空旅行者, 宇航员
 [法] 美国太空人"
 aviation,"n. 航空, 航空学, 飞行术
@@ -4854,8 +4865,9 @@ beverage,"n. 饮料
 bleed over into,无
 blueprint,"蓝图
 [法] 蓝图"
-blue-ribbon,无
-brain-scan,无
+blue-ribbon,"最高的荣誉
+[法] 第一奖, 荣誉徽章, 蓝绶"
+brain-scan,【医学】脑部扫描X光片
 Broadway,宽路
 bug,"n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人
 vt. 装防盗报警器, 装窃听器, 激怒
@@ -4863,7 +4875,8 @@ vi. 捉虫, 暴突
 [计] 缺点, 错误"
 calcium,"n. 钙
 [化] 钙Ca"
-carbon-dioxide,无
+carbon-dioxide,"二氧化碳
+[化] 二氧化碳"
 chancellor,"n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长"
 Chile,"n. 智利
 [化] 番椒; 辣椒"
@@ -4884,43 +4897,45 @@ different-sized,无
 dip,"v. 浸, 降下, 把(手、勺等)伸入, 舀取
 n. 浸, 涉猎
 [计] 双列直插式组件, 分布式输入输出系统, 双排直插封装"
-dot-com,无
+dot-com,网络公司（尤指网址末尾为.com 的）
 Egypt,n. 埃及
 endorphin,"n. 内啡肽（内分泌激素，有镇痛作用）
 [网络] 脑内啡；内啡呔；安多芬"
-e-reader,无
+e-reader,一款电子书阅读器名
 tinier,"a. 极小的, 微小的( tiny的比较级 )"
 exchequer,"n. (英国)财政部, 国库
 [法] 国库, 财源, 财政法院"
 exponential,"a. 指数的
 n. 指数
 [计] 指数"
-family-friendly,无
-fast-moving,无
+family-friendly,adj. 适合家庭的; 有利于家庭生活的
+fast-moving,"adj. 快速移动的；(小说等)情节紧凑的
+[网络] 快速流转；快速流动；上下快速移动量"
 federation,"n. 联邦, 联合, 联盟
 [法] 联邦, 联盟, 联邦政府"
-first-timer,无
+first-timer,n. 初次做某事者
 fiver,"n. (英)(非正式)五镑, 票面为五镑的钞票, (美)(非正式)票面为五元的钞票"
 FluMist, [医]鼻内用流感疫苗<生物制品>
 G.I.Bill,[网络] 退伍军人法案；退伍军人权利法案；军人重新安置法案
-gender-equality,无
+gender-equality,[网络] 性别平等；两性平等；男女平等
 geometry,"n. 几何学
 [机] 几何学"
 giggle,"v. 吃吃地笑, 咯咯地笑
 n. 咯咯笑, 傻笑"
-goal-focused,无
+goal-focused,[网络] 明确的目标；明确的工作目标；明确目标
 good-paying,无
-hard-wired,无
+hard-wired,硬连接
 interim,"a. 暂时的, 临时的, 间歇的
 n. 过渡时期"
-jet-fuel,无
+jet-fuel,[化] 喷气燃料; 喷气式发动机燃料
 Korean,"n. 朝鲜人, 朝鲜语
 a. 朝鲜人的, 朝鲜语的"
 less-determined,无
 less-experienced,无
-life-hack,无
-mega-project,无
-mental-health,无
+life-hack,[网络] 生活秘诀；小帮手；生活黑客
+mega-project,"大型项目
+大型计划"
+mental-health, 心理健康
 Mexican,"n. 墨西哥人, 墨西哥语
 a. 墨西哥的"
 Michigan,n. 密歇根州
@@ -4929,20 +4944,22 @@ v. 磨成粉
 [网络] 穆勒；密尔；米尔"
 MIT,[网络] 麻省理工学院；美国麻省理工学院；麻省理工大学
 moola,n. 金钱
-much-needed,无
+much-needed,[网络] 急需的；特别需要的；大量需要
 Nazi,"n. 纳粹党人；纳粹主义信徒
 adj. 纳粹党的；纳粹主义的
 n. (Nazi)人名；(布基)纳齐；(俄)娜济"
 next-to-no-cost,无
-nitrogen-oxide,无
-normal-weight,无
-pre-packed,无
+nitrogen-oxide,[化] 氧化氮(通常指NO一氧化氮); 氮的氧化物
+normal-weight,正常重量;当量重量
+pre-packed,"adj. 包装好的；已包装的
+[网络] 预先包装；经预先包装；预装"
 psychiatrist,n. 精神病学家，精神病医生
 psychiatry,"n. 精神病学, 精神病治疗
 [医] 精神病学"
 pub,"n. 酒馆, 客栈"
-puffed-out,无
-quasi-automatic,无
+puffed-out,"气喘吁吁的（puffed是puff的过去分词）
+上气不接下气的（puffed是puff的过去分词）"
+quasi-automatic,[网络] 准自动
 rasher,n. 熏肉薄片
 recipient,"a. 领受的, 容易接受的, 感受性强的
 n. 领受者, 容纳者, 容器"
@@ -4951,17 +4968,17 @@ a. 红宝石色的, 深红色的
 vt. 使带红宝石色
 [计] Ruby 程序设计语言"
 Scottish,"a. 苏格兰的, 苏格兰人的"
-self-sufficiency,无
+self-sufficiency, 自给自足
 shin,"n. 胫骨
 v. 攀, 爬"
 signature phrase,无
-sign-on,无
-sure-fire,无
-task-force,无
+sign-on,"签约雇用, 开始广播"
+sure-fire, [电影]特警屠龙
+task-force,特遣部队
 turbine,"n. 涡轮机
 [化] 涡轮机"
 vaccine,"n. 牛痘苗, 疫苗
 a. 疫苗的, 牛痘的"
 wolverine,"n. [动]狼獾,豹熊,狼獾皮"
 workfree,[网络] 免费的
-work-placement,无
+work-placement, 工读课程安排

@@ -146,7 +146,8 @@ agreement,"n. 同意, 合约, 协议
 [经] 契约, 协议, 协定"
 agriculture,"n. 农业
 [机] 农业, 农学"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 aisle,"n. 走廊, 侧廊, 过道
@@ -3110,7 +3111,7 @@ particle,"n. 颗粒, 粒子, 质点, 极小量
 [化] 粒子; 质点"
 particular,"n. 一项(或条、点), 个别项目, 详细说明
 a. 特别的, 独有的, 挑剔的, 详尽的"
-passer-by,无
+passer-by,n. 过路人; 经过者
 passion,"n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)"
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
 [医] 被动的"
@@ -4519,7 +4520,7 @@ sob,n. 呼吸短促; 畜生
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
-so-called,无
+so-called,adj. 所谓的
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
 socialism,[网络] 社会主义；关于社会的主义
@@ -5469,7 +5470,8 @@ uproar,"n. 骚动, 喧嚣"
 upset,上端局设备
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -7131,7 +7133,7 @@ eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 emotion,"n. 情绪, 激动, 强烈的情感
 [医] 情绪, 情感"
 employ,"n. 雇用
@@ -7774,7 +7776,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guess,"n. 猜测, 臆测
@@ -8874,7 +8876,8 @@ husband,[网络] 外子
 hut,"n. 小屋, 茅舍, 临时军营
 v. (使)住在茅舍"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 ideal,"n. 理想, 典范, 观念, 思想, 最后目标
@@ -11313,7 +11316,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 yearly,"a. 每年的, 一年一度的
@@ -11497,7 +11500,7 @@ surplus,"n. 剩余, 过剩, 盈余
 a. 过剩的, 剩余的"
 extraordinary,[网络] 寻常領域；超凡；非常规
 extravagant,"a. 奢侈的, 挥霍无度的, 浪费的"
-extra-fast,无
+extra-fast,[网络] 特别快速；超快；喽啰有急速
 descend,"vi. 下降, 世代相传, 屈尊, 袭击
 vt. 下降"
 degrade,"v. (使)降级, (使)退化"
@@ -11557,9 +11560,9 @@ prescribe,"v. 规定, 指定, 嘱咐, 开处方"
 prologue,"n. 开场白, 序言, 序幕
 vt. 为...作序, 加上...前言"
 prophet,"n. 预言者, 先知, 提倡者"
-ex-president,无
-ex-husband,无
-ex-boyfriend,无
+ex-president,n. 前总统
+ex-husband,n. 前夫
+ex-boyfriend,n. 前男友
 postwar,un. 战后的
 postgraduate,[网络] 研究生；研究生文凭；硕士
 retrograde,"a. 后退的, 倒退的, 退步的
@@ -11590,9 +11593,10 @@ vi. 放下武器"
 nonsense,"n. 胡说；废话
 a. 荒谬的
 int. 胡说！"
-non-toxic,无
-non-controversial,无
-non-political,无
+non-toxic,无毒
+non-controversial,"adj. 不会引起争议的；一致的
+[网络] 非争议的；无争论"
+non-political,[网络] 是非政治性；政治中立
 unlimited,"a. 无限的, 不受限制的, 无条件的
 [经] 无限的, 不定的"
 unable,"a. 不能的, 不会的
@@ -11637,10 +11641,10 @@ atypical,"a. 非典型的
 [医] 非典型的, 不标准的"
 asocial,"a. 不合群的, 不关心他人的, 自私的
 [医] 不嘉社交的"
-anti-government,无
+anti-government,反政府
 antisocial,adj. 反社会的
 antibody,[机] 抗体
-anti-aging,无
+anti-aging,n. 抗衰老
 contrast,"n. 差别, 对比, 对照物
 vt. 使对比
 vi. 成对照
@@ -11703,13 +11707,16 @@ archbishop,n. 大主教
 automobile,n. 汽车
 autobiography,[网络] 自传；自动传记
 autocriticism,"n. 自评, 自我反省"
-self-taught,无
-self-employed,无
-self-doubt,无
-self-abandon,无
-self-abasement,无
-self-abhorrence,无
-self-absorbed,无
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
+self-employed, 自营；个体经营的
+self-doubt,"n. 自疑；对自己缺乏信心
+[网络] 自我怀疑；自我质疑"
+self-abandon,"n. 自暴自弃；放肆
+[网络] 自我遗弃"
+self-abasement,n. 自卑
+self-abhorrence,n. 自我嫌恶
+self-absorbed, 专顾自己的
 engrave,"vt. 刻上, 雕刻, 铭记"
 encourage,"vt. 鼓励, 支持, 激励
 [法] 怂恿, 煽动, 助长"
@@ -11726,8 +11733,9 @@ bypass, 旁路，绕道
 byproduct, 副产品，副产物
 bygone,[网络] 往事；过去的事情；逝去
 byroad,由公路
-vice-president,无
-vice-manager,无
+vice-president,"副总裁, 副总统
+[经] 副总经理, 副总裁"
+vice-manager, 副经理
 collaborate,"vi. 合作, 勾结
 [法] 合作, 合著, 通敌"
 correspond,"vi. 符合, 通信, 相当
@@ -13123,11 +13131,11 @@ n. (Care)人名；(英)凯尔；(塞)察蕾"
 carefree,"a. 无忧无虑的, 舒畅的, 愉快的"
 duty,"n. 责任, 关税, 职务, 尊敬
 [化] 职责"
-duty-free,无
+duty-free,[经] 免税
 stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
-stress-free,无
+stress-free, 无应力的
 accident,[网络] 意外事故；意外
-accident-free,无
+accident-free,无事故
 doubtful,"a. 可疑的, 疑心的, 不明确的
 [法] 怀疑的, 有疑问的, 未确的"
 insightful,"a. 有深刻见解的, 富有洞察力的"
@@ -13354,7 +13362,7 @@ be opposed to,"反对..., 与...相对"
 be recognized as, 被认为是…
 be rooted in,深植于
 be subject to,"受支配, 从属于, 可以...的, 常遭受..."
-be up to sb.,[网络] 由某人决定；取决于某人；由某人决定某事
+be up to sb.,"胜任,达到,由…负责"
 be viewed as, 被看作是
 blame A on B,无
 bring together, 使相合[连接]; 使相识;  使坐在一起;  使会面
@@ -13377,27 +13385,28 @@ describe ... as ...,描述为
 die down,"枯萎, 凋谢"
 drop by,随便访问
 earn one's salary,无
-eat sb. up,无
+eat sb. up,"吃光, 耗尽, 吞灭"
 elect A as B,无
 escape attention,无
 exclude from,[网络] 把…排斥于…之外；把……排除在外；同上但是使用档案
-exert influence on sth.,无
-fail to do sth.,"未能做某事,没有做到…"
+exert influence on sth.,对…施加影响
+fail to do sth.,"未能(做)..., 没能(做)..."
 filter out A from B,无
 flag up,[网络] 举旗
-force sb. to do sth.,强迫某人做某事
+force sb. to do sth.,"v. 强人所难
+[网络] 强迫；好多都用不定式；被迫做某事"
 get rid of,"摆脱, 除去"
 give in to,向…呈上；向…交上(试卷等)；屈服于，向…让步；向…投降
 govern one's activity,无
 have a clear grasp of,无
-have effect on sb.,无
-have effect on sth.,无
+have effect on sb.,对…有影响
+have effect on sth.,对…有影响
 have effect upon sb.,无
 have effect upon sth.,无
-have an effect on sb.,无
-have an effect on sth.,无
-have an effect upon sb.,无
-have an effect upon sth.,无
+have an effect on sb.,(对…)有影响〔产生效果〕
+have an effect on sth.,(对…)有影响〔产生效果〕
+have an effect upon sb.,"对…有影响;对…起作用,产生效果"
+have an effect upon sth.,"对…有影响;对…起作用,产生效果"
 have confidence in,"信任,信赖 in confidence 秘密地,私下,暗中"
 in contact with,与...在接触中
 in one's contact with,无
@@ -13409,10 +13418,10 @@ in ... terms,"在谈判,在协商;明确地,措词严密地"
 intend to,"打算(做)..., 想要(做)..."
 introduce A into B,无
 jump by,无
-keep an eye on sth.,无
+keep an eye on sth.,"照看, 密切注视"
 knock out,"na. 敲出；敲空；使屈服；使无用
 [网络] 击倒；击昏；打破"
-lead sb. to do sth.,引导某人做某事
+lead sb. to do sth.,无
 lead to,"导致, 通向"
 lean on,靠着
 link A to B,无
@@ -13423,7 +13432,7 @@ make reflection on,无
 make up,"na. 弥补；起草；定；签订
 [网络] 组成；化妆；编造"
 object to,"反对,不赞成"
-oblige sb. to do,[网络] 强迫某个人做某事；迫使某人做某事；使某人而必须做某事
+oblige sb. to do,无
 owe ... to ...,"v. 由于；把…归功于
 [网络] 应该把…归功于；欠；因为"
 pile into,"挤入, 进入"
@@ -13770,7 +13779,7 @@ select,"a. 挑选出来的, 极好的
 v. 选择, 挑选
 n. 被挑选者, 精萃
 [计] 选定"
-send sb. to,无
+send sb. to, 发送到; 发送给; 发往
 shock,"n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗
 vt. 使震动, 使休克, 使受电击, 震惊得
 vi. 震动, 吓人
@@ -13855,7 +13864,7 @@ claimant,"n. 提出要求者, 原告
 composer,"n. 作曲家, 作家, 调停者"
 concertgoer, 常去听音乐会的人（尤指听古典音乐者）
 critic,"n. 批评家, 鉴定家"
-decision-maker,无
+decision-maker,[经] 决策人
 defendant,"n. 被告
 [经] 被告方"
 descendant,"n. 后裔, 子孙
@@ -13886,7 +13895,7 @@ judge,"n. 法官, 裁判员, 审判官, 鉴定人
 vt. 审理, 鉴定, 判断, 判决, 裁定
 vi. 下判断, 作评价"
 justice,"n. 正义, 公平, 公正, 正确, 司法, 审判"
-mom-to-be,无
+mom-to-be,[网络] 准妈妈；又配上这样的音乐顿
 opponent,"n. 对手, 敌手, 反对者
 a. 敌对的, 反对的, 对面的"
 panel,"n. 嵌板, 仪表板, 专题讨论小组, 全体陪审员
@@ -14011,7 +14020,7 @@ circulation,"n. 流通, 循环, 发行量
 code,"n. 代码, 密码, 法规, 法典
 vt. 把...编码
 [计] 代码"
-co-dependency,无
+co-dependency,[网络] 互相依赖；共依存；共同依赖现象
 coherence,"n. 黏合(性), 连贯性, 一致性
 [化] 相干性"
 commission,"n. 委员会；佣金；犯；委任；委任状
@@ -14370,7 +14379,7 @@ vi. 刻痕, 记分, 得分
 [计] 得分"
 scrutiny,"n. 细看, 仔细检查, 监视, 选票检查
 [经] 复查, 评核, 仔细检查"
-self-promotion,无
+self-promotion,自我推销、自我促进
 sentence,"n. [语][计] 句子，命题；宣判，判决
 vt. 判决，宣判"
 sentiment,"n. 感情, 感伤, 情操, 情绪, 感想, 意见
@@ -14477,7 +14486,7 @@ application of statistic,无
 basic feature,[科技] 基本特征
 blood vessel,"血管
 [医] 血管"
-by-product,无
+by-product, 副产品，副产物
 community service,"n. 感化, 感化工作"
 conduct in business,无
 controversial plan,无
@@ -14577,7 +14586,7 @@ enlightening,"a. 有启发作用的, 使人领悟的"
 enviable,"a. 令人羡慕的, 可羡慕的"
 ethical,"a. 伦理的, 民族的, 民族特有的
 [医] 伦理的, 道德的"
-fine-grained,无
+fine-grained, [医]细粒的
 formidable,"a. 巨大的, 优秀的, 可怕的, 艰难的"
 fundamental,"n. 基本原理, 原则, 基波
 a. 基本的, 重要的, 原音的"
@@ -14610,7 +14619,7 @@ permanent,"a. 永久的, 不变的, 固定的, 持久的
 n. 烫发
 [计] 永久的"
 persuasive,"a. 有说服力的, 劝诱的, 劝导性的"
-precedent-setting,无
+precedent-setting,[网络] 先例性；开先例的；判例确立式的
 precious,"a. 宝贵的, 珍贵的, 过于精致的, 珍爱的"
 prevailing,"a. 盛行很广的, 优势的, 主要的, 普遍的
 [法] 占优势的, 盛行的, 通行的"
@@ -14632,9 +14641,9 @@ sensible,"a. 有感觉的, 敏感的, 明智的
 sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
 sobering,"a. 有节制的; 清醒的, 冷静的; 朴素的, 柔和的; 持重的
 v. 使清醒(sober的ing形式); 使冷静"
-spot-on,无
-stand-alone,无
-stress-free,无
+spot-on," 完全正确的; 精确的, 准确的"
+stand-alone,独一无二
+stress-free, 无应力的
 stunning,"a. 打昏迷的, 弄得人昏头昏脑的, 令人震惊的"
 stylish,"a. 现代风格的, 流行的, 潇洒的"
 suitable,"a. 适当的, 相配的
@@ -14648,8 +14657,9 @@ valid,"a. 有确实根据的, 有法律效力的, 正当的, 正确的
 [经] 有效的"
 vibrant,"a. 振动的, 战栗的, 响亮的, 活跃的"
 virtuous,"a. 品德高尚的, 公正的, 贞洁的, 有效力的"
-well-educated,无
-well-orchestrated,无
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
+well-orchestrated,[网络] 精心组织的
 ambiguous,"a. 不明确的, 模棱两可的
 [法] 意思含糊的, 模棱两可的, 暧昧的"
 obscure,"a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, 无名的
@@ -14875,9 +14885,10 @@ major,"n. 主修课, 成年人, 陆军少校
 a. 主要的, 较多的, 大部分的, 成年的, 严重的
 vi. 主修
 [计] 主要, 主要刻度"
-mass-produced,无
+mass-produced,"[经] 大量生产的, 成批生产的"
 mental,"suf. 表示""行为的"""
-non-commercial,无
+non-commercial,"un. 非贸易
+[网络] 非商业头寸；商业用途；非商业性"
 otherwise,[网络] 聪明
 parallel,"n. 平行, 对比, 相匹敌之物
 a. 平行的, 相似的
@@ -14900,12 +14911,12 @@ psychological,"a. 心理学的, 精神上的, 心灵的
 reasonable,adj. 合理的，公道的；通情达理的
 religious,"a. 宗教性的, 虔诚的, 宗教上的, 严谨的
 n. 修道士, 出家人"
-round-the-clock,无
+round-the-clock,连续一整天
 sacred,"a. 神圣的, 献给上帝的, 庄严的, 祭祀的
 [法] 神圣的, 不可侵犯的"
 shaky,"a. 震动的, 摇晃的, 动摇的"
 shared,a. 共享的
-short-term,无
+short-term,[经] 短期
 stern,"n. 尾部, 船尾, 臀
 a. 严厉的, 严格的, 坚定的, 坚决的"
 strategic,"a. 战略的, 战略上的
@@ -14917,8 +14928,9 @@ subtle,"a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的
 [医] 锐敏的; 精细的"
 systematic,"a. 有系统的, 分类上的, 体系的
 [医] 系统的, 系的, 分类的"
-telephone-number-sized,无
-top-down,无
+telephone-number-sized,"电话号码大小的
+电话号码绑定的"
+top-down,"[经] 组织(控制,管理)严密的"
 traceable,"a. 可追踪的, 可描绘的
 [经] 可追溯的, 可追踪的"
 unique,"a. 独一无二的, 独特的, 稀罕的"
@@ -14930,7 +14942,7 @@ various,"a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的
 [法] 不同的, 种种的, 各式各样的"
 voluntary,"a. 自动的, 自愿的, 故意的, 志愿的, 自发的
 n. 自愿行动, 志愿者, 自由调"
-well-founded,无
+well-founded, 有理由的
 widespread,"adj. 广布的；蔓延的；普遍的
 [网络] 普及的；广泛流传的"
 abruptly,"adv. 突然地, 唐突地"
@@ -15134,13 +15146,13 @@ disposition,"n. 性情, 处置, 处理, 布置
 [医] 素因, 性情"
 novel,"n. 小说, 长篇故事
 a. 新奇的, 异常的"
-well-heeled,无
+well-heeled, 有钱的；富有的
 mental health, 心理健康
 psychological health, [医]心理卫生，心理保健
 mental fitness,无
 psychological fitness,无
 health concern,无
-sub-health,无
+sub-health,不完全健康的状况
 state of mind," 心境, 心情, 思想状态; 神思; 心神; 心气"
 public morality,风纪
 devote,"vt. 投入于, 献身"
@@ -15172,7 +15184,7 @@ a sense of achievement,[网络] 成就感；成就意识；成功感
 a sense of honor,无
 aggressive,"a. 侵略的, 挑畔的, 进取的
 [法] 侵略的, 爱挑衅的, 行为过火的"
-strong-willed,无
+strong-willed,a. 意志坚强的
 tireless,"a. 不疲倦的, 不厌倦的, 不屈不挠的"
 persevering,"a. 坚忍的, 不屈不挠的, 执拗的, 倔强的"
 patience,"n. 耐性, 忍耐"
@@ -15223,7 +15235,7 @@ unfair competition,[经] 不公平竞争
 fake and inferior products,无
 promote sales, [法]推销
 fierce competition, 竞争激烈
-after-sale service,无
+after-sale service, [计]售后服务
 enterprise image,[网络] 企业形象；企业形象展示；企业形像
 brand effect, 品牌效应
 mutual understanding,[法] 互相谅解
@@ -15247,10 +15259,10 @@ vt. 打扮, 使穿着整洁漂亮"
 double income no kids,无
 a single-parent family,无
 support the elderly,无
-great-grandfather,无
-great-grandmother,无
-father-in-law,无
-mother-in-law,无
+great-grandfather, 曾祖父
+great-grandmother,曾祖母
+father-in-law,"[法] 岳父, 继父"
+mother-in-law,"岳母,婆婆"
 nephew,"n. 侄子, 外甥"
 niece,"n. 侄女, 甥女"
 cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
@@ -15265,12 +15277,12 @@ social security system,社会安全体系
 social security fund, [医]社会保险基金
 compulsory education,[法] 义务教育
 test-oriented education,无
-quality-oriented education,无
+quality-oriented education,[网络] 教学模式素质教育
 institute of higher education,无
 cultural quality,[网络] 文化素质；文化品格；文化品位
 impart knowledge and educate people,无
 dropout students,无
-left-behind children,无
+left-behind children,[网络] 留守儿童；留守孩子
 intellectual property,"[计] 知识财富
 [经] 著作权, 版权"
 law education,无
@@ -15297,7 +15309,7 @@ prestigious schools,无
 study load,无
 tuition fees, 学费
 sustainable development, 可持续发展
-environment-friendly,无
+environment-friendly,[网络] 环保；环保型；环境友好
 conserve natural habitats,无
 animal rights activists,无
 natural reserve,自然保护区
@@ -15360,13 +15372,13 @@ a. 速成的
 mahjong,"n. 〈外〉麻将牌
 [网络] 麻将沙发；麻将运动；麻将馆"
 the Double Ninth Festival,无
-cross-cultural communication,无
+cross-cultural communication,[网络] 跨文化交流；跨文化交际；跨文化沟通
 cross-cultural exchange,无
 cross-cultural interaction,无
 cultural differences,文化差异
 cultural traditions,文化传统
-main-stream culture,无
-e-commerce,无
+main-stream culture, [医]主流文化
+e-commerce, [计]电子商务
 web-addiction,无
 computer crime,[计] 计算机犯罪
 virtual life,"虚拟人生
@@ -15376,7 +15388,7 @@ cyber romance,[网络] 网恋；网络爱情；网络恋爱
 revitalize China through science and education,无
 strategy of sustainable development,无
 hacker,"[计] 计算机窃贼, 计算机新技术挑战者, 黑客"
-4-G,无
+4-G,[网络] 第四代移动通信；四代技术；四核
 Generation Four mobile communication system,无
 cloning,"[计] 研制兼容产品
 [化] 克隆"
@@ -15384,7 +15396,8 @@ genetic engineering,"[计] 遗传工程
 [化] 基因工程; 遗传工程; 遗传工程学"
 GM food,abbr. Genetically modified food 转基因食品
 genetically modified food,[网络] 转基因食品；基因改造食品；基因改造食物
-test-tube baby,无
+test-tube baby,"un. 试管婴儿
+[网络] 脑溢血；降血脂；体外人工受精"
 GPS,"abbr. (=gauge pressure)【物】表压
 [网络] 全球卫星定位系统；卫星定位仪；全球卫星导航仪"
 global positioning system,全球位置测定系统
@@ -15395,7 +15408,8 @@ information explosion,"信息[情报,知识]爆炸"
 Internet real-name system,无
 reduce waste,[网络] 减少浪费；减少废弃物；减少废物
 reduce the burden of,无
-e-ticket,无
+e-ticket,"n. 电子票
+[网络] 机票电子档；电子机票；机票的副本"
 ticket scalping,无
 scalper,"n. 剥头皮的人, 做投机倒卖的人, 雕刻刀
 [法] 投机倒把者"

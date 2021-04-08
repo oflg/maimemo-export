@@ -4045,7 +4045,7 @@ destiny,"n. 命运, 定数"
 doom,"n. 厄运, 不幸, 法律, 宣告, 判决, 死亡
 vt. 命中注定, 判决"
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 pave,"vt. 铺设, 安排, 铺满, 为...铺路
 [化] 铺设"
 route,"n. 路径, 途径, 路线
@@ -4698,7 +4698,8 @@ database,"[计] 数据库
 [化] 数据库"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 modernization,n. 现代化
 modernisation,n. <主英>=modernization
 sometime,一会儿
@@ -4994,7 +4995,7 @@ radar,"n. 雷达, 无线电探测器
 [计] 雷达图"
 laser,"n. 激光
 [计] 激光器"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
 infrared,红外
@@ -5855,7 +5856,7 @@ keyboard,[化] 键盘
 cyberspace,网际空间之意
 web,[网络] 蜘蛛网；换为
 Internet,[网络] 互联网；因特网；网际网路
-e-mail,无
+e-mail, 电子函政
 network,[机] 净功
 blog,n. 博客；部落格；网络日志
 log, = -logue
@@ -6385,7 +6386,7 @@ youngster,"n. 小孩, 年轻人, 少年
 mature,"a. 成熟的, 到期的, 充分考虑的
 vt. 使成熟
 vi. 成熟, 到期"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 adult,"n. 成人, 成虫
@@ -6512,7 +6513,7 @@ signature,"n. 签字, 识别标志, 调号
 [计] 签名附件"
 anonymous,"a. 姓氏不详的, 无名的, 无特色的
 [计] 无记录"
-so-called,无
+so-called,adj. 所谓的
 microscope,[网络] 显微镜
 telescope,"n. 望远镜
 vi. 叠缩, 嵌进, 缩短
@@ -6743,7 +6744,7 @@ motel,n. 汽车旅馆
 inn,"n. 客栈；旅馆
 vi. 住旅馆
 n. (Inn)人名；(柬)因"
-living-room,无
+living-room,"客厅, 起居室"
 suite,"n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事
 [电] 程序组"
 story,"n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层"
@@ -6780,7 +6781,8 @@ furnace,"n. 火炉, 熔炉, 考验
 vt. 在炉中烧"
 oven,"n. 烤箱, 灶, 子宫
 [化] 烘箱"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 vacuum,"n. 真空, 空间, 真空吸尘器
 a. 真空的, 产生真空的, 利用真空的
 vt. 用吸尘器打扫"
@@ -7527,7 +7529,8 @@ a. 过火的, 做作的
 v. 演得过火"
 hamburger,"汉堡, 汉堡[饼]"
 salad,n. 色拉
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 dessert,n. 餐后甜点
 snack,"n. 小吃, 点心, 快餐
 vi. 吃零食, 吃快餐"
@@ -8035,7 +8038,7 @@ adj. 小心的；有知觉的
 v. 注意；避免
 [网络] 商品；制品；陶器"
 counterbalance,[化] 托盘天平
-counter-culture,无
+counter-culture,[网络] 反文化；反主流文化；反抗文化
 devalue,"vt.vi. 降低...的价值, 贬值, 降低价值, 使(货币)贬值
 [经] 贬值"
 disintegrate,"vt. (使)分解, (使)碎裂
@@ -8332,7 +8335,7 @@ methodology,"n. 方法学, 方法论
 ancestry,"n. 祖先, 世系, 名门出身"
 citizenry,"n. 市民
 [法] 市民"
-belt-tightening,无
+belt-tightening,皮带张紧度
 brainstorm,[医] 脑暴发
 breakout,"突发, 爆发, 叫嚷, 倒空, 取出, 使作准备
 [机] 铸漏"
@@ -8358,7 +8361,8 @@ farfetched,"adj. 强词夺理的
 groundbreaking,"adj. 全新的；开创性的
 [网络] 破土动工；破土性；开拓性"
 lawsuit,[经] 向法院提出的诉讼
-light-hearted,无
+light-hearted,"adj. 轻松的；快活；省心
+[网络] 轻松有趣；无忧无虑；轻松愉快的"
 lockout,"na. 锁定；停工；排定教员；将学生关在课室外
 [网络] 太空一号；闭锁；锁死"
 spymaster,"[法] 间谍首脑, 特务头子"
@@ -8857,7 +8861,7 @@ buy,"vt. 买, 获得
 vi. 买
 n. 购买, 买得的东西"
 by,[网络] -通过
-bye-bye,无
+bye-bye,"睡觉,床铺,再见"
 café,无
 cage,"n. 笼, 牢房, 战俘营
 vt. 关进笼内"
@@ -13027,7 +13031,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -13267,7 +13271,8 @@ bring on,"na. “bring forward”的变体
 [网络] 引起；导致；造成"
 bring out,"na. 公布；说出；出版；上演
 [网络] 生产；阐明；说明"
-bring sb. to,使某人苏醒过来
+bring sb. to,"na. 使恢复知觉；【航】使停船
+[网络] 使复苏；使苏醒；加进"
 bring up,"na. 抚养；教导；教育；在…长大
 [网络] 培养；提出；养育"
 do away with,"废除, 弄死"

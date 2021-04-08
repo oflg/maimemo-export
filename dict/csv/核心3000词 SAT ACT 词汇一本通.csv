@@ -2160,7 +2160,7 @@ artificial,"a. 人造的, 假的, 非原地产的
 [医] 人工的, 人造的, 伟牟"
 biased,"a. 有偏见的
 [计] 边缘的"
-by-product,无
+by-product, 副产品，副产物
 coating,"n. 涂层, 上衣衣料
 [计] 涂复, 涂层, 镀层, 敷层"
 complicated,"a. 复杂的
@@ -3881,12 +3881,14 @@ ambivalent,"a. 矛盾的, 模棱两可的
 amount to,"[经] 等于, 相当于"
 antiquated,"a. 陈旧的, 过时的, 年老的"
 appealing,"a. 有感染力的, 动人的, 恳求的"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 bizarre,a. 奇异的
 calligraphy,"n. 笔迹, 书法"
 chance on,偶然发现
 cling to,"依附, 依靠, 坚持"
-close-knit,无
+close-knit,"adj. (论据等)严谨的；紧紧结合在一起的
+[网络] 紧密"
 compelling,"a. 强制的, 强迫性的, 激发兴趣的"
 composed,"a. 镇静的, 沉着的"
 combustion,"n. 燃烧, 骚动
@@ -3956,9 +3958,9 @@ renowned,"a. 有名的, 有声誉的"
 reserved,vt. re-serve的变形
 resolved,"a. 下定决心的, 断然的"
 scared,"a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的"
-self-aggrandizing,无
-self-effacement,无
-self-satisfied,无
+self-aggrandizing,a. 自我扩张的；谋求自我扩张的
+self-effacement,自我贬抑
+self-satisfied,"a. 自鸣得意的, 自满的"
 sophisticated,"a. 复杂的, 久经世故的
 [法] 尖端的, 高级的, 非常有经验的"
 spelunker,n. 探勘洞穴者；地下冒险
@@ -5869,10 +5871,12 @@ resigned,"(re-sign 的过去时) vt. 再签署, 再签字"
 revival,"n. 复兴, 复活, 恢复精神, 苏醒
 [医] 复苏, 回生, 精神重振"
 rousing,"a. 使觉醒的, 使奋起的, 使感动的"
-self-absorption,无
-self-deluding,无
-self-propelled,无
-self-righteous,无
+self-absorption,"[化] 自吸收
+[医] 自吸收"
+self-deluding,adj. self-delusion的变形
+self-propelled,a. 自力推进的
+self-righteous,"adj. 自以为是的；自以为有道德的；伪善的
+[网络] 自我正义；自视为道德者；自我正直的"
 set forth,"na. 公开；发行；公布；陈述
 [网络] 阐明；提出；出发"
 soak into,渗透入
@@ -5891,7 +5895,7 @@ tiptoe,"n. 脚尖；趾尖
 vi. 用脚尖走
 adv. 用脚尖
 a. 踮着脚走的；偷偷摸摸的"
-top-notch,无
+top-notch,"顶峰,顶点;最高级,第一流"
 unbundle,"vt.对(不同产品、劳务)作分类交易 
 vi.( 将一揽子交易中各部分)分类定价"
 untangle,"vt. 解开纠结, 解开, 整顿"
@@ -7297,16 +7301,16 @@ duplicitous,a. 奸诈的；双重的；搞两面派的
 ectotherm,n. 冷血动物
 folklorist,民俗学者
 freckled,"a. 雀斑, 斑点, 晒斑, (使)生雀斑, (使)生斑点"
-gene-sequencing,无
+gene-sequencing,【遗传学】基因序列调整
 gristle,"n. 软骨
 [医] 软骨"
-gut-level,无
+gut-level,[网络] 本能式
 homologous,"a. 相应的, 同源的, 一致的
 [医] 同种的(组织,血清), 同系的(化合物), 相应的, 类似的"
 inbred,[网络] 近交品系
 inflammability,"n. 可燃性, 易兴奋性, 易激动性
 [机] 易燃性, 可燃性"
-level-headed,无
+level-headed,adj. 头脑冷静的；清醒的
 lookout post,无
 ludic,"a. 顽皮的, 开玩笑的"
 maladroit,"a. 笨拙的, 拙劣的, 愚钝的"

@@ -3899,7 +3899,7 @@ ceiling,"n. 天花板
 balcony,"n. 阳台, 戏院楼厅"
 porch,"n. 门廊, 走廊"
 furnished,"a. 家具, 有家具的"
-air-conditioner,无
+air-conditioner,[化] 空调器; 空气调节器
 vacuum cleaner,"真空吸尘器
 [化] 真空除尘器; 真空吸尘器"
 microwave oven,[网络] 微波炉
@@ -4024,7 +4024,8 @@ champagne,[网络] 香槟省
 dessert,n. 餐后甜点
 refreshment,"n. 点心, 起提神作用的事物, 精神爽快"
 pudding,n. 布丁
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 bill,"n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据
 vt. 开帐单, (用招贴)宣布"
 coupon,"n. 息票, 赠券
@@ -4178,7 +4179,7 @@ side effect,"副作用
 [计] 副作用"
 bandage,"n. 绷带
 [化] 帘布筒; 实心轮胎; 紧带; 绷带"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 hospitalize,"vt. 送...进医院治疗
 [医] 入院"
 account,"n. 账户；解释；账目，账单；理由
@@ -4323,9 +4324,10 @@ express train,"直达快车,特快列车"
 fare,"vi. 经营；进展；遭遇；过活
 n. 票价；费用；旅客；食物
 n. (Fare)人名；(瑞典)法勒；(法、意)法尔"
-one-way ticket,无
+one-way ticket,"n. 单程票
+[网络] 单程车票；单程机票；一张单程车票"
 return ticket,[经] 来回票
-round-trip ticket,无
+round-trip ticket,[网络] 来回票；往返票；双程票
 airline,[化] 空气管路
 flight,"n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝
 vi. 迁徙
@@ -4400,7 +4402,7 @@ sailing,"n. 航行, 航海术, 启航
 a. 航行的"
 diving,"n. 潜水, 跳水"
 mountain climbing, 爬山
-rock-climbing,无
+rock-climbing,攀岩运动
 skiing,"(ski 的现在分词) n. 滑雪橇
 vi. 滑雪"
 soccer,n. 英式足球
@@ -4503,7 +4505,7 @@ elite,"n. 精华, 精锐, 中坚分子"
 alumnus,"n. 男毕业生, 男校友"
 prestige,"n. 声望, 威望, 威信
 [经] 商誉, 声誉"
-self-assessment,无
+self-assessment, [财]自我评税; [体]自我评价
 certificate,"n. 证书, 证明书
 vt. 发给证明书, 用证书批准, 用证书证明"
 diploma,"n. 文凭, 毕业证书
@@ -5189,7 +5191,7 @@ entrepreneur,"n. 企业家, 主办人
 [经] 承包商, 企业家"
 manufacturer,"n. 制造业者, 厂商
 [经] 制造人, 制造商, 制造厂"
-start-up,无
+start-up,"突然站起, 突然出现, 发动, 开动"
 merge,"vt. 使合并, 使消失, 吞没
 vi. 合并, 渐渐消失
 [计] 合并"
@@ -6044,7 +6046,7 @@ forestry,"n. 林学, 森林地
 fishing,"n. 钓鱼, 鱼业
 a. 钓鱼的"
 service industry,n. 服务行业
-market-oriented,无
+market-oriented,市场导向
 economic situation,经济形势
 recession,"n. 后退, 凹处, 衰退, 归还
 [医] 退缩"
@@ -6088,7 +6090,7 @@ credit squeeze,"贷款紧缩
 [经] 信用紧缩"
 interest rate,"利率
 [经] 利率"
-job-hunting,无
+job-hunting, 求职
 the want ads,无
 position,[网络] 位置
 post,"n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营
@@ -6161,7 +6163,8 @@ mortgage,"n. 抵押, 约束性义务, 抵押借款
 vt. 抵押, 以...作担保, 把...许给"
 taxation,"n. 课税, 征税, 抽税, 税款, 估定的税额
 [经] 征税, 纳税, 税制"
-tax-free,无
+tax-free,"adj. 免税的；上过税的
+[网络] 退税；免税店；退税的免税购物标志"
 taxpayer,[经] 纳税人
 stock exchange,"证券交易(所)
 [法] 证券交易所"
@@ -6252,7 +6255,7 @@ carbon dioxide,"二氧化碳
 [化] 二氧化碳"
 green car,环保汽车
 engine displacement,发动机排量
-zero-emission vehicle,无
+zero-emission vehicle,零排放车
 energy crisis,[化] 能源危机
 crude oil,"原油
 [化] 原油"
@@ -6287,7 +6290,8 @@ enrollment rate,就学率
 higher education,na. 高等教育
 college of liberal arts,文学院
 ivory tower,"象牙之塔,空中楼阁,脱离现实的天地"
-well-educated,无
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
 undergraduate,"n. 大学生；大学肄业生
 a. 大学生的"
 postgraduate,[网络] 研究生；研究生文凭；硕士
@@ -6337,8 +6341,8 @@ hardware, [医]硬件，硬设备
 software,软件;程序设备;语言设备;方案;设计计算法
 artificial intelligence,[计] 人工智能
 virtual bank, 虚拟银行
-e-business,无
-e-commerce,无
+e-business, [通信]电子商业
+e-commerce, [计]电子商务
 search engine,(指关键字搜寻演算法或是指包括搜寻演算法的套装软件)
 computer virus,"计算机病毒
 [计] 计算机病毒"
@@ -6366,7 +6370,7 @@ public transportation,"公共交通, 公共运输；公共交通工具"
 overcrowded, [医]过密，密郁闭
 pirated,a. 盗版的
 health care, 卫生保健
-reform and opening-up,无
+reform and opening-up,[网络] 改革开放；改革和开放
 sustainable development, 可持续发展
 census,"n. 户口普查
 vt. 实施统计调查"
@@ -6382,7 +6386,8 @@ roommate,"n. 室友；同住一室的人
 [网络] 暧昧的同居室友；我的室友；微电影"
 spare time,n. 消遣时间; 闲空; 余; 工余
 teamwork,"[经] 协力, 配合"
-part-time job,无
+part-time job,"un. 零星工作
+[网络] 兼职；不限地区不限时间单笔结算；兼职工作"
 pocket money,"零用钱
 [经] 零用钱"
 peer pressure,[网络] 同侪压力；同伴压力；同辈压力
@@ -6401,7 +6406,7 @@ cereal,"n. 谷类食品, 谷类植物
 a. 谷类的"
 nutrient,"a. 营养的, 滋养的
 n. 营养物, 滋养物"
-low-fat,无
+low-fat, [医]低脂肪，低脂
 high blood pressure,n. 高血压（症）
 daily necessities,生活必需品
 additive,"a. 添加的, 附加的, 加法的, 累积的
@@ -6417,7 +6422,7 @@ resource,"n. 资源, 财力, 办法, 策略, 急智, 消遣
 creature,n. 动物，生物；人；创造物
 habitat,"n. 栖息地, 居留地, 自生地, 聚集处
 [医] 习生地, 产地, 生境, 栖所"
-over-fishing,无
+over-fishing, [水产]捕捞过度
 water shortage,水量不足
 energy crisis,[化] 能源危机
 sustainable development, 可持续发展
@@ -6440,7 +6445,7 @@ credit card,"[计] 信用卡, 记帐卡
 [经] 信用卡片, 赊购证, 购物信用卡"
 public transport,"n. 公共交通, 公共交通工具, 公交车辆"
 rush hour,"n. （上, 下班的）高峰期"
-high-speed rail,无
+high-speed rail,[网络] 高速铁路；高铁；高速铁路计划
 traffic jam,"塞车, 交通阻塞"
 speed limit,[电] 速度限制
 traffic accident,[医] 交通事故
@@ -6448,12 +6453,13 @@ domestic violence, 家庭暴力
 divorce rate, 离婚率
 interpersonal relationship,人际关系
 gratitude,n. 感激之情
-self-discipline,无
-far-sighted,无
+self-discipline,"n. 自律；自我约束
+[网络] 自我训练；自我控制；自我纪律"
+far-sighted,"a. 有远见的, 远视的, 慎重的"
 determined,"adj. 决定了的；坚决的
 v. 决定；断定（determine的过去分词）"
 selfish,"a. 自私的, 利己主义的, 自我中心的"
-cross-cultural communication,无
+cross-cultural communication,[网络] 跨文化交流；跨文化交际；跨文化沟通
 be accustomed to,习惯于
 sightseeing,"n. 观光, 游览
 a. 观光的, 游览的"
@@ -6486,7 +6492,7 @@ vacancy,"n. 空, 空白, 空缺, 空虚, 空闲
 [化] 空位"
 opening,"n. 开始, 口子, 穴, 揭幕
 a. 开始的"
-job-hunting,无
+job-hunting, 求职
 the want ads,无
 resume,[网络] 恢复
 application letter,[网络] 求职信；申请信；申请书
@@ -6692,7 +6698,7 @@ brilliant,"a. 光辉的, 灿烂的, 有才气的
 [机] 亮的"
 exhausted,a. 耗尽的；疲惫的
 fatigued,a. 疲乏的
-worn-out,无
+worn-out, 磨穿; 疲乏
 weary,"a. 疲倦的, 萎靡的, 厌倦的, 厌烦的
 vt. 使疲倦, 使厌烦
 vi. 疲乏, 生厌, 不耐烦"
@@ -6856,7 +6862,7 @@ ultimately,"adv. 最后, 最终
 [法] 最后, 终究, 总之"
 eventually,"adv. 最后, 终于"
 come up with,"赶上, 提出"
-occur to sb.,"浮现在某人脑海中,被人想起"
+occur to sb.,…发生在; 被想起〔到〕
 be connected with,与...相连/联系
 be linked to,与...连接
 be relevant to,与...有关
@@ -7259,7 +7265,8 @@ cancel,"n. 取消, 撤消, 盖销(邮票)
 vt. 取消, 删去, 抵销, 盖销
 vi. 相互抵销
 [计] 作废"
-call sb. up,打电话给某人
+call sb. up,"na. 传；动员；打电话给；【电讯】呼唤
+[网络] 召集；使想起；召唤"
 cater for,"供应伙食, 迎合"
 meet,"n. 会, 集会
 a. 适宜的, 合适的

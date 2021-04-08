@@ -943,7 +943,7 @@ vi. 反对"
 crew,"n. 全体人员, 一群人, 全体队员
 crow的过去式"
 sake,"n. 目的, 缘故, 理由"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 interrupt,"vt. 中止，中断，阻碍；遮断；打断(别人讲话等)；打扰；打破…的平衡(或连续性等)
 vi. 打断；打扰
 n. 中断；暂停；隔阂；距离；分隔；裂痕；【计算机】中断信号"
@@ -3127,7 +3127,8 @@ vt. 向...作信号, 标志, 用信号通知
 vi. 发信号
 a. 作为信号的, 显著的
 [计] 信号"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 alleviate,"vt. 减轻, 使缓和"
 identify,"vt. 识别, 认为...等同于, 确定, 使参与
 vi. 一致, 认同"
@@ -6612,8 +6613,8 @@ battery,"n. 电池, 殴打
 highland,高地
 skeptical,"a. 怀疑论的, 怀疑的, 不可知论的
 [法] 怀疑的, 不信的, 怀疑论者的"
-so-called,无
-grown-up,无
+so-called,adj. 所谓的
+grown-up,"成年的,适于成年人的"
 extravagant,"a. 奢侈的, 挥霍无度的, 浪费的"
 turkey,"n. 火鸡, 无用的家伙, 土耳其"
 colonel,"n. 陆军上校, 长官"
@@ -6857,7 +6858,7 @@ renaissance,"n. 复活, 复兴, 文艺复兴
 a. 文艺复兴的"
 capsule,密封舱
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 confess,"v. 承认, 坦白, 忏悔, 供认"
 impatient,"a. 不耐烦的, 着急的, 急切的"
 outcome,n. 结果，结局；成果
@@ -7925,12 +7926,12 @@ keyword,"关键字, 保留字
 [计] 关键字"
 kindle,"vt. 点燃, 使着火, 引起, 照亮
 vi. 着火, 激动, 发亮"
-laid-off,无
+laid-off,[经] 被解雇的
 lavish,"a. 大方的, 丰富的, 浪费的
 vt. 浪费, 滥用, 慷慨给予"
 lawsuit,[经] 向法院提出的诉讼
 legible,"a. 清晰的, 易读的"
-light-year,无
+light-year,n. 光年
 limpid,"a. 清澈的, 透明的, 平静的"
 livelihood,"n. 生计, 营生, 生活"
 lobster,n. 龙虾
@@ -8002,7 +8003,7 @@ oasis,"n. 绿洲, 舒适的地方
 [医] 绿洲(沙漠中), 健岛(病变区中的健康组织)"
 obsess,"vt. 迷住, 使困扰"
 offshore,离岸
-off-the-cuff,无
+off-the-cuff,"即兴地, 非正式地"
 olive,"n. 橄榄, 橄榄树, 橄榄色, 橄榄枝
 a. 黄绿色的, 黄褐色的, 橄榄色的"
 oncologist,n. 肿瘤学家；肿瘤医师
@@ -8071,8 +8072,8 @@ rating,"n. 等级, 额定功率, 责骂
 [经] 等级评定"
 rattlesnake,响尾蛇
 raze,"vt. 毁灭, 刮去, 把...夷为平地, 消除, 抹去, 破坏"
-ready-made,无
-red-hot,无
+ready-made,"[经] 现成的, 预先制好的"
+red-hot, 红热
 refrigerated,v. 冷藏( refrigerate的过去式和过去分词 ); 冷冻
 regain,"vt. 恢复；重新获得；收回
 vi. 上涨
@@ -8130,7 +8131,8 @@ sledge,"n. 雪橇, 大锤
 vt. 用雪橇搬运
 vi. 坐雪橇"
 slowdown,(使)慢下来
-small-minded,无
+small-minded,"adj. 小气的
+[网络] 心胸狭窄的；气量小的"
 smallpox,天花
 smoothly,"adv. 平滑地, 流畅地, 流利地"
 smother,[网络] 他受到嘉莉母亲的细心护理；的妈妈
@@ -8265,7 +8267,7 @@ n. 有翅动物, 挥发物
 wade,"vi. 跋涉
 vt. 涉水
 n. 跋涉, 浅滩"
-wait-and-see,无
+wait-and-see,等着瞧
 warranty,"n. 正当理由, 授权, 担保, 保证, 根据
 [经] 保单, 担保书, 保证书"
 waver,"n. 动摇, 踌躇, 挥动者
@@ -8364,7 +8366,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 airport,[机] 通气口
 alive,"a. 活着的, 活泼的, 敏感的, 热闹的"
 all,"pron. 一切；全部；大家；全都
@@ -9465,7 +9468,7 @@ elephant,n. 象
 eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
-e-mail,无
+e-mail, 电子函政
 employ,"n. 雇用
 vt. 雇用, 使用, 使从事于"
 empty,"a. 空的, 空虚的, 空腹的, 空洞的
@@ -11009,7 +11012,8 @@ n. 英语字母表的第9个字母；（罗马数字）1
 abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 if,"conj. 如果；当；倘若；假若
@@ -11298,7 +11302,7 @@ adv. 实况地"
 lively,"a. 活泼的, 鲜明的, 生动的"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
@@ -13344,7 +13348,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -14816,7 +14820,8 @@ economic system,[经] 经济制度
 planned economy,"计划经济
 [经] 计划经济"
 market economy,[经] 市场经济
-market-oriented economy,无
+market-oriented economy,"un. 市场主导型经济
+[网络] 市场经济"
 market cycle,[经] 市场循环
 market demand,[经] 市场需要
 state-owned business,无
@@ -14897,7 +14902,7 @@ predominance,"n. 主导地位, 优势"
 vitality,"n. 活力, 生命力
 [医] 生机, 活力, 生活"
 unexploited,"a. 未被利用的,未经开发的"
-energy-intensive,无
+energy-intensive,能源密集型的；能源消耗量大的
 commercialize,"vt. 使商业化, 使商品化, 使能营利, 在...发展商业
 [经] 使商业化, 使商品化, 在...发展商业"
 underfund,vt. 对…提供的资金不足
@@ -14924,9 +14929,9 @@ manpower,[经] 人力
 title,"n. 头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕
 vt. 授予头衔, 加标题于
 [计] 标题"
-part-timer,无
+part-timer,兼职者；计时工
 temporary worker, 临时工
-self-employment,无
+self-employment, [财]个体劳动
 opening,"n. 开始, 口子, 穴, 揭幕
 a. 开始的"
 negotiate,"vi. 商议, 谈判, 交涉
@@ -14959,7 +14964,7 @@ vi. 结婚, 相配
 electronics,"n. 电子学
 [计] 电子学"
 telecommunication,电信
-e-mail,无
+e-mail, 电子函政
 teleconference,电话会议；[通信] 远程会议
 distant conference,无
 sharing of information,信息的共享
@@ -15082,7 +15087,7 @@ validity,"n. 有效性, 正确性
 period terminate,无
 suspension,"n. 悬挂, 暂停, 中止
 [化] 悬浮; 悬浮体; 悬浮液"
-in-house counsel,无
+in-house counsel,[网络] 内部法律顾问；公司律师；公司的法律顾问
 citizenry,"n. 市民
 [法] 市民"
 basic right,[网络] 基本权利
@@ -15092,7 +15097,8 @@ higher up,n. [口语][常用复数]上级，上司；长官，首长，领导；
 elitism,n. 精英主义
 bureaucratic,"a. 官僚的
 [经] 机僚化的"
-self-governing,无
+self-governing,"a. 自治的, 自制的
+[法] 自治的, 自制的"
 espionage,"n. 间谍活动
 [法] 间谍活动, 刺探, 间谍"
 spymaster,"[法] 间谍首脑, 特务头子"
@@ -15105,7 +15111,8 @@ civilization,"n. 文明, 教化
 [法] 文明, 文化, 文明国家的总称"
 democratic society,民主社会
 agricultural society,农业学会，农民团体（美国早期农民组织）
-socio-economic,无
+socio-economic,"adj. 社会与经济的；社经的
+[网络] 社会经济；确实激励鼓舞了社会经济；其社会经济"
 social status,社会地位
 social ladder,社会阶梯
 social inequality,社会不平等
@@ -15142,12 +15149,13 @@ deterioration,"n. 恶化, 衰退, 退化
 a touch on the brakes,无
 adolescence,"n. 青春期
 [医] 青年期, 青春期"
-house-proud,无
+house-proud,"adj. 关心家事的；讲究家庭摆设的
+[网络] 以自己国家为骄傲的"
 extended family,"n. 大家庭, 扩大的家庭（如数代同堂的家庭）"
 parental permission,无
 mental conversation,无
 intense perceptual distortion,无
-anti-intellectualism,无
+anti-intellectualism, 反智主义
 aggressive patriotism,无
 advocate,"n. 提倡者, 拥护者
 vt. 主张, 提倡"
@@ -15158,10 +15166,11 @@ induction,"n. 归纳法, 感应, 就职, 入门
 deduction,"n. 减除, 扣除, 减除额, 推论
 [医] 演绎, 推论"
 humanity,"n. 人性, 人类, 博爱"
-self-respect,无
+self-respect, [体]自尊
 soul searching,"na. 反省
 [网络] 寻找智美更登；深刻的自我反省；精神自省"
-self-examination,无
+self-examination,"n. 自我检查
+[网络] 自我反省；自我检视；自我乳房检查"
 anthropological,人类学的
 census,"n. 户口普查
 vt. 实施统计调查"

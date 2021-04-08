@@ -634,7 +634,7 @@ vt. 重击, 猛投, 给...穿袜
 vi. 打击
 adv. 正着地, 不偏不倚地
 a. 非常成功的"
-so-called,无
+so-called,adj. 所谓的
 panda,"n. 大熊猫, 小熊猫"
 crossing,"n. 横越, 横渡, 交叉点, 渡口
 [经] 划线"
@@ -821,7 +821,7 @@ shy,na. 讨厌…的
 pool,"n. 池, 水塘, 石油层, 联营
 vt. 合伙经营, 共享, 采掘, 汇聚成
 vi. 汇合成塘, 淤积, 联营"
-man-made,无
+man-made,人造的
 spaceship,"[法] 太空船, 航天飞船"
 season,"n. 季节, 时节, 当令期, 时期
 vt. 给...调味, 使成熟, 使老练, 缓和
@@ -913,7 +913,8 @@ think的过去式和过去分词"
 environment,"n. 环境, 外界, 围绕
 [计] 环境"
 office,[网络] 办公室；写字楼
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 flood,"n. 洪水, 大量之水, 涨潮
 vt. 淹没, 使泛滥, 注满
 vi. 被淹, 溢出, 涌进"
@@ -2624,7 +2625,7 @@ a. 公平的, 按规则进行的, 不好不坏的, 晴朗的, 美丽的
 adv. 公平地, 正面地, 有教养地, 清楚地
 vi. 转晴"
 comfortable,[网络] 舒适
-part-time,无
+part-time,n. 兼任，部分时间
 metre,[网络] -仪表
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
@@ -2905,7 +2906,8 @@ adj. 最好的；最出色的；最优秀的；最愉快的
 n. 最好的事物（或人）；（人或事物所能达到的）最高标准
 v. 胜过；打败
 [网络] 最佳；贝斯特；倍思特"
-best-seller,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
 between,"prep. 在…之间
 adv. 在中间"
 big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
@@ -3236,7 +3238,7 @@ elephant,n. 象
 eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
-e-mail,无
+e-mail, 电子函政
 empty,"a. 空的, 空虚的, 空腹的, 空洞的
 n. 空的东西, 空车
 vt. 倒空, 使变空, 使排出
@@ -3413,7 +3415,7 @@ hair,"n. 头发, 毛发, 些微
 half,"n. 一半, 半场, 不完全
 a. 一半的, 不完全的, 部分的, 半场的
 adv. 一半地, 部分地, 在某种程度上地, 几乎"
-half-way,无
+half-way,"中途,半路上"
 hand,"hand
 [hænd]
 n.
@@ -4175,7 +4177,7 @@ happily,"adv. 幸福地, 快乐地, 幸好"
 happy,[网络] -快乐
 hard,"a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的
 adv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
-hard-working,无
+hard-working,辛勤工作的
 hat,"n. 帽子
 vt. 给...戴帽子"
 have,"vt. 有, 怀有, 拿, 进行
@@ -4407,7 +4409,8 @@ kilo,comb.form 表示“千”
 kind,"n. 种类；性质
 adj. 和蔼的；宽容的；令人感激的
 n. (Kind)人名；(德、俄、法、捷)金德；(瑞典)欣德"
-kind-hearted,无
+kind-hearted,"adj. 仁慈的
+[网络] 好心的；善良；仁慈的心"
 kite,"n. 风筝, 筝帆, 空头支票, 骗子
 vi. 象风筝一样飞, 轻快地移动, 使用空头支票
 vt. 使上升, 骗钱"
@@ -4459,7 +4462,7 @@ little,"adj. 小的；很少的；短暂的；小巧可爱的
 adv. 完全不
 n. 少许；没有多少；短时间
 n. (Little)人名；(英)利特尔"
-living-room,无
+living-room,"客厅, 起居室"
 London,[网络] 伦敦；英文单词伦敦；五环及英文单词伦敦
 long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
 adj. （长度或距离）长的；（询问或谈论长度或距离）长；长时间的；长久的
@@ -4513,7 +4516,7 @@ meeting,"n. 会议, 会面
 member,"n. 成员；会员；分子；身体部位（尤指胳膊或腿）
 [网络] 会员中心；委员；构件"
 microcomputer,微电脑
-mid-autumn,无
+mid-autumn,中秋
 middle,"n. 中央, 中间, 腰部
 a. 中央的, 中庸的, 中间的"
 milk,"n. 奶, 乳状物
@@ -4559,7 +4562,8 @@ mountain,"n. 山, 山脉, 大堆"
 mouth,"n. 嘴, 口, 口腔, 口状物
 vi. 装腔作势说话, 做鬼脸
 vt. 说出, 做作地说"
-mouth-to-mouth,无
+mouth-to-mouth,"adj. 口对口的
+adv. 口对口地"
 move,"n. 行动；移动；搬家；活动
 v. 移动；搬家；搬迁；前进
 [网络] 搬动；感动；移动文件"
@@ -4629,7 +4633,7 @@ adj. 老的；陈年的；…久的；年龄较长的
 Olympic,"a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
 on,suf. 表示“非酮(或氧基)化合物”：parathion; 表示：[生物学]“…子(指基本遗传成分)”; [物理学]“…子(指基本粒子或量子)”; [化学]表示“惰性气体”：neon
 one," [医]〔后缀〕意为酮, 在化学中用以表示有两个烃基附在羰基上的一种化合物"
-one-way,无
+one-way,[电] 单向
 only,"a. 唯一的, 仅有的, 最佳的
 adv. 只有, 仅仅, 只能
 conj. 但是, 不过"
@@ -4668,7 +4672,7 @@ pea,"n. 豌豆, 似豌豆的东西"
 pen,[网络] 国际笔会
 pencil,"n. 铅笔, 色笔, 眉笔, 画笔, 光线束
 vt. 用铅笔写或涂, 草拟"
-pencil-box,无
+pencil-box, 铅笔盒
 people,"n. 人, 人民, 民族, 平民
 vt. 使住满人, 居住于"
 photo,"光,照相"
@@ -4696,7 +4700,7 @@ adj. 红的；红色的；充血的；布满血丝的
 [网络] 红(redness)；赤焰战场；红颜色"
 river,"n. 河, 江
 [法] 河流, 江河, 内河"
-roller-skating,无
+roller-skating, 滑旱冰
 Rome,n. 罗马
 room,"n. 房间, 空位, 场所
 vi. 住宿, 居住
@@ -4819,7 +4823,7 @@ song,"n. 歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌"
 soon,[网络] 如些这般；就上吧；叫阵
 sorry,"adj. 遗憾的；对不起的，抱歉的
 int. 对不起，抱歉（表示委婉的拒绝等）"
-so-so,无
+so-so,"勉强过得去, 一般"
 south,"n. 南方, 南
 a. 南的, 向南的
 adv. 在南方
@@ -4979,15 +4983,15 @@ tree,[网络] 树；树结构；连通图为树
 trousers,"pl. 裤子, 长裤"
 tryout,"na. (采用前)严密试验；筛矿；量(金属的)纯度
 [网络] 试用；尝试；考验"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 Tuesday,n. 星期二
 twelfth,"num. 第十二, 十二分之一"
 twelve,"num. 十二, 十二个"
 twentieth,"num. 第二十, 二十分之一"
-twenty-first,无
+twenty-first, 第二十一
 twice,"adv. 两次, 两倍"
 two,"num. 二, 二个"
-two-story,无
+two-story, 两层的
 UK,"n. 英国；联合王国
 abbr. United Kingdom 联合王国
 [网络] 英国(United Kingdom)；尿激酶(urokinase)；英国码"
@@ -5110,7 +5114,7 @@ your,"pron. 你的, 你们的"
 yours,[网络] 是你的
 yourself,[网络] 过你的自性；你自己
 yourselves,pron. 你们自己；你们本人（yourself的复数）
-yo-yo,无
+yo-yo, 悠悠球，溜溜球，摇摇（拉线使圆盘旋转着沿线上下来回移动）
 zero,"n. 零, 零点, 零度, 无, 乌有, 最低点
 a. 零的, 没有的
 vt. 调零, 对(炮火等)作协调校正
@@ -5137,7 +5141,7 @@ after all,毕竟
 again and again,"再三地, 反复地"
 agree on,"就…取得一致意见,商定"
 agree to,"同意,赞成…"
-agree with sb.,[网络] 赞成某人；同意某人；同意某人的意见
+agree with sb.,"同意…,与…意见一致;适应…"
 aim at,"v. 目的在于
 [网络] 瞄准；针对；旨在"
 all by oneself,"独立,独自,单独"
@@ -5155,10 +5159,10 @@ all year round,一年到头，终年；全年地，整年地
 along with ...,"与…一道,与…一起,连同…"
 and so on,等等
 answer the phone,接电话
-apologize to sb.,无
-apologize for sth.,无
+apologize to sb., 向某人道歉
+apologize for sth.,因…而道歉
 argue about,"争论…,辩论…"
-argue with sb.,跟某人辩论
+argue with sb.,和…辩论
 arrive at,"到达, 达到"
 as a result of ...,作为结果
 as for ...,至于
@@ -5207,17 +5211,17 @@ at weekends, 在周末
 on weekends,[网络] 在周末；每逢周末；每周末
 be able to,"能, 会"
 be about to,即将
-be afraid of sth.,无
+be afraid of sth.,害怕
 be afraid of doing sth.,无
 be amazed at ..., 对…感到惊讶；对…感到害怕
-be angry with sb.,对某人生气
+be angry with sb.,对(某人)生气
 be away from, 远离；从…离开; 距离
 be bad for ...,对…有害
 be based on ...,"以…为基础,以…为根据"
 be born in,[网络] 出生于；出生在；诞生于
 be born on,无
-be busy with sth.,无
-be busy doing sth.,正忙于做…
+be busy with sth.,忙于
+be busy doing sth.,忙于(做)...
 be close to,"接近于..., 在...附近, 在...左近"
 be covered with ...,"被...盖满, 充满着..."
 be crowded with ...,"充满,满是"
@@ -5265,13 +5269,13 @@ be short of,"缺乏..., ...不足"
 be similar to ...,与...相似
 be sorry for,"对...感到懊悔, 对...感到遗憾, 为...感到惋惜, 对...感到怜悯"
 be strict in,[网络] 对某事严格要求；对某事要求严格；严于
-be strict with sb.,无
+be strict with sb.,"对...严格, 对...严历"
 be supposed to do, 应当，应该
 be sure to do,"na. 必定
 [网络] 肯定做某事；一定会做某事；一定要做某事"
 be surprised at,对…惊讶
 be talented in,无
-be thankful to sb.,无
+be thankful to sb.,[网络] 感激；感谢；感激的
 be tired of,厌烦
 be up to,"胜任,达到,由…负责"
 be used as,[网络] 被用作；被用做；被当作
@@ -5286,7 +5290,8 @@ be used to doing,无
 get used to doing,无
 because of,因为
 before long,不久以后
-beg sb. to do sth.,请求(某人)做(某事)
+beg sb. to do sth.,"na. 去乞讨；没有买主
+[网络] 请求做某事；恳求做某事；恳请做某事"
 begin with,"以…开始,首先"
 believe in,"信仰, 信任"
 belong to,属于
@@ -5324,7 +5329,7 @@ by the time,"到…的时候,截至"
 by the way,"在途中, 顺便"
 by then,到那时
 by turns,"轮流, 交替"
-call at sb.,无
+call at sb.,"停靠(车站), 拜访(家/办公室)"
 call the police,[网络] 报警；叫警察；打电话给警察
 call up,"na. 传；动员；打电话给；【电讯】呼唤
 [网络] 召集；使想起；召唤"
@@ -5404,8 +5409,9 @@ do business,"na. 做买卖
 [网络] 做生意；经商；特指经商"
 do harm to, 损害。。。，伤害。。。; 残害
 do one's best,尽全力
-do sb. a favor,"帮某人的忙,为某人尽力"
-do sb. good,对某人有益
+do sb. a favor,[网络] 帮忙；帮一个忙；做好事
+do sb. good,"v. 有益
+[网络] 做好事；有好处；行善"
 do some exercises,无
 do some shopping, 买东西
 do well in,"成绩好,…做得好"
@@ -5425,7 +5431,7 @@ early or late,迟早
 earn one's living,"谋生, 维持生活"
 eat up,"吃光, 耗尽, 吞灭"
 either ... or ...,adv. 不是…就是…，…或…，要么…要么…
-encourage sb. to do,无
+encourage sb. to do,[网络] 鼓励…做；鼓励做某事
 end up with,〈非正〉以…结束
 end up,"竖着, 结束, 死"
 enjoy oneself,过得快乐
@@ -5438,7 +5444,7 @@ even though,"虽然, 尽管"
 ever since,从那时到现在
 exchange ... with ...,v. 与…交换
 face to face,面对面
-fail in sth.,无
+fail in sth.,在…失败;缺乏…
 fall behind,"落在后面, 拖欠"
 fall ill,得病
 fall in love with,爱上
@@ -5469,9 +5475,10 @@ for sale,"待售
 for sure,确实
 for the first time,第一次
 for the purpose of ..., 为了，因…起见; 借以
-force sb. to do,无
-forget doing sth.,无
-forget to do sth.,无
+force sb. to do,"v. 强人所难
+[网络] 强迫；好多都用不定式；被迫做某事"
+forget doing sth.,忘记(曾做过)...
+forget to do sth.,忘记(做)...
 free from,"na. 无…的
 [网络] 不受…影响的；免于；没有"
 from now on,从现在开始
@@ -5534,8 +5541,9 @@ give off,"na. 发散(水蒸气等)
 [网络] 发出；放出；释放"
 give out,"分发, 发出, 发表, 用尽, 精疲力竭"
 give reasons for ...,"陈述理由,解释"
-give sb. a call,[网络] 给某人打电话；打电话给某人；给……打电话
-give sb. a hand,给予(某人)帮助
+give sb. a call,[网络] 给……打电话；给某人打电话；给我电话
+give sb. a hand,"un. 制住；帮着干一点
+[网络] 帮助；帮忙；提供帮助"
 give up,"na. 放弃；断绝；投降；自首
 [网络] 停止；抛弃；认输"
 go abroad,出国
@@ -5552,9 +5560,9 @@ go for a walk,散步
 go hiking, 远足
 go in for,"参加, 追求, 从事, 赞成"
 go on a diet,"用规定食谱, 节食"
-go on to do sth.,接着做某事
-go on with sth.,无
-go on doing sth., 继续做某事
+go on to do sth.,无
+go on with sth.,暂时使用
+go on doing sth., 继续做
 go on a picnic,去野餐
 have a picnic,"吃野餐,去野餐"
 go out of one's way to do,无
@@ -5569,7 +5577,7 @@ go wrong,"走错路, 出毛病, 失败"
 graduate from,从...毕业
 green hand,"新手,生手"
 grow up,"成熟, 成年, 发展, 逐渐形成"
-had better do sth.,最好做某事（had是have的过去式和过去分词）
+had better do sth., 最好（做）
 had better not do sth.,无
 hand in hand,"手拉手, 联合"
 hand in,"na. 交进
@@ -5582,7 +5590,7 @@ hang out,挂出
 hang up,"v. 挂断电话；挂机；悬挂；耽搁
 [网络] 挂起；把…挂起来；挂电话"
 happen to do, 碰巧做某事
-happen to sb.,无
+happen to sb.,"碰巧,偶然;发生于"
 have a break, 休息一下
 have a good time,过得快乐
 have a look at,看一看…
@@ -5607,8 +5615,8 @@ hear from,"接到...的信, 受...批评"
 hear of,"na. 听说；获悉；收到…的消息；知道
 [网络] 听到；听说过；得悉"
 hear about,"听说,听到过"
-help do sth.,无
-help to do sth.,无
+help do sth.,[网络] 帮助做某事；帮助干某事；帮忙做
+help to do sth.,[网络] 帮助做某事；帮忙做某事；有助于做某事
 help oneself,自用
 here and there,"各处, 到处, 四处"
 hold a sports meeting,[网络] 举行运动会；开运动会；举办个运动会
@@ -5698,7 +5706,7 @@ just now,刚刚
 just then," 就在这时候, 那时候; 方才"
 keep a diary,v. 写日记
 keep away from,(使)远离，(使)不接近；(使)不在
-keep doing sth.,不断地做某事
+keep doing sth.,[网络] 继续做；坚持做某事；一直做某事
 keep fit,"保持健康,健身"
 keep in mind,"na. 记在心里；记住；注意
 [网络] 牢记；紧记；牢记在心"
@@ -5711,7 +5719,7 @@ keep up with,"跟上
 [法] 追上, 跟上, 赶得上"
 keep healthy, 保持健康
 stay healthy,保持健康
-keep sb. from doing sth.,使某人不做某事
+keep sb. from doing sth.,[网络] 避免做；避免做某事；从某事中停下来
 kill the time,[网络] 打发时间；消磨时间；消磨时光
 kind of," <口>稍微, 有点儿, 有几分"
 knock at the door,敲门
@@ -5801,7 +5809,8 @@ make up,"na. 弥补；起草；定；签订
 [网络] 组成；化妆；编造"
 make up one's mind,"下决心, 接受, 承认"
 manage to do, 设法做成某事
-marry sb.,无
+marry sb.,"vt. 与...结婚, 娶, 嫁
+vi. 结婚"
 match ... with ...,[网络] 和……相配；相匹配；与……相称
 mean to do, 打算做；有意做
 meet the needs of,满足...的需要
@@ -5910,15 +5919,17 @@ point to,指向
 pour ... into ...,[化] 注入
 practice doing,[网络] 练习做某事；练习作某事；练习干某事
 practice with,无
-praise sb. for sth.,无
+praise sb. for sth.,[网络] 称赞；因…表扬某人；因某事称赞某人
 prefer doing to doing,无
 prefer to do rather than do,无
 prevent ... from doing,无
 prevent ... from,"阻止, 妨碍"
 pros and cons,n. 利弊; 正反两方面; 优缺点; 赞成和反对的理由
 protect ... from,保护
-provide sb. with sth.,向某人提供某物
-provide sth. for sb.,无
+provide sb. with sth.,"v. 供给；供应
+[网络] 提供；给…提供；以…装备"
+provide sth. for sb.,"v. 为…作准备
+[网络] 为…提供；供养；赡养"
 pull down,"na. 挣钱；压低；拆坏(房子等)；(疾病使人)衰弱
 [网络] 拆毁；推翻；拉下，降低"
 pull out,"拔出, 离开, (使)渡过难关, (使)恢复健康"
@@ -5952,10 +5963,10 @@ reach out, （使）伸出
 receive ... from ...,v. 收到
 refer to,"v. 查阅；提到
 [网络] 参考；涉及；谈到"
-refuse to do sth.,无
+refuse to do sth.,[网络] 拒绝做某事；拒绝去做某事；拒绝干某事
 regard ... as ...,把...认作
 rely on,"依赖, 依靠"
-remember doing sth.,记得做过某事
+remember doing sth., 记着已经做过的事
 remind sb. to do,无
 remind of,"v. 提醒
 [网络] 使记起；想起；使想起"
@@ -5977,10 +5988,12 @@ say hello to,"向某人问候,和某人打招唿"
 say to oneself,心里想到
 search for,搜查
 see a film, 看电影
-see sb. off,给某人送行
+see sb. off,"na. 送行；送别；告别；赶走
+[网络] 给…送行；为…送行；给某人送行"
 sell out,"卖完, 出卖, 背叛
 [经] 卖完, 出售货物, 商品售缺"
-send for sb.,[网络] 派人去请某人；派人去请某人来；请某人来
+send for sb.,"na. 派人去叫[请]；遣人去拿；乞求
+[网络] 派人去请；派人去请，召唤；派人去拿"
 send up,"发出, 射出, 呈交, 使上升"
 send ... to ..., 发送到; 发送给; 发往
 set ... on fire, 激起
@@ -5999,9 +6012,13 @@ shoulder to shoulder,"肩并肩地, 齐心协力地"
 shout at,对…大声喊
 show interest in,对…感兴趣；对…感兴趣；对…产生(或表示)兴趣
 show off,"炫耀, 卖弄, 使显眼"
-show sb. around,领某人参观
-show sb. sth.,[网络] 展示给某人某事
-show sb. the way,"给某人指路/带路/引路, 给某人作示范, 为某人作指点"
+show sb. around,"v. 带…参观
+[网络] 带……参观；四处参观；领…参观"
+show sb. sth.,"n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相
+vt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领
+vi. 露面, 显现, 演出
+[计] 显示"
+show sb. the way,[网络] 指路；带路；指引道路
 show the ticket,无
 show up,"na. 显眼；揭发；嘲笑；露面
 [网络] 出现；出席；揭露"
@@ -6052,7 +6069,7 @@ take part in,"参与, 参加
 take an active part in,积极参加...
 take a deep breath,"na. 行深呼吸
 [网络] 深吸一口气；做深呼吸；作深呼吸"
-take a message for sb.,无
+take a message for sb., 给。。。捎个信儿
 take a ride,"乘车,骑马"
 take a risk,"冒险
 [经] 承担风险"
@@ -6091,17 +6108,17 @@ take out,"na. 取出；带出(散步等)；除去(污点等)；取得(专卖权�
 take place,"na. 发生；举行
 [网络] 产生；多指通过人为安排的发生；进行"
 take pride in,以...为傲
-take sb.'s place,替代某人
+take sb.'s place,[网络] 解构发生；就位
 take some medicine, 服药；吃药
-take sth. with sb.,随身携带
+take sth. with sb.,[网络] 携带；随身携带；带上
 take the place of,"代替
 [法] 代替"
 take up,"na. 拿起；举起；拾起；给搭(火车等)
 [网络] 占据；从事；开始"
 talk about," 讨论, 谈论; 考虑（做…）; 唠; 话"
-talk to sb.,"找某人谈话, (非正式)责备某人"
-talk with sb.,无
-teach sb. a lesson,给某人上课;教训某人一顿
+talk to sb., 同（某人）谈话; 责骂
+talk with sb.,"与...交谈, 想说服"
+teach sb. a lesson,[网络] 给…一个教训；给以教训；教训一顿
 tell a lie,说谎话
 tell a story,讲故事
 tell the truth,说实话
@@ -6164,7 +6181,7 @@ up and down,"上下地, 到处"
 upside down,[网络] 机腹朝上；颠倒；上的姿势
 use up,"na. 用完；耗尽
 [网络] 用光；用尽；消耗"
-used to do sth.,无
+used to do sth., 过去常常做某事
 wait for,"na. 等；等待
 [网络] 等候；动作上的等待；等待某人"
 wait in line,排队等候
@@ -6173,8 +6190,9 @@ wake up,"na. 同“wake”；叫醒；醒来；振作起来
 walk down,"通过散步消除
 [电] 讯息丧失"
 want to do ...,[网络] 想做某事；想要做某事；想要作某事
-want sb. to do ...,无
-warn sb. of ...,警告(某人)有...的危险
+want sb. to do ...,[网络] 想做某事；想要做某事；想要作某事
+warn sb. of ...,"na. 警告(某人)有危险
+[网络] 发出关于…的警告；警告某人某事；警告可能会出现某事"
 wash up,"洗手洗脸, 洗餐具"
 watch a match,无
 watch out for ...,"戒备, 提防, 密切注意"
@@ -6182,7 +6200,7 @@ watch TV, 看电视
 welcome to ..., 欢迎…
 what if,如果…那又怎么样?即使…那又有什么关系?
 what's more,[网络] 而且；另外；更重要的是
-What's up?,无
+What's up?,[网络] 这是怎么回事
 wish sb. do sth.,无
 with great care, 小心翼翼地
 with one voice,异口同声地
@@ -6203,7 +6221,7 @@ would love to,"希望,喜欢,想…"
 would rather ... than,"宁愿,与其…不如…"
 write down,"na. 记下来；贬低；减低账面价值；把…拨作公积金
 [网络] 写下；写下来；减记"
-write to sb.,无
+write to sb.,给…写信
 year after year,"年复一年地, 年年, 每年"
 year by year,"年年, 每年"
 year in and year out,一年到头

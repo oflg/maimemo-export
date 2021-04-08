@@ -1577,7 +1577,7 @@ electron,"n. 电子
 [化] 电子"
 electronic,"a. 电子的
 [计] 电子工业协会接口"
-e-mail,无
+e-mail, 电子函政
 email, 电子函政
 employ,"n. 雇用
 vt. 雇用, 使用, 使从事于"
@@ -2046,7 +2046,7 @@ get,"vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
 vi. 到达, 成为, 变得
 n. (网球等)救球, 生殖, 幼兽
 [计] 取得指令, 获取文件"
-get-together,无
+get-together,"聚集, 收集, 积累"
 forget,"vt. 忘记, 忽略, 忘
 vi. 忘记"
 forgetful,"a. 健忘的, 易忘的"
@@ -3035,7 +3035,7 @@ hard,"a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 
 adv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
 hardly,"adv. 刚刚, 几乎不, 勉强是"
 hardship,n. 困苦；苦难；艰难险阻
-hard-working,无
+hard-working,辛勤工作的
 have,"vt. 有, 怀有, 拿, 进行
 aux. 已经"
 behave,"vi. 表现；（机器等）运转；举止端正；（事物）起某种作用
@@ -3076,8 +3076,9 @@ hearing,"n. 听, 听觉, 听讯
 listener,"n. 收听者, 听众"
 heart,"n. 心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿
 vt. 鼓励"
-kind-hearted,无
-warm-hearted,无
+kind-hearted,"adj. 仁慈的
+[网络] 好心的；善良；仁慈的心"
+warm-hearted,"a. 热烈的, 热心的, 富有同情心的, 热情的"
 help,"n. 帮忙, 帮助者, 补救办法, 有益的东西
 vt. 帮助, 帮忙, 接济, 治疗, 款待
 vi. 有用, 救命, 招待
@@ -3513,14 +3514,16 @@ learning,"n. 学问, 学识, 学习
 leave,"n. 许可, 告别, 请假, 休假
 vt. 离开, 剩下, 遗忘, 委托, 丢弃
 vi. 出发, 离开, 生叶"
-school-leaver,无
+school-leaver,n. 毕业生；应届生
 left,"a. 左边的, 左倾的, 左侧的, 左派的
 adv. 在左面
 n. 左, 左面, 左派
 leave的过去式和过去分词"
-left-handed,无
+left-handed,惯用左手的
 right,[网络] -对
-right-handed,无
+right-handed,"adj. 惯用右手的；向右旋转的；〈罕〉可原谅的
+adv. 用右手
+[网络] 右旋的；右利；右利手"
 letter,"n. 信；字母，文字；证书；文学，学问；字面意义
 vt. 写字母于
 vi. 写印刷体字母
@@ -3668,7 +3671,7 @@ amateur,"n. 业余爱好者, 外行, 爱好者
 make,"vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
 vi. 开始, 前进, 增大, 被制造, 被处理
 n. 制造, 构造, 性情"
-man-made,无
+man-made,人造的
 key,[计] DataCAD图标工具条文件
 kill,"n. 杀, 杀戮, 小河
 vt. 杀, 破坏, 消灭, 使终止, 抵消, 否决
@@ -4225,7 +4228,7 @@ particle,"n. 颗粒, 粒子, 质点, 极小量
 particular,"n. 一项(或条、点), 个别项目, 详细说明
 a. 特别的, 独有的, 挑剔的, 详尽的"
 partly,"adv. 部分地, 在一定程度上"
-part-time,无
+part-time,n. 兼任，部分时间
 partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
 party,"n. 宴会, 党, 政党, 团体, 当事人, 聚会
 v. 举办聚会"
@@ -4678,7 +4681,7 @@ ray,"n. 射线；光线
 vt. 放射；显出
 vi. 放射光线；浮现
 n. (Ray)人名；(西、意、匈、印、尼日尔、瑞典、阿拉伯)拉伊；(英、法、柬、博)雷，蕾(女名)"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 raise,"n. 上升, 高地, 增高
 vt. 升起, 举起, 唤起, 提高, 使出现, 使复活, 提出, 筹集, 饲养"
 rise,"n. 上升, 增加, 上涨, 高地, 升高, 出现
@@ -8940,7 +8943,8 @@ human being,"人类
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
 cream,"n. 乳酪, 奶油, 面霜
 [医] 乳油, 乳皮; 乳膏, 霜"
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 door,n. 门
 in, 很多人参加的活动
 out,"a. 外面的, 熄灭的, 结束的
@@ -9653,7 +9657,7 @@ warning,"n. 警告, 预告, 预兆, 通知
 [法] 警告, 警戒, 预告; 警告的, 注意的"
 weapon,"n. 武器, 兵器
 vt. 武装"
-Wi-Fi,无
+Wi-Fi,abbr. 基于IEEE 802.11b标准的无线局域网（Wireless Fidelity）；无线网络模块
 animal,[网络] 动物
 beast,"n. 畜生, 动物, 野兽, 兽性"
 ant,"suf. [构成形容词] 表示：进行...动作的,处于...状态的,促进...作用的：repentant, triumphant, expectorant; 有...的,显示...的,做...的：defiant, radiant; [构成名词]表示进行...动作的人,施行...作用者,...者(人或物):accountant, assistant, occupant"
@@ -9829,7 +9833,7 @@ Olympic,"a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
 tennis,n. 网球
 golf,"n. 高尔夫球
 vi. 打高尔夫球"
-ping-pong,无
+ping-pong,苹婆
 rugby,"n. 橄榄球, 橄榄球赛"
 goal,"n. 目标, 终点, 得分, 球门, 守门员
 vi. 攻门, 射门得分"
@@ -10945,7 +10949,7 @@ collar,"n. 衣领, 颈圈
 vt. 控制, 扭住衣领, 给...装上领子"
 jeans,"n. 工装裤, 牛仔裤"
 trousers,"pl. 裤子, 长裤"
-T-shirt,无
+T-shirt,"短袖运动衫,短袖汗衫"
 vest,"n. 背心, 汗背心
 vt. 使穿衣服, 授予
 vi. 穿衣服, 归属"

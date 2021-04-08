@@ -163,8 +163,8 @@ expose,"vt. 使暴露, 使曝光, 揭穿, 陈列
 extract,"n. 榨出物, 精汁, 摘录, 选段
 vt. (费力地)取出, 采掘, 榨取, 摘录, 吸取
 [计] 提取"
-ex-wife,无
-ex-president,无
+ex-wife,n. 前妻
+ex-president,n. 前总统
 extracurriculum,[网络] 课外活动；课外活动组；社团活动
 extraordinary,[网络] 寻常領域；超凡；非常规
 forefather,n. 祖先；前辈
@@ -447,8 +447,9 @@ vi. 流行, 得到公认"
 uniform,"n. 制服
 a. 统一的, 一律的, 始终如一的"
 unique,"a. 独一无二的, 独特的, 稀罕的"
-vice-president,无
-vice-manager,无
+vice-president,"副总裁, 副总统
+[经] 副总经理, 副总裁"
+vice-manager, 副经理
 withdraw,"vt. 撤退；收回；撤消；拉开
 vi. 撤退；离开"
 withhold,"vt. 使停止, 扣留, 保留, 拒给
@@ -3548,7 +3549,10 @@ arrangement,"n. 排列, 整齐, 安排
 rate,"n. 比率, 率, 速度, 价格, 费用, 等级
 vt. 估价, 认为, 鉴定等级, 责骂
 vi. 被评价, 责骂"
-first-rate,无
+first-rate,"n. 一级战舰；一流人物
+adj. 第一等的
+adv. 〈口〉非常(好)地
+[网络] 一流的；甲级；第一流的"
 overrate,"n. 过量率
 [网络] 过分夸大安全感的作用"
 underrate,vt. 低估；看轻
@@ -8074,7 +8078,7 @@ vt. 跳过, 遗漏
 slim,"a. 瘦的, 苗条的, 微小的, 稀少的, 微薄的
 vi. 变苗条
 vt. 使苗条"
-so-called,无
+so-called,adj. 所谓的
 sovereign,"n. 元首, 独立国
 a. 具有主权的, 至高无上的, 国王的, 完全的"
 spark,"n. 火花, 火星, 闪光, 无线电报务员, 瞬间放电, 活力, 朝气, 花花公子, 情郎
@@ -8173,7 +8177,8 @@ acclaim,"n. 喝彩, 欢呼, 赞同
 v. 欢呼, 喝彩, 称赞"
 add,[网络] 度；新增；注意力缺陷症
 advent,"n. 来到, 来临"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 alleviate,"vt. 减轻, 使缓和"
 anecdote,"n. 轶事, 奇闻"
 architecture,"n. 建筑学, 建筑式样
@@ -8648,7 +8653,8 @@ turnover,"na. ￡ 500 a week 每星期卖得五百镑
 unload,"vi. 卸货
 vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货)
 [计] 卸载"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 utter,"a. 全然的, 绝对的, 完全的
 vt. 发出声音, 做声, 发表, 发射, 流通"
 value,"n. 价值, 价格, 购买力, 评价, 估价, 计算结果
@@ -11299,7 +11305,8 @@ husband,[网络] 外子
 hydrogen,"n. 氢
 [化] 氢H-2"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 if,"conj. 如果；当；倘若；假若
@@ -13562,7 +13569,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -14753,7 +14760,7 @@ vi. 磨, 磨碎, 苦干"
 grocer,n. 食品商
 grope,"v. 摸索
 n. 摸索"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 guild,[劳经] 职工行会
 guitar,n. 吉他
 gulf,"n. 海湾, 深渊, 漩涡, 隔阂

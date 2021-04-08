@@ -68,7 +68,8 @@ deplete,"vt. 耗尽, 使衰竭
 ridicule,"n. 嘲笑, 愚弄, 笑柄
 vt. 嘲笑, 嘲弄, 愚弄"
 undermine,"vt. 破坏, 渐渐破坏；挖掘地基"
-self-serving,无
+self-serving,"adj. 为个人利益服务的；图私利的
+[网络] 自我服务"
 perishable,"a. 易腐坏的, 会枯萎的, 易毁灭的, 不经久的
 n. 易腐坏的东西"
 capricious,"a. 反复无常的, 多变的, 任性的"
@@ -353,7 +354,8 @@ highlight, 图像最亮部分，高度光泽，高亮度
 judicious,"a. 头脑精明的, 贤明的, 判断正确的"
 disguise,"n. 假面目, 假装
 vt. 假装, 隐瞒"
-far-fetched,无
+far-fetched,"adj. 强词夺理的
+[网络] 太牵强了"
 eclipse,"n. 日食, 月食, (地位名誉等的)消失
 vt. 引起日食, 引起月食, 使黯然失色"
 impulsive,"a. 冲动的, 受感情驱使的, 任性的
@@ -405,7 +407,7 @@ authoritative,"a. 权威性的, 官方的, 命令式的
 [法] 官方的, 当局的, 权威的"
 clamorous,a. 吵闹的
 placate,"vt. 抚慰, 平息, 使和解, 怀柔"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 disinterested,"a. 无私欲的, 廉洁的, 公平的"
 embolden,"vt. 使大胆, 使有胆量"
 incompatible,"a. 不相容的, 不能并存的, 矛盾的
@@ -416,7 +418,7 @@ vi. 结交名流"
 preachy,"a. 爱讲道的, 爱教训人的"
 illusory,"a. 产生幻觉的, 幻影的, 错觉的
 [法] 因错觉产生的, 虚幻的"
-profit-monger,无
+profit-monger,[网络] 利润巨人
 felicitous,"a. 巧妙的, 极为适当的, 善于措辞的, 可喜的"
 averse,"a. 不愿意的, 反对的"
 trigger,"n. 触发器, 扳机
@@ -445,7 +447,7 @@ vacant,"a. 空的, 空白的, 空虚的, 空闲的, 茫然的, 空缺的
 [法] 空的, 空虚的, 闲暇的"
 canned,"a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的
 [机] 洋铁罐的, 罐头的"
-soft-pedal,无
+soft-pedal,"钢琴弱音踏板, 减弱效果的东西"
 feign,"vt. 假装, 装作
 vi. 作假"
 daunting,a. 使人畏缩的
@@ -622,18 +624,18 @@ vi. 有放大能力"
 obligatory,"a. 义务的, 必须的, 强制性的
 [法] 有拘束的, 强制的, 必须的"
 commensurate,"a. 同量的, 同等的, 相称的"
-long-winded,无
+long-winded,"a. 气息长的, 冗长的, 罗唆的"
 slippery,"a. 滑的, 光滑的, 靠不住的, 圆滑的, 不稳固的
 [法] 狡猾的, 不可靠的, 不安定的"
 hefty,"a. 重的, 肌肉发达的"
 forbidding,"a. 严峻的, 可怕的, 令人难亲近的"
-wide-ranging,无
+wide-ranging,a. 范围或内容广泛的
 diligent,"a. 勤勉的, 用功的"
 punctilious,"a. 精密细心的, 一丝不苟的, 拘泥形式的"
 engaging,"a. 动人的, 迷人的, 有魅力的"
 evanescent,"a. 逐渐消失的, 容易消散的, 短暂的
 [医] 易消灭的, 渐消失的, 挥发性的"
-free-for-all,无
+free-for-all, [体]秩序混乱
 rudimentary,"a. 基本的, 起码的, 初步的, 发展不完全的, 残留的, 退化的
 [医] 原基的, 未成熟的; 残遗的, 已退化的"
 bustling,"a. 熙熙攘攘的, 忙乱的"
@@ -698,7 +700,7 @@ dejected,"a. 沮丧的, 灰心的"
 surplus,"n. 剩余, 过剩, 盈余
 a. 过剩的, 剩余的"
 impertinent,"a. 不切题的, 鲁莽的, 无礼的, 粗鲁的, 不恰当的"
-one-of-a-kind,无
+one-of-a-kind,[网络] 独一无二；独一无二的；其中一类
 apropos,"a. 适当的, 恰好的
 adv. 适当地, 恰好地"
 ingratiate,"vt. 使迎合, 使讨好"
@@ -1004,7 +1006,8 @@ inflammatory,"a. 激动的, 煽动的, 炎症性的
 taint,=it ain't
 rigorous,"a. 严厉的, 严酷的, 严格的, 苛刻的, 严密的, 精确的"
 delude,"vt. 迷惑, 蛊惑"
-ill-advised,无
+ill-advised,"adj. 鲁莽的
+[网络] 失策的"
 prosaic,"a. 散文的, 散文体的, 平凡的"
 malfeasance,"n. 不正当, 不法行为, 坏事, 渎职
 [经] 不法行为, 违法乱纪"
@@ -1120,7 +1123,7 @@ prevalent,"a. 普遍的, 流行的"
 deprecate,"vt. 声明不赞成, 抗议, 反对
 [法] 对...表示不赞成, 反对"
 portend,(平炉)喷出口端墙
-self-defeating,无
+self-defeating,自我挫败
 proclaim,"vt. 宣布, 公告, 宣言, 表明, 赞扬
 [法] 宣布, 宣告, 公布"
 meddle,"vi. 干涉, 干预, 擅自摸弄
@@ -1449,7 +1452,7 @@ scathing,"a. 伤害的, 损伤的, 严厉的"
 block,"n. 街区, 木块, 石块, 块
 vt. 阻塞, 封锁, 使成块状
 [计] 块, 数据块"
-off-putting,无
+off-putting,a. 令人厌恶的; 老是推托的
 profligate,"a. 放荡的, 不检点的, 浪费的
 n. 放荡者, 享乐者"
 unctuous,"a. 油的, 油质的, 油腻的, 虚情假意的
@@ -1507,7 +1510,7 @@ vi. 颤抖, 振动
 vt. 使颤动
 a. 敏捷的"
 rancor,"n. 敌意, 深仇"
-dewy-eyed,无
+dewy-eyed,"a. 天真的, 容易相信的"
 epitome,"n. 概要, 缩影, 象征"
 fissure,分裂术
 parley,"n. 会谈, 谈判
@@ -1806,7 +1809,7 @@ bucolic,"a. 牧民的, 牧歌的, 乡下风味的
 n. 田园诗, 农夫"
 pastoral,"n. 牧歌, 田园诗
 a. 牧人的, 田园生活的, 牧师的, 田园式的"
-hard-nosed,无
+hard-nosed,"顽固的,理性实际的"
 petty,"a. 琐碎的, 小规模的, 小气的, 委琐的
 [经] 小额的, 微小的, 小规模的"
 opportunistic,"a. 机会主义的, 投机取巧的"
@@ -1839,7 +1842,7 @@ a. 主要的, 重要的
 vt. 分级, 钉住"
 herald,"n. 使者, 传令官, 先驱
 vt. 预报, 宣布, 传达, 欢呼"
-cure-all,无
+cure-all,n. 万灵药
 ruthless,"a. 无情的, 残忍的, 毫不留情的, 彻底的
 [法] 无情的, 残忍的"
 scorn,"n. 轻蔑, 藐视, 嘲笑, 被嘲弄的人
@@ -1894,7 +1897,7 @@ kindred,"n. 家族, 相似, 亲戚关系
 a. 同族的, 同类的, 血缘的"
 affiliate,"vt. 使紧密联系, 使附属, 接纳, 收养
 vi. 发生联系, 参加"
-run-of-the-mill,无
+run-of-the-mill,adj. 普通的，一般的，不突出的
 refuge,"n. 避难所, 安全地带, 避难, 庇护
 vi. 躲避
 vt. 给予...庇护"
@@ -1954,7 +1957,8 @@ relegate,"vt. 驱逐, 使降低地位, 把...归类, 把...委托给
 apostle,"n. 基督十二使徒之一, 早期基督教传士"
 foreground,前景
 pious,"a. 虔诚的, 敬神的, 尽责的, 可嘉的, 不可能实现的"
-self-righteous,无
+self-righteous,"adj. 自以为是的；自以为有道德的；伪善的
+[网络] 自我正义；自视为道德者；自我正直的"
 brandish,"vt. 挥, 挥舞
 n. 挥舞"
 erroneous,"a. 错误的, 不正确的
@@ -2019,7 +2023,7 @@ disgruntle,vt. 使不高兴
 gracious,"a. 亲切的, 慈善的"
 humdrum,[网络] 单调乏味
 polarize,"v. (使)偏振, (使)极化, (使)两极分化"
-hand-wringing,无
+hand-wringing,n. 绝望；焦虑；坐立不安
 prime,"n. 最佳部分, 初期, 全盛期
 a. 主要的, 最初的, 根本的
 v. 加油启动, 灌注, 填装"
@@ -2470,14 +2474,14 @@ n. 发芽"
 vainglory, 虚荣
 consummate,"vt. 完成, 使完美
 a. 无上的, 至上的, 完美的"
-like-minded,无
+like-minded, 有同样想法的; 志趣相投的
 ecumenical,"a. 一般的, 普遍的, 全基督教的, 泛基督教主义的"
 ardent,"a. 热心的, 激动的, 燃烧般的
 [医] 灼热的; 热心的"
 rescind,"vt. 废止, 使无效, 取消, 撤消, 解除
 [经] 取消, 废除"
 distend,"v. (使)膨胀, (使)扩张"
-self-regard,无
+self-regard, [体]自尊
 subterfuge,"n. 遁辞, 借口, 托辞
 [法] 遁词, 托词, 藉口"
 agglomerate,集块岩
@@ -2508,12 +2512,12 @@ malodor,n. 恶臭
 senescence,"n. 老朽, 衰老
 [医] 衰老, 变老"
 decrepitude,"n. 衰老, 老朽"
-self-styled,无
+self-styled,"a. 自称的, 自任的"
 cognizant,"a. 察知的, 认识到的, 有认识能力的
 [法] 审理的, 审理权的, 有权审理的"
 conversant,"a. 熟悉的, 亲近的, 有交情的"
 tribulation,"n. 苦难, 困苦, 苦难的缘由"
-open-ended,无
+open-ended, 开路型
 falsify,"vt. 伪造, 歪曲
 vi. 说谎"
 panorama,"n. 全景, 全貌, 概论, 范围"
@@ -2744,8 +2748,10 @@ contiguous,"a. 邻近的, 接近的
 endanger,"vt. 危及
 [法] 使危险, 危及"
 boorish,"a. 粗野的, 粗鄙的"
-high-minded,无
-de-emphasize,无
+high-minded,"高尚的气概,
+宽宏的度量"
+de-emphasize,"v. 降低…重要性；不再加以强调
+[网络] 不再强调；不强调；释放"
 poise,"n. 平衡, 均衡, 姿势, 镇静, 安静, 砝码
 vt. 使平衡, 使悬着, 保持...姿势
 vi. 平衡, 悬着, 准备好"
@@ -2786,7 +2792,8 @@ vt. 使发微光, 使闪烁"
 imperial,"a. 帝王的, 宗主国的, 至尊的, 壮丽的
 n. 特等品"
 paraphernalia,n. 随身用具
-cast-iron,无
+cast-iron,"铸铁
+[化] 铸铁"
 detritus,"n. 碎石
 [医] 腐质, 碎屑"
 rivalry,"n. 竞争, 对抗
@@ -2795,7 +2802,8 @@ halt,"n. 停止, 立定, 休息
 vt. 使停止, 使立定
 vi. 立定, 停止, 蹒跚, 踌躇, 有缺点
 [计] 停止"
-avant-garde,无
+avant-garde,"n. 前卫; 先锋
+adj. 前卫的"
 stipulate,"v. 规定, 保证"
 dispense,"vt. 分发, 分配
 vi. 特许, 豁免"
@@ -3447,7 +3455,7 @@ rife,"a. 流行的, 盛传的, 充满的"
 girth,"n. (树的)干围, 周长, 肚带
 vt. 围绕, 包围
 vi. 围长为"
-hard-boiled,无
+hard-boiled,"熟蛋黄,冷酷"
 spiteful,"a. 怀恨的, 怀有恶意的, 恶意的"
 forbear,[网络] 牡丹绣球仿真花新娘花球
 wont,[网络] 惯于
@@ -3604,9 +3612,9 @@ setback,"na. 阻碍；延迟；〈非正式〉花费
 [网络] 推迟；推迟，延缓；使退步"
 backlash,[化] 间隙; 齿隙; 丝隙
 standstill,"站着不动, 停滞不前"
-level-headed,无
+level-headed,adj. 头脑冷静的；清醒的
 byword,"n. 谚语, 俗语；格言；笑柄"
-one-stop,无
+one-stop,一站式服务
 upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
 acquired,"a. 获得的, 后天的
@@ -3683,7 +3691,8 @@ vi. 着火, 激动, 发亮"
 waffle,"vi. 胡扯, 闲聊
 n. 华夫饼干, 胡扯
 [计] Waffle程序"
-off-key,无
+off-key,"adj. 走音的；不正常的
+[网络] 走调；走调地；不合拍地"
 balloon,"n. 气球
 vt. 使成气球状
 vi. 膨胀如气球, 激增"
@@ -4081,7 +4090,7 @@ autocrat,n. 独裁者
 oddball,[网络] 怪人；行为奇异的人或不正常的人；怪球范式
 bore,"adj.  枪筒的；与数词连用组成形容词指枪筒的尺寸的； comb. 表示""...口径的"""
 layperson,n. 外行；门外汉
-has-been,无
+has-been, 已经
 progenitor,"n. 祖先, 先辈, 原本
 [医] 祖先, 祖代"
 benefactor,"n. 恩人, 捐助者, 施主
@@ -4313,7 +4322,10 @@ foreshorten,"vt. 照透视法缩短, 缩短"
 haphazard,"n. 偶然性, 偶然事件
 a. 无计划的, 偶然的, 随便的
 adv. 偶然地"
-helter-skelter,无
+helter-skelter,"n. 慌张；乱七八糟的表演
+adj. 手忙脚乱的
+adv. 手忙脚乱地
+[网络] 整容天后；狼狈；恶女罗曼死"
 random,"n. 随意, 随机
 a. 任意的, 随便的, 胡乱的, 随机的
 adv. 胡乱地"
@@ -4887,7 +4899,7 @@ n. 走来走去的人, 游历"
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
-level-headed,无
+level-headed,adj. 头脑冷静的；清醒的
 affirmative,"a. 肯定的, 赞成的, 积极的
 n. 肯定语"
 positive,"a. 肯定的, 积极的, 有把握的
@@ -4901,7 +4913,7 @@ curtailment,"n. 缩减, 缩短
 commensurate,"a. 同量的, 同等的, 相称的"
 proportionate,"a. 相称的, 成比例的, 适当的
 vt. 使相称, 使成比例"
-long-winded,无
+long-winded,"a. 气息长的, 冗长的, 罗唆的"
 verbose,"a. 用字多的, 冗长的, 累赘的
 [计] 详述"
 prolix,"a. 冗长的, 说话罗唆的"
@@ -5015,7 +5027,7 @@ a. 显然的, 明白的
 vi. 显示, 出现
 vt. 表明, 表现, 证明"
 obvious,"a. 明显的, 明白的, 显然的, 平淡无奇的"
-self-evident,无
+self-evident,adj. 不证自明的
 reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
 n. 窗侧, 门侧"
 shriek,"n. 尖锐的响声
@@ -5025,7 +5037,7 @@ caterwaul,"n. 猫叫春声, 象猫叫春的声音
 vi. 叫春, (象猫一样)号叫"
 ephemeral,"a. 朝生暮死的, 短命的, 短暂的
 [医] 暂时的"
-short-lived,无
+short-lived,短暂的
 transitory,"a. 暂时的, 短暂的, 昙花一现的
 [法] 临时性诉讼, 可选择管辖区的诉讼; 临时的, 过渡的"
 erudite,"a. 博学的
@@ -5294,12 +5306,13 @@ a. 装饰性的, 装饰的, 观赏用的"
 decorative,a. 装饰性的
 panacea,"n. 万能药, 灵丹妙药
 [医] 万应药"
-cure-all,无
+cure-all,n. 万灵药
 inflammatory,"a. 激动的, 煽动的, 炎症性的
 [医] 炎的, 炎性的"
 provocative,"a. 激发感情的, 挑拨的, 刺激的
 n. 刺激物, 挑拨物, 兴奋剂"
-ill-advised,无
+ill-advised,"adj. 鲁莽的
+[网络] 失策的"
 misguided,a. 被误导的
 malfeasance,"n. 不正当, 不法行为, 坏事, 渎职
 [经] 不法行为, 违法乱纪"
@@ -6081,7 +6094,8 @@ bucolic,"a. 牧民的, 牧歌的, 乡下风味的
 n. 田园诗, 农夫"
 petty,"a. 琐碎的, 小规模的, 小气的, 委琐的
 [经] 小额的, 微小的, 小规模的"
-small-minded,无
+small-minded,"adj. 小气的
+[网络] 心胸狭窄的；气量小的"
 painstaking,"n. 辛苦, 苦心, 工夫
 a. 辛苦的, 勤勉的, 小心的"
 meticulous,"a. 一丝不苟的, 精确的, 过细的"
@@ -6094,7 +6108,7 @@ esoteric,"a. 秘教的, 奥秘的, 秘传的
 [医] 体内的, 内部的, 隐的"
 arcane,"a. 神秘的, 晦涩难解的"
 abstruse,"a. 难解的, 深奥的"
-cure-all,无
+cure-all,n. 万灵药
 panacea,"n. 万能药, 灵丹妙药
 [医] 万应药"
 scorn,"n. 轻蔑, 藐视, 嘲笑, 被嘲弄的人
@@ -6291,7 +6305,7 @@ timorous,"a. 胆怯的, 胆小的, 羞怯的"
 diffident,"a. 无自信的, 谦虚谨慎的, 羞怯的"
 narcissism,"n. 自我陶醉, 自恋
 [医] 自爱欲, 恋已癖"
-self-flattery,无
+self-flattery,"n. 自吹自擂, 自我粉饰"
 forestall,"vt. 预先阻止, 先...一步行动, 占先一步, 垄断, 阻碍
 [法] 先采取行动预防或阻止, 垄断"
 avert,vt. 避免，防止；转移
@@ -6488,7 +6502,7 @@ evanescent,"a. 逐渐消失的, 容易消散的, 短暂的
 prolix,"a. 冗长的, 说话罗唆的"
 verbose,"a. 用字多的, 冗长的, 累赘的
 [计] 详述"
-long-winded,无
+long-winded,"a. 气息长的, 冗长的, 罗唆的"
 chastise,"vt. 责骂, 惩罚
 [法] 责罚, 惩戒, 严惩"
 castigate,"vt. 惩罚, 苛评, 修订"
@@ -6508,7 +6522,7 @@ vt. 抗议地说"
 verbose,"a. 用字多的, 冗长的, 累赘的
 [计] 详述"
 prolix,"a. 冗长的, 说话罗唆的"
-long-winded,无
+long-winded,"a. 气息长的, 冗长的, 罗唆的"
 enamor,"vt. 迷住, 使迷恋"
 favor,"n. 好意, 喜爱
 vt. 赐予, 支持, 喜欢, 证实"
@@ -6778,7 +6792,7 @@ conviction,"n. 定罪, 信服, 坚信
 certainty,"n. 确定, 确实的事情
 [法] 确定, 肯定, 必然的事"
 antiquated,"a. 陈旧的, 过时的, 年老的"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 outdated,(out-date 的过去分词) 过期；出单日期
 wayward,"a. 任性的, 难以捉摸的, 不稳定的, 刚愎的
 [法] 顽强的, 任性的, 不规则的"
@@ -6813,7 +6827,7 @@ congruent,"a. 适合的, 一致的, 合谐的, 全等的"
 consistent,"a. 一致的, 坚持的, 并立的, 坚固的"
 introspect,"vt.vi. 进行反省
 [法] 反省, 进行思想反省, 内省"
-self-analysis,无
+self-analysis,自我分析
 elate,"vt. 使兴高采烈, 使得意"
 delight,"n. 高兴, 愉快
 vt. 使高兴, 乐于
@@ -7019,7 +7033,7 @@ groundless,"a. 无根据的, 无理由的
 [法] 无根据的, 无理由的"
 unwarranted,"a. 未获保证的, 无保证的, 未经授权的"
 retiring,"a. 行将隐退的, 行将退休的, 就寝的"
-self-effacing,无
+self-effacing,"a. 不出风头的, 不喜出风头的, 谦让的"
 taxing,"a. 繁重的, 费力的
 [法] 征税的, 评定的负担颇重的"
 arduous,"a. 费力的, 努力的, 险峻的"
@@ -7055,7 +7069,7 @@ unearth,"vt. 发掘, 掘出, 从洞中赶出, 揭露, 发现"
 extract,"n. 榨出物, 精汁, 摘录, 选段
 vt. (费力地)取出, 采掘, 榨取, 摘录, 吸取
 [计] 提取"
-level-headed,无
+level-headed,adj. 头脑冷静的；清醒的
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
@@ -7171,7 +7185,7 @@ endorse,"vt. 支持, 赞同, 背书于, 签署
 [经] 赞成, 背书"
 perennial,"a. 常年的, 长期的, 反复的
 [医] 多年生的"
-long-standing,无
+long-standing,维持；存在已久的
 confound,"vt. 使混淆, 使狼狈, 挫败"
 perplex,"vt. 使困惑, 使复杂化, 使为难
 [法] 困惑, 使复杂化, 使纠缠不清"

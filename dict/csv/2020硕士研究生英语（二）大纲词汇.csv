@@ -244,7 +244,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airport,[机] 通气口
@@ -1363,7 +1364,7 @@ vi. 发出嗡嗡声, 说闲话
 vt. 使嗡嗡叫, 散布"
 by,[网络] -通过
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 cab,"n. 出租车；计程车；的士；（公共汽车、火车、卡车的）驾驶室
 abbr. 〈美(=Civil Aeronautics Board)民用航空局
 v. 作弊
@@ -3306,7 +3307,7 @@ eloquent,"a. 雄辩的, 有口才的, 有说服力的"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 email, 电子函政
 embark,"vi. 乘船, 着手, 从事, 上飞机
 vt. 使上船, 使上飞机, 使从事"
@@ -4656,7 +4657,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guarantee,"n. 担保, 抵押品, 保证书
@@ -5931,7 +5932,8 @@ hypothesis,"n. 假设
 hysterical,"a. 歇斯底里的, 异常兴奋的
 [医] 癔病的, 歇斯底里的"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 ideal,"n. 理想, 典范, 观念, 思想, 最后目标
@@ -6851,7 +6853,7 @@ liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
@@ -10515,7 +10517,7 @@ sob,n. 呼吸短促; 畜生
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
@@ -12328,7 +12330,8 @@ uproar,"n. 骚动, 喧嚣"
 upset,上端局设备
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -12674,7 +12677,7 @@ vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -12890,7 +12893,7 @@ writer,"n. 作家, 撰稿者, 抄写员
 [化] 记录器"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 yawn,"n. 哈欠

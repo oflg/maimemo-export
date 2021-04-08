@@ -69,7 +69,7 @@ hip,"n. 臀部, 蔷薇果, 忧郁
 a. 熟悉内情的
 vt. 使忧郁, 给(屋顶)造屋脊
 interj. 喝彩声"
-full-length,无
+full-length,[机] 全长
 graceful,a. 优美的
 identity,"n. 身份, 相同, 一致, 特性, 恒等式
 [计] (打)标记, 标识"
@@ -112,7 +112,8 @@ fire,"n. 火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情
 vt. 点燃, 烧制, 使发光, 激动, 放枪, 解雇
 vi. 着火, 烧火, 开枪, 射击, 激动"
 originally,"adv. 本来, 原来, 最初, 就起源而论, 独创地"
-smash-and-grab,无
+smash-and-grab,"adj. 砸橱窗抢劫的
+n. 砸橱窗抢劫"
 arcade,"n. 拱廊, 拱形建筑物, 有拱廊的街道
 [医] 弓形组织, 连拱"
 Piccadilly,n. 伦敦繁华的大街之一
@@ -177,12 +178,12 @@ feline,"a. 猫的, 猫科的, 猫一样的
 n. 猫, 猫科动物"
 independence,"n. 独立, 自立, 自主
 [医] 自主性, 独立性"
-high-rise,无
+high-rise,高层建筑
 windowsill,窗台
 paratrooper,n. 伞兵
 squirrel,"n. 松鼠, 松鼠毛皮
 vt. 贮藏"
-air-resistance,无
+air-resistance,[化] 空气阻力
 impact,"n. 冲击, 冲突, 影响, 效果
 vt. 挤入, 撞击, 压紧, 对...发生影响"
 Southampton,n. 南安普敦（英国港市）
@@ -317,7 +318,7 @@ destroy,vt. 破坏；消灭；毁坏
 remarkable,"a. 不平常的, 值得注意的, 显著的"
 band,[网络] B提供住宿及早餐；连接两个并列成份
 Florence,n. 佛罗伦萨(意大利城市)
-city-state,无
+city-state, [法]城邦国家
 hire,"n. 雇用，租用；租金，工钱
 vt. 雇用；出租
 vi. 雇用，租用；受雇"
@@ -767,7 +768,7 @@ grudge,"n. 怨恨, 恶意
 vt. 怀恨, 嫉妒, 吝惜"
 surgeon,"n. 外科医生, 军医, 船医
 [医] 外科医师"
-passer-by,无
+passer-by,n. 过路人; 经过者
 dignity,"n. 尊严, 高贵
 [法] 尊严, 高位, 高贵"
 deliberately,adv. 故意地
@@ -1116,7 +1117,7 @@ steadily,"adv. 稳定地, 无变化地, 有规则地"
 solely,"adv. 仅仅, 单独地"
 video,"n. 影像, 电视
 a. 图像的, 电视的"
-CD-ROM,无
+CD-ROM,光盘只读存储器；只读型光盘
 bewilder,"vt. 使迷惑, 使不知所措"
 deduce,"vt. 推论, 演绎出
 [法] 推断, 推出, 演绎"
@@ -1217,7 +1218,8 @@ hoax,"vt. 愚弄；欺骗
 n. 骗局；恶作剧"
 deception,"n. 欺骗, 诡计
 [法] 瞒骗, 诈欺, 欺骗"
-self-respecting,无
+self-respecting,"adj. 有自尊心的
+[网络] 自重"
 indulge,"vt. 纵情于, 使高兴, 放任, 迁就
 vi. 沉溺"
 pneumatic,"a. 充气的, 空气的, 有气胎的, 气动的, 灵魂的
@@ -1285,11 +1287,11 @@ vt. 打褶, 卷起, 挤进, 塞, 收藏
 vi. 缝褶裥, 缩拢"
 obstinately,"adv. 顽固地, 固执地"
 caveman,n. 穴居人
-pot-holing,无
+pot-holing,[网络] 洞穴探险运动；洞穴探险
 solitude,"n. 孤独, 单独, 孤寂"
 lure,"n. 饵, 诱惑
 vt. 引诱, 诱惑"
-pot-holer,无
+pot-holer,[网络] 洞穴探险者
 rambler,"n. 漫步者, 蔓生植物"
 undertaking,"n. 事业, 企业, 保证
 [经] 企业, 事业, 承担"
@@ -1513,7 +1515,7 @@ vt. 使生锈, 腐蚀"
 pollution,"n. 污染, 玷污
 [化] 污染"
 overpopulated,(over-populate 的过去分词) vt. 使人口过剩；使人口过密
-over-industrialized,无
+over-industrialized,[网络] 城市化和完成了工业化进程
 sheer,"a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的
 vi. 偏转, 偏航
 vt. 使急转向, 使偏航
@@ -1533,7 +1535,7 @@ salmonella,"n. 沙门氏菌
 listeria,[医] 李司忒氏菌属
 vegetarian,"n. 素食者, 食草动物
 a. 素食的"
-organically-grown,无
+organically-grown,adj. 有机培植的（不施化肥和其他化学药品培植）
 insidious,"a. 隐伏的, 阴险的, 狡猾的
 [医] 隐袭的"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -1650,7 +1652,7 @@ accomplishment,"n. 成就, 完成"
 attainment,n. 达到
 inveterate,"a. 根深的, 成癖的, 积习的
 [医] 慢性顽固性的, 绵延难治的"
-self-improvement,无
+self-improvement,自我完善；自我改进
 scheme,"n. 方案, 计划, 组合, 系统, 图解, 诡计, 阴谋
 v. 计划, 设计, 图谋, 策划
 [计] Scheme 程序设计语言"
@@ -1659,7 +1661,8 @@ pitfall,"n. 陷阱, 圈套；缺陷；诱惑"
 modest,"a. 谦逊的, 羞怯的, 端庄的, 适度的
 [经] 适当的"
 assiduously,adv. 刻苦地；勤勉地
-self-discipline,无
+self-discipline,"n. 自律；自我约束
+[网络] 自我训练；自我控制；自我纪律"
 frame,"n. 框, 结构, 体格
 vt. 构成, 设计, 制定, 使适合, 陷害
 [计] 框架, 图文框, 帧"
@@ -1675,7 +1678,7 @@ a. 很高的"
 jibe,"vi. 嘲笑, 一致
 vt. 转帆, 嘲笑
 n. 嘲笑"
-good-humouredly,无
+good-humouredly,[网络] 和气地；心情好地
 wane,"n. 减少, 衰微, 败落, 亏缺, 月亏
 vi. 变小, 亏缺, 衰落, 消逝, 退潮"
 diminish,"v. (使)减少, (使)变小"
@@ -1688,14 +1691,14 @@ vi. 拍电影
 [计] 筛选; 屏幕"
 notoriously,"adv. 臭名昭著的, 声名狼藉的"
 mainframe,主机；主机机架
-full-time,无
+full-time,"专职,全部工作时间的,全日制"
 technician,"n. 技师
 [化] 技师"
 software,软件;程序设备;语言设备;方案;设计计算法
 IBM,[网络] 国际商业机器公司；国际魔术家协会；朱连魁登上国际魔术家协会
 DOS,abbr. 磁盘操作系统（Disk Operating System）
 Microsoft,[网络] 微软；微软公司；误作微软
-user-friendly,无
+user-friendly,[电] 使用者亲和性
 multimedia,[网络] 多媒体；多媒体的语音功能；多媒体影像
 alternative,"n. 两者择一, 供替代的选择
 a. 两者择一的, 供选择的
@@ -1766,10 +1769,10 @@ vi. 抓
 adorn,"vt. 装饰, 使生色"
 evolve,"vi. 进展, 进化, 展开
 vt. 使发展, 使推断出, 使进化"
-high-handed,无
+high-handed, 专横的
 incompetent,"a. 无能力的, 无资格的, 机能不全的, 不胜任的
 n. 无能力者"
-over-zealously,无
+over-zealously,ad.过了头地
 safeguard, 安全设备，护轨
 parliamentary,"a. 国会的, 议会的, 议会制度的"
 qualified,"a. 有资格的
@@ -2003,14 +2006,14 @@ sketch,"n. 素描, 草图, 小品
 v. 描绘略图, 画素描或速写"
 remote,"a. 遥远的, 偏僻的, 疏远的, 微少的
 [计] 远程, 远程访问实用程序"
-strong-minded,无
+strong-minded,a. 意志坚强的
 relaxation,"n. 松弛, 放松, 减轻, 缓和, 休息, 休养
 [化] 松弛; 驰豫"
 verify,"vt. 证明, 查证, 证实, 检验, 校验
 [计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性"
 bearing,"n. [机] 轴承；关系；方位；举止
 v. 忍受（bear的ing形式）"
-like-minded,无
+like-minded, 有同样想法的; 志趣相投的
 specimen,"n. 样品, 标本, 试料
 [化] 试样"
 constructively,adv. 建设性地

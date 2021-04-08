@@ -75,10 +75,11 @@ mechanic,"n. 机械工, 技工
 a. 手工的"
 assignment,"n. 分配, 功课, 任务, 转让, 归因, 陈述
 [计] 赋值"
-self-sufficient,无
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
 separation,"n. 分离, 分居, 缺口, 退职
 [化] 分离"
-so-called,无
+so-called,adj. 所谓的
 isolate,"vt. 使隔离, 使孤立, 使绝缘
 n. 隔离种群"
 neglect,"n. 疏忽, 忽略, 漏做
@@ -207,7 +208,7 @@ survivor,"n. 生还者, 幸存者
 [法] 生还者, 生存者, 辛存者"
 doubtful,"a. 可疑的, 疑心的, 不明确的
 [法] 怀疑的, 有疑问的, 未确的"
-wide-ranging,无
+wide-ranging,a. 范围或内容广泛的
 marker,"n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记
 [计] 标记"
 tuition,"n. 学费, 讲授"
@@ -1531,7 +1532,7 @@ series,"n. 串联, 序列, 连续, 系列, 丛书, 套, 级数, 组
 theme,[计] Windows桌面主题文件
 restless,"a. 不安静的, 慌张的, 休息不充分的
 [医] 不安静的, 不宁的"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 routine,"n. 常规, 日常工作, 惯例, 例行公事
 a. 日常的, 常规的
 [计] 例程"
@@ -1899,7 +1900,8 @@ n. 偷看, 看一眼"
 covering,"n. 覆盖物, 掩蔽物
 a. 掩护的, 掩盖的
 [计] 覆盖"
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 decline,"n. 衰退, 跌落, 下降
 vt. 使降低, 婉谢
 vi. 下降, 衰落, 偏斜"
@@ -3885,7 +3887,7 @@ intervention,"n. 插入, 介入, 调停
 suspicious,"a. 可疑的, 多疑的, 怀疑的
 [法] 怀疑的, 令人怀疑的, 可疑的"
 fierce,"a. 凶猛的, 猛烈的, 热烈的, 暴躁的"
-large-scale,无
+large-scale,"[计] 大型的, 大规模的"
 exhaust,"n. 排气, 排气装置, 废气
 vt. 抽完, 用尽, 耗尽, 使精疲力尽
 vi. 排气"
@@ -5716,7 +5718,9 @@ stunt,"n. 特技, 绝技, 花招, 噱头, 手腕, 发育不良
 vt. 阻碍成长
 vi. 表演特技"
 multitude,"n. 多数, 群众"
-Anglo-Saxon,无
+Anglo-Saxon,"n. 五世纪左右移居英国的日耳曼族人民；盎格鲁撒克逊族；盎格鲁撒克逊语
+adj. 盎格鲁撒克逊族[语]的；古代英语的；英国的
+[网络] 盎格鲁萨克森语；在盎格鲁；撒克逊人"
 avalanche,"n. 雪崩, 山崩, 大量
 vi. 崩塌
 vt. 大量涌至"
@@ -6427,7 +6431,7 @@ emulsion,"n. 乳状液, 乳剂
 [化] 乳化作用; 乳剂; 乳液; 乳状液; 乳浊液"
 angle,[网络] -角度
 never,adv. 从未；决不
-man-made,无
+man-made,人造的
 need,"n. 需要, 必须, 缺乏
 vt. 需要, 必需
 vi. 贫困, 有必要
@@ -7354,7 +7358,7 @@ vi. 举例"
 sweet,"n. 甜蜜, 糖果, 情人
 a. 甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的"
 professor,n. 教授
-Ice-Age,无
+Ice-Age,冰期；冰河时代
 watery,"a. 水的, 湿的, 平淡的, 稀薄的, 水淋淋的"
 apartment,n. 公寓；房间
 eyeglass,钟表用放大镜;眼镜
@@ -10321,7 +10325,7 @@ weapon,"n. 武器, 兵器
 vt. 武装"
 purpose,"n. 目的；用途；意志
 vt. 决心；企图；打算"
-Middle-Ages,无
+Middle-Ages,中世纪
 fax,[计] 传真类型图像
 prefer,"vt. 宁可, 较喜欢, 提出
 [法] 给予优先权, 优先偿还, 提出"
@@ -10467,7 +10471,7 @@ mark,"n. 标志, 分数, 马克, 痕迹, 斑点, 靶子, 刻度, 记号, 符号,
 vt. 做标记于, 留意, 打分数, 表明, 标志, 记录
 vi. 作记号, 记得分
 [计] 标志; 标记; 传号"
-running-water,无
+running-water,自来水
 mission,"n. 任务, 代表团, 使命, 传教团
 vt. 派遣, 向...传教"
 preschooler,学龄前儿童

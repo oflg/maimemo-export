@@ -16,7 +16,7 @@ alarming system,无
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-condition,无
+air-condition,空调，空气调节设备
 airline,[化] 空气管路
 airplane,n. 飞机
 air pump,"气泵, 抽气机
@@ -48,7 +48,8 @@ bathrooms,[网络] 浴室；浴房
 beach,n. 海滩
 birds,[网络] 鸟牌；桅杆了望台
 bird park,无
-bird-watching,无
+bird-watching,"na. (作为一种爱好的)野鸟习性观察
+[网络] 观鸟；赏鸟；赏鸟记"
 bicycle,n. 自行车
 bikes,"n. 自行车( bike的名词复数 )
 v. 自行车( bike的第三人称单数 )"
@@ -74,7 +75,7 @@ business visits,无
 cafe,"n. 咖啡馆, 酒店"
 cameras,"照相机, 暗箱, 摄像机, 摄影机"
 cars,abbr. 中美洲研究站（Central America Research Station）；计算机化自动额定值系统（computerized automatic rating system）；汽车收据结账证书（Certificates for Automobile Receivables）
-car-park,无
+car-park,n. 停车场
 car tyres,[网络] 汽车轮胎；求购汽车轮胎；小汽车轮胎图片
 cash,"n. 现金
 vt. 兑现"
@@ -402,7 +403,7 @@ local newspaper,地方报
 local community,区域群落
 lock,[网络] -锁
 lockers,n. 寄物柜( locker的复数形式 )
-lock-up garage,无
+lock-up garage,[网络] 可上锁车库；锁车库
 magazines,n. 杂志（magazine的复数）
 manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
@@ -438,7 +439,7 @@ microscope,[网络] 显微镜
 microbiology,"n. 微生物学
 [化] 微生物学"
 microwave, [医]微波
-micro-radiogram,无
+micro-radiogram,[医] 显微放射照片术
 micro film, 微电影
 mining,"n. 采矿
 [经] 采矿, 采矿业"
@@ -462,7 +463,8 @@ natural gas, 天然气
 newspapers,[网络] 馆藏报刊目录；报刊与电子期刊；报纸
 numbers,n. 数字（number的复数）；算术
 notes,"n. 票据；注释, 说明（note复数）"
-note-taking,无
+note-taking,"笔记
+笔录"
 note system,无
 notebook,票据簿
 noisy,"a. 嘈杂的, 喧闹的
@@ -643,13 +645,15 @@ sea view,[地名] 锡维尤 ( 美、英 )
 seagrass, 海草; 海韭菜
 sea level,海平面
 self,suff. 自己
-self-employed,无
-self-centered,无
+self-employed, 自营；个体经营的
+self-centered,"adj. 以自我为中心的；唯我独尊；自我中心的
+[网络] 不受外力的影响"
 self-access lab,无
-self-evaluation,无
-self-locking,无
-self-drive,无
-self-defense,无
+self-evaluation,"自我评鑑，自我评量, 自我评价"
+self-locking,自锁
+self-drive,"adj. 〈英〉租来自己驾驶的
+[网络] 自驾车；内驱式含线路；自驱动力"
+self-defense, [体]自卫
 ships,船舶的
 shipping,"n. 装运, 航行, 船舶, 船舶吨数
 [经] 装运, 运送, 海运"
@@ -716,7 +720,7 @@ sun,"n. 太阳, 日, 日光, 阳光
 vt. 晒
 vi. 晒太阳"
 sunset,日没
-sun-cream,无
+sun-cream,〈英〉防晒霜
 sun hat,"n. 阔边防晒草帽, 阔边遮阳帽"
 sun position,无
 super,"n. 跑龙套角色, 冗员, 特级品, 特大号, 管理人
@@ -1082,7 +1086,8 @@ n. (Corn)人名；(英、法、瑞典)科恩"
 cost,"n. 代价, 价值, 费用
 vi. 花费
 vt. 使失去, 值, 使花费"
-cost-effective,无
+cost-effective,"[计] 成本的有效的, 效能价格合算的, 价格可取的
+[经] 本轻利厚, 成本效果"
 country,"n. 国家, 乡村, 地区, 故乡
 a. 乡下的, 农村的
 [计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式"
@@ -1260,7 +1265,8 @@ num. 第一
 n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
 first draft,[法] 初稿
 first-years students,无
-first-aid kit,无
+first-aid kit,"un. 急救包；急救药箱
+[网络] 急救箱；医药箱；急救剂"
 fitness,"n. 适合, 合宜, 合理, 恰当, 健康
 [医] 适合性, 适应性"
 fitness level, [医]适合度水平
@@ -1491,7 +1497,7 @@ v. （尤指对看似不会很快发生的事）渴望
 [网络] 长整型；长整数；多头"
 long stick,长码尺
 long tables,无
-long-term,无
+long-term, 长期的
 lookout point,"un. 侦察哨
 [网络] 了望点；观景点；看守台"
 lost,"a. 失去的, 遗失的, 迷惑的
@@ -1577,8 +1583,9 @@ nutrition,"n. 营养, 营养学
 none,"adv. 一点也不, 毫不
 pron. 没有人, 无一物, 并无一个
 a. 没有的"
-non-smoking,无
-non-native,无
+non-smoking,a. （公共场所）禁止吸烟的; （人）不吸烟的
+non-native,"adj. 非本地的；引进的；移植的；非母语的
+[网络] 非原生；非本土的；非本土"
 object,"n. 物体, 目标, 目的, 对象, 宾语, 客体
 vi. 反对, 抱反感
 vt. 提出...来反对
@@ -1634,7 +1641,7 @@ vt. 用纸糊, 贴壁纸于, 用纸包装
 vi. 贴壁纸
 a. 纸做的, 纸上的"
 paper jams,无
-part-time,无
+part-time,n. 兼任，部分时间
 password,"na. 【军】口令
 [网络] 密码；重复密码；密码了"
 pay attention,专心
@@ -2309,7 +2316,7 @@ bright,"a. 明亮的, 聪明的, 鲜明的, 欢快的
 adv. 明亮地, 欢快地"
 broad,二级公路
 broader,a. 广大的；一片的比较级
-brother-in-law,无
+brother-in-law, 姐夫，妹夫
 brushes,n. 擦( brush的名词复数 ); 刷子; 小冲突; 灌木丛
 boiler,"n. 煮器, 汽锅, 锅炉
 [化] 锅炉"
@@ -2579,7 +2586,7 @@ duration,"n. 持续时间, 持续
 dust bag,[机] 撒粉袋
 earning,n. 收入（earn的现在分词）
 earth,[网络] 莉莎的天空
-Eco-system,无
+Eco-system,abbr. ecological system 生态学系统; economic system 经济学系统
 edges,n. 边界；边缘；优势（edge的复数）
 editor,"n. 编者, 编辑, 主笔, 编辑器, 编辑装置
 [计] 编辑器"
@@ -2616,7 +2623,8 @@ vt. 等于, 比得上
 error message,[计] 出错信息
 erosion,"n. 腐蚀, 冲蚀, 侵蚀
 [化] 磨耗; 侵蚀"
-E-ticket,无
+E-ticket,"n. 电子票
+[网络] 机票电子档；电子机票；机票的副本"
 experiment,"n. 实验, 试验, 实验仪器
 vi. 实验, 尝试"
 external,"n. 外部, 外面
@@ -3027,7 +3035,7 @@ vt. 邮寄, 给...穿盔甲
 mailing list,"[计] 收件人地址列表
 [经] 发送文件清单"
 mammals,n. 哺乳类；哺乳纲；哺乳类动物（mammal的复数）
-man-made,无
+man-made,人造的
 manual,"n. 手册, 指南
 a. 手的, 手动的, 手工的, 体力的
 [计] 人工的, 手动的"

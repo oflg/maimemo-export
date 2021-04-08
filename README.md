@@ -1,6 +1,6 @@
 # maimemo-export
 用于导出墨墨背单词的词库，并生成适用于 List 背单词，欧陆词典，不背单词等的自定义词库。
-仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以去 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 下载所有词库的压缩包，也可以去 [蓝奏云](https://busiyi.lanzous.com/ipGmInjmqte) 下载。
+仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以在仓库中选择需要的词库下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)），也可以去 [蓝奏云（密码:666）](https://busiyi.lanzous.com/b00ogbelc) 下载打包好的文件。
 - csv 格式用于导入 List 背单词，自带中文解释
 - txt 格式用于导入欧陆词典或不被单词，无中文解释
 

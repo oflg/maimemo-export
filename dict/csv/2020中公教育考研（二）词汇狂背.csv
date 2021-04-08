@@ -107,7 +107,8 @@ aggressive,"a. 侵略的, 挑畔的, 进取的
 [法] 侵略的, 爱挑衅的, 行为过火的"
 agitate,"vt. 使摇动, 搅动, 使激动, 使不安
 vi. 鼓动, 煽动"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 alarm,"n. 惊恐, 警报, 警钟
 vt. 使惊恐, 警告
 [计] 报警信号"
@@ -4357,7 +4358,8 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
 uproar,"n. 骚动, 喧嚣"
 upset,上端局设备
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 urban,"a. 都市的, 住在都市的, 习惯于都市的
@@ -4504,7 +4506,7 @@ vt. 焊接, 使密接, 使结合, 使成整体
 vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
-well-known,无
+well-known, 众所周知的; 出名的
 whip,"n. 鞭子, 抽打, 车夫, 搅拌器
 vt. 鞭打, 搅拌, 煽动, 召集, 仓促制成
 vi. 拍击, 急走, 抽打"
@@ -6028,7 +6030,7 @@ eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
-e-mail,无
+e-mail, 电子函政
 emotion,"n. 情绪, 激动, 强烈的情感
 [医] 情绪, 情感"
 employ,"n. 雇用
@@ -6676,7 +6678,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guess,"n. 猜测, 臆测
@@ -7786,7 +7788,8 @@ husband,[网络] 外子
 hut,"n. 小屋, 茅舍, 临时军营
 v. (使)住在茅舍"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 ideal,"n. 理想, 典范, 观念, 思想, 最后目标
@@ -10290,7 +10293,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 year,"n. 年, 年度, 年龄
@@ -10490,7 +10493,7 @@ surplus,"n. 剩余, 过剩, 盈余
 a. 过剩的, 剩余的"
 extraordinary,[网络] 寻常領域；超凡；非常规
 extravagant,"a. 奢侈的, 挥霍无度的, 浪费的"
-extra-fast,无
+extra-fast,[网络] 特别快速；超快；喽啰有急速
 descend,"vi. 下降, 世代相传, 屈尊, 袭击
 vt. 下降"
 degrade,"v. (使)降级, (使)退化"
@@ -10550,9 +10553,9 @@ prescribe,"v. 规定, 指定, 嘱咐, 开处方"
 prologue,"n. 开场白, 序言, 序幕
 vt. 为...作序, 加上...前言"
 prophet,"n. 预言者, 先知, 提倡者"
-ex-president,无
-ex-husband,无
-ex-boyfriend,无
+ex-president,n. 前总统
+ex-husband,n. 前夫
+ex-boyfriend,n. 前男友
 postwar,un. 战后的
 postgraduate,[网络] 研究生；研究生文凭；硕士
 retrograde,"a. 后退的, 倒退的, 退步的
@@ -10583,9 +10586,10 @@ a. 散开的, 弥漫的"
 nonsense,"n. 胡说；废话
 a. 荒谬的
 int. 胡说！"
-non-toxic,无
-non-controversial,无
-non-political,无
+non-toxic,无毒
+non-controversial,"adj. 不会引起争议的；一致的
+[网络] 非争议的；无争论"
+non-political,[网络] 是非政治性；政治中立
 unlimited,"a. 无限的, 不受限制的, 无条件的
 [经] 无限的, 不定的"
 unable,"a. 不能的, 不会的
@@ -10631,10 +10635,10 @@ atypical,"a. 非典型的
 [医] 非典型的, 不标准的"
 asocial,"a. 不合群的, 不关心他人的, 自私的
 [医] 不嘉社交的"
-anti-government,无
+anti-government,反政府
 antisocial,adj. 反社会的
 antibody,[机] 抗体
-anti-aging,无
+anti-aging,n. 抗衰老
 contrast,"n. 差别, 对比, 对照物
 vt. 使对比
 vi. 成对照
@@ -10699,9 +10703,11 @@ archbishop,n. 大主教
 automobile,n. 汽车
 autobiography,[网络] 自传；自动传记
 autocriticism,"n. 自评, 自我反省"
-self-taught,无
-self-employed,无
-self-doubt,无
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
+self-employed, 自营；个体经营的
+self-doubt,"n. 自疑；对自己缺乏信心
+[网络] 自我怀疑；自我质疑"
 engrave,"vt. 刻上, 雕刻, 铭记"
 encourage,"vt. 鼓励, 支持, 激励
 [法] 怂恿, 煽动, 助长"
@@ -10718,8 +10724,9 @@ bypass, 旁路，绕道
 byproduct, 副产品，副产物
 bygone,[网络] 往事；过去的事情；逝去
 byroad,由公路
-vice-president,无
-vice-manager,无
+vice-president,"副总裁, 副总统
+[经] 副总经理, 副总裁"
+vice-manager, 副经理
 collaborate,"vi. 合作, 勾结
 [法] 合作, 合著, 通敌"
 correspond,"vi. 符合, 通信, 相当
@@ -12056,11 +12063,11 @@ n. (Care)人名；(英)凯尔；(塞)察蕾"
 carefree,"a. 无忧无虑的, 舒畅的, 愉快的"
 duty,"n. 责任, 关税, 职务, 尊敬
 [化] 职责"
-duty-free,无
+duty-free,[经] 免税
 stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
-stress-free,无
+stress-free, 无应力的
 accident,[网络] 意外事故；意外
-accident-free,无
+accident-free,无事故
 doubtful,"a. 可疑的, 疑心的, 不明确的
 [法] 怀疑的, 有疑问的, 未确的"
 insightful,"a. 有深刻见解的, 富有洞察力的"
@@ -12309,7 +12316,7 @@ convince,"vt. 说服, 使相信
 [法] 使确信, 使信服, 使人认识错误"
 counsel,"n. 商议, 忠告, 法律顾问
 v. 商议, 劝告"
-co-ordinate,无
+co-ordinate,"[经] 协调, 调节"
 creep,"n. 爬, 徐行, 蠕动
 vi. 爬, 蔓延, 潜行"
 cruise,"n. 巡航, 巡弋, 漫游
@@ -12831,8 +12838,9 @@ council,"n. 会议, 委员会
 [经] 委员会"
 counterpart,"[计] 副本, 配对物, 对应物"
 coverage,"覆盖(度), 覆盖〔度〕"
-co-ordination,无
-co-worker,无
+co-ordination,[建] 配位
+co-worker,"n. 共同工作者
+[网络] 同事；合作者"
 credential,"n. 国书, 凭据, 证明书
 [经] 凭证, 证书"
 credit,"n. 信用, 信任, 荣誉, 贷款, 学分
@@ -12848,7 +12856,7 @@ v. 给（某人）暗示（或提示）
 currency,"n. 货币, 通货, 流通, 通用
 [计] 货币, 货币型"
 cyberspace,网际空间之意
-cyber-crime,无
+cyber-crime,计算机犯罪，网络犯罪(未经许可私自进入他人的计算机以窃取机密资料或通过转账盗取金钱)
 database,"[计] 数据库
 [化] 数据库"
 dealer,"n. 经销商, 商人
@@ -13002,7 +13010,7 @@ guideline,"[计] 准则
 [医] 导线, 观测线"
 guilt,"n. 罪行, 内疚
 [法] 罪, 犯罪, 罪行"
-health-care,无
+health-care, 卫生保健
 heaven,"n. 天堂, 上帝, 天空"
 homebuyer,[网络] 购房者
 hospitalization,"n. 医院收容, 住院治疗
@@ -13308,7 +13316,7 @@ vt. 把...分成扇形
 [计] 扇面; 扇区; 段; 区段"
 security,"n. 安全, 安全性, 防护物, 保安, 可靠性, 担保人, 抵押品, 保证金
 [计] 安全性, 保密性, 安全检查程序"
-self-esteem,无
+self-esteem, 自尊
 sense,"n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智
 vt. 感觉, 觉察, 检测
 [计] 阅读; 检测"
@@ -13603,7 +13611,7 @@ n. 常规
 generous,"具,有"
 grand,"a. 庄重的, 壮观的, 显赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢的
 [法] 重大的, 主要的, 伟大的"
-high-risk,无
+high-risk,高危
 household,"n. 家眷, 家务, 王室
 a. 家务的, 家常的"
 illusory,"a. 产生幻觉的, 幻影的, 错觉的
@@ -13653,7 +13661,7 @@ likely,"a. 有可能的, 合适的, 前途有望的
 adv. 或许, 可能"
 literary,"a. 文学的, 文艺的, 精通文学的
 [法] 文学的, 从事文学的, 从事写作的"
-long-term,无
+long-term, 长期的
 masculine,"n. 阳性, 男性
 a. 男性的, 阳性的, 有丈夫气的"
 massive,"a. 大而重的, 宽大的, 宏伟的
@@ -13661,7 +13669,8 @@ massive,"a. 大而重的, 宽大的, 宏伟的
 mechanical,"a. 机械的, 机械性的, 力学的
 [医] 机械的, 力学的"
 mental,"suf. 表示""行为的"""
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 mild,"a. 温和的, 温柔的, 淡味的, 适度的, 轻微的, (肥皂等)软性的
 [医] 轻的, 缓和的"
 minimal,
@@ -13683,7 +13692,7 @@ n. 负数, 负值
 [计] 负数, 负值"
 neutral,"adj. 中立的，中性的；中立国的；非彩色的
 n. 中立国；中立者；非彩色；齿轮的空档"
-new-found,无
+new-found,a. 新发现的；新得到的
 normal,"n. 常态, 标准, 正常, 普通
 a. 正常的, 正规的, 标准的, 师范的, 正态的
 [计] 标准, 普通"
@@ -13691,7 +13700,7 @@ numerical,"a. 数字的, 数值的, 以数字表示的, 擅长于计数的
 [经] 数字的, 用数字表示的"
 obese,"a. 肥胖的
 [医] 肥胖的"
-old-hat,无
+old-hat,"老式的, 过时的"
 operational,"a. 操作的, 运作的
 [法] 操作上的, 业务上的, 可起作用的"
 optimistic,"a. 乐观的, 乐观主义的, 乐天的"
@@ -13862,7 +13871,8 @@ vulnerable,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局
 [医] 易损的"
 weak,"a. 不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的
 [经] 疲软的"
-well-educated,无
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
 willing,"a. 乐意的, 自愿的, 甘愿的"
 worthwhile,"na. 有…的价值；有利益的
 [网络] 值得；值得的；值得去做"
@@ -13979,10 +13989,10 @@ unfair competition,[经] 不公平竞争
 fake and inferior product,无
 promote sales, [法]推销
 fierce competition, 竞争激烈
-after-sale service,无
+after-sale service, [计]售后服务
 enterprise image,[网络] 企业形象；企业形象展示；企业形像
 brand effect, 品牌效应
-over-consuming,无
+over-consuming,[网络] 过度消费
 culture and civilization,无
 cultural diversity,文化多样性
 cultural treasures,无
@@ -14010,20 +14020,20 @@ a. 速成的
 mahjong,"n. 〈外〉麻将牌
 [网络] 麻将沙发；麻将运动；麻将馆"
 the Double Ninth Festival,无
-cross-cultural communication,无
+cross-cultural communication,[网络] 跨文化交流；跨文化交际；跨文化沟通
 cross-cultural exchange,无
 cross-cultural interaction,无
 cultural differences,文化差异
 cultural traditions,文化传统
-main-stream culture,无
+main-stream culture, [医]主流文化
 compulsory education,[法] 义务教育
 test-oriented education,无
-quality-oriented education,无
+quality-oriented education,[网络] 教学模式素质教育
 institute of higher education,无
 cultural quality,[网络] 文化素质；文化品格；文化品位
 impart knowledge and educate people,无
 dropout student,无
-left-behind children,无
+left-behind children,[网络] 留守儿童；留守孩子
 intellectual property,"[计] 知识财富
 [经] 著作权, 版权"
 law education,无
@@ -14049,7 +14059,7 @@ practical skills,[网络] 实用技能；实用技巧；实践技能
 prestigious school,无
 study load,无
 tuition fees, 学费
-environment-friendly,无
+environment-friendly,[网络] 环保；环保型；环境友好
 conserve natural habitats,无
 animal rights activist,无
 natural reserve,自然保护区
@@ -14085,7 +14095,7 @@ disposal of toxic waste,无
 drinking water,n. 饮用水; 饮水
 drought,"n. 干旱, 缺乏"
 emission of exhaust fumes,无
-e-commerce,无
+e-commerce, [计]电子商务
 web-addiction,无
 computer crime,[计] 计算机犯罪
 virtual life,"虚拟人生
@@ -14102,7 +14112,8 @@ genetic engineering,"[计] 遗传工程
 [化] 基因工程; 遗传工程; 遗传工程学"
 GM food,abbr. Genetically modified food 转基因食品
 genetically modified food,[网络] 转基因食品；基因改造食品；基因改造食物
-test-tube baby,无
+test-tube baby,"un. 试管婴儿
+[网络] 脑溢血；降血脂；体外人工受精"
 GPS,"abbr. (=gauge pressure)【物】表压
 [网络] 全球卫星定位系统；卫星定位仪；全球卫星导航仪"
 global positioning system,全球位置测定系统
@@ -14117,11 +14128,12 @@ psychological health, [医]心理卫生，心理保健
 mental fitness,无
 psychological fitness,无
 health concern,无
-sub-health,无
+sub-health,不完全健康的状况
 public health,[医] 公共卫生
 state of mind," 心境, 心情, 思想状态; 神思; 心神; 心气"
 physical exercises,n. 体操
-well-balanced diet,无
+well-balanced diet,"un. 匀衡饮食
+[网络] 丰盛健康的饮食供应"
 junk food,"n. 垃圾食品, 无营养食品"
 food additives,[化] 食品添加剂
 vaccinate,v. 预防接种
@@ -14209,10 +14221,10 @@ vt. 打扮, 使穿着整洁漂亮"
 double income no kids,无
 a single-parental family,无
 support the elderly,无
-great-grandfather,无
-great-grandmother,无
-father-in-law,无
-mother-in-law,无
+great-grandfather, 曾祖父
+great-grandmother,曾祖母
+father-in-law,"[法] 岳父, 继父"
+mother-in-law,"岳母,婆婆"
 nephew,"n. 侄子, 外甥"
 niece,"n. 侄女, 甥女"
 cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
@@ -14232,7 +14244,7 @@ a sense of achievement,[网络] 成就感；成就意识；成功感
 sense of honor,荣誉感
 aggressive,"a. 侵略的, 挑畔的, 进取的
 [法] 侵略的, 爱挑衅的, 行为过火的"
-strong-willed,无
+strong-willed,a. 意志坚强的
 tireless,"a. 不疲倦的, 不厌倦的, 不屈不挠的"
 persevering,"a. 坚忍的, 不屈不挠的, 执拗的, 倔强的"
 patience,"n. 耐性, 忍耐"

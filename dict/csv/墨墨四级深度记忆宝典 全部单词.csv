@@ -96,7 +96,7 @@ inability,在能力方面
 quality,"n. 品质, 特性, 才能, 质量
 a. 优质的
 [计] 品质"
-high-quality,无
+high-quality,[经] 高级品质
 power,"n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率
 vt. 使...有力量, 供以动力, 激励
 [计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性"
@@ -419,7 +419,7 @@ balance,[网络] 平衡；达到平衡
 comfortable,[网络] 舒适
 comfort,"n. 舒适, 安慰, 安慰者
 vt. 安慰"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 convenient,"a. 方便的, 合宜的
 [法] 适当的, 合理而可行的, 方便的"
 convenience,"n. 方便, 便利的事物, 方便的时候"
@@ -829,7 +829,7 @@ actual,"a. 真实的, 实际的, 现行的
 [医] 实际死亡率"
 actually,"adv. 事实上, 竟然, 如今, 现在"
 indeed,真正
-so-called,无
+so-called,adj. 所谓的
 artificial,"a. 人造的, 假的, 非原地产的
 [医] 人工的, 人造的, 伟牟"
 genuine,"a. 真正的, 真实的, 诚恳的
@@ -1971,7 +1971,7 @@ interj. 就是这话, 就是这么回事"
 term,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
 vt. 称, 呼
 [计] 检索词; 项"
-long-term,无
+long-term, 长期的
 decade,"n. 十年, 十"
 century,"n. 世纪, 百年"
 moment,[网络] 一刹那
@@ -1980,8 +1980,8 @@ generation,"n. 一代, 一世, 产生
 stage,"n. 阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架
 vt. 上演, 表演, 筹划
 vi. 适于上演, 乘驿车旅行"
-full-time,无
-part-time,无
+full-time,"专职,全部工作时间的,全日制"
+part-time,n. 兼任，部分时间
 overtime,[计] 超时
 vacation,"n. 假期, 休假
 [法] 假期, 停审期, 休庭期"
@@ -2187,7 +2187,8 @@ modern,"n. 现代人, 有思想的人
 a. 现代的, 时髦的"
 contemporary,"n. 同时代的人
 a. 同时代的, 属于同一时期的"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 ongoing,"adj. 不间断的，进行的；前进的
 n. 前进；行为，举止"
 record,"vt. 记录，记载；标明；将...录音
@@ -2577,7 +2578,8 @@ vt. 看护, 照顾, 培养
 vi. 喂奶, 看护病人"
 secretary,"n. 秘书, 书记, 大臣
 [经] 秘书"
-co-author,无
+co-author,"n. （书或文章的）合著者
+[网络] 合作者"
 pilot,"n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人
 vt. 领航, 驾驶, 引导, 试用
 a. 引导的, 控制的, 试点的
@@ -2952,7 +2954,7 @@ technology,"n. 技术, 工业技术, 术语
 [医] 技术学, 工艺学"
 technological,"a. 技术的
 [经] 工艺的, 技术的"
-high-tech,无
+high-tech,高技术
 media,"n. 媒体
 [计] 媒质"
 network,[机] 净功
@@ -3649,7 +3651,7 @@ vt. 擦伤
 [计] 写后读"
 alcohol,"n. 酒精, 酒
 [化] 醇; 乙醇; 酒精"
-fast-food,无
+fast-food,n. 速食; 快餐
 crop,"n. 农作物, 产量, 平头
 vt. 收割, 修剪, 种植
 vi. 收获
@@ -6591,7 +6593,8 @@ abbr. 岛，群岛
 immediately,"adv. 立即，立刻；直接地
 conj. 一…就"
 in spite of,不管
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 just,"adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要
 adj. 公正的，合理的；正直的，正义的；正确的；公平的；应得的
 n. (Just)人名；(英)贾斯特；(法)朱斯特；(德、匈、波、捷、挪)尤斯特；(西)胡斯特"
@@ -7804,7 +7807,7 @@ vt. 植林于, 给...添加木柴
 vi. 收集木材"
 writer,"n. 作家, 撰稿者, 抄写员
 [化] 记录器"
-well-known,无
+well-known, 众所周知的; 出名的
 Wednesday,n. 星期三
 war,abbr. 承担一切风险的保险（with all risks）
 winner,"n. 胜利者, 优胜者
@@ -8497,7 +8500,7 @@ duration,"n. 持续时间, 持续
 eagle,"n. 鹰, 鹰状标饰"
 eastern,"n. 东方人, 东正教徒
 a. 东方的, 向东的, 自东的"
-easy-going,无
+easy-going, 从容不迫的
 edit,[网络] 中点编辑
 editor,"n. 编者, 编辑, 主笔, 编辑器, 编辑装置
 [计] 编辑器"
@@ -9026,7 +9029,8 @@ a. 金属制的
 vt. 以金属覆盖"
 midday,"n. 中午；正午
 adj. 正午的"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 migration,"n. 移民, 移往, 移动
 [计] 迁移"
 mild,"a. 温和的, 温柔的, 淡味的, 适度的, 轻微的, (肥皂等)软性的
@@ -9094,7 +9098,7 @@ obese,"a. 肥胖的
 obey,[网络] 遵守
 occupational,"a. 职业的, 军事占领的
 [医] 职业的"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 Olympic,"a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
 Olympics,n. 奥林匹克运动会
 operational,"a. 操作的, 运作的
@@ -9926,7 +9930,7 @@ wind的过去式和过去分词"
 wreck,"n. 失事, 残骸, 破坏
 vt. 使失事, 拆毁, 破坏
 vi. (船)失事, 营救失事船只"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yearly,"a. 每年的, 一年一度的
 adv. 一年一次, 每年"
 yell,[网络] 叫喊
@@ -10024,8 +10028,9 @@ agreeable,"a. 令人愉快的, 同意的
 AIDS,"n. 爱滋病(获得性免疫缺陷综合征)
 [计] 高级综合数据系统, 先进交互调试系统, 自动图解文档编制系统
 美国决策学学会, 信息自动显示系统, 自动综合调试系统"
-air-conditioner,无
-air-conditioning,无
+air-conditioner,[化] 空调器; 空气调节器
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aisle,"n. 走廊, 侧廊, 过道
 [机] 走道"
 album,"n. 粘贴簿, 唱片套
@@ -10291,8 +10296,9 @@ beneficiary,"n. 受惠者, 受益人
 a. 受封的"
 berry,"n. 浆果
 vi. 采集浆果"
-best-seller,无
-best-selling,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
+best-selling,"a. 最畅销的, 畅销作品的"
 betray,"vt. 出卖, 背叛, 辜负, 暴露
 [法] 出卖, 背叛, 泄漏"
 betrayal,"n. 背叛, 辜负
@@ -10364,7 +10370,7 @@ vt. 装托架, 括入括弧
 [计] 方括号; 括号"
 brag,"n. 吹牛
 v. 吹牛"
-brand-new,无
+brand-new,"崭新的,全新的"
 brandy,"n. 白兰地酒
 [化] 白兰地"
 brass,"n. 黄铜, 黄铜制品
@@ -10607,7 +10613,8 @@ claw,"n. 爪, 螯, 抓伤
 v. 用爪抓, 挖, 搜刮"
 clay,"n. 泥土, 肉体, 黏土
 [化] 粘土"
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 clerical,"n. 牧师
 a. 文书的, 事务上的, 抄写员的, 牧师的"
 click,"n. 咔哒声, 啪嗒声
@@ -12200,7 +12207,7 @@ vi. 产仔, 乱丢垃圾"
 lively,"a. 活泼的, 鲜明的, 生动的"
 liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
-living-room,无
+living-room,"客厅, 起居室"
 loaf,"n. 一条面包, 块, 游荡
 v. 游手好闲, 虚度光阴"
 lobbyist,"n. 说客
@@ -13248,7 +13255,8 @@ scripture,"n. 圣经, 圣经的一节, 圣经的一句, 铭文"
 seal,[网络] 那太简单了
 seasonal,"a. 季节的, 依照季节的, 周期性的
 [经] 季节性的, 季节的"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 secrecy,"n. 秘密, 保密
 [法] 秘密, 秘密状态, 保密"
 secretarial,"a. 秘书的, 书记的"
@@ -13268,7 +13276,7 @@ selective,"a. 选择的, 选择性的
 [经] 选择的, 选择性的"
 selfish,"a. 自私的, 利己主义的, 自我中心的"
 selfless,[网络] 无我；没有自己
-semi-colon,无
+semi-colon,[网络] 分号
 Senate,"n. 参议院, 立法机构, 评议会"
 seniority,"n. 长辈, 老资格
 [经] 资历, 服务年限"
@@ -14047,7 +14055,7 @@ weekday, 工作日
 weep,"n. 哭, 哭泣
 vi. 哭泣, 流泪, 哀悼, 滴落
 vt. 哭着使..., 悲叹, 滴下"
-well-off,无
+well-off,"富裕的, 处境好的"
 westerner,"n. 西方人, 西洋人"
 wet,"n. 湿气, 潮湿, 水分, 雨天
 a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的

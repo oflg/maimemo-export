@@ -14,7 +14,7 @@ vi. 豁开
 [计] 通用汇编程序, 图形应用程序, 间距"
 debate,"n. 辩论, 讨论
 v. 争论, 辩论"
-ill-educated,无
+ill-educated,a. 缺乏教育的
 inequality,n. 不平等；不同；不平均
 stubborn,"a. 顽固的, 不听话的, 执拗的, 棘手的"
 concentrate,"n. 浓缩, 精选
@@ -289,7 +289,8 @@ retiree,"n. 退休人员, 退休者
 challenge,"n. 挑战, 盘问
 vt. 向...挑战, 要求, 怀疑
 vi. 挑战, 对(证据等)表示异议"
-coming-of-age,无
+coming-of-age,"n. 成年；成人年龄
+[网络] 不是时代来临；而是成年；成长"
 unite,"vi. 联合, 接合, 混合
 vt. 使联合, 统一, 使粘合, 使结合"
 engage,"vi. 答应, 从事, 交战
@@ -523,7 +524,7 @@ shock,"n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗
 vt. 使震动, 使休克, 使受电击, 震惊得
 vi. 震动, 吓人
 a. 蓬乱浓密的"
-round-the-clock,无
+round-the-clock,连续一整天
 lean,"n. 瘦肉, 倾斜, 倾斜度
 a. 瘦的, 贫乏的, 歉收的
 vi. 倚靠, 倾斜, 依赖
@@ -538,7 +539,7 @@ dissatisfaction,n. 不满；令人不满的事物
 glamorous,"a. 富有魅力的, 迷人的"
 funny,"a. 好笑的, 有趣的, 滑稽的
 n. 滑稽人物"
-auto-pilot,无
+auto-pilot,自动舵
 routine,"n. 常规, 日常工作, 惯例, 例行公事
 a. 日常的, 常规的
 [计] 例程"
@@ -992,7 +993,7 @@ ultimate,"n. 终极, 根本, 顶点, 基本原则
 a. 终极的, 根本的, 极限的, 最远的, 最后的, 最大的"
 device,"n. 装置, 设计, 策略, 发明物, 设备
 [计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序"
-text-message,无
+text-message, 正文消息
 gadget,"n. 小配件, 小玩意, 诡计"
 connectedness,[计] 连通性
 respond,"vt. 以...回答
@@ -1293,7 +1294,7 @@ vi. 平行, 延伸, 漫游
 [计] 量程; 范围; 域; 距离"
 prescription,"n. 处方, 命令, 指定
 [医] 处方, 药方"
-over-the-counter,无
+over-the-counter, （买药）不用处方
 kinship,"n. 亲属关系
 [法] 亲属关系, 家族关系, 关系"
 biological,生物学的
@@ -1371,9 +1372,10 @@ n. 数字仪表, 数字式电子表(或时钟)
 consume,"vt. 消耗, 消费, 消灭
 vi. 耗尽, 毁灭"
 coal,[网络] 钴蓝
-kilo-watt,无
+kilo-watt,n. [电] 千瓦（功率单位）
 surpass,"vt. 超越, 凌驾, 胜过"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 furnace,"n. 火炉, 熔炉, 考验
 vt. 在炉中烧"
 server,"n. 服伺者, 上菜用具, 发球员
@@ -1444,7 +1446,7 @@ substantial,"n. 重要材料(或事物), 有实际价值的东西
 a. 实质上的, 物质的, 有内容的, 结实的"
 performance,"n. 施行, 工作情况, 成绩, 行为, 表现, 演出
 [电] 绩效, 性能"
-multi-core,无
+multi-core,多芯
 processor,"n. 信息处理机, 加工者, 处理者
 [计] 处理器"
 separate,"n. 独立件, 抽印本
@@ -1575,7 +1577,7 @@ diverse,"a. 不同的, 变化多的"
 commit,"vt. 委托(托付), 犯罪, 指派...作战, 使承担义务
 [法] 犯, 做, 把...交托给"
 curricular,a. 课程的
-liberal-arts,无
+liberal-arts,文科
 collaborate,"vi. 合作, 勾结
 [法] 合作, 合著, 通敌"
 extraordinary,[网络] 寻常領域；超凡；非常规
@@ -1695,7 +1697,7 @@ n. (Cope)人名；(英)科普；(西)科佩"
 quarter,"n. 四分之一, 一刻钟, 季度, 地区
 vt. 四等分, 肢解
 vi. 驻扎, 住宿"
-self-esteem,无
+self-esteem, 自尊
 academic,"a. 学院的, 学术的, 不切实际的
 n. 大学生, 大学教师, 学者, 学会会员"
 mathematically,adv. 算术地
@@ -2023,7 +2025,7 @@ vi. 想像起来"
 bargain,"n. 交易, 买卖协定, 特价商品
 v. 讲价, 交易"
 garment,"n. 衣服, 衣装, 外表"
-top-down,无
+top-down,"[经] 组织(控制,管理)严密的"
 feverish,"a. 发热的, 极度兴奋的, 不安的"
 label,"n. 标签, 称号, 商标, 标志
 vt. 贴标签于, 标注
@@ -2050,13 +2052,13 @@ n. 释放；发布；让与"
 renew,"vt. 使更新, 使恢复, 复兴, 修补, 补充, 继续, 重订, 重申, 续借
 vi. 更新, 重新开始"
 wardrobe,"n. 衣橱, 衣室, 全部衣服"
-dirt-cheap,无
+dirt-cheap,"a. & adv. 非常便宜的[地], 毫无价值的[地]"
 accustom,vt. 使习惯于
-on-trend,无
+on-trend,[网络] 流行；衰止
 hijack, 劫道
 victim,"n. 受害人, 牺牲者, 牺牲品
 [法] 受害人, 被害人, 遭难者"
-low-wage,无
+low-wage,[经] 低工资
 volume,"n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量
 vi. 成团卷起
 vt. 把...收集成卷
@@ -2125,8 +2127,8 @@ agency,"n. 代理机构, 经销商, 中介
 access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
 vt. 访问, 存取, 接近, 使用
 [计] 访问, 存取"
-co-operation,无
-far-reaching,无
+co-operation,n. 合作，协作；[劳经] 协力
+far-reaching,adj. 影响深远的; 有广泛影响的
 restrict,"vt. 限制, 限定, 约束
 [医] 限制"
 reality,"n. 实在, 事实, 实体, 逼真
@@ -2333,7 +2335,8 @@ career,"n. 事业, 生涯, 成功
 [法] 职业, 专业, 履历"
 duty,"n. 责任, 关税, 职务, 尊敬
 [化] 职责"
-self-fulfilment,无
+self-fulfilment,"n. 自我实现
+[网络] 自我完满；自我满足实现；自我充实"
 stride,"n. 大步, 步幅, 步态, 进步
 v. 迈大步走, 跨过, 跨"
 fresh,"a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的
@@ -2581,7 +2584,8 @@ vi. 流, 涌, 飘扬
 [计] 流"
 playgoer,"n. 爱看戏的人, 常看戏的人, 戏迷"
 sightseer,"n. 观光者, 游览者"
-sight-seeing,无
+sight-seeing,"n. 观光, 游览
+a. 观光的, 游览的"
 contend,"vi. 奋斗, 斗争, 竞争
 vt. 为...斗争"
 nightfall, [电影]大追捕; 追捕
@@ -2734,7 +2738,8 @@ debate,"n. 辩论, 讨论
 v. 争论, 辩论"
 parachute,"n. 降落伞
 vi. 跳伞"
-back-up,无
+back-up,"na. 支持；堵塞；【棒球】抢救后方；【计算机】把(文件等备份)
+[网络] 倒退；后退；援助"
 disruption,"n. 分裂, 崩溃, 瓦解"
 extra,"n. 额外的事物, 另外的收费
 a. 额外的, 特别的

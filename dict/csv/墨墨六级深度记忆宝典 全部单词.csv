@@ -1443,7 +1443,7 @@ freedom,"n. 自由, 坦率, 特权
 ease,"n. 安乐, 安逸, 悠闲
 vt. 使安乐, 使安心, 减轻, 放松
 vi. 减轻, 放松, 灵活地移动"
-well-being,无
+well-being,n. 健康; 幸福; 保持良好状态
 relieve,"vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著
 vi. 救济, 当替补投手, 呈鲜明突出"
 relief,"n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏
@@ -1680,7 +1680,7 @@ actually,"adv. 事实上, 竟然, 如今, 现在"
 indeed,真正
 artificial,"a. 人造的, 假的, 非原地产的
 [医] 人工的, 人造的, 伟牟"
-so-called,无
+so-called,adj. 所谓的
 fake,"n. 假货, 欺骗, 诡计
 a. 假的
 vt. 假造, 仿造
@@ -2187,7 +2187,8 @@ vt. 训练, 指导
 vi. 坐马车旅行, 作指导"
 secretary,"n. 秘书, 书记, 大臣
 [经] 秘书"
-co-author,无
+co-author,"n. （书或文章的）合著者
+[网络] 合作者"
 athlete,"n. 运动员, 运动选手
 [医] 运动员"
 architect,"n. 建筑师, 设计者, 缔造者"
@@ -2665,7 +2666,8 @@ audience,"n. 听众, 观众, 读者
 [法] 听讼, 观众, 听众"
 minority,"n. 少数, 未成年, 少数民族
 a. 少数的, 属于少数派的"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 committee,n. 委员会
 military,"n. 军队
 a. 军事的, 军人的, 适于战争的"
@@ -2825,7 +2827,7 @@ decade,"n. 十年, 十"
 term,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石
 vt. 称, 呼
 [计] 检索词; 项"
-long-term,无
+long-term, 长期的
 generation,"n. 一代, 一世, 产生
 [医] 生殖, 世代"
 century,"n. 世纪, 百年"
@@ -2863,7 +2865,7 @@ semester,n. 学期
 lifetime, 使用期限，寿命
 lifelong,"adj. 终身的
 [网络] 终身险；终身服用；是长寿"
-part-time,无
+part-time,n. 兼任，部分时间
 temporary,"a. 暂时的, 临时的
 n. 临时工, 临时雇员
 [计] 临时"
@@ -2961,7 +2963,7 @@ prior,"a. 更重要的, 较早的, 在先的
 n. 小隐修院院长, 大隐修院副院长"
 deadline,"[计] 静线
 [化] 安全界线"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
 latter,"a. 后者的, 较后的, 近来的"
@@ -3128,7 +3130,8 @@ currently,"adv. 现在, 当前, 一般, 普通
 [计] 当前"
 ongoing,"adj. 不间断的，进行的；前进的
 n. 前进；行为，举止"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 contemporary,"n. 同时代的人
 a. 同时代的, 属于同一时期的"
 record,"vt. 记录，记载；标明；将...录音
@@ -4184,8 +4187,10 @@ middle class,"中产阶级
 official language,"[法] 法定语文, 正式语文"
 power supply,"电源
 [计] 电源"
-self-control,无
-self-discipline,无
+self-control,"n. 克己；自制
+[网络] 自我控制；自制力；自身对照"
+self-discipline,"n. 自律；自我约束
+[网络] 自我训练；自我控制；自我纪律"
 social care services,无
 social workers,"n. 社会工作者
 [网络] 社工；社会服务工；社会工作员"
@@ -4230,7 +4235,7 @@ high quality staff,无
 high unemployment,[网络] 高失业率；高失业区
 highly competitive market,无
 housing bubble,房地产泡沫
-laid-off workers,无
+laid-off workers,[网络] 下岗工人；下岗职工
 living standards,"[经] 生活水准, 生活标准"
 medium-sized enterprises,无
 online purchases,无
@@ -4264,7 +4269,8 @@ alien species,"外源种,侨居种"
 ancient climate,无
 catastrophic events,[网络] 灾难性事件；灾难事件
 climate change, 气候变化
-early-warning system,无
+early-warning system,"un. 预警系统；预警报系统；早期警报制度；早期警报系统
+[网络] 早期预警系统；预早警告系统；预先警报系统"
 environmental charity,无
 fossil fuels,n. 化石燃料( fossil fuel的名词复数 )
 global warming,n. 全球变暖
@@ -4301,7 +4307,7 @@ the Four Great Inventions of ancient China,无
 the Lantern Festival, 元宵节
 the lotus flower,无
 the Manchu Nationality,无
-the Mid-autumn Festival,无
+the Mid-autumn Festival,[网络] 中秋节
 the national flower,无
 the plum blossom,无
 the Silk Road,丝绸之路
@@ -4350,7 +4356,7 @@ drive to commute,无
 energy conservation and emission reduction,无
 get rid of poverty,无
 handicraft industry,[经] 手工业
-high-speed train,无
+high-speed train,[网络] 高速列车；高铁；高速火车
 issue paper money,[经] 发行纸币
 keep pace with the times,[网络] 与时俱进；跟上时代的步伐；与时并进
 medical care,"医疗,医护"
@@ -7785,7 +7791,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -7898,7 +7904,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 yeah,"adv. (非正式)是, 是的"
@@ -7981,7 +7987,8 @@ v. 聚集, 集合, 合计达
 agony,"n. 极大的痛苦, 挣扎
 [医] 濒死苦闷; 剧痛"
 airborne,"[经] 空运的, 非机上的"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 aisle,"n. 走廊, 侧廊, 过道
@@ -8250,7 +8257,7 @@ bracket,"n. 支架, 括弧, 托架
 vt. 装托架, 括入括弧
 [计] 方括号; 括号"
 branch,comb.form 【脊椎动物学】表示“具有…鳃的”：lamellibranch
-brand-new,无
+brand-new,"崭新的,全新的"
 breach,"n. 裂口, 违背, 破坏, 违反, 突破, 破裂
 vt. 攻破, 突破
 vi. 跳出水面"
@@ -8470,10 +8477,12 @@ clause,"n. 子句, 条款
 [计] 子句"
 claw,"n. 爪, 螯, 抓伤
 v. 用爪抓, 挖, 搜刮"
-clear-cut,无
+clear-cut,"adj. 清晰的
+[网络] 皆伐；清楚的；明确"
 clerk,"n. 办事员, 职员, 文书
 vi. 当店员"
-cliché,无
+cliché,"n. 陈腔滥调, 凸印版
+a. 陈腐的"
 clinic,n. 临床；诊所
 clip,"n. 修剪, 夹子, 回形针, 剪下来的东西
 vt. 修剪, 痛打, 夹牢, 剪报
@@ -8930,7 +8939,7 @@ dynamic,"a. 动态的, 有活力的, 有力的, 动力的, 不断变化的
 n. 动力, 动态
 [计] 动态的"
 eagle,"n. 鹰, 鹰状标饰"
-easy-going,无
+easy-going, 从容不迫的
 eccentric,"n. 怪人, 偏心圆
 a. 古怪的, 反常的, 不同圆心的"
 echo,"n. 回声, 回音, 回波
@@ -9378,7 +9387,7 @@ heritage,"n. 遗产, 祖先遗留物, 继承物
 hesitate,"vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿"
 hierarchy,"n. 等级制度, 僧侣统治, 等级体系
 [计] 分级结构; 分层结构; 新闻组, 新闻组分层"
-high-tech,无
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hijack, 劫道
 hike,"n. 徒步旅行, 远足, 涨价, 提高
@@ -10524,7 +10533,8 @@ vt. 雕刻, 雕塑
 vi. 当雕刻师"
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 seduce,"vt. 唆使, 怂恿, 引诱, 诱奸
 [法] 勾引, 诱惑, 诱奸"
 segregate,"a. 分离的, 被隔离的
@@ -11269,7 +11279,7 @@ vi. 哭泣, 流泪, 哀悼, 滴落
 vt. 哭着使..., 悲叹, 滴下"
 weird,"a. 怪异的, 超自然的, 不可思议的
 n. 命运, 预言, 符咒"
-well-off,无
+well-off,"富裕的, 处境好的"
 whale,"n. 鲸
 vi. 捕鲸
 vt. 使惨败, 猛揍"
@@ -11520,7 +11530,8 @@ vi. 快速移动
 vt. 捶"
 benevolent,"a. 善意的, 慈善的"
 beset,[网络] 准备好
-best-seller,无
+best-seller,"畅销书, 畅销书作者
+[经] 畅销品"
 betray,"vt. 出卖, 背叛, 辜负, 暴露
 [法] 出卖, 背叛, 泄漏"
 beware,"v. 小心, 谨防"
@@ -11674,7 +11685,7 @@ cauliflower,"n. 花椰菜
 [医] 花椰菜(菜花)"
 cavity,"n. 洞, 空穴, 腔
 [化] 空穴"
-cell-phone,无
+cell-phone,n. 手机
 cellar,"n. 地窖, 地下室, 藏酒"
 censor,"n. 检查员
 vt. 检查, 审查, 删改"
@@ -12340,7 +12351,8 @@ hypocrisy,"n. 伪善
 [法] 伪善, 虚伪"
 hysterical,"a. 歇斯底里的, 异常兴奋的
 [医] 癔病的, 歇斯底里的"
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idiot,"n. 白痴, 极蠢之人
 [医] 白痴者, 痴子"
 illicit,"a. 不法的, 不正当的, 禁止的
@@ -12453,7 +12465,7 @@ vt. 使有球形突出物
 vi. 鼓起"
 knot,"n. 结, 群, 难题
 v. 打结, (使)纠缠"
-know-how,无
+know-how,[化] 专门技术; 窍门
 lace,"n. 饰带, 花边, 缎带, 鞋带
 vt. 结带子, 饰以花边
 vi. 系带子
@@ -12507,7 +12519,7 @@ liter,"n. 公升
 litter,"n. 垃圾, 杂乱, 轿, 担架
 vt. 乱丢, 铺草, 弄乱
 vi. 产仔, 乱丢垃圾"
-living-room,无
+living-room,"客厅, 起居室"
 loaf,"n. 一条面包, 块, 游荡
 v. 游手好闲, 虚度光阴"
 logistics,"n. 后勤学, 后勤
@@ -12760,7 +12772,7 @@ a. 党派的, 偏袒的, 效忠的, 献身的, 盲目推崇的"
 partition,"n. 分割, 隔离物, 隔墙, 财产分割
 vt. 区分, 瓜分, 隔开, 分割
 [计] 分区; 划分"
-passer-by,无
+passer-by,n. 过路人; 经过者
 password,"na. 【军】口令
 [网络] 密码；重复密码；密码了"
 paste,"n. 面团, 面食, 浆糊, 糊状物, 粘贴, 用拳重击

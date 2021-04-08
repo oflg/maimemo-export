@@ -4664,7 +4664,7 @@ shade,"n. 荫, 阴暗, 遮光物, 灯罩, 帘, 浓淡, 微量, 底纹
 vi. 渐变
 vt. 使阴暗, 使渐变, 遮蔽, 微减
 [计] 底纹"
-short-sighted,无
+short-sighted, [医]近视的
 sink,"n. 藏垢的场所, 沟渠, 污水槽
 vi. 下沉, 沉没, 下陷, 减弱, 衰退, 消沉, 堕落, 渗透
 vt. 使低落, 使下沉, 陷于, 投入(资金等), 挖掘"
@@ -4751,14 +4751,16 @@ assume responsibility,无
 at odds with ..., 与…不和，与…争吵
 attach importance to,重视
 attend to, 处理; 注意; 听取; 致力于
-attend to sb.,无
-attend to sth.,无
+attend to sb., 处理; 注意; 听取; 致力于
+attend to sth., 处理; 注意; 听取; 致力于
 background information,背景材料;背景资料
-base sth. on sth.,[网络] 基础sth在sth
+base sth. on sth.,"v. 根据
+[网络] 基于；以……为基础；以…为根据"
 basic rights and public interest,无
 be addicted to ...,沉迷于…
 be attentive to ..., 对…关怀
-be biased against sth.,无
+be biased against sth.,"na. 对…抱有偏见
+[网络] 对……有偏见"
 be born with,"生来就有…,有…天赋"
 be bothered with ...,无
 be bound by ..., 受…约束；由…联系起来; 狃
@@ -4773,7 +4775,7 @@ be dedicated to,"奉献于,献身于,题献给"
 be deprived of ...,"被剥夺了…,失去…"
 be determined by ..., 由…所决定
 be due to do ...,无
-be eager to do sth.,渴望做某事
+be eager to do sth.,渴望(做)...
 be engaged with ...,"与…洽谈,和…交战;忙于…"
 be enthusiastic about ...,对…热心
 be excluded from ...,无
@@ -4785,7 +4787,7 @@ be fearful of doing sth.,无
 be filled with,充满…
 be free to do sth.,无
 be given due attention,无
-be happy to do sth.,无
+be happy to do sth.,[网络] 很高兴做某事；乐意做；乐意做某事
 be helplessly addicted to,无
 be in danger, 遇险；出险
 be in dispute,"有纠纷
@@ -4797,7 +4799,7 @@ be intimately linked,无
 be jealous of,妒嫉
 be known,[网络] 知；被熟知；被认识
 be less skeptical of sth.,无
-be limited to sb.,无
+be limited to sb.,被限制在...上
 be little known,无
 be married to ...,"和…结婚,嫁给"
 be more inclined to do sth.,无
@@ -4809,25 +4811,29 @@ be not on good terms,无
 be obsessed with,被…困扰
 be opposed to,"反对..., 与...相对"
 be poor at doing sth.,无
-be prepared to do sth.,无
+be prepared to do sth.,"na. 准备着
+[网络] 准备做；愿意做某事；准备做某事"
 be provoked to do ...,无
 be required to do sth.,无
 be responsible for ...,"引起..., 是...的原因, 对...起作用, 构成...的一部分
 [法] 对...负责"
 be satisfied with ...,对...感到满意
 be socially acceptable,无
-be soft on sth.,无
+be soft on sth.,"爱上
+钟情于
+对......温柔"
 be supportive of,[网络] 支持；赞成；支持…的
-be supposed to do sth.,应该做某事；被期望干某事
+be supposed to do sth., 应当，应该
 be surprised to do sth.,无
 be tempted to do sth.,无
-be up to sb.,[网络] 由某人决定；取决于某人；由某人决定某事
+be up to sb.,"胜任,达到,由…负责"
 be used in conjunction with ...,无
-be willing to do sth.,乐意去做某事
+be willing to do sth., 愿意做某事
 bear on,"使难以承受负荷, 有关, 瞄准
 [法] 施力压力, 有关系, 有影响"
-bear sth. out,"证明..., 证实..."
-beat sb. to the punch,"抢在某人之前行动,先下手为强"
+bear sth. out,"na. 证明
+[网络] 证实；支持；证实是正确的"
+beat sb. to the punch,[网络] 先发制人；捷足先登；抢得先机
 bed down,"安排(人/动物)舒服地睡觉, 使自己舒服地睡觉"
 benefit from ...,从…获利
 beside the point,"离题, 不中肯"
@@ -4872,7 +4878,8 @@ dinner-table discussion,无
 display great enthusiasm for ...,无
 draw attention,引起注意
 draw experience from ...,无
-earn sb. sth.,无
+earn sb. sth.,"vt. 赚得, 获得, 博得
+[计] 欧州科学研究网"
 eat out,"上馆子吃饭, 锈坏, 过度消耗(牧草等), 责骂"
 eat up,"吃光, 耗尽, 吞灭"
 emotional state,[医] 激动状态
@@ -4889,11 +4896,12 @@ feel restrained by the weight of ...,无
 feverish world,无
 figure out,"合计为, 计算出, 明白"
 flowers of evil,无
-follow-up activity,无
+follow-up activity,un. 监督活动
 for fear of,"害怕,恐怕,生怕,唯恐,以防"
 for fear that, 唯恐，害怕; 生恐; 惟恐; 生怕
 for my part,"就我而言, 对我来说"
-force sb. to do sth.,强迫某人做某事
+force sb. to do sth.,"v. 强人所难
+[网络] 强迫；好多都用不定式；被迫做某事"
 from one's perspective,无
 from the bottom up,从下到上
 fulfill one's promise,履行诺言
@@ -4931,9 +4939,9 @@ issue a report,无
 joint effort, 共同努力
 keep a leading position in ...,无
 keep a tighter hold on,无
-keep an eye on sth.,无
+keep an eye on sth.,"照看, 密切注视"
 keep one's word,守信
-keep sb. from doing sth.,使某人不做某事
+keep sb. from doing sth.,[网络] 避免做；避免做某事；从某事中停下来
 know for sure,"确知,肯定知道"
 lead your life as usual,无
 lean on,靠着
@@ -4971,7 +4979,7 @@ national institution,无
 oblige sb. to do sth.,无
 obtain immediate feedback,无
 obtain protection from ...,无
-occur to sb.,"浮现在某人脑海中,被人想起"
+occur to sb.,…发生在; 被想起〔到〕
 on behalf of ...,"代表...
 [经] 代表"
 on first hearing,无
@@ -4994,8 +5002,10 @@ personality disorder, 病态人格
 pile into,"挤入, 进入"
 pin down,"na. 强迫(人)承认[履行]条约；用…束缚住；阻止；牵制
 [网络] 确定；压制；使受约束"
-pin sb. down,[网络] 使某人做出承诺
-pin sth. down,[网络] 发现某事物的细节；确切说明；确定确实
+pin sb. down,"na. 强迫(人)承认[履行]条约；用…束缚住；阻止；牵制
+[网络] 确定；压制；使受约束"
+pin sth. down,"na. 强迫(人)承认[履行]条约；用…束缚住；阻止；牵制
+[网络] 确定；压制；使受约束"
 play a key role in ..., 起关键作用
 play a major role,无
 plead for,为...辩护
@@ -5006,7 +5016,8 @@ pressure for change,无
 prevent sb. from doing sth.,无
 private life,"na. 私生活
 [网络] 私人生活；个人生活；香港小姐写真"
-provide sb. with sth.,向某人提供某物
+provide sb. with sth.,"v. 供给；供应
+[网络] 提供；给…提供；以…装备"
 provoke disbelief,无
 psychological conditions,无
 psychological stress,心理紧张状态
@@ -5028,12 +5039,12 @@ rural population,[法] 农村人口
 rural village,[网络] 农村聚落；幂反
 safeguard one's role in ...,无
 satisfy the need of sb.,无
-scold sb. for sth.,无
+scold sb. for sth.,因…责骂
 screening lanes,无
 seek favor from ...,无
 seek help from sb.,无
 seek permission from ...,无
-seek to do sth.,无
+seek to do sth.,[网络] 试图做；企图做某事；试图做某事
 seething anger,无
 seize on ...,"抓住, 占有"
 sense of security,[法] 安全感
@@ -5071,8 +5082,7 @@ state of affairs,"事态, 情势
 straight up,"真的,确实"
 strained relations with ...,无
 "stress-free, happiness-enhancing parenthood",无
-strike sb. as ...,"un. 打…一记耳光；使…认为
-[网络] 给某人以印象；使某人感到；给……以印象"
+strike sb. as ...,无
 stuffed animal," 填充玩具动物, 一种在布料内部装填粉状东西的布玩具"
 take ... for granted, 信以为然
 take gradual measures,无
@@ -5080,7 +5090,8 @@ take ... into account,"na. 考虑
 [网络] 把…考虑进去；考虑到；顾及"
 take ... into consideration,"v. 顾及
 [网络] 考虑到；把……考虑进去；予以考虑"
-take sth. seriously,认真对待
+take sth. seriously,"na. 重视；认真(想)；当真
+[网络] 认真对待；认真看待；高度重视"
 take the lead,"为首, 带头"
 the code of conduct,无
 the common run of ...,无
@@ -5102,10 +5113,11 @@ ward off,"v. 挡开；架开
 We can say with considerable assurance ...,无
 weak point, 弱点; 短
 weakness of will,无
-wear sb. out,[网络] 使某人精疲力尽
+wear sb. out,"na. 精疲力尽；用坏；穿破；磨破
+[网络] 磨损；穿坏；穿旧"
 work against ...,对…不利
 work independently of ...,无
-work one's way through sth.,无
+work one's way through sth.,从头到尾做
 work through, （使）逐渐通过[穿过]; 完成; 解决; 闯过
 work with,"与…共事,与…协作"
 worn out, 磨穿; 疲乏
@@ -5229,12 +5241,13 @@ jump without a net,无
 junk ads,无
 Knight Foundation,无
 last only a wash or two,无
-lay sb. off,"辞退, 暂时解雇"
+lay sb. off,"na. 辞退；停止；暂停
+[网络] 解雇；下岗；裁员"
 less secured payments,无
 long-term patterns,无
 look for work,"找工作, 找职业"
 lose a job,无
-low-cost housing,无
+low-cost housing,[网络] 低成本住宅；低造价住宅；低价的住宅建筑
 low-wage overseas labor,无
 lower-income job,无
 make up with, 与…和解
@@ -5255,14 +5268,15 @@ narrow victory, [体]险胜
 national spending on ...,无
 non-profit work,无
 one-click online payment system,无
-one-shot deal,无
+one-shot deal,一次性交易
 online job search,无
-Organization for Economic Co-operation and Development,无
+Organization for Economic Co-operation and Development,经济合作与发展组织
 OECD,[网络] 经合组织；经济合作发展组织；暨发展组织
 overall health-care spending,无
 Over the Counter, （买药）不用处方
 OTC,[网络] 非处方药；场外市场；料筒温度
-part-time job,无
+part-time job,"un. 零星工作
+[网络] 兼职；不限地区不限时间单笔结算；兼职工作"
 passive consumption mode,无
 patent filing,无
 patent holder,[经] 专利持有人
@@ -5313,8 +5327,10 @@ state funding,[网络] 州政府保障
 statistical population distribution,无
 sticker shock,n. 这是一个美国术语; 直译是“标签震惊”; 也就是“看了标签上的价钱后震惊不已”; 形容定价太高。
 stock option,[法] 股票特权
-subject sb. to,"使某人遭受…,使某人服从…,使某人受…控制"
-subject sth. to,无
+subject sb. to,"v. 处于…中；使服从
+[网络] 受制于；以……为条件；以……为准"
+subject sth. to,"v. 处于…中；使服从
+[网络] 受制于；以……为条件；以……为准"
 suffer a greater loss,无
 suffer from,"忍受, 遭受
 [法] 患...病, 苦于, 因...损害"
@@ -5421,7 +5437,7 @@ latest paper,无
 law school,"[法] 法学院, 法律学校, 法律学校"
 leading authority,无
 liberal education,文科教育
-liberal-arts education,无
+liberal-arts education,[网络] 博雅教育；人文教育；通识教育
 look up,"v. 查找；查阅；探望；看望
 [网络] 向上看；抬头看；仰望"
 madonna-and-child image,无
@@ -5462,7 +5478,7 @@ poorly educated, 受不良教育
 pop stars,[网络] 流行明星；流行歌星；流行乐手
 practical knowledge,实用知识
 praise and critique,无
-problem-solving skills,无
+problem-solving skills,[网络] 解决问题的能力；解决问题能力；问题解决能力
 professional training,专业训练
 publishing house,n. 出版社; 出版公司
 Pulitzer Prize,普利策奖
@@ -5678,8 +5694,8 @@ two-and three-dimensional maps,无
 uncertain source,无
 virtual reality,n. [计]虚拟现实
 a would-be lawyer,无
-arm sb. with sth.,无
-ask sb. to do sth.,[网络] 叫某人做某事
+arm sb. with sth.,用…武装; 向…提供
+ask sb. to do sth.,[网络] 要求做某事；请求做某事；征求做某事
 be applicable to,(适)用于
 be resistant to,"抵抗...的, 对...有耐药力的"
 civil servant,n. 文职人员; 公务员; 公仆; 联合国等机构的行政人员
@@ -5798,8 +5814,8 @@ add to,"na. 增加
 advance toward ...,无
 after all,毕竟
 all varieties of,无
-allow sb. to do sth.,无
-allow sth. to do sth.,无
+allow sb. to do sth.,[网络] 允许做某事；允许去做；允许作某事
+allow sth. to do sth.,[网络] 允许做某事；允许去做；允许作某事
 along with ...,"与…一道,与…一起,连同…"
 an array of,"一排,一大批…"
 an ever-growing number of,无
@@ -5841,7 +5857,7 @@ at times,"有时, 不时"
 at work,"在工作, 在运转"
 be about to,即将
 be accepted as ...,无
-be allowed to do sth.,无
+be allowed to do sth.,[网络] 被允许做什么；被允许做某事；被允许干
 be associated with ..., 和…联系在一起; 与…有关
 be at work,"v. 在工作
 [网络] 在上班；正在工作；在起作用"
@@ -5860,7 +5876,7 @@ be of little good,无
 be ready to ...,准备…
 be regarded as,[网络] 被认为是；被当做是；视为
 be related to ...,"与...有关, 和...有联系, 和...有亲戚关系"
-be removed from sth.,无
+be removed from sth.,"远离,疏远,与…大相径庭"
 be saturated with ..., 渐
 be seen as,无
 be subject to,"受支配, 从属于, 可以...的, 常遭受..."
@@ -5890,7 +5906,7 @@ carry out one's work,无
 catch up,"na. 与…并驾齐驱 (to with)；扰乱(说话人)
 [网络] 赶上；追上；跟上"
 come across as,给人的印象是……；看上去好像是……
-come as a surprise to sb.,无
+come as a surprise to sb.,令…感到吃惊
 come back to,[网络] 回到；返回到；回来到
 come in,"进来, 到达, 流行起来, 当选, 到手
 [建] 利润"
@@ -5946,7 +5962,8 @@ have contact with,"与…有接触,接触…"
 have little influence on ...,无
 have little to do with ...,与…关系不大
 have nothing to do with ...,与...无关
-have to do with sth.,无
+have to do with sth.,"na. 和…有关系
+[网络] 与…有关；和……有关系；与…有关系"
 if only ...,只要
 in a manner,"在某种意义上,有几分,多多少少,可以说"
 in a row,"成一长行, 连续, 一连串"
@@ -6005,7 +6022,7 @@ knock off,"na. 敲落；中止(工作)；即席作(诗文等)；减低(价格)
 knock out,"na. 敲出；敲空；使屈服；使无用
 [网络] 击倒；击昏；打破"
 large chunks of,无
-lead sb. to do sth.,引导某人做某事
+lead sb. to do sth.,无
 lead to,"导致, 通向"
 lead up to,"带到, 导致, 作为...的准备"
 leave ... out of account,不考虑
@@ -6013,7 +6030,8 @@ less A than B,无
 less likely,[网络] 最不可能的是；较少可能；可能性不大
 let alone,"na. 任随；更不用说；放任；莫说…(连)
 [网络] 更别提；更不必说；不管"
-line sth. up,[网络] 排好队
+line sth. up,"na. 整顿(机械等)；排成一列；使(兵士)排齐；整顿阵容
+[网络] 排队；整队；排成一行"
 look alike,[网络] 好像
 look far less like,无
 look into,"窥视, 浏览, 观察
@@ -6021,7 +6039,7 @@ look into,"窥视, 浏览, 观察
 loom large,显得突出
 lump together,把…合在一起(考虑)
 make no difference,没有影响
-make sth. a reality,实现某事
+make sth. a reality,无
 make up,"na. 弥补；起草；定；签订
 [网络] 组成；化妆；编造"
 massive amounts of sth.,无
@@ -6054,14 +6072,14 @@ on the cliff,无
 on the contrary,"正相反
 [法] 正相反, 相反地"
 on the other hand,另一方面
-on top of sth.,[网络] 在sth之上
+on top of sth.,"熟练掌握, 在...之上, 完全控制着, 另外, 紧接着"
 one wave after another,无
 only if,只要...就
 or so,"大约, 或许, ...左右"
 over the years,"在这几年中, 在那几年中"
 overwhelmingly significant phase,无
 owe A to B,无
-pair sb. with sb.,无
+pair sb. with sb.,与...成对
 parallel with ...,与...比较
 paralysis by analysis,无
 part and parcel,"重要的部分, 必要部分"
@@ -6098,13 +6116,13 @@ rest with,取决于
 result in,"导致
 [法] 产生, 导致"
 rush through,"匆忙做完,草草完成;掠过"
-see sth. as ...,[网络] 把---看作
+see sth. as ...,[网络] 视…为；看作；看作为
 seem like, 仿佛…似的
 seem to be, 看来，好像
 send someone to ...,无
 set off,"na. 分；分割；划开；区划
 [网络] 出发；动身；引起"
-set out to do sth., 着手做某事
+set out to do sth.,[网络] 着手做；着手做某事；开始做
 set ... apart from ...,使不同于
 show up,"na. 显眼；揭发；嘲笑；露面
 [网络] 出现；出席；揭露"
@@ -6218,7 +6236,7 @@ adv. 在海上；飘浮著；浸满水"
 aging,[网络] 老化研究研究所；不要太快
 agreement,"n. 同意, 合约, 协议
 [经] 契约, 协议, 协定"
-agro-technological,无
+agro-technological,[网络] 农业技术
 aimlessly,"adv. 漫无目的地, 无目标地"
 airborne,"[经] 空运的, 非机上的"
 akin,"a. 同类的, 同族的, 同源的"
@@ -6359,7 +6377,8 @@ canned,"a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的
 capability,"n. 能力, 性能, 约束力
 [化] 能力"
 carefully,adv. 小心地
-carry-on,无
+carry-on,"继续开展, 行为愚蠢(或越轨)
+[经] 继续发展(经营)下去"
 casualness,n. 偶然
 Catholicism,n. 天主教的信仰
 cellphone,n. 手机
@@ -6491,7 +6510,7 @@ credible,"a. 可信的, 可靠的
 [法] 可信的, 可靠的"
 critically,"adv. 批评性地, 审慎地, 精密地"
 critique,"n. 评论文章, 评论"
-cross-cutting,无
+cross-cutting,横截
 cruelty,"n. 残酷, 野蛮, 残酷行为
 [法] 残酷, 残忍, 虐待"
 crushingly,adv. （强调不好的特征）极其
@@ -6520,8 +6539,9 @@ deception,"n. 欺骗, 诡计
 deceptiveness,n. 虚伪；迷惑骗人
 decider,"n. 决定者, 决赛, 裁决者
 [计] 判定器, 求解部件"
-decision-maker,无
-decision-making,无
+decision-maker,[经] 决策人
+decision-making,"[计] 决策, 判定
+[化] 决策"
 decisiveness, 果断性
 decoration,"n. 装饰, 装饰品"
 deductible,"a. 可扣除的
@@ -6568,7 +6588,7 @@ n. 指令
 directly,"adv. 径直地, 直接地, 直率地, 正好地, 直截了当地, (非正式)立即, 马上
 conj. 一...(就...), 一当...就...
 [计] 直接的"
-dirt-cheap,无
+dirt-cheap,"a. & adv. 非常便宜的[地], 毫无价值的[地]"
 disability,"n. 无力, 无能, 残疾
 [医] 劳动能力丧失, 病废"
 disappearance,"n. 看不见, 失踪, 消失"
@@ -6632,7 +6652,7 @@ downgrade,"un. 下坡
 download,"[计] 下装, 卸载"
 downside,(三辊式机座的)机前侧
 dramatically,"adv. 戏剧地, 引人注目地, 突然地"
-drawn-out,无
+drawn-out,抽出，拉长
 drugstore,"药房,杂货店"
 duly,"adv. 恰当地, 充分地, 适当地, 及时地"
 duplication,"n. 副本, 复制
@@ -6645,7 +6665,7 @@ earnestness,n. 认真；诚挚；正经
 earnings,"n. 所赚的钱, 工资, 收入
 [经] 工资, 收入, 收益, 盈余"
 ecologically,adv. 从生态学的观点看
-e-commerce,无
+e-commerce, [计]电子商务
 econometric,a. 计量经济学的
 economically,"adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上"
 economist,[网络] 经济学家
@@ -6740,9 +6760,9 @@ fallout,"脱落, 离队, 争吵, 结果是
 falsehood,虚假
 falsely,"adv. 虚伪地, 错误地, 不实地"
 farcical,"a. 笑剧的, 滑稽的, 笑剧性的"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 fascination,"n. 令人着迷的事物, 入迷, 魅力"
-fast-food,无
+fast-food,n. 速食; 快餐
 fatherly,"a. 父亲的, 如父亲的, 慈爱的"
 favourably,adv. 顺利地；有利地；好意地（等于favorably）
 favoritism,"n. 偏爱, 偏袒"
@@ -6759,7 +6779,7 @@ filing,"n. 锉, 琢磨, 锉屑
 [计] 编档; 文件编排"
 filmmaking,n. 制片，电影摄制
 financially,adv. 金融上；财政上
-fine-grained,无
+fine-grained, [医]细粒的
 finely,"adv. 雅致地, 仔细地, 敏锐地, 微细地"
 fishery,"n. 渔业
 [法] 捕鱼, 捕鱼权"
@@ -6776,7 +6796,8 @@ fluctuation,"n. 变动, 波动, 动摇
 fluency,"n. 流畅, 雄辩, 善辩"
 foggy,"a. 雾深的, 模糊的"
 fondness,n. 溺爱；爱好
-foreign-born,无
+foreign-born,"adj. 在外国出生的
+[网络] 国外；美国生的"
 foreseeable,"a. 可预知的, 能预测的
 [法] 可预见的, 可预料的"
 foreshadow,"vt. 成为前兆, 预示"
@@ -6922,7 +6943,8 @@ indefinite,"a. 模糊的, 不确定的, 无限的
 [法] 不确定的, 无限制的"
 indefinitely,adv. 无期限地
 independently,"adv. 独立地, 自立地"
-in-depth,无
+in-depth,"na. 广泛
+[网络] 深入地；全面深入地；深入的"
 indicator,"n. 指示器, 指示剂, 指标
 [计] 指示器"
 indirectly,"adv. 间接, 曲折, 迂回, 不直截了当, 不诚实, 不坦率
@@ -7027,15 +7049,15 @@ jurisdiction,"n. 司法权, 审判权, 管辖权
 justification,n. 理由；辩护；认为有理，认为正当；释罪
 kinship,"n. 亲属关系
 [法] 亲属关系, 家族关系, 关系"
-knee-jerk,无
+knee-jerk,[医] 膝反射
 knowledgeable,"a. 聪明的, 有知识的"
 lameness,"n. 跛, 瘸, 残废
 [医] 跛, 跛行"
 landing,"n. 登陆, 码头, 降落
 [经] 上岸, 登陆, 降落"
-language-acquisition,无
+language-acquisition,"语言习得,掌握语言"
 leakage,漏洩，流失
-left-of-centre,无
+left-of-centre,[网络] 中心左侧
 legislative,"n. 立法机构
 a. 立法的, 有立法权的"
 legislator,"n. 立法者, 立法官, 立法委员
@@ -7050,7 +7072,7 @@ leverage,"n. 杠杆作用, 杠杆装置, 杠杆效率
 liberalize,"vt. 宽大, 使自由主义化
 vi. 自由主义化"
 liberalise,vt. 使自由化
-life-enriching,无
+life-enriching,[网络] 延年益寿的；丰富多彩的生活
 lifestyle, 生活方式
 lightly,"adv. 轻轻地, 少许, 不费力地"
 linguist,n. 语言学家
@@ -7061,12 +7083,12 @@ lodging,"n. 寄宿处, 寄宿
 [法] 提起, 住所"
 logicality,n. 逻辑性
 long-fished,无
-long-lasting,无
+long-lasting,[化] 长效的
 longline,[计] 长线
 longstanding,维持；存在已久的
-low-cost,无
-low-stress,无
-low-wage,无
+low-cost, 低成本
+low-stress,低应力
+low-wage,[经] 低工资
 lucrative,"a. 有利益的, 获利的, 合算的"
 magical,"a. 魔术的, 有魔力的, 不可思议的"
 mailing,"n. 邮寄, 投递, 邮件, 农场租金"
@@ -7078,7 +7100,7 @@ managerial,"a. 管理的
 [经] 管理上的, 经营上的"
 manipulation,"n. 操作, 处理
 [化] (用手)操作; 使用"
-man-made,无
+man-made,人造的
 manufacturer,"n. 制造业者, 厂商
 [经] 制造人, 制造商, 制造厂"
 marketer,"n. 赶集者, 市场商人
@@ -7086,7 +7108,7 @@ marketer,"n. 赶集者, 市场商人
 marvel,"n. 奇异事物, 罕见例子
 vt. 惊异于
 vi. 惊异"
-mass-market,无
+mass-market,[经] 大规模的市场
 meaningful,a. 意味深长的
 meaningfully,adv. 有意义地；意味深长地；有意图地
 meaningless,a. 无意义的
@@ -7103,7 +7125,8 @@ mercilessly,"adv. 无情地, 残忍地"
 metallurgy,"n. 冶金学, 冶金术
 [化] 冶金"
 metaphysical,"a. 形而上学的, 纯粹哲学的, 抽象的"
-middle-class,无
+middle-class,"中产阶级
+[经] 中级"
 mindlessly,adv. 不费心思地；愚蠢地
 mindset,n. 心态；倾向；习惯；精神状态
 miniskirt,"n. 迷你裙,超短裙"
@@ -7126,7 +7149,7 @@ mournful,"a. 悲恸的, 悲哀的, 令人惋惜的"
 multilingual,"adj. 使用多种语言的
 n. 使用多种语言的人"
 multimedia,[网络] 多媒体；多媒体的语音功能；多媒体影像
-native-born,无
+native-born,adj. 本地生的，本国生的
 naturalist,n. 自然主义者
 naturalization,"n. 归化, 移入, 移植
 [法] 入籍, 归化"
@@ -7144,7 +7167,7 @@ newsprint,"n. 新闻纸
 newsstand,n. 报摊；杂志摊
 nicely,"adv. 漂亮地, 谨慎地, 恰好地"
 nightfall, [电影]大追捕; 追捕
-noise-making,无
+noise-making,制造噪音的
 noisiness,n. 吵闹
 noncommercial,"un. 非贸易
 [网络] 非商业头寸；商业用途；非商业性"
@@ -7154,7 +7177,7 @@ noneconomic,"n. 非经济性的
 [网络] 营利目的"
 nonhuman,"adj. 非人类的
 [网络] 非人类生物；不是人"
-non-profit,无
+non-profit, 非营利的
 notably,"adv. 显著地, 著名地, 尤其, 特别"
 noteworthy,[网络] 动人乐章
 nutrient,"a. 营养的, 滋养的
@@ -7167,12 +7190,12 @@ observer,"n. 观察者, 遵守者, 观察员
 [法] 观察者, 观察员, 监场员"
 obviously,"adv. 显而易见地, 明显地"
 oceanic,"a. 海洋的, 产于海洋的, 在海洋中生活的, 广阔的"
-old-fashionedness,无
-one-shot,无
-one-way,无
+old-fashionedness,[网络] 旧时尚
+one-shot, 一次使用; 单次对焦
+one-way,[电] 单向
 online,"[经] (与主机)联机, 在线, 机内"
 onlooker,"n. 观众, 旁观者"
-on-trend,无
+on-trend,[网络] 流行；衰止
 open access,(图书馆)开架阅览
 openly,"adv. 公开地, 坦率地, 直率地, 公然地"
 operant,"n. 发生作用之人或物, 工作之人或物
@@ -7189,7 +7212,7 @@ orchestrate,v. 编管弦乐曲
 organizational,"a. 组织的
 [法] 组织的, 编制的, 机构的"
 originally,"adv. 本来, 原来, 最初, 就起源而论, 独创地"
-out-dated,无
+out-dated,(out-date 的过去分词) 过期；出单日期
 outgrow,"vt. 过大而不适于, 长得比...高(或大、快), 成长得不再具有..."
 outweigh,vt. 比…重（在重量上）；比…重要；比…有价值
 overburdened,(over-burden 的过去分词) 超载荷
@@ -7221,7 +7244,7 @@ partially,"adv. 部分地, 一部分地, 不公平地"
 particularism,"n. 完全忠于一种理论, 特殊神宠论"
 particularist,n. 同上主义者
 particularly,"adv. 特别, 格外, 尤其, 详细地, 细致地"
-part-time,无
+part-time,n. 兼任，部分时间
 patchwork,"un. 修缮工作；零星修补工作
 [网络] 补丁活儿；补缀"
 pathway,[计] 通道
@@ -7321,7 +7344,7 @@ professorship,n. 教授之职
 proficient,"n. 高手, 专家
 a. 精通的, 熟练的"
 profitably,"adv. 有利地, 有益地"
-profit-making,无
+profit-making, [财]营利
 profoundly,"adv. 深深地, 深切地"
 progression,"n. 前进, 连续, 级数
 [医] 进行, 前进, 步态"
@@ -7426,7 +7449,7 @@ rivalry,"n. 竞争, 对抗
 riverboat, 河船
 rosy,"a. 蔷薇色的, 玫瑰红色的"
 roughly,"adv. 概略地, 粗糙地, 粗暴地"
-round-the-clock,无
+round-the-clock,连续一整天
 routinely,"adv. 日常, 乏味, 常规, 例行"
 ruling,"n. 判决, 裁定, 统治
 a. 统治的, 支配的, 普遍的"
@@ -7445,12 +7468,15 @@ scrutinise,"vt.vi. 细看, 仔细检查, 审查, 细阅
 seasonal,"a. 季节的, 依照季节的, 周期性的
 [经] 季节性的, 季节的"
 selectively,adv. 有选择地
-self-centered,无
-self-deception,无
-self-expression,无
-self-help,无
-self-interest,无
-self-rule,无
+self-centered,"adj. 以自我为中心的；唯我独尊；自我中心的
+[网络] 不受外力的影响"
+self-deception,自我欺骗
+self-expression,自我表现
+self-help, 自助救助
+self-interest,"私心
+利己
+自我利益"
+self-rule,n. 自治
 sensitivity,"n. 敏感, 灵敏度
 [计] 灵敏度"
 sensual,"a. 肉欲的, 感觉的, 感觉论的"
@@ -7469,7 +7495,7 @@ vi. 尖锐化, 变锋利"
 sharpness,"n. 锐利, 严厉, 疾速
 [计] 清晰度"
 shortly,"adv. 不久, 简短, 唐突地"
-short-term,无
+short-term,[经] 短期
 significantly,adv. 值得注目地；意味深长地
 simplification,"n. 单一化, 单纯化, 简单化"
 simulation,"n. 模拟, 假冒物, 模仿
@@ -7487,7 +7513,7 @@ slightly,"adv. 些微地, 苗条地"
 slippage, [计]滑动页，滑动毛条校样
 smoker,"n. 吸烟者, 吸烟的人, 吸烟车厢, (美)(非正式)蒸汽火车头"
 smoothly,"adv. 平滑地, 流畅地, 流利地"
-so-called,无
+so-called,adj. 所谓的
 soften,"v. (使)变柔软, (使)变柔和"
 solely,"adv. 仅仅, 单独地"
 solidly,adv. 坚硬地；坚固地；团结一致地
@@ -7497,7 +7523,7 @@ specialization,"n. 专业化, 特殊化, 专门化
 specialisation,n. <主英> =specialization
 spectacled,"a. 戴了眼镜的, 有眼镜状斑纹的"
 spontaneity,"n. 自然发生, 自生, 自发"
-spot-on,无
+spot-on," 完全正确的; 精确的, 准确的"
 springtime, 春季
 stakeholder,"n. 赌金保管者
 [法] 赌款保存人, 保存保证金的人"
@@ -7506,7 +7532,7 @@ standardize,"vt. 使标准化, 使合于标准, 用标准检验
 standardise,"vt. 使与标准比较, 用标准校验, 使符合标准, 使统一, 使标准化"
 standstill,"站着不动, 停滞不前"
 starry,"a. 星光照耀的, 多星的, 星形的, 明亮的"
-start-up,无
+start-up,"突然站起, 突然出现, 发动, 开动"
 statistical,"a. 统计的, 统计上的, 统计学的
 [经] 统计的, 统计学的"
 status quo,n. 现状
@@ -7517,8 +7543,8 @@ stimulus,"n. 刺激, 激励, 刺激品
 strangely,"adv. 奇妙地, 奇怪地, 不可思议地"
 strategic,"a. 战略的, 战略上的
 [经] 战略的"
-stressed-out,无
-stress-free,无
+stressed-out," 有压力的, 紧张的"
+stress-free, 无应力的
 strictly,"adv. 严格地, 确实地"
 strongly,"adv. 强有力地, 坚强地, 激烈地"
 stylish,"a. 现代风格的, 流行的, 潇洒的"
@@ -7569,10 +7595,10 @@ tighten,"vt. 勒紧, 使变紧
 vi. 变紧, 绷紧"
 timescale,[计] 时标
 toddler,"n. 蹒跚行走的人, 学步的小孩, 学步的幼儿, (非正式)信步走的人"
-toll-free,无
+toll-free, [财]免服务费
 toothless,"a. 无齿的
 [医] 无牙的"
-top-down,无
+top-down,"[经] 组织(控制,管理)严密的"
 tourism,"n. 观光业, 游览
 [经] 旅游业"
 townsfolk,"n. 镇民, 市民, 城里生长的人, 城镇居民"
@@ -7624,7 +7650,7 @@ uncontrolled,adj. 不受控制的
 unconventional,"a. 不依惯例的, 非传统的, 非常规的"
 uncool,"a. 没把握的, 无自信的, 粗野的, 土里土气的"
 undercover,隐藏着
-under-nutrition,无
+under-nutrition,营养不足
 underrate,vt. 低估；看轻
 understandably,"adv. 可懂, 可了解, 可理解"
 underused,(under-use 的过去分词)  公畜使用不足
@@ -7715,10 +7741,11 @@ vulnerability,"n. 易受伤, 易受责难, 易受伤部位
 warrior,"n. 战士, 勇士, 武士, 鼓吹战争的人, 战斗, 尚武"
 weakness,n. 弱点；软弱；嗜好
 weaver,"n. 织布者, 织工"
-well-being,无
-well-educated,无
-well-grounded,无
-well-orchestrated,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
+well-grounded, 炳炳凿凿
+well-orchestrated,[网络] 精心组织的
 whereby,"adv. 靠什么, 如何, 为何, 靠那个, 因此, 由此
 [法] 因此, 由是"
 wholesaler,"n. 批发商
@@ -7972,7 +7999,8 @@ affluent,"a. 丰富的, 富裕的
 n. 支流, 富人"
 agitate,"vt. 使摇动, 搅动, 使激动, 使不安
 vi. 鼓动, 煽动"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 aisle,"n. 走廊, 侧廊, 过道
 [机] 走道"
@@ -8742,7 +8770,7 @@ n. 摸索"
 gross,"n. 总数, 总量
 a. 总共的, 未打折扣的, 恶劣的, 粗野的
 vt. 总共收入"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 guild,[劳经] 职工行会
 gum,"n. 树胶, 橡皮, 橡皮糖, 牙床, 老天
 vt. 涂以树胶, 用胶粘, 使有粘性
@@ -10190,7 +10218,8 @@ vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货)
 upper,"a. 上面的, 较高的, 上级的, 上院的, 穿在外面的, 北部的, 地表的, 后期的
 n. 鞋帮, 上齿"
 uproar,"n. 骚动, 喧嚣"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 utilize,vt. 利用
 utilise,"vt. 利用, 运用, 使用"
 utter,"a. 全然的, 绝对的, 完全的
@@ -10285,7 +10314,7 @@ vi. 猛扭, 猛绞"
 wrinkle,"n. 皱纹, 妙计, 方法, 技巧
 vi. 起皱
 vt. 使起皱纹"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yawn,"n. 哈欠
 vi. 打哈欠, 裂开
 vt. 打着哈欠说"
@@ -11591,7 +11620,7 @@ eleven,"num. 十一, 十一个"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 email, 电子函政
-e-mail,无
+e-mail, 电子函政
 emphasize,"vt. 强调, 加强语气, 着重"
 emphasise,"vt. 强调, 重读, 加强...的语气, 着重"
 employee,"n. 职员, 员工, 受雇人员
@@ -14114,7 +14143,7 @@ vi. 经过, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌
 [计] 遍"
 passenger,"n. 乘客, 旅客
 [经] 乘客, 旅客"
-passer-by,无
+passer-by,n. 过路人; 经过者
 passport,n. 护照，通行证；手段
 past,"n. 过去, 昔时, 往事, 早年经历, 过去时
 a. 过去的, 结束的, 卸任的, 过去时的
@@ -15640,7 +15669,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"

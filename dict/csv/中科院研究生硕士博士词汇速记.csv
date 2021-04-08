@@ -360,7 +360,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airfield,n. 飞机场
 airhostess,空中小姐
@@ -4631,7 +4632,7 @@ else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 elsewhere,在别处
 elusive,"a. 难懂的, 易忘的, 难以捉摸的"
-E-mail,无
+E-mail, 电子函政
 embargo,"n. 封港令, 禁运
 vt. 禁止出入港口, 禁运"
 embark,"vi. 乘船, 着手, 从事, 上飞机
@@ -5351,7 +5352,7 @@ fatal,"a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的
 fate,"n. 命运, 运气
 vt. 注定"
 father,[网络] 父亲
-father-in-law,无
+father-in-law,"[法] 岳父, 继父"
 fatigue,"n. 疲乏, 疲劳
 vt. 使疲劳, 使心智衰弱
 vi. 疲劳
@@ -6339,7 +6340,7 @@ grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
 growl,"n. 吠声, 咆哮声
 v. 怒吠, 咆哮, 吼"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 grudge,"n. 怨恨, 恶意
@@ -7438,7 +7439,7 @@ highland,高地
 highlight, 图像最亮部分，高度光泽，高亮度
 highly,"adv. 非常, 非常赞许地
 [电] 大大地"
-high-tech,无
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hijack, 劫道
 hike,"n. 徒步旅行, 远足, 涨价, 提高
@@ -7780,7 +7781,8 @@ hypothetical,[数] 假设的
 hysterical,"a. 歇斯底里的, 异常兴奋的
 [医] 癔病的, 歇斯底里的"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 icy,"a. 冰的, 冰冷的, 冷淡的, 滑溜的"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
@@ -9260,7 +9262,8 @@ vi. 开始, 前进, 增大, 被制造, 被处理
 n. 制造, 构造, 性情"
 maker,"n. 制造者, 上帝
 [经] 制造者, 出票人"
-make-up,无
+make-up,"na. 弥补；起草；定；签订
+[网络] 组成；化妆；编造"
 make up,"na. 弥补；起草；定；签订
 [网络] 组成；化妆；编造"
 malaria,"n. 疟疾, 瘴气
@@ -11192,7 +11195,8 @@ vi. 担任纠察"
 pickle,"n. 盐卤, 腌汁, 泡菜, 困境, 讨厌鬼
 vt. 腌制, 酸洗, 葬送(机会等), 泡"
 pickpocket,[网络] 扒手；偷窃；钱包被扒
-pick-up,无
+pick-up,"v. 拾起；探出；重新开始
+[网络] 捡起；拿起；学会"
 picnic,"n. 野餐, 远足, 愉快的经历
 vi. 去野餐, 远足"
 pictorial,"a. 绘画的, 插图的, 用图画表示的, 形象化的, 有象形文字特征的
@@ -13369,7 +13373,8 @@ adv. 第二；其次；居第二位
 n. (Second)人名；(法)塞孔"
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 secondly,"adv. 第二, 其次"
 secrecy,"n. 秘密, 保密
 [法] 秘密, 秘密状态, 保密"
@@ -13868,7 +13873,7 @@ sitting,"n. 会议；一次；一次（坐着活动的时间）
 adj. 就座的；孵卵中的(雌鸟)；易于命中的；租占着田地[房屋]的
 v. “sit”的现在分词
 [网络] 开庭；就坐；入席"
-sitting-room,无
+sitting-room,起居室
 situate,"vt. 使位于, 使处于"
 situated,"a. 位于...的, 坐落在...的, 处于某种境地的
 [法] 坐落...的, 位于...的, 处于某种境地的"
@@ -14106,7 +14111,7 @@ sob,n. 呼吸短促; 畜生
 sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, 朴素的
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
@@ -16302,10 +16307,11 @@ uprising,"n. 起义, 升起
 uproar,"n. 骚动, 喧嚣"
 uproot,"vt. 连根拔起, 根除"
 upset,上端局设备
-upside-down,无
+upside-down,[网络] 机腹朝上；颠倒；上的姿势
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 uranium,"n. 铀
@@ -16750,7 +16756,7 @@ vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -17031,7 +17037,7 @@ wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
 xerocopy,n. 静电复印件
 Xerox,v. 静电复印
-x-ray,无
+x-ray,"X射线, X光, X光照片"
 yacht,"n. 快艇, 游艇
 vi. 驾游艇, 乘游艇"
 yard,"n. 码, 庭院, 工场

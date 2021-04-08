@@ -644,7 +644,7 @@ false,"a. 错误的, 虚伪的, 假的, 不老实的
 adv. 不准确地, 欺诈地"
 synthetic,"n. 合成物质
 a. 综合(性)的, 人造的, 合成的"
-man-made,无
+man-made,人造的
 as,"prep. 作为；像；当作；如同
 conj. 随着；正如；因为；由于
 adv. 如同；（指事情以同样的方式发生）和…一样
@@ -6116,7 +6116,7 @@ vi. 浸泡；渗透
 n. 浸；湿透；大雨"
 soar,"n. 高扬, 翱翔
 vi. 往上飞舞, 高耸, 翱翔"
-so-called,无
+so-called,adj. 所谓的
 society,n. 社会；社交界；交往；社团
 sociologist,"n. 社会学家
 [法] 社会学家"
@@ -6848,7 +6848,7 @@ vt. 尝, 察觉...的味道, 体会
 vi. 品尝, 察觉味道, 有某种味道"
 tax,"n. 税, 税款, 重负, 会费
 vt. 课以税, 使负重荷, 斥责"
-tax-payer,无
+tax-payer,[经] 纳税人
 teach,"vt. 教, 讲授, 教导, 教育
 vi. 教书, 教学, 可以教"
 tear,[地名] 特阿河 ( 西 )
@@ -7818,7 +7818,7 @@ v. 劳动；干活；奏效；运行
 task,[网络] 任务；优地完成一批给定的任务
 job,[网络] 职务；多个作业；即作业
 workshop,"[计] 专题讨论会, 学术会议"
-world-wide,无
+world-wide, 全球的
 worm,"n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆
 vi. 蠕行, 慢慢前进
 vt. 使蠕行, 慢慢地走, 除虫
@@ -7862,7 +7862,7 @@ wrist,"n. 手腕, 腕关节
 [医] 腕"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yard,"n. 码, 庭院, 工场
 [化] 堆置场"
 yawn,"n. 哈欠
@@ -8085,12 +8085,12 @@ draw的过去分词"
 drown,"vi. 淹死
 vt. 把...淹死, 淹没"
 semiannually,adv. 每半年一次
-semi-conductor,无
+semi-conductor,n. 半导体
 semifinal, [体]准决赛
 hemisphere,"n. 半球, 地球的半面, 大脑半球
 [医] 半球"
 semicolon,[网络] 分号
-semi-feudal,无
+semi-feudal,a. 半封建的
 semiliterate,[网络] 半文盲的，能读而不能写的
 uniform,"n. 制服
 a. 统一的, 一律的, 始终如一的"
@@ -8144,22 +8144,22 @@ kilometer,n. [计量] 公里；[计量] 千米（等于kilometre）
 kilowatt,n. [电] 千瓦（功率单位）
 kilogram,n. 公斤；千克
 kilocycle,[网络] 千周
-multi-national,无
+multi-national, 多民族的
 multiply,"vt. 乘；使增加；使繁殖；使相乘
 vi. 乘；繁殖；增加
 adv. 多样地；复合地
 adj. 多层的；多样的"
 multiracial,[网络] 多种族的；多元种族
-multi-molecular,无
+multi-molecular,多分子的
 multiform,[网络] 多窗体；形式千变万化；多重窗体
-multi-role,无
+multi-role, 多用途
 multiple,"n. 倍数, 并联
 a. 多样的, 许多的, 多功能的"
 multitude,"n. 多数, 群众"
-multi-purpose,无
+multi-purpose,adj. 多目标的；多种用途的
 multilateral,adj. [数] 多边的；多国的，多国参加的
-multi-channel,无
-multi-centric,无
+multi-channel, 多信道的
+multi-centric,"a. 多发源点的,发生于多中心的, 影响多中心的"
 multiparty,"adj. 多党的
 [网络] 多方；多方对话；党派"
 multiple choice, 复式选择
@@ -8203,7 +8203,8 @@ adv. 相反地"
 contraceptive,"a. 避孕的
 n. 避孕剂, 避孕用具"
 counterpart,"[计] 副本, 配对物, 对应物"
-counter-revolutionary,无
+counter-revolutionary,"n. 反革命分子
+[网络] 反革命的"
 counteraction,对诉讼程序提出抗辩
 counterclaim,"反索赔,反诉"
 counterattack,逆袭
@@ -8276,8 +8277,10 @@ misprint,"n. 印错, 印刷错误
 vt. 印错"
 misrepresent,"vt. 歪曲, 误传；不合适地代表
 vi. 虚伪陈述；歪曲报道"
-non-smoker,无
-non-stop flight,无
+non-smoker,"n. 不吸烟的人
+[网络] 非吸烟者；不抽烟；禁菸"
+non-stop flight,"un. 不经停飞行
+[网络] 连续飞行；直达航班；直飞班机"
 nonviolence,"un. 非暴力
 [网络] 打结的手枪雕塑"
 uncertain,"a. 不确定的, 无常的, 不确信的, 不可预测的
@@ -8370,11 +8373,12 @@ extensive,"a. 广的, 广泛的, 多方面的
 [经] 广大的, 扩大的"
 external,"n. 外部, 外面
 a. 外部的, 客观的, 表面的"
-ex-president,无
-ex-serviceman,无
-ex-convict,无
-ex-husband,无
-ex-mayor,无
+ex-president,n. 前总统
+ex-serviceman,"un. 复员军人
+[网络] 退役军人；退伍军人；退伍老兵"
+ex-convict, 前科犯
+ex-husband,n. 前夫
+ex-mayor,n. 前任市长
 include,"vt. 包括, 把...算入, 包住
 [计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
 incorporate,"a. 合并的, 组成公司的, 一体化的
@@ -8458,7 +8462,9 @@ predict,"v. 预知, 预言, 预报"
 preface,"n. 序, 绪言, 前言
 vi. 作序, 写前言
 vt. 给...作序, 以...开始"
-pre-election,无
+pre-election,"n. 优先的选择；预定；〈古〉预选
+adj. 选举前的
+[网络] 大选前"
 prelude,"n. 前奏, 序幕, 序诗, 前奏曲
 vi. 作为前奏
 vt. 作为...的开头"

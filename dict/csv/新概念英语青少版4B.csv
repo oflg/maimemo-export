@@ -1,9 +1,10 @@
 ﻿porter,"n. 大楼管理员, 门房, 搬运工人, 侍者, 服务员
 [化] 搬运车; 搬运工人"
 ATM,[网络] 自动取款机；自动取款机常用句型；自动柜员机
-learn sth. from sb.,无
-smile at sb.,无
-take to sb.,"喜欢, 亲近"
+learn sth. from sb.,向...学习
+smile at sb.,"对…微笑,对…一笑置之"
+take to sb.,"na. 嗜好；开始；参加；逃入
+[网络] 喜欢；从事；喜爱"
 criticise,"v. 批评, 吹毛求疵, 非难"
 criticise sb. for sth.,无
 criticise sth. for sth.,无
@@ -19,8 +20,10 @@ critically,"adv. 批评性地, 审慎地, 精密地"
 upside down,[网络] 机腹朝上；颠倒；上的姿势
 literature,"n. 文学, 文艺, 著作
 [经] 广告, 商品介绍等文学"
-take sb. out,"拿出, 取出, 扣除, 除去, 带...出去, 发泄, 抵充, 取得(专利权), 获得, 领取(执照)"
-take sth. out,"拿出, 取出, 扣除, 除去, 带...出去, 发泄, 抵充, 取得(专利权), 获得, 领取(执照)"
+take sb. out,"na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)
+[网络] 拿出；去掉；拿出来"
+take sth. out,"na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)
+[网络] 拿出；去掉；拿出来"
 lay,"vt. 放置, 产, 铺设, 布置, 提出, 平息
 vi. 下蛋, 打赌
 n. 位置, 层, 隐藏处
@@ -42,7 +45,8 @@ vt. 评价, 估价, 重视
 [计] 计算结果"
 observe,"vt. 觉察到, 遵守, 注意到, 庆祝
 vi. 注意, 评论"
-put sth. up,[网络] 把某物挂起来
+put sth. up,"adj. 预先商定的
+[网络] 举起；张贴；搭起"
 open,"n. 公开, 户外, 空旷
 a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的
 vt. 打开, 公开, 开放
@@ -66,14 +70,20 @@ vt. 使流动, 淹没, 流出"
 right,[网络] -对
 invitation,"n. 邀请, 请柬, 引诱
 [经] 邀请, 招待, 吸引"
-put sb. up,[网络] 建造；举起；供给
+put sb. up,"adj. 预先商定的
+[网络] 举起；张贴；搭起"
 provide,"vt. 提供；规定；准备；装备
 vi. 规定；抚养；作准备"
-provide sth. for sth.,无
-provide sth. for sb.,无
-put up with sb.,无
-put up with sth.,无
-put sth. down,[网络] 放下；记下；平定
+provide sth. for sth.,"v. 为…作准备
+[网络] 为…提供；供养；赡养"
+provide sth. for sb.,"v. 为…作准备
+[网络] 为…提供；供养；赡养"
+put up with sb.,"忍受, 容忍
+[法] 容忍"
+put up with sth.,"忍受, 容忍
+[法] 容忍"
+put sth. down,"na. 平定；贬低(的话)；(飞机的)降落
+[网络] 放下；镇压；记下"
 postpone,"vt. 延迟, 使延期, 缓办, 搁延
 vi. 延缓, 延缓发作"
 light,"n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光
@@ -88,7 +98,8 @@ switch,"n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔
 vt. 转变, 切换, 摆动, 转换, 使转轨
 vi. 转换, 变换, 摆动
 [计] 交换机；开关; 翻转; 转移"
-switch sth. on,[网络] 开关打开
+switch sth. on,"v. 打开；接通；参见
+[网络] 开启；合闸；打开开关"
 on fire,"起火, 非常激动"
 alight,[网络] 灯；一盏灯；A光源
 comfort,"n. 舒适, 安慰, 安慰者
@@ -98,13 +109,13 @@ rare,"a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的
 adv. 非常"
 ancient,"a. 古代的, 古老的, 年老的, 旧的"
 myth,"n. 神话, 虚构的事, 虚构的人"
-have trouble with sb.,无
-have trouble with sth.,无
+have trouble with sb.,"与...有纠纷, 有...的病痛"
+have trouble with sth.,"与...有纠纷, 有...的病痛"
 effect,"n. 结果, 影响, 效果, 印象
 vt. 实行, 引起, 完成
 [计] 效果"
-have an effect on sb.,无
-have an effect on sth.,无
+have an effect on sb.,(对…)有影响〔产生效果〕
+have an effect on sth.,(对…)有影响〔产生效果〕
 have some effect on sb.,无
 have some effect on sth.,无
 Medusa,"n. 水母
@@ -118,11 +129,12 @@ annoyance,"n. 烦恼, 打扰, 可厌之事
 dull,"a. 钝的, 无趣的, 呆滞的, 阴暗的
 vt. 使迟钝, 使阴暗, 缓和
 vi. 变迟钝, 减少"
-help sb. out,"帮助某人解决难题, 帮助某人摆脱困境, 帮助某人完成工作"
+help sb. out,"v. 帮助…摆脱困境；救出；协助
+[网络] 帮忙；帮助解决困难；帮助克服困难"
 millionaire,"n. 百万富翁, 大富豪
 [经] 大资本家, 巨富, 百万富翁"
 land,表示：u201c某种质量的土地u201d：grassland; u201c特定的地方或境界u201d：fairyland
-land sth. on sth.,无
+land sth. on sth.,猛烈抨击
 sort,"n. 种类, 方式, 品质, 态度, 举止
 vt. 分类, 排序, 挑选
 vi. 交往, 协调
@@ -144,10 +156,12 @@ n. 自觉感情"
 result,"n. 结果, 成绩, 答案
 vi. 产生, 结果, 致使
 [计] 结果"
-result in sth.,[网络] 导致sth
+result in sth.,"导致
+[法] 产生, 导致"
 impose,"vt. 征(税), 把...强加于, 以...欺骗
 vi. 利用, 欺骗, 施加影响"
-impose sth. on sb.,把...强加给...
+impose sth. on sb.,"v. 强迫；欺骗
+[网络] 把…强加于；施加影响于；利用"
 Pilatus Porter, 皮勒特斯·波特（飞机机名）
 surprising,a. 令人惊讶的
 plough,"n. 犁, 犁过的地
@@ -198,11 +212,11 @@ shake,"n. 摇动, 震动
 vt. 摇动, 动摇, 使震动, 挥舞
 vi. 震动, 发抖, 动摇"
 accustomed,"a. 惯常的, 习惯了的"
-be accustomed to sth.,无
-be accustomed to sb.,无
+be accustomed to sth.,习惯于
+be accustomed to sb.,习惯于
 used,"a. 使用过的, 二手的, 习惯的"
-be used to sth.,无
-be used to sb.,无
+be used to sth.,习惯于
+be used to sb.,习惯于
 sow,"n. 母猪, 懒胖女人
 vt. 播种, 散布, 使密布
 vi. 播种"
@@ -221,7 +235,7 @@ abandon,"vt. 放弃, 抛弃, 遗弃, 使屈从, 沉溺, 放纵
 n. 放任, 无拘束, 狂热"
 polo,"n. 马球, 水球"
 Wayle,[网络] 威尔；威尔河
-cut across sth.,"抄近路穿过, 对直通过, 超越界限"
+cut across sth.,抄近路通过
 row,"n. 行，排；划船；街道；吵闹
 vt. 划船；使……成排
 vi. 划船；争吵
@@ -229,7 +243,7 @@ n. (Row)人名；(英)罗"
 kick,"n. 踢, 反冲, 后座力, 凹底
 vi. 踢, 反抗, 反冲
 vt. 踢, 反冲"
-call out to sb.,无
+call out to sb.,[网络] 向……喊叫；向…大声喊叫；向……大喊
 sight,"n. 景观, 视力, 眼界, 阅读, 见解, 意见
 vt. 看见, 瞄准
 vi. 瞄准, 观看
@@ -244,7 +258,8 @@ point of view,"观点
 paper clip,回纹针
 shorts,[网络] 短的
 coat hanger,"n. 衣架, 挂衣钩"
-shoe-box,无
+shoe-box,"n. 鞋盒；狭小的房间；蜗居
+[网络] 鞋柜；爱心盒；鞋盒子义卖活动"
 Yangtze,"n. 长江, 扬子江"
 Danube,n. 多瑙河
 Rhine,comb.form =-rrhine
@@ -360,8 +375,9 @@ bounce,"n. 跳, 跳跃, 弹力, 撞击
 vi. 反跳, 弹跳
 vt. 使跳回, 撞击
 [计] 打回"
-bounce sth. against sth.,无
-bounce sth. off sth.,无
+bounce sth. against sth.,使(球)弹回
+bounce sth. off sth.,"v. 弹离
+[网络] 弹开；弹回；反射"
 displace,"vt. 移置, 替换, 转移"
 used to,"过去经常(做)..., 过去有规律地发生"
 didn't use to,无
@@ -373,15 +389,15 @@ grandson,"n. 孙子, 外孙"
 talent,"n. 天才, 才能, 有才干的人, 天资"
 professional,"n. 专业人才
 a. 专业的, 职业的"
-part-time,无
-long-distance,无
+part-time,n. 兼任，部分时间
+long-distance,长途电话
 most,"suf. [用以构成形容词]表示“最”：foremost, utmost"
 require,"vt. 需要, 命令, 要求
 [法] 需要, 要求, 命令"
 dive,"n. 潜水, 跳水
 vi. 跳水, 俯冲, 猛冲
 vt. 把...突然伸入"
-dive into sth.,无
+dive into sth.,"把手伸入, 投入, 钻研"
 persuade,"vt. 劝, 使相信, 恳求, 敦促, 说服
 vi. 劝服, 被说服"
 director,"n. 主任，主管；导演；人事助理
@@ -399,29 +415,35 @@ vi. 冲锋, 要价, 收费"
 in charge,"主管, 看管, 在...看管下"
 temptation,"n. 诱惑, 诱惑物
 [法] 诱惑, 诱惑物"
-well-dressed,无
+well-dressed, 衣着入时的；穿着讲究的
 article,"n. 文章, 冠词, 物品, 物件, 条款, 契约
 [计] 信件"
 wrap,"n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行
 vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护
 vi. 缠绕, 穿外衣, 包起来
 [计] 换行"
-wrap sth. up,[网络] 包起某物；把东西包好；卷起来
+wrap sth. up,"na. 包起来；包好；穿暖和些；〈非正式〉完成
+[网络] 结束；包裹；总结"
 simply,"adv. 简单地, 只是, 简直, 简朴地, 坦白地"
-find sth. out,无
+find sth. out,"na. 查出；发现；看清…的面目；识破
+[网络] 查明；找出；了解"
 critical,"a. 批评的, 决定性的, 危险的, 临界的
 [医] 危象的; 临界的, 极期的"
-be critical of sth.,"对...苛刻, 挑剔, 苛求, 对...严厉, 对...表示谴责, 对...持批评态度"
-be critical of sb.,无
+be critical of sth.,不满
+be critical of sb.,不满
 helpful,"a. 有帮助的, 有益的, 有用的"
-be helpful to sth.,无
-be helpful to sb.,无
+be helpful to sth.,"v. 有助于；对…有
+[网络] 对……有益处；对…有帮助；对……是有帮助的"
+be helpful to sb.,"v. 有助于；对…有
+[网络] 对……有益处；对…有帮助；对……是有帮助的"
 contented,"a. 满足的, 心安的"
 be contented with sth.,无
 be contented with sb.,无
 ambitious,"a. 有野心的, 抱负不凡的, 雄心勃勃的"
-be ambitious for sth.,渴望得到某物
-be ambitious for sb.,无
+be ambitious for sth.,"渴望得到……
+对……野心勃勃"
+be ambitious for sb.,"渴望得到……
+对……野心勃勃"
 injury,"n. 伤害, 侮辱
 [医] 伤, 损伤"
 whisky,"n. 威士忌酒, 轻便马车
@@ -436,7 +458,7 @@ priceless,"a. 无价的, 极贵重的"
 worthless,"a. 无价值的, 无益的, 无足轻重的
 [法] 无价值的, 无用的"
 grateful,"a. 感谢的, 感激的, 令人快意的, 受欢迎的"
-be grateful for sth.,无
+be grateful for sth., 感恩戴德
 darkness,[网络] 黑暗海角
 coast,"n. 海岸, 滑坡
 v. 沿海岸而行"
@@ -476,18 +498,21 @@ vi. 出版, 发行"
 agreement,"n. 同意, 合约, 协议
 [经] 契约, 协议, 协定"
 question,[网络] 快是-军；关键部分提出问题
-question sb. about sth.,无
+question sb. about sth.,"询问, 盘问"
 document,"n. 文件, 公文, 文档
 vt. 证明, 为...引证
 [计] 文档"
 wallet,"n. 皮夹
 [法] 皮包, 皮夹, 钱袋"
-call on sb.,[网络] 拜访某人；拜访某人或某地；访问或拜访某人
-pay sb. sth.,无
-pay sth. to sb.,无
-pay sb. a visit,无
-pay a visit to sb.,"拜访(某人), 访问(某人)"
-call sth. off,[网络] 取消；叫走；停止
+call on sb.,"号召, 呼吁, 约请, 访问"
+pay sb. sth.,"n. 薪资, 付款, 补偿
+vt. 支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物
+vi. 付款, 付出代价, 偿还, 得到报应, 获得好处"
+pay sth. to sb.,把某物给…
+pay sb. a visit,进行访问
+pay a visit to sb.,"访问,拜访,出诊"
+call sth. off,"na. 〈口〉命令停止；丢手；取消(婚约)；〈美〉点(名)
+[网络] 放弃；叫走，叫开；转移开"
 cancel,"n. 取消, 撤消, 盖销(邮票)
 vt. 取消, 删去, 抵销, 盖销
 vi. 相互抵销
@@ -504,7 +529,7 @@ conj. 当...的时候, 虽然
 vt. 消磨"
 far,"a. 远的, 久远的, 遥远的
 adv. 甚远地, 很, 到很深的程度, 到很远的距离"
-rush out of sth.,无
+rush out of sth.,奔出
 act,[计] Microsoft office助手文件
 straight,"n. 直线, 直
 a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
@@ -521,8 +546,11 @@ weapon,"n. 武器, 兵器
 vt. 武装"
 forgive,"vt. 原谅, 宽恕, 免除
 [法] 免除, 宽恕, 原谅"
-top sth. up,"装满, 加满, 斟满"
-bus-pass,无
+top sth. up,"n. 补充的饮料；收入补贴
+v. 装满；充值
+adj. 附加的
+[网络] 加满；加值；倒满"
+bus-pass, 公车月票（凭此票可在特定时间内在某一地区乘坐任何公共汽车）
 timid,"a. 胆小的, 羞怯的"
 dirty,"a. 肮脏的, 卑鄙的
 vt. 弄脏
@@ -541,7 +569,8 @@ intend,"vt. 计划, 打算, 意思是
 solid,"n. 固体
 a. 坚硬的, 稳固的, 固体的, 实心的, 纯质的, 立体的, 立方的
 [计] 原色"
-take after sb.,"象..., 像..., 与...相象, 学...的样"
+take after sb.,"像, 学样
+[法] 象, 相似, 追赶"
 irritating,"a. 刺激的, 使愤怒的, 气人的"
 role model,n. 榜样; 模范
 inspire,"vt. 使感动, 激发, 启示, 吸入, 鼓舞, 产生, 使生灵感
@@ -590,15 +619,17 @@ Olympic-standard,无
 capital,"n. 首都, 大写字母, 资本
 a. 首都的, 重要的"
 fantastic,[网络] 电扇探密
-first-class,无
+first-class,第一堂课
 arrange,"v. 安排, 排列, 达成协议
 [计] 重排"
 debate,"n. 辩论, 讨论
 v. 争论, 辩论"
 Look out!,"na. 挑选；注意；看外头；展望 (on；over)
 [网络] 当心；小心；留神"
-look sth. up,"查寻, 查检, 查找..."
-look sb. up,"(顺便)拜访, 探望"
+look sth. up,"v. 查找；查阅；探望；看望
+[网络] 向上看；抬头看；仰望"
+look sb. up,"v. 查找；查阅；探望；看望
+[网络] 向上看；抬头看；仰望"
 union,"n. 联盟, 联合, 结合, 工会
 [化] 联合; 联管节; 活接头"
 capital punishment, 死刑
@@ -620,8 +651,8 @@ as if,"na. 彷佛；活像
 [网络] 好像；仿佛；似乎"
 reality,"n. 实在, 事实, 实体, 逼真
 [法] 现实, 实在存在的事物, 实在性"
-keep an eye on sb.,无
-keep an eye on sth.,无
+keep an eye on sb.,"照看, 密切注视"
+keep an eye on sth.,"照看, 密切注视"
 courier,"n. 送快信的人, 伴游服务员
 [法] 信使, 送急件者"
 ID card,身份证
@@ -650,8 +681,8 @@ v. 交换, 交易, 兑换
 [计] 交换; 电话局"
 hospital exchange,无
 inquire,未装订
-inquire about sb.,无
-inquire about sth.,无
+inquire about sb.,"询问,了解,打听"
+inquire about sth.,"询问,了解,打听"
 certain,"a. 确定的, 某一个的, 必然的
 [法] 确凿的, 无疑的, 可靠的"
 caller,"n. 访客, 召集员, 传唤员
@@ -677,8 +708,8 @@ vi. 绝望"
 in despair,绝望地
 vary,"vt. 改变, 使多样化
 vi. 变化, 有不同, 违反"
-vary from sth.,无
-vary from sb.,无
+vary from sth., 不同
+vary from sb., 不同
 differently,"adv. 差异, 不同, 各别, 各种"
 make trouble,"制造麻烦, 捣乱"
 progress,"n. 进步, 发展, 前进
@@ -692,13 +723,13 @@ vi. 变松, 松弛"
 glance,"n. 一瞥, 闪光, 掠过, 辉矿类
 vi. 扫视, 闪光, 掠过, 提到, 略说
 vt. 扫视, 反射, 使掠过"
-glance at sb.,无
-glance at sth.,无
+glance at sb.,"提到, 影射"
+glance at sth.,"提到, 影射"
 stick,"n. 棍, 棒, 刺, 枯枝, 茎, 条状物
 vt. 插进, 刺入, 钉住, 伸出, 粘贴, 停止
 vi. 粘住, 停留, 坚持, 陷住, 伸出"
-stick sth. to sb.,无
-stick sth. to sth.,无
+stick sth. to sb.,粘住
+stick sth. to sth.,粘住
 entertain,"vt. 娱乐, 招待, 怀抱
 vi. 款待"
 entertain sb. to sth.,无
@@ -713,16 +744,16 @@ improbable,"a. 不大可能的, 不象发生的, 荒谬可笑的
 [法] 未必会的, 不大可能发生的, 未必确实的"
 incapable,"a. 无能力的, 不能的
 [机] 不能行的, 耐不住的"
-be incapable of sth.,无
+be incapable of sth.,不能
 reflection,"n. 反映, 沉思, 映像, 想法, 责难
 [计] 反射"
 idol,"n. 偶像, 崇拜物, 宠儿, 幻象, 谬论"
 imagination,[网络] 想象
 liken,"vt. 比喻, 比拟"
-liken sth. to sth.,无
-liken sth. to sb.,无
-liken sb. to sth.,无
-liken sb. to sb.,无
+liken sth. to sth.,v. 与…相比
+liken sth. to sb.,v. 与…相比
+liken sb. to sth.,v. 与…相比
+liken sb. to sb.,v. 与…相比
 musical,"n. 音乐片, 音乐舞台剧
 a. 音乐的, 声音美妙的, 喜爱音乐的"
 snake charmer,n. 耍蛇者
@@ -742,10 +773,14 @@ vi. 讲述, 泄密, 告发, 表明"
 tell the difference,"辨别,区分"
 feel,[地名] 菲湖 ( 爱 )
 stuck,stick的过去式和过去分词
-pick sth. up, 得到; 恢复; 捡起
-pick sb. up,"随便地勾搭(异性), 随便地结识"
-pick sb. out,无
-pick sth. out,无
+pick sth. up,"v. 拾起；探出；重新开始
+[网络] 捡起；拿起；学会"
+pick sb. up,"v. 拾起；探出；重新开始
+[网络] 捡起；拿起；学会"
+pick sb. out,"na. 挑选；掘出；闻出；领会
+[网络] 挑出；选出；选出，挑出，拣出"
+pick sth. out,"na. 挑选；掘出；闻出；领会
+[网络] 挑出；选出；选出，挑出，拣出"
 select,"a. 挑选出来的, 极好的
 v. 选择, 挑选
 n. 被挑选者, 精萃
@@ -770,12 +805,13 @@ at first,起先
 lie,[网络] 长岛迷情；少男初体验；中间
 below,"prep. 在下面
 adv. 在下面"
-run into sth.,[网络] 遇到了
+run into sth.,"跑进, 撞上, 遭遇, 陷入, 达到"
 point,"n. 要点；得分；标点；[机] 尖端
 vt. 指向；弄尖；加标点于
 vi. 表明；指向
 n. (Point)人名；(法)普安"
-throw sth. out,"抛弃, 抛出, 扔掉, 说出, 提出, 撵走, 解雇, 不予考虑, 拒绝(提议), 显示, 展示"
+throw sth. out,"na. 投出；拒绝；否决(议案)；派出
+[网络] 扔掉；赶走；扔出"
 sack,"n. 麻布袋, 洗劫
 vt. 把...装入袋, 洗劫"
 clear,"a. 清楚的, 明确的, 澄清的
@@ -805,7 +841,7 @@ completely,"adv. 完全地, 十分地, 圆满地"
 at a loss,"困惑, 亏本地"
 succeed,"vi. 成功, 继承, 继续
 vt. 继承, 接替"
-succeed in sth.,无
+succeed in sth.,在...方面成功
 empty,"a. 空的, 空虚的, 空腹的, 空洞的
 n. 空的东西, 空车
 vt. 倒空, 使变空, 使排出
@@ -822,12 +858,12 @@ strap,"n. S型存水弯
 possession,"n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷
 [经] 占有, 持有"
 in sb.'s possession,无
-run after sb.,[网络] 追赶某人；跑在某人之后；追某人
+run after sb.,"追捕, 追求, 照顾"
 breath,[网络] 呼吸
 out of breath,上气不接下气
-catch up with sb.,[网络] 赶上某人；追上；追上某人
-catch up with sth.,无
-go through sth.,"仔细检查..., 全面考虑/研究..., 搜查..., 参加..."
+catch up with sb.,赶上
+catch up with sth.,赶上
+go through sth.,"经历, 经受, 仔细检查, 搜查, 参加, 履行, 被通过, 用完"
 content,"n. 内容, 满足, 意义, 要旨
 a. 满足的, 满意的
 vt. 使...满足, 使...安心
@@ -857,7 +893,7 @@ break in,"na. 闯入；插嘴；驯(马)；训练(人)
 [网络] 打断；强行进入；插话"
 threaten,"vt. 恐吓, 威胁, 预示...的凶兆
 vi. 威胁, 恫吓, 可能来临"
-threaten sb. with sth.,无
+threaten sb. with sth.,用…威胁…
 unload,"vi. 卸货
 vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货)
 [计] 卸载"
@@ -865,11 +901,12 @@ clothing,n. 衣服
 account,"n. 账户；解释；账目，账单；理由
 vi. 解释；导致；报账
 vt. 认为；把…视为"
-account for sth.,解释…的原因
+account for sth.,对…负有责任；对…做出解释；说明……的原因；导致；（比例）占
 extremely,"adv. 极端地, 非常地"
 occur,"vi. 发生, 被想到, 存在"
-occur to sb.,"浮现在某人脑海中,被人想起"
-open sth. up,无
+occur to sb.,…发生在; 被想起〔到〕
+open sth. up,"na. (打)开；割开；开发(资源)；揭示
+[网络] 打开；开辟；开放"
 astonish,vt. 使惊讶
 pile,"n. 堆, 大堆, 大厦, 建筑群, 电池, 大量, 桥桩, 软毛, 痔疮
 vi. 堆起, 堆积, 积累, 挤, 猛烈攻击
@@ -879,8 +916,10 @@ vi. 开向, 容许, 承认"
 confine,"vt. 限制, 使不外出, 禁闭
 vi. 邻接, 交界
 n. 边缘, 范围, 区域"
-confine sb. to sth.,无
-confine sth. to sth.,无
+confine sb. to sth.,"v. 限于
+[网络] 局限于；限制；限制在一定范围之内"
+confine sth. to sth.,"v. 限于
+[网络] 局限于；限制；限制在一定范围之内"
 employee,"n. 职员, 员工, 受雇人员
 [化] 职工; 雇员"
 expression,n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法
@@ -892,15 +931,15 @@ rudeness,n. 无礼；粗蛮
 exchange,"n. 交换, (电话)交换局, 交换机, 汇兑, 交易所
 v. 交换, 交易, 兑换
 [计] 交换; 电话局"
-exchange sth. for sth.,无
+exchange sth. for sth.,用…换取
 interfere,"vi. 妨碍, 冲突, 干涉, 抵触
 [医] 干扰, 干涉, 阻碍, 碰腿(马)"
-interfere with sth.,[网络] 干扰sth
+interfere with sth.,"干涉,干扰,妨碍"
 intention,"n. 意图, 目的, 含义
 [医] 愈合, 意向"
 amount,"n. 总数, 总额
 vi. 总计, 等同"
-amount to sth.,[网络] 相当于sth
+amount to sth.,"[经] 等于, 相当于"
 appeal,"n. 恳求, 诉请, 上诉, 吸引力
 vi. 呼吁, 诉请, 要求, 上诉, 有吸引力
 vt. 将...上诉"
@@ -912,88 +951,95 @@ apply to sb. for sth.,无
 attach,"vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚
 vi. 附属, 归属, 联系在一起
 [计] 挂接服务器命令, 关联, 挂接, 附加"
-attach sth. to sth.,使与...相关联
+attach sth. to sth.,"v. 连接在…上；归于
+[网络] 附属于；贴上；附上"
 condemn,"vt. 判刑, 责备, 谴责
 [法] 定罪, 判刑, 宣告有罪"
-condemn sb. to sth.,[网络] 谴责sb to sth
+condemn sb. to sth.,"un. 判处
+[网络] 判刑；判决；宣告…有罪"
 confess,"v. 承认, 坦白, 忏悔, 供认"
-confess sth. to sb.,无
+confess sth. to sb.,"承认, 坦白; 〈宗〉向…忏悔"
 consent,"n. 同意, 许可
 vi. 同意, 赞同"
-consent to sth.,无
+consent to sth.,"同意, 答应"
 convert,"n. 皈依者, 改变宗教信仰者
 vt. 使改变信仰, 转换, 兑换, 倒置
 vi. 皈依
 [计] 转换"
-convert sb. to sth.,无
-convert sth. to sth.,无
+convert sb. to sth.,[计] 转换至
+convert sth. to sth.,[计] 转换至
 entitle,"vt. 给...权利, 取名为, 给予名称, 叫做
 [法] 给...权利, 使有资格, 称呼"
-entitle sb. to sth.,无
+entitle sb. to sth.,"un. 有资格
+[网络] 给……权利；赋予…做；拥有…的权利"
 object,"n. 物体, 目标, 目的, 对象, 宾语, 客体
 vi. 反对, 抱反感
 vt. 提出...来反对
 [计] 对象"
-object to sb.,无
-object to sth.,无
+object to sb.,"反对,不赞成"
+object to sth.,"反对,不赞成"
 prefer,"vt. 宁可, 较喜欢, 提出
 [法] 给予优先权, 优先偿还, 提出"
-prefer sb. to sb.,无
-prefer sth. to sth.,无
-see to sth., 处理，照顾，留心
+prefer sb. to sb.,"un. 较喜欢；宁愿:
+[网络] 更喜欢；宁可；倾向于"
+prefer sth. to sth.,"un. 较喜欢；宁愿:
+[网络] 更喜欢；宁可；倾向于"
+see to sth.,"负责, 注意"
 submit,"vt. 使服从, 使受到, 委托, 提交, 认为
 vi. 屈服, 服从"
-submit sth. to sb.,"呈送, 提交"
-submit sb. to sb.,无
+submit sth. to sb.,"un. 使某人忍受某事:
+[网络] 顺从；服从；屈服于"
+submit sb. to sb.,"un. 使某人忍受某事:
+[网络] 顺从；服从；屈服于"
 yield,"n. 生产量, 投资收益
 vt. 出产, 给予, 让出, 放弃, 使屈服
 vi. 出产, 屈服, 投降, 倒塌"
-yield to sb.,无
-yield sth. to sb.,无
+yield to sb.,"让步于,屈服于,向…投降"
+yield sth. to sb.,"让步于,屈服于,向…投降"
 act,[计] Microsoft office助手文件
-act for sb.,无
+act for sb.,代理
 mourn,"v. 哀悼, 忧伤, 服丧"
-mourn for sb.,无
+mourn for sb.,"追悼,悼念"
 communicate,"vt. 显露, 传达, 感染
 vi. 通讯"
-communicate with sb.,无
-communicate sth. to sb.,无
+communicate with sb.,通话
+communicate sth. to sb.,"传达给…; 向…表达; 传染, 传送"
 communicate to sb. about sth.,无
 comply,"vi. 顺从, 依从
 [法] 遵守, 承诺, 照做"
-comply with sth.,无
+comply with sth.,照做
 confuse,"vt. 使混乱, 使狼狈, 使困惑
 [法] 混淆"
-confuse sb. with sb.,无
-confuse sth. with sth.,无
+confuse sb. with sb.,混淆
+confuse sth. with sth.,混淆
 contrast,"n. 差别, 对比, 对照物
 vt. 使对比
 vi. 成对照
 [计] 反差; 对比度"
-contrast sth. with sth.,无
-contrast sb. with sb.,无
+contrast sth. with sth.,"和...相对照, 与...形成对比"
+contrast sb. with sb.,"和...相对照, 与...形成对比"
 cope,"vi. 处理；对付；竞争
 n. 长袍
 n. (Cope)人名；(英)科普；(西)科佩"
-cope with sb.,无
-cope with sth.,无
+cope with sb.,"与...竞争, 应付, 处理"
+cope with sth.,"与...竞争, 应付, 处理"
 disgust,"n. 厌恶, 嫌恶
 vi. 令人厌恶
 vt. 使作呕"
-be disgusted with sb.,无
-be disgusted with sth.,无
+be disgusted with sb.,厌恶
+be disgusted with sth.,厌恶
 occupy,"vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注
 [法] 占领, 占据, 占有"
-be occupied with sth.,无
+be occupied with sth.,忙于…;专注于…
 part,[计] Go！Zilla部分下载文件
-part with sth.,"割舍, 分离"
+part with sth.," 失去, 卖掉[付出]…, 与…分开; 割舍"
 reason,"n. 理由, 原因, 理智, 道理, 前提, 理性
 vt. 说服, 推论, 辩论
 vi. 推论, 劝说, 思考"
-reason with sb.,[网络] 劝说；规劝某人；与某人理论
+reason with sb.,与...评理
 satisfy,"vt. 使满意, 满足, 符合, 使确信, 赔偿
 vi. 令人满意, 替人赎罪"
-be satisfied with sb.,无
+be satisfied with sb.,对...感到满意
 indifference,[网络] 差异性；具体性很漠然
 woody,"a. 多树木的, 木质的"
 interpret,"vt. 解释, 演出, 翻译, 理解
@@ -1013,26 +1059,26 @@ vt. 阻塞, 封锁, 使成块状
 [计] 块, 数据块"
 suggest,"vt. 提议, 建议, 促成, 暗示, 启发, 使人想起
 [法] 建议, 提出, 提议"
-Rolls-Royce,无
+Rolls-Royce, 劳斯莱斯
 whisper,"n. 耳语, 密谈, 谣传, 沙沙声
 vi. 耳语, 密谈, 沙沙地响
 vt. 低声说"
-whisper sth. to sb.,无
+whisper sth. to sb., 聂
 sheet,"n. 薄片，纸张；薄板；床单
 vt. 覆盖；盖上被单；使成大片
 vi. 成片流动；大片落下
 adj. 片状的
 n. (Sheet)人名；(英)希特"
-pull sth. out,无
+pull sth. out,"拔出, 离开, (使)渡过难关, (使)恢复健康"
 cotton wool,"原棉, 棉絮
 [医] 脱脂棉"
 match box,匹配箱
-search sth. out,无
+search sth. out,寻找到
 remove,"vt. 移动, 调动, 除去, 迁移, 开除, 移交
 vi. 迁移, 移动, 搬家
 n. 班级, 升级, 移动, 搬家, 间距
 [计] 删除"
-remove sth. from sth.,无
+remove sth. from sth.,从...除去
 eventually,"adv. 最后, 终于"
 damaged,"a. 被损坏的
 [建] 损伤了的, 损坏了的"
@@ -1049,4 +1095,5 @@ in the meantime,"同时;当其时,在其间"
 nevertheless,"仍然
 尽管如此"
 although,conj. 虽然，尽管
-take sth. up,[网络] 采纳；重提某事；拿起
+take sth. up,"na. 拿起；举起；拾起；给搭(火车等)
+[网络] 占据；从事；开始"

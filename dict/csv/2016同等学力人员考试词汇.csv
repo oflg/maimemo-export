@@ -269,7 +269,8 @@ aim,[计] AOL即时信息传送
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aircraft,"n. 航空器,飞机"
 airline,[化] 空气管路
 airport,[机] 通气口
@@ -1058,7 +1059,7 @@ blue,"n. 蓝色
 a. 蓝色的, 下流的, 忧郁的
 vt. 染成蓝色
 vi. 变蓝"
-blue-collar,无
+blue-collar,"[法] 蓝领阶级的, 工人阶级的"
 blueprint,"蓝图
 [法] 蓝图"
 blunder,"n. 大错, 大失策
@@ -1891,7 +1892,7 @@ coast,"n. 海岸, 滑坡
 v. 沿海岸而行"
 coat,"n. 外套
 vt. 外面覆盖, 给...穿外套"
-Coca-Cola,无
+Coca-Cola, 可口可乐
 cocaine,?-古柯硷
 cock,"n. 公鸡；龙头；雄鸟；头目
 vt. 使竖起；使耸立；使朝上
@@ -2467,7 +2468,8 @@ vi. 收获
 cross,[网络] 罗斯；萝丝
 crossing,"n. 横越, 横渡, 交叉点, 渡口
 [经] 划线"
-cross-roads,无
+cross-roads,"n. 十字街头
+[网络] 十字路口；交叉路口；十字形交叉"
 crowd,"n. 群众, 一伙人
 vt. 拥挤, 挤满, 挤进"
 crowded,"a. 拥挤的, 塞满的"
@@ -3271,7 +3273,7 @@ eastern,"n. 东方人, 东正教徒
 a. 东方的, 向东的, 自东的"
 easy,"a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的
 adv. 容易地, 慢慢地"
-easy-going,无
+easy-going, 从容不迫的
 eat,"v. 吃；吃饭；用餐
 [网络] 食；喝；进食"
 eccentric,"n. 怪人, 偏心圆
@@ -4103,7 +4105,10 @@ n. 第一；开始；冠军
 adj. 第一的；基本的；最早的
 num. 第一
 n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
-first-rate,无
+first-rate,"n. 一级战舰；一流人物
+adj. 第一等的
+adv. 〈口〉非常(好)地
+[网络] 一流的；甲级；第一流的"
 fish,"n. 鱼, 鱼肉, 鱼类, 接合板
 vt. 钓, 钓鱼, 查出, 用接合板连接
 vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找"
@@ -4661,7 +4666,7 @@ v. 聚合, 成群
 [计] 创建组; 组, 用户组"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 guarantee,"n. 担保, 抵押品, 保证书
@@ -5668,8 +5673,8 @@ n. (High)人名；(英)海伊"
 highlight, 图像最亮部分，高度光泽，高亮度
 highly,"adv. 非常, 非常赞许地
 [电] 大大地"
-high-speed,无
-high-tech,无
+high-speed, 高速，高速的，高速度
+high-tech,高技术
 highway,[网络] 高速公路；就是高速公路了；省道公路
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
@@ -5954,7 +5959,8 @@ abbr. 岛，群岛
 [网络] 伊诗尔；自我"
 ice,suf. [构成名词的后缀]表示u201c情况u201d，u201c状态u201d，u201c性质u201d：justice，malice
 iceberg,冰山
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 idea,"n. 主意, 办法, 理想, 思想, 概念, 意见
 [医] 观念, 思想"
 ideal,"n. 理想, 典范, 观念, 思想, 最后目标
@@ -6894,7 +6900,7 @@ liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
 living,"n. 生活, 生计, 生存
 a. 活的, 逼真的, 现存的"
-living-room,无
+living-room,"客厅, 起居室"
 load,"n. 负载，负荷；工作量；装载量
 vi. [力] 加载；装载；装货
 vt. 使担负；装填"
@@ -9982,7 +9988,8 @@ adv. 第二；其次；居第二位
 n. (Second)人名；(法)塞孔"
 secondary,"a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的
 [化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二"
-second-hand,无
+second-hand,"中间人, 助手
+[经] 旧货"
 secret,"n. 秘密, 机密, 秘诀, 秘方
 a. 秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的"
 secretary,"n. 秘书, 书记, 大臣
@@ -10337,7 +10344,7 @@ sit,"v. 坐；蹲；开庭；担任
 site,"n. 网站；站点；现场；位置
 v. 使坐落在；为…选址
 [网络] 场所；地点；场地"
-sitting-room,无
+sitting-room,起居室
 situated,"a. 位于...的, 坐落在...的, 处于某种境地的
 [法] 坐落...的, 位于...的, 处于某种境地的"
 situation,n. 情况；形势；处境；位置
@@ -10502,7 +10509,7 @@ sober,"a. 未醉的, 稳重的, 节制的, 严肃的, 不夸大的, 合理的, �
 vt. 使醒酒, 使严肃
 vi. 从醉里醒来, 变严肃"
 sob,n. 呼吸短促; 畜生
-so-called,无
+so-called,adj. 所谓的
 soccer,n. 英式足球
 social,"a. 社会的, 群居的, 社交的
 n. 联欢会"
@@ -12128,10 +12135,11 @@ upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
 uproar,"n. 骚动, 喧嚣"
 upset,上端局设备
-upside-down,无
+upside-down,[网络] 机腹朝上；颠倒；上的姿势
 upstairs,"na. 在[向]楼上
 [网络] 上楼；由此上楼；下楼梯"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upward,"a. 向上的
 adv. 以上"
 Uranus,"n. 天王星, 乌拉诺斯(希腊神话人物)"
@@ -12502,9 +12510,9 @@ vi. 焊牢"
 welfare,"n. 福利, 安宁, 幸福, 福利事业
 a. 福利的"
 well, (we shall或 we will 的常用口语形式)
-well-being,无
-well-known,无
-well-off,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-known, 众所周知的; 出名的
+well-off,"富裕的, 处境好的"
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -12564,7 +12572,8 @@ vi. 吹口哨, 鸣汽笛, 发嘘嘘声
 vt. 用口哨或吹哨传意, 用口哨演奏"
 white,"n. 白色, 洁白, 眼白, 白种人, 蛋白
 a. 白色的, 纯洁的, 白种的, 苍白的, 空白的, 幸运的"
-white-collar,无
+white-collar,"adj. 白领
+[网络] 妙警贼探；猫鼠游戏；不是冤家不聚头"
 who,[医] 世界卫生组织
 whoever,[网络] 略谈大连凤鸣街的原居民；爱谁谁；资源聚合爱谁谁
 whole,"n. 全部, 全体, 整体, 完全之体系
@@ -12735,7 +12744,7 @@ writing,"n. 书写, 著作, 笔迹, 作品
 [医] 书写"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 yacht,"n. 快艇, 游艇
 vi. 驾游艇, 乘游艇"
 yard,"n. 码, 庭院, 工场

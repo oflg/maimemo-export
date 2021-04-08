@@ -168,7 +168,7 @@ allusive,"a. 暗指的, 引用典故的"
 ally, 以-al结尾的形容词加ly构成副词)
 aloof,"a. 远离的, 冷淡的
 adv. 远离, 冷漠超然地"
-also-ran,无
+also-ran,= also-ran
 alternate,"a. 交替的, 轮流的, 间隔的
 v. 轮流, (使)交替"
 alternative,"n. 两者择一, 供替代的选择
@@ -431,8 +431,9 @@ avoid,"vt. 避免, 防止, 撤消
 [法] 避免, 回避, 躲开"
 awe,"n. ☉(对神等的)敬畏；(对权势等的)畏怯
 vt. 使敬畏，令人敬畏，对…充满敬畏之情；使充满畏惧，使畏怯：；使惊叹，使惊奇："
-awe-inspiring,无
-awe-struck,无
+awe-inspiring,"adj. 令人起敬畏的
+[网络] 使人畏惧的；令人敬畏的"
+awe-struck,a. 充满敬畏的
 awkward,"a. 笨拙的, 棘手的"
 axiom,"n. 自明之理, 公理, 原理, 格言
 [法] 公理, 原理, 原则"
@@ -785,7 +786,7 @@ cohesive,"a. 黏合在一起的
 [医] 内聚的"
 coincidental,adj. 巧合的；符合的；暗合的；一致的
 coincidentally,adv. 巧合地；一致地
-cold-blooded,无
+cold-blooded,无情的
 collaborate,"vi. 合作, 勾结
 [法] 合作, 合著, 通敌"
 collaborative,"a. 合作的, 协作的"
@@ -1107,7 +1108,7 @@ a. 深红色的
 v. (使)变为深红色, 脸红"
 cringe,"n. 畏缩, 奉承
 vi. 畏缩, 抖缩, 阿谀"
-criss-cross,无
+criss-cross, 交叉
 criterion,"n. 标准, 准则, 规范
 [化] 判据"
 critic,"n. 批评家, 鉴定家"
@@ -1888,7 +1889,7 @@ fanciful,"a. 奇怪的, 稀奇的, 想像的"
 fantasy,"n. 幻想, 想象的产物
 [医] 幻想"
 farce,"n. 闹剧, 滑稽剧, 胡闹"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 fascinate,"vt. 令人入神, 使着迷
 vi. 入迷"
 fascinating,"a. 迷人的, 吸引人的, 使人神魂颠倒的"
@@ -2291,7 +2292,8 @@ vt. 当主人招待, 作...节目主持人
 hostile,"a. 敌人的, 怀敌意的, 敌对的
 n. 敌对分子"
 hostility,"n. 敌意, 敌对, 反对"
-hot-tempered,无
+hot-tempered,"adj. 易激怒的
+[网络] 火爆脾气；每过一段时间身上爆一圈火；性情暴躁的"
 hover,"vi. 盘旋, 翱翔, 徘徊
 vt. 孵
 n. 翱翔"
@@ -2367,12 +2369,12 @@ illicit,"a. 不法的, 不正当的, 禁止的
 illiterate,"n. 文盲
 a. 目不识丁的, 没受教育的"
 ill-paying,无
-ill-prepared,无
-ill-repute,无
+ill-prepared,a. 准备不足的；措手不及的
+ill-repute,[网络] 秽闻
 illusory,"a. 产生幻觉的, 幻影的, 错觉的
 [法] 因错觉产生的, 虚幻的"
 illustrative,"a. 说明的, 解说的, 作例证的"
-ill-will,无
+ill-will,"恶意,反感"
 imbue,"vt. 使感染, 灌输, 使浸透"
 imitate,"vt. 模仿, 效法, 冒充, 仿造"
 immaculate,"a. 无污点的, 纯洁的, 无缺点的, 无辜的
@@ -3102,7 +3104,8 @@ odorless,"a. 无嗅的, 没有气味的"
 offhand,"不假思索地, 无准备地"
 officious,"a. 多管闲事的, 非官方的
 [法] 非官方的, 非正式的"
-off-key,无
+off-key,"adj. 走音的；不正常的
+[网络] 走调；走调地；不合拍地"
 offspring, 后代
 offstage,"adj. 舞台后面的；后台的；幕后的
 adv. 舞台后面地；后台地；幕后地
@@ -4228,21 +4231,26 @@ segregate,"a. 分离的, 被隔离的
 vi. 分离, 隔离, 分凝
 vt. 使分离, 使隔离"
 seismic,a. 地震的
-self-adulation,无
-self-analysis,无
-self-assured,无
-self-confident,无
-self-conscious,无
-self-deprecating,无
-self-deprecation,无
-self-determination,无
-self-doubt,无
-self-effacement,无
+self-adulation,[网络] 自我吹嘘；自我吹捧；自我谄媚
+self-analysis,自我分析
+self-assured, [体]自信
+self-confident, [体]自信的
+self-conscious,"adj. 自觉的；怕难为情的；害羞的
+[网络] 自我意识；自我意识过剩"
+self-deprecating,"a. 自贬的, 谦虚的"
+self-deprecation,自我抗拒
+self-determination,"n. 自决；民族自决；【哲】(强调意志自由的)自我决定
+[网络] 自决権；自我决定性；民族自决原则"
+self-doubt,"n. 自疑；对自己缺乏信心
+[网络] 自我怀疑；自我质疑"
+self-effacement,自我贬抑
 self-procession,无
-self-realization,无
-self-righteousness,无
-self-sacrifice,无
-self-sufficient,无
+self-realization,自我实现
+self-righteousness,n. 自以为是；伪善
+self-sacrifice,"n. 牺牲自己；自我牺牲
+[网络] 自我牺牲的体现"
+self-sufficient,"adj. 自给自足的；过于自信的；傲慢的
+[网络] 自足无待的；自足自满；自我完足"
 semimolten,半熔化
 seminal,"a. 精液的, 种子的, 生殖的
 [医] 种子的; 精液的"
@@ -4301,7 +4309,7 @@ vt. 使变浅"
 shopworn,"[经] 商店里摆旧了的, 陈旧的"
 shortrange,"[计] 短量程, 短距离"
 shortsighted, [医]近视的
-short-sightedness,无
+short-sightedness, 近视
 shrivel,"v. (使)起皱纹, (使)枯萎, (使)束手无策"
 shrug,"n. 耸肩
 v. 耸肩"
@@ -4612,7 +4620,7 @@ summary,"n. 摘要, 概要
 a. 摘要的, 简略的
 [计] 摘要; 概要"
 sumptuous,"a. 奢侈的, 华丽的"
-sun-bronzed,无
+sun-bronzed, 被太阳晒成古铜色的
 sunlit,[网络] 阳光照耀的
 superannuate,"vt. 给养老金使退休, 因体弱令...退职, 因年老令...退职, 淘汰, 废弃"
 superb,超B
@@ -4888,7 +4896,7 @@ tie one on
 vt.
 tied
 . tying"
-time-consuming,无
+time-consuming,adj. 耗费时间的，旷日持久的
 timeliness,"[经] 时间性, 及时性"
 timorous,"a. 胆怯的, 胆小的, 羞怯的"
 tined,a. 尖端的；有齿的
@@ -5385,8 +5393,8 @@ a. 迎风的
 vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
 vi. 风化, 受侵蚀, 经受风雨"
 weightless,"a. 无重量的, 失重的, 不重要的"
-well-deserved,无
-well-intentioned,无
+well-deserved,adj. 当之无愧的，罪有应得的
+well-intentioned, 出于好心的；好心好意的；善意的
 welter,"vi. 翻滚, 滚动, 沉溺, 浸湿, 起伏
 n. 翻滚, 汹涌, 混乱, 起伏, 重量级骑手"
 whimsical,"a. 怪念头多的, 反复无常的, 古怪的, 异想天开的"
@@ -5405,7 +5413,7 @@ withstand,"vt. 抵住, 顶住, 经得起"
 witty,"a. 富于机智的, 诙谐的"
 woolly,"a. 羊毛制的, 模糊的, 似羊毛的, 蓬乱的"
 wordy,"a. 罗唆的, 口头的, 多言的"
-world-beater,无
+world-beater,n. [体]具有世界最高水平的选手
 worthwhile,"na. 有…的价值；有利益的
 [网络] 值得；值得的；值得去做"
 worthy,"suf. [构成形容词]表示：“值得…的”,“该…的”：praiseworthy,“适于…的”,“易于…的”：roadworthy"
@@ -6836,7 +6844,7 @@ n. 傻子"
 dormancy,"n. 不活动性, 休眠, 蛰伏
 [医] 休眠, 不活动, 休止"
 dote,"vi. 昏聩, 溺爱"
-double-cross,无
+double-cross,"n. 欺骗, 出卖"
 dour,，气味，迹象
 douse,"vt. 插入水中, 浇(或洒、泼)水在...上, 熄(灯、火等), 平息
 vi. 浸泡
@@ -7046,7 +7054,7 @@ euphoria,"n. 兴奋, 陶醉, 陶醉感
 evacuate,"v. 疏散, 撤出, 排泄"
 evasion,"n. 逃避, 藉口
 [法] 回避, 规避, 逃避"
-even-tempered,无
+even-tempered,a. 性情平和的
 everlasting,[网络] 永恒的；永恒持续的积极态度；持久的
 evict,"vt. 逐出, 赶出, 驱逐
 [法] 逐出, 驱逐, 没收"
@@ -7347,8 +7355,8 @@ fructify,"vi. 结果实
 vt. 使结果实, 使肥沃"
 fruition,"n. 成就, 实现, 结果实"
 frumpy,"a. 心地不良的, 不见世面的"
-full-blown,无
-full-bodied,无
+full-blown,完全成熟的；充分发展的
+full-bodied,完满的
 fulminate,"vt. 使爆发, 以严词谴责
 vi. 爆炸, 怒喝, 电闪
 n. 雷酸盐, 烈性炸药"
@@ -8284,7 +8292,7 @@ log, = -logue
 logistics,"n. 后勤学, 后勤
 [医] 后勤学"
 loiter,"v. 闲荡, 虚度, 徘徊"
-long-winded,无
+long-winded,"a. 气息长的, 冗长的, 罗唆的"
 loosen,"vt. 放松, 松开, 解除
 vi. 变松, 松弛"
 lope,"v. (使)大步慢跑
@@ -8624,7 +8632,9 @@ nadir,"n. 天底, 最低点"
 nag,"n. 老马, 驽马, 劣等竞赛马, 唠叨
 v. 不断地唠叨, 恼人"
 naive,"a. 天真的, 纯真的, 幼稚的"
-namby-pamby,无
+namby-pamby,"adj. 多愁善感的；没有决断的；感伤的；浮华的
+n. 多愁善感的人；没有决断的人；感伤的谈话；柔弱的文风
+[网络] 矫情"
 narcissism,"n. 自我陶醉, 自恋
 [医] 自爱欲, 恋已癖"
 narcissist,n. 自我陶醉者
@@ -8807,7 +8817,7 @@ ostensible,"a. 表面的, 假装的, 看得出的
 [经] 表面的, 诡称的"
 ostracism,"n. 流放, 放逐, 排斥
 [法] 流放, 放逐, 排斥"
-other-directed,无
+other-directed,"a. 受人支配的, 缺少自主性的, 随俗的"
 otiose,"a. 不必要的, 怠惰的, 没有用的, 多余的"
 outfox,vt. 以计取胜
 outlandish,"a. 外国气派的, 偏僻的, 古怪的"
@@ -8958,7 +8968,10 @@ vt. 与...同等, 封为贵族"
 peery,"好奇的, 怀疑的"
 peeve,"v. (使)气恼, (使)焦躁, (使)忿怒
 n. 麻烦的事物, 怨恨, 生气, 触怒"
-pell-mell,无
+pell-mell,"adv. 乱七八糟(的)；顾前不顾后(的)
+n. 纷乱；混战
+v. 使混杂；仓皇行走
+[网络] 急就章；佩尔梅尔"
 pellucid,"a. 透明的, 澄清的, 明了的
 [医] 透明的"
 pelt,"n. 投掷, 打击, 快速, 毛皮
@@ -9896,7 +9909,8 @@ vi. 停止操作, 船抛锚"
 sedulity,"n. 勤勉, 勤奋"
 seep,"vi. 渗出, 渗流, 漏
 n. 小泉, 水陆两用吉普车"
-self-assertion,无
+self-assertion,"n. 自作主张；坚持己见；一意孤行；任性
+[网络] 自我肯定"
 senile,"a. 高龄的, 衰老的, 老年期的
 [医] 老年的"
 sensible,"a. 有感觉的, 敏感的, 明智的
@@ -9967,7 +9981,9 @@ vi. 躲避"
 shield,"n. 盾, 防卫物, 保护者, 屏蔽
 vt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开
 vi. 起保护作用"
-shilly-shally,无
+shilly-shally,"n. 磨蹭；支支吾吾；游移不定；踌躇不决
+adj. 踌躇不定的[地]；优柔寡断的[地]
+[网络] 犹犹豫豫；犹豫不决；扭扭捏捏"
 shipshape, 整齐的; 有条不紊; 井然有序; 井井有条的
 shirk,"vi. 溜掉, 逃避, 推卸
 vt. 逃避"
@@ -10366,7 +10382,8 @@ n. 口吃, 结巴"
 stampede,"v. (使)惊跑, (使)蜂拥
 n. 惊跑, 蜂拥"
 stanza,"n. 演出期, (体育比赛的)局"
-star-crossed,无
+star-crossed,"adj. 命运不佳的
+[网络] 家族球仇；时运不济"
 startle,"n. 惊愕, 惊恐
 vt. 吃惊, 使惊愕
 vi. 惊起"
@@ -10755,7 +10772,7 @@ tinkle,"n. 叮当声
 vt. 使发丁当的声, 叮当地发出
 vi. 叮当作响"
 tirade,n. 激烈的长篇演说
-to-do,无
+to-do,要做某事
 toil,"n. 辛苦, 苦工, 网, 罗网, 圈套
 vi. 苦干, 跋涉"
 toll,"n. 通行费, 代价, 钟声
@@ -10763,7 +10780,9 @@ vt. 征收, 敲钟, 鸣钟, 勾引, 引诱
 vi. 征税, 鸣钟"
 tome," [医]〔后缀〕刀, ； 片, 节"
 toothsome,"a. 可口的, 美味的"
-topsy-turvy,无
+topsy-turvy,"adj. 〈非正式〉混乱的；〈非正式〉上下颠倒的
+n. 混乱；颠倒
+[网络] 酣歌畅戏；混乱世界；翻天覆地"
 torment,"n. 使人痛苦的东西, 折磨者, 苦痛
 vt. 使苦恼, 纠缠, 歪曲, 拷问"
 torrent,"n. 奔流, 倾盆大雨, 倾注, 迸发"
@@ -11124,7 +11143,7 @@ n. 命运, 预言, 符咒"
 weld,"n. 焊接处, 焊接
 vt. 焊接, 使密接, 使结合, 使成整体
 vi. 焊牢"
-well-groomed,无
+well-groomed, 整洁且衣着得体的
 welsh,"a. 威尔士的
 n. 威尔士人
 vi. 赖赌帐, 逃避责任"

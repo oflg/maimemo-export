@@ -188,7 +188,7 @@ ideal,"n. 理想, 典范, 观念, 思想, 最后目标
 a. 理想的, 完美的, 空想的, 观念的, 唯心论的"
 veggie,n. 素食者
 go veggie,无
-food-borne,无
+food-borne,[医] 食物传播的
 refer to,"v. 查阅；提到
 [网络] 参考；涉及；谈到"
 Canadian,a. 加拿大的
@@ -318,7 +318,8 @@ groundwater,"[化] 地下水
 [医] 地下水"
 contaminate,"vt. 弄污, 弄脏, 污染, 毒害
 [化] 污染"
-run-off,无
+run-off,"na. 逃走；流出；(火车等)出轨；越轨
+[网络] 跑掉；跑掉，逃掉；复印"
 fecal,"a. 排泄物的, 渣滓的
 [医] 粪便的"
 coliform,"n. 大肠菌
@@ -348,7 +349,7 @@ nominate,"vt. 提名, 任命, 命名
 [法] 提名...为候选人, 指定, 推荐"
 potent,"a. 有力的, 有说服力的, 有效的
 [医] 有力的, 有性交能力的"
-factory-farmed,无
+factory-farmed,[网络] 工厂化养殖的鸡
 unnatural,adj. 不自然的；反常的；不近人情的
 process,[网络] 过程；流程；进程
 stubborn,"a. 顽固的, 不听话的, 执拗的, 棘手的"
@@ -373,7 +374,7 @@ foreman,"n. 领班, 工头, 陪审长
 conveyor,"n. 搬运者, 传达者, 转让财产者, 输送机, 输送设备
 [计] 传送机, 传送带"
 come second to,无
-sub-zero,无
+sub-zero, [电影]绝岭冰封
 piglet,"n. 小猪, 猪仔"
 snort,"vi. 喷着气弄响鼻子, 轻蔑地哼, 嘶嘶响着排气
 vt. 哼着鼻子说, 喷出, 吸入(毒品)
@@ -402,7 +403,8 @@ steak,"n. 牛排, 鱼排, 肉排"
 feast,"n. 宴会, 酒席, 享受, 节日
 vt. 款待, 享乐, 请客
 vi. 参加宴会, 尽情地吃, 享受"
-see sb. through,帮助(某人)渡过...
+see sb. through,"na. 看穿；看透；识破；办好某事
+[网络] 看破；看穿某人；帮助渡过难关"
 longevity,"n. 长命, 长寿, 寿命
 [医] 长寿"
 readily,"adv. 迅速地, 轻易地, 乐意地"
@@ -501,10 +503,11 @@ hideous,"a. 丑恶的, 可憎的, 令人沮丧的"
 homely,"a. 家常的, 平凡的, 朴实无华的"
 invitation,"n. 邀请, 请柬, 引诱
 [经] 邀请, 招待, 吸引"
-so-and-so,无
+so-and-so,某某;如此这般
 evasion,"n. 逃避, 藉口
 [法] 回避, 规避, 逃避"
-warmed-over,无
+warmed-over,"adj. 再热的；老一套的
+[网络] 重新热过的；过热味"
 credibility,"n. 可信用, 确实性, 可靠
 [法] 证据能力, 可信程度, 确实性"
 credible,"a. 可信的, 可靠的
@@ -529,8 +532,8 @@ rationalize,"vt. 使合理, 合理地处理, 使有理化
 vi. 合理地思考"
 disapprove,v. 不赞成
 disapprove of,"不赞成,不同意"
-disapprove of sb.,无
-disapprove of sth.,无
+disapprove of sb.,"不赞成,不同意"
+disapprove of sth.,"不赞成,不同意"
 holler,"vi. 叫喊, 发牢骚, 抱怨
 vt. 大声叫喊
 n. 叫喊"
@@ -711,7 +714,7 @@ a. 先前的, 先行的"
 mode,"n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚
 [计] 方式; DOS外部命令:设定各种设备命令"
 latter,"a. 后者的, 较后的, 近来的"
-ground sb. in sth.,无
+ground sb. in sth.,"训练…, 打好…的基础"
 insect,"n. 昆虫, 卑鄙的人
 [医] 昆虫"
 energetic,"a. 精力充沛的, 积极的"
@@ -732,7 +735,7 @@ moisten,"vt. 弄湿
 vi. 变潮湿"
 stopper,"n. 阻止的人, 木塞, 制止器
 vt. 用塞子塞住, 闭嘴"
-ground-glass,无
+ground-glass,"n. 毛玻璃, 磨砂玻璃"
 leaky,"a. 有漏洞的, 易泄漏秘密的, 爱哭的
 [电] 漏的"
 wax,"n. 蜡, 蜡状物, 一阵发怒, 增加, (月亮)渐盈
@@ -751,21 +754,21 @@ infectious,"a. 有传染性的, 易传染的
 precinct,"n. 区域, 管理区, 管辖区域
 [法] 管辖区, 选区, 分界"
 commend,"vt. 嘉奖, 委托给, 推荐"
-commend itself to sb.,"给某人好印象, 会被人接受"
-commend oneself to sb.,v. 给某人好印象
+commend itself to sb.,"为…所喜爱,受…欢迎,给…好印象,使…感兴趣"
+commend oneself to sb.,投…的所好，受…的欢迎；给…好印象；使感兴趣
 ardent,"a. 热心的, 激动的, 燃烧般的
 [医] 灼热的; 热心的"
 entomologist,"n. 昆虫学者
 [医] 昆虫学家"
-eau-de-Cologne,无
+eau-de-Cologne,"科隆香水, 花露水"
 perfume,"n. 香水, 香气, (悦人的)气氛, 美名
 vt. 洒香水于, 薰香, 使充满香气"
 resuscitate,"v. (使)复苏, (使)复兴"
 sloppy,"a. 泥泞的, 潮湿的, 粗心的"
 steadfast,"a. 坚定的, 踏实的, 固定的, 不变的"
 loathsome,"a. 讨厌的, 可恶的, 令人憎恶的"
-look sb. in the face,"正视某人, 直视某人的脸"
-look sth. in the face,无
+look sb. in the face,[网络] 直视
+look sth. in the face,[网络] 直视
 ghastly,"a. 可怕的, 惨白的, 极坏的
 adv. 可怖地, 惨白地"
 conclude,"vt. 结束, 作结论, 推断
@@ -779,7 +782,7 @@ interdict,"vt. 禁止, 封锁, 停止, 制止
 n. 禁令, 禁止"
 rehearsal,"n. 预演, 排演, 练习, 叙述, 复述
 [法] 详述, 列举事实, 复述"
-gill-arch,无
+gill-arch,[医] 鳃弓
 movable,"n. 活动的东西, 动产
 a. 可动的, 可移动的, 不定的"
 operculum,"n. 叶盖, 鳃盖骨
@@ -834,7 +837,7 @@ enthusiastic,"a. 狂热的, 热心的, 热烈的"
 venture,"n. 冒险, 风险
 vt. 敢于, 冒...的危险
 vi. 冒险"
-leave sb. to one's own devices,听任某人自行其是
+leave sb. to one's own devices,[网络] 听任…自便；让…自行发展；让某人自已去想办法
 catalogue,型绿
 injunction,[网络] 禁令
 entomological,"a. 昆虫学的
@@ -864,7 +867,7 @@ reluctance,"n. 不情愿, 勉强
 [电] 磁阻"
 turn to,"转向, 变成, 求助于, 起劲地开始行动"
 investigation,n. 调查；调查研究
-first-string,无
+first-string,"第一靠得住的人, 得力助手"
 end,[网络] -结束
 squad,[电] S-线组
 gut,"n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气
@@ -942,8 +945,10 @@ agenda,"pl. 议程, 日常工作事项
 attribute,"n. 属性, 标志, 定语
 vt. 把...归于, 认为...属于
 [计] 属性"
-attribute sth. to sb.,[网络] 属性sth to sb
-attribute sth. to sth.,无
+attribute sth. to sb.,"na. 认为(成功)是(努力)的结果
+[网络] 归因于；把…归因于；归咎于"
+attribute sth. to sth.,"na. 认为(成功)是(努力)的结果
+[网络] 归因于；把…归因于；归咎于"
 fossil,"n. 化石, 古物
 a. 化石的, 陈腐的, 守旧的"
 Arctic,"a. 北极的, 极寒的
@@ -1001,7 +1006,8 @@ vt. 使收缩, 使缩小"
 canary,"n. 金丝雀, 淡黄色"
 indicator,"n. 指示器, 指示剂, 指标
 [计] 指示器"
-co-operative,无
+co-operative,"a. 合作的；有协作精神的；愿意配合的; 齐心协力的；合作进行的
+n. 合作社；合作机构"
 overwhelming,[网络] 压倒
 humanity,"n. 人性, 人类, 博爱"
 in between,在中间
@@ -1151,8 +1157,10 @@ add credence to,无
 discern,"v. 辨别, 看清楚, 了解"
 ascribe,"vt. 归因于, 归咎于
 [法] 归咎于"
-ascribe sth. to sb.,[网络] 归属于sb
-ascribe sth. to sth.,[网络] 归属于sth
+ascribe sth. to sb.,"v. 把…归于
+[网络] 归因于；归咎于；归功于"
+ascribe sth. to sth.,"v. 把…归于
+[网络] 归因于；归咎于；归功于"
 induce,"vt. 引诱, 招致, 归纳出, 感应
 [医] 诱导, 感应"
 deficit,"n. 赤字, 不足额
@@ -1188,8 +1196,8 @@ v. (使)凝结, (使)聚集"
 conceive,"vt. 构思, 认为
 vi. 怀孕"
 ace,[计] Ace压缩文件格式
-have sth. up one's sleeve,"暗中已有应急的打算/计划/应急办法, 心中有妙计, 锦囊妙计"
-keep sth. up one's sleeve,"暗中已有应急的打算/计划/应急办法, 心中有妙计, 锦囊妙计"
+have sth. up one's sleeve,无
+keep sth. up one's sleeve,无
 general,"n. 一般, 将军, 大体
 a. 全面的, 大体的, 总的, 一般的, 普遍的
 n. 常规
@@ -1271,7 +1279,7 @@ prosper,"vi. 繁荣, 兴隆, 成功
 vt. 使成功, 使昌盛"
 accessible,"a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
 destiny,"n. 命运, 定数"
-dollars-and-cents,无
+dollars-and-cents,值钱的东西
 in relation to,"关于, 涉及"
 with relation to,"关于, 涉及, 有关"
 static,"a. 静态的；静电的；静力的
@@ -1289,9 +1297,9 @@ unmoved,"a. 没有动过的, 不动摇的, 坚决的, 冷静的"
 combat,"n. 争斗, 战斗
 vi. 战斗, 争斗
 vt. 与...战斗, 与...斗争"
-cut the ground from under sb.,[网络] 挖墙脚
-cut the ground from under sb.,[网络] 挖墙脚
-cut the ground from under sb.'s feet,[网络] 挖墙脚
+cut the ground from under sb.,"先发制人地破坏某人的计划, 拆某人的台"
+cut the ground from under sb.,"先发制人地破坏某人的计划, 拆某人的台"
+cut the ground from under sb.'s feet,无
 diametrically,"adv. 完全地, 直径方面, 正好相反地, 截然地"
 restless,"a. 不安静的, 慌张的, 休息不充分的
 [医] 不安静的, 不宁的"
@@ -1338,7 +1346,7 @@ wholly,"adv. 完全地, 整个, 统统, 全部
 [法] 完全地, 统统地"
 debt,"n. 债务, 罪过
 [经] 借款, 欠款, 债务"
-in sb.'s debt,"欠(某人)的债, 受(某人)的恩惠"
+in sb.'s debt,无
 abolition,"n. 废除, 废奴运动
 [医] 禁止, 消失"
 rebellion,"n. 谋反, 叛乱, 反抗
@@ -1454,11 +1462,11 @@ remnant,"n. 剩余, 零料, 遗迹
 a. 剩余的, 残余的"
 resignation,"n. 辞职, 辞呈, 听从
 [经] 辞职"
-mega-resort,无
+mega-resort,特大型度假地
 reservation,"n. 保留, 预定, 保留品, 保留地
 [经] 预定, 预约, 权益保留"
 riverboat, 河船
-mini-mart,无
+mini-mart,小型超市
 lottery,"n. 奖券, 彩票, 运气
 [经] 抽彩给奖法"
 sanction,"n. 核准, 制裁, 处罚, 约束力
@@ -1549,7 +1557,7 @@ council,"n. 会议, 委员会
 resentment,"n. 怨恨, 愤恨"
 depression,"n. 不景气, 消沉, 沮丧, 洼地
 [医] 抑郁[症], 阻抑, 压低, 凹, 窝, 衰退, 俯角"
-under-recognized,无
+under-recognized,[网络] 不被承认
 tear at,撕扯
 sanity,"n. 神智健全, 头脑清楚, 通情达理
 [医] 精神健全"
@@ -1657,7 +1665,8 @@ n. 酸味, 酸饮料"
 be in the hole,[网络] 处于困境
 accuse,"vt. 指责, 控告, 归咎于
 vi. 指责, 控告"
-accuse sb. of sth.,控告某人做了某事
+accuse sb. of sth.,"un. 控告
+[网络] 指责；指控；因某事控告某人"
 accuse sb. of doing sth.,无
 schedule,"n. 时间表, 一览表, 计划表, 议事日程
 vt. 预定, 编制目录, 制...表, 安排"
@@ -1733,11 +1742,10 @@ intrude,"vi. 闯入, 侵入
 vt. 强加于"
 threshold,"n. 门槛, 入口, 开端, 阈
 [计] 阈; 阈值"
-for sb.'s sake,"看在......的份上
-为了某人的缘故"
+for sb.'s sake,无
 for sth.'s sake,无
-for the sake of sb.,无
-for the sake of sth.,无
+for the sake of sb.,"为...缘故, 为...起见, 为了某人, 为...目的, 为了...的利益"
+for the sake of sth.,"为...缘故, 为...起见, 为了某人, 为...目的, 为了...的利益"
 unexpected,[网络] 预期的花费
 novelist,n. 小说家
 random,"n. 随意, 随机
@@ -1780,7 +1788,8 @@ committee,n. 委员会
 intellectual,"n. 有知识者, 知识分子, 凭理智做事者
 a. 智力的, 用脑力的, 聪明的"
 exclamation,"n. 惊呼, 激烈言词, 惊叹词"
-parlour-maid,无
+parlour-maid,"na. (负责开门,侍候餐桌的)客厅女仆
+[网络] 女侍；迎宾女仆"
 presumably,adv. 大概；推测起来；可假定
 tame,"a. 驯服的, 柔顺的, 被开垦的, 顺从的, 乏味的, 平淡的
 vt. 驯养, 驯服, 制服, 失去锋芒

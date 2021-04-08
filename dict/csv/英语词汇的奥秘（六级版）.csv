@@ -599,7 +599,7 @@ drastic,"a. 激烈的
 [医] 峻泻药, 剧烈的"
 syndrome,"n. 并发症状, 综合征, 同时存在的事物
 [计] 校验子; 并发位"
-by-product,无
+by-product, 副产品，副产物
 productive,"a. 能生产的, 有生产价值的, 多产的
 [医] 产出性的, 产生性的"
 productivity,"n. 生产力
@@ -3194,7 +3194,8 @@ adolescent,"a. 青春期的, 青少年的
 n. 青少年"
 adolescence,"n. 青春期
 [医] 青年期, 青春期"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 aisle,"n. 走廊, 侧廊, 过道
 [机] 走道"
 allowance,"n. 津贴, 零用钱, 限额, 折扣, 允许

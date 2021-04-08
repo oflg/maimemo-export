@@ -97,7 +97,8 @@ afraid,"a. 害怕的, 恐怕的, 遗憾的"
 after,"prep. 在...之后, 由于
 conj. 在...之后
 adv. 后来"
-after-sales,无
+after-sales,"adj. 出售以后的
+[网络] 售后服务；关于售后；售后服务中心"
 afterthought,n. 事后的想法；后来添加的东西
 again,"adv. 再一次, 又, 到原处"
 agency,"n. 代理机构, 经销商, 中介
@@ -272,7 +273,7 @@ auction,"n. 拍卖
 vt. 拍卖"
 audience,"n. 听众, 观众, 读者
 [法] 听讼, 观众, 听众"
-audio-visual,无
+audio-visual,视听;直观
 audit,"n. 审计, 查帐
 vt. 查(帐), 旁听
 vi. 查账
@@ -306,7 +307,8 @@ backfire,[化] 回火; 逆火
 backlog,"定单积压,预备物"
 badge,"n. 徽章, 标记
 [计] 标记"
-bad-tempered,无
+bad-tempered,"adj. 暴躁的
+[网络] 坏脾气的；脾气坏的"
 balance,[网络] 平衡；达到平衡
 ban,全颅底平面
 bank,"n. 银行, 堤, 岸
@@ -383,7 +385,7 @@ blue,"n. 蓝色
 a. 蓝色的, 下流的, 忧郁的
 vt. 染成蓝色
 vi. 变蓝"
-blue-collar,无
+blue-collar,"[法] 蓝领阶级的, 工人阶级的"
 board,"n. 木板, 甲板, 膳食, 会议桌
 vt. 乘船, 供膳食, 用板覆盖
 vi. 搭伙
@@ -594,7 +596,7 @@ check,"n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军
 vt. 检查, 阻止, 核对, 寄存, 托运
 vi. 逐项相符, 开支票
 [计] 复选"
-check-in desk,无
+check-in desk,[网络] 登机手续办理合；台；登机手续办理台
 cheerful,"a. 快活的, 高兴的, 兴高采烈的"
 chemist,"n. 化学家, 药剂师
 [化] 化学家; 化学师; 化学工作者; 药剂师; 药房"
@@ -1326,7 +1328,7 @@ extract,"n. 榨出物, 精汁, 摘录, 选段
 vt. (费力地)取出, 采掘, 榨取, 摘录, 吸取
 [计] 提取"
 extraordinary,[网络] 寻常領域；超凡；非常规
-eye-opener,无
+eye-opener,"使人瞠目吃惊的事物, 有启发作用的东西, 外表迷人的东西"
 face,"n. 脸, 面容, 正面, 外观
 vt. 面对, 朝, 正视, 面临
 vi. 朝, 向
@@ -1473,7 +1475,8 @@ vi. 跟随；接着
 n. 跟随；追随"
 follower,"n. 从者, 属下, 追补者
 [电] 随动机"
-follow-up,无
+follow-up,"v. 把…探究到底；回答
+[网络] 跟进；追踪；跟踪"
 foodstuff, [医]食物
 footstep,n. 脚步；脚步声；足迹
 forbid,"vt. 禁止, 不准, 妨碍
@@ -1664,7 +1667,9 @@ vt. 使穿衣"
 half,"n. 一半, 半场, 不完全
 a. 一半的, 不完全的, 部分的, 半场的
 adv. 一半地, 部分地, 在某种程度上地, 几乎"
-half-yearly,无
+half-yearly,"adj. 每半年的
+adv. 每半年地
+[网络] 半年度；即将开始"
 hammer,"n. 锤, 铁锤, 钉锤
 vt. 锤打, 敲打, 钉
 vi. 连续锤打
@@ -2476,7 +2481,7 @@ vt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏
 vi. 躲藏
 [计] 隐藏"
 highlight, 图像最亮部分，高度光泽，高亮度
-high-tech,无
+high-tech,高技术
 hire,"n. 雇用，租用；租金，工钱
 vt. 雇用；出租
 vi. 雇用，租用；受雇"
@@ -2594,7 +2599,7 @@ inefficient,"a. 无效率的, 无能的
 inexperienced,"a. 无经验的, 不熟练的"
 infect,"vt. 传染, 感染
 [医] 传染, 感染"
-in-flight,无
+in-flight, 飞行
 influence,"n. 影响力, 权力, 势力
 vt. 影响, 改变"
 inform,"身体好,竞技状态好"
@@ -2605,7 +2610,7 @@ inhabitant,"n. 居民, 居住者
 [医] 居民"
 inherit,"vt. 继承, 遗传
 vi. 接受遗产"
-in-house,无
+in-house, 内部的; 室内的
 initial,"n. 字首, 首字母
 a. 开始的, 最初的, 字首的
 vt. 用姓名的首字母签名"
@@ -3262,7 +3267,7 @@ partition,"n. 分割, 隔离物, 隔墙, 财产分割
 vt. 区分, 瓜分, 隔开, 分割
 [计] 分区; 划分"
 partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
-part-time,无
+part-time,n. 兼任，部分时间
 passage,"n. 一段（文章）；走廊；通路
 n. (Passage)人名；(英)帕西奇；(法)帕萨热"
 passenger,"n. 乘客, 旅客
@@ -3394,7 +3399,7 @@ n. (Poor)人名；(英、伊朗)普尔"
 pop,[网络] 相纸，打印纸
 population,"n. 人口, 人口数
 [化] 群体; 总体"
-pop-up,无
+pop-up,突然站起(或跳起)
 port,"n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义
 vt. 左转舵, 持(枪)
 vi. 左转舵
@@ -3914,7 +3919,8 @@ select,"a. 挑选出来的, 极好的
 v. 选择, 挑选
 n. 被挑选者, 精萃
 [计] 选定"
-self-made,无
+self-made,"adj. 自己搞的；自力更生的
+[网络] 白手起家；自制；自我奋斗成功者"
 sell,"vt. 卖, 背叛, 销售, 出卖
 vi. 卖, 销售
 n. 卖, 推销术, 失望"
@@ -3966,7 +3972,8 @@ vt. 修面, 剃, 修剪, 掠过
 vi. 刮脸, 勉强通过"
 shelf,"n. 架子, 搁板
 [化] 架子"
-shelf-life,无
+shelf-life,"保存期限
+[化] 存放期"
 shipment,"n. 装船, 出货
 [经] 运送, 运送(寄出)货物, 装载"
 shop,"n. 商店, 工厂, 车间
@@ -4399,8 +4406,9 @@ time,"n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定�
 vt. 测定...的时间, 记录...的时间, 计时, 定时
 a. 时间的, 记时的, 定时的, 定期的, 分期的
 [计] DOS内部命令:用于显示或设定系统的时间"
-time-consuming,无
-tip-top,无
+time-consuming,adj. 耗费时间的，旷日持久的
+tip-top,"un. 第一流的
+[网络] 蒂普拓普；顶呱呱；顶点"
 title,"n. 头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕
 vt. 授予头衔, 加标题于
 [计] 标题"
@@ -4507,7 +4515,8 @@ unwrap,vt. 打开
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
 upgrade,"上坡,往上走"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 upturn,[网络] 向上转移
 urgency,"n. 紧急, 催促
 [法] 紧急, 迫切, 紧急之事"
@@ -4608,7 +4617,7 @@ a. 福利的"
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
-white-collar worker,无
+white-collar worker, [财]白领工人
 white goods,"n. 白色货物, 大型家用电器"
 wholesale,"批发,趸售"
 wholesaler,"n. 批发商
@@ -4666,7 +4675,8 @@ vi. 缠绕, 穿外衣, 包起来
 write,"vt. 书写, 著述, 写, 写满, 写信给
 vi. 写, 写字, 写信, 写作, 作曲
 [计] 书写器"
-write-off,无
+write-off,"na. 注销(债款等)；报废；提笔就写(文章等)；减低资产账面额
+[网络] 勾销；取消；冲销"
 yen,"n. 日元(日本货币单位), 渴望, 嗜好
 vi. 渴望"
 yield,"n. 生产量, 投资收益

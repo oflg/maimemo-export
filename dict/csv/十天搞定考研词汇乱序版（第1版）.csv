@@ -24,7 +24,8 @@ evidence,[网络] 证据；大量运用事例证据
 insight,被看到
 prison,"n. 监狱, 监禁, 拘留所
 vt. 监禁"
-sight-seeing,无
+sight-seeing,"n. 观光, 游览
+a. 观光的, 游览的"
 transplant,"vt. 使移居, 移植, 使迁移
 vi. 移居, 耐移植
 n. 移居者, 移植"
@@ -162,7 +163,8 @@ clasp,"n. 扣子, 钩, 紧握
 v. 扣紧, 紧握"
 diagnosis,"n. 诊断
 [计] 诊断"
-foreign-born,无
+foreign-born,"adj. 在外国出生的
+[网络] 国外；美国生的"
 insatiable,adj. 贪得无厌的；不知足的
 monster,"n. 怪物；巨人，巨兽；残忍的人
 adj. 巨大的，庞大的"
@@ -237,7 +239,7 @@ vt. 触发, 发射, 引起
 vi. 松开扳柄
 [计] 切换开关"
 ancient,"a. 古代的, 古老的, 年老的, 旧的"
-by-product,无
+by-product, 副产品，副产物
 cloak,"n. 斗蓬, 大氅, 掩护
 vt. 遮掩, 隐匿, 使披斗蓬"
 disaster,n. 灾难，灾祸；不幸
@@ -444,7 +446,7 @@ council,"n. 会议, 委员会
 [经] 委员会"
 decade,"n. 十年, 十"
 elevate,"vt. 举起, 提拔, 鼓舞"
-far-off,无
+far-off," 远, 在远处的"
 ghost,[网络] 及高盘
 haul,"n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离
 vi. 拖, 拉, 改变方向, 改变主意
@@ -488,7 +490,7 @@ adv. 反方向地, 相反地
 [计] 计数器; 计数字"
 decent,"a. 有分寸的, 得体的, 大方的"
 eliminate,"vt. 除去, 排除, 剔除, 消除"
-far-reaching,无
+far-reaching,adj. 影响深远的; 有广泛影响的
 impact,"n. 冲击, 冲突, 影响, 效果
 vt. 挤入, 撞击, 压紧, 对...发生影响"
 acclaim,"n. 喝彩, 欢呼, 赞同
@@ -519,7 +521,7 @@ n. 桂冠诗人
 vt. 使戴桂冠"
 nerve,"n. 精神, 勇气, 叶脉, 神经
 vt. 鼓起勇气"
-old-fashioned,无
+old-fashioned, 古典鸡尾酒
 parallel,"n. 平行, 对比, 相匹敌之物
 a. 平行的, 相似的
 vt. 与...平行, 与...相似, 相比, 使平行
@@ -614,14 +616,14 @@ vi. 理解；懂得；熟悉"
 view,"n. 视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象
 vt. 看, 考虑, 视察, 查看, 估量
 [计] 视图"
-well-connected,无
+well-connected, 有优越的社会关系的
 accustom,vt. 使习惯于
 craft,na. 术；行业
 craze,"n. 狂热, 大流行
 v. (使)发狂, (使)开裂"
 declaration,"n. 宣告, 说明, 宣布
 [计] 说明"
-e-commerce,无
+e-commerce, [计]电子商务
 glance,"n. 一瞥, 闪光, 掠过, 辉矿类
 vi. 扫视, 闪光, 掠过, 提到, 略说
 vt. 扫视, 反射, 使掠过"
@@ -651,7 +653,8 @@ terror,"n. 恐怖, 可怕的人
 undesirable,"a. 不受欢迎的, 不合乎社会道德标准的
 [法] 不受欢迎的人, 不良份子, 不法份子"
 viewpoint,[计] 观察点
-well-educated,无
+well-educated,"adj. 受过良好教育的
+[网络] 受过良好的教育；受过高等良好教育的人；很好的教育"
 achieve,"vt. 完成, 达到
 vi. 如愿以偿"
 believe,"vi. 信任；料想；笃信宗教
@@ -761,7 +764,8 @@ crack,"n. 裂缝, 爆裂声
 v. (使)爆裂, (使)裂开, (使)发出爆裂声
 a. 第一流的
 adv. 啪地一声"
-decision-making,无
+decision-making,"[计] 决策, 判定
+[化] 决策"
 elude,"vt. 逃避, 规避, 把...难倒"
 fashion,na. comb. F. 加在名词之后
 glamour,"n. 魅力, 迷人的美, 魔法
@@ -951,7 +955,7 @@ superstition,"n. 迷信
 [法] 迷信"
 testify,"v. 证明, 作证, 声明, 表明"
 undoubtedly,"adv. 无疑, 必定, 确实地"
-well-meaning,无
+well-meaning," 出于好心的, 好心好意的, 善意的（但常事与愿违）"
 acquaint,"vt. 使认识, 介绍"
 bench,"n. 长椅子
 [机] 台"
@@ -1020,7 +1024,7 @@ match,"n. 比赛, 火柴, 对手
 vt. 使相配, 使比赛, 与...竞争
 vi. 结婚, 相配
 [计] 比较"
-non-durable,无
+non-durable, 不耐用物品
 organise,"vt. 组织, 有机化, 给予生机"
 organize,"vt. 组织, 有机化, 给予生机
 vi. 组织起来"
@@ -1106,7 +1110,7 @@ n. 遭遇, 偶然碰见
 vi. 遭遇；偶然相遇"
 female,"n. 女性, 女人, 雌性动物
 a. 女性的, 女子的"
-good-natured,无
+good-natured,"和善的,仁慈的,好性情的"
 incentive,"n. 动机
 a. 激励的"
 letter,"n. 信；字母，文字；证书；文学，学问；字面意义
@@ -1196,7 +1200,8 @@ v. （尤指对看似不会很快发生的事）渴望
 [网络] 长整型；长整数；多头"
 mastery,"n. 征服, 统治权, 优势, 精通, 掌握
 [法] 统治权, 控制权, 征服"
-non-controversial,无
+non-controversial,"adj. 不会引起争议的；一致的
+[网络] 非争议的；无争论"
 organ,"n. 风琴, 器官, 元件, 机构, 机关
 [电] 风琴"
 pattern,[网络] 实地调查和抽样
@@ -1326,7 +1331,8 @@ noteworthy,[网络] 动人乐章
 outrage,"n. 暴行, 侮辱, 愤怒
 vt. 凌辱, 虐待, 触犯"
 recur,"vi. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环"
-self-conscious,无
+self-conscious,"adj. 自觉的；怕难为情的；害羞的
+[网络] 自我意识；自我意识过剩"
 thought,"n. 想法, 思想, 思维, 关心, 挂念
 think的过去式和过去分词"
 origin,"n. 起源, 起因, 出身, 开端
@@ -1433,7 +1439,8 @@ enhance,"vt. 提高, 加强, 增加"
 mere," [医]〔后缀〕意为指节, 体节或部分"
 penalty,"n. 处罚, 刑罚, 罚款, 罚球, 报应, 不利结果, 妨碍
 [经] 罚金(款), 违约金"
-re-evaluate,无
+re-evaluate,"v. 重新考虑；再评价；再评估
+[网络] 重新评定"
 senior,"n. 年长者, 资深者, 毕业班学生
 a. 年长的, 高级的, 资深的"
 threaten,"vt. 恐吓, 威胁, 预示...的凶兆
@@ -1809,7 +1816,7 @@ vi. 冲锋, 要价, 收费"
 democratic,"a. 民主的
 [法] 民主的, 民主政体的, 平民的"
 enrage,"vt. 激怒, 使暴怒"
-fine-grained,无
+fine-grained, [医]细粒的
 graveyard,n. 墓地
 hormone,"n. 荷尔蒙
 [化] 激素(旧称荷尔蒙)"
@@ -1943,7 +1950,7 @@ retrospect,"n. 回顾, 追忆, 回溯
 v. 回顾, 追忆"
 sociology,"n. 社会学
 [医] 社会学"
-two-paycheck,无
+two-paycheck,adj. 有双份收入的；双职工的
 appoint,"vt. 任命, 指定, 下令
 [法] 派, 派任, 任命"
 dispose,"vt. 处理, 排列, 布置
@@ -2302,7 +2309,7 @@ attend,"vt. 参加, 照料, 伴随
 vi. 专心于, 照顾, 服侍, 出席"
 confront,"vt. 使面对, 对抗, 遭遇, 使对质, 比较
 [法] 对证, 使对质, 比较"
-dirt-cheap,无
+dirt-cheap,"a. & adv. 非常便宜的[地], 毫无价值的[地]"
 prefrontal,[网络] 前额
 rut,[网络] 哈奇；菲兹
 standard,"n. 标准, 规格, 旗, 军旗, 本位
@@ -2597,13 +2604,15 @@ trunk,"n. 树干, 干线, 躯干, 主干, 象鼻, 箱子
 vt. 把...放入旅行箱内
 a. 树干的, 躯干的, 干线的, 箱形的
 [计] 中继线; 母线"
-anti-smoking,无
+anti-smoking,"n. 反对吸烟；禁止吸烟
+adj. 反对吸烟的
+v. 反对吸烟（antismoke的现在分词）"
 disguise,"n. 假面目, 假装
 vt. 假装, 隐瞒"
 exorable,a. 可说服的
 frequent,"a. 时常发生的, 频繁的, 快速的
 vt. 时常来访, 常常聚集, 常与...交往"
-Internet-based,无
+Internet-based,[网络] 以网络为基础的；网考；基于互联网
 plain,"n. 平原, 草原, 朴实无华的东西, 无格式
 a. 简单的, 明白的, 平常的, 不好看的, 朴素的, 清晰的, 普通的, 平坦的, 十足的
 adv. 清楚地, 显然地
@@ -2806,7 +2815,8 @@ unacceptable,"a. 无法接受的, 不受欢迎的
 vague,"a. 含糊的, 不清楚的, 茫然的"
 war,abbr. 承担一切风险的保险（with all risks）
 abound,"vi. 大量存在, 富于, 充满"
-back-up,无
+back-up,"na. 支持；堵塞；【棒球】抢救后方；【计算机】把(文件等备份)
+[网络] 倒退；后退；援助"
 calorie,"comb. 表示""卡路里的""；adj"
 context,[网络] 语境；文化与境；历史文本的脉络交织
 damp,"氨苄西林,氨苄青霉素"
@@ -2840,7 +2850,7 @@ n. 拿, 取, 收成, 奏效"
 unaffordable,"a. 买不起的, 负担不起的"
 vain,"a. 无价值的, 徒然的, 空虚的, 自负的, 愚蠢的"
 ward, 向…的
-about-face,无
+about-face,"v. 〈美〉向后转(指操练动作),(立场,观点的)彻底改变"
 bait,"n. 饵
 vt. 以饵引诱, 欺负
 vi. 中途休息"
@@ -3252,7 +3262,7 @@ a. 人类的, 似人类的, 人性的, 有同情心的"
 inescapably,adv. 逃不掉地
 local,abbr. low calorie 低卡路里
 misinterpret,vt. 曲解
-over-the-counter,无
+over-the-counter, （买药）不用处方
 pessimistic,"a. 悲观的, 厌世的, 悲观主义的"
 reject,"n. 被拒之人, 被弃之物, 不合格品, 次品
 vt. 拒绝, 抵制, 否决, 驳回, 丢弃, 呕出"
@@ -3422,7 +3432,7 @@ vi. 举枪瞄准"
 relevant,"a. 有关联的, 有关系的, 适当的, 相应的
 [法] 有关的, 相关的"
 shareholder,"[经] 股东, 股票持有人"
-top-down,无
+top-down,"[经] 组织(控制,管理)严密的"
 use,[计] MKS源完整性文件
 wrinkle,"n. 皱纹, 妙计, 方法, 技巧
 vi. 起皱
@@ -3774,7 +3784,8 @@ essential,"n. 要素, 要点, 本质
 a. 必要的, 重要的, 本质的
 [计] 本质冒险"
 inform,"身体好,竞技状态好"
-low-level,无
+low-level,"[计] 低级的, 初级的, 低电平, 低能级
+[经] 低水平, 低水准"
 mode,"n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚
 [计] 方式; DOS外部命令:设定各种设备命令"
 pretty,"a. 漂亮的, 优美的, 机灵的, 狡猾的, 恰当的
@@ -3814,7 +3825,7 @@ trace,"n. 痕迹, 踪迹, 微量, 迹线, 缰绳
 vt. 追踪, 回溯, 描绘
 vi. 追溯, 沿路走"
 alleviate,"vt. 减轻, 使缓和"
-bread-earner,无
+bread-earner,n. 挣钱养家的人
 cigar,n. 雪茄
 detail,"n. 细节，详情
 vt. 详述；选派
@@ -4741,7 +4752,7 @@ knit,"v. 编织, 结合"
 lance,"n. 长矛, 柳叶刀, 执矛战士
 vt. 以长矛攻击, 冲进
 vi. 急进"
-native-born,无
+native-born,adj. 本地生的，本国生的
 obtain,"vt. 获得, 达到
 vi. 流行, 得到公认"
 paint,"n. 油漆, 颜料, 绘画作品, 涂漆

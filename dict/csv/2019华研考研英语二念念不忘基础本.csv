@@ -3684,7 +3684,7 @@ destiny,"n. 命运, 定数"
 doom,"n. 厄运, 不幸, 法律, 宣告, 判决, 死亡
 vt. 命中注定, 判决"
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 pave,"vt. 铺设, 安排, 铺满, 为...铺路
 [化] 铺设"
 route,"n. 路径, 途径, 路线
@@ -4695,7 +4695,8 @@ database,"[计] 数据库
 [化] 数据库"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 modernization,n. 现代化
 modernisation,n. <主英>=modernization
 sometime,一会儿
@@ -4991,7 +4992,7 @@ radar,"n. 雷达, 无线电探测器
 [计] 雷达图"
 laser,"n. 激光
 [计] 激光器"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
 infrared,红外
@@ -5852,7 +5853,7 @@ keyboard,[化] 键盘
 cyberspace,网际空间之意
 web,[网络] 蜘蛛网；换为
 Internet,[网络] 互联网；因特网；网际网路
-e-mail,无
+e-mail, 电子函政
 network,[机] 净功
 blog,n. 博客；部落格；网络日志
 log, = -logue
@@ -6384,7 +6385,7 @@ youngster,"n. 小孩, 年轻人, 少年
 mature,"a. 成熟的, 到期的, 充分考虑的
 vt. 使成熟
 vi. 成熟, 到期"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 adult,"n. 成人, 成虫
@@ -6511,7 +6512,7 @@ signature,"n. 签字, 识别标志, 调号
 [计] 签名附件"
 anonymous,"a. 姓氏不详的, 无名的, 无特色的
 [计] 无记录"
-so-called,无
+so-called,adj. 所谓的
 microscope,[网络] 显微镜
 telescope,"n. 望远镜
 vi. 叠缩, 嵌进, 缩短
@@ -6742,7 +6743,7 @@ motel,n. 汽车旅馆
 inn,"n. 客栈；旅馆
 vi. 住旅馆
 n. (Inn)人名；(柬)因"
-living-room,无
+living-room,"客厅, 起居室"
 suite,"n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事
 [电] 程序组"
 story,"n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层"
@@ -6779,7 +6780,8 @@ furnace,"n. 火炉, 熔炉, 考验
 vt. 在炉中烧"
 oven,"n. 烤箱, 灶, 子宫
 [化] 烘箱"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 vacuum,"n. 真空, 空间, 真空吸尘器
 a. 真空的, 产生真空的, 利用真空的
 vt. 用吸尘器打扫"
@@ -7526,7 +7528,8 @@ a. 过火的, 做作的
 v. 演得过火"
 hamburger,"汉堡, 汉堡[饼]"
 salad,n. 色拉
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 dessert,n. 餐后甜点
 snack,"n. 小吃, 点心, 快餐
 vi. 吃零食, 吃快餐"
@@ -7781,7 +7784,7 @@ voltage,[电] 伏特数
 horsepower,"[计] 马力
 [经] 马力"
 abbreviation,"n. 缩写词, 缩写, 缩短, 节略"
-across-the-board,无
+across-the-board,"全面地, 包括所有人在内"
 administrator,"n. 管理人, 行政官
 [经] 遗产管理人员"
 adventurism,n. 冒险主义
@@ -7795,7 +7798,7 @@ aftermath,"n. 结果, 后果
 [法] 后果, 结果"
 aide,"n. 助手, 副官
 [计] 数据输入的可说明性"
-air-traffic-control,无
+air-traffic-control,[计] 空中交通管理; 空中交通管制
 airy,"a. 空气的, 空中的, 通风的, 幻想的, 轻快的"
 amass,"vt. 积聚, 堆积"
 anonymity,"n. 匿名, 姓氏不明
@@ -7824,9 +7827,10 @@ biographical,a. 传记的
 biologist,"n. 生物学家
 [医] 生物学家"
 biotech,生物技术
-bite-sized,无
+bite-sized,a. （食物）大小适合入口的; 很小的；小而简单的
 blessing,n. 祝福
-blue-ribbon,无
+blue-ribbon,"最高的荣誉
+[法] 第一奖, 荣誉徽章, 蓝绶"
 boldness,"n. 大胆, 勇敢, 冒失
 [计] 醒目程度; 鲜明度"
 bombast,n. 夸大的言辞
@@ -7834,7 +7838,7 @@ bootcamp,n. 新兵训练营; 劳教营
 bourgeois,"n. 中产阶级分子, 商人, 资产阶级
 a. 中产阶级的, 平庸的
 n. 九点活字"
-brain-scan,无
+brain-scan,【医学】脑部扫描X光片
 broadband,[电] 宽带
 buck,"n. 元, 雄鹿, 纨绔子弟, 鞍马, 培克(赌博时的庄家标志), 碱水, 自夸, 谈话
 vi. 马背突然拱起, 反对, 吹牛, 闲聊
@@ -7845,7 +7849,8 @@ byproduct, 副产品，副产物
 campaigner,"n. 从军者, 老兵, 竞选者"
 capitalism,"n. 资本主义
 [经] 资本主义"
-carbon-dioxide,无
+carbon-dioxide,"二氧化碳
+[化] 二氧化碳"
 carcass,"n. 尸体
 [医] 屠体(宰后除脏的畜体)"
 cavity,"n. 洞, 空穴, 腔
@@ -7882,7 +7887,7 @@ constancy,"n. 坚定不移, 持久不变"
 consumerism,n. 保护消费者利益运动
 contradictory,"a. 反驳的, 反对的, 抗辩的
 n. 矛盾因素, 对立物"
-co-ordination,无
+co-ordination,[建] 配位
 corporate,"a. 社团的, 合伙的, 公司的
 [经] 团体的, 法人的, 社团的"
 counteract,vt. 抵消；中和；阻碍
@@ -7895,7 +7900,7 @@ vi. 结晶, 具体化"
 cyber,"a. 网络的, 计算机的"
 czar,n. 沙皇
 declining,"a. 倾斜的, 衰退中的"
-deep-seated,无
+deep-seated, [医]深在的
 defendable,a. 可防御的
 defensive,"a. 防卫的, 防备用的, 自卫的
 n. 守势, 防卫姿势, 防卫物"
@@ -7918,7 +7923,7 @@ disruptive,"a. 分裂的, 破坏(性)的
 [计] 击穿的, 中断的"
 distinctive,"a. 有特色的, 出众的"
 domestically,"adv. 家庭式地, 国内地"
-dot-com,无
+dot-com,网络公司（尤指网址末尾为.com 的）
 downturn,经济下降
 dropout,"掉出, 退出, 离队
 [机] 落砂"
@@ -7976,7 +7981,7 @@ frugal,"a. 节俭的, 朴素的"
 fruition,"n. 成就, 实现, 结果实"
 fulfilling,a. 能实现个人抱负的；令人高兴的；令人满意的
 fundamentally,"adv. 基础, 首要, 主要, 十分重要, 基本, 根本, 原始, 基频, 基音, 基谐波"
-gender-neutral,无
+gender-neutral,性别中立
 genuinely,adv. 真诚地；诚实地
 giggling,v. 咯咯地笑( giggle的现在分词 )
 given,"a. 赠予的, 沉溺的, 约定的
@@ -7988,12 +7993,12 @@ gravitate,"vi. 被重力吸引, 沉下, 下降
 vt. 使受重力吸引"
 greed,"n. 贪欲, 贪婪"
 hacker,"[计] 计算机窃贼, 计算机新技术挑战者, 黑客"
-hard-wired,无
+hard-wired,硬连接
 harmonisation,"n. 和谐, 协调, 相称
  [医]调谐"
 harmonise,"vi.vt. 以和声歌唱/演奏, (使)协调, (使)一致, (使)相称, (使)调和"
 headquarter,"总部,司令部"
-high-profile,无
+high-profile, 鲜明的姿态
 hospitalization,"n. 医院收容, 住院治疗
 [医] 住院, 入院"
 idealise,"vi.vt. 使理想化, 使观念化"
@@ -8056,7 +8061,7 @@ lawsuit,[经] 向法院提出的诉讼
 leftover, [计]剩余
 lengthy,"a. 冗长的, 漫长的"
 liberalism,n. 自由主义
-life-hack,无
+life-hack,[网络] 生活秘诀；小帮手；生活黑客
 lifestyle, 生活方式
 lightweight,"un. 轻载重量；轻的
 [网络] 轻量级；重量轻；轻量化"
@@ -8083,7 +8088,8 @@ marketer,"n. 赶集者, 市场商人
 materialistic,"a. 唯物论的, 唯物主义的"
 maximize,"vt. 取...最大值, 使增加(或扩大)到最大限度
 [计] 最大化"
-mean-spirited,无
+mean-spirited,"adj. 卑劣的
+[网络] 心胸狭窄；坏心下流"
 mentality,"n. 精神力, 智力, 头脑作用, 心态
 [医] 智力"
 meritocracy,n. 精英领导阶级
@@ -8111,19 +8117,19 @@ nautical,"a. 海上的, 航海的, 船员的"
 navigate,"vi. 航行
 vt. 航行于, 驾驶, 操纵, 使通过"
 neuroticism,[医] 神经过敏症
-new-found,无
+new-found,a. 新发现的；新得到的
 newsroom,n. 新闻编辑室
 newsworthy,[网络] 值得报道的
 next-to-no-cost,无
-nitrogen-oxide,无
+nitrogen-oxide,[化] 氧化氮(通常指NO一氧化氮); 氮的氧化物
 obese,"a. 肥胖的
 [医] 肥胖的"
 obesity,"n. 肥胖
 [医] 肥胖, 多脂"
 objectivity,"n. 客观, 客观现实, 客观性
 [经] 客观性"
-old-hat,无
-open-mindedness,无
+old-hat,"老式的, 过时的"
+open-mindedness,[网络] 开放；开放的心；开放的心态
 outmode,vt. 使…过时；使…不流行
 overboard,落水
 overheated,[网络] 过热
@@ -8177,7 +8183,7 @@ psychologist,"n. 心理学家
 publicly,"adv. 公然地, 以公众名义"
 purplish,a. 略带紫色的
 put on makeup,[网络] 化妆；打扮化妆
-quasi-automatic,无
+quasi-automatic,[网络] 准自动
 questionable,"a. 可疑的
 [法] 可疑的, 有问题的, 不可靠的"
 quirky,"a. 诡诈的, 突兀的, 古怪的, 离奇的
@@ -8214,7 +8220,7 @@ restructure,vt. 调整；重建；更改结构
 revolutionize,"vt. 向...鼓吹革命, 使发生革命性剧变"
 rewarding,"a. 有益的, 有报酬的, 报答的"
 rhetoric,"n. 修辞, 修辞学, 雄辩(术)"
-right-brained,无
+right-brained,右脑型的
 rigour,"n. 严格, 严厉, 苛刻, 严酷, 严密, 精确"
 ritualistic,"a. 仪式的, 遵守仪式的"
 robotics,"[计] 机器人学, 自动机工程学"
@@ -8236,15 +8242,15 @@ v. 使枯萎（sear的ing形式）
 n. (Searing)人名；(英)西林"
 selective,"a. 选择的, 选择性的
 [经] 选择的, 选择性的"
-self-affirming,无
-self-esteem,无
-self-sufficiency,无
+self-affirming,[网络] 自我证实；自身的断定
+self-esteem, 自尊
+self-sufficiency, 自给自足
 severity,"n. 严格, 朴素, 激烈"
 shifting,料
 shin,"n. 胫骨
 v. 攀, 爬"
 shrinkage,收缩，皱缩，失重
-sign-on,无
+sign-on,"签约雇用, 开始广播"
 signpost,"标志柱[杆],路标"
 skepticism,"n. 怀疑论
 [医] 多疑癖"
@@ -8294,7 +8300,7 @@ sugary,"a. 含糖的, 糖一般的, 甜的"
 suggestive,"a. 提示性的, 影射的, 暗示的
 [医] 暗示的"
 supportive,"a. 支撑, 支承, 资助, 赞助, 支援, 经受, 忍受, 扶养, 证实, 鼓励, 维持, 伴奏"
-sure-fire,无
+sure-fire, [电影]特警屠龙
 suspension,"n. 悬挂, 暂停, 中止
 [化] 悬浮; 悬浮体; 悬浮液"
 sustainability,[网络] 可持续性；不强调可持续性；延续力
@@ -8309,7 +8315,7 @@ talented,"a. 天资高的, 有才能的"
 talkative,"a. 喜欢说话的, 饶舌的, 多嘴的"
 tangible,"n. 可触知的东西, 有形资产
 a. 可触摸的, 有实体的, 非相像的, 有形的, 明确的"
-task-force,无
+task-force,特遣部队
 telecommunications,(tele-communication 的复数) 电信
 template,"n. 样板, 模板, 垫木
 [计] 模板"
@@ -8317,7 +8323,7 @@ terminology,"n. 术语, 术语学
 [医] 名词学, 命名法"
 thorny,"a. 多刺的, 令人苦恼的"
 thriving,"a. 兴旺的, 旺盛的, 繁荣的"
-tin-roofed,无
+tin-roofed,[网络] 铁皮房顶的；铁皮屋顶
 tinted,adj. 着色的，带色彩的
 toddler,"n. 蹒跚行走的人, 学步的小孩, 学步的幼儿, (非正式)信步走的人"
 trainee,"n. 实习生, 新兵, 受培训者
@@ -8362,7 +8368,8 @@ a. 不同的, 有差别的
 [计] 变体型"
 viable,"a. 能养活的, 能生长发育的
 [医] 有活力的, 有生机的"
-vice-president,无
+vice-president,"副总裁, 副总统
+[经] 副总经理, 副总裁"
 virtually,adv. 事实上
 viscerally,adv. visceral（内脏的；发自肺腑的）的变形
 visibility,"n. 可见性, 能见度, 能见距离
@@ -8371,8 +8378,8 @@ wary,"a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的"
 wastage,"n. 浪费, 浪费量, 废物
 [化] 废物"
 weakness,n. 弱点；软弱；嗜好
-well-being,无
-well-travelled,无
+well-being,n. 健康; 幸福; 保持良好状态
+well-travelled, 旅行经历丰富的；去过很多地方的
 whirlwind,旋风
 whopping,"a. 巨大的, 天大的
 adv. 非常地"
@@ -8872,7 +8879,7 @@ buy,"vt. 买, 获得
 vi. 买
 n. 购买, 买得的东西"
 by,[网络] -通过
-bye-bye,无
+bye-bye,"睡觉,床铺,再见"
 café,无
 cage,"n. 笼, 牢房, 战俘营
 vt. 关进笼内"
@@ -13038,7 +13045,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -13278,7 +13285,8 @@ bring on,"na. “bring forward”的变体
 [网络] 引起；导致；造成"
 bring out,"na. 公布；说出；出版；上演
 [网络] 生产；阐明；说明"
-bring sb. to,使某人苏醒过来
+bring sb. to,"na. 使恢复知觉；【航】使停船
+[网络] 使复苏；使苏醒；加进"
 bring up,"na. 抚养；教导；教育；在…长大
 [网络] 培养；提出；养育"
 do away with,"废除, 弄死"

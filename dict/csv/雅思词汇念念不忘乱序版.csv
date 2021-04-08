@@ -4627,7 +4627,7 @@ destiny,"n. 命运, 定数"
 doom,"n. 厄运, 不幸, 法律, 宣告, 判决, 死亡
 vt. 命中注定, 判决"
 bypass, 旁路，绕道
-by-pass,无
+by-pass, 旁路，绕道
 pave,"vt. 铺设, 安排, 铺满, 为...铺路
 [化] 铺设"
 route,"n. 路径, 途径, 路线
@@ -4713,7 +4713,8 @@ database,"[计] 数据库
 [化] 数据库"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-up-to-date,无
+up-to-date,"最近的, 最新的
+[经] 直到最近的, 现代的"
 modernization,n. 现代化
 modernisation,n. <主英>=modernization
 sometime,一会儿
@@ -4994,7 +4995,7 @@ radar,"n. 雷达, 无线电探测器
 [计] 雷达图"
 laser,"n. 激光
 [计] 激光器"
-X-ray,无
+X-ray,"X射线, X光, X光照片"
 spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
 ultraviolet,adj. 紫外线的
@@ -5821,7 +5822,7 @@ laptop,n. 笔记本电脑
 keyboard,[化] 键盘
 web,[网络] 蜘蛛网；换为
 Internet,[网络] 互联网；因特网；网际网路
-e-mail,无
+e-mail, 电子函政
 network,[机] 净功
 log, = -logue
 fax,[计] 传真类型图像
@@ -6095,7 +6096,7 @@ signature,"n. 签字, 识别标志, 调号
 [计] 签名附件"
 anonymous,"a. 姓氏不详的, 无名的, 无特色的
 [计] 无记录"
-so-called,无
+so-called,adj. 所谓的
 microscope,[网络] 显微镜
 telescope,"n. 望远镜
 vi. 叠缩, 嵌进, 缩短
@@ -6336,7 +6337,7 @@ motel,n. 汽车旅馆
 inn,"n. 客栈；旅馆
 vi. 住旅馆
 n. (Inn)人名；(柬)因"
-living-room,无
+living-room,"客厅, 起居室"
 suite,"n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事
 [电] 程序组"
 story,"n. 故事, 小说, 传奇, 描述, 阅历, 经历, 层"
@@ -6370,7 +6371,8 @@ furnace,"n. 火炉, 熔炉, 考验
 vt. 在炉中烧"
 oven,"n. 烤箱, 灶, 子宫
 [化] 烘箱"
-air-conditioning,无
+air-conditioning,"用空调设备调节空气, 空调设备
+[计] 空调; 空气调节"
 vacuum,"n. 真空, 空间, 真空吸尘器
 a. 真空的, 产生真空的, 利用真空的
 vt. 用吸尘器打扫"
@@ -6491,7 +6493,7 @@ piston,"n. 活塞, 活塞阀键
 elderly,"a. 过了中年的, 稍老的"
 adult,"n. 成人, 成虫
 a. 成年的, 成熟的"
-grown-up,无
+grown-up,"成年的,适于成年人的"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
 mature,"a. 成熟的, 到期的, 充分考虑的
@@ -7083,7 +7085,8 @@ cucumber,"n. 黄瓜
 [医] 黄瓜, 胡瓜"
 hamburger,"汉堡, 汉堡[饼]"
 salad,n. 色拉
-ice-cream,无
+ice-cream,"冰淇淋
+[化] 冰淇淋"
 dessert,n. 餐后甜点
 snack,"n. 小吃, 点心, 快餐
 vi. 吃零食, 吃快餐"
@@ -7819,7 +7822,7 @@ buy,"vt. 买, 获得
 vi. 买
 n. 购买, 买得的东西"
 by,[网络] -通过
-bye-bye,无
+bye-bye,"睡觉,床铺,再见"
 café,无
 cage,"n. 笼, 牢房, 战俘营
 vt. 关进笼内"
@@ -12014,7 +12017,7 @@ a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
 well, (we shall或 we will 的常用口语形式)
-well-known,无
+well-known, 众所周知的; 出名的
 west,"n. 西方, 西部
 a. 西方的, 向西的
 adv. 向西, 自西方, 在西方"
@@ -12189,7 +12192,7 @@ n. 通两种语言的人"
 bicycle,n. 自行车
 biochemistry,[网络] 生物化学；生化；生化学
 biosphere,[网络] 生活的生物圈
-by-product,无
+by-product, 副产品，副产物
 byway,次要的道路
 centigrade,"a. 百分度的, 摄氏的
 [医] 百分度"
@@ -12212,7 +12215,7 @@ contradiction,"n. 反驳, 矛盾
 contranatural,a. 违背自然的
 counteract,vt. 抵消；中和；阻碍
 counterattack,逆袭
-cross-country,无
+cross-country,越野赛，横越全国的
 crossbreed, [医]杂交种
 decode,"vt. 解码, 译解
 [计] 译码"
@@ -12231,8 +12234,8 @@ endanger,"vt. 危及
 [法] 使危险, 危及"
 enlarge,"vt. 扩大, 增大
 vi. 扩大, 详述"
-ex-minister,无
-ex-wife,无
+ex-minister,[网络] 前部长；前任部长；我把
+ex-wife,n. 前妻
 extracurricular,a. 课外的
 extraordinary,[网络] 寻常領域；超凡；非常规
 forearm,前臂
@@ -12301,15 +12304,16 @@ prepay, = prepaid
 prewar,"adj. 战前的
 [网络] 二战前建的"
 pro-America,无
-pro-abortion,无
+pro-abortion,[网络] 堕胎；支持堕胎的；赞成堕胎的
 pseudonym,"n. 假名, 笔名
 [法] 笔名, 假名"
 pseudoscience, 伪科学
 reunite,"vt. 使重聚；使再结合；使再联合
 vi. 重聚；再结合；再联合"
 reuse,n. 再使用; 重新使用
-self-employed,无
-self-taught,无
+self-employed, 自营；个体经营的
+self-taught,"adj. 自学的；自学而获得的
+[网络] 完全可以看成一个形容词"
 semicircle, 半圆
 semifinal, [体]准决赛
 stepmother,继母
@@ -12342,8 +12346,9 @@ undersea,在海中
 uniform,"n. 制服
 a. 统一的, 一律的, 始终如一的"
 unidirectional,adj. 单向的
-vice-chairman,无
-vice-president,无
+vice-chairman,"n. 副主席, 副会长, 副委员长, 副议长"
+vice-president,"副总裁, 副总统
+[经] 副总经理, 副总裁"
 ability,"suf. [用于构成名词, 意义相当于-able]表示“能力”, “可能性”, “倾向性”, “适宜性”"
 flexibility,"n. 弹性, 适应性
 [计] 灵活性; 适应性"
@@ -12485,7 +12490,7 @@ a. 中国的, 中国话的"
 Japanese,"n. 日本人, 日语
 a. 日本的, 日语的"
 carefree,"a. 无忧无虑的, 舒畅的, 愉快的"
-duty-free,无
+duty-free,[经] 免税
 careful,adj. 仔细的，小心的
 painful,"a. 痛苦的, 困难的, 令人烦恼的
 [医] 疼痛的"
