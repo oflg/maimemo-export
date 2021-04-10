@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-#! -*- coding:utf-8 -*-
-'''''' '''''' '''''' '''''' '''''' '''''' '''''' '''''' '''''
-   create time: 20210331
-   author: ourongxing
-   e-mail: orongxing@gmail.com
-   github: https://github.com/ourongxing
-''' '''''' '''''' '''''' '''''' '''''' '''''' '''''' '''''' ''
+#  create by ourongxing
+#  detail url: https://github.com/ourongxing/maimemo-export
 
 import argparse
 import codecs
@@ -13,7 +7,6 @@ import csv
 import os
 import sqlite3
 import sys
-
 
 class Generate(object):
     def __init__(self, path):
@@ -73,6 +66,8 @@ class Generate(object):
             return result[0][0]
 
     def gen_csv(self, book, result):
+        if not os.path.exists(self.path + "/csv/"):
+            os.makedirs(self.path + "/csv/")
         with codecs.open(self.path + "/csv/" + book + ".csv", "w",
                          "utf_8_sig") as csvfile:
             writer = csv.writer(csvfile)
@@ -80,6 +75,8 @@ class Generate(object):
                 writer.writerows([[word[0], self.get_exp(word[0])]])
 
     def gen_txt(self, book, result):
+        if not os.path.exists(self.path + "/txt/"):
+            os.makedirs(self.path + "/txt/")
         with codecs.open(self.path + "/txt/" + book + ".txt", "w",
                          "utf_8_sig") as txtfile:
             for word in result:
@@ -87,11 +84,6 @@ class Generate(object):
 
     # 创建文件
     def generate(self, num, book, result, _type):
-        if not os.path.exists(self.path + "/csv/"):
-            os.makedirs(self.path + "/csv/")
-        if not os.path.exists(self.path + "/txt/"):
-            os.makedirs(self.path + "/txt/")
-
         if (result == []):
             print(str(num + 1) + " 未找到：" + book)
             return
@@ -108,17 +100,10 @@ class Generate(object):
 
 
 if __name__ == "__main__":
-    if os.path.exists("maimemo.db") == False:
+    if os.path.exists("maimemo.db") == False | os.path.exists("stardict.db") == False:
         print(
-            "maimemo.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
+            "数据库不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
         )
-        sys.exit(0)
-    if os.path.exists("stardict.db") == False:
-        print(
-            "stardict.db 不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
-        )
-
-        sys.exit(0)
 
     #获取命令行传入的参数
     parser = argparse.ArgumentParser(
@@ -126,7 +111,6 @@ if __name__ == "__main__":
     parser.add_argument('-t',
                         '--type',
                         help='导出的文件类型',
-                        type=str,
                         default='both',
                         choices=['csv', 'txt', 'both'])
     group = parser.add_mutually_exclusive_group()
