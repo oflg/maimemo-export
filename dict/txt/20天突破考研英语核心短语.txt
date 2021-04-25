@@ -2,6 +2,7 @@
 a body of
 a case in point
 a chance of lifetime
+a once-in-a-life-time opportunity
 a copy of
 a couple of
 a fraction of
@@ -207,8 +208,6 @@ bank on sth.
 bargain for
 bargain on
 base on
-be in the mood
-be not in the mood
 be in the mood for sth.
 be in the mood to do sth.
 be not in the mood for sth.
@@ -388,8 +387,8 @@ be worse off
 be worth doing
 be worthy of
 be fed up
-get fed up
 be fed up with
+get fed up
 get fed up with
 be in shape
 get in shape
@@ -554,10 +553,10 @@ cash in on
 cast about for
 cast out
 cast light on
-shed light on
-throw light on
 cast light upon
+shed light on
 shed light upon
+throw light on
 throw light upon
 catch fire
 catch on
@@ -575,7 +574,7 @@ chase after
 check in
 check out
 check up
-check on
+check up on
 check with
 cheer for
 cheer up
@@ -676,7 +675,7 @@ conform with
 confuse ... with
 consent to
 consist of
-consume sb. with
+be consumed with
 contribute to
 convert ... into
 convert ... to
@@ -1008,8 +1007,8 @@ go off
 go on strike
 go over
 go the round
-go the rounds
 go the round of
+go the rounds
 go the rounds of
 go through with
 go through
@@ -1333,7 +1332,7 @@ inform sb. of sth.
 inform sb. about sth.
 inherent in
 inquire into
-insulate ... from
+insulate from
 inspire sb. with sth.
 inspire sth. in sb.
 instead of
@@ -1623,6 +1622,8 @@ off the track
 omit doing
 omit to do
 on impulse
+on impulse of ...
+on the impulse
 on the impulse of ...
 on average
 on the average
@@ -1712,6 +1713,7 @@ out of danger
 out of date
 out of hand
 out of joint
+out of accord with
 out of order
 out of place
 out of practice
@@ -1898,6 +1900,7 @@ react on
 react upon
 react to
 read through
+reckon ... as
 reckon ... to be
 reckon on
 reckon with
@@ -1908,7 +1911,6 @@ refer to
 refer to ... as
 reflect on
 refrain from
-regard ... as
 regard ... as
 view ... as
 regardless of
@@ -1924,6 +1926,7 @@ reluctant to do
 rely on
 rely upon
 remark on
+remark upon
 remedy for
 remind sb. of sth.
 renege on
@@ -2088,7 +2091,7 @@ slip into
 slip out
 slip up
 slot in
-slot ... into
+slot in
 slow down
 smooth down
 smooth over
@@ -2283,13 +2286,13 @@ have a nap
 take a hand in
 have a hand in
 take interest in
-have interest in
-feel interest in
 take an interest in
-have an interest in
-feel an interest in
 take no interest in
+have interest in
+have an interest in
 have no interest in
+feel interest in
+feel an interest in
 feel no interest in
 take ... to heart
 lay ... to heart

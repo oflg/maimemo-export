@@ -10,7 +10,6 @@ class Generate(object):
         self.force = force
         # 连接数据库
         self.maimemo = sqlite3.connect("maimemo.db")
-        #  self.maimemo = sqlite3.connect("./maimemo_过期词库.db")
         self.stardict = sqlite3.connect("stardict.db")
         self.stardict_cursor = self.stardict.cursor()
 
