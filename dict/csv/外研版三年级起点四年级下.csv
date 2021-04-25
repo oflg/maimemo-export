@@ -1,8 +1,11 @@
 ﻿nice,"a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的"
 clever,"a. 聪明的, 精明的"
 naughty,"a. 顽皮的, 没规矩的, 不适当的, 下流的"
-a bit,一点儿；有一点儿
-shy,na. 讨厌…的
+a bit,abbr. 巴西纺织工业同业公会（Brazilian Textile and Apparel Industry Association）；升技电脑公司（世界知名主板市场厂商）
+shy,"n. 惊跳, 惊避
+a. 胆怯的, 畏缩的, 迟疑的, 羞怯的
+vi. 惊退, 乱投, 乱掷, 厌恶, 避开
+vt. 乱投, 乱掷"
 answer,"n. 答案, 回答, 回报, 答辩
 vt. 回答, 反驳, 适应, 响应, 符合
 vi. 回答, 答应, 负责, 符合, 成功
@@ -14,20 +17,23 @@ vi. 叫喊, 访问, 叫牌
 bad,"a. 坏的
 n. 坏
 adv. 坏地"
-cool,"n. 凉爽, 凉爽的空气
-a. 凉爽的, 冷淡的, 冷静的
-vi. 冷却, 平息
-vt. 使冷却, 使平静"
+cool,"v. 冷却；冷静下来；镇静下来；冷淡下来
+adj. 凉的；凉爽的；凉快的；使人感到凉爽的
+n. 凉气；凉快的地方
+[网络] 酷；太酷了；太棒了"
 aunt,"n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母"
-uncle,[网络] -叔叔
-big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
-little,"adj. 小的；很少的；短暂的；小巧可爱的
-adv. 完全不
-n. 少许；没有多少；短时间
-n. (Little)人名；(英)利特尔"
+uncle,"n. 叔父, 伯父, 姨丈"
+big,"adv. 大大；给人印象深地
+n. 大亨；大公司
+adj. 巨大的；年龄较大的；重大的；严重的
+[网络] 恐怕袖子有点儿长；大型日式饭盒；飞越未来"
+little,"n. 一点点, 少许, 一会儿, 短时间
+a. 小的, 很少的, 幼小的, 琐碎的, 短暂的, 矮小的
+adv. 很少, 稍微, 完全不"
 cute,"a. 可爱的, 聪明的, 伶俐的
 [医] 品他病"
-city,suf. [与其他词合成构成形容词]表示“…城市”
+city,"n. 城市；都市；（由国王或女王授予特权，通常有大教堂的）特许市
+[网络] 伦敦城市大学；所在城市；居住城市"
 ship,n. [英国俚语](在同一工头下工作的)排字组 ( = companionship)
 beautiful,"adj. 美丽的
 出色地
@@ -46,7 +52,7 @@ adv. 接近地, 紧密地
 [计] 关闭"
 old,"n. 老年人；…岁的(人)；旧事物
 adj. 老的；陈年的；…久的；年龄较长的
-[网络] 旧的；年老的；古老的"
+[网络] 旧的；年纪大了点；奥兹莫比尔"
 famous,"a. 出名的, 极好的"
 robot,"n. 机械人, 自动机械, 机械般工作的人
 [计] 机器人; 自动机"
@@ -56,12 +62,18 @@ vi. 下决心, 愿意
 aux. 将, 愿意, 必须"
 everything,"pron. 一切；所有事物；每件事；形势
 [网络] 事事；每件事物；万事"
-one day,有一天
-housework,家庭工作
+one day,（将来）有一天；总有一天；（过去）某一天
+housework,"n. 家事, 家务"
 learn,vt. 学习；认识到；得知
-our,suf. 构成名词表示“状态”，“活动”：colour， labour
-homework,家庭作业
-won't,[网络] 惯于
+our,"adv. 我们的；用于称上帝或圣人
+pron. 我们的；〈口〉我们家
+[网络] 我的；耗氧速率(oxygen uptake rates)；关于我们"
+homework,"na. 课外习题；家庭工作；(讨论等以前的)准备工作
+[网络] 功课"
+won't,"n. 习惯
+a. 惯常的, 易于...的
+vi. 习惯
+vt. 使习惯于"
 will not,无
 Tuesday,n. 星期二
 Wednesday,n. 星期三
@@ -74,14 +86,16 @@ a. 下一个的, 其次的, 贴近的
 adv. 然后, 下次, 次于
 [计] 近邻干扰"
 week,"n. 星期, 周"
-holiday,[网络] 圣日；神圣的一天
+holiday,"n. 假日, 假期, 节日
+vi. 度假"
 take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
 vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
 n. 拿, 取, 收成, 奏效"
-fly,"n. 苍蝇, 两翼昆虫, 飞行
-vi. 飞, 飞翔, 飘扬, 逃走
-vt. 飞, 飞越, 使飘扬, 逃出
-a. 敏捷的"
+fly,"vi. 飞；驾驶飞机；飘扬
+vt. 飞行；飞越；使飘扬
+n. 飞行；苍蝇；两翼昆虫
+adj. 敏捷的
+n. (Fly)人名；(法)弗利；(英)弗莱"
 picnic,"n. 野餐, 远足, 愉快的经历
 vi. 去野餐, 远足"
 great,"a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
@@ -91,39 +105,55 @@ why,"adv. 为何；（反问，表示不必）何必；（说明理由）为什�
 n. 原因；难解的问题
 int. 嗨
 [网络] 为什麽；为什么做；何故"
-Why not?, 何妨；何不
+Why not?,"na. 为什么不好[不行]
+[网络] 为什么不呢；为什么不能；为什么不行"
 because,conj. 因为
-so,comb.form =-soever
+so,"conj. 所以；以便；（引出结果）因此；引出下文
+adv. 那么；如此；很；就
+int. 好；别动；别吵；停住
+pron. 左右；imagine
+n. 【乐】同“sol”；【女名】女子名
+[网络] 这么；这样；苏"
 cloudy,"a. 多云的, 有愁容的, 云的, 浑浊的
 [建] (混)浊的"
-weather,"n. 天气, 气象, 处境
-a. 迎风的
-vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
-vi. 风化, 受侵蚀, 经受风雨"
-was,be的过去式
+weather,"n. 天气；气象；气候；处境
+vt. 经受住；使风化；侵蚀；使受风吹雨打
+vi. 风化；受侵蚀；经受风雨
+adj. 露天的；迎风的
+n. (Weather)人名；(英)韦瑟"
+was,is或am的过去式
 am,"abbr. 调幅；振幅调制；议员（威尔士议会成员）
 [网络] 调幅(amplitude modulation)；上午(a.m.)；是"
 is,"v. 是
 abbr. (=island；isle)岛；群岛
 [网络] 冰岛；在；印度标准(Indian Standard)"
-then,"adv. 然后, 当时
-conj. 然后, 当时
-n. 那时"
+then,"adv. 然后；那么；于是；当时；此外
+n. 那时
+conj. 然后，当时
+n. (Then)人名；(德)特恩"
 grandparent,"n. 祖父, 外祖母, 祖母, 外祖父"
-were, (we are 的常用口语形式)
-are,[网络] 一重
+were,"short. we are
+[网络] 是；过去式；的过去式"
+are,"v. 是（be的第二人称单复数现在式）
+n. 公亩
+n. (Are)人名；(意、西、芬)阿雷"
 young,"a. 年轻的, 无经验的, 朝气蓬勃的
 n. 青年们, 幼小动物, 崽"
 old,"n. 老年人；…岁的(人)；旧事物
 adj. 老的；陈年的；…久的；年龄较长的
-[网络] 旧的；年老的；古老的"
+[网络] 旧的；年纪大了点；奥兹莫比尔"
 hair,"n. 头发, 毛发, 些微
 [医] 毛, 发"
-so,comb.form =-soever
-short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
-adv. 简短地, 突然
-n. 扼要, 短片, 缺乏
-vt. 故意少给, 使短路"
+so,"conj. 所以；以便；（引出结果）因此；引出下文
+adv. 那么；如此；很；就
+int. 好；别动；别吵；停住
+pron. 左右；imagine
+n. 【乐】同“sol”；【女名】女子名
+[网络] 这么；这样；苏"
+short,"adj. 短的；个子矮的；短期的；短暂的
+adv. 缺少；不足；未达到；不及
+v. 卖空(股票)；故意少给；欺骗；【电】使短路
+n. 少量烈酒；（尤指在正片前放映的）电影短片"
 long,"n. 朗；(服装的)长尺寸；长裤；【语】长母音
 adj. （长度或距离）长的；（询问或谈论长度或距离）长；长时间的；长久的
 adv. 长期地；长久地；（在某一时间或事件之前或以后）很久地
@@ -131,28 +161,41 @@ v. （尤指对看似不会很快发生的事）渴望
 [网络] 长整型；长整数；多头"
 wasn't,prep. 不是
 was not,[网络] 不是；不在世；还不是
-weren't,prep. 不是
+weren't,short. were not
 were not,无
-clean,"a. 干净的, 清白的, 简洁的
-adv. 清洁地, 完全地
-vt. 清理, 使干净, 出空
-vi. 被搞干净
-n. 打扫"
+clean,"adj. 洁净的；干净的；爱干净的；爱整洁的
+v. 除去…的灰尘；使…干净；打扫；变干净
+n. 打扫；清扫
+adv. 完全地
+[网络] 清洁；清洁的；清除"
 dirty,"a. 肮脏的, 卑鄙的
 vt. 弄脏
 vi. 变脏"
-yesterday,[网络] 昨日
-out,"a. 外面的, 熄灭的, 结束的
-adv. 在外, 熄灭, 出现
-prep. 出自, 离去, 向"
-well, (we shall或 we will 的常用口语形式)
-thanks,[网络] 多谢；感谢的
-sun,"n. 太阳, 日, 日光, 阳光
-vt. 晒
-vi. 晒太阳"
+yesterday,[网络] 昨天；昨日；一句
+out,"adv. 出去；外出；离开；出于
+n. 出路；回避的方法；托辞
+prep. 〈美〉通过(门,窗等)而出；〈美口〉沿着…而去
+adj. 已公开同性恋身份的
+int. 〈古〉表示“愤慨”“谴责”等
+v. 揭露
+[网络] 上；出来；出去了"
+well,"adv. 好；很；大大地；对
+n. 井；水井；楼梯井；电梯井道
+int. 噢；啊；好啦；嗨
+adj. 健康；身体好；状态良好；情况良好
+v. 涌出；冒出；流出；溢出
+short. we will；we shall
+[网络] 好的"
+thanks,"n. 感谢, 谢意, 谢忱
+interj. 谢谢, 谢谢你"
+sun,"n. 太阳；日；太阳的光和热；阳光
+v. 晒太阳
+[网络] 阳光(sunshine)；孙；昇阳"
 lesson,"n. 课, 课业, 教训"
-village,n. 村庄；村民；（动物的）群落
-had,[网络] 不是
+village,"n. 村庄
+a. 乡村的, 村庄的"
+had,"v. have(有)的过去式和过去分词
+[网络] 有了；过去式的句型"
 have,"vt. 有, 怀有, 拿, 进行
 aux. 已经"
 phone,"n. 电话；电话机；音素；电话听筒
@@ -161,33 +204,38 @@ v. 打电话
 cook,"n. 厨子, 厨师
 vt. 烹调, 煮饭, 加热
 vi. 在煮着"
-really,[网络] 再结盟
+really,"adv. 实际上, 真实地, 实在"
 wash,"n. 洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地
 vt. 洗, 洗涤, 洗清, 用水冲洗, 流过, 弄湿, 粉刷, 镀金属薄层于
 vi. 洗涤, 洗澡, 被冲蚀, 漂浮"
 What about ...?,adv. 怎么样，以为如何（提出建议或用以引出话题）
 did,do的过去式
-do,"v. 做；进行；完成；做出
-auxv. 用于实义动词前构成否定句和疑问句；构成附加疑问句
-n. 社交聚会；社交活动
-[网络] 溶解氧(dissolved oxygen)；执行；行动"
+do,abbr. delivery order 提货单; digital output 数字输出; disbursing office 付款处; deferred ordinary (shares) 延期付息普通股票
 didn't,abbr. did not 没有
 did not,无
 computer,"n. 电脑, 电子计算机
 [计] 计算机"
-love,[网络] 爱到底；林俊杰；香奈儿香水广告曲
-him,pron. 他
-Mrs,n. 先生
+love,"n. 爱, 恋爱, 爱情, 爱好, 性爱
+vt. 爱, 爱好, 爱慕
+vi. 爱"
+him,"pron. 他（宾格）
+n. (Him)人名；(东南亚国家华语)欣；(柬)亨；(中)谦(广东话·威妥玛)"
+Mrs,"na. 夫人
+[网络] 太太；女士；某太太"
 Miss,"n. 失误, 避免, 失败, 小姐
 vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
 vi. 失败, 击不中"
-sang,sing的过去式
+sang,"v. 唱，唱歌（sing的过去式）
+n. (Sang)人名；(东南亚国家华语)生；(瑞典、老、柬、泰)桑；(中)生(广东话·威妥玛)"
 sing,"vi. 唱歌；歌颂；鸣叫；呼号
 vt. 唱；用诗赞颂；唱着使
 n. 演唱；鸣声；呼啸声
 n. (Sing)人名；(老、德、泰)辛"
 beautifully,"adv. 美好地, 漂亮地"
-saw,[=surface area/weight]体表面积/体重
+saw,"n. 锯子, 谚语
+vt. 锯, 锯开, 来回移动
+vi. 拉锯, 移动
+see的过去式"
 see,"vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意
 vi. 看, 观看, 注意, 知道, 考虑
 n. 主教的职位"
@@ -195,27 +243,517 @@ game,"n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味
 vi. 赌博
 a. 勇敢的, 有胆量的, 关于野味的, 跛的
 [计] 博弈; 对策"
-last,"a. 最后的, 末尾的, 最近的
-vi. 持续, 支持, 维持
-vt. 使维持, 够...用
-adv. 最后, 后来
-n. 最后, 末尾, 鞋楦头"
+last,"n. 末尾，最后；上个；鞋楦（做鞋的模型）
+adj. 最后的；最近的，最新的；仅剩的；最不可能…的
+vi. 持续；维持，够用；持久
+vt. 度过，拖过；使维持
+adv. 最后地；上次，最近；最后一点
+n. (Last)人名；(英、德、葡、罗、瑞典)拉斯特"
 fun,"n. 乐趣；玩笑；有趣的人或事
 adj. 供娱乐用的
 vi. 开玩笑"
 went,"v. 去，过去（go的过去式）
 n. (Went)人名；(德、匈、荷)文特；(英)温特"
-go,[网络] 困觉；绿基色输出；格拉苏蒂
-there,[网络] -那里
+go,"G.O.
+abbr.
+general office 总公司,总局,总办事处,总社
+general order [亦作 g. o.]
+Go
+= general obligation bond
+go1
+[ɡəu]
+vi.
+前进；行走；去；驶：
+(从某地)离去，出发，离开：
+(如机器等)运转，运行；操作；行动，进行；起作用；(心脏)跳动：
+采取(特定的)行动：
+处于；成为；变得；变成(某种特定状态)：
+(消息等)被流传，传播；(货币等)流通，通用，通行：
+通(向)，延伸至；到达；通到：
+(时间)过去，消逝；被用完：
+做特定的动作：
+(使自己)遭受，招惹：
+被出售，被卖掉(常与at， for连用)：
+(钱等)被用于，让与，分配给(某一特定的领受者或目的)(常与for， in， on， to连用)：
+(奖品、职位、财产等)被给(予)，属(于)，归(于)(to)：
+有助(于)，趋向(于)，倾向(于)：
+结果，结局；结果是：
+(事情)发展，进行，进展：
+(经常)被放置；归属：
+(式样、色彩等)相配；相称；和谐：
+发出某种声音：
+[用于as引导的从句](就某方面)说，一般说来，从一般情况来看：
+用完，用光；消耗；耗尽；衰退，减弱：
+垮掉；损坏；陷下，塌下；折断；被丧失：
+死去，失去知觉：
+(音乐)有某种调子；(谚语等)用某种措辞表达；(被)创作；(被)写作：
+装得下，装得进；塞得进；可通过：
+诉诸，求助于：
+开始，开动：
+持续：
+被放弃，被废弃；被去掉；被辞退(常与can， have， to， must 连用)：
+(话语等)有权威性，可相信的；(话)是决定性的：
+被接受；被准许；被信以为真；有效：
+(在言行等方面)达到特定程度：
+总共，构成，合成：
+【数学】(除)得整数商，纳入(与into连用)：
+将要，打算，预定[用进行时态，后接不定式]：
+决意[用作不定式，强调感情冲动、迅速果断或拼死之意]：
+下沉：
+[口语]兴奋地表演；以特别鼓舞人心的方式表演：
+[美国方言]想[常用于否定句，后接不定式]：
+[俚语]撒尿，拉屎
+[古语]离开法庭
+vt.
+赌，(用钱或物)打赌，以…打赌，同…打赌，押(赌注)：
+循…而行，通行于，沿…进行：
+[美国口语]忍耐，忍受；容忍，宽恕[通常用于否定句]：
+[口语]为…作保释人，为(被捕人)提供(保释金)；承担…的责任：
+[口语]出(价)，愿付(一定数额的款)；出(牌等)：
+[美国口语]欣赏，鉴赏；分享，享用，享受，品尝：
+对付：
+[主美国口语]重量为；成长到(某种程度)：
+走过，穿过：
+[口语]说，说道[通常用现在时叙述过去说的话]
+【棒球】在(全场比赛的特定局次)中投球
+n.
+去；离开；进行
+成功，胜利；成功的事，进行顺利
+[口语]精神，精力；活力，劲头，干劲；频繁紧张的活动
+[口语]事件，意外的事态
+[美国口语]协议；约定；交易
+[口语]试一下，尝试，试图；努力，尽力
+[英国口语]一次提供(或取得)的量；一杯(酒)；一份(食物)
+[口语]一口气，一下子，一举
+[口语]轮到的机会
+[英国口语](剑桥大学学士)学位考试
+(疾病的)发作
+允许，许可；批准
+比赛；拳击比赛
+[the go][口语]时兴东西，时髦东西
+【牌戏】宕(指未能完成定约)；吊牌
+adj.
+[美国口语]完全准备(或预备)好的；处于(可发射、使用等)良好状态的
+[美国口语]运行正常的，功能精确的
+时髦的，合潮流的
+[俚语]好的，行的，对的
+interj.
+(赛跑时的起跑口令)跑：
+(赛跑时的起跑口令)跑：
+近义词:
+depart
+. leave
+. quit
+. retire
+. withdraw
+反义词:
+arrive
+. come
+短语:
+a capital go
+[口语]太好了，妙极了
+all (或quite) go
+[口语]最流行的，非常时髦的
+a near go
+[口语]极侥幸的逃跑
+a pretty (或 quite, run) go
+[口语]难题，难办的事；怪事；尴尬的事
+as (或 so) far as…goes
+就…来说
+as (或 so) far as it (或 that) goes
+就目前情况而言，就其本身而言
+as…go
+就…而论，从…的通常情况而论
+as people (或 things) go
+就一般情况而言，从一般情况来看
+at one go
+一下子，一举
+be going strong
+见 strong
+be going to
+计划(或打算、决定)(做某事)
+即将(发生某事)
+可能会(发生某事)
+be on the go
+[口语]在活动，在活跃
+[口语]准备离开；正在离开
+[俚语]有醉意
+[废语]衰弱；濒于死亡
+call it a go
+一言为定
+could go
+[口语]真想吃(或喝)
+enough (或 something) to go on with
+见 enough
+fair go
+公平的比赛；公平对待；机会均等
+first go
+[口语]第一次尝试；一下子，一口气
+first go off
+[口语]最初，一开始 [亦作 at first go off]
+from the word go
+[美国口语]始终，从一开始；完全，彻底
+full of go
+[口语]精力充沛，劲头十足
+get someone going
+[美国俚语]使某人激动(或发怒)
+get up and go
+果断迅速地行动
+go all out
+[口语]全力以赴，鼓足干劲
+go aloft
+死，去世
+go along for the ride
+凑凑热闹，逢场作戏
+Go along with you!
+[口语]去你的!别瞎说!(表示怀疑、不相信)
+go (and) chase oneself
+[美国俚语]别捣乱，走开
+go and (do something)
+[口语]竟然愚蠢到(去干某事)；竟然粗心到… (表示惊讶、厌烦、不赞许等)
+go around together
+情侣的定期约会
+go astray
+迷路，走失；误入歧途，堕落
+放错地方
+go at it hammer and tongs
+全力以赴地干，精神抖擞地工作
+激烈殴斗，全力进攻
+go badly
+(工作、事情等)进展不顺利
+go bananas
+失常，不正常
+go bang
+发出嘣地一声
+go begging (或 a-begging)
+见 beg
+go behind someone's back
+背后行事，暗中行事
+go below (decks)
+【航海学】到舱内去
+go beyond one's duty
+(出于负责、勇气、决心或多管闲事而)逾越职责
+go broke
+[口语]破产
+go bung
+[澳大利亚、新西兰俚语]
+失败，完蛋
+死
+go bust
+[俚语]
+失败，完蛋
+破产
+go cahoots
+见 cahoots
+go counter to
+与…背道而驰；违反…
+go downhill
+(经济、健康等)恶化；(道德)日益败坏
+走下坡路
+go down swinging
+体面地失败
+go down the drain
+每况愈下
+go down the line
+[俚语]被解雇
+go drink from the sea
+滚开，别管闲事
+go dry
+见 dry
+go easy
+[口语]慢慢来；从容不迫
+go easy on someone
+待人善良，对人温厚
+go easy with (或 on)
+[口语]
+小心处置…；对…进行从宽处理
+爱惜…；节约…
+go farther (或 further) and fare worse
+每况愈下
+go fifty-fifty
+[美国英语]平分，均摊，一半一半
+go flat out
+= go all out
+go flop
+[俚语]垮台，遭到失败
+go for a Burton
+见 Burton
+go for a song
+非常便宜
+go for broke
+全力以赴
+go for it
+冒一下险，大胆试一试
+go full tour
+[俚语]回家
+go fut (或 phut)
+(机器等)故障，不能运转；(机构)垮台；崩溃
+(计划等)落空，告吹
+go glimmering
+见 glimmering
+go halves (on或in something with someone)
+见half
+go hang
+[口语]随它去，听之任之
+go hard with someone
+使某人遭受困难(或痛苦、不幸、危险等)
+go hence
+[诗歌用语]
+离开，出去
+死
+go home
+回家，回国
+击中要害；打中目标
+[委婉语]死去，“回老家”[亦作 go to one's last (或 long) home]
+用坏；穿破
+腐败
+深入；使获得深刻印象
+go home in a box
+[俚语、委婉语]死
+go home to
+使受感动；打动(某人)的心
+使…理解(或领会)；使…有深刻印象
+go ill
+不妙；不祥
+go ill with someone
+对某人不利；对某人而言是不祥的
+go in and out
+进进出出
+忽明忽暗
+go in at
+[口语]痛打，猛烈攻击
+go in circles
+(毫无成效地)兜圈子
+go into particulars
+见particular
+go into the red
+出现赤字
+go into the whys and wherefores
+见 why
+go it
+[口语]
+着手；进行一些活动
+飞速行进；使出猛劲干
+(在比赛中)加油，作进一步努力[常用作祈使句]
+挥霍；过放荡生活
+go it alone
+[口语]单独行动；独自生活
+go it blind
+鲁莽行事；碰运气
+go it strong
+见 strong
+go it strong on
+见 strong
+go it with a rush
+见 rush
+go, man go
+[美国口语]干得好，太妙了
+go near to do (或 doing) something
+几乎要做某事
+go off at half-cock (或 half cock)
+枪走火
+[口语]没准备好就干，仓促行事[亦作 go of half-cock]
+go one better
+出价超过对手
+超过以前的成绩；更胜一筹
+[美国英语]胜过某人[见 better¹]
+go out of one's mind
+见mind
+go over big
+[美国口语](演出等)大受欢迎；非常成功；(演员)走红[亦作 go big]
+go over-board
+【航海学】从船上跌落；被扔到船外
+go phut
+= go fut
+go pit-a-pat
+(心)怦怦地跳；劈劈啪啪地跑
+go public
+(封闭式公司)让股票上市公开发售
+go scot free (或 scot-free)
+安然逃脱；逍遥法外
+go seesaw
+忽前忽后，忽上忽下；交替进行
+go slow
+(车辆)慢行；慢慢走
+慢点来：留神(叫听话人对问题思考一下)
+减少活动
+[英国英语]怠工(以表示抗议)
+go smash into
+冲进，撞入
+go snap
+突然裂开；啪地一声断裂了
+go soak yourself (或 your head)
+[口语]走开，别来打扰我
+go so far as (to do)
+甚至(做出某事)；竟然到(做出)…的地步
+go solid for
+见 solid
+go some
+[美国口语]
+收获很大；很有成就；做了不少
+(工作、事情等)有效地(或顺利地、迅速地)进行
+go (someone) one better
+[口语]
+胜过(某人)；(比某人)略胜一筹
+(玩纸牌时)增加赌注
+go somewhere
+[口语] 出去一下(上厕所的委婉语)
+go south(with something)
+[俚语]卷逃；(偷窃某物后)失踪
+go steady (with)
+[美国口语](与某人)谈恋爱；(与异性朋友)经常外出约会
+go straight
+径直走
+重新做人，改过自新
+go swimmingly
+进行顺利
+go the way of all flesh (或 of all the earth)
+见way
+go the way of nature
+见 way
+go the whole coon
+见coon
+go the whole hog
+见 hog
+Go to!
+[古语]
+别说了!去你的!我不信!(表示不相信、不赞同)
+快!开始吧!
+go (to) bye-bye
+上床睡觉
+go too far
+走得太远；做得太过分
+go to pot
+见pot
+go to rest
+见rest
+go (to) smash
+[口语]
+垮台，完蛋；解体
+破产
+go well
+(工作、事情、计划等)进行顺利
+go without saying
+[口语]不言而喻，不必说
+go wrong
+走错路
+失足；堕落
+失败，不如意
+(食品、产品等)腐败；变质
+(机器等)发生故障
+搞错，弄错
+going on
+[口语]接近，快到
+gone on someone
+[口语]倾心于某人
+have a go (at)
+[口语]
+尝试(某事)；试做(某事)
+攻击(某人)；责骂(某人)
+have been and gone and done it
+[口语]竟然干出了这种蠢事(表示惊讶、恼火)
+have something going for one
+[美国俚语]有本钱，有条件(尤指有才能、美貌、人事关系等)
+Here goes!
+[口语]瞧，开始了，看我的!(说话者开始做冒险举动或游戏时说的话) Here we go again.[口语]同样不愉快的事情又发生了。
+How goes it? (或 How is it going? How are things going?)
+[口语]你好吗?近况如何?
+It (或 That) goes without saying.
+不言而喻；显而易见。
+It's a go!
+[口语]行!就这么办!
+leave (或 let) go (of)
+松手；放手
+let go
+放开，松手；让…走，释放
+不理会；忽略
+开枪，发射
+听任；随它去吧 [亦作
+Let it go]
+【航海学】解开(缆绳等)
+开除；解雇
+let it go at that
+[美国口语]谈论到此为止；就这样吧
+let oneself go
+[口语]放松；放纵；尽情发泄自己的感情(或欲望等)
+let things go hang
+见 thing [亦作 let things slide]
+make a go of it
+使取得成功；使获得圆满结果
+make something go round
+使够分配；使够一段时间使用
+near go
+[口语]九死一生；差点送命
+no go
+[口语]无用，无价值；不行，不可能
+on the go
+[口语]忙碌，忙个不停
+[口语]衰弱，衰败
+[俚语]醉
+quite (或 all) the go
+非常流行
+sentry go
+【军事】
+换哨命令
+步哨勤务
+so far as it goes
+= as far as it goes
+That (或 It) goes without saying.
+不言而喻；显而易见
+the great go
+[英国英语]剑桥大学文学士学位正式考试
+the little go
+[英国英语]剑桥大学学士学位初试；预考
+There he (或 she, you) goes again.
+他(或她，你)那一套又来了。
+to go
+[口语]
+供外卖的(食物)
+仍未完成，有待于完成的；剩下的
+What goes?
+[美国俚语]发生什么事了?
+What has (或 is) gone of (或 with) someone?
+[口语]某人怎么样了?某人出了什么事?
+Where do we go from here (或 there)?
+下一步该怎么办?下一步是什么?
+Who goes there?
+(哨兵喝问)谁?
+You may go farther and fare worse.
+[谚语]往前走，情形可能更坏。
+变形：
+n.
+goes
+vi.
+went
+. gone
+. going
+go2
+[ɡəu]
+n.
+[日语](日本)古围棋 [亦作 Go， I-go]
+go
+n.
+Papago的变形
+Papago
+[,pæpə'ɡəu]
+n.
+帕帕戈人(北美印第安部落)
+帕帕戈人的乌托阿兹台克语
+变形：
+n.
+Papagos
+. go"
+there,suf. 表示“那(里)”，“那(时)”
 ate,"v. eat(吃)的过去式
 [网络] 自动测试设备(Automatic Test Equipment)；自动化测试设备(Automated Test Equipment)；吃的过去式"
-eat,"v. 吃；吃饭；用餐
-[网络] 食；喝；进食"
+eat,[网络] 艺术与科技实验中心；东莞中逸电子有限公司；永春站
 drank,drink的过去式
-drink,"n. 饮料, 酒
-v. 喝, 喝酒"
-drink,"n. 饮料, 酒
-v. 喝, 喝酒"
+drink,"v. 喝；喝酒；饮；（尤指）酗酒
+n. 饮料；酒；一口（饮料）；酒精饮料
+[网络] 饮料-蒂克；墨尔本的酒；饮料词典"
+drink,"v. 喝；喝酒；饮；（尤指）酗酒
+n. 饮料；酒；一口（饮料）；酒精饮料
+[网络] 饮料-蒂克；墨尔本的酒；饮料词典"
 time,"n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间
 vt. 测定...的时间, 记录...的时间, 计时, 定时
 a. 时间的, 记时的, 定时的, 定期的, 分期的
@@ -229,8 +767,9 @@ took,take的过去式
 take,"vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费
 vi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产
 n. 拿, 取, 收成, 奏效"
-tell,"vt. 告诉, 说, 吩咐, 断定, 知道
-vi. 讲述, 泄密, 告发, 表明"
+tell,"v. 告诉；说；讲述；知道
+n. 【考古】(层层覆盖古代遗址的)人工丘阜；传闻
+[网络] 吩咐；辨别；电话"
 great,"a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的
 adv. 顺利地, 得意地
 n. 全部, 大人物, 大师"
@@ -244,7 +783,8 @@ welcome,"n. 欢迎, 欢迎词
 a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
 interj. 欢迎"
-postcard,明信片
+postcard,"na. 〈英〉(不需贴邮票的邮局发行)官制明信片
+[网络] 媒体简介；设计"
 cousin,"n. 堂兄弟姊妹, 表兄弟姊妹
 [法] 同辈表亲或堂亲"
 dear,"n. 亲爱的人
@@ -262,12 +802,19 @@ n. 精液；精子
 int. 得啦
 prep. （提及的时间）到来
 [网络] 来吧；过来；前来"
-pop,[网络] 相纸，打印纸
+pop,"adv. 突然；砰地(一声)
+n. 流行音乐；汽水；（短促清脆的爆裂声）砰；爹
+v. （使）发砰砰声；发爆裂声；（突然或匆匆）去；（迅速或突然）放置
+adj. 流行音乐的；通俗风格的；通俗的；现代的
+abbr. (=printing-out paper)【摄】(利用光照直接显影的)印相纸
+[网络] 流行(popularity)；流行音乐(popularmusic)；波普(Pope)"
 concert,"n. 音乐会, 和声, 一致
 vt. 协力, 协调
 vi. 协力
 [计] 美国北卡罗来纳州Internet网"
-earth,[网络] 莉莎的天空
+earth,"n. 地球；地表, 陆地；尘事, 俗事；兽穴
+vt. 把（电线）[电] 接地；盖（土）；追赶入洞穴
+vi. 躲进地洞"
 fall,"n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天
 vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低
 a. 秋天的"
@@ -279,9 +826,11 @@ fall的过去式"
 fall,"n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天
 vi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低
 a. 秋天的"
-fall down," 倒塌, 跌倒; 失败; 趴架; 栽倒"
-found,"vt. 建立, 创立, 铸造
-find的过去式和过去分词"
+fall down,na. (向下游)流下；〔美俚〕失败；跌倒；同“fall”
+found,"v. 建立；创建；铸造；把…基于
+adj. (文艺作品等)找到的；已包括在价款[租金等]之内的
+n. 不另外收费的供应品[服务等]
+[网络] 方正"
 find,"vt. 发现, 感到, 找到, 认为, 得到
 vi. 裁决
 n. 发现
@@ -289,21 +838,26 @@ n. 发现
 寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上"
 town,"n. 城镇，市镇；市内商业区
 n. (Town)人名；(英)汤"
-happen,vi. 发生；碰巧；偶然遇到
+happen,"v. 发生；出现；向对方表示异议或不悦等
+linkv. 碰巧；恰好"
 ride,"n. 骑马, 乘坐, 乘车, 搭便车
 vt. 骑, 乘坐, 压迫, 控制
 vi. 骑马, 乘车, 漂游"
-then,"adv. 然后, 当时
-conj. 然后, 当时
-n. 那时"
+then,"adv. 然后；那么；于是；当时；此外
+n. 那时
+conj. 然后，当时
+n. (Then)人名；(德)特恩"
 thirsty,"a. 口渴的, 渴望的, 干燥的"
-water,[网络] 水
+water,"n. 水, 雨水, 海水, 水位, 水面, 流水
+vt. 给...浇水, 供以水, 注入水, 使湿
+vi. 流泪, 流口水, 加水
+a. 水的, 水上的, 水生的, 含水的"
 bought,"a. 买来的
 buy的过去式和过去分词"
 buy,"vt. 买, 获得
 vi. 买
 n. 购买, 买得的东西"
-watermelon,西瓜
+watermelon,n. 西瓜
 carried,a. 入神的；被运的；忘我的
 carry,"n. 进位, 射程, 运载
 vt. 携带, 运送, 支持, 传送, 包含
@@ -314,15 +868,19 @@ vt. 碰撞
 vi. 撞, 颠簸而行"
 hospital,"n. 医院
 n. (Hospital)人名；(英)霍斯皮特尔"
-had,[网络] 不是
+had,"v. have(有)的过去式和过去分词
+[网络] 有了；过去式的句型"
 have,"vt. 有, 怀有, 拿, 进行
 aux. 已经"
 chocolate,"n. 巧克力
 a. 巧克力制的"
-stomach ache,n. 胃痛；肚子痛
-cold,"n. 感冒, 寒冷
-a. 寒冷的, 冷淡的, 冷静的
-adv. 完全地"
-headache,[网络] 头痛
+stomach ache,"n. 胃痛
+[医] 胃痛"
+cold,"adj. 寒冷的；未热过的；已凉的；冷却的
+n. 冷；寒冷；（尤指）低气温；感冒
+adv. 突然；完全；毫无准备地
+[网络] 伤风；好冷；你太令我扫兴了"
+headache,"n. 头痛, 令人头痛之事
+[医] 头痛"
 fever,"n. 发烧, 发热, 热病
 [医] 发热, 热"

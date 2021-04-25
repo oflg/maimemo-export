@@ -8,19 +8,20 @@ washroom,"un. 盥洗室
 [网络] 洗手间；洗衣房；卫生间"
 admit,"vt. 承认, 接受, 允许进入, 容许
 vi. 开向, 容许, 承认"
-beg,"v. 乞求, 乞讨, 请求"
-swear,"vt. 发誓；咒骂
-vi. 发誓，宣誓；诅咒
-n. 宣誓；诅咒"
-spy,"n. 间谍, 侦探, 侦察
-vt. 侦察, 找出, 发现
-vi. 做密探, 侦查"
+beg,abbr. begin；beginning
+swear,"vt. 发誓, 咒骂, 使宣誓
+vi. 发誓, 诅咒
+n. 诅咒, 誓言"
+spy,"n. 间谍；密探
+v. 发现；从事间谍活动；搜集情报；突然看见
+[网络] 侦察；特务；侦探"
 truly,"adv. 真实地, 不假"
-forgive,"vt. 原谅, 宽恕, 免除
-[法] 免除, 宽恕, 原谅"
+forgive,"v. 原谅；宽恕；请原谅；对不起
+[网络] 饶恕；免除；赦免"
 sincerely,adv. 真诚地
-childhood,儿童期
-superb,超B
+childhood,"n. 孩童时期
+[医] 儿童期"
+superb,"a. 极度的, 华丽的, 极好的"
 focus,"n. 焦点, 焦距
 vi. 聚焦, 注视
 vt. 使聚焦, 调焦, 集中
@@ -35,7 +36,10 @@ guilty,"a. 犯罪的, 有过失的, 自觉有错的, 心虚的
 [法] 有罪的, 犯罪的, 自觉有罪的"
 cruel,"a. 残酷的, 令人极痛苦的
 [法] 残忍的, 残酷的"
-remark,[网络] 重新标记
+remark,"n. 评论, 注意
+vt. 评论, 注意
+vi. 评论, 谈论
+[计] 注释"
 dislike,"n. 嫌恶
 vt. 讨厌, 不喜欢"
 argue,"vi. 提出理由, 争论, 辩论
@@ -44,7 +48,8 @@ awkward,"a. 笨拙的, 棘手的"
 apologize,"vi. 道歉, 辩解"
 quarrel,"n. 吵架, 反目, 怨言, 方头凿
 vi. 吵架, 争论, 挑剔"
-sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
+sensitive,"a. 敏感的, 易感的, 灵敏的, 感光的
+[机] 敏感的, 灵敏的, 感度高的"
 athletic,a. 运动的
 envy,"n. 羡慕, 嫉妒
 vt. 羡慕, 嫉妒"
@@ -54,7 +59,8 @@ gifted,a. 有天才的
 disagreement,"n. 不合, 争论, 不一致
 [法] 不一致, 不同意, 陪审团的意见不一"
 before long,不久以后
-mailbox,"[计] 电子邮箱, 信箱区"
+mailbox,"na. 邮箱
+[网络] 信箱；邮筒；电子信箱"
 algebra,n. 代数学
 arithmetic,"n. 算术, 算术知识
 [机] 算术; 算术的"
@@ -62,36 +68,39 @@ Easter,n. 复活节
 amusement,"n. 兴味, 娱乐, 消遣
 [法] 娱乐, 娱乐活动"
 circus,"n. 马戏团, 马戏, 竞技场"
-online,"[经] (与主机)联机, 在线, 机内"
+online,"un. 在线的；联机；电站并网；机控
+[网络] 线上人数"
 identity,"n. 身份, 相同, 一致, 特性, 恒等式
 [计] (打)标记, 标识"
 absurd,"a. 荒谬的, 不合理的, 可笑的
 n. 荒诞"
 hopeless,"a. 无希望的, 绝望的, 不可救药的"
-overcome,"vt. 克服；胜过
-vi. 克服；得胜"
+overcome,"vt. 战胜, 克服, 胜过
+vi. 得胜"
 get through,"做完, 通过, 度过"
 acquaintance,"n. 认识, 相识者"
-twin,"n. 双胞胎中一人, 一对非常相像的人(或物)中的一个
-a. 双胞胎的, 成对的, 孪生的
-vi. 生双胞胎, 成对
-vt. 怀(双胞胎), 使成对"
-apartment,n. 公寓；房间
-topic,"n. 主题, 论题, 话题"
-attitude,"n. 态度, 看法, 姿势
-[医] 体态, 姿势, 态度"
+twin,"adj. 孪生之一的；双胞胎之一的；成对的；成双的
+v. 使结成姊妹城市；使结成友好地区；使（两人或两事物）紧密结合；使耦合
+n. 孪生儿之一；双胞胎之一；一对相像的事物之一
+[网络] 孪生的；双人房；双晶"
+apartment,"n. 房间, 公寓"
+topic,n. 主题（等于theme）；题目；一般规则；总论
+attitude,"n. 态度；看法；我行我素的做派；姿势
+[网络] 态度决定一切；厉害；标志"
 anchor,"n. 锚
 vt. 抛锚停泊, 使固定
 [计] 锚"
 be based on,"以…为基础,以…为根据"
 cautious,"a. 谨慎的, 小心的"
 eager,"a. 热心的, 渴望的, 热望的"
-worldwide, 全球的
+worldwide,a. 遍及全世界的
 adolescent,"a. 青春期的, 青少年的
 n. 青少年"
 respond,"vt. 以...回答
 vi. 回答, 响应, 回报, 有反应, 承担责任"
-pause,[网络] -暂停
+pause,"n. 暂停, 中止, 停顿, 间歇, 踌躇, 休止符
+vi. 暂停, 中止, 停顿, 踌躇
+[计] DOS内部命令:暂时停止批处理文件的执行"
 regardless,"a. 不管, 不注意, 不顾"
 security,"n. 安全, 安全性, 防护物, 保安, 可靠性, 担保人, 抵押品, 保证金
 [计] 安全性, 保密性, 安全检查程序"
@@ -99,8 +108,9 @@ end up,"竖着, 结束, 死"
 waiting room,"候车室, 等候室
 [医] 侯诊室, 等待室"
 rely,"vi. 信赖, 依赖, 信任"
-trolleybus,无轨电车
-revision,n. [印刷] 修正；复习；修订本
+trolleybus,n. 无轨电车
+revision,"n. 校订, 修正, 修订本, 修订版
+[计] 修订版"
 thanks to,由于
 committed,"a. 献身于某种事业的
 [计] 委托的"
@@ -108,7 +118,8 @@ mercy,"n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运
 [法] 权宜处置权, 决定权, 宽恕"
 apology,"n. 道歉, 辩护
 [法] 道歉, 谢罪, 辩解者"
-economy,[网络] 经济；电子经济
+economy,"n. 经济；节约；经济制度；节省
+[网络] 经济舱；我想坐一等舱；普通"
 spokeswoman,"n. 女发言人, 女代言人"
 consultant,"n. 顾问, 征询意见者
 [医] 顾问医师"
@@ -119,21 +130,24 @@ flow,"n. 流程, 流动, 流量, 洋溢, 泛滥, 涨潮
 vi. 流动, 流泄, 畅流, 川流不息, 飘扬, 涌出
 vt. 使流动, 淹没, 流出"
 billion,"num. 十亿, 十亿个"
-duty,"n. 责任, 关税, 职务, 尊敬
-[化] 职责"
+duty,"n. 责任；[税收] 关税；职务
+n. (Duty)人名；(英)迪蒂"
 cut back on,削减
-production,产物离子
-recycle, [电影]鬼域; 异域
+production,"n. 制造, 生产, 产物
+[医] 产生, 生成"
+recycle,"vt. 使再循环, 重新利用, 再制
+n. 再循环"
 pipe,"n. 管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器
 vt. 以管输送, 吹哨子, 吹奏, 尖声唱
 vi. 吹笛, 尖叫, 吹长哨发令
 [计] 管道"
 greedy,"a. 贪婪的, 贪得的, 贪吃的"
-businessman,"[经] 商人, 企业家"
+businessman,"n. 商人, 实业家, 工商业家"
 responsibility,"n. 责任, 职责, 负担, 可靠性
 [化] 职责"
 belief,"n. 信念, 相信, 信仰"
-environmental,[网络] 环保
+environmental,"a. 周围的, 环境的
+[经] 环境的, 环保的"
 operate,"v. 操作, 运转, 动手术, 活动"
 credit,"n. 信用, 信任, 荣誉, 贷款, 学分
 vt. 归功于, 赞颂, 信任, 相信
@@ -144,10 +158,11 @@ raw,"n. 擦伤处, 半成品
 a. 生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的
 vt. 擦伤
 [计] 写后读"
-seafood,"n. 海产食物,海鲜"
+seafood,"n. 海味, 海鲜, 鱼类"
 willing,"a. 乐意的, 自愿的, 甘愿的"
-tax,"n. 税, 税款, 重负, 会费
-vt. 课以税, 使负重荷, 斥责"
+tax,"n. 税；税款
+v. 课税；对…征税；使纳税；缴纳车辆牌照税
+[网络] 税收(taxation)；税金；税务"
 goods,"n. 货物
 [经] 货物, 商品, 动产"
 pump,"n. 泵；抽水机；打气筒；船鞋
@@ -155,9 +170,9 @@ v. 追问；盘问；用泵（或泵样器官等）输送；涌出
 abbr. (=politically upwardly mobile personality)政治新星
 [网络] 水泵；帮浦；泵浦"
 use up,"na. 用完；耗尽
-[网络] 用光；用尽；消耗"
-run out,"na. 耗尽；用光；过有效期；失效
-[网络] 用完；用尽；到期"
+[网络] 用光；消耗，耗费；毁灭"
+run out,"跑出, 离开, 流逝, 期满, 被用完, 被放出去, 伸向, 逐出
+[法] 背弃, 遗弃, 逃避"
 run out of,用完
 madam,"n. 女士, 夫人"
 arrival,"n. 到达, 抵达, 到达者
@@ -173,7 +188,9 @@ feather,"n. 羽毛
 vi. 长羽毛
 vt. 用羽毛装饰"
 tortoise,"n. 龟, 行动迟缓的人"
-blanket,[网络] 毛毯
+blanket,"n. 毛毯, 毯子
+vt. 掩盖, 覆盖
+a. 总共的"
 impress,"n. 印象, 特征, 印记
 vt. 使有印象, 印, 铭刻, 传送, 影响, 强征
 vi. 给人印象"
@@ -184,10 +201,9 @@ economic,"a. 经济上的, 实用的, 节省的
 conflict,"n. 战斗, 冲突, 矛盾, 争执
 vi. 争执, 战斗, 冲突, 抵触
 [计] 冲突"
-queue,"n. 辫子, 一队人, 队列
-vt. 使排队, 将...梳成辫子
-vi. 排队
-[计] 队列"
+queue,"n. 行列；（存储的数据）队列
+v. （人、车等）排队等候；（使）排队；列队等待
+[网络] 队列结构；长队"
 desertification,"n. （土壤）荒漠化, 沙漠化"
 crop,"n. 农作物, 产量, 平头
 vt. 收割, 修剪, 种植
@@ -199,8 +215,7 @@ vi. 击剑, 搪塞"
 soil,"n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池
 vt. 弄脏, 污辱
 vi. 变脏"
-bush,"n. 矮树丛
-[化] 管衬"
+bush,abbr. bushel(s)；bushing(s)
 decrease,"n. 减少, 减少量
 v. 减少"
 drill,"n. 钻孔机, 钻子, 播种机, 粗斜纹布
@@ -224,7 +239,7 @@ vi. 平行, 延伸, 漫游
 [计] 量程; 范围; 域; 距离"
 illegal,"a. 违法的, 不合规定的
 [经] 非法的, 犯规的"
-under way,"进行中, 在行进"
+under way,a. 航行中的；进行中的；起步的
 conservation,"n. 保护, 保存
 [医] 保存"
 dolphin,n. 海豚
@@ -235,7 +250,7 @@ appreciate,"vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏
 vi. 增值, 涨价"
 climate,"n. 气候, 社会趋势, 气候区
 [医] 气候"
-low-carbon, 低碳的
+low-carbon,a. 低碳的
 carbon,"n. 碳, 副本, 复写纸
 [化] 碳"
 dioxide,"n. 二氧化物
@@ -274,7 +289,8 @@ on the one hand ... on the other hand ..., 一方面…，另一方面…
 tissue,"n. 薄的织物, 薄纱, 棉纸, 组织, 一套
 [化] 组织"
 toy with,"玩弄, 不很认真地考虑"
-real-life,[计] 现实社会
+real-life,"adj. 实际的；非想像的
+[网络] 现实生活；真实；真知码"
 monster,"n. 怪物；巨人，巨兽；残忍的人
 adj. 巨大的，庞大的"
 exact,"a. 精确的, 准确的, 精密的
@@ -288,14 +304,15 @@ intention,"n. 意图, 目的, 含义
 [医] 愈合, 意向"
 anxiety,"n. 焦虑, 忧虑, 令人焦虑的事
 [医] 焦虑"
-saleswoman,女店员
+saleswoman,[网络] 女推销员；女店员；女营业员
 adopt,"vt. 采用, 正式通过, 收养, 接受
 [医] 采取"
 legal,"a. 法律的, 法定的, 合法的
 [经] 法定权利; 法律(上)的, 合法的"
 push ahead with,"推动, 推进"
-Italian,"n. 意大利人, 意大利语
-a. 意大利的, 意大利语的"
+Italian,"n. 意大利语；意大利人
+adj. 意大利的；意大利人的；意大利语的；意大利文化的
+[网络] 义大利文；义大利语"
 physician,"n. 医师, 内科医师, 解除痛苦者
 [医] 主治医师"
 goat,[网络] 职业倾向标准测试考卷
@@ -303,24 +320,28 @@ consequence,"n. 结果, 重要性
 [法] 结果, 后果, 推断"
 harvest,"n. 收获, 成果, 收获物, 收获期
 v. 收割, 收获"
-for sale,"待售
-[经] 出售, 待售"
-transform,[化] 反式; 反式异构体
+for sale,"na. 出售(的)
+[网络] 待售；供出售；出售的"
+transform,"vt. 使转换, 改变, 改造, 使...变形
+vi. 改变, 转化, 变换
+[计] 变换"
 concept,"n. 观念, 概念
 [医] 概念"
 crime,"n. 犯罪, 罪行, 罪恶
 [法] 犯罪, 罪, 罪恶"
-fellow,"n. 男人, 朋友, 同事
-a. 同伴的, 同事的, 同道的"
+fellow,"n. 家伙；同事；男人；同辈
+adj. 同类的；同事的；同伴的；同情况的
+[网络] 伙伴；会员；院士"
 profession,"n. 职业, 表白, 声明
 [化] 工种; 职业"
 radiation,"n. 辐射
 [化] 放射"
-breakthrough,"突围, 突破
-[计] 断缺"
+breakthrough,"na. 【军】突破(点)；(科技等的)重大发现；关键问题的解决
+[网络] 穿透；穿通；打破"
 original,"a. 最初的, 原始的, 有创意的
 n. 原物, 原作"
-judgement,判决，判断，评审
+judgement,"n. 审判, 判决, 判断
+[经] 判定, 审定, 鉴定"
 be burnt out,"被烧毁的
 精疲力竭的"
 get burnt out,无
@@ -337,9 +358,9 @@ a. 摘要的, 简略的
 [计] 摘要; 概要"
 consideration,"n. 考虑, 原因
 [法] 考虑, 思考, 报酬"
-hunger,"n. 饥饿, 渴望, 饥荒
-vt. 使挨饿
-vi. 挨饿, 渴望"
+hunger,"n. 饥饿；饥荒；渴求；饥饿感
+v. 饥饿；使饥饿；使因饥而… (into out of)
+[网络] 渴望；欲望；洪格尔"
 tasty,"a. 好吃的, 可口的"
 nutrition,"n. 营养, 营养学
 [医] 营养, 营养品"
@@ -361,14 +382,16 @@ agriculture,"n. 农业
 channel,"n. 海峡, 航道, 频道
 vt. 引导, 在...上挖沟, 形成河道
 [计] 信道, 通道"
-favour,[经] 利益
-point of view,"观点
-[法] 论点, 见解, 立场"
-catastrophe,n. 大灾难；大祸；惨败
+favour,"n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物
+vt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤"
+point of view,"na. 观点
+[网络] 视点；视角；主述观点"
+catastrophe,"n. 大灾难, 大祸
+[化] 突变"
 resource,"n. 资源, 财力, 办法, 策略, 急智, 消遣
 [计] 资源"
 acre,n. 英亩
-rainforest,雨林
+rainforest,"雨林, 热带雨林"
 income,"n. 收入, 收益, 流入
 [经] 收益"
 genetics,"n. 遗传学
@@ -383,9 +406,12 @@ insert,"n. 插入物
 vt. 插入, 把(人造卫星)射入(轨道), 添写
 vi. 附着
 [计] 插入"
-DNA,[网络] 神射之殇
-pest,[=proestrue]动情前期
-profit,[网络] 专家型；宝发实业有限公司
+DNA,abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局 （Defense Nuclear Agency）
+pest,"n. 令人讨厌之物, 有害之物, 害虫, 瘟疫
+[医] 鼠疫, 瘟疫"
+profit,"n. 利润, 赢利, 利益
+vi. 有益, 获利, 赚钱
+vt. 有益于"
 chain,"n. 链条；链子；锁链；一系列
 v. 用锁链拴住（或束缚、固定）
 [网络] 连锁；一连串；项圈"

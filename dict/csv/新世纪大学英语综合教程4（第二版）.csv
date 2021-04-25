@@ -19,22 +19,26 @@ stubbornly,adv. 倔强地；顽固地
 elemental,"a. 元素的, 基本的"
 hostile,"a. 敌人的, 怀敌意的, 敌对的
 n. 敌对分子"
-retreat,"n. 重新处理
-[网络] 重新治疗；重新提出了"
+retreat,"n. 休息寓所, 撤退, 隐居, 退避
+vi. 撤退, 隐退, 向后倾
+vt. 退(棋)"
 civilisation,"n. 文明, 文明世界, 文化, 开化, 教化"
 cut down,"na. 砍倒；削减；减价；夺去…活动力
 [网络] 减少；缩短；降低"
 irreplaceable,"a. 不能调换的, 不能代替的
 [法] 不能恢复原状的, 不能替代的, 无法弥补的"
 geological,"a. 地质学的, 地质的"
-transformation,n. [遗] 转化；转换；改革；变形
+transformation,"n. 变形, 变质, 变化, 改革, 变换
+[化] 转化; 变换"
 show signs of,显示…迹象
 show every sign of,无
 ominous,"a. 恶兆的, 不吉利的, 预兆的"
-so-called,adj. 所谓的
+so-called,"a. 所谓的, 号称的
+[法] 所谓的, 据称的"
 replaceable,"a. 可替换的, 可代替的, 可放在原处的
 [法] 可归原处的, 可替换的, 可撤换的"
-biosphere,[网络] 生活的生物圈
+biosphere,"n. 生物圈
+[医] 生物圈, 生物层"
 acute,"a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的
 [医] 急性的; 尖锐的"
 substance,"n. 物质, 实质, 主旨, 资产, 本质, 牢固
@@ -50,11 +54,16 @@ nylon,"n. 尼龙
 [化] 尼龙; 聚酰胺纤维"
 glitter,"n. 灿烂, 闪烁, 辉耀
 vi. 灿烂, 闪烁, 辉耀"
-output, [林]出材率
+output,"n. 输出, 产品, 产量
+[计] 输出"
 toxic,"a. 有毒的, 中毒的
 [医] 中毒的, 毒物的"
-cycle,[网络] -周期
-agent,[网络] 代理；智能体；软件代理
+cycle,"n. 周期, 循环, 自行车, 一段时间, 整套
+vi. 循环, 轮转, 骑自行车
+vt. 使循环, 使轮转
+[计] 环路; 周期; 循环"
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
 destruction,"n. 破坏, 毁灭
 [医] 破坏"
 enterprise,"n. 企业, 事业心, 进取心, 干事业
@@ -63,7 +72,8 @@ as yet,至今仍
 universe,"n. 宇宙, 星系, (思想等)范围"
 threaten,"vt. 恐吓, 威胁, 预示...的凶兆
 vi. 威胁, 恫吓, 可能来临"
-apt,[医] 明矾沉淀类毒素
+apt,"a. 有...倾向的, 易于的, 恰当的, 聪明的
+[计] 自动数控语言, 自动图象传输, 自动程序控制, 自动程序设计工具"
 oriental,"n. 东方人, 亚洲人
 a. 东方诸国的, 亚洲的, 东方的"
 eternal,"a. 永恒的, 永远的, 不灭的"
@@ -118,21 +128,27 @@ assimilation,"n. 同化, 同化作用, 吸收
 make no difference,没有影响
 for good or ill,"na. 好歹
 [网络] 不论好歹；不管怎样；孰好孰坏"
-downside,(三辊式机座的)机前侧
+downside,"n. 底侧；下降趋势；阴暗面；缺点
+[网络] 面侧"
 telemarketing,"n. 电话推销, 电话销售"
-theft,n. 盗窃；偷；赃物
+theft,"n. 盗窃, 失窃, 盗窃罪, 赃物
+[法] 盗窃行为, 偷窃, 失窃"
 come to mind,[网络] 想到；出现在脑海中；想起
 critique,"n. 评论文章, 评论"
 fragile,"a. 易碎的, 脆的
 [医] 脆弱的, 脆的"
-database,"[计] 数据库
-[化] 数据库"
-keystroke, 击键
+database,"n. 数据库
+[网络] 资料库；数据基；数据基础"
+keystroke,"n. 键击
+[计] 按键, 击键"
 disrupt,"a. 分裂的, 中断的
 vt. 使分裂, 使瓦解"
 fracture,"n. 破碎, 骨折
 v. (使)破碎, (使)破裂"
-mainstream, 干流; 主流
+mainstream,"n. 主流；(河流的)主流；干流
+v. 使…成为主流；将(残障儿童等)纳入正规班级
+adj. 主流的
+[网络] 主要有主流式；主流政党；主流菸"
 prominence,"n. 突起, 突出, 显著, 突出物, 凸出
 [医] 隆凸, 凸"
 gradual,"a. 逐渐的, 渐增的
@@ -147,7 +163,8 @@ build ... into, 使成为…的一部分
 acquisition,"n. 获得, 获得物
 [经] 收购, 招揽, 取得"
 annoying,"a. 恼人的, 讨厌的"
-health care, 卫生保健
+health care,"n. 医疗保健
+[网络] 卫生保健；健康照护；健保"
 nasty,表示u201c感性u201d：hyponasty
 rough,"n. 粗糙的东西, 毛坯, 未加工品, 梗概, 草图, 暴徒, 艰难
 a. 粗糙的, 粗暴的, 蓬乱的, 草率的, 大致的, 简陋的, 暴风雨的, 艰难的
@@ -170,7 +187,10 @@ vi. 伴奏, 伴唱"
 performer,"n. 表演者, 执行者, 完成者
 [法] 执行者, 履行者, 实行者"
 popularity,"n. 名声, 受大众欢迎, 流行"
-style," 表示：“…式样的”：familystyle; “按…式样”, “有点儿…地”; 表示“…柱式”,“…柱的”：distyle"
+style,"n. 风格, 时尚, 文体, 风度, 字体, 类型
+vt. 称呼, (根据新款式)设计, 使合潮流
+n. 风格, 样式
+[计] 风格, 样式"
 bored,a. 无聊的；烦人的；无趣的
 painter,"n. 画家, 油漆匠
 [机] 油漆匠, 喷漆匠"
@@ -178,8 +198,7 @@ be tired of,厌烦
 repeatedly,"adv. 重复地, 再三地"
 audience,"n. 听众, 观众, 读者
 [法] 听讼, 观众, 听众"
-turn away,"v. 转变方向
-[网络] 转过脸去；避开；走开"
+turn away,"离开,转变…的方向;不看;解雇,不许进入,不愿接受,走开,出发"
 momentary,"a. 瞬间的, 刹那间的"
 and so on,等等
 celebrity,"n. 名声, 名人"
@@ -188,22 +207,22 @@ vt. 注重，考虑；看待；尊敬；把…看作；与…有关
 vi. 注意，注重；注视
 n. (Regard)人名；(西、意)雷加德；(法)勒加尔"
 delighted,"a. 高兴的, 快乐的"
-privacy,"n. 隐私, 隐居, 秘密
-[计] 个人保密权"
+privacy,"n. 隐私；私密；不受公众干扰的状态
+[网络] 隐私保护；保密"
 sufficiently,"adv. 足够, 充分"
 launch,"n. 下水, 汽艇, 发射
 vt. 使下水, 发射, 发动
 vi. 起飞, 下水, 投入, 开始"
 grudging,"a. 不愿的, 勉强的"
-throw out,"na. 投出；拒绝；否决(议案)；派出
-[网络] 扔掉；赶走；扔出"
+throw out,"伸出, 扔掉, 说出, 解雇, 拒绝, 显示, 散发出, 放出, 派出, 使延伸, 打扰, 使出局
+[法] 否决, 发表, 拒绝"
 dull,"a. 钝的, 无趣的, 呆滞的, 阴暗的
 vt. 使迟钝, 使阴暗, 缓和
 vi. 变迟钝, 减少"
 target,"n. 目标, 靶子, 指标
 vt. 对准, 订指标"
 hang on,"v. 坚守；守住；坚持；支撑着
-[网络] 坚持下去；抓紧不放；等一下"
+[网络] 摩托车大赛；讨论页说明暂缓快速删除"
 for dear life," 为了逃命, 拼命地, 不顾死活地"
 in the strict sense,"严格说来, 按精确的意义"
 abolish,"vt. 废止, 革除, 消灭
@@ -239,13 +258,14 @@ mass society,"n. 一般社会,大众社会"
 ritualize,vt. 使仪式化
 grouse,"n. 松鸡, 牢骚
 vi. 埋怨"
-fashion,na. comb. F. 加在名词之后
+fashion,"n. 流行, 风尚, 时样
+vt. 形成, 造, 作"
 go in for,"参加, 追求, 从事, 赞成"
 hunting,"n. 狩猎, 猎狐, 探求
 [计] 寻找平衡; 寻找"
-hunt,"n. 狩猎, 追捕, 搜寻, 猎区
-vt. 狩猎, 打猎, 搜索
-vi. 打猎, 猎食, 搜寻"
+hunt,"n. 寻找；打猎；搜寻；搜索
+v. 打猎；搜寻；追捕；猎杀
+[网络] 狩猎诱饵鹅；狩猎诱饵鸭；猎人"
 aristocratic,"a. 贵族的, 主张贵族统绐的, 有贵族气派的"
 gamble,"n. 赌博, 冒险
 v. 赌博, 孤注一掷"
@@ -259,7 +279,8 @@ commit,"vt. 委托(托付), 犯罪, 指派...作战, 使承担义务
 [法] 犯, 做, 把...交托给"
 aggression,"n. 侵犯, 侵略
 [医] 攻击"
-smith,"comb. 表示""金属工匠"""
+smith,"n. 铁匠, 金属品工匠
+[机] 锻造工, 上手"
 aptly,"adv. 适当地, 适宜地"
 phrase,"n. 惯用语, 词组, 成语, 措词, 乐句
 vt. 用短语表达, 把(乐曲)分成短句
@@ -291,7 +312,8 @@ consumption,"n. 消费, 消费量, 痨病
 be of a piece,(与…)同一性质的；(与…)一致的
 be all of a piece,无
 wasteful,"a. 浪费的, 不经济的"
-suburban,[网络] 城市的近郊地区；城外
+suburban,"a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的
+n. 郊区居民"
 furnish,"vt. 供给, 提供, 装设
 [化] 供应; 供给; 配料"
 maintain,"vt. 维持, 维修, 保持, 坚持, 供养, 主张
@@ -302,15 +324,17 @@ vt. 把...加热, 使激动"
 couch,"n. 长沙发, 睡椅, 卧榻
 vt. 横躺, 表达
 vi. 躺下, 蹲伏"
-greenhouse, 温室，陶瓷生坯存放室
-clutter,"n. 杂乱
-vt. 弄乱, 使凌乱"
-cabinet,"n. 橱柜, 内阁
-a. 内阁的, 细木工做的
-[计] 机柜"
+greenhouse,"un. 温室；透明座舱罩
+[网络] 绿屋；亲子馆；温室烘"
+clutter,"n. 杂乱；杂乱的东西（尤指不需要的或无用的）
+v. 凌乱地塞满；乱堆放
+[网络] 混乱；一堆杂物；喧闹"
+cabinet,"n. 内阁；储藏柜；陈列柜
+adj. 内阁的；小房间用的；玲珑的；细木工做的
+[网络] 地柜；浴室柜"
 cosmetic,"n. 化妆品
 a. 化妆用的"
-over-the-counter, （买药）不用处方
+over-the-counter,"a. 不通过交易所而直接售给顾客的, 不需处方可以出售的(药)"
 wardrobe,"n. 衣橱, 衣室, 全部衣服"
 sift,"vt. 筛, 过滤, 撒, 详查
 vi. 筛, 被筛下, 精选"
@@ -318,18 +342,19 @@ discard,"vt. 丢弃, 抛弃
 vi. 垫牌
 n. 垫牌, 抛弃"
 keep track of sth.,了解
-dishwasher,洗碟机；洗碗人员
+dishwasher,"n. 洗碗机, 洗碗工"
 pottery,"n. 陶器, 陶器厂
 [化] 陶器"
 dryer,"n. 干衣机, 干燥剂
 [化] 干燥剂; 催干剂; 干燥器; 干燥设备; 烘箱"
-clothes dryer, 干衣机
+clothes dryer,衣服甩干机
 humidifier,"n. 增湿器, 湿润器
 [化] 增湿器"
-hairdryer, 干发器
+hairdryer,n. （吹干头发的）吹风机
 curler,"n. 卷发的人, 卷发夹子"
 electric curler,无
-curling iron, 电卷发器; 整发器
+curling iron,"n. 烫发钳；卷发钳
+[网络] 卷发机；卷发棒；卷发器"
 clippers,"n. 大剪刀, 修剪工具, 钳子, 轧刀"
 electric clippers,电动剪毛刀;电剪刀
 saturate,"vt. 使渗透, 浸透, 使充满, 使饱和
@@ -338,10 +363,12 @@ n. 饱和化合物, 饱和脂肪酸"
 temptation,"n. 诱惑, 诱惑物
 [法] 诱惑, 诱惑物"
 babysit,"vi. 担任临时保姆, 照顾婴儿"
-first-run,n. 首轮放映
+first-run,"n. 首轮
+a. 首轮的"
 in return,作为报答
 thrift,"n. 节约, 茂盛, 海石竹"
-thrift shop, <美>旧货店
+thrift shop,"na. 节俭商店
+[网络] 旧货店；二手店；二手货商店"
 yearn,"vi. 渴望, 想念, 怀念, 同情"
 simplify,"vt. 单一化, 简单化"
 sanction,"n. 核准, 制裁, 处罚, 约束力
@@ -357,33 +384,40 @@ dismount,"v. (使)下马
 [计] 卸除卷"
 live by,靠…为生
 hold fast to,紧紧抓住; 坚持(某种思想或原则等)
-all too,太
+all too,实在太…
 hospitalize,"vt. 送...进医院治疗
 [医] 入院"
 intensive,"adj. 加强的；集中的；透彻的；加强语气的
 n. 加强器"
-intensive care,n. 重病特别护理
+intensive care,adj. 对病人作特别护理的，拥有特别医疗设备和监护器械的
 additional,"a. 附加的, 另外的, 额外的
 [机] 加添的, 附加的"
-sunlight,[医] 日光
+sunlight,"n. 日光
+[网络] 阳光；日照；向阳"
 relish,"n. 滋味, 风味, 美味, 爱好, 食欲, 调味品
 vt. 调味, 喜欢, 玩味
 vi. 有味道"
-to and fro,来回
+to and fro,"a. 走来走去的, 来来往往的
+n. 来来往往, 往复"
 grandeur,"n. 庄严, 伟大, 壮丽"
 preoccupied,(pre-occupy 的过去分词) vt. 迷住；使全神贯注
 glean,"v. 拾落穗, 收集"
-commonplace,[网络] 公共位置；迷你涮涮锅；共同空间
+commonplace,"n. 老生常谈；司空见惯的事；普通的东西
+a. 平凡的；陈腐的"
 paradoxical,"a. 似非而是的, 矛盾的, 诡论的
 [医] 奇异的, 矛盾的, 逆理的, 反常的"
 awe,"n. ☉(对神等的)敬畏；(对权势等的)畏怯
 vt. 使敬畏，令人敬畏，对…充满敬畏之情；使充满畏惧，使畏怯：；使惊叹，使惊奇："
-command,[网络] 命令
-move along,"继续向前或后移动, 往里走"
+command,"n. 命令, 指挥, 控制, 部队, 司令部
+v. 命令, 指挥, 控制
+[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
+move along,"v. 往前移动
+[网络] 沿着；继续向前或后移动；走开"
 spouse,n. 配偶
 inevitability,"n. 无法逃避之事, 不可逃避, 必然性
 [法] 不能避免"
-fashion,na. comb. F. 加在名词之后
+fashion,"n. 流行, 风尚, 时样
+vt. 形成, 造, 作"
 finite,"a. 有限的, 有穷的, 限定的
 n. 有限物"
 weave,"n. 编法, 织法, 编织式样
@@ -391,7 +425,8 @@ vt. 编织, 组合, 编排, 使迂回前进
 vi. 纺织, 迂回行进"
 timeless,"a. 无时间限制的, 不受时间影响的, 永恒的"
 being,"n. 存在, 性质, 生命, 人, 生物, be的现在分词"
-becoming,[网络] 表示将要；就要来了；将要来
+becoming,"adj. 合适的，适当的
+n. （变化过程的）形成，发生"
 relentless,"a. 无情的, 冷酷的, 残酷的"
 live on,"继续生活, 以...为主食, 靠...生活"
 dim,"a. 暗淡的, 模糊的
@@ -413,8 +448,8 @@ privilege,"n. 特权, 特别恩典, 基本权利, 特免
 vt. 给与...特权, 特免"
 imprison,"vt. 使下狱, 关闭, 拘禁, 限制
 [法] 关押, 监禁, 限制"
-immediate,"a. 立即的, 直接的, 接近的
-[医] 直接的, 立即的"
+immediate,"adj. 立即的；立刻的；目前的；当前的
+[网络] 立竿见影；眼前"
 fall into,"落入, 陷于, 开始, 分成, 属于, 注入"
 put in touch with,无
 unburden,"vt. 使卸去负荷, 使安心, 吐露心事消除思想负担"
@@ -438,26 +473,103 @@ hygienic,"a. 卫生学的, 卫生的, 促进健康的, 清洁的
 [医] 卫生的"
 digestion,"n. 消化力, 领悟
 [化] 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化"
-sap,"abbr. scruple apothecaries' 英分,斯克鲁普尔(药量单位)"
+sap,"n. 树液, 体液, 活力, 坑道, 消弱, 警棍
+vt. 使排出体液, 使伤元气, 使衰竭, 挖坑道逼近, 逐渐侵蚀
+vi. 挖坑道, 消弱
+[计] 共享汇编程序, 结构分析程序, 符号汇编程序, 服务器广告协议"
 current,"n. 涌流, 趋势, 流
 a. 流通的, 现在的, 当前的, 流行的
 [计] 当前的"
-cliff,"n. 悬崖, 绝壁"
+cliff,"n. （常指海洋边的）悬崖
+[网络] 峭壁；绝壁；克里夫"
 meander,"n. (河流的)蜿蜒, 漫步, 迂回旅行
 vi. 蜿蜒流动, 漫步
 vt. 使蜿蜒曲折"
 rapids,n. 湍流；急流
 matrimony,"n. 结婚, 婚姻生活, 婚礼
 [法] 婚姻, 结婚, 婚礼"
-masterpiece,杰作
+masterpiece,"n. 杰作, 名著"
 palate,"n. 腭, 味觉, 趣味, 爱好
 [医] 腭"
 break off,"v. 断绝；摘；把…折断；使脱落
 [网络] 中断；突然停止；打断"
-net,"adj. 无虚价的；基本的；最后的；最后的(定论)
-n. 纯利；净值；实价；纯量
-v. 编网；编结网状物；〔诗〕成网状；撒(网)
-[网络] 网络；净重(Netweight)；球网"
+net,"Net
+[net]
+abbr.
+National Educational Television (美国)全国教育电视网
+n.
+因特网
+短语:
+surfing the Net
+上因特网，网上冲浪
+net1
+[net]
+n.
+网，罗网
+网子，网状物
+捕网，束缚
+网状织物；网眼花边
+(丝状体、血管等的)网状组织
+网状系统；通信网；广播网；间谍网
+互相交织的一组事物
+(网球、乒乓球等的)擦网球；落网球
+[用复数]【冰球】球门
+vt.
+把…织成网；编织；用网做：
+to net one's son a cap
+给儿子织一顶帽子
+(用网)遮盖，遮挡，围住：
+to net a place where a building is being built
+用网遮挡住正在盖楼的地方
+用网捕捉：
+to net birds
+用网捕鸟
+捕捉，诱捕；捕获：
+The police netted a drugpusher in the station.
+警方在火车站抓获了一名毒品贩子。
+(网状地)缠绕；笼罩：
+He was netted by an ill omen.
+一种不详的预兆萦绕着他。
+【广播、电视】联播(节目等)
+【体育】把(球等)击落网；把(球等)踢进网
+vi.
+织网：
+to net for fishing
+织网以备捕鱼
+联成通信网
+【体育】击球落网失分；踢球入网得分
+短语:
+spread one's net for someone
+为某人布置好圈套
+sweep everything into one's net
+网罗一切，把一切可以到手的东西都攫为己有
+变形：
+vt.
+netted
+. netting
+net2
+[net]
+adj.
+净的，纯的
+净重的
+以净价出售的
+最终的，结局的
+n.
+净收入，纯利；净值；净重；净价
+要点，要旨
+最终结果
+【高尔夫球】净得分
+vt.
+使净得，净赚：
+You will net ￡ 2 000 from the deal.
+在这笔交易中，你可净赚2 000英镑。
+使得到；获得：
+He netted the support of all of us.
+他得到了我们所有人的支持。
+变形：
+vt.
+netted
+. netting"
 affinity,"n. 吸引, 姻亲关系, 类同
 [化] 亲合力; 亲合能; 亲合势; 近似; 类似"
 akin,"a. 同类的, 同族的, 同源的"
@@ -468,8 +580,8 @@ predecessor,"n. 前任, 先辈, 前身
 [医] 初牙, 前辈, 祖先"
 liberalization,"n. 自由主义化, 宽大
 [法] 自由化"
-logic,"n. 逻辑；逻辑学；逻辑性
-a. 逻辑的"
+logic,"n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性
+[计] 逻辑"
 bear out,"na. 证明
 [网络] 证实；支持；证实是正确的"
 underlying,"adj. 潜在的；根本的；在下面的；优先的
@@ -483,12 +595,13 @@ vt. 驱策, 力劝, 竭力主张, 推动
 vi. 强烈要求"
 potential,"n. 潜在性, 可能性, 潜力, 潜能, 势, 位
 a. 有潜力的, 可能的, 潜在的"
-backlash,[化] 间隙; 齿隙; 丝隙
+backlash,"n. 后冲, 强烈反对
+[电] 反撞, 逆栅流"
 unattended,"a. 无人出席的, 无随员的, 无侍从的, 无伴的, 未被注意的"
 live up to,"实践, 做到"
 haves,n. 富人；富国
-have-nots,"n. 穷人；穷国
-[网络] 匮乏者；拥有者；没有者"
+have-nots,"(have-not 的复数) n. 穷人, 无恒产者, 贫穷国家
+[法] 无财产者, 贫民, 贫穷或缺乏资源的国家"
 gulf,"n. 海湾, 深渊, 漩涡, 隔阂
 vt. 吞没"
 impermeable,"a. 不能渗透的, 不能通过的
@@ -509,8 +622,8 @@ sustain,"vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许
 [电] 持续"
 expansive,"a. 扩张性的, 使扩大的, 广阔的
 [化] 膨胀的; 可以膨胀的"
-tear down,"na. 拆毁；扯下；猛冲
-[网络] 拆除；拆卸；拆除某物"
+tear down,"na. 扯下；拆毁；猛冲
+[网络] 拆除；拆卸；罐头卷封切割"
 Christian,"n. 基督徒, 正派人
 a. 基督的, 基督教的"
 Muslim,"n. 伊斯兰教, 伊斯兰教教徒"
@@ -520,8 +633,8 @@ interdependence,[网络] 相互依存；依赖；互相依赖
 pose,"n. 姿势, 姿态, 装模作样, 伪装
 vi. 摆姿势, 装模作样, 假装
 vt. 使摆好姿势, 提出, 造成"
-NGO,[网络] 非政府组织；非政府社福机构
-non-governmental organization,[网络] 非政府组织；非官方组织
+NGO,abbr. 民间组织；非政府组织（Non-Governmental Organization）
+non-governmental organization,[网络] 非政府组织；民间组织；非政府机构
 labour union,"工会
 [经] 工会, 工人联合会"
 sector,"n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段
@@ -569,7 +682,8 @@ in the name of,"以...的名义
 [法] 假借...名义, 以...的名义, 代表..."
 indivisible,"a. 不能分割的, 除不尽的
 [经] 不可分的, 除不尽的"
-insecurity,安全地
+insecurity,"n. 不安全, 不安全感
+[医] 不安全感, 无保障"
 regardless of,"不注意, 不关心"
 margin,"n. 页边的空白, 边缘, 界限, 余裕, 差数, 差额, 保证金
 vt. 加边于, 加旁注于
@@ -586,4 +700,7 @@ casualty,"n. 意外事故, 伤亡, 受害者
 [化] 事故"
 fabric,"n. 织物, 布, 结构, 构造, 建筑物
 [经] 组织, 建筑物, 工厂"
-restore,[网络] 再储藏；恢复
+restore,"vt. 回复, 恢复, 归还, 修补, 修复
+vt. 还原
+vi. 还原
+[计] 还原; DOS外部命令:从备份盘中取回文件"

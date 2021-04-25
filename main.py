@@ -1,12 +1,9 @@
-#  create by ourongxing
-#  detail url: https://github.com/ourongxing/maimemo-export
-
 import argparse
 import codecs
 import csv
 import os
 import sqlite3
-import sys
+
 
 class Generate(object):
     def __init__(self, path):
@@ -60,10 +57,14 @@ class Generate(object):
         cursor.execute(sql)
         result = cursor.fetchall()
         # 未找到
-        if result == []:
+        if result == [] or result == [(None,)]:
             return "无"
         else:
-            return result[0][0]
+            tmp = []
+            for exp in result:
+                if(exp != (None,)):
+                    tmp.append(exp[0])
+            return max(tmp, key=len)
 
     def gen_csv(self, book, result):
         if not os.path.exists(self.path + "/csv/"):

@@ -10,15 +10,16 @@ register,"n. 寄存器, 记录, 登记簿, 注册
 vt. 记录, 注册, 提示, 表达, 把...挂号
 vi. 登记, 注册, 挂号
 [计] 寄存器"
-sex,[网络] 性别
+sex,"n. 性别, 性欲
+vt. 区别...的性别, 引起...的性欲"
 female,"n. 女性, 女人, 雌性动物
 a. 女性的, 女子的"
 male,"n. 男人, 雄性动物
 a. 男性的, 雄性的, 有力的"
 nationality,"n. 国籍, 国家, 民族性
 [法] 国家, 民族, 国民"
-nation,"n. 国家, 民族
-[法] 民族, 国家"
+nation,"n. 国家；民族；国民
+n. (Nation)人名；(英)内申"
 designer,"n. 设计者, 谋划者, 制图者
 [计] 设计员"
 design,"n. 设计, 图样, 方案, 企图
@@ -39,38 +40,45 @@ senior,"n. 年长者, 资深者, 毕业班学生
 a. 年长的, 高级的, 资深的"
 senior high school,高中
 at last,终于
-outgoing,a. 外向的
+outgoing,"n. 外出, 开支, 流出
+a. 喜欢外出的, 即将离职的, 乐于助人的"
 impression,"n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果
 [医] 压迹, 印模, 印象, 影响"
 impress,"n. 印象, 特征, 印记
 vt. 使有印象, 印, 铭刻, 传送, 影响, 强征
 vi. 给人印象"
 make an impression,"给…留下印象,对…起作用"
-what if,如果…那又怎么样?即使…那又有什么关系?
-guy,"n. 家伙, 支索
-vt. 用支索撑住, 取笑, 嘲弄
-vi. 逃跑"
+what if,"如果...将会怎样?, 倘使...将会怎样?, 即使...又有什么要紧!"
+guy,"n. 家伙；男人；小伙子；拉索
+v. 逃走；用支索撑住；嘲笑；〈英〉把(某人)制成模拟像嘲弄
+[网络] 盖伊；牵索"
 concentrate,"n. 浓缩, 精选
 v. 集中, 专心"
 concentrate on,"集中, 全神贯注于"
 experiment,"n. 实验, 试验, 实验仪器
 vi. 实验, 尝试"
-leave ... alone, 置于不顾
+leave ... alone,"让独自呆着, 不打扰"
 awkward,"a. 笨拙的, 棘手的"
 junior,"n. 年少者, 地位较低者, 大学三年级学生
 a. 年少的, 下级的, 后进的"
-junior high school,初中
+junior high school,na. 〈美〉初级中学
 explore,"v. 探险, 探测, 探究"
 confident,"a. 有信心的, 有把握的"
-confidence,[网络] 有自信
-forward,[网络] 正激式；转寄
+confidence,"n. 信心；信任；秘密
+adj. （美）诈骗的；骗得信任的"
+forward,"adj. 向前的；早的；迅速的
+adv. 向前地；向将来
+vt. 促进；转寄；运送
+n. 前锋
+n. (Forward)人名；(英)福沃德"
 forwards,adv. 向前；今后
 look forward to," 期望, 盼望; 瞩望; 属望; 企"
-take notes,作笔记
-flash,"n. 闪光, 闪现, 一瞬间
-vi. 闪光, 闪现, 反射
-vt. 使闪光, 反射"
-flash card,[计] 闪光记录卡
+take notes,记笔记；作笔记
+flash,"n. 闪光；闪光灯；闪耀；（尤指信号灯）闪亮
+v. 闪光；掠过；（向…）用光发出（信号）；显示
+adj. 庞大的；昂贵的；穿着奢华的
+[网络] 闪存拨号；闪光系列；闪存盘文档"
+flash card,教学用的闪视卡片；单词或数目抽认卡；快闪储存卡
 organise,"vt. 组织, 有机化, 给予生机"
 organize,"vt. 组织, 有机化, 给予生机
 vi. 组织起来"
@@ -81,18 +89,25 @@ goal,"n. 目标, 终点, 得分, 球门, 守门员
 vi. 攻门, 射门得分"
 strategy,"n. 战略, 策略
 [经] 战略, 策略"
-partner,[网络] 拍挡；互牵内手成为舞伴；在活动中担当学生的伙伴
+partner,"n. 合伙人, 股东, 伙伴, 伴侣
+vt. 与...合伙, 组成一对
+vi. 做伙伴, 当助手"
 improve,"vt. 改良, 提高...的价值, 改善, 利用
 vi. 变得更好, 增加"
 curious,"a. 好奇的, 求知的, 古怪的"
-company,[网络] 同伴；公司；公司化
+company,"n. 公司, 友伴, 交往, 连队, 朋友, 一群
+vt. 陪伴
+vi. 交往"
 personality,"n. 个性, 人格, (团体、地方、国家)特有特性, 名人
 [医] 人格; 个性"
-style," 表示：“…式样的”：familystyle; “按…式样”, “有点儿…地”; 表示“…柱式”,“…柱的”：distyle"
+style,"n. 风格, 时尚, 文体, 风度, 字体, 类型
+vt. 称呼, (根据新款式)设计, 使合潮流
+n. 风格, 样式
+[计] 风格, 样式"
 revise,"n. 校订, 修正, 改样
 vt. 校订, 修正, 校正"
 teenage,"a. 青少年的, 十几岁的少年的"
-teenager,n. 十几岁的青少年；十三岁到十九岁的少年
+teenager,"n. 青少年, 十几岁的少女, 十几岁的少年"
 ballet,n. 芭蕾舞
 volunteer,"n. 志愿者
 a. 志愿的
@@ -107,21 +122,23 @@ content,"n. 内容, 满足, 意义, 要旨
 a. 满足的, 满意的
 vt. 使...满足, 使...安心
 [计] 内容"
-movement,[网络] 运动；活动化；移动
-greenhouse, 温室，陶瓷生坯存放室
+movement,"n. 运动, 动作, 运转, 移动, 倾向, 变化, 活动, 乐章
+[医] 运动"
+greenhouse,"un. 温室；透明座舱罩
+[网络] 绿屋；亲子馆；温室烘"
 clean up,"na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利
 [网络] 打扫；打扫干净；清除"
 suitable,"a. 适当的, 相配的
 [法] 合适的, 适宜的, 适当的"
 suitable for,适合...的
 actually,"adv. 事实上, 竟然, 如今, 现在"
-challenge,"n. 挑战, 盘问
-vt. 向...挑战, 要求, 怀疑
-vi. 挑战, 对(证据等)表示异议"
+challenge,"n. 挑战；质疑；质询；挑战书
+v. 考查；盘问；对…怀疑（或质疑）；拒绝接受
+[网络] 挑战啊"
 title,"n. 头衔, 名称, 标题, 书名, 扉页, 权利, 资格, 冠军, 字幕
 vt. 授予头衔, 加标题于
 [计] 标题"
-topic,"n. 主题, 论题, 话题"
+topic,n. 主题（等于theme）；题目；一般规则；总论
 freshman,"n. 新手, 生手, 大学一年级学生, (美)中学一年级学生"
 confusing,a. 令人困惑的；混淆的；混乱的
 confuse,"vt. 使混乱, 使狼狈, 使困惑
@@ -133,8 +150,8 @@ graduate,"n. 毕业生, 量杯
 a. 已得学位的, 研究生的, 毕业的
 vi. 毕业, 得学位, 逐渐变为
 vt. 准予...毕业, 授予...学位, 分等级, 刻刻度"
-recommend,"vt. 推荐, 介绍；劝告；使受欢迎；托付
-vi. 推荐；建议"
+recommend,"vt. 推荐, 介绍, 劝告, 使受欢迎, 托付
+[经] 建议, 推荐"
 sign up,"签约参加工作, 签约雇用"
 sign up for sth., 注册，选课；报名参加
 advanced,"a. 在前的, 高级的, 先进的, 年老的
@@ -145,7 +162,7 @@ vt. 使前进, 促进, 提出, 提高, 使提前, 预付
 a. 前面的, 预先的"
 literature,"n. 文学, 文艺, 著作
 [经] 广告, 商品介绍等文学"
-extra-curricular,a. 课外的
+extra-curricular,"a. 课外的, 业余的"
 extra,"n. 额外的事物, 另外的收费
 a. 额外的, 特别的
 adv. 额外地, 特别地, 非常地"
@@ -177,7 +194,8 @@ a. 赖以生存的"
 expert,"n. 专家, 行家
 a. 老练的, 内行的, 专门的
 [计] 高级"
-behaviour,作，行为；性能，特性，品质；状态，工况，运行情况
+behaviour,"n. 行为, 举止
+[计] 特性, 性能, 特点, 行为, 动作, 状态"
 generation,"n. 一代, 一世, 产生
 [医] 生殖, 世代"
 attract,"vt. 吸引, 诱惑
@@ -193,21 +211,29 @@ addicted,"a. 沉溺于...的, 无法摆脱(某种嗜好)的
 addict,"vt. 使沉溺, 使上瘾
 n. 入迷的人, 上瘾者"
 addicted to, 对···有瘾
-adult,"n. 成人, 成虫
-a. 成年的, 成熟的"
+adult,"n. 成人；长成体
+adj. 成年的；成熟的；理智的；成人的
+[网络] 成人诵读困；成人雨衣"
 Chicago,"n. 芝加哥
 [网络] 芝加哥合唱团；芝加哥市；芝加哥乐队"
 Seoul,n. 汉城
 castle,"n. 城堡, 象棋中的车
 vt. 置于城堡中, 盘踞于"
-apply,"vt. 涂, 应用
-vi. 申请, 适用"
+apply,"vt. 申请；涂，敷；应用
+vi. 申请；涂，敷；适用；请求"
 apply for,"申请,请求,要求…"
 visa,"n. 签证
 vt. 签发签证
 n. (Visa)人名；(塞、芬)维萨"
-rent,n. [口语]爸；妈
-pack,comb.form 表示“(瓶、罐头等)一箱”
+rent,"n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂
+vt. 租用, 租出
+vi. 出租
+a. 分裂的, 破裂的
+rend的过去式和过去分词"
+pack,"n. 包裹, 一伙, 一副, 背包, 包装
+vt. 包装, 捆扎, 塞满, 压紧, 挑选
+vi. 包装货物, 挤, 群集, 被包装
+[计] 压缩"
 amazing,a. 令人惊异的
 amazed,"a. 吃惊的, 惊奇的"
 arrangement,"n. 排列, 整齐, 安排
@@ -233,44 +259,56 @@ v. 使坐落在；为…选址
 take control of,"控制,掌管"
 official,"n. 官员, 公务员, 职员
 a. 公务的, 官方的, 正式的"
-recognise,[网络] 认识
-recognize,[网络] 重新认知；认清
-type," 表示：“典型”,“范例”,“样板”,“类型”：prototype; “版”,“铅字”,“印刷”：ferrotype"
+recognise,"vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言"
+recognize,"vt. 认出, 认可, 承认, 公认, 识别, 赏识
+vi. 承认, 具结"
+type,"n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
 flight,"n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝
 vi. 迁徙
 vt. 射击(飞禽), 为(箭)装上羽毛, 使惊飞"
 accommodation,"n. 膳宿, 预订铺位, 适应性调节, 调和, 贷款
 [医] 调节(眼); 适应"
 unique,"a. 独一无二的, 独特的, 稀罕的"
-path,n. 道路；小路；轨道
+path,"n. 路径, 小路, 道路, 途径, 路线, 轨道
+[计] 路径; DOS内部命令:设定DOS读取程序的路径"
 destination,"n. 目的地, 目标, 目的
 [计] 目的文件, 目的单元"
-other than,"不同于, 除了"
+other than,(人、物等)不同于…
 admire,"vt. 赞美, 钦佩, 爱慕
 vi. 称赞, 惊奇"
-architecture,"n. 建筑学, 建筑式样
-[计] 体系结构"
+architecture,"n. 体系结构；建筑学；建筑设计；建筑风格
+[网络] 建筑学概论"
 architect,"n. 建筑师, 设计者, 缔造者"
 brochure,"n. 小册子, 小册"
 package,"n. 包裹, 套装软件, 包, 包装用物, 程序包
 vt. 包装, 打包
 a. 一揽子的
 [计] 包, 软件包, 包装"
-package tour,由旅行社代办全部事宜的观光旅行
-contact,[网络] 装饰用套子
+package tour,"un. 包费旅行；包价旅游；包价旅行
+[网络] 跟团旅游；套装行程；包办旅行"
+contact,"n. 联系, 交际, 熟人, 接触
+vi. 接触, 联系
+vt. 使接触"
 civilisation,"n. 文明, 文明世界, 文化, 开化, 教化"
 civilization,"n. 文明, 教化
 [法] 文明, 文化, 文明国家的总称"
-make up,"na. 弥补；起草；定；签订
-[网络] 组成；化妆；编造"
+make up,"弥补, 赔偿, 配制, 包装, 编辑, 虚构, 缝制, 组成, 和解, 结算, 整理, 化装
+[经] 弥补, 赔偿, 内部运装"
 soldier,"n. 军人；[昆] 兵蚁；懒汉；一片烤面包
 vi. 当兵；磨洋工；坚持干；假称害病"
-transport,[网络] 运输
-transportation,输送，运输，运输工具
+transport,"n. 运输, 运输工具, 激动, 狂喜, 流放犯
+vt. 传送, 运输, 流放
+[计] 传送"
+transportation,"n. 运输, 输送, 交通车辆
+[经] 运转, 运输, 运输费"
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
 vt. 使高涨, 拉起"
-economy,[网络] 经济；电子经济
+economy,"n. 经济；节约；经济制度；节省
+[网络] 经济舱；我想坐一等舱；普通"
 economic,"a. 经济上的, 实用的, 节省的
 [经] 经济的"
 credit,"n. 信用, 信任, 荣誉, 贷款, 学分
@@ -278,11 +316,12 @@ vt. 归功于, 赞颂, 信任, 相信
 [计] 信用量"
 credit card,"[计] 信用卡, 记帐卡
 [经] 信用卡片, 赊购证, 购物信用卡"
-detail,"n. 细节，详情
-vt. 详述；选派
-vi. 画详图"
-check in,"登记, 报到
-[法] 登记, 报到, 住宿"
+detail,"n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
+check in,"v. 〔美国〕报到；(旅馆)登记；签到；登记归还
+[网络] 证实一下"
 check out,"na. 开支票(提款)；(旅馆)付账后离开；及格；〔美俚〕死
 [网络] 退房；检查；结帐"
 request,"n. 请求, 需要, 申请书
@@ -297,7 +336,7 @@ vi. 瞄准, 观看
 a. 即席的, 见票即付的"
 statue,"vt. 以雕像装饰
 n. 雕像"
-BCE,[网络] 请问补充维他命
+BCE,abbr. 化学工程学士（Bachelor of Chemical Engineering ）；土木工程学士（Bachelor of Civil Engineering）；公元前（ before common era）
 before the Common Era,无
 tomb,"n. 坟墓, 死亡
 vt. 埋葬"
@@ -315,8 +354,8 @@ the Amazon rainforest,无
 the Inca Empire,无
 Machu Picchu,"马丘比丘（古城, 位于秘鲁中部偏南）"
 Spain,n. 西班牙
-Spanish,"n. 西班牙人, 西班牙语
-a. 西班牙的"
+Spanish,"adj. 西班牙的；西班牙语的；西班牙人的
+n. 西班牙语；西班牙人"
 Cusco,库斯科[秘鲁南部城市](11世纪初起至16世纪为印加帝国首都)
 Lake Titicaca,无
 the Uros,无
@@ -332,8 +371,11 @@ badminton,n. 羽毛球运动
 marathon,"n. 马拉松, 耐力的考验"
 event,"n. 事件, 结果, 事情的进程, 竞赛项目
 [计] 事件"
-come along,v. 出现；一起来；陪伴；进步
-ski,[网络] -滑雪
+come along,"na. 进步；同意；一道来；请过来
+[网络] 出现；进展；快点"
+ski,"n. 滑雪橇
+vi. 滑雪
+adj. 滑雪（用）的"
 host,"n. 主人, 旅馆老板, 节目主持人
 vt. 当主人招待, 作...节目主持人
 [计] 主机, 宿主机"
@@ -350,12 +392,14 @@ work out,"v. 作出；拟定；制定；计划一下
 sweat,"n. 汗, 汗水, 水珠, 焦急
 vi. 出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼
 vt. 使出汗, 流出, 榨出, 使汗流浃背"
-make it,"及时抵达, 做成"
+make it,（病痛等）好转；达到预定目标；及时抵达；走完路程
 legend,"n. 传说, 传奇文学, 图例
 [计] 图例"
 athlete,"n. 运动员, 运动选手
 [医] 运动员"
-master,[网络] 主设备；万事达
+master,"n. 主人, 硕士, 大师, 母机
+a. 主人的, 主要的
+vt. 征服, 控制, 精通"
 set an example,以身作则
 honour,"n. 荣誉, 头衔, 信用, 尊敬, 名誉, 阁下, 勋章
 vt. 尊敬, 授予荣誉, 承兑, 实践"
@@ -369,27 +413,34 @@ vt. 保卫, 拥护
 a. 优胜的"
 determination,"n. 决心, 果断
 [化] 判定; 测定"
-apart, 一份；一部分
-fall apart,"崩溃, 土崩瓦解"
-injure,"[法] 在法律上, 依照法律"
+apart,"adv. 分开；分离；相距；不在一起
+adj. (与众)不同的
+[网络] 巴利文"
+fall apart,"na. 土崩瓦解
+[网络] 崩溃；破碎；四分五裂"
+injure,"vt. 伤害, 损害, 使受冤屈
+[医] 损伤"
 injured,"a. 受伤的, 受损害的, 被触怒的
 [法] 受害的, 被害的"
-injury,"n. 伤害, 侮辱
-[医] 伤, 损伤"
-captain,[网络] 队长；首领；头头
+injury,"n. 损伤；挫伤
+[网络] 伤害；受伤；损害"
+captain,"n. 船长, 指挥官, 海军上校, 首领
+vt. 率领, 指挥"
 lose heart,丧失勇气
 graceful,a. 优美的
 strength,"n. 力量, 实力, 强度, 浓度, 人数, 抵抗力
 [化] 强度"
-failure,[化] 事故; 失效
-give up,"na. 放弃；断绝；投降；自首
-[网络] 停止；抛弃；认输"
+failure,"n. 失败, 失败者, 不足, 缺乏, 破产
+[计] 故障; 失效"
+give up,"放弃, 停止, 献出, 抛弃, 认输, 把...送交
+[法] 放弃, 停止, 把...送交"
 compete,"vi. 竞争, 对抗"
 make sense,有意义
 pretend,"v. 假装, 伪称, 自命, 自称"
 pretend to do sth.,[网络] 假装做某事；假装干；假装去做某事
 even if,即使
-even though,"虽然, 尽管"
+even though,"na. “even if”的变体
+[网络] 纵然；即使；尽管"
 million,"n. 百万；无数
 adj. 百万的；无数的
 num. 百万
@@ -408,13 +459,14 @@ vt. 照规定饮食
 vi. 忌食"
 make a difference,"有区别,有很大关系"
 rather,"adv. 宁可, 稍微, 相当"
-rather than,与其...不如...
+rather than,"na. 而不
+[网络] 而不是；而非；宁愿"
 push-up,"v. 提高；强使(物价等)上升
 n. 【体】俯卧撑
 [网络] 向上推；伏地挺身；掌上压"
-cut ... out,"na. 割掉；除去；剪下；开辟
-[网络] 停止；删除；切掉"
-now and then,偶尔
+cut ... out,"切掉, 删掉, 裁剪出, 安排好, 使适合, 停止, 放弃, 取代, 使分离, 突然离开
+[建] 切断, 安全器"
+now and then,偶尔；有时
 compare ... with ...,"比较…,跟…相比,比得上…"
 compare ... to ..., 把…比作， 喻为; 与…相比
 jog,"n. 轻推, 轻撞, 慢跑
@@ -422,16 +474,18 @@ v. 轻推, (使)蹒跚行进, (使)慢跑"
 stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
 error,"n. 错误, 过失, 失误, 误差
 [计] 错误"
-disaster,n. 灾难，灾祸；不幸
+disaster,"n. 灾祸, 不幸, 彻底失败"
 tornado,"n. 旋风, 龙卷风, 大雷雨"
 tornadoes,"n. 龙卷风, 旋风( tornado的名词复数 )"
 tornados,"n. 龙卷风, 旋风( tornado的复数形式 )"
 drought,"n. 干旱, 缺乏"
-landslide,"滑坡,坍坡,土崩;崩坍"
+landslide,"n. 山崩
+[化] 滑坡"
 landfall,"[法] 土地所有权的获得, 初见陆地, 地崩"
-slide,"n. 滑, 滑道, 山崩, 雪崩, 幻灯片
-vt. 使滑动, 偷偷放入
-vi. 滑动, 滑落, 不知不觉陷入, 偷偷地走"
+slide,"n. 降低；跌落；衰落；滑动
+v. （使）滑行；（使）快捷而悄声地移动；逐渐降低；贬值
+adj. 滑动的；不稳定的
+[网络] 幻灯片；滑梯；滑落"
 tsunami,n. 海啸
 flood,"n. 洪水, 大量之水, 涨潮
 vt. 淹没, 使泛滥, 注满
@@ -443,21 +497,23 @@ rescue,"n. 援救, 解救, 营救
 vt. 援救, 救出, 营救"
 damage,"n. 损害, 伤害
 v. 损害"
-destroy,vt. 破坏；消灭；毁坏
+destroy,"vt. 破坏, 毁坏, 消灭"
 evacuate,"v. 疏散, 撤出, 排泄"
 helicopter,"n. 直升机
 vt. 由直升机运送
 vi. 乘直升机"
-death, [人名] 迪阿思
+death,"n. 死；死亡；死神；毁灭
+n. (Death)人名；(英)迪阿思"
 affect,"vt. 影响, 感动, 假装, 模仿, 爱好, 倾向于
 n. 自觉感情"
 shelter,"n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽
 vt. 庇护, 保护, 隐匿
 vi. 躲避"
-crack,"n. 裂缝, 爆裂声
-v. (使)爆裂, (使)裂开, (使)发出爆裂声
-a. 第一流的
-adv. 啪地一声"
+crack,"n. 裂缝；裂纹；缝隙；尝试
+v. 断裂；破裂；打击；崩溃
+adj. 训练有素的；技艺高超的；优秀的；一流的
+adv. 尖锐地
+[网络] 破解；裂痕；龟裂"
 as if,"na. 彷佛；活像
 [网络] 好像；仿佛；似乎"
 ruin,"n. 毁灭, 推翻, 废墟
@@ -469,9 +525,8 @@ percent,"n. 每百中, 百分之..., (英)利息...厘的证券, (非正式)百�
 brick,"n. 砖块, 积木
 a. 用砖做的
 vt. 用砖造, 用砖砌"
-metal,"n. 金属, 金属制品, 合金, 本质, 质料
-a. 金属制的
-vt. 以金属覆盖"
+metal,"na. 同“metallurgy”；“metall.”的变体
+[网络] 金属口；金属电台；金属探测器"
 shock,"n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗
 vt. 使震动, 使休克, 使受电击, 震惊得
 vi. 震动, 吓人
@@ -494,10 +549,13 @@ revival,"n. 复兴, 复活, 恢复精神, 苏醒
 effort,[网络] ef堡垒
 unify,"v. 统一, 使成一体"
 wisdom,"n. 智慧, 明智行为, 学识, 名言, 贤人"
-context,[网络] 语境；文化与境；历史文本的脉络交织
+context,"n. 上下文, 背景, 来龙去脉
+n. 上下文
+[计] 上下文"
 suffer,"vt. 遭受, 经历, 忍受
 vi. 受痛苦, 受损害"
-volcano,n. 火山
+volcano,"n. 火山
+[网络] 火山爆发；活火熔城；火山地带"
 erupt,"vi. 爆发
 vt. 喷出"
 supply,"n. 补给, 供给, 供应品
@@ -529,8 +587,9 @@ a. 平静的, 冷静的
 vi. 平静下来, 镇静
 vt. 使平静"
 aid,comb.form [多用以构成专有名词]表示“…的慈善机构”，“为…募捐”：Ferry-aid
-kit,"n. 装备, 工具箱, 成套工具
-[计] 成套部件; 成套零件"
+kit,"v. 装备
+n. 成套工具；配套元件；成套设备；全套衣服及装备
+[网络] 套装及附件；允许玩家使用所有物品包；厨房置物架"
 first aid kit,"un. 急救包；急救药箱
 [网络] 急救箱；医药箱；急救剂"
 on hand,"na. 现有；〈美〉出席；〈美〉在近处
@@ -555,7 +614,8 @@ struck,"a. 受罢工影响的
 strike的过去式和过去分词"
 struck,"a. 受罢工影响的
 strike的过去式和过去分词"
-stricken,adj. 患病的；受挫折的；受…侵袭的；遭殃的
+stricken,"a. 受打击的, 负了伤的, 衰老的, 受灾的
+strike的过去分词"
 deliver,"vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付
 [经] 交运"
 summary,"n. 摘要, 概要
@@ -569,7 +629,7 @@ Ecuador,n. 厄瓜多尔
 Memphis,n. 孟菲斯
 Alberta,n. 亚伯达（加拿大西部的一个省）
 Colombo,n. 科伦坡
-Sri Lanka,斯里兰卡
+Sri Lanka, [地名]斯里兰卡
 Indonesia,n. 印尼
 Thailand,n. 泰国
 Malaysia,"n. 马来西亚
@@ -579,8 +639,8 @@ Chandra Theeravit,无
 billion,"num. 十亿, 十亿个"
 native,"n. 本地人, 土产, 当地人
 a. 本国的, 与生俱来的, 自然的"
-attitude,"n. 态度, 看法, 姿势
-[医] 体态, 姿势, 态度"
+attitude,"n. 态度；看法；我行我素的做派；姿势
+[网络] 态度决定一切；厉害；标志"
 reference,"n. 参考, 索引, 参照
 vt. 给...加上参考资料
 vt. 引用
@@ -590,12 +650,14 @@ refer,"vt. 提交, 归诸于, 把...提交, 使求助于
 vi. 提到, 涉及, 查阅, 查询, 咨询"
 refer to,"v. 查阅；提到
 [网络] 参考；涉及；谈到"
-system,[网络] 系统；系统层
+system,"n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
 despite,"n. 轻视, 憎恨
 prep. 虽然, 尽管"
-ups and downs,"盛衰, 沉浮"
-factor,"n. 因素, 因数, 系数, 基因, 代理人
-[计] 因式"
+ups and downs,na. (人生等的)盛衰；(土地等的)高低；浮沉
+factor,"n. 因子；因素；系数；要素
+v. 【数】把…化为因子[因数]；为…充当代理商；代理经营；代管(产业)
+[网络] 因式"
 based, “驻(或设)在…的”，“以…为活动中心的”; “以…为基础”; [用以构成复合词]表示利用…为其主要手段的
 base,"n. 底部, 垒, 基础, 基地
 vt. 以...作基础
@@ -603,9 +665,13 @@ a. 卑鄙的, 低劣的
 [计] 基准"
 date back, 回溯至
 date back to ...,"始于,可以追溯到…"
-bone,二等
-shell,"abbr. (=she will [shall])
-[网络] 她将"
+bone,"n. 骨头, 骨, 骨制品
+vt. 剔骨
+vi. 专心致志"
+shell,"n. 贝壳, 壳, 外形, 炮弹
+vt. 去壳, 脱落, 炮轰
+vi. 剥落, 脱壳
+[计] 外壳; DOS内部命令:指定命令行处理程序"
 symbol,"n. 符号, 象征, 代号, 信条
 [计] 符号; 码元"
 carve,"v. 雕刻, 切开"
@@ -620,16 +686,18 @@ no matter where,无论哪里
 no matter who,conj. 不管是谁
 no matter what, 无论如何，不管怎样
 dialect,"n. 方言, 同源语"
-means,"n. 方法, 手段, 工具, 财产, 收入
-[经] 方法, 手段, 工具; 意谓"
+means,"n. 方法；方式；途径；财富
+v. “mean”的第三人称单数
+[网络] 手段；外箱尺寸"
 classic,"n. 古典作品, 杰作, 大艺术家
 a. 第一流的, 最优秀的, 古典的"
 regard,"n. 注意；尊重；问候；凝视
 vt. 注重，考虑；看待；尊敬；把…看作；与…有关
 vi. 注意，注重；注视
 n. (Regard)人名；(西、意)雷加德；(法)勒加尔"
-character,"n. 个性, 字符, 人物, 性质, 品格, 资格
-[计] 字符"
+character,"n. 性格，品质；特性；角色；[计] 字符
+vt. 印，刻；使具有特征
+n. (Character)人名；(英)克拉克特"
 calligraphy,"n. 笔迹, 书法"
 global,"a. 通用的, 全球的, 球形的, 综合的, 普遍的
 [计] 共用"
@@ -638,38 +706,49 @@ appreciate,"vt. 赏识, 鉴别, 为...而感激, 领会, 欣赏
 vi. 增值, 涨价"
 specific,"a. 特殊的, 特定的；明确的；详细的；[药] 具有特效的
 n. 特性；细节；特效药"
-CE,na. 构成抽象名词
+CE,"abbr. 英国国教会；英格兰圣公会；公元（表示日期时用法同 AD）
+[网络] 铈(Cerium)；毛细管电泳(capillary electrophoresis)；并行工程(Concurrent Engineering)"
 Common Era, 公元
 struggle,"n. 斗争, 努力, 奋斗
 vi. 努力, 奋斗, 挣扎"
 tongue,"n. 舌, 语言能力, 讲话方式, 语言
 vt. 舔, 斥责, 发...的音
 vi. 使用舌头, 吹管乐器"
-point of view,"观点
-[法] 论点, 见解, 立场"
+point of view,"na. 观点
+[网络] 视点；视角；主述观点"
 semester,n. 学期
-gas,[医] 全身适应综合征
+gas,"n. 气体；气体燃料；煤气；天然气
+v. 用毒气杀伤；使吸入毒气；闲聊；空谈
+abbr. (=gasoline)
+adj. 〈美俚〉喝醉酒的
+[网络] 汽油；四眼炉；气弹簧活塞"
 petrol,"n. 汽油
 [经] 汽油, 挥发油, 石油"
 subway,"n. 地铁, 地道
 vi. 乘地铁"
-underground, 地下
-apartment,n. 公寓；房间
-pants,[网络] -裤子
-beg,"v. 乞求, 乞讨, 请求"
-equal,"n. 对手, 匹敌, 同辈
-a. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的
-vt. 等于, 比得上
-[计] 等长度编码"
+underground,"adv. 在地下；秘密地
+adj. 地下的；秘密的；先锋派的
+n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体"
+apartment,"n. 房间, 公寓"
+pants,"n. 裤子, 长裤, 短衬裤, 女式运动短裤"
+beg,abbr. begin；beginning
+equal,"adj. （大小、数量、价值等）相同的；相等的；平等的；同等的
+v. 比得上；敌得过；导致；结果为
+n. 同等的人；相等物
+linkv. （大小、数量、价值等）与…相等
+[网络] 等同；一视同仁；a相等的"
 gap,"n. 缝隙, 缺口, 间断, 间距, 通用汇编程序
 vt. 打开缺口, 造成缝隙
 vi. 豁开
 [计] 通用汇编程序, 图形应用程序, 间距"
-demand,"n. 要求, 需求, 需要
-v. 要求, 查询"
+demand,"vt. 要求；需要；查询
+vi. 需要；请求；查问
+n. [经] 需求；要求；需要
+n. (Demand)人名；(德)德曼德"
 vocabulary,"n. 词汇(量), 词汇表
 [计] 词表"
-description,[网络] 描写；摹状词
+description,"n. 描述, 说明, 种类
+[经] 说明书(物品), 品名种类, 货物名称"
 relate,"vt. 讲, 叙述, 使互相关联
 vi. 有关, 符合, 相处得好"
 relate to,"na. 有关联；与…有关；理解
@@ -681,4 +760,4 @@ a. 丹麦的, 丹麦人的, 丹麦文的"
 Denmark,n. 丹麦
 Arabic,"n. 阿拉伯语
 a. 阿拉伯语的, 阿拉伯人的, 阿拉伯式的"
-FIFA,abbr. fieri facias (Latin=cause it to be done) （拉丁语）扣押债务人动产令
+FIFA,abbr. 国际足球联盟（Federation Internationale de Football Association）

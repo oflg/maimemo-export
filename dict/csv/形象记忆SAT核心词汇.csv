@@ -57,7 +57,7 @@ abundant,"a. 丰富的, 充分的, 大量的"
 abusive,"a. 恶言谩骂的, 被滥用的, 腐败的, 虐待的"
 abut,"v. 邻接, 毗邻"
 abysmal,"a. 深不可测的, 无底的"
-abyss,"n. 深渊, 深邃, 地狱"
+abyss,abbr. Abyssinia；Abyssinian
 academic,"a. 学院的, 学术的, 不切实际的
 n. 大学生, 大学教师, 学者, 学会会员"
 accede,"vi. 同意, 正式加入, 就任, 继任"
@@ -176,7 +176,8 @@ n. 附加物, 词缀"
 affliction,"n. 苦恼, 折磨, 苦恼的事由"
 affluence,"n. 富裕, 丰富, 流注
 [医] 丰富, 流入"
-agent,[网络] 代理；智能体；软件代理
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
 agglomeration,"n. 结块, 聚结, 大块
 [化] 附聚; 附聚作用; 烧结团聚; 烧结作用; 团聚"
 aggrandize,"vt. 增加, 夸大"
@@ -241,8 +242,7 @@ n. 回廊"
 ameliorate,"v. 改善, 改良, 改进"
 amenable,"a. 服从的, 会接纳的, 有义务的
 [法] 服从的, 有责任的, 有服从义务的"
-amend,"vt. 修改, 改善, 改良
-vi. 改过自新"
+amend,abbr. amendment(s) 改善，改正
 amenities,n. 令人愉快之事物（amenity的复数）
 amiable,"a. 亲切的, 和蔼可亲的
 [法] 亲和的, 和蔼可亲的"
@@ -286,7 +286,8 @@ a. 麻醉的"
 anguish,"n. 剧痛, 痛苦
 vt. 使极痛苦
 vi. 感到痛苦"
-angular,[网络] 矩形
+angular,"a. 有角的, 消瘦的, 有尖角的, 生硬的
+[医] 角的, 角形的"
 animated,"a. 活生生的, 能活动的, 活泼的, 欢快的"
 animosity,"n. 仇恨, 憎恶, 敌意"
 animus,"n. 基本态度, 敌意, 意向
@@ -299,8 +300,8 @@ annotate,"v. 作注解, 注释
 [计] 注释"
 annuity,"n. 年金, 年金保险, 年金领受权
 [医] 年金, 年俸"
-annul,"vt. 废除, 宣告无效, 取消
-[经] 撤销, 宣告无效"
+annul,"v. 废除；取消；宣告无效
+[网络] 废止；使无效；宣布无效"
 anoint,"vt. 涂油, 施以涂油礼
 [医] 涂油膏"
 anomalous,"a. 不规则的, 反常的
@@ -327,7 +328,7 @@ a. 似人的"
 anthropologist,n. 人类学家
 anthropomorphic,"a. 被赋于人形的
 [医] 有人形的, 类人的"
-anticlimax," 渐降法, 虎头蛇尾"
+anticlimax,"n. 突降法, 虎头蛇尾"
 antidote,"n. 解毒剂, 解毒药
 [化] 解毒药"
 antipathy,"n. 厌恶, 反感
@@ -350,7 +351,7 @@ apocalyptic,"a. 天启的, <<启示录>>的"
 apocryphal,"a. 伪的, 不足凭信的"
 apogee,"n. 远地点, 最高点, 极点
 [化] 远地点; 远核点"
-apolitical,[网络] 政治的
+apolitical,adj. 不关心政治的；无政治意义的
 apologist,"n. 辩护者, 教义辩护文作者
 [法] 辩护者, 辩解者"
 apotheosis,"n. 尊崇为神, 神化, 美化"
@@ -376,11 +377,12 @@ apprehend,"vt. 理解, 忧虑, 逮捕
 vi. 担心, 理解"
 apprenticeship,"n. 学徒身分, 见习(期)
 [经] 学徒制, 学徒期"
-apprise,vt. 通知
+apprise,"v. 通知；告知
+[网络] 报告；报告通知；使注意"
 approbation,"n. 认可, 满意
 [经] 许可, 认可, 批准"
-appropriate,"adj. 适当的
-vt. 占用；拨出"
+appropriate,"a. 适当的
+[经] 适当的, 拨出, 占用"
 apropos,"a. 适当的, 恰好的
 adv. 适当地, 恰好地"
 aptitude,"n. 资质, 才能, 自然倾向
@@ -483,17 +485,17 @@ vt. 为...作证"
 atypical,"a. 非典型的
 [医] 非典型的, 不标准的"
 audacious,"a. 大胆的, 鲁莽的, 胆大妄为的"
-audit,"n. 审计, 查帐
-vt. 查(帐), 旁听
-vi. 查账
-[计] 查帐; 审查; 检查"
+audit,"v. 审计；检查；〔美国〕(大学生)旁听(课程)
+n. 审计；(地主与佃户间的)决算
+[网络] 剧场椅"
 auditory,"a. 听觉的, 听觉器官的
 [医] 听[音]的, 听觉的"
 augment,"v. 增加, 增长
 [计] 增加; 增量; 添加"
 augury,"n. 预兆, 占卜"
-august,"n. 八月
-a. 威严的, 令人敬畏的"
+august,"adj. 威严的；令人敬畏的
+n. 八月（简写为Aug）
+n. (August)人名；(法、葡、西、俄、罗、英、德、瑞典、挪)奥古斯特"
 auroral,"a. 曙光的, 玫瑰红的, 极光的"
 auspicious,"a. 吉兆的, 幸运的"
 austere,"a. 严峻的, 禁欲的, 简朴的"
@@ -519,7 +521,7 @@ avenge,"vt. 为...报复, 报仇"
 averse,"a. 不愿意的, 反对的"
 aversion,"n. 厌恶, 讨厌的事, 讨厌的人
 [医] 厌恶, 移转, 移位"
-avert,vt. 避免，防止；转移
+avert,"vt. 转开, 避免, 防止"
 aviary,"n. 大型鸟舍, 鸟类饲养场"
 avid,"adj. 渴望的，贪婪的；热心的
 n. (Avid)人名；(俄)阿维德"
@@ -559,7 +561,10 @@ banal,"a. 平凡的, 陈腐的"
 bane,"n. 祸根, 毒药, 灭亡的原因, 灭亡
 [医] 毒物, 毒, 毒药"
 bantering,a. 开玩笑的
-barb,巴比
+barb,"adj. 具倒刺的；(话)带刺的
+n. （箭、钩的）倒钩；挖苦（或伤人、带刺）的话
+v. 在…上装倒钩；用刺耳之言伤(人)
+[网络] 意大利葡萄酒之；芭比；芭比粉红舞鞋"
 bard,"n. 吟游诗人, 诗人"
 barrage,"n. 弹幕, 掩护炮火
 vt. 以密集炮火进攻"
@@ -570,15 +575,16 @@ vt. 设路障于, 阻碍"
 barterer,n. 进行易货贸易者
 bask,"vi. 晒太阳, 感到舒适"
 bastion,"n. 棱堡, 阵地工事"
-bate,"vt. 减弱, 减少, 降低, 缓和
-n. 鹰的躁动, 大怒"
+bate,"v. 削弱；降低；衰弱；把(皮革)浸入软化液
+n. (使皮革软化的)脱灰碱液；〈英俚〉愤怒
+[网络] 减少；贝特；抑制"
 bauble,"n. 美观而无价值的东西, 玩具, 小玩意"
 bawdy,"a. 淫秽的, 言语猥亵的"
 beatific,"a. 至福的, 赐福的, 极乐的"
 beatitude,"n. 至福, 祝福"
 bedizen,vt. 俗丽地打扮(或装饰)
 bedraggle,vt. 弄湿
-beeline,捷径
+beeline,n. 笔直线
 befuddle,"vt. 使昏沉, 使迷惑, 使糊涂"
 beget,"vt. 为某人之生父, 招致, 产生, 引起"
 begrudge,"vt. 嫉妒, 羡慕, 勉强允给, 吝惜"
@@ -615,7 +621,7 @@ bereave的过去式和过去分词"
 berserk,"a. 狂暴的, 疯的
 adv. 狂暴地, 疯地"
 beseech,"v. 恳求, 哀求"
-beset,[网络] 准备好
+beset,"vt. 围绕, 使苦恼, 镶嵌"
 besiege,"vt. 围攻, 包围"
 besmirch,vt. 弄污
 bestial,"a. 似野兽的, 残忍的, 卑劣的"
@@ -626,7 +632,8 @@ betray,"vt. 出卖, 背叛, 辜负, 暴露
 bevy,n. 一群
 biased,"a. 有偏见的
 [计] 边缘的"
-bicameral,adj. 两院制的；有两个议院的
+bicameral,"a. 两院制的, 有两个议院的
+[医] 二室的, 两室的"
 bicker,"vi. 斗嘴, 潺潺而流, 闪动
 n. 口角, 流水声"
 biennial,"n. 两年生植物, 两年一次的事
@@ -640,8 +647,10 @@ billowing,"v. 在波涛中翻滚( billow的现在分词 ); 扬起, 鼓起; 潋�
 bivouac,"n. 野营, 露营, 露营地
 vi. 露宿"
 bizarre,a. 奇异的
-bland,"a. 温和的, 乏味的, 冷漠的
-[医] 温和的, 淡的"
+bland,"adj. 乏味的；温和的；冷漠的
+vt. 使…变得淡而无味；除掉…的特性
+vi. 变得平淡无奇；丧失特性
+n. (Bland)人名；(英)布兰德"
 blandishment,"n. 甜言蜜语, 谄媚, 奉承"
 blare,"n. 巨响, 吼叫声, 光泽
 vi. 高声鸣叫, 大叫
@@ -703,7 +712,7 @@ breadth,"n. 宽度
 [法] 违背, 违犯, 未遵守"
 brevity,"n. 短暂, 简短"
 brindled,"a. 有斑的, 有斑纹的"
-bristling,小鲱鱼
+bristling,"a. (毛发)直立的, 发怒的"
 brittle,"a. 易碎的, 脆弱的, 易坏的
 [机] 脆的, 脆性的, 易碎的"
 brochure,"n. 小册子, 小册"
@@ -753,7 +762,8 @@ cajole,"vt. 以甜言蜜语哄骗, 勾引"
 calamity,"n. 灾难, 不幸事件"
 calculated,"a. 有计划的, 适当的, 适合的, 计算出的
 [机] 算清了的"
-caldron,n. 大锅
+caldron,"n. 釜
+[网络] 大锅；海釜；煮汤用的大锅"
 caliber,"n. 口径, 才干, 水准
 [医] 管径, 口径"
 calligraphy,"n. 笔迹, 书法"
@@ -770,7 +780,7 @@ camouflage,"vt. 伪装, 掩饰
 n. 伪装, 伪装物, 幌子"
 candor,"n. 坦白, 直率"
 canny,"a. 精明的, 谨慎的, 节约的"
-cant,[网络] 不能
+cant,abbr. Canterbury；Canticles；Cantonese
 cantankerous,"a. 专爱唱反调的, 爱吵架的"
 canter,"n. 慢跑, 流浪汉
 vi. 慢跑
@@ -816,7 +826,8 @@ catalyst,"n. 触媒, 接触剂, 催化剂, 刺激因素, 促进因素
 [计] 催化剂"
 catapult,"n. 弹射器, 弹弓, 弩炮
 vt. 发射"
-catastrophe,n. 大灾难；大祸；惨败
+catastrophe,"n. 大灾难, 大祸
+[化] 突变"
 catcall,"n. 嘘声；不满之声；喝倒采
 vi. 发嘘声；发尖叫声
 vt. 发嘘声"
@@ -838,7 +849,8 @@ cavalcade,"n. 行列, 骑马行列, 一系列"
 cavalier,"n. 骑士, 骑手"
 cavil,"n. 无端的指责, 挑剔
 v. 吹毛求疵"
-cede,走
+cede,"vt. 割让
+[法] 割让, 让与, 放弃"
 celebrated,"a. 驰名的, 有名的"
 celerity,"n. 迅速, 快速"
 celestial,"a. 天的, 天国的, 天空的
@@ -869,8 +881,9 @@ cession,"n. 割让, 转让
 [经] 财产权利等的转让, 再保险"
 chafe,"n. 擦伤, 气恼
 v. 摩擦, 擦痛, 激怒"
-chaff,"n. 谷壳, 糠, 揶揄
-v. 开玩笑, 戏弄"
+chaff,"n. 箔条；开玩笑〔多指无恶意的〕；麻杆碎屑；不值钱的假货
+v. 戏弄；切碎
+[网络] 谷壳；糠；米糠"
 chaffing,"a. 诙谐的, 开玩笑的, 打趣的"
 chagrin,"n. 懊恼
 vt. 使懊恼"
@@ -910,7 +923,8 @@ v. 凿, 刻, 雕凿, 欺骗"
 chivalrous,"a. 骑士的, 勇敢的"
 choleric,"a. 易怒的
 [医] 胆汁质的, 急躁的"
-choreography,"n. 舞蹈艺术, 舞台舞蹈"
+choreography,"n. （尤指芭蕾舞的）编舞艺术
+[网络] 舞蹈编排；舞蹈设计；缤纷之舞"
 chortle,"vi. 咯咯笑
 n. 咯咯的欢笑(声)"
 chronic,"a. 慢性的, 习惯性的
@@ -955,8 +969,8 @@ clemency,"n. 仁慈, 宽厚, 仁厚"
 clench,"n. 牢牢抓住, 钉紧, 敲弯钉尖
 vt. 紧握, 牢牢地抓住, 确定, 敲弯
 vi. 握紧, 钉牢"
-cliche,"n. 陈腔滥调, 凸印版
-a. 陈腐的"
+cliche,"n. 陈词滥调；老生常谈
+[网络] 陈腔滥调；陈腐的；陈词滥调的"
 clientele,"n. 诉讼委托人, 客户
 [法] 委托人, 受保护者, 门徒"
 climactic,"a. 顶点的, 高潮的"
@@ -977,8 +991,8 @@ coagulate,"v. (使)凝结
 a. 凝结的"
 coalesce,"vi. 合并, 联合, 合生
 [计] 结合"
-coalition,"n. 结合体, 结合, 联合
-[经] 联合, 联盟"
+coalition,"n. 联盟；联合；结合；（两党或多党）联合政府
+[网络] 合并；同盟；结合体，同盟"
 coddle,"vt. 娇养, 溺爱, 用文火煮(蛋)"
 codicil,"n. 遗嘱的附录, 附录
 [经] 遗嘱更改"
@@ -1052,9 +1066,9 @@ compress,"vt. 压缩, 压紧
 vi. 受压缩小
 [计] 压缩程序"
 comprise,"vt. 包含, 构成"
-compromise,"n. 妥协, 折中, 折中方案, 和解
-vi. 妥协处理
-vt. 危害"
+compromise,"n. 妥协；和解；折中；互让
+v. 让步；违背（原则）；达不到（标准）
+[网络] 都做点妥协"
 compunction,"n. 良心的责备, 后悔, 悔恨"
 compute,"v. 计算, 估算
 n. 计算, 估算"
@@ -1081,8 +1095,7 @@ contusion,"n. 捣碎, 碾碎, 挫伤
 conundrum,"n. 谜语, 难题"
 convene,"vt. 集合, 召集, 召唤
 vi. 聚集, 集合"
-convention,"n. 大会, 协定, 惯例, 约定
-[计] 约定"
+convention,n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗
 conventional,"a. 传统的, 习惯的, 约定的
 [经] 惯例的, 常规的, 传统的"
 converge,"vi. 聚合, 集中于一点
@@ -1129,8 +1142,8 @@ corrosive,"a. 腐蚀的, 腐蚀性的, 有害的
 n. 腐蚀物, 腐蚀剂"
 corrugated,"a. 皱纹的, 波状的
 [医] 波纹的, 皱状的"
-cosmic,"a. 宇宙的, 宇宙航行的, 无限的, 有秩序的
-[医] 宇宙的"
+cosmic,"adj. 宇宙的；巨大且重要的
+[网络] 广大无边的；宇宙大；宇宙表"
 cosmopolitan,"a. 世界主义的, 世界性的, 全世界的, 遍生的, 不偏狭的, 卓有见识的
 n. 世界主义者, 世界性"
 coterie,"n. 同人, 圈内人, 小集团"
@@ -1164,9 +1177,11 @@ n. 污迹, 劣画"
 daunt,"vt. 威吓, 难倒, 使气馁"
 dauntless,"a. 不屈不挠的, 大胆的"
 dawdle,"v. 游手好闲, 混日子"
-deadlock, [体]难解难分
+deadlock,"n. 僵局, 停顿
+v. (使)停顿, (使)相持不下
+[计] 死锁"
 deadpan,adj.& adv. <美俚>面部无表情的[地]，不带感情色彩的[地]
-dearth,[网络] 三维地球
+dearth,"n. 缺乏, 粮食不足, 饥馑"
 debacle,"n. 崩溃, 大失败"
 debase,"vt. 贬低, 降低"
 debauch,"vt. 使堕落
@@ -1191,13 +1206,15 @@ decollete,"a. (女装)低颈或露肩的, 袒胸露背的"
 decomposition,"n. 分解, 腐败, 变质
 [化] 分解; 裂解"
 decorum,"n. 端正, 礼貌, 合宜, 礼仪"
-decoy,"n. 圈套, 诱骗
-vt. 诱骗"
+decoy,"n. 诱饵；假鸟；诱惑物；用作诱饵的人
+v. 引诱
+[网络] 障眼法"
 decrepit,a. 衰老的
 decrepitude,"n. 衰老, 老朽"
 decry,"vt. 反对, 责难, 诽谤, 诋毁"
 deducible,a. 可推论的
-deface,正面
+deface,"vt. 损伤外观
+[法] 毁伤外貌, 破坏外观, 涂污"
 defame,"vt. 诽谤, 中伤, 破坏名誉
 [法] 诽谤, 中伤, 诋毁名誉"
 default,"n. 违约, 不履行责任, 缺席, 默认值
@@ -1225,7 +1242,7 @@ vi. 偏斜"
 defoliate,v. (使)落叶
 defray,"vt. 支付, 支出
 [经] 支付或准备支付"
-deft,"a. 敏捷熟练的, 灵巧的"
+deft,abbr. defendant
 defunct,"a. 死的, 不能使用的
 n. 死者"
 defuse,vt. 平息；去掉…的雷管；使除去危险性
@@ -1402,9 +1419,9 @@ n. 无法相比的东西(或人)"
 disparity,"n. 不一致
 [医] 差异, 不等"
 dispassionate,"a. 冷静的, 不带感情的"
-dispatch,"vt. 派遣
-n. 派遣, 急件
-[计] 调度"
+dispatch,"n. 派遣；发送；电讯；快信
+v. 派遣；派出；发出；调遣
+[网络] 派往；总台"
 dispel,"vt. 驱散, 驱逐"
 disperse,"vt. 分散, 传播, 散开
 vi. 分散
@@ -1473,8 +1490,9 @@ domicile,"n. 住所, 住宅
 v. (使)定居"
 domineer,"vi. 跋扈, 作威作福
 vt. 盛气凌人"
-don,"n. 西班牙贵族(或绅士), 先生, 阁下
-vt. 穿上"
+don,"v. 披上；穿上；戴上
+n. （尤指牛津大学和剑桥大学的）大学教师；黑手党头目
+[网络] 不要太挑剔；不能太挑剔；禁止随意丢弃垃圾"
 doodle,"vi. 涂鸦, 混时间
 n. 傻子"
 dormant,"a. 睡眠状态的, 静止的
@@ -1488,7 +1506,8 @@ vi. 浸泡
 n. 泼洒"
 dowdy,"a. 过时的, 懒散的
 n. 懒散女人, 邋遢女人"
-downcast,"降水管（锅炉）, ［锅炉］降水管"
+downcast,"un. 降水管；下铸
+[网络] 向下类型转换"
 drab,"a. 土褐色的, 单调的"
 draconian,"a. 严厉的, 残酷的"
 dregs,n. 少量；渣滓；沉淀物（dreg的复数）
@@ -1527,7 +1546,8 @@ dynamic,"a. 动态的, 有活力的, 有力的, 动力的, 不断变化的
 n. 动力, 动态
 [计] 动态的"
 earthy,"a. 土的, 土质的, 土味的"
-ebb,[网络] 最高质量
+ebb,"n. 退潮, 衰退
+vi. 潮退, 衰退"
 ebullient,"a. 沸腾的, 热情的, 热情洋溢的"
 eccentric,"n. 怪人, 偏心圆
 a. 古怪的, 反常的, 不同圆心的"
@@ -1540,7 +1560,8 @@ a. 选择的, 折衷的"
 eclipse,"n. 日食, 月食, (地位名誉等的)消失
 vt. 引起日食, 引起月食, 使黯然失色"
 ecologist,n. 生态学者
-economy,[网络] 经济；电子经济
+economy,"n. 经济；节约；经济制度；节省
+[网络] 经济舱；我想坐一等舱；普通"
 ecstasy,"n. 狂喜, 心醉神迷, 忘形
 [医] 入迷"
 eddy,"n. 逆流, 漩涡
@@ -1574,7 +1595,8 @@ elixir,"n. 炼金药, 不老长寿药, 万能药
 [化] 酏剂"
 ellipsis,"n. 省略, 省略符号
 [计] 省略号"
-elliptical,[数] 椭圆形的
+elliptical,"a. 椭圆的
+[医] 椭圆形的"
 eloquence,"n. 口才, 雄辩术, 雄辩
 [法] 善辩, 口才"
 elucidate,"vt. 阐明, 说明"
@@ -1609,7 +1631,8 @@ emollient,"a. 使柔软的
 n. 软化剂, 润肤剂"
 empathy,"n. 移情作用, 共鸣
 [医] 移情, 神入"
-empirical,经验
+empirical,"a. 完全跟据经验的, 经验主义的
+[医] 经验主义的"
 emulate,"vt. 效法, 尽力赶上, 同...竞争
 [计] 仿真"
 enamored,"a. 倾心于...的, 被迷住的, 迷恋的"
@@ -1749,7 +1772,7 @@ evenhanded,"adj. 公正的
 evince,"vt. 表明(感情等), 表示出(特性等)"
 evocative,"a. 唤出...的, 唤起...的"
 ewe,n. 母羊
-exacerbate,vt. 使加剧；使恶化；激怒
+exacerbate,"vt. 使恶化, 使增剧, 激怒, 使加剧"
 exacting,"a. 苛求的, 吃力的"
 exalt,"vt. 提升, 提高, 赞扬, 使得意
 vi. 使人兴奋, 使人得意"
@@ -1793,14 +1816,17 @@ exotic,"a. 异国的, 外来的
 n. 外来人, 外来物, 舶来品"
 expansive,"a. 扩张性的, 使扩大的, 广阔的
 [化] 膨胀的; 可以膨胀的"
-expatriate,[网络] 最适合移居国外人士
+expatriate,"n. 移居国外者, 侨民, 被流放者, 背井离乡者
+vt. 逐出国外, 脱离国籍, 放逐
+vi. 移居国外"
 expedient,"n. 权宜之计
 a. 权宜的, 方便的, 有用的"
 expedite,"vt. 加快, 促进, 发出
 a. 畅通的, 无阻碍的, 迅速的, 方便的"
 expenditure,"n. 开支, 费用, 用光, 消费额
 [经] 支出, 费用, 消费"
-expertise,专家
+expertise,"n. 专家意见, 专门技术
+[法] 专门知识, 专家意见"
 expiate,"vt. 补偿, 赎
 vi. 抵偿, 赎罪"
 expletive,"a. 填补的, 多余的, 附加的, 补足的
@@ -1824,13 +1850,14 @@ extent,"n. 范围, 程度, 区域
 extenuate,"vt. 减轻, 为...找借口
 [法] 减轻, 低估, 藐视"
 extol,"vt. 颂扬, 称赞, 吹捧"
-extort,"vt. 勒索, 敲诈, 强要
-[医] 外旋"
+extort,"v. 勒索；敲诈；强夺
+[网络] 强取；强要；搜刮"
 extradition,"n. 引渡逃犯, 亡命者送还本国
 [法] 引渡"
 extraneous,"a. 外来的, 非必要的, 无关的
 [医] 体外的"
-extrapolation,外推法
+extrapolation,"n. 推断, 外推法
+[计] 外插法"
 extricate,"vt. 使解脱, 救出"
 extrinsic,"a. 外在的, 外来的, 非国有的, 外表的
 [医] 外部的, 体外的"
@@ -1849,8 +1876,12 @@ facetious,"a. 滑稽的, 爱开玩笑的"
 facile,"a. 容易的, 灵巧的, 温和的"
 facilitate,"vt. 使容易, 促进, 帮助
 [法] 使容易, 使便利, 推进"
-facsimile,[网络] 完全模仿；意思是；摹写本
-faction,n. 派别；内讧；小集团；纪实小说
+facsimile,"n. 摹(真)本, 传真
+vt. 传真, 临摹
+a. 复制的
+[计] 复制; 传真; 精确复制"
+faction,"n. 小派系, 内讧
+[法] 宗派, 派别, 小集团"
 fallacious,"a. 使人误解的, 谬误的, 不合理的, 骗人的"
 fallible,"a. 易错的, 可能犯错的"
 fallow,"n. 休耕地
@@ -1892,8 +1923,8 @@ fiasco,"n. 惨败, 大失败"
 fickle,"a. 变幻无常的, 浮燥的, 薄情的"
 fictitious,"a. 假想的, 编造的, 虚伪的
 [法] 假定的, 假设的, 虚构的"
-fidelity,"n. 忠实, 诚实, 忠诚, 保真度
-[电] 逼真度"
+fidelity,"n. 忠诚；忠实；忠贞；（对丈夫、妻子或性伴侣的）忠贞
+[网络] 富达；保真度；富达投资"
 figurative,"a. 比喻的, 象征的, 修饰丰富的"
 figurine,n. 小雕像
 filial,"a. 子女的, 当做子女的, 孝顺的
@@ -1906,7 +1937,8 @@ finesse,"n. 策略, 手段, (桥牌中的)飞牌
 v. 用计谋处理, 出小牌"
 finicky,"a. 过分注意的, 过分周到的, 过分讲究的"
 firebrand,火源(如燃烧树叶、木材及炭火火花等物质)
-fissure,分裂术
+fissure,"n. 裂缝, 裂沟
+v. (使)裂开, (使)分裂"
 fitful,"a. 断断续续的, 一阵阵的, 间歇的"
 flabbergasted,"a. 目瞪口呆, 惊愕"
 flaccid,"a. 软弱的, 没气力的, 无活力的
@@ -1962,11 +1994,13 @@ vt. 贴箔于, 衬托, 阻止, 挡开, 挫败"
 foliage,"n. 树叶, 植物"
 foment,"vt. 热敷, 煽动"
 foolhardy,"a. 愚勇的, 有勇无谋的"
-fop,[网络] 指深屈肌
+fop,"n. 自高自大的人, 花花公子"
 forbearance,"n. 节制, 自制, 忍耐
 [法] 债务偿还期的延展, 忍耐, 宽容"
-ford,[网络] 福特
-forebears,(fore-bear 的复数) n. 祖先；祖宗
+ford,"n. 福特[姓氏]；浅滩
+v. 涉(水)；渡河；津渡
+[网络] 福特汽车；福特汽车公司；福特公司"
+forebears,"n. 祖先, 祖宗( forebear的复数形式 )"
 foreboding,"n. 预感, 先兆, 预兆"
 forensic,"a. 辩论的, 法院的, 关于法庭的
 n. 辩论练习"
@@ -1977,7 +2011,8 @@ forlorn,"a. 孤独的, 悲惨的, 凄凉的"
 formality,"n. 礼节, 拘谨, 正式手续
 [化] 克式浓度"
 formidable,"a. 巨大的, 优秀的, 可怕的, 艰难的"
-forsake,[网络] 放弃抛弃为了；看在…的面上
+forsake,"vt. 放弃, 断念, 抛弃
+[法] 遗弃, 抛弃, 摒绝"
 forthright,"adv. 直率地, 直接地, 马上, 立即
 a. 直接的, 直率的, 坦白的
 n. 直路"
@@ -1986,8 +2021,9 @@ fortuitous,"a. 偶然的
 [医] 偶然的, 机会的"
 forum,"n. 论坛, 公开讨论的广场, 法庭, 讨论会
 [法] 讨论会, 专题讨论, 公共论坛"
-foster,"a. 收养的, 养育的
-vt. 养育, 抚育, 培养, 鼓励, 抱(希望)"
+foster,"vt. 培养；养育, 抚育；抱（希望等）
+a. 收养的, 养育的
+n. (Foster)人名；(英、捷、意、葡、法、德、俄、西)福斯特"
 founder,"n. 创立者, 建立者
 vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏
 vi. 沉没, 摔到, 变跛, 倒塌, 失败"
@@ -2027,7 +2063,8 @@ furtive,"a. 秘密的, 隐密的, 偷偷摸摸的"
 fusion,"n. 熔合物, 结合, 熔合
 [化] 熔融; 熔化; 聚变"
 futile,"a. 无用的, 琐细的, 不重要的"
-gadfly,[医] 虻
+gadfly,"n. 形似苍蝇, 牛虻, 讨厌的人
+[医] 虻"
 gaffe,"n. 过失, 失态, 出丑"
 gainsay,"vt. 否定, 反驳
 n. 否认, 反驳, 反对"
@@ -2091,9 +2128,9 @@ vi. 发微光"
 glossy,"a. 平滑的, 有光泽的"
 glower,"vi. 瞪眼, 怒目而视, 凝视
 n. 怒视, 热切的注视, 灯丝"
-glut,"n. 大量, 供过于求
-vt. 使充满, 使吃饱, 过多供应
-vi. 吃得过多, 狼吞虎咽"
+glut,"n. 供应过剩；供过于求
+v. 超量供应；充斥
+[网络] 葡萄糖转运子(glucose transporter)；葡萄糖转运蛋白；大量"
 glutton,"n. 暴食者, 酷爱...的人"
 gnome,"n. 格言, 箴言, 侏儒, 土地神"
 goad,"n. 赶牛棒, 激励, 刺激
@@ -2104,8 +2141,10 @@ vt. 塞饱, 狼吞虎咽地吃"
 gouge,"n. 圆凿, 用圆凿凿成的槽, 挖, 掘
 vt. 用圆凿削, 挖出, 欺骗"
 gourmet,n. 美食家
-graft,"n. 嫁接, 贪污
-v. 嫁接, 移植, 贪污"
+graft,"vi. 移植；嫁接；贪污
+vt. 移植；嫁接；贪污
+n. 移植；嫁接；渎职
+n. （非正式）脚踏实地地埋头苦干"
 grandeur,"n. 庄严, 伟大, 壮丽"
 grandiloquent,"a. 大言不惭的, 夸张的, 夸大的"
 grandiose,"a. 宏伟的, 壮丽的, 夸张的
@@ -2172,8 +2211,8 @@ haughtiness,"n. 傲慢, 不逊"
 hazardous,"a. 危险的, 冒险的, 碰运气的
 [法] 危险的, 冒险的, 碰运气的"
 hazy,"a. 朦胧的, 模糊的, 烟雾弥漫的"
-headlong,"adj. 轻率的；头向前的；匆促而用力的
-adv. 头向前地；猛然用力地"
+headlong,"a. 头向前的, 仓猝而用力的, 轻率的
+adv. 头向前地, 猛然地, 用力地"
 headstrong,"a. 顽固的, 刚愎的, 任性的"
 heckler,n. 激烈质问者
 hedonist,"n. 快乐主义者, 享乐主义者"
@@ -2202,8 +2241,8 @@ histrionic,"a. 演员的, 演剧的, 矫揉造作的
 n. 演员, 演剧, 戏剧性"
 hoard,"n. 贮藏物, 密藏的金钱
 v. 囤积, 贮藏"
-hoax,"vt. 愚弄；欺骗
-n. 骗局；恶作剧"
+hoax,"vt. 欺骗, 哄骗, 愚弄
+n. 愚弄人, 恶作剧"
 hodgepodge,"n. 大杂烩；混煮；一团糟
 vt. 使混乱"
 holster,n. 手枪皮套
@@ -2219,17 +2258,19 @@ vt. 当主人招待, 作...节目主持人
 [计] 主机, 宿主机"
 hostility,"n. 敌意, 敌对, 反对"
 hovel,"n. 简陋小屋, 杂物间, 家畜小屋"
-hover,"vi. 盘旋, 翱翔, 徘徊
-vt. 孵
-n. 翱翔"
+hover,"v. 盘旋；徘徊；犹豫；巡弋
+[网络] 翱翔；悬停；盘旋于"
 humane,"a. 有人情的, 人道的, 仁慈的"
-humdrum,[网络] 单调乏味
+humdrum,"a. 平凡的, 单调的, 令人厌烦的
+n. 平凡, 单调, 无聊
+vi. 单调令味地进行"
 humid,"a. 潮湿的, 湿润的, 多湿气的"
 humility,"n. 谦逊, 谦虚, 谦卑"
 hurtle,"vi. 猛冲, 碰撞, 突进
 vt. 猛撞, 猛投
 n. 投掷, 碰撞, 碰撞声"
-husband,[网络] 外子
+husband,"n. 丈夫, 管理人, 节俭的人
+vt. 节俭, 使成丈夫, 持有"
 hybrid,"n. 混血儿, 杂种, 混合物
 a. 混合的, 杂种的, 混合语的
 [计] NetWare的主机实用程序, 双重用户建立程序"
@@ -2237,7 +2278,8 @@ hyperbole,n. 夸张法
 hypochondriac,"n. 疑病症患者, 忧郁症患者
 [医] 疑病患者, 疑病的, 季肋部的"
 hypocritical,"a. 伪善的, 伪善者的"
-hypothetical,[数] 假设的
+hypothetical,"a. 假设的, 有待证实的, 假定的, 有前提的
+[计] 理想的"
 ichthyology,"n. 鱼类学
 [医] 鱼类学"
 icon,"n. 画像, 肖像, 偶像, 图标, 像标
@@ -2334,7 +2376,8 @@ impugn,"vt. 责难, 抨击, 攻击
 [法] 驳斥, 指责, 非难"
 impunity,"n. 不受惩罚, 无事, 无患
 [法] 不受刑罚, 免罚, 免罪"
-inane,adj. 空洞的，空虚的；愚蠢的
+inane,"a. 空虚的, 愚蠢的, 空洞的
+n. 空洞乏物"
 incandescent,"a. 白热的, 闪闪发光的, 辉耀的, 灿烂的
 [医] 白炽的, 白热的"
 incantation,n. 咒语
@@ -2349,7 +2392,7 @@ vi. 焚香
 vt. 用香焚, 使发怒"
 incentive,"n. 动机
 a. 激励的"
-inception,初始位置
+inception,"n. 起初, 获得学位"
 incessant,"a. 不断的, 不绝的, 无尽的"
 inchoate,"a. 刚开始的, 不成熟的, 未发达的
 [经] 不完整"
@@ -2433,7 +2476,8 @@ n. 极小量, 极微量, 无限小"
 infirmity,"n. 虚弱, 病身, 疾病
 [医] 衰弱"
 inflated,"a. 膨胀的, 充了气的, 夸张的, 通货膨胀的"
-influx, 冻结磁通
+influx,"n. 流入, 河口, 汇集
+[医] 注入, 流入"
 infusion,"n. 注入, 泡制, 注入物
 [化] 浸渍; 浸泡"
 ingenious,"a. 灵敏的, 精巧的, 聪明的"
@@ -2484,8 +2528,7 @@ vi. 成一体
 a. 完整的, 完全的"
 integrity,"n. 正直, 廉正, 完整
 [计] 完整性"
-inter,"vt. 埋葬
-prep. 在中间"
+inter,abbr. intermediate；interrogation；interrogative
 interim,"a. 暂时的, 临时的, 间歇的
 n. 过渡时期"
 interloper,"n. 闯入者, 好事者, 无执照营业者
@@ -2560,7 +2603,8 @@ juncture,"n. 接合, 连接, 接缝"
 junta,"n. 以武力政变上台的(军)政府, 私党, 阴谋小集团, 政务会"
 jurisprudence,"n. 法律学, 法律体系
 [医] 法学, 法律学"
-justification,n. 理由；辩护；认为有理，认为正当；释罪
+justification,"n. 辩护, 证明正当, 释罪
+[计] 调整"
 kaleidoscope,n. 万花筒
 kindle,"vt. 点燃, 使着火, 引起, 照亮
 vi. 着火, 激动, 发亮"
@@ -2568,7 +2612,8 @@ kindred,"n. 家族, 相似, 亲戚关系
 a. 同族的, 同类的, 血缘的"
 kinetic,"a. 运动的, 运动引起的, 动力学的, 活动的
 [医] 运动的, 动的, 动力的"
-kleptomaniac,有窃盗癖者
+kleptomaniac,"n. 有窃盗癖的人
+[医] 偷窃狂者"
 knave,"n. 恶棍, 骗徒, (纸牌的)杰克
 [法] 流氓行为, 无赖, 恶棍"
 knit,"v. 编织, 结合"
@@ -2579,8 +2624,8 @@ laceration,"n. 划破, 割破, 裂伤撕碎
 [医] 撕裂, 裂伤"
 lachrymose,"a. 爱哭的, 悲哀的"
 lackadaisical,"a. 懒洋洋的, 愁闷的, 伤感的"
-lackluster,"n. 无光泽；暗淡
-adj. 无光泽的；平凡的"
+lackluster,"a. 没有光泽的, 无生气的, 平凡的
+n. 无光泽, 无生气, 暗淡"
 laconic,"a. 简洁的, 简明的"
 laggard,"n. 迟钝者, 落后者
 a. 迟钝的, 落后的"
@@ -2600,7 +2645,8 @@ laud,"n. 赞美, 称赞
 vt. 赞美, 称赞"
 lavish,"a. 大方的, 丰富的, 浪费的
 vt. 浪费, 滥用, 慷慨给予"
-lax,[网络] 洛杉矶国际机场；点由洛杉矶
+lax,"a. 松的, 不严格的, 腹泻的, 松弛的
+n. 腹泻, 松元音"
 leaven,"n. 酵母, 促使渐变的因素
 vt. 使发酵, 渐变"
 leery,"a. 机敏的, 猜疑的, 狡猾的"
@@ -2637,7 +2683,7 @@ limber,"a. 柔软的, 敏捷的, 富于弹性的
 vt. 使柔软
 vi. 做准备活动"
 limpid,"a. 清澈的, 透明的, 平静的"
-linchpin, 开口销; 车轴销
+linchpin,"n. 制轮楔, 关键"
 lineage,"n. 血统, 直系
 [法] 血统, 世系"
 linger,"vi. 逗留, 消磨, 徘徊
@@ -2659,7 +2705,10 @@ litigation,"n. 诉讼, 起诉
 loath,"a. 不情愿的, 厌恶的"
 loathe,"vt. 厌恶, 憎恶"
 lofty,"a. 高的, 傲慢的, 崇高的, 高级的, 玄虚的"
-log, = -logue
+log,"n. 记录, 圆木, 日志, 计程仪
+vt. 伐木, 切, 航行
+vi. 伐木
+[计] 日志"
 loiter,"v. 闲荡, 虚度, 徘徊"
 loll,"vi. 懒散地闲荡, 垂下头, 伸舌
 vt. 垂, 伸, 靠着"
@@ -2684,10 +2733,11 @@ vi. 笨拙地移动, 喧闹地向前走, 隆隆地移动"
 luminary,"n. 发光体, 杰出人物"
 luminous,"a. 发光的, 明亮的
 [医] 发光的"
-lunar,[地名] 卢纳河 ( 巴西 )
+lunar,"a. 阴历的, 月的, 微亮的(指光)
+[医] 月的, 银的"
 lunge,"n. 刺, 刺进, 跃进, 套马索
 v. 突进, 刺"
-lurid,"a. 火烧似的, 苍白的, 华丽的, 可怕的"
+lurid,adj. 可怕的，耸人听闻的；火烧似的；苍白的；血红的；华丽而庸俗的
 lurk,"n. 潜伏, 潜行
 vi. 暗藏, 潜伏, 埋伏
 [计] 隐匿阅读"
@@ -2716,7 +2766,8 @@ malapropism,n. 文字的错用
 malcontent,"a. 抱不平的, 不满的, 不服的
 n. 不满现状的人"
 malediction,"n. 咒, 坏话"
-malefactor,[网络] 男性因素；男性原因
+malefactor,"n. 罪人, 犯人, 坏人
+[法] 罪犯, 作恶者"
 malevolent,"a. 有恶意的, 坏心肠的"
 malfeasance,"n. 不正当, 不法行为, 坏事, 渎职
 [经] 不法行为, 违法乱纪"
@@ -2767,8 +2818,8 @@ vt. 打伤, 粗手粗脚地摆弄, 抨击"
 maverick,"n. 未烙饲主印记的小牛, 持不同意见的人
 vi. 迷路"
 mawkish,"a. 淡而无味的, 令人作呕的, 感伤的"
-maxim,"n. 格言, 座右铭
-[法] 格言, 准则, 原则"
+maxim,"n. 格言；准则；座右铭
+n. (Maxim)人名；(英、罗、俄、哈萨)马克西姆"
 meager,"a. 质量差的, 贫乏的, 不毛的, 瘦的"
 meander,"n. (河流的)蜿蜒, 漫步, 迂回旅行
 vi. 蜿蜒流动, 漫步
@@ -2821,7 +2872,8 @@ microcosm,"n. 小宇宙, 小世界, 人类"
 migrant,"n. 候鸟, 移居者
 [法] 移居者"
 migratory,"a. 迁移的, 流浪的"
-milieu,n. 环境；周围；出身背景
+milieu,"n. 周围, 社会环境, 环境, 表达的手法
+[医] 环境"
 militant,a. 好战的
 mimicry,"n. 模仿
 [医] 拟态(生物), 模仿, 模拟"
@@ -2901,9 +2953,10 @@ n. 困惑, 混浊状态"
 muggy,a. 闷热的
 multifaceted,n. 多方面的、多元化的
 multifarious,"a. 多种的, 各种各样的, 许多的"
-multiform,[网络] 多窗体；形式千变万化；多重窗体
-multilingual,"adj. 使用多种语言的
-n. 使用多种语言的人"
+multiform,"a. 各种形式的, 多样的, 多种的
+[医] 多形的"
+multilingual,"n. 多种语言的
+[网络] 多语言；跨语言体；多语人"
 multiplicity,"n. 相重性, 多重性, 多样
 [化] 多重态; 多重性"
 mundane,"a. 现世的, 世俗的, 宇宙的"
@@ -2941,7 +2994,10 @@ neutral,"adj. 中立的，中性的；中立国的；非彩色的
 n. 中立国；中立者；非彩色；齿轮的空档"
 nicety,"n. 美好, 准确, 精密, 拘泥细节, 纤细"
 nihilist,n. 虚无主义者
-nip,[网络] 化学镀；化学镀镍；镍磷
+nip,"n. 捏, 夹, 寒冷, 尖刻话
+vt. 捏, 夹, 钳, 剪断, 损伤, 冻伤, 一小口
+vi. 夹, 捏, 刺骨, 快走, 一小口一小口地抿(酒)
+[计] 核心程序的初始程序"
 nirvana,n. 天堂
 nocturnal,"a. 夜的, 夜曲的
 [医] 夜间的"
@@ -2950,11 +3006,12 @@ nomadic,"a. 游牧的, 游牧生活的, 流浪的
 [医] 游动的, 无定的, 游离的"
 nominal,"a. 名义上的, 名字的, 有名无实的, 稍许的
 n. 名词性词"
-nonchalance,n. 冷淡；漠不关心；冷静
-nondescript,[网络] 难以描述；设计成四不像
+nonchalance,"n. 不关心, 冷淡, 无动于衷"
+nondescript,"a. 莫可名状的, 难以区别的
+n. 难以名状的事物, 不属任何类型的人"
 nonentity,n. 不存在；虚无；无足轻重的人
-nonplus,"n. 迷惑；困惑
-vt. 使困惑"
+nonplus,"vt. 使困惑
+n. 迷惑, 困惑"
 nostalgia,"n. 乡愁, 向往过去, 怀旧之情
 [医] 怀乡病"
 notable,"n. 著名人士, 值得注意之事物
@@ -3003,7 +3060,8 @@ vi. 打扰, 强行闯入"
 odyssey,n. 奥德赛(古希腊史诗)
 offensive,"a. 令人不快的, 侮辱的, 攻击性的
 [法] 攻击的, 进攻的, 冒犯的"
-offhand,"不假思索地, 无准备地"
+offhand,"a. 即时的, 即席的, 无准备的, 随便的, 简慢的, 不友好的
+adv. 即时地, 即席地, 随便地"
 officious,"a. 多管闲事的, 非官方的
 [法] 非官方的, 非正式的"
 olfactory,"a. 嗅觉的, 味道的
@@ -3034,10 +3092,11 @@ ordeal,"n. 严酷考验, 痛苦经历, 煎熬
 ordinance,"n. 法令, 条例, 圣餐礼
 [经] 法令, 条款, 条例"
 orgy,"n. 无节制, 狂欢, 纵酒宴乐, 放荡"
-orient,"n. 东方, 东方诸国
-a. 东方的
+orient,"vt. 使适应；确定方向；使朝东
+n. 东方；东方诸国
+adj. 东方的
 vi. 向东
-vt. 使朝东, 使适应, 确定方向"
+n. (Orient)人名；(西)奥连特；(法)奥里安"
 ornate,"a. 装饰的, 华丽的"
 ornithologist,n. 鸟类学者
 orthodox,"a. 正统的, 传统的, 惯常的"
@@ -3054,16 +3113,16 @@ oust,"vt. 逐出, 罢黜, 剥夺, 驱逐
 outlandish,"a. 外国气派的, 偏僻的, 古怪的"
 outmoded,"adj. 过时的，不流行的
 v. 使不流行（outmode的过去分词）"
-outskirts,[网络] 外裙
-outspoken,[网络] 直言的
+outskirts,"n. 近郊, 市郊"
+outspoken,"a. 直言无讳的, 坦率的, 坦白无隐的"
 outstrip,"vt. 追过, 胜过, 凌驾"
 outwit,"vt. 瞒骗, 以智取胜"
 ovation,"n. 热烈欢迎, 大喝采, 小凯旋式"
 overbearing,"adj. 傲慢的；压倒一切的
 v. 压住；否定；专横地对待；繁殖过度（overbear的ing形式）"
-overt,"a. 明显的, 公然的, 蓄意的
-[法] 明显的, 公开的"
-overwrought, 神经紧张的，忧虑的，烦恼的
+overt,"adj. 公开的；明显的；不隐瞒的
+[网络] 公然的；显性；显性的"
+overwrought,"a. 过分劳累的, 过度紧张的, 神经质的, 过度兴奋的, 过分推敲的, 不自然的"
 pachyderm,"n. 厚皮类动物, 迟钝的人, 脸皮厚的人"
 pacifist,"n. 和平主义者, 反战论者, 不抵抗主义者"
 paean,"n. 凯歌, 欢乐歌, 赞美歌"
@@ -3095,8 +3154,11 @@ paramount,"n. 首长, 最高当局
 a. 最重要的, 最高的, 至上的"
 paranoia,"n. 偏执狂, 多疑症
 [法] 妄想狂, 偏执狂"
-paraphrase,[网络] 转述策略
-parasite,n. 寄生虫；食客
+paraphrase,"n. 释义, 解述, 改写
+vt. 改写, 解述
+vi. 释义, 意译"
+parasite,"n. 寄生生物, 寄生虫, 食客
+[医] 寄生物; 寄生胎"
 parched,"a. 炒过的, 焦的, 干透的"
 pariah,"n. 贱民(印度的最低阶级), 被放逐者"
 parity,"n. 同等, 同位, 平价, 奇偶性
@@ -3188,7 +3250,7 @@ pertinacious,"a. 坚持不放的, 执拗的, 顽固的, 顽强的, (疾病)难�
 pertinent,"a. 相关的, 中肯的, 切题的
 [法] 恰当的, 有关的"
 perturb,"vt. 扰乱, 使混乱, 使心绪不宁"
-peruse,[网络] 每一使用
+peruse,"vt. 熟读, 精读, 阅读, 仔细研究"
 pervasive,"a. 普遍的, 流行的, 到处蔓延的, 到处渗透的"
 perverse,"a. 乖张的, 故意作对的, 有悖常情的, 执迷不悟的, 歪曲的, 错误的, 不正当的
 [法] 邪恶的, 罪恶的:堕落的, 不合法的"
@@ -3204,7 +3266,8 @@ philanthropist,"n. 慈善家, 博爱主义者, 乐善好施的人
 philology,"n. 语文学, 文献学"
 phlegmatic,"a. 粘液质的, (正式)平静的, 不动情的, 不动感情的, 冷漠的, 冷淡的, 迟钝的
 [医] 粘液质的, 迟钝的"
-phobia," 表示“恐惧”, “憎恶”"
+phobia,"n. 恐怖病, 恐惧症, 惧怕, 憎恶
+[医] 恐怖[症]"
 phoenix,"n. 凤凰, 不死鸟, 死而复生的人, 完人, 殊品"
 phylum,"n. (生物分类上的)门, 语系
 [医] 门[生物分类]"
@@ -3278,8 +3341,9 @@ vi. 炫耀自己"
 prate,"vi. 唠叨, 空谈
 vt. 瞎扯
 n. 唠叨, 空谈, 瞎扯"
-preamble,"n. 引言, 序文, 前言
-[计] 前同步; 前同步信号"
+preamble,"n. 序言；前言；绪论；导言
+v. 作序言[绪论]
+[网络] 前导码；前文；前同步码"
 precipitate,"n. 沉淀物, 凝结物, 结果
 vt. 猛抛, 使陷入, 促成, 使沉淀
 vi. 猛地落下
@@ -3291,7 +3355,8 @@ preclude,"vt. 预先排除, 预防, 阻止, 妨碍
 [法] 预防, 排除, 消除"
 precocious,"a. 早熟的, 像大人的
 [医] 早熟的"
-precursor,[网络] 前体；前光标；前导
+precursor,"n. 先驱者, 前导, 前兆
+[化] 前体; 前身; 产物母体"
 predator,"n. 食肉动物, 掠夺者
 [医] 捕食者"
 predicament,"n. 处境, 穷境, 困局"
@@ -3318,8 +3383,8 @@ prestige,"n. 声望, 威望, 威信
 [经] 商誉, 声誉"
 pretentious,"a. 自负的, 自命不凡的, 夸耀的"
 preternatural,"a. 超自然的, 异常的"
-pretext,"n. 借口；托辞
-vt. 以…为借口"
+pretext,"n. 借口, 托词
+v. 以...为借口"
 primordial,"a. 原始的, 自原始时代的
 [医] 原始的"
 probe,"n. 探索, 调查, 探针, 探测器
@@ -3376,10 +3441,11 @@ prostrate,"a. 拜倒的, 降伏的, 俯卧的, 衰竭的, 沮丧的
 vt. 弄倒, 使屈服, 使俯伏, 使平卧"
 protean,"a. 千变万化的, 变化不定的, (海神)普罗透斯的
 [化] ┚(音田)"
-protocol,"n. 草案, 礼仪, 协议
-v. 拟定
-[计] 协议, 协议列表实用程序"
-prototype,"原型;样机,试制型"
+protocol,"n. 议定书；礼仪；外交礼节；条约草案
+v. 打(草稿)；(把…)记入议定书
+[网络] 协议；协定；通讯协定"
+prototype,"n. 原型
+[计] 样机; 原型"
 protract,"vt. 延长, 拖延, 伸出, 绘制
 [法] 延迟, 拖延, 延长"
 protrude,"vi. 伸出, 突出
@@ -3479,8 +3545,8 @@ n. 反抗者, 顽抗者"
 recant,"vt. 放弃
 vi. 放弃信仰, 撤回声明, 公开认错"
 recapitulate,"v. 重述要点, 概括, 摘要"
-recast,"vt. 重铸；彻底改动
-n. 重铸；重做的事物"
+recast,"vt. 重铸, 重作, 改造
+n. 重铸, 改换角色"
 receptive,"a. 能接纳的
 [医] 接受的, 感受的"
 reciprocal,"a. 互惠的, 相互的, 相等的, 倒数的, 彼此相反的
@@ -3502,14 +3568,16 @@ refraction,"n. 折光, 折射
 [医] 折射, 屈光"
 refrain,"n. 重复的话, 叠句, 副歌
 vi. 节制, 避免, 克制"
-refurbish,vt. 刷新；再磨光
+refurbish,"vt. 再磨光, 刷新"
 refute,"vt. 反驳, 驳斥；驳倒"
 regime,"n. 政权, 当权期间, 政体, 社会制度, 体制, 情态
 [医] 制度, 生活制度"
 rehabilitate,"vt. 恢复原状, 修复, 使康复
 [法] 恢复, 使恢复心理健康, 修复"
-reimburse,vt. 偿还；赔偿
-reiterate,vt. 重申；反复地做
+reimburse,"vt. 付还, 偿还, 赔偿
+[经] 偿付, 赔还, 付还; 偿还"
+reiterate,"vt. 反复地说, 重申, 反复地做
+[法] 重述, 重申, 反覆地做"
 rejoinder,"n. 回答, 答辩, 答复
 [法] 答辩, 反驳, 第二次答辩"
 rejuvenate,"vt. 使年轻, 使复原, 使恢复精神
@@ -3548,7 +3616,11 @@ vi. 垫牌, 声明放弃权利
 n. 垫牌"
 renown,"n. 名声, 声望
 vt. 使有声望"
-rent,n. [口语]爸；妈
+rent,"n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂
+vt. 租用, 租出
+vi. 出租
+a. 分裂的, 破裂的
+rend的过去式和过去分词"
 reparable,"a. 可修缮的, 可赔偿的, 可补偿的
 [法] 可修补的, 可补救的, 可纠正的"
 repel,"vt. 逐退, 抵制, 使厌恶, 抗御
@@ -3565,7 +3637,8 @@ repository,"n. 贮藏所, 贮物器, 仓库, 博物馆, 店铺, 陈列室, 资�
 [经] 仓库, 栈房, 贮藏所"
 reprehensible,"a. 应斥责的, 应该谴责的
 [法] 应受严责的, 应受指责的, 应受申斥的"
-repress,vt.&vi. 再压：重新压印
+repress,"vt. 镇压, 抑制, 压制
+vi. 压制"
 reprieve,"n. 缓刑, 缓刑令, 暂缓
 vt. 暂时解救, 缓期执行"
 reprimand,"n. 谴责, 惩戒, 非难
@@ -3591,13 +3664,16 @@ a. 必要的, 需要的"
 rescind,"vt. 废止, 使无效, 取消, 撤消, 解除
 [经] 取消, 废除"
 resentment,"n. 怨恨, 愤恨"
-reserve,[网络] 再服务
+reserve,"n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金
+vt. 保留, 保存, 预订, 延期, 推迟"
 residue,"n. 残渣, 剩余, 余数
 [化] 残基; 残渣; 残液; 釜液"
 resigned,"(re-sign 的过去时) vt. 再签署, 再签字"
 resilient,"a. 弹回的, 有弹力的
 [医] 回弹的, 回能的"
-resolution,[网络] 再溶解；稀土溶液
+resolution,"n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解
+n. 图形分辨率
+[计] 图形分辨率"
 resolve,"vi. 决定, 分解, 决心
 vt. 使分解, 解析, 解决, 消除, 决心
 n. 决定之事, 决心, 坚决"
@@ -3610,7 +3686,7 @@ restitution,"n. 归还, 偿还, 赔偿
 restive,"a. 不愿向前走的, 倔强的, 难驾御的"
 restraint,"n. 抑制, 克制, 束缚
 [医] 约束, 拘束"
-resurge,vi. 复活；再起
+resurge,"vi. 再起, 复活, 复生"
 retain,"vt. 保持, 保有, 留住, 记得, 付定金聘请
 [经] 保留, 留存"
 retentive,"a. 保持的, 有保持力的, 记性好的"
@@ -3740,7 +3816,8 @@ vt. 警戒, 守卫
 [计] 标记"
 serendipity,"n. 偶然发现珍宝的运气/才能, 易遇奇缘的运气"
 serenity,"n. 宁静, 沉着, 晴朗"
-serrated,齿形的
+serrated,"a. 锯齿状的
+[医] 锯齿状的"
 servile,"a. 奴隶的, 奴性的, 卑屈的"
 servitude,"n. 奴隶状态, 惩役, 地役权
 [法] 苦役, 劳役, 奴役"
@@ -3819,8 +3896,9 @@ vi. 窃笑
 vt. 窃笑着说"
 snivel,"vi. 流鼻涕, 哭泣
 n. 流鼻涕, 哭泣, 假哭"
-sodden,"adj. 浸透的；浑身湿透的；浸过酒的
-vt. 使浸透；使迷糊"
+sodden,"a. 浑身湿透的, 饱含的, (因沉湎于酒而)迷糊的
+vt. 拿水浸, 使变呆
+vi. 被浸湿"
 sojourn,"n. 逗留, 旅居
 vi. 逗留, 旅居"
 solace,"n. 安慰, 安慰之物
@@ -3852,9 +3930,9 @@ sovereign,"n. 元首, 独立国
 a. 具有主权的, 至高无上的, 国王的, 完全的"
 sparse,"a. 稀疏的, 稀稀落落的, 稀薄的"
 spate,"n. 泛滥, 洪水, 大雨, 大量, 一阵"
-spawn,"n. 卵；菌丝；产物
-vt. 产卵；酿成，造成；大量生产
-vi. 产卵；大量生产"
+spawn,"n. (鱼)卵, 产物
+vt. 产卵, 酿成, 大量生产
+vi. 产卵, 大量生产"
 specious,"a. 徒有其表的, 似是而非的, 外表美观的"
 spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
@@ -3872,7 +3950,8 @@ vt. 使蹲下, 擅自占有"
 staccato,"a. 断奏的, 断续的, 不连贯的
 adv. 断奏地, 断续地, 不连贯地
 n. 不连贯的东西"
-stagnant,[地名] 圣阿尼昂 ( 法 )
+stagnant,"a. 不流动的, 停滞的, 不景气的, 萧条的, 污浊的, 迟钝的
+[经] 萧条的"
 staid,"a. 认真的, 沉着的, 固定的"
 stalwart,"n. 健壮的人
 a. 高大结实的, 坚定的"
@@ -3881,8 +3960,8 @@ stamina,"n. 精力, 活力, 耐力, 雄蕊
 stanch,"vt. 使止血, 止住, 止血
 a. 坚固的, 防水的, 忠实的"
 stanza,"n. 演出期, (体育比赛的)局"
-static,"a. 静态的；静电的；静力的
-n. 静电；静电干扰"
+static,"n. 静电, 静电干扰
+a. 静态的, 静止的, 固有的, 静电的"
 steadfast,"a. 坚定的, 踏实的, 固定的, 不变的"
 stealth,"n. 秘密行动, 秘密, 鬼祟
 [法] 秘密行动, 鬼祟"
@@ -3893,7 +3972,8 @@ stellar,"a. 星的, 似星的, 星球的, 主要的"
 stem,"n. 茎, 干, 柄, 船首, 血统, 堵塞物
 vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行
 vi. 堵住, 逆行"
-stereotype,[网络] 刻板印象；定型；强硬派看待中国的流行做法
+stereotype,"n. 铅版, 陈规, 老套
+vt. 使用铅版, 把...印制成盲文, 套用老套, 使一成不变"
 stifle,"vt. 使窒息, 抑止, 扼杀
 vi. 窒息, 被扼杀"
 stilted,"a. 踏上高跷的, 虚饰的, 夸大的, 夸张的, 呆板的, 不自然的, 做作的"
@@ -3945,7 +4025,8 @@ supercilious,"a. 傲慢的, 自大的, 目空一切的"
 superficial,"n. 表面, 外表
 a. 表面的, 肤浅的, 面积的"
 superfluous,"a. 多余的, 过剩的"
-superimpose,[网络] 叠印；重叠
+superimpose,"vt. 把(一物)放在另一物的上面, 添上, 附加, 加上, 添加
+[计] , 重叠, 叠加"
 supersede,"vt. 代替, 取代, 接替
 [法] 替代, 替换, 充任"
 supplant,"vt. 排挤掉, 代替"
@@ -3982,7 +4063,9 @@ a. 漂亮的, 时髦的"
 swarm,"n. 群, 大群, 蜂群, 分蜂群
 vi. 分群, 群集, 聚集一块, 云集, 攀
 vt. 挤满, 爬, 攀"
-sybarite,"n. 爱奢侈享乐的人, 奢侈逸乐之徒, 骄奢淫逸的人"
+sybarite,"n. 希巴利〔意大利一古都〕人；爱奢侈享乐的人
+adj. 同“Sybaritic”
+[网络] 奢侈逸乐的人；锡巴里斯人；沉于奢侈逸乐者"
 sycophant,"n. 奉承者, 谄媚者, 追随者
 a. 拍马的, 奉承的"
 symbiosis,"n. 共栖, 共同生活
@@ -3995,7 +4078,9 @@ synthesis,"n. 综合, 组织, 综合体
 tacit,"a. 沉默寡言的, 不苟言笑的, 缄默的"
 tactile,"a. 触觉的, 有触觉的
 [医] 触觉的"
-taint,=it ain't
+taint,"n. 污染；腐坏；玷污
+v. 污染；使腐坏；玷污
+[网络] 污点；感染；腐败"
 talisman,"n. 护身符, 驱邪物, 法宝"
 tangential,"a. 切线的, 相切的, 正切的, 离题的, 扯远的
 [医] 正切的, 切线的"
@@ -4060,7 +4145,8 @@ turbulence,"n. 混乱, 动荡, 骚乱, 紊流
 turgid,"a. 肿的, 浮夸的
 [医] 充满的, 胀满的"
 turmoil,"n. 骚动, 混乱"
-turncoat,[网络] 叛徒
+turncoat,"n. 背叛者, 变节者
+[法] 脱党者, 变节者, 判徒"
 turpitude,"n. 卑鄙行为, 卑鄙
 [法] 邪恶, 可耻行为, 卑鄙"
 tutelage,"n. 守护, 监护, 指导
@@ -4072,7 +4158,7 @@ tyranny,"n. 专制, 暴政
 [法] 苛政, 暴政, 专横"
 tantrum,"n. 发脾气, 发怒
 [医] 暴怒, 发脾气"
-taut,"a. 拉紧的, 整洁的, 紧张的"
+taut,abbr. tautological；tautology
 tawdry,"a. 廉价而俗丽的
 n. 廉价而俗丽之物"
 tedious,"a. 沉闷的, 冗长乏味的"
@@ -4105,10 +4191,11 @@ theoretical,"a. 理论的, 理论上的, 假设的, 推理的
 [计] 理论的"
 therapeutic,"a. 治疗的, 有益于健康的
 [医] 治疗的; 治疗学的"
-thermal,[网络] 热的
+thermal,"a. 热的, 热量的, 温泉的
+n. 上升温暖气流"
 thespian,"a. 悲剧的, 戏剧的, 悲剧性的
 n. 演员, 悲剧演员"
-threadbare,adj. 磨破的；衣衫褴褛的；乏味的；俗套的
+threadbare,"a. 衣服磨薄了的, 穿旧了的, 衣着褴褛的, 俗套的, 乏味的"
 throes,"n. 阵痛, 临死的苦痛, 垂死的挣扎, 剧痛, 痛苦, 苦闷, 苦难, 艰苦的奋斗"
 throng,"n. 群, 人群, 群集, 众多
 a. 拥挤的
@@ -4136,8 +4223,9 @@ ulterior,"a. 隐秘不明的, 在特定界限以外的, 将来的, 隐蔽的
 [法] 进一步的, 日后的, 将来的"
 unanimity,"n. 无异议, 同意, (全体)一致
 [法] 全体一致, 一致同意, 合意"
-uncanny,adj. 神秘的；离奇的；可怕的
-undermine,"vt. 破坏, 渐渐破坏；挖掘地基"
+uncanny,"a. 怪诞的, 可怕的, 离奇的, 神秘的"
+undermine,"vt. 在...下面挖, 渐渐破坏, 暗地里破坏
+[法] 暗中破坏, 以阴谋中伤伤害"
 underscore,"vt. 划线于...下
 n. (表强调的)下划线
 [计] 底线"
@@ -4201,7 +4289,7 @@ vicarious,"a. 代理的, 代用的, 替代的
 [医] 替代的, 错位的"
 vigilance,"n. 警戒, 警觉, 失眠症
 [医] 不眠症, 警醒症"
-vigor,维哥河
+vigor,"n. 精力, 活力"
 vilify,"vt. 诽谤, 贬低
 [法] 诋毁, 中伤, 诽谤"
 vindicate,"vt. 辩护, 证明...无辜, 维护
@@ -4248,7 +4336,8 @@ warranty,"n. 正当理由, 授权, 担保, 保证, 根据
 [经] 保单, 担保书, 保证书"
 wary,"a. 谨慎的, 小心的, 机警的, 周到的, 唯恐的"
 wastrel,"n. 浪费者, 饭桶, 浪子, 废品, 流浪者"
-watershed,集水区
+watershed,"un. 分水岭
+[网络] 流域；分水线；受水域"
 wax,"n. 蜡, 蜡状物, 一阵发怒, 增加, (月亮)渐盈
 vi. 变大, 增大, 月亮渐满
 vt. 上蜡于"
@@ -4256,10 +4345,11 @@ waylay,"vt. 伏击, 埋伏
 [法] 挡路抢劫, 挡路, 挡截"
 wean,"vt. 使断奶, 使丢弃, 使断念
 n. 小儿"
-weather,"n. 天气, 气象, 处境
-a. 迎风的
-vt. 使受风吹雨打, 侵蚀, 使风化, 经受住
-vi. 风化, 受侵蚀, 经受风雨"
+weather,"n. 天气；气象；气候；处境
+vt. 经受住；使风化；侵蚀；使受风吹雨打
+vi. 风化；受侵蚀；经受风雨
+adj. 露天的；迎风的
+n. (Weather)人名；(英)韦瑟"
 welter,"vi. 翻滚, 滚动, 沉溺, 浸湿, 起伏
 n. 翻滚, 汹涌, 混乱, 起伏, 重量级骑手"
 whimsical,"a. 怪念头多的, 反复无常的, 古怪的, 异想天开的"

@@ -2,9 +2,9 @@
 vt. 授予, 给予"
 conservationist,n. 自然资源保护论者
 environmentalist,n. 环保人士
-film,"n. 软片, 薄膜, 胶卷, 电影
-vt. 覆以薄膜, 拍摄
-vi. 生薄膜, 拍电影"
+film,"n. 电影；薄膜；胶卷；轻烟
+vt. 在…上覆以薄膜；把…拍成电影
+vi. 摄制电影；生薄膜；变得朦胧"
 SCUBA,n. 自携式水中呼吸器
 take after,"像, 学样
 [法] 象, 相似, 追赶"
@@ -13,15 +13,19 @@ in second place,无
 percent,"n. 每百中, 百分之..., (英)利息...厘的证券, (非正式)百分率
 [医] 每百分, 百分数"
 researcher,n. 研究人员
-worldwide, 全球的
-cereal,"n. 谷类食品, 谷类植物
-a. 谷类的"
-mess,"n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境
-vt. 将...弄糟, 妨碍, 使紊乱, 使就餐
-vi. 陷入困境, 搞乱, 用膳"
+worldwide,a. 遍及全世界的
+cereal,"n. 谷物；谷类植物；（常加牛奶作早餐用的）谷类食物
+adj. 谷类制成的
+[网络] 粮食；麦片就解决了；麦片粥"
+mess,"n. 肮脏的一堆；脏乱状态；凌乱状态；大杂烩
+vt. 把…弄乱；把…弄脏(up)：；把…弄糟；毁灭(up):
+vi. 制造脏乱；把东西弄得乱七八糟；玩弄；摆弄 (with):"
 inspire,"vt. 使感动, 激发, 启示, 吸入, 鼓舞, 产生, 使生灵感
 vi. 吸入, 赋予灵感"
-orphan,啡烷
+orphan,"n. 孤儿
+a. 无双亲的, 孤儿的
+vt. 使成孤儿
+[计] 弧体"
 pup,"n. 小狗, 幼畜, 令人讨厌的年轻人
 v. 生小狗"
 raise,"n. 上升, 高地, 增高
@@ -33,9 +37,11 @@ definitely,"adv. 明确无疑地, 清楚地"
 hiking,n. 徒步旅行
 penguin,"n. 企鹅, 空军地勤人员"
 scenery,"n. 风景, 景色, 舞台布景"
-trail,"n. T形钢轨
-[网络] 骨牵引用"
-come on,"偶遇, 进步, 发生, 开始, 出场, 快来"
+trail,"n. 踪迹, 痕迹, 一串, 尾部, 小径, 持枪姿势
+vt. 拖, 尾随, 追踪, 落后于, 开出路
+vi. 拖曳, 垂下, 落后, 飘出, 蔓生"
+come on,"na. (演员)出台；进行(很好)；(暴风雨等)起；(病,苦痛等)加深
+[网络] 来吧；加油；快点"
 connected,"a. 连接的, 连贯的, 有联系的, 关联的, 连结的, 有关系的
 [计] 连接的"
 improve,"vt. 改良, 提高...的价值, 改善, 利用
@@ -50,7 +56,10 @@ epic,"n. 史诗, 叙事诗
 a. 史诗的, 叙事诗的"
 historical,"a. 历史的, 史实的, 历史上的
 [法] 历史性的"
-pack,comb.form 表示“(瓶、罐头等)一箱”
+pack,"n. 包裹, 一伙, 一副, 背包, 包装
+vt. 包装, 捆扎, 塞满, 压紧, 挑选
+vi. 包装货物, 挤, 群集, 被包装
+[计] 压缩"
 passion,"n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)"
 preserve,"vt. 保护, 保持, 保存, 维持, 腌, 禁猎
 vi. 加工食品, 禁猎
@@ -71,17 +80,22 @@ health,"n. 健康, 卫生, 蓬勃, 健康状态
 increase,"n. 增加, 增进, 利益
 vt. 增加, 加大
 vi. 增加, 繁殖"
-in shape,"在外形上, 处于良好状态"
-relationship,n. 关系；关联
+in shape,"un. 完全不；情况；模样
+[网络] 处于良好状态；形状上"
+relationship,"n. 关系, 关联
+[医] 关系"
 thrive,"vi. 繁荣, 兴旺, 茁壮成长
 [经] 兴旺, 繁荣, 旺盛"
-area,"n. 区域, 面积, 范围, 空地
-[计] 区域"
-downtown,"[经] 城市中心, 商业区"
+area,"n. 区域，地区；面积；范围
+n. (Area)人名；(西)阿雷亚"
+downtown,"n. 市中心区
+a. 市中心的
+adv. 往闹市区"
 emotional,"a. 情绪的, 情感的
 [医] 情绪的"
-factor,"n. 因素, 因数, 系数, 基因, 代理人
-[计] 因式"
+factor,"n. 因子；因素；系数；要素
+v. 【数】把…化为因子[因数]；为…充当代理商；代理经营；代管(产业)
+[网络] 因式"
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
 vt. 使高涨, 拉起"
@@ -89,23 +103,28 @@ ocean,"n. 海洋, 广阔, 许多, 一大片
 [法] 海洋, 海"
 resident,"n. 居民, 常驻程序, 居住者, 留鸟
 a. 居留的, 定居的"
-well-being,n. 健康; 幸福; 保持良好状态
+well-being,"n. 健康, 幸福, 福利, 舒适, 安宁"
 identity,"n. 身份, 相同, 一致, 特性, 恒等式
 [计] (打)标记, 标识"
 instrument,"n. 工具, 手段, 仪器
 [化] 仪器"
-laid-back,adj. 随和的好脾气的
-local,abbr. low calorie 低卡路里
+laid-back,"adj. 〈非正式〉放松的；懒散的；淡然的
+[网络] 闲适；轻音乐；向后倾斜"
+local,"a. 地方性的, 当地的, 局部的, 乡土的, 本地的
+n. 当地居民, 本地新闻, 局部
+[计] 本地的; 局部"
 photographer,"n. 摄影师, 摄影者"
-session,"n. 期间, 开庭期, 会议, 学期
-[计] 会话, 对话, 会晤, 通用任务程序"
+session,"n. 阶段；环节；(正式)会议；(法院)开庭
+adj. 为录音的歌手或乐队伴奏的
+[网络] 会话对象"
 simplicity,"n. 单纯, 简朴, 朴素, 坦率, 天真
 [计] 简明性"
 African elephant,非洲象
 African lion,无
 endanger,"vt. 危及
 [法] 使危险, 危及"
-bald eagle,"秃鹰,白头鹰"
+bald eagle,"n. 白头鹰
+[网络] 秃鹰；秃头鹰；白头海雕"
 giant panda,"n. 大猫熊, 大熊猫"
 habitat,"n. 栖息地, 居留地, 自生地, 聚集处
 [医] 习生地, 产地, 生境, 栖所"
@@ -126,15 +145,20 @@ orangutan,"n. 猩猩
 volunteer,"n. 志愿者
 a. 志愿的
 v. 自愿"
-blanket,[网络] 毛毯
-in case,万一
+blanket,"n. 毛毯, 毯子
+vt. 掩盖, 覆盖
+a. 总共的"
+in case,"v. 装进箱,筒,鞘等容器内, 包"
 keeper,"n. 〈非正式〉守门员；门将；看守人；(动物园的)饲养员
 [网络] 看护人；守护者；管理人"
 liter,"n. 公升
 [化] 升"
 nursery,"n. 托儿所, 苗圃, 温床
 [医] 婴儿室, 托儿所"
-orphan,啡烷
+orphan,"n. 孤儿
+a. 无双亲的, 孤儿的
+vt. 使成孤儿
+[计] 弧体"
 orphanage,"n. 孤儿院, 孤儿身份
 [法] 孤儿身份, 孤儿, 孤儿院"
 wild,"n. 荒野, 荒地
@@ -151,8 +175,9 @@ vt. 关, 结束, 使靠近, 封闭, 使接近
 vi. 关闭, 结束, 靠近
 adv. 接近地, 紧密地
 [计] 关闭"
-network,[机] 净功
-hang out,挂出
+network,"n. 网络, 广播网, 网状物
+[计] 网络"
+hang out,"n. 常去的地方, 聚集处"
 collaborator,"n. 合干者, 合作者, 通敌者
 [法] 合作者, 协助者, 勾结者"
 companion,"n. 朋友, 陪伴, 指南, 升降口围罩
@@ -167,18 +192,18 @@ a. 犬的, 似犬的, 犬科的"
 cheetah,n. 猎豹
 chimpanzee,"n. 黑猩猩
 [医] 黑猩猩"
-cub,"n. 幼兽, 年轻人"
+cub,abbr. cubic
 compatible,comb.form 表示“兼容的”：plug-compatible
 predator,"n. 食肉动物, 掠夺者
 [医] 捕食者"
 prey,"n. 被掠食者, 牺牲者
 vi. 捕食"
 puppy,"n. 小狗, 小动物, 自负的年轻人"
-rhino,鼻
-freak out,"(使)极度兴奋, 焦虑不安"
+rhino,"n. 钱, 现金, 犀牛"
+freak out,"n. 吸毒引起的幻觉, 通过吸毒逃避现实的人, 逃避现实, 反常的行动"
 roach,"n. 斜齿鳊
 vt. 使成凹状"
-rollercoaster, 过山车
+rollercoaster,n. 过山车
 scary,"a. 容易受惊的, 胆小的, 提心吊胆的"
 traumatize,"vt. 使受损伤, 使受精神创伤"
 thrilling,"a. 毛骨悚然的, 令人兴奋的, 令人发抖的"
@@ -217,19 +242,20 @@ vt. 治疗, 治愈, 改正, 腌制, 加工处理, 使硫化
 vi. 受治疗, 被加工处理, 被硫化"
 the aging process,无
 billion,"num. 十亿, 十亿个"
-natural resources,n. 天然资源; 自然资源; 富源
+natural resources,"na. 自然资源；天然资源
+[网络] 自然资源科学学院；自然资源与其保护类；自然资源学院"
 approximately,"adv. 大约, 大致, 近于
 [经] 大约, 近似"
 attach,"vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚
 vi. 附属, 归属, 联系在一起
 [计] 挂接服务器命令, 关联, 挂接, 附加"
-bioreactor, 生物反应器
+bioreactor,[化] 生物反应器
 bizarre,a. 奇异的
-blood vessel,"血管
-[医] 血管"
-digital,"a. 数字显示的, 数字的
-n. 数字仪表, 数字式电子表(或时钟)
-[计] 数字, 数字式"
+blood vessel,"na. 血管
+[网络] 血脉；脉脉"
+digital,"adj. 数字信息系统的；数码的；数字式的；数位的
+n. 数字电视
+[网络] 数字的；数字型定时器；数控车床"
 engineer,"n. 工程师, 工兵
 vt. 设计, 监造, 精明地处理, 策划"
 scaffold,"n. 脚手架, 绞刑台
@@ -268,14 +294,16 @@ tourism,"n. 观光业, 游览
 ancient,"a. 古代的, 古老的, 年老的, 旧的"
 aptitude,"n. 资质, 才能, 自然倾向
 [医] 资质, 才能"
-century,"n. 世纪, 百年"
+century,n. 世纪，百年；（板球）一百分
 connection,"n. 连接, 关系, 前后关系
 [计] 连接"
 diver,n. 潜水者
 educate,"vt. 教育, 培养, 训练"
 entertain,"vt. 娱乐, 招待, 怀抱
 vi. 款待"
-island,[网络] 陆地
+island,"n. 岛, 岛屿, 孤立地区, 安全岛
+vt. 使成岛状, 孤立"
 legendary,"a. 传说的, 传奇中说的, 传奇般的, 传说中的, 著名的"
-seafood,"n. 海产食物,海鲜"
-volcano,n. 火山
+seafood,"n. 海味, 海鲜, 鱼类"
+volcano,"n. 火山
+[网络] 火山爆发；活火熔城；火山地带"

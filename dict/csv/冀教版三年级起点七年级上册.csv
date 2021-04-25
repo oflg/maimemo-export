@@ -1,38 +1,46 @@
 ﻿Jenny,"n. 纺纱机, 移动吊车, 母驴"
 Canada,n. 加拿大
 Danny,"n. 丹尼（男子名, 等于Daniel）"
-thanks,[网络] 多谢；感谢的
-student,"n. 学生, 研究者, 学者"
-four,"num. 四, 四个
-[机] 四冲程循环"
-five,"num. 五, 五个"
+thanks,"n. 感谢, 谢意, 谢忱
+interj. 谢谢, 谢谢你"
+student,"n. 学生；学者
+n. (Student)人名；(德)施图登特"
+four,"num. 四
+n. 四个人（或事物）的一组；得四分的一击；四人赛艇的全体成员
+[网络] 肆；四大；四轮(Four-wheeled)"
+five,"num. 五
+n. 五岁；五点钟；(牌的)五点；【板】得五分
+[网络] 第五；五的"
 over,"adv. 结束, 越过, 从头到尾
 prep. 在...之上, 遍于...之上, 越过
 a. 上面的
 vt. 越过"
 Jones,n. 琼斯（姓氏）
-homeroom, 本级[班]教室
+homeroom,n. 学生接受指导的教室
 Kate,"n. 凯特（女子名, 等于Catherine）"
 classmate,n. 同班同学
-Jack,"n. 插座, 千斤顶, 男人
-vt. 抬起, 提醒, 扛举, 增加, 提高, 放弃
-a. 雄的
-[计] 插座"
+Jack,"n. 千斤顶；插座；作动简；起重器
+v. 张拉；用起重器抬起；偷(车)
+adj. 厌烦
+[网络] 杰克；杰克琼斯；我叫杰克"
 visiting,"n. 参观, 拜访, 访问"
 show,"n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相
 vt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领
 vi. 露面, 显现, 演出
 [计] 显示"
-around, 一发；一圈
-classroom,室
-office,[网络] 办公室；写字楼
-plan,"n. 计划；方案；打算；平面图
-v. 计划；打算；设计；策划
-[网络] 规划；计画；计划阶段"
+around,"prep. 包围, 在...周围, 四处
+adv. 兜着圈子, 在附近, 到处"
+classroom,n. 教室
+office,"n. 办公室, 部, 公职, 职责
+[化] 办公室"
+plan,"n. 计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图
+vt. 计划, 设计, 意欲
+vi. 订计划"
 fun,"n. 乐趣；玩笑；有趣的人或事
 adj. 供娱乐用的
 vi. 开玩笑"
-lab,[计] Visual dBASE标签文件
+lab,"n. [口语]实验室，化验室；研究所；暗室；照片(胶卷)显影室
+adj. 实验室的；试验用的"
 eraser,n. 擦子
 guess,"n. 猜测, 臆测
 v. 猜测, 臆测"
@@ -41,24 +49,35 @@ n. 第一；开始；冠军
 adj. 第一的；基本的；最早的
 num. 第一
 n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
-wall,[网络] 神经质的人更喜欢用板报；管壁；壁面边界
+wall,"n. 墙, 墙壁, 垣, 内壁, 分界物, 屏障
+a. 墙的
+vt. 给...建墙, 禁闭, 用墙围住
+[计] 背景墙"
 may,"n. 五月
 aux. 愿能, 可以, 愿意"
 excuse,"vt. 原谅, 申辩, 做为...的托辞
 n. 致歉, 理由, 饶恕, 借口"
-OK,[网络] 确定；好；击
+OK,"adj. 安然无恙；平安；快活；可以
+int. 对；好；行；（用以引起注意或引入话题）好了
+n. 允许；准许；同意
+v. 正式批准；同意
+[网络] 确定；好的(Okay)；好吧"
 borrow,"vt. 借, 借入, 借用
 vi. 借
 [计] 借位; 借位数"
-two,"num. 二, 二个"
-three,"num. 三, 三个"
+two,"num. 二
+n. 一对；两人；两点钟；两岁
+[网络] 小白兔；两个；双"
+three,"num. 三
+n. 三岁；三个人[东西]；【板】3字型
+[网络] 三更；叁；荒岛惊魂"
 store,"n. 商店, 贮藏, 仓库, 备用品, 存储器
 vt. 储存, 贮藏, 供给
 vi. 贮藏
 a. 贮藏的, 现成的
 [计] 存储器操作; 存储"
 later,"adv. 后来；稍后；随后
-a. 更迟的；更后的
+adj. 更迟的；更后的
 n. (Later)人名；(德)拉特"
 thing,"n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征"
 need,"n. 需要, 必须, 缺乏
@@ -69,19 +88,77 @@ list,"n. 目录, 名单, 明细表, 布条, 条纹, 列表, 序列, 数据清单
 vt. 列出, 列于表上, 记入名单内, 装布条
 vi. 列于表上
 [计] 列表, 序列, 数据清单"
-ten,"保持,握,容纳"
-six,"num. 六, 六个"
-seven,"num. 七, 七个"
-one," [医]〔后缀〕意为酮, 在化学中用以表示有两个烃基附在羰基上的一种化合物"
-nine,"num. 九, 九个"
-eight,"num. 八, 八个"
-Smith,"comb. 表示""金属工匠"""
+ten,"ten
+[ten]
+n.
+十，十个
+表示十的符号(如10，X)
+第十
+十个(人或物)一组
+以十计数的东西
+有十点的扑克牌
+10分钟；10点钟
+[口语] 10英镑纸币
+10美元纸币
+10号尺码(的衣服)
+[亦作 ten's place]【数学】十位
+【广播】(电台或电视台播出的)10秒钟广告
+[美国口语]大美人，最美的女子
+(以10表示最好或最高记录)顶级，最佳者，得分最高者，最优秀者，佼佼者
+[Ｔ-][口语](以10分为满分的评比中)得分最高者
+adj.
+十(个)的
+短语:
+nine times (或 cases) out of ten
+十之八九，几乎每次，常常
+take ten
+[美国口语]小憩；休息10分钟
+ten a penny
+[英国口语](就像1便士可买10个似的)不值钱
+tens of thousands
+好几万
+ten times
+十倍(于…)，(比…)得多
+ten to one
+[口语]十之八九，很可能
+十比一
+the upper ten
+贵族阶层，上流社会[亦作 the upper ten thousand]
+ten.
+abbr.
+tenor
+【音乐】tenuto"
+six,"num. 六
+n. 〈英〉六便士；六先令；六点的纸牌；(骰子的)六点
+[网络] 六个；鬼诅咒；六六个"
+seven,"num. 七个，七
+n. 七个，七
+adj. 七的；七个的
+n. (Seven)人名；(土库、阿塞)谢文；(土)塞文"
+one,"num. 一；同一个
+n. 一个人；一体；独一；一岁
+pron. 人们；用来避免重复已提过的或是听者已知的事物的名称
+adj. 某(一个人)；一致的；同一的；不变的
+[网络] 壹；唯一；一人"
+nine,"n. 九，九个
+num. 九；九个
+adj. 九的，九个的
+n. (Nine)人名；(塞)尼内"
+eight,"n. 八人划船队；由八人划的船
+num. 八
+[网络] 捌；八个；第八"
+Smith,"n. 铁匠, 金属品工匠
+[机] 锻造工, 上手"
 sure,"a. 确信, 必然的, 必定的
 adv. 当然, 确实地, 无疑地"
 blouse,n. 宽松的上衣
-really,[网络] 再结盟
+really,"adv. 实际上, 真实地, 实在"
 Kim,n. 金姆（人名）
-pink,[网络] 光子晶体技术；光子墨水
+pink,"n. 粉红色；化身，典范；石竹花；头面人物
+vt. 扎，刺，戳；使…变粉红色；使…面红耳赤
+vi. 变粉红色
+adj. 粉红的；比较激进的；石竹科的；脸色发红的
+n. (Pink)人名；(英、德、匈)平克；(法)潘克"
 paint,"n. 油漆, 颜料, 绘画作品, 涂漆
 vt. 油漆, 绘, 画, 描绘, 装饰, 点缀
 vi. 绘画, 涂漆"
@@ -93,9 +170,13 @@ a. 五彩缤纷的"
 purple,"n. 紫色, 帝位
 a. 紫色的, 帝王的, 华而不实的
 v. (使)成紫色"
-out,"a. 外面的, 熄灭的, 结束的
-adv. 在外, 熄灭, 出现
-prep. 出自, 离去, 向"
+out,"adv. 出去；外出；离开；出于
+n. 出路；回避的方法；托辞
+prep. 〈美〉通过(门,窗等)而出；〈美口〉沿着…而去
+adj. 已公开同性恋身份的
+int. 〈古〉表示“愤慨”“谴责”等
+v. 揭露
+[网络] 上；出来；出去了"
 sky,"n. 天空；顶点
 vt. 把…投向空中；把…挂得过高
 vi. 踢或击高空球；把桨叶翘得过高；飞涨
@@ -105,40 +186,56 @@ vi. 振动, 上下跳动
 n. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士"
 scarf,"n. 围巾, 头巾, 领带, 领巾, 嵌接
 vt. 用围巾围, 嵌接"
-glove,[网络] 棒球之爱
-maybe, 也许，可能
+glove,"n. 手套
+vt. 给...戴手套"
+maybe,"adv. 也许, 大概
+n. 可能性"
 Lynn,n. 林恩（姓氏）
 just,"adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要
 adj. 公正的，合理的；正直的，正义的；正确的；公平的；应得的
 n. (Just)人名；(英)贾斯特；(法)朱斯特；(德、匈、波、捷、挪)尤斯特；(西)胡斯特"
-catch,"n. 捕捉, 陷阱, 捕捉之物, 抓, 拉手
-vt. 捕捉, 赶上, 感染, 听清楚
-vi. 抓住, 燃着"
+catch,"v. 抓住；捕捉；捕获；接住
+n. 接（球等）；总捕获量；扣拴物；扣件
+adj. 有趣味的；设有圈套的
+[网络] 赶上；捉住"
 ready,"adj. 准备好；现成的；迅速的；情愿的；快要…的
 n. 现款；预备好的状态
 adv. 迅速地；预先
 vt. 使准备好
 n. (Ready)人名；(英)雷迪"
 dinosaur,n. 恐龙
-T-shirt,"短袖运动衫,短袖汗衫"
+T-shirt,"n. 短袖圆领汗衫；圆领运动衫
+[网络] T恤；T恤文化；恤衫"
 jacket,"n. 夹克, 外套, 护套
 vt. 给...穿夹克, 给...装护套"
 forget,"vt. 忘记, 忽略, 忘
 vi. 忘记"
 hat,"n. 帽子
 vt. 给...戴帽子"
-pants,[网络] -裤子
+pants,"n. 裤子, 长裤, 短衬裤, 女式运动短裤"
 colourful,"a. 颜色丰富的, 鲜艳的, 艳丽的, 多色的, 丰富多彩的, 吸引人的, 引人入胜的
 [计] 有色的"
-so,comb.form =-soever
-bright,"a. 明亮的, 聪明的, 鲜明的, 欢快的
-adv. 明亮地, 欢快地"
+so,"conj. 所以；以便；（引出结果）因此；引出下文
+adv. 那么；如此；很；就
+int. 好；别动；别吵；停住
+pron. 左右；imagine
+n. 【乐】同“sol”；【女名】女子名
+[网络] 这么；这样；苏"
+bright,"adj. 光线充足的；明亮的；鲜艳夺目的；快活而生气勃勃的
+adv. 光亮地；明亮地
+n. 头灯
+[网络] 光明；爆光明；亮丝呢"
 world,"n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量
 [法] 世界, 地球, 世人"
-report,[网络] 所决定的；再搬运一次
+report,"n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单
+vt. 报告, 汇报, 转述, 报道, 揭发, 使报到
+vi. 报告, 写报道, 报到
+[计] 报告"
 traditional,"a. 传统的, 惯例的
 [经] 传统的, 惯例的"
-wow,[计] Grave Composer音乐模块（MOD）文件
+wow,"interj. (非正式)哇
+n. 巨大的成功, 轰动一时的成功, 十分有趣的事物
+[计] WIn32上的Windows"
 sari,n. 莎丽(印度妇女用的裹身布)
 India,n. 印度
 uniform,"n. 制服
@@ -154,8 +251,13 @@ will,"n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱
 vt. 用意志的力量驱使, 决意, 愿意, 立遗嘱
 vi. 下决心, 愿意
 aux. 将, 愿意, 必须"
-pair,[地名] 帕伊河 ( 尼日利 )
-part,[计] Go！Zilla部分下载文件
+pair,"n. 一双, 一对, 一副
+v. (使)成对"
+part,"n. 部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位
+vt. 分开, 分离, 断绝, 区别, 分配
+vi. 分开, 断裂, 分手
+a. 部分的, 局部的
+adv. 部分地, 有些"
 feeling,"n. 摸, 触觉, 知觉, 感觉, 情绪, 同情
 a. 有同情心的, 有感觉的, 仁慈的, 动人的"
 Robin,"n. 旅鸫
@@ -169,15 +271,22 @@ vt. 闻, 探出, 察觉, 发出...的气味
 vi. 嗅, 散发气味, 发臭"
 finger,"abbr. fucking (slang=copulating) （俚语）性交, 交配, 交尾
 (f-ing 的比较级)"
-player,P层（花冈岩质层）
-homework,家庭作业
+player,"n. 竞赛者, 上场队员, 游戏者, 演员
+[经] 交易者"
+homework,"na. 课外习题；家庭工作；(讨论等以前的)准备工作
+[网络] 功课"
 singer,n. 歌手
-question,[网络] 快是-军；关键部分提出问题
-sick,"n. 病人
-a. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的
-vt. 呕吐, 追击, 使(狗)去攻击"
+question,"n. 问题, 询问
+v. 询问, 审问, 怀疑
+[计] 询问"
+sick,"n. 病人；呕吐物
+adj. 恶心；晕船；有病的；想呕吐
+v. 攻击；追击；(纵狗)追击；〈美〉嗾使(狗等)去咬[去攻击]
+[网络] 不舒服的；病了；德国施克"
 scared,"a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的"
-smile,[网络] 众人仰慕
+smile,"n. 微笑, 喜色, 笑容
+vi. 微笑, 觉得好笑
+vt. 微笑着表示"
 wave,"n. 波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变
 vi. 波动, 飘动, 挥手示意, 起伏
 vt. 使波动, 使飘扬, 挥舞, 使成波浪形"
@@ -185,7 +294,8 @@ mean,"a. 低劣的, 卑贱的, 简陋的, 吝啬的, 惭愧的, 平均的, 中�
 vt. 意谓, 想要, 意欲, 预定
 vi. 用意, 有意义
 n. 平均数, 中间, 中庸"
-metre,[网络] -仪表
+metre,"n. 公尺, 格律, 韵律
+[医] 米, 公尺"
 bit,"n. ☉一点，一些；小片，小块；小段，片段；部分；少许，有点，一点儿，微量，少量[常与a连用，起副词作用]
 adj. 很小的，微不足道的
 adv. [口语]相当，有点儿，或多或少，多少[a bit to的省略]"
@@ -198,7 +308,7 @@ flat,"a. 平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊�
 adv. 平直地, 断然地
 n. 扁平物, 平面, 平地, 平原, 平板车
 v. (使)变平"
-upon,"熟悉, 精通"
+upon,"prep. 在...之上, 迫近, 紧接着"
 ground,"n. 土地, 战场, 场地, 地面, 范围
 a. 土地的, 地面上的
 vt. 放在地上, 使搁浅, 打基础, 给...以训练
@@ -208,7 +318,7 @@ grind的过去式和过去分词"
 oh,abbr. on-Hudson 邻近哈得逊河
 hurt,"n. 伤害, 创伤, 损害
 v. 伤害, (使)伤心, 危害, 刺痛"
-donut,[网络] 甜甜圈
+donut,"[医] 电子回旋加速器环状真空室, 同步加速器环状真空室"
 enough,"n. 充足, 够, 很多
 a. 充足的, 足够
 adv. 足够
@@ -217,7 +327,8 @@ laugh,"n. 笑, 笑声
 vi. 笑, 大笑
 vt. 以笑表示"
 Jim,n. 吉姆（人名）
-stomachache,n. 胃痛；肚子痛
+stomachache,"n. 胃痛
+[医] 胃痛"
 better,"n. 长辈；较好者；打赌的人（等于bettor）
 adv. 更好的；更多的；较大程度地
 adj. 较好的
@@ -230,47 +341,57 @@ n. 【摄】动态范围
 doctor,"n. 医生；博士
 vt. 修理；窜改，伪造；为…治病；授以博士学位
 vi. 就医；行医"
-matter,[网络] 解决问题
-headache,[网络] 头痛
+matter,"n. 事件, 物质, 原因, 素材, 实体, 重要
+vi. 有关系"
+headache,"n. 头痛, 令人头痛之事
+[医] 头痛"
 aachoo,无
-medicine,[网络] 那儿取药
+medicine,"n. 药, 医学, 内科
+vt. 给...用药"
 stay,"n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索
 vt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定
 vi. 停留, 逗留, 暂停, 坚持, 中止"
 rest,"n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分
 vi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖
 vt. 使休息, 使支撑, 把...寄托于"
-different,adj. 不同的；个别的，与众不同的
+different,"a. 不同的
+[机] 差动, 微分的, 差速器"
 cute,"a. 可爱的, 聪明的, 伶俐的
 [医] 品他病"
-twelve,"num. 十二, 十二个"
+twelve,"n. 十二；十二个
+num. 十二；十二个
+adj. 十二的；十二个的"
 blond,"a. 金发的
 n. 白肤碧眼金发的人"
 thirteen,"num. 十三, 十三个"
 funny,"a. 好笑的, 有趣的, 滑稽的
 n. 滑稽人物"
-almost,adv. 差不多，几乎
+almost,"adv. 几乎, 差不多"
 glass,"n. 玻璃, 玻璃杯, 透镜
 vt. 装玻璃于, 反射, 反映
 vi. 成玻璃状"
-restaurant,[网络] 餐馆
-fifteen,"num. 十五, 十五个"
-cereal,"n. 谷类食品, 谷类植物
-a. 谷类的"
+restaurant,"n. 餐馆, 饭店"
+fifteen,"n. 十五；十五个；十五人组成的橄榄球队
+adj. 十五的
+num. 十五"
+cereal,"n. 谷物；谷类植物；（常加牛奶作早餐用的）谷类食物
+adj. 谷类制成的
+[网络] 粮食；麦片就解决了；麦片粥"
 would,"aux. 将, 愿意"
 salad,n. 色拉
 sugar,"n. 糖, 糖块, 甜言蜜语
 vt. 加糖于, 使甜蜜, 粉饰, 美化
 vi. 制成糖"
 delicious,[网络] 美味书签；社会书签；收藏到
-Mary,M 阶
+Mary,"n. 玛丽；【圣】圣母玛利亚；【女名】女子名
+[网络] 我是玛丽；曼丽；我的玛利"
 cup,"n. 杯子, 茶杯, 优胜杯
 vt. 使成杯状, 为...拔火罐"
-full,"n. 全部, 完整
-a. 充满的, 完全的, 丰富的, 完美的, 丰满的, 详尽的
-adv. 完全地, 整整, 十分
-vt. 把(衣服等)缝得宽松, 漂洗
-[计] 完整"
+full,"v. 满；把(裙子)缝出皱褶；【印,纺】蒸洗；缩绒
+n. 完全；极盛时
+adj. 满的；充满的；满是…的；（有）大量的
+adv. 直接地；径直地
+[网络] 完全的；全部；完整"
 cookie,"n. 饼干, 小甜点
 [建] 糕点"
 chocolate,"n. 巧克力
@@ -279,19 +400,24 @@ everything,"pron. 一切；所有事物；每件事；形势
 [网络] 事事；每件事物；万事"
 meat,"n. 肉, 餐, 食物
 [经] 肉类"
-job,[网络] 职务；多个作业；即作业
-market,"n. 市场, 交易, 集市, 推销地区, 行情, 市面, 销路
-vt. 在市场上交易, 使上市, 销售
-vi. 在市场上买卖"
+job,"n. 工作, 零活, 职业, 事情
+vi. 做零工, 打杂, 做股票经纪, 假公济私
+vt. 代客买卖, 批发, 承包, 欺骗
+[计] 作业"
+market,"n. 市场；行情；股票市场；市面；集市；销路；商店
+vt. 在市场上出售
+vi. 做买卖
+n. (Market)人名；(塞)马尔凯特"
 grape,"n. 葡萄, 葡萄树
 [医] 葡萄"
 carrot,"n. 胡萝卜
 [医] 胡萝卜"
 cabbage,"n. 卷心菜
 [医] 卷心菜, 甘兰"
-watermelon,西瓜
-sweet,"n. 甜蜜, 糖果, 情人
-a. 甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的"
+watermelon,n. 西瓜
+sweet,"adj. 含糖的；甜的；香的；芳香的
+n. 糖果；甜点；（称呼亲爱的人）亲爱的
+[网络] 好温馨；甜茶细茶；珠形甜茶"
 pear,"n. 梨子, 梨树, 梨木
 [机] 梨木"
 waitress,"n. 女侍者, 女服务员"
@@ -310,10 +436,14 @@ something,"pron. 某事；某物
 n. 重要的人；值得重视的事
 adv. 非常；有点；大约
 adj. 大约；有点象"
-problem,[网络] 问题
+problem,"n. 难题；引起麻烦的人
+adj. 成问题的；难处理的"
 menu,"n. 菜单, (功能)选择单
 [计] 菜单"
-can,[=child abuse and neglect]虐待和忽视儿童
+can,"vt. 装罐
+n. 罐头, 容器
+aux. 能, 可以
+[计] 作废字符"
 coke,"n. 可口可乐, 焦炭
 v. (使)成焦炭"
 bottle,"n. 瓶子, 酒瓶
@@ -322,7 +452,8 @@ corner,"n. 角落, 转角, 窘境
 vt. 迫至一隅, 垄断, 使陷入绝境
 vi. 相交成角, 垄断
 [计] 边角"
-money,[网络] 抠抠
+money,"n. 金钱, 一笔款, 财富, 货币, 金额
+[经] 货币, 金钱, 财产"
 clerk,"n. 办事员, 职员, 文书
 vi. 当店员"
 fridge,"n. 冰箱
@@ -347,12 +478,12 @@ vi. 倾斜, 翻倒, 倾覆, 踮脚走, 给小费
 only,"a. 唯一的, 仅有的, 最佳的
 adv. 只有, 仅仅, 只能
 conj. 但是, 不过"
-P.S.,"n. 附言
-[网络] 聚苯乙烯(Polystyrene)；个人陈述(Personal Statement)；件"
+P.S.,[=polyunsaturated-to-saturated(fatty acids ratio)]多不饱和脂肪酸/饱和脂肪酸比率
 member,"n. 成员；会员；分子；身体部位（尤指胳膊或腿）
 [网络] 会员中心；委员；构件"
-son,[网络] -儿子
-daughter,[网络] 女儿
+son,comb.form [用于元音字母前] = soni-:sonance
+daughter,"n. 女儿；[遗][农学] 子代
+adj. 女儿的；子代的"
 drive,"n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器
 vt. 开车, 驱使, 推动, 驾驶
 vi. 开车, 猛击, 飞跑
@@ -361,13 +492,14 @@ policeman,"un. 警察
 [网络] 警察大哥；你是警察；波丽士大人"
 radio,"n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台
 v. 用无线电发送"
-businessman,"[经] 商人, 企业家"
-weekend,n. 周末
+businessman,"n. 商人, 实业家, 工商业家"
+weekend,"n. 周末, 周末休假"
 together,"adv. 一起；同时；相互；连续地；总共
 adj. 新潮的；情绪稳定的，做事有效率的"
-others,[网络] 其它
-hard,"a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的
-adv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
+others,[网络] 别人的；配饰；其它
+hard,"adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的
+adv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地
+n. (Hard)人名；(英、芬、瑞典)哈德"
 bedroom,[网络] 卧室；睡房；卧室系列
 dictionary,"n. 字典, 词典
 [计] 词典"
@@ -377,7 +509,9 @@ vi. 朝向"
 above,"prep. 在上方, 超出
 adv. 在上面
 a. 上述的, 上面的"
-thirty,"num. 三十, 三十个"
+thirty,"n. 三十年代
+num. 三十
+adj. 三十个的"
 picnic,"n. 野餐, 远足, 愉快的经历
 vi. 去野餐, 远足"
 carry,"n. 进位, 射程, 运载
@@ -389,7 +523,99 @@ vt. 装入篮"
 Rover,"n. 漂泊者, 流浪者, 海盗
 [法] 流浪者, 海盗, 海盗船"
 tablecloth,n. 桌布
-lot,[医] 左枕横(胎位)
+lot,"Lot1
+[lɔt]
+【圣经】罗得(亚伯拉罕之侄)[《创世记》13∶1～12，19∶1～26]
+短语:
+Lot's wife
+[俚语]盐
+Lot2
+[lɔt]
+洛特河(法国南部河流，向西流入加龙河)
+洛特省(法国南部省份)
+lot
+[lɔt]
+n.
+签，阄
+抽签，拈阄
+以抽签(或拈阄)所作的决定(或选择)
+中签所得之物；应得的一份，份额
+命运；运气；遭际；上帝的安排
+【土木工程】一块(地)；地区；套；组；批
+[主英国英语](城市中供出售而分成的)小块土地；(公墓中的)一块墓地
+一群人
+[口语]某一类人；特定种类的人
+(商品等)一块，一批，一堆，一宗
+[常用复数][口语]很多；大量
+[the lot]整个；全体；全部；总量
+【电影】电影制片场；摄影场
+[英国英语]税
+adv.
+[a lot][口语]
+很大的；非常
+经常，常常
+vt.
+分组；把…划分(常与out连用)
+把(土地)划分成块
+[罕用语]分配；摊派
+[废语]为…而抽签决定
+vi.
+抽签，拈阄
+近义词:
+fate
+短语:
+a bad (或 sorry) lot
+(一个或一帮)坏蛋，恶人；没出息的家伙
+a crook in the lot
+(人生中)倒霉的时刻；人生的坎坷
+across (或 cross) lots
+[美国英语]抄近路，抄小路
+a fat lot
+[俚语]极多；非常多(用作反语，明为“很多”，实则“不多”，“很少”，甚至“一点也没有”)
+a great (或 good) lot
+[口语]很多；大量
+a whole lot of
+许多；一大堆
+cast (或 draw) lots
+抽签(决定)，拈阄
+cast (或 cast in, throw in) one’s lot with
+与…合伙；决心与…共命运；与…结盟；与…同甘共苦；(在生活或事业上)与…发生关系
+do the lot
+[俚语]将钱输光
+fall to someone's lots (或 share)
+某人命中注定；成为某人的义务(或责任)；落到某人身上
+have a lot going for one
+有很多优点(或长处)
+have a lot on the ball
+[俚语]有能力；有才干
+have neither part nor lot in
+不参与…；与…不相干
+it falls to someone's lot to do something
+某人有义务(或责任)做某事；某人命中注定要做某事；命该某人做某事[亦作 it falls to someone as someone's lot to do something； the lot falls to someone to do something]
+lot on (或 upon)
+[美国方言]指望；期待
+lots and lots of
+[口语]许多的，大量的
+lots of
+[口语]很多，大量
+see a lot of
+经常和…在一起；经常见到
+take a lot of…ing
+难以…
+that's (或 this is) the lot
+人都齐了；都在这儿了
+that's your lot (或 you have had your lot)
+你命该如此
+The lot came to (或 fell on 或 upon) me.
+抽中了。我中签了。
+the (whole) lot
+全体；全部；全数；一切；总量
+think a lot of
+对…感兴趣；敬慕…；对…高度评价
+变形：
+vt.
+lotted
+. lotting"
 quiet,"n. 安静, 闲适, 平静
 a. 安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的
 vi. 平静下来
@@ -398,12 +624,14 @@ paper,"n. 纸, 文件, 文章, 报纸, 证券, 证件
 vt. 用纸糊, 贴壁纸于, 用纸包装
 vi. 贴壁纸
 a. 纸做的, 纸上的"
-inside, [体]发球方
+inside,"n. 内部, 内脏, 内幕
+a. 内部的, 秘密的, 户内的
+adv. 在里面
+prep. 在...之内"
 poem,"n. 诗, 诗般美的事物"
-rose,"n. 玫瑰, 蔷薇, 玫瑰色
-a. 玫瑰色的, 玫瑰花的
-vt. 使成玫瑰色
-rise的过去式"
+rose,"n. 玫瑰，蔷薇；玫瑰红
+v. 上升（rise的过去式）；增加；起立
+n. (Rose)人名；(丹、瑞典、罗、意、西)罗塞(姓氏)；(德)罗泽(姓氏)；(英、法)罗斯(姓氏)"
 riddle,"n. 谜, 谜语, 粗筛
 vt. 解谜, 给...出谜, 筛, 寻根究底地检验, 充满于
 vi. 出谜"
@@ -411,17 +639,20 @@ present,"n. 现在, 礼品, 瞄准
 a. 现在的, 出席的
 vt. 介绍, 引见, 赠送, 提出, 呈现, 上演
 vi. 举枪瞄准"
-soft,[网络] -柔软的
+soft,"a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的
+n. 柔软的东西, 笨人, 纸币
+adv. 柔软地, 温和地"
 woof,"n. 纬线, 织物, 基本成分, 低吠声, 低鸣声"
 Jane,n. 简（女子名）
-set,"v. 设置；放；树立；安排
-n. 集；集合；一套；电视机
-adj. 位于（或处于）…的；安排好的；确定的；固定的
-abbr. (=safe electronic transaction)安全电子交易
-[网络] 套装；设定(Settings)；组"
-Fred,n. 佛瑞德（男子名）
+set,"n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+Fred,"n. 【男名】男子名
+[网络] 弗雷德"
 Heidi,n. 海蒂（Adalheid的昵称）
-teacup,茶杯
+teacup,"n. 茶杯, 满茶杯"
 bookstore,"na. 〈美〉书店
 [网络] 书局；书店购物；在书店"
 ride,"n. 骑马, 乘坐, 乘车, 搭便车
@@ -429,31 +660,38 @@ vt. 骑, 乘坐, 压迫, 控制
 vi. 骑马, 乘车, 漂游"
 broken,"a. 坏掉的, 打破的, 断掉的
 break的过去分词"
-off,"prep. 离开；脱落
-adv. 切断；走开
-adj. 远离的；空闲的"
+off,"a. 关着的, 不再生效的, 处于...境况的, 休假的, 空闲的
+adv. 走开, ...掉, ...下, 休息, 出发, 隔断
+prep. 离开, 脱落, 不在从事......, 在...之外
+vi. 离开, 滚开
+vt. 杀死
+n. 关闭状态
+[计] 关闭, 清屏命令"
 lost,"a. 失去的, 遗失的, 迷惑的
 lose的过去式和过去分词"
-lady,[网络] 稀土氧化物
+lady,"n. 淑女, 夫人, 女士, 贵妇"
 traffic,"n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量
 vi. 交易, 做买卖
 vt. 用...作交换
 [计] 通信量, 传输量"
-straight,"n. 直线, 直
-a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
-adv. 直接地, 立即, 不断地"
-luck,"n. 运气, 幸运, 好运, 侥幸
-vi. 靠好运成功"
-fresh,"a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的
-adv. 最新地, 刚刚
-n. 开始, 泛滥"
+straight,"adj. 直的；连续的；笔直的；正直的；整齐的
+adv. 直接地；不断地；立即；坦率地
+n. 直；直线
+n. (Straight)人名；(英)斯特雷特"
+luck,"n. 运气；幸运；好运；侥幸
+v. 侥幸成功
+[网络] 时来运转吊坠；单肩背包"
+fresh,"adj. 新鲜的；新产的；刚摘的；新近的
+n. (一天,一年等的)开始；(河流的)暴涨；(流入咸水中的)淡水流
+adv. 刚"
 follow,"vt. 跟随；遵循；追求；密切注意，注视；注意；倾听
 vi. 跟随；接着
 n. 跟随；追随"
 count,"v. 重要；认为；算作；包括
 n. 总数；点数；数出总数；（某物质在某物或面积中）量的计数
 [网络] 计算；数量；数数"
-forty,"num. 四十, 四十个"
+forty,"n. 四十
+adj. 四十的；四十个的"
 fifty,"num. 五十
 n. 五十几；五十年代
 adj. 许多的
@@ -461,13 +699,15 @@ adj. 许多的
 sixty,"n. 六十几；六十年代
 num. 六十
 [网络] 六十个；第六十；六十岁"
-seventy,"num. 七十
-n. 七十几；七十年代
-[网络] 七十个；第七十；七十的"
-eighty,"num. 八十
-n. 八十几；八十年代
-[网络] 八十个；第八十；八十的"
-ninety,"num. 九十, 九十个"
+seventy,"n. 七十；七十个；七十岁；七十年代
+adj. 七十的；七十个的；七十岁的
+num. 七十"
+eighty,"n. 八十；八十岁；八十年代
+adj. 八十的，八十个的；八十岁的
+num. 八十"
+ninety,"n. 九十几；九十年代
+num. 九十
+[网络] 九十个；丶所谓爱情；九十的"
 hundred,"n. 百, 百个东西
 num. 百, 百个
 a. 一百的, 许多的"
@@ -475,10 +715,9 @@ dream,"vi. 梦想；做梦，梦见；想到
 n. 梦想，愿望；梦
 vt. 梦想；做梦；想到
 adj. 梦的；理想的；不切实际的"
-noise,"n. 噪音, 杂音, 响声, 喧闹
-vt. 谣传
-vi. 喧闹
-[计] 噪声"
+noise,"n. 噪声；噪音；声音；干扰
+v. 吵；哄传；传说；〈罕〉大声谈论
+[网络] 噪点终结者；噪音娱乐系；噪音探测器"
 lion,"n. 狮子；名人；勇猛的人；社交场合的名流
 n. (Lion)人名；(西、葡)利昂；(德、法、意、捷、瑞典)利翁；(英)莱昂"
 lonely,"a. 孤单的, 孤寂的, 荒凉的"
@@ -500,10 +739,12 @@ vi. 吃东西, 用餐, 流入
 pick,"n. 精选, 选择, 掘, 精华, 牙签, 鹤嘴锄
 v. 摘, 掘, 凿, 挖, 挑选
 [计] 拾取"
-friendly,[网络] -友善
+friendly,"a. 友好的, 亲切的, 互助的
+adv. 友善地, 温和地"
 quickly,adv. 很快地
-moo,"vi. 发哞声
-n. 牛叫声"
+moo,"n. （牛叫声）哞
+v. (牛)哞哞地叫
+[网络] 牛牛；系泊绞车"
 museum,"n. 博物馆
 [网络] 展览馆；博物院；美术馆"
 hall,[=hyperleucocytic acute lymphocytic leukemia]白细胞过多型急性淋巴细胞性白血病
@@ -514,25 +755,149 @@ boring,"adj. 无聊的；令人厌烦的
 n. 钻孔
 v. 钻孔；使厌烦；挖空（bore的ing形式）
 n. (Boring)人名；(英、瑞典)博林"
-war,abbr. 承担一切风险的保险（with all risks）
+war,"war1
+[wɔ:]
+n.
+战争；战争时期
+斗争；对抗；竞争
+军事学，兵法；战术；军事职业
+国防部
+【牌戏】比大小；对峙
+[古语]作战部队；战役，战斗
+[废语]军备
+vi.
+进行战争；战斗；卷入军事冲突：
+进行斗争；竞争：
+短语:
+a war of words
+争论，论战
+(be) at war (with)
+(同…)处于战争(或交战)状态
+(同…)不和；(同…)进行竞争(或斗争)；(与…)吵架
+brushfire war
+灌木林火式的战争，局部地区(或小规模)的战争
+Buckshot War
+【美国历史】鹿弹战争(1838年美国哈里斯堡城因选举事发生民众暴动，部队使用猎鹿的铅弹镇压)
+carry the war into the enemy's camp (或 country)
+【军事】进军敌国，在敌人的领土内作战，向敌人反击
+反驳，提出反控诉；提出反指责
+declare war on (或 upon)
+(向…)宣战；(向…)发动进攻
+表示反对…
+dirty war
+肮脏的战争(尤指帝国主义侵略战争)
+dogs of war
+战争造成的破坏；战祸
+drift into war
+卷入战争漩涡
+enter into war
+参战，介入战争
+exchange war
+外汇战
+foment(a) war
+煽动战争，挑起战争
+from before the war
+[口语]从战争以前起
+go to war (或 wars)
+[古语]
+当兵，从军
+(从英国)出发到海外作战
+go to war
+开战，打仗，诉诸武力
+上前线作战；(战时)参军
+Great War
+第一次世界大战(1914 —1918)
+have been in the war
+[口语]
+(在打架或意外事故中)受过伤；吃过苦头[亦作 be in the wars]
+在战争中负过伤
+make (或 levy, wage) war against (或 on, upon)
+向…开战(或作战)；设法强行控制[亦作 wage war with]
+Opium War
+【历史】鸦片战争
+paper war (或 warfare)
+笔战，论战
+Phoney War
+假战争(1939年9月至1940年5月间，德法两军各守防线，按兵不动，被称为假战争)
+price war
+价格战，一再降价的商业竞争
+private war
+(个人或家族间的)私斗；未经本国政府同意对别国居民发动的战争
+push-button war
+按钮战争(指按动电钮以发射导弹等武器的现代化战争)
+shooting war
+真枪实弹的战争(与冷战和精神战相对而言)
+sinews of war
+见 sinew
+total war
+总体战(动员所有的武器和资源的战争)
+trade war
+贸易战
+unleash (a) war
+发动战争
+wage war on
+＝make war on
+war in the third dimension
+空中作战
+War is the sport of kings.
+[谚语]战争是帝王的娱乐。
+war of attrition
+消耗战
+war of movement
+机动战，运动战
+war of position
+阵地战
+war of (the) elements
+大自然灾害，暴风雨
+war to the death (或 knife)
+你死我活的斗争，殊死战
+变形：
+vi.
+warred
+. warring
+war2
+[wɑ:]
+adv., adj.
+[苏格兰和英格兰北部方言]=worse
+war3
+[wɑ:]
+vt., vi.
+=ware2
+war4
+[wɑ:]
+n.
+=ware1
+War.
+abbr.
+Warsaw
+Warwickshire
+war.
+abbr.
+warrant"
 learn,vt. 学习；认识到；得知
-history,[网络] 她的故事在男性主宰历史；祂的故事；历史文本上
-area,"n. 区域, 面积, 范围, 空地
-[计] 区域"
-gift,[网络] 礼物婴儿
+history,"n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录
+[计] 历史记录"
+area,"n. 区域，地区；面积；范围
+n. (Area)人名；(西)阿雷亚"
+gift,"n. 礼物, 赠予, 天才
+vt. 赋予"
 movie,"n. 电影
 [网络] 影片；电影院；影视"
 theatre,"n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所"
-kung fu,n. 中国功夫
-price,"n. 价格, 代价, 价值
-vt. 定...的价格"
+kung fu,"n. 〈外〉功夫
+v. 用功夫击打(对手)
+[网络] 中国功夫；功夫片；熊猫学习功夫"
+price,"n. 价格；价值；代价
+vt. 给……定价；问……的价格
+n. (Price)人名；(英)普赖斯；(法)普里斯；(葡、瑞典)普里塞"
 hero,"n. 英雄, 超越常人者, 男主角"
 save,"n. 救球
 vt. 解救, 挽救, 储蓄, 保存, 节省, 保留
 vi. 挽救, 节省, 救球
 prep. 除...之外
 [计] 保存"
-airport,[机] 通气口
+airport,"n. 飞机场
+[机] 航空站, 机场"
 hotel,[网络] 旅馆；酒店；昊天
 magic,"n. 魔术, 魔法
 a. 魔术的, 有魔力的, 不可思议的"
@@ -542,7 +907,9 @@ Monday,n. 星期一
 rainy,"a. 下雨的, 多雨的"
 swimming,"n. 游泳, 眩晕"
 Tuesday,n. 星期二
-outside, [体]界外
+outside,"n. 外面, 外表, 外界
+a. 外面的, 外表的, 外界的
+adv. 外面, 外表, 外界"
 Wednesday,n. 星期三
 Thursday,n. 星期四
 snowy,"a. 多雪的, 雪的, 被雪所覆盖着的, 下雪的"
@@ -564,36 +931,48 @@ adj. 最好的；最出色的；最优秀的；最愉快的
 n. 最好的事物（或人）；（人或事物所能达到的）最高标准
 v. 胜过；打败
 [网络] 最佳；贝斯特；倍思特"
-Tony,[网络] 乖乖
+Tony,"a. 高贵的, 时髦的"
 Friday,n. 星期五
 Christmas,[网络] 圣诞；基督的弥撒
 eve,"n. 前夕, 前夜"
 Sunday,太阳日(太阳能动力鼓吹者选定的每年5月的一天，宣传大力研究和利用太阳能)
-sale,[网络] 整车销售
-midnight, [医]人定
+sale,"n. 出售, 卖, 拍卖, 销售额, 廉价出售
+[经] 卖, 出售; 销售(货)"
+midnight,"n. 午夜, 子夜, 半夜
+a. 午夜的, 半夜的"
 date,"n. 日期, 约会, 枣椰树
 vt. 约会, 定日期
 vi. 注明日期, 过时"
 January,n. 一月
-March,abbr. Master of Architecture 建筑学硕士
+March,"n. 三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界
+vi. 进军, 前进, 交界
+vt. 使行军, 使行进"
 April,n. 四月
 June,n. 六月
-second,"n. 秒；第二名；瞬间；二等品
-vt. 支持
-adj. 第二的；次要的；附加的
-num. 第二
-adv. 第二；其次；居第二位
-n. (Second)人名；(法)塞孔"
+second,"adv. 其次；第二（的）；（重要性、规模、质量等）居第二位的；另外的
+n. 瞬间；片刻；秒（时间单位）；秒（角度单位）
+v. 附议；临时调派
+adj. 别的；次(的)；副(的)；从属的
+[网络] 第二的；第二次；秒钟"
 February,n. 二月
-third,"num. 第三, 三分之一
-[机] 第三; 第三的"
-fourth,"num. 第四, 四分之一"
-fifth,"num. 第五, 五分之一"
+third,"num. 第三；三分之一(的)
+ordnumber. 第三
+n. 三分之一；三等学位（英国大学中低于平均水平的学位）
+adv. 坐三等车(舱)
+[网络] 第三名；第三的；第三次"
+fourth,"adj. 第四的，第四个的；四分之一的
+n. 第四，月的第四日；四分之一
+num. 第四"
+fifth,"adj. 第五的；五分之一的
+n. 第五；五分之一
+num. 第五"
 May,"n. 五月
 aux. 愿能, 可以, 愿意"
-sixth,"num. 第六, 六分之一"
-August,"n. 八月
-a. 威严的, 令人敬畏的"
+sixth,"n. 月的第六日，（与the连用的）第六个；六分之一
+adj. （与 the 连用）第六的，第六个的；六分之一的"
+August,"adj. 威严的；令人敬畏的
+n. 八月（简写为Aug）
+n. (August)人名；(法、葡、西、俄、罗、英、德、瑞典、挪)奥古斯特"
 September,n. 九月
 November,n. 十一月
 leap,"n. 跳跃, 剧增, 急变, 被越过之物
@@ -601,80 +980,102 @@ vi. 跳跃, 突然经过
 vt. 跃过, 使跃过"
 seventh,"num. 第七, 七分之一"
 July,n. 七月
-eighth,"num. 第八, 八分之一"
-ninth,"num. 第九, 九分之一"
-tenth,"num. 第十, 十分之一"
+eighth,"adj. 第八的；八分之一的
+num. 第八；八分之一"
+ninth,"num. 第九
+adj. 第九的；九分之一的
+n. 九分之一"
+tenth,"num. 第十；十分之一
+adj. 十分之一的；第十个的"
 October,n. 十月
-eleventh,"num. 第十一, 十一分之一"
-twelfth,"num. 第十二, 十二分之一"
+eleventh,"n. 第十一；十一分之一
+adj. 第十一的；十一分之一的
+num. 第十一；十一分之一"
+twelfth,"adj. 第十二的，第十二个的；十二分之一的
+n. 第十二；月的第十二日"
 present,"n. 现在, 礼品, 瞄准
 a. 现在的, 出席的
 vt. 介绍, 引见, 赠送, 提出, 呈现, 上演
 vi. 举枪瞄准"
-international,[网络] 国际；交往；国际化
+international,"a. 国际的
+n. 国别设定
+[计] 国别设定"
 national,"a. 国家的, 国立的, 全国性的, 民族的
 [经] 全国性的, 国家的, 国民的"
 festival,"a. 节日的, 喜庆的, 快乐的
 n. 节日, 庆祝, 欢宴"
 usually,"adv. 通常, 大抵"
 during,prep. 在...的时候
-mountain,"n. 山, 山脉, 大堆"
+mountain,"n. 山；高山；山脉；山岭
+[网络] 大山；山牌；山岳"
 climb,"v. 攀登, 上升, 爬
 n. 攀登, 爬升"
 excited,"a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的"
 beach,n. 海滩
-Anne,n. 安妮（女子名）
+Anne,"n. 安妮；英国女王；【女名】女子名
+[网络] 哈奇逊"
 Australia,"n. 澳洲, 澳大利亚"
 hope,"n. 希望, 信心, 期待
 v. 希望, 期望, 信赖"
-yours,[网络] 是你的
-direction,n. 方向；指导；趋势；用法说明
+yours,"pron. 你的(东西), 你们的(东西)"
+direction,"n. 方向, 指导, 趋势
+[计] 方向; 流向"
 north,"n. 北方, 北
 a. 北的, 北方的
 adv. 向北方, 在北方"
-south,"n. 南方, 南
-a. 南的, 向南的
-adv. 在南方
-vi. 转向南方"
-east,"n. 东方, 东
-a. 东方的, 向东的
-adv. 向东方, 朝东方"
-west,"n. 西方, 西部
-a. 西方的, 向西的
-adv. 向西, 自西方, 在西方"
-point,"n. 要点；得分；标点；[机] 尖端
-vt. 指向；弄尖；加标点于
-vi. 表明；指向
-n. (Point)人名；(法)普安"
+south,"n. 南；南方；南部；美国南方各州
+adj. 南方的；向南的；南部的；南风的
+adv. 向南；朝南；…以南；在…之南
+v. 【天】(天体)向南走；越过子午线；转向南方
+[网络] 南方公园头；南非；南卡罗来纳"
+east,"n. 东方；东风；东方国家
+adj. 东方的；向东的；从东方来的
+adv. 向东方，在东方
+n. (East)人名；(英)伊斯特"
+west,"n. 西；西方；美国西部；西方（与东方国家相对照的欧洲和北美）
+adj. 西方的；向西的；西部的；西风的
+adv. 向西；朝西
+[网络] 太阳东升西落；西方人物；韦斯特"
+point,"n. 点, 小数点, 标点, 地点, 要点, 特点, 尖端, 分数, 得分, 穴位
+vt. 弄尖, 强调, 指出, 加标点于, 瞄准
+vi. 指, 指向, 表明"
 country,"n. 国家, 乡村, 地区, 故乡
 a. 乡下的, 农村的
 [计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式"
 New Zealand,新西兰
 grandparent,"n. 祖父, 外祖母, 祖母, 外祖父"
-southeast,"n. 东南；东南方；东南地区
-[网络] 东南区；东南部；英格兰东南"
-U.S.,[网络] -我们
-United States,"美国, 合众国"
-soon,[网络] 如些这般；就上吧；叫阵
+southeast,"adv. 向东南方；朝东南; 位于…的东南方；在…的东南
+n. （地方、国家或地区的）东南部
+a. 东南部的；东南方的; （风）来自东南方的"
+U.S.,"pron. 我们
+[网络] 美国(United States)；美国码；的缩写更新服务参数(Update Service)"
+United States,"n. 美国
+[网络] 合众国；美国营；美国西南部"
+soon,"adv. 不久, 早, 快, 宁可"
 invite,"vt. 邀请, 请求, 引起, 招致
 n. 邀请"
-everyone,每一个人
+everyone,"pron. 每个人, 人人
+[计] 系统中的一个组名"
 hey,interj. 嗨
 Sydney,n. 悉尼（澳大利亚港市）
-John,n. 厕所
+John,"n. 厕所；茅房
+[网络] 约翰；约翰·库萨克；约翰福音"
 London,[网络] 伦敦；英文单词伦敦；五环及英文单词伦敦
-capital,"n. 首都, 大写字母, 资本
-a. 首都的, 重要的"
+capital,"n. 资本；资金；首都；大写字母
+adj. 死刑的；大写的；顶好的；极好的
+[网络] 资产；首府；省会"
 U.K.,"n. 英国；联合王国
 abbr. United Kingdom 联合王国
 [网络] 英国(United Kingdom)；尿激酶(urokinase)；英国码"
 United Kingdom,"n. 联合王国
 [法] 联合王国"
-Mike,[网络] 我不是方维维；九十九里海岸；横须贺
-Washington,[网络] 华盛顿
+Mike,"vi. 偷懒, 游手好闲
+n. 休息, 游手好闲, 扩音器, 话筒"
+Washington,[网络] 华盛顿街
 Greg,"n. 格雷格（男子名, 等于Gregory）"
 Vancouver,n. 温哥华（加拿大主要港市）
-language,[网络] 语言
+language,"n. 语言, 文字, 措辞
+[计] 语言"
 else,"a. 别的, 其他的
 adv. 另外, 否则, 不然"
 flag,"n. 标志, 旗标, 旗子, 信号旗, 菖蒲
@@ -684,8 +1085,9 @@ vi. 无力地下垂
 palace,"n. 宫, 宫殿, 华丽大厦"
 the Palace Museum, 故宫; 故宫博物院
 lovely,"a. 可爱的, 有趣的"
-French,"n. 法国人, 法文, 法式
-a. 法国的, 法国人的, 法语的"
+French,"adj. 法国的；法国人的；法语的
+n. 法语
+[网络] 法文；法式；弗伦奇"
 Ottawa,n. 渥太华
 leaf,"n. 叶, 树叶, 花瓣, 页
 vi. 生叶, 翻书页
@@ -693,7 +1095,7 @@ vt. 在...上长叶, 翻...的页"
 beaver,"n. 海狸(毛皮)
 [机] 轻型及中型飞机加油"
 Niagara,"n. 尼亚加拉, 尼亚加拉河, 急流, 泛滥的洪水"
-waterfall,瀑布
+waterfall,n. 瀑布
 stripe,"n. 斑纹, 条纹
 [医] 纹, 条纹"
 eagle,"n. 鹰, 鹰状标饰"
@@ -702,7 +1104,8 @@ n. 雕像"
 liberty,"n. 自由, 特权, 许可, 冒失
 [法] 自由, 自由权, 自由区域"
 Statue of Liberty,自由女神像
-New York,纽约
+New York,"n. 【城】纽约州
+[网络] 美国纽约；在纽约的最后一周；新约克"
 same,"a. 相同的, 同样的
 pron. 相同的人(或事物)
 adv. 同样地"
@@ -728,29 +1131,31 @@ What's your name?,[网络] 你叫什么名字；你叫什麽名字；你的名�
 My name is ...,[网络] 我叫；我的名字是；我的名字叫
 I'm ...,"na. 'im = him
 [网络] 即时通讯(Instant Messaging)；即时通信(Instant Messenger)；即时消息"
-How are you?,你好吗?
+How are you?,[口语]；你好![招呼用语]；你好吗?，你身体怎么样?
 I'm fine. And you?,无
 "Nice to meet you, too.",无
-Good morning.,早上好
+Good morning.,"n. 早安
+[网络] 早上好；上午见面时说的应酬话；躬身"
 over there,在那边
-homeroom teacher,班导师
+homeroom teacher,[网络] 导师；班主任；级任教师
 visiting student,无
 show ... around,"v. 带…参观
 [网络] 带……参观；四处参观；领…参观"
 have lessons, 上课
 play sports, 参加体育运动或比赛
 have fun, 玩得高兴，过得快活; 耍笑; 玩耍
-guessing game, 猜谜
+guessing game,猜谜；猜测
 Excuse me. May I have ...?,无
-Here you are.,"你已经到了,你要的东西在这儿!"
+Here you are.,[口语]；我们(或你，你们)到了!；这就是我们(或你，你们)所要的东西。
 You're welcome!,[网络] 不客气；别客气；不用谢
-See you later.,再见
+See you later.,st. 再见.
 What about ...?,adv. 怎么样，以为如何（提出建议或用以引出话题）
 shopping list,n. 购物清单
-light blue,[医] 淡蓝
-Good afternoon.,下午好
-How about ...?," …怎么样, …怎么办"
-look at ...,"看, 考虑, 着眼于"
+light blue,"淡蓝, 淡蓝色"
+Good afternoon.,下午好![午后见面时的招呼语]；再见![午后分别时的招呼语]
+How about ...?,[网络] 怎么样；如何；怎麽样
+look at ...,"na. 看；考虑
+[网络] 看着；注视；瞧"
 How many colours do you see?,无
 come out,"到边远地区来, 出现, 露出, 出版, 罢工, 结果是, 褪去, 被解出, 宣布"
 in the sky,空中
@@ -759,8 +1164,7 @@ catch a cold,感冒
 ready for ..., 准备好干某事; 准备供（某人、事）用的; 准备应付; 对付
 be ready for ...,为…作好准备
 go back,"回去, 追溯"
-put on,"na. 假话
-[网络] 穿上；上演；戴上"
+put on,"把...放上去, 穿上, 假装, 增加, 上演, 使...上场, 使起作用, 施加于"
 go well with,在…进展顺利
 take ... all out of,无
 look so pretty,无
@@ -776,7 +1180,7 @@ How tall is he?,无
 How tall is she?,无
 He is ... metres tall.,无
 She is ... metres tall.,无
-a bit,一点儿；有一点儿
+a bit,abbr. 巴西纺织工业同业公会（Brazilian Textile and Apparel Industry Association）；升技电脑公司（世界知名主板市场厂商）
 How tall are you?,无
 I'm ... metres tall.,无
 stand against,"反对,经受住"
@@ -785,7 +1189,7 @@ How do you feel?,[网络] 你感觉怎么样；你感觉如何；怎么样了
 I'm ...,"na. 'im = him
 [网络] 即时通讯(Instant Messaging)；即时通信(Instant Messenger)；即时消息"
 I feel ...,无
-What's wrong?,怎么了
+What's wrong?,[网络] 怎么回事；怎么了；你怎么了
 see a doctor,看医生
 Are you OK?,[网络] 你还好吗；你没事吧；你还好吧
 I have a stomachache.,无
@@ -795,7 +1199,7 @@ You had better ...,无
 What's the matter?,"na. 发生了什么事?
 [网络] 怎么了；出什么事了；你怎么了"
 have a cold,患感冒
-stay home,呆在家里
+stay home,[网络] 呆在家里；待在家里；留在家中
 have a rest, 休息一下; 歇
 What does he look like?,无
 What does she look like?,无
@@ -810,13 +1214,14 @@ I'd like ...,[网络] 我想要
 I would like ...,[网络] 我想要；我想要一份小的橄榄比萨；我想要某物
 a glass of ..., 一杯
 a cup of ...,一杯…
-have to," 不得不, 只好; 只得; 必须; 不得已"
+have to,"v. 必须；要；一定；应当
+[网络] 不得不；需要；只索"
 Do you want to come with me?,无
 be full of ...,充满
 what would you like to buy?,无
-write down,"na. 记下来；贬低；减低账面价值；把…拨作公积金
-[网络] 写下；写下来；减记"
-Good job!,"n. 好运,事业发达"
+write down,"写下, 写文章贬低, 降低地位, 减低帐面价值
+[法] 记录, 记下, 以文字诋毁"
+Good job!,[网络] 做得好；干得好；干的好
 Are you ready to order?,无
 How much is ...?,[网络] 问价格；某物多少钱；单数名词
 How much are ...?,[网络] 主语
@@ -828,13 +1233,15 @@ a bottle of ..., 一瓶
 corner store,〈美〉住宅区附近的商店
 Can I help you?, 我能帮你吗
 Let me see.,"让我看看,让我想想,嗯"
-take down,"na. 扯下；卷起；记下；卸下
-[网络] 拿下；取下；拆卸"
+take down,"n. 拆卸, (非正式)失面子, 羞辱
+a. 可拆卸的
+[计] 卸下"
 pass around,[网络] 传送；分，分发；传递
 be away,贮藏起来，搁好；离开；不在，缺席
 get enough rest,无
 watch TV, 看电视
-every day, 每天; 日; 天天; 逐日
+every day,"na. 每日
+[网络] 每天；每日便利"
 the Smith family,无
 What does she do? She is a ...,无
 talk on the police radio,无
@@ -847,7 +1254,7 @@ work hard at school,无
 in front of ...,在...前面
 How old is he?,无
 How old is she?,无
-He is ...,他是
+He is ..., [医][=high-energy ion scattering]高能离子散射
 She is ...,无
 He is ... years old.,无
 She is ... years old.,无
@@ -858,19 +1265,21 @@ I'm ... years old.,无
 go on a picnic,去野餐
 a basket of ..., 一篮
 lots of ...,"许多的..., 大量的..."
-look out,"na. 挑选；注意；看外头；展望 (on；over)
-[网络] 当心；小心；留神"
+look out,"n. 警戒, 搜寻, 注意, 了望台, 监视者, 了望员, 监视哨, 景色, 前途, 远景"
 have a birthday party,无
 make a birthday card,无
 on the front,[网络] 前线
 on the front of ...,无
-Happy Birthday!,n. 生日快乐
+Happy Birthday!,"un. 生日快乐
+[网络] 生日快乐的美女；青蛙王子"
 set the table,"摆餐具,摆餐桌"
 How can we get there?,无
 take Bus 42,无
 get off,"na. 下车；脱下(衣服等)；脱(衣)；下(马)
 [网络] 下来；动身；离开"
-get lost,"迷路,迷失方向"
+get lost,"int. 〈口〉滚开；别烦我
+v. 迷路；迷失；陷入…而忽略了…
+[网络] 走开；走失；失踪"
 on the way to,在去...的路上
 look for,"寻找, 期待"
 Go down this street. Turn left at traffic lights.,无
@@ -881,9 +1290,11 @@ Yes? What can I do for you?,无
 I will take it.,无
 go to the zoo,无
 make noises,用言语作出表示;口头发表…意见
-of course,当然
+of course,"na. 当然
+[网络] 当然了；自然；当然可以"
 on the farm,[网络] 在农场；在农场上；在农场里
-Come on!,"偶遇, 进步, 发生, 开始, 出场, 快来"
+Come on!,"na. (演员)出台；进行(很好)；(暴风雨等)起；(病,苦痛等)加深
+[网络] 来吧；加油；快点"
 learn about,"学习,听说,得悉,了解"
 by bike, 骑自行车；骑单车
 find out,"na. 查出；发现；看清…的面目；识破
@@ -894,16 +1305,17 @@ have a good time,过得快乐
 go skating,去滑冰
 Boxing Day,n. 节礼日；圣诞节后的第一个工作日
 big sales,无
-count down,"倒读数, 用倒数方式计算
-[经] 倒数, 递减计算"
+count down,"n. 倒计数
+[电] 指示串联中的操作数固定的记录减少"
 Happy New Year!, 新年快乐；新春快乐
 What's the date?,无
 Sports Day,n. <英>（学校的）运动日
-leap year,闰年
+leap year,adj. 闰年的
 International Workers'Day,无
 Children's Day,"n. 儿童节(基督教会浸礼的节日,通常在六月的第二个星期日)"
 Teachers' Day,教师节
-National Day, 国庆日，国庆节；国定纪念日
+National Day,"na. 国庆日
+[网络] 国庆节；中华人民共和国国庆节；日中华人民共和国国庆节"
 the Spring Festival, 春节
 New Year's Day,元旦
 What do you like to do on holidays?,无

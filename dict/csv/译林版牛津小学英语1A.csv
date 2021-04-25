@@ -1,7 +1,10 @@
 ﻿Helen,"n. 海伦（女子名, 火把、光亮的之义）"
-Mike,[网络] 我不是方维维；九十九里海岸；横须贺
-morning,n. 早晨；黎明；初期
-afternoon,n. 午后，下午
+Mike,"vi. 偷懒, 游手好闲
+n. 休息, 游手好闲, 扩音器, 话筒"
+morning,"n. 早晨；上午；午夜至正午的时间
+adv. 在上午；在早晨；每天上午
+[网络] 早上；清晨；初期"
+afternoon,"n. 午后, 下午"
 evening,"n. 晚上；傍晚；（联欢性的）晚会；后期
 adj. 在晚上的；为晚上的；晚上用的
 int. 晚上好（等于good evening）"
@@ -10,9 +13,10 @@ mum,"n. 菊花, 沉默
 a. 沉默的
 vi. 演哑剧
 interj. 别说话"
-teacher,"n. 教师, 老师, 导师"
+teacher,"n. 教师；导师
+n. (Teacher)人名；(英)蒂彻"
 a book,无
-a bag,[网络] 一个包；袋子；一个书包
+a bag,abbr. Association of Bay Area Governments 海湾地区政府联合会; Association of Bay Area Governments (San Francisco) 海湾地区管理协会（旧金山）
 a pencil,无
 a pencil box,无
 a banana,[网络] 香蕉；一只香蕉；一个香蕉
@@ -22,17 +26,20 @@ a peach,[网络] 桃子；一只桃子；一个桃子
 a cow,[网络] 一头母牛；奶牛；一头奶牛
 a duck,[网络] 一只鸭子；飞来一只野鸭；鸭子会游泳
 a pig,[网络] 猪猡；一只猪；一头猪
-a cat,[网络] 一只猫；一只小猫；柏里欧是一只猫
+a cat,"n. (Acat)人名；(土)阿贾特
+abbr. 酰基辅酶a-胆固醇酰基转移酶（acyl coenzyme a-cholesterol acyltransferase）"
 a dog,[网络] 一条狗；一只狗；小狗
 a mouth,无
 a nose,[网络] 鼻子；一只鼻子；一个鼻子
 an ear,"prep. 靠近, 紧接于
 a. 近的"
 an eye,[网络] 眼睛；一只眼睛；一眼睛图片
-run,"vi. 经营；奔跑；运转
-vt. 管理，经营；运行；参赛
-n. 奔跑；赛跑；趋向；奔跑的路程
-n. (Run)人名；(塞)鲁恩"
+run,"n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
 jump,"n. 跳跃, 跳动, 暴涨, 惊跳
 vt. 跳跃, 跃过, 突升, 使跳跃
 vi. 跳跃, 跳, 跳动, 暴涨
@@ -43,20 +50,95 @@ n. 演唱；鸣声；呼啸声
 n. (Sing)人名；(老、德、泰)辛"
 dance,"n. 跳舞, 舞蹈, 舞会
 v. 跳舞"
-a card,[网络] 制作一张卡片；明信片；一张贺卡
+a card,Advisory Council for Applied Research and Development 应用研究与发展咨询委员会
 a doll,[网络] 玩偶；一个洋娃娃；一只娃娃
 a red packet,无
-red,"n. 红色；红葡萄酒；左翼人士；激进分子
-adj. 红的；红色的；充血的；布满血丝的
-[网络] 红(redness)；赤焰战场；红颜色"
+red,"Red
+= Red River
+red1
+[red]
+adj.
+红色的；鲜红的
+红头发的；红褐色毛发的
+红肤色的
+(因生气或害羞而)脸红的；红润的
+(眼睛等)充血的；发炎的
+[常作R-]激进的；革命的；共产党的；苏维埃的
+沾满鲜血的
+烧红的；赤热的
+流血的；暴力的
+表示亏欠的，赤字的
+用紫葡萄制成的(酒)
+[美国英语]红种人的；北美印第安人的
+n.
+红色
+红颜料；红色染料
+红色的物品(如红衣服，红棋子，红台球，红色交通信号灯等)
+[常为R-，西方新闻界用语]激进分子；赤色分子(尤指共产党)
+[美国英语][常为R-][复数]北美印第安人
+【经济学】赤字；亏空
+[口语]红葡萄酒
+【英国历史】(17世纪英国舰队的)红舰队
+[俚语](巴比妥酸盐)红胶囊，“红魔鬼”[亦作red devil]
+vt.,vi.
+= redden
+短语:
+(as) red as a rose (或berry)
+脸色红润的
+(as) red as a turkey-cock (或beetroot)
+(由于发怒或害羞而)满面通红的
+be (或get) out of the red
+不再亏损；赢利
+dago red
+[美国俚语]劣等红酒
+go into (the) red
+[美国英语](资产负债表、资金平衡表、预算等)出现赤字；出现亏损
+go red
+[美国俚语]“赤化”；变成“激进派”
+in the red
+[美国英语]负债；亏空；亏损；有赤字
+into the red
+[英国英语]负债；财政情况欠佳
+paint it red
+[美国俚语]把某事弄得引人注目；把某事物描绘成骇人听闻的样子
+paint the town red
+见town
+red, white, and blue
+红白蓝三色米字旗，英国国旗
+see red
+[口语]
+发怒，狂怒；气得发疯
+嗜血(成性)，残暴
+患红视病
+变形：
+adj.
+redder
+. reddest
+vt.,vi.
+redded
+. redding
+red2
+[red]
+vt.,vi.
+1的异体
+变形：
+vt.,vi.
+red 或 redded
+. redding redd
+red.
+abbr.
+reduce
+reduced
+reduction"
 green,"n. 绿色；草坪；绿色蔬菜；草绿色
 v. 绿化；使增强环境保护意识；使善待环境
 adj. 绿色的；草绿色的；长满青草的；绿油油的
-[网络] 格林；果岭；绿的"
-blue,"n. 蓝色
-a. 蓝色的, 下流的, 忧郁的
-vt. 染成蓝色
-vi. 变蓝"
+[网络] 格林贝尔；绿点绿色新；是绿色的"
+blue,"adj. 蓝色的；忧郁的，沮丧的；下流的
+n. 蓝色
+vi. 变蓝
+vt. 使成蓝色
+n. (Blue)人名；(英、西、意)布卢"
 yellow,"n. 黄色
 a. 黄色的"
 brown,"n. 褐色

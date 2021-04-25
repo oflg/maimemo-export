@@ -10,16 +10,17 @@ abnormal,"a. 反常的, 不规则的, 变态的, 畸形的
 n. 畸形的人"
 abolish,"vt. 废止, 革除, 消灭
 [经] 废除, 取消, 裁撤"
-abort,"vi. 流产, 中途失败
-vt. 使流产, 使失败, 使中止"
+abort,"v. 中止；流产；放弃；堕胎
+n. 流产；放弃；〈比喻〉未做好的打算；未成形的计划
+[网络] 中止计划；放弃任务；中止执行"
 abreast,"adv. 并肩地, 并列地"
-abroad,"adv. 在国外；到海外
-adj. 往国外的
-n. 海外；异国"
+abroad,"adv. 往国外, 到室外, 到处
+a. 往国外的, 在室外的, 广泛四散的"
 absence,"n. 缺席, 缺乏, 没有
 [医] 失神"
-absent,"a. 缺席的, 不在的, 缺乏的, 漫不经心的
-vt. 使缺席"
+absent,"adj. 没有；无；离开；缺勤的
+v. 使缺席
+[网络] 不在离席"
 absenteeism,"n. 经常无故缺席, 旷职, 旷工, 旷课
 [经] 有计划的怠工, 旷工"
 absorb,"vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担
@@ -41,9 +42,9 @@ acceptance,"n. 接受, 接纳, 承认, 同意, 赞同, 容忍, 相信
 accepting bank,[经] 承兑银行
 acceptor,"n. 接受者, 承兑人, 接收器
 [化] 接纳体; 接受体; 受体; 受主; 被诱物"
-access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
-vt. 访问, 存取, 接近, 使用
-[计] 访问, 存取"
+access,"v. 进入；〈正式〉到达；【IT】获得或储存(电脑文件)
+n. 通道；入口；机会；权力
+[网络] 访问权；连接开始；数据库之类的"
 accessory,"n. 附件, 零件, 附加物, 从犯, 同谋
 a. 附属的, 补充的, 同谋的, 帮凶的, 非主要的, 副的
 [计] 附件"
@@ -60,9 +61,10 @@ vi. 伴奏, 伴唱"
 accord,"n. 一致, 调和, 协定
 vt. 给与, 使一致
 vi. 相符合"
-account,"n. 账户；解释；账目，账单；理由
-vi. 解释；导致；报账
-vt. 认为；把…视为"
+account,"n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目
+vi. 报帐, 解释, 导致, 报偿, 占, 杀死
+vt. 认为
+[计] 帐户, 帐号"
 accountancy,"n. 会计工作, 会计学
 [经] 会计工作, 会计学术, 会计职业"
 accountant,"n. 会计人员, 会计师
@@ -88,7 +90,8 @@ acknowledge,"vt. 承认, 告知收悉, 答谢, 报偿
 acknowledgement,n. (对错误等的)承认；认知；(对权威、主张、要求、权利、功绩等的)确认(或承认)；认可；(对收到来信、汇款等的)确认通知，回条，回执；回复，回音，作答，回答
 acquire,"vt. 获得, 学到
 [电] 目标锁定"
-across-the-board,"全面地, 包括所有人在内"
+across-the-board,"a. 全面的, 在固定时间内播送的
+adv. 全面地"
 across the spectrum,无
 acting,"n. 演戏, 装腔作势
 a. 代理的, 演出用的, 起作用的"
@@ -118,7 +121,7 @@ adjourn,"vi. 休会, 换地方
 vt. 使中止, 推迟"
 adjust,"vt. 调整, 使适应于, 校准
 vi. 适应于, 被调节, 相互熟悉而适应"
-adman,n. 广告商；广告撰写员
+adman,"n. 广告撰写员, 广告商"
 administer,"vt. 管理；执行；给予
 vi. 给予帮助；执行遗产管理人的职责；担当管理人"
 administration,"n. 行政, 管理, 政府机关
@@ -136,8 +139,9 @@ adventure,"n. 冒险, 冒险经历
 v. 冒险"
 adverse,"a. 不利的, 敌对的, 相反的, 逆的
 [法] 相反的, 敌对的, 逆的"
-advert,"vi. 提出看法, 引起注意, 留意
-n. 广告"
+advert,"v. 留意；提到
+n. 〈英口〉同“advertisement”
+[网络] 广告机板；广告伞；广告风筝"
 advertise,"vt. 做广告, 通知, 公布
 vi. 做广告"
 advisor,"n. 顾问, 劝告者, 指导教师"
@@ -158,15 +162,18 @@ against all risks,保全险，保一切险，承保一切风险
 aged debtor,无
 agenda,"pl. 议程, 日常工作事项
 [计] 待议事件"
-agent,[网络] 代理；智能体；软件代理
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
 aggressively,"adv. (贬)侵略, 侵犯, 寻衅, (褒)敢作敢为, 有进取心, (武器)攻击性, 过分, 放肆"
 agreement,"n. 同意, 合约, 协议
 [经] 契约, 协议, 协定"
-ahead, 一捆；一束；一头；一棵
+ahead,"a. 领先的, 预先的, 向前的
+adv. 领先, 预先, 向前, 胜于, 在前面, 在将来"
 aid,comb.form [多用以构成专有名词]表示“…的慈善机构”，“为…募捐”：Ferry-aid
-airmail,"航空邮政, 航空邮件
-[经] 航空信件, 空邮"
-air time,n. 电影或电视节目开始的时间
+airmail,"a. 航空邮政的
+vt. 航空邮寄
+n. 航空邮件"
+air time,电影或电视节目开始的时间；机场大厦
 album,"n. 粘贴簿, 唱片套
 [医] 白色物"
 alert,"a. 警觉的, 灵敏的, 留心的
@@ -183,10 +190,12 @@ vi. 容许, 猜想
 [计] 允许命令"
 allowance,"n. 津贴, 零用钱, 限额, 折扣, 允许
 vt. 定量供应"
-alongside,"adv. 在旁边
-prep. 在……旁边"
-alternate,"a. 交替的, 轮流的, 间隔的
-v. 轮流, (使)交替"
+alongside,"adv. 在旁边, 靠拢着
+prep. 在...旁边, 与...在一起"
+alternate,"v. 交替；轮流；使交替；使轮流
+n. 代理人；代替者；候补者
+adj. 交替的；轮流的；间隔的；每隔（…天等）的
+[网络] 互生"
 amalgamate,"v. 使汞齐化, 合并"
 amass,"vt. 积聚, 堆积"
 amazing,a. 令人惊异的
@@ -200,8 +209,8 @@ amount,"n. 总数, 总额
 vi. 总计, 等同"
 analyse,"vt. 分析, 细察, 分解
 [经] 分析"
-analysis,"n. 分析
-[计] 分析机; 分析员; 分析; 分析程序"
+analysis,"n. 分析结果；（对物质成分的）分析
+[网络] 进一步分析；模式分析；分析表明"
 anecdote,"n. 轶事, 奇闻"
 angel investor,天使投资者
 anniversary,n. 周年纪念
@@ -210,8 +219,8 @@ vi. 当报幕员, 宣布参加竞选"
 annoy,"vt. 使恼怒, 骚扰"
 annual,"n. 年刊, 年报
 a. 每年的, 一年一次的, 全年的, 一年生的"
-annul,"vt. 废除, 宣告无效, 取消
-[经] 撤销, 宣告无效"
+annul,"v. 废除；取消；宣告无效
+[网络] 废止；使无效；宣布无效"
 anonymous,"a. 姓氏不详的, 无名的, 无特色的
 [计] 无记录"
 answering machine,"答录机, 录音电话"
@@ -233,8 +242,8 @@ applicant,"n. 申请者
 [经] 申请人, 请求人, 谋事人"
 application,"n. 应用, 申请, 志愿书, 应用程序
 [计] 应用, 应用程序"
-apply,"vt. 涂, 应用
-vi. 申请, 适用"
+apply,"vt. 申请；涂，敷；应用
+vi. 申请；涂，敷；适用；请求"
 appoint,"vt. 任命, 指定, 下令
 [法] 派, 派任, 任命"
 appointee,"n. 被任命者
@@ -255,11 +264,11 @@ apprehension,"n. 理解, 忧惧, 逮捕
 [医] 领会"
 apprentice,"n. 学徒, 生手
 vt. 使做学徒"
-approach,"n. 接近, 入门
-vt. 接近, 近似, 找...商量
-vi. 靠近"
-appropriate,"adj. 适当的
-vt. 占用；拨出"
+approach,"n. 方法；接近；路径；道路
+v. 接近；建议；接洽；着手处理
+[网络] 措施"
+appropriate,"a. 适当的
+[经] 适当的, 拨出, 占用"
 approval,"n. 赞成, 批准
 [化] 核准"
 approve,"vt. 赞同, 核准, 为...提供证据
@@ -273,8 +282,8 @@ arbitrage,"n. 套利, 套汇, 仲裁
 [经] 套汇, 套利, 公断"
 arbitration,"n. 仲裁, 公断
 [计] 仲裁"
-area,"n. 区域, 面积, 范围, 空地
-[计] 区域"
+area,"n. 区域，地区；面积；范围
+n. (Area)人名；(西)阿雷亚"
 argument,"n. 争论, 论证, 论据, 自变量
 [计] 参数"
 arise,"vi. 站立, 出现, 起来"
@@ -284,11 +293,13 @@ arrears,"n. 逾期债款, 欠帐
 [经] 延迟, 积欠, 尾数"
 arrival,"n. 到达, 抵达, 到达者
 [经] 到达, 到达物"
-artificial person,[经] 法人
+artificial person,"na. 【法】法人[团体
+[网络] 非自然人；法人拟制说；也表示法人的意思"
 ascend,"vi. 上升, 追溯, 登高
 vt. 攀登"
 A share,[经] A种股票
-as per,"根据,按照,依照"
+as per,"n. 阿斯皮尔（土耳其和埃及从前的银币名）
+n. (Asper)人名；(德、意、瑞典)阿斯佩尔；(英)阿斯珀"
 aspiration,"n. 热望, 志向, 渴望
 [医] 吸入; 吸[引], 吸引术"
 aspire,"vi. 渴望, 立志于"
@@ -308,7 +319,8 @@ assignment,"n. 分配, 功课, 任务, 转让, 归因, 陈述
 assist,"n. 帮助, 协助
 vt. 帮助, 促进
 vi. 协助, 参加"
-assistance,n. 援助，帮助；辅助设备
+assistance,"n. 协助, 援助
+[经] 援助, 帮助"
 associate,"n. 同伴, 伙伴, 关联的事物
 vt. 使联合, 使发生联系
 vi. 交往
@@ -339,19 +351,19 @@ vt. 拍卖"
 audacious,"a. 大胆的, 鲁莽的, 胆大妄为的"
 audience,"n. 听众, 观众, 读者
 [法] 听讼, 观众, 听众"
-audit,"n. 审计, 查帐
-vt. 查(帐), 旁听
-vi. 查账
-[计] 查帐; 审查; 检查"
+audit,"v. 审计；检查；〔美国〕(大学生)旁听(课程)
+n. 审计；(地主与佃户间的)决算
+[网络] 剧场椅"
 authorise,vt. 授权；批准；允许；委任（等于authorize）
 authoritative,"a. 权威性的, 官方的, 命令式的
 [法] 官方的, 当局的, 权威的"
 autocratic,"a. 独裁的, 专制的"
-automaker,n. 汽车制造商
+automaker,n. <美>汽车制造商
 automate,"vt.vi. (使)自动化
 [计] 自动化"
 autopay,n. 自动转帐
-available,adj. 有效的，可得的；可利用的；空闲的
+available,"a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
 average,"n. 平均, 平均数, 一般水平, 海损
 a. 平均的, 中等的, 平常的
 vt. 算出...平均数, 平均做, 均分, 使平衡
@@ -362,20 +374,28 @@ aviation,"n. 航空, 航空学, 飞行术
 [法] 航空, 飞行, 飞行术"
 awareness,"n. 意识, 认识
 [计] 识别, 议定, 明白"
-axe,[木] 斧（子）
-axis,n. 轴；轴线；轴心国
-backdate, [财]倒填日期
-background,[经] 背景
+axe,"n. 斧, 斧头
+vt. 削减(人员、经费、计划、机构等)"
+axis,"n. 轴
+[计] 坐标轴"
+backdate,"v. 追溯
+[网络] 倒填日期；填早日期；倒填装船日期"
+background,"n. 背景, 背景资料
+[计] 背景, 后台"
 backhander,n. 逆打；反手一击；追加的一杯酒；（英）回扣
 backing,"n. 后退, 衬背, 后援, 支持者
 [化] 衬垫"
-backlog,"定单积压,预备物"
+backlog,"n. 积压待办的事务, 积压而未交付的订货, 积压的工作
+vt. 储备, 把...积压起来
+[计] 储备, 后备, 积压"
 bad,"a. 坏的
 n. 坏
 adv. 坏地"
 bailout,"na. 保释(被告)；委托(货物)；(从飞机上)跳伞
 [网络] 舀出；摆脱困境；纾困"
-balance,[网络] 平衡；达到平衡
+balance,"n. 平衡, 差额
+vi. 平衡, 相等
+vt. 称, 权衡, 比较, 使平衡, 结算, 抵消"
 balloon,"n. 气球
 vt. 使成气球状
 vi. 膨胀如气球, 激增"
@@ -387,11 +407,13 @@ a. 破产的
 vt. 使破产"
 banner,"n. 旗帜
 a. 显著的, 特别好的"
-bar,[网络] 自动步枪；英美车队；文学士
-bar chart,"[计] 条型图
-[经] 柱形图表"
-bar code,"条形码
-[计] 条形码"
+bar,"n. 条, 棒, 酒吧, 栅, 障碍物
+vt. 禁止, 阻挡, 妨碍
+[计] 棒形图"
+bar chart,"na. (统计用的)条线图
+[网络] 拄形图；柱形图；横道图"
+bar code,"na. (商品上示价的)条纹码
+[网络] 条码；条形码；条形码技术"
 bargain,"n. 交易, 买卖协定, 特价商品
 v. 讲价, 交易"
 bargaining,"n. 讨价还价, 谈判, 交涉
@@ -413,44 +435,57 @@ bearer,"n. 带信人, 票据持有人, 搬运者
 [经] 持票人, 持有人, 不(无)记名"
 bear in mind,"na. 记住；铭记不忘；注意
 [网络] 牢记在心；记在心里；考虑到"
-bear market,"[经] 跌风市场, 空头市场"
-beat,"从事于,做"
+bear market,熊市；[金融] 空头市场；[贸易] 卖空市场
+beat,"v. 打；超过；射；走出
+n. 跳动；节拍；抢先；悸动
+adj. 垮掉；完了；累极了；属于“垮掉的一代”的
+[网络] 打败；战胜；我已筋疲力尽"
 beforehand,[网络] 预先；事先；提前
 behave,"vi. 表现；（机器等）运转；举止端正；（事物）起某种作用
 vt. 使守规矩；使表现得…"
-behaviour,作，行为；性能，特性，品质；状态，工况，运行情况
+behaviour,"n. 行为, 举止
+[计] 特性, 性能, 特点, 行为, 动作, 状态"
 behind the scenes,"在后台, 在幕后
 [法] 秘密地, 暗中, 幕后"
 beleaguered,"v. 围攻（beleaguer的过去式和过去分词）
 a. 围困的；包围的"
 below-the-line,线下预算，线下项目，栏外会计
-benchmark,[机] 水准点
+benchmark,n. 准基点（等于benchmark）
 benefit,"n. 利益
 vt. 有益于
 vi. 受益"
-best practice, 最优方法
+best practice,"最佳实务, 最佳实践；最佳做法, 最优方法；典范做法"
 beverage,"n. 饮料
 [化] 饮料(如牛奶、茶、咖啡、啤酒等)"
-bid,abbr. bis in diē[拉丁语、处方用语]每日两次(= twice a day )
-bilateral,adj. 双边的；有两边的
-bill,"n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据
-vt. 开帐单, (用招贴)宣布"
-billboard,"[经] 广告牌, 揭示牌"
+bid,"n. （买方的）出价；投标；努力争取；叫牌
+v. 出（价）；（尤指拍卖中）喊价；投标；努力争取
+[网络] 一日二次；骞跺"
+bilateral,"a. 有两边的, 双边的, 双方的
+[医] 两侧的"
+bill,"n. 法案；账单；喙；海报
+v. 开账单；把（某人或事物）宣传为…；宣布…将做某事
+[网络] 比尔"
+billboard,"n. 广告牌, 布告板
+vt. 宣传"
 billion,"num. 十亿, 十亿个"
 bioinformatics,[网络] 生物资讯；生物信息学；生物资讯学
-black,"n. 黑色, 黑颜料
-a. 黑色的"
+black,"adj. 黑色的；黑人的；邪恶的
+n. 黑色；黑人；黑颜料
+vt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿
+vi. 变黑
+n. (Black)人名；(英、西)布莱克；(德、葡、捷)布拉克"
 blacklist,[经] 黑名单
 bleak,"a. 萧瑟的, 荒凉的, 阴冷的"
-blind alley,[计] 死胡同
+blind alley,"n. 死路；死胡同
+[网络] 死路一条；绝境；绝路"
 block,"n. 街区, 木块, 石块, 块
 vt. 阻塞, 封锁, 使成块状
 [计] 块, 数据块"
 blockbuster,巨型炸弹；超级大片；流行事物
 blue chip,"n. 蓝筹股（稳而值钱的股票）, 稳当可靠的财产"
 blue-collar,"[法] 蓝领阶级的, 工人阶级的"
-blueprint,"蓝图
-[法] 蓝图"
+blueprint,"n. 蓝图, 设计图, (周详的)计划
+vt. 制成蓝图, 计划"
 board,"n. 木板, 甲板, 膳食, 会议桌
 vt. 乘船, 供膳食, 用板覆盖
 vi. 搭伙
@@ -460,18 +495,21 @@ vt. 存入关栈, 使黏合
 vi. 结合"
 bonus,"n. 奖金, 红利
 [经] 奖金, 红利, 额外补贴"
-book,[计] Adobe FrameMaker Book文件
-bookkeeper,"借书久借不还的人
-簿记员
-记账人"
-bookkeeping,n. 记帐，簿记
+book,"n. 书, 书籍, 帐簿, 名册, 工作簿
+v. 登记, 预订
+[计] 工作簿"
+bookkeeper,"n. 簿记员
+[经] 簿记员, 记帐员"
+bookkeeping,"n. 簿记
+[经] 簿记, 簿记学"
 booklet,n. 小册子
 boom,"n. 繁荣, 隆隆声
 vi. 急速发展, 发隆隆声
 vt. 使兴旺, 发隆隆声"
 boost,"n. 推进, 吹捧
 vt. 推进, 提高, 宣扬, 促进"
-bottleneck,[化] 瓶颈
+bottleneck,"n. 瓶颈
+[经] 瓶颈, 增产障碍"
 bottom,"n. 底部；末端；臀部；尽头
 adj. 底部的
 vt. 装底；测量深浅；查明真相
@@ -481,28 +519,38 @@ bounce,"n. 跳, 跳跃, 弹力, 撞击
 vi. 反跳, 弹跳
 vt. 使跳回, 撞击
 [计] 打回"
-bound,comb. 因某种情况而受阻的；开往…的，往…去的
+bound,"n. 跃, 回跳, 范围, 边界
+a. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的
+vi. 跳跃, 弹起
+vt. 使跳, 限制, 形成...的疆界
+bind过去式和过去分词
+[计] 装订的"
 bourse,"n. 交易所
 [医] 囊状组织"
 bout,"n. 一次；一阵；一场；（疾病的）发作
 [网络] 回合；一回；较量"
 boycott,"n. 联合抵制
 vt. 联合抵制"
-brainstorm,[医] 脑暴发
-branch,comb.form 【脊椎动物学】表示“具有…鳃的”：lamellibranch
-brand,[网络] 布兰多
-brand stretching,[网络] 品牌延伸；品牌扩张
+brainstorm,"un. 心急火燎；突然神经错乱；灵感
+[网络] 头脑风暴；脑风暴法；脑风暴式"
+branch,"n. 树枝, 支店, 支流, 分部
+vi. 分支, 出枝
+vt. 分割, 用枝状叶脉刺绣花纹装饰
+[计] 分支, 目录分支"
+brand,"n. 商标, 牌子, 烙印
+vt. 打烙印于"
+brand stretching,n. (家喻户晓的)商标名称的延伸；品牌扩展
 breach,"n. 裂口, 违背, 破坏, 违反, 突破, 破裂
 vt. 攻破, 突破
 vi. 跳出水面"
-break even,"并列起跑, 得失相当
-[经] 不赚不赔, 收支相抵"
+break even,"a. 得失相当的, 不盈不亏的
+[计] 无损失的, 无冗余的"
 break the bank,耗尽资源
-breakthrough,"突围, 突破
-[计] 断缺"
-bribe,"n. 贿赂
-vt. 贿赂, 收买
-vi. 行贿"
+breakthrough,"na. 【军】突破(点)；(科技等的)重大发现；关键问题的解决
+[网络] 穿透；穿通；打破"
+bribe,"v. 贿赂；向（某人）行贿
+n. 贿赂
+[网络] 收买；向...行贿；买通"
 brief,"n. 摘要, 简报
 a. 简短的, 短暂的
 vt. 对...作简报, 摘要, 节录"
@@ -527,9 +575,9 @@ vi. 马背突然拱起, 反对, 吹牛, 闲聊
 vt. 马背突然拱起将骑手摔下, 反对, 用碱水洗
 a. 雄的"
 budget,adj. 预算的；与形容词；像'low'和'big'连用形成形容词指花费多少钱的尤指拍电影的预算；comb
-buffer,"n. 缓冲器, 缓冲区
-vt. 缓冲
-[计] 缓冲区, 缓冲器"
+buffer,"v. 缓存；保护；减缓（伤害）；使不受…的侵害
+n. 缓冲器；缓冲物；起缓冲作用的人；缓存区
+[网络] 和缓冲管理法"
 bulge,"n. 胀, 膨胀
 vi. 凸出
 vt. 使膨胀"
@@ -539,7 +587,8 @@ bulletin,"n. 公告, 布告, 公报
 [电] 电子布告栏"
 bullish,"a. 似公牛的, 看涨的, 上扬的
 [经] 行情看涨的"
-bull market,"[经] 上涨行情, 哄抬市场价格, 多头市场"
+bull market,"na. 上涨行情
+[网络] 牛市；多头市场；旺市"
 bull position,"[经] 买家, 买主地位, 多头"
 bulwark,"n. 保障, 壁垒, 防波堤"
 bundle,"n. 捆, 束
@@ -556,7 +605,8 @@ burglar,"n. 窃贼
 burnish,"vt. 擦亮, 打磨, 磨光
 vi. 磨光发亮
 n. 光辉, 光泽"
-business,[网络] 商务层；企业；商务服务业
+business,"n. 生意, 事情, 业务, 商业, 商行, 职责
+[经] 企业, 商业, 营业"
 bust,"n. 半身像, 胸部, 失败, 殴打
 vt. 使爆裂, 使破产
 vi. 爆裂, 破产
@@ -569,9 +619,11 @@ buyout,"na. 出钱使某人出让地位[产权等]；买下…的全部产权
 buzz,"n. 嗡嗡声, 流言
 vi. 发出嗡嗡声, 说闲话
 vt. 使嗡嗡叫, 散布"
-buzzword, 行话，术语
-by-product, 副产品，副产物
-CAD,[计] Softdek的Drafix CAD文件
+buzzword, 流行行话; （报刊等的）时髦术语
+by-product,"n. 副产品, 额外收获, 意外收获
+[计] 副产品"
+CAD,"n. 卑鄙的男人, 下流人, 无赖, 计算机辅助设计
+[计] 字符汇编/反汇编, 计算机辅助设计, 计算机辅助探测, 计算机辅助诊断"
 calculate,"v. 计算, 预测, 计划, 打算"
 call,"n. 呼叫, 访问, 打电话, 号召, 召集, 要求
 vt. 呼叫, 召集, 打电话
@@ -581,7 +633,8 @@ campaign,"n. 战役, 运动, 竞选运动
 vi. 参加运动, 作战"
 cancellation,"n. 取消, 作废, 注销戳
 [经] 注销, 取消, 保险单的注销"
-candidate,n. 候选人，候补者；应试者
+candidate,"n. 候选人, 投考者
+[法] 候选, 候补者"
 canteen,"n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部"
 canvass,"n. 细查, 讨论, 游说
 vt. 彻底检查, 向...拉票或拉生意, 讨论
@@ -589,17 +642,20 @@ vi. 游说"
 capable,"a. 有能力的, 能的, 能干的"
 capacity,"n. 容量, 能力, 才能, 资格
 [计] 容量"
-capital,"n. 首都, 大写字母, 资本
-a. 首都的, 重要的"
+capital,"n. 资本；资金；首都；大写字母
+adj. 死刑的；大写的；顶好的；极好的
+[网络] 资产；首府；省会"
 capitalise on,"利用
 获利"
 caption,"n. 说明, 字幕, 标题
 vt. 加上标题, 加上说明
 [计] 标题"
 captive market,[经] 垄断市场
-capture,[网络] 利益集团捕获
-carbon dioxide,"二氧化碳
-[化] 二氧化碳"
+capture,"n. 抓取, 战利品, 捕获之物
+vt. 抓取, 获得, 迷住
+[计] 截获命令"
+carbon dioxide,"n. 二氧化碳
+[网络] 二氧化碳吸收体"
 career,"n. 事业, 生涯, 成功
 [法] 职业, 专业, 履历"
 carrier,"n. 运送者, 邮递员, 带菌者
@@ -607,8 +663,7 @@ carrier,"n. 运送者, 邮递员, 带菌者
 carry a lot of stock,无
 case study,"[计] 实例研究, 情况研究
 [经] 案例研究"
-cash,"n. 现金
-vt. 兑现"
+cash,abbr. cashew 腰果树; cashier （商店等的）出纳员; （银行或公司的）司库
 cashier,"n. 出纳员
 [经] 司库, 出纳员, 收支员"
 cash-strapped,"adj. 资金短缺的
@@ -621,12 +676,14 @@ casual labour,"临时工
 散工"
 casualty,"n. 意外事故, 伤亡, 受害者
 [化] 事故"
-catalogue,型绿
+catalogue,"n. 目录, 大学情况一览
+vt. 编入目录"
 catalyst,"n. 触媒, 接触剂, 催化剂, 刺激因素, 促进因素
 [计] 催化剂"
-catastrophe,n. 大灾难；大祸；惨败
+catastrophe,"n. 大灾难, 大祸
+[化] 突变"
 catch a cold,感冒
-catch-all, 打捞工具
+catch-all,"n. 装杂物的容器/地方, 截流器, 总受器, 分沫器"
 catch on,"变得流行, 理解, 明白"
 categorise,"vt. 分类, 归类"
 category,"n. 种类, 类项
@@ -637,7 +694,7 @@ catering,n. 给养；承办酒席；[医]提供饮食及服务
 caution,"n. 小心, 慎重, 警示
 vt. 警告
 [计] 警告"
-CBA,abbr. central battery apparatus 中心电池装置
+CBA,abbr. 中国篮球协会（China Basketball Association）；成本效益分析（ost-Benefit Anlysis）
 ceiling,"n. 天花板
 [经] 顶点, 顶线, 上限"
 cement,"n. 水泥, 胶结剂
@@ -645,7 +702,8 @@ vt. 胶合, 用水泥涂
 vi. 黏牢"
 centralise,"vt. 形成中心, 把统治权集中于中央, 把...集中起来, 成为...的中心, 集中"
 centrepiece,n. 中心装饰品
-CEO,[网络] 首席执行官；鹰牌控股执行总裁；执行长
+CEO,"abbr. (=Chief Executive Officer)总经理
+[网络] 首席执行官；行政总裁；美国的首席执行官们"
 certificate,"n. 证书, 证明书
 vt. 发给证明书, 用证书批准, 用证书证明"
 certified,"a. 证明合格的
@@ -653,10 +711,12 @@ certified,"a. 证明合格的
 chain,"n. 链条；链子；锁链；一系列
 v. 用锁链拴住（或束缚、固定）
 [网络] 连锁；一连串；项圈"
-chair,[网络] 委员长
-challenge,"n. 挑战, 盘问
-vt. 向...挑战, 要求, 怀疑
-vi. 挑战, 对(证据等)表示异议"
+chair,"n. 椅子；（主持会议或委员会的）主席席位；委员长职位
+v. 担任（会议、讨论等的）主席；主持（会议、讨论等）
+[网络] 餐椅；讲座；主持人"
+challenge,"n. 挑战；质疑；质询；挑战书
+v. 考查；盘问；对…怀疑（或质疑）；拒绝接受
+[网络] 挑战啊"
 change,"n. 变化, 找回的零钱, 找头, 更换
 vt. 改变, 更换, 兑换"
 channel,"n. 海峡, 航道, 频道
@@ -675,26 +735,31 @@ cheque,n. 支票
 chief,"n. 领袖, 酋长, 长官, 主要部分
 a. 主要的, 首位的"
 chill-out zone,无
-chip,[网络] 新电脑；中游晶粒切割；金属切削加工过程中切屑
+chip,"v. 打破；弄缺；被损坏；切下
+n. （木头、玻璃等的）缺口；（木头、玻璃等破损后留下的）碎屑
+adj. (雀,栗鼠等)唧唧叫的
+[网络] 筹码；薯条保温台；薄片"
 chokepoint,"n. 瓶颈, 阻碍"
 chronological,"a. 年代学的, 按时间顺序的, 按照年月顺序的
 [计] 编年的, 按年月日顺序的"
-CIF,[计] Adaptec CD 创建器 CD映像文件
+CIF,"abbr. 到岸价格; 成本、保险加运费（cost , insurance , and freight）"
 circular,"a. 圆形的, 循环的, 间接的
 [医] 环状的, 循环的"
 circulate,"v. (使)流通, (使)循环, (使)传播"
 circumstance,"n. 环境, 状况, 事件"
 cite,"vt. 引用, 引证, 表彰
 [建] 引证, 指引"
-claim,叫喊
+claim,"n. 要求, 要求权, 断言, 权利
+vt. 要求, 认领, 主张
+vi. 提出要求, 主张, 断言"
 clarify,"vi. 澄清, 阐明
 vt. 使明晰"
 classified advertisement,分类广告
-clean,"a. 干净的, 清白的, 简洁的
-adv. 清洁地, 完全地
-vt. 清理, 使干净, 出空
-vi. 被搞干净
-n. 打扫"
+clean,"adj. 洁净的；干净的；爱干净的；爱整洁的
+v. 除去…的灰尘；使…干净；打扫；变干净
+n. 打扫；清扫
+adv. 完全地
+[网络] 清洁；清洁的；清除"
 clear,"a. 清楚的, 明确的, 澄清的
 adv. 清晰地
 vt. 澄清, 清除障碍
@@ -715,18 +780,21 @@ clinch,"n. 钉牢
 v. 敲弯, 用臂钳住"
 clone,"n. 无性系
 [计] 代用件"
-clue,"n. 线索, 暗示
-vt. 暗示, 提供线索"
-clutter,"n. 杂乱
-vt. 弄乱, 使凌乱"
+clue,"n. 提示；迹象；（纵横填字谜、游戏或问题的）提示词语
+v. 提示；为…提供线索
+[网络] 暗示；妙探寻凶；端倪"
+clutter,"n. 杂乱；杂乱的东西（尤指不需要的或无用的）
+v. 凌乱地塞满；乱堆放
+[网络] 混乱；一堆杂物；喧闹"
 c/o,"abbr. 一氧化碳（carbon monoxide）；哥伦比亚（Colombia）；现付票（Cash Order）；货源证书（Certificate of Origin）
 n. (Co)人名；(中)措(藏语·汉语拼音)"
 coach,"n. 四轮大马车, 教练
 vt. 训练, 指导
 vi. 坐马车旅行, 作指导"
 co-founder,n. (学说、组织学的)共同创立者
-coincide,"vi. 一致, 符合；同时发生"
-cold call,n. （向潜在的主顾打的）冷不防电话
+coincide,"vi. 一致, 符合
+[化] 重合"
+cold call,（向潜在的主顾打的）冷不防电话；冷不防上门推销
 collaboration,"n. 合作, 勾结
 [法] 通敌卖国者, 奸细"
 collapse,"n. 崩溃, 倒塌, 虚脱
@@ -734,16 +802,16 @@ vi. 倒塌, 崩溃, 瓦解
 vt. 使倒塌, 折叠
 [计] 折叠"
 colleague,"n. 同事, 同僚"
-collect,"v. 收集, 聚集, 集中, 搜集
-a. 由收到者付款的
-adv. 由收到者付款地"
+collect,abbr. collection 收藏; 征收; collective 集体的; collectively 全体的
 combat,"n. 争斗, 战斗
 vi. 战斗, 争斗
 vt. 与...战斗, 与...斗争"
 combine,"v. (使)联合, (使)结合
 n. (企业的)联合, 联合收割机"
 come up with,"赶上, 提出"
-command,[网络] 命令
+command,"n. 命令, 指挥, 控制, 部队, 司令部
+v. 命令, 指挥, 控制
+[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
 comment,"n. 注解, 批评, 评论, 备注
 vi. 评论, 注解
 [计] 备注"
@@ -751,18 +819,21 @@ commerce,"n. 商业, 商务, 贸易
 [经] 商业, 贸易, 商务"
 commercial,"a. 商业的, 商用的, 商品化的
 n. 商业广告节目"
-commission,"n. 委员会；佣金；犯；委任；委任状
-vt. 委任；使服役；委托制作"
+commission,"n. 委任状, 任官令, 所委职责, 佣金, 犯, 委托, 所托之事
+vt. 委任, 委托制作, 使服役"
 commitment,"n. 委托, 交押, 承担义务, 赞助
 [医] 院禁"
-committee,n. 委员会
+committee,"n. 委员会
+[经] 委员会"
 commodity,"n. 农产品, 商品, 有用的物品
 [经] 商品, 货物, 日用品"
-commonplace,[网络] 公共位置；迷你涮涮锅；共同空间
-common sense,常识
-communication,"n. 交流, 交通, 通讯
-[计] 通信"
-community,n. 社区；[生态] 群落；共同体；团体
+commonplace,"n. 老生常谈；司空见惯的事；普通的东西
+a. 平凡的；陈腐的"
+common sense,"a. 有常识的, 一望而知的, 明明白白的"
+communication,"n. 通信；交际；交流；信息
+[网络] 通讯；沟通；对话"
+community,"n. 社区, 公众, 共有, 共同体
+[经] 公众, 共有, 社会"
 commute,"vt. 交换, 折偿, 减轻
 vi. 代偿, 经常乘车来往"
 compact,"a. 紧凑的, 紧密的, 简洁的
@@ -787,23 +858,24 @@ complex,"n. 综合体, 情结, 络合物
 a. 复杂的, 组合的"
 complicate,"vt. 弄复杂, 使错综, 使恶化
 vi. 变复杂"
-compliment,"n. 恭维；称赞；问候；致意；道贺
-vt. 恭维；称赞"
+compliment,"n. 称赞, 恭维, 敬意
+vt. 称赞, 褒扬, 恭维"
 comply,"vi. 顺从, 依从
 [法] 遵守, 承诺, 照做"
 component,"n. 元件, 组件, 成分
 a. 组成的, 构成的
 [计] 组件"
-composite,"a. 合成的, 混合成的, 菊科的
-n. 合成物, 复合材料, 菊科"
+composite,"n. 复合材料；混合物；合成物
+adj. 合成的；混成的；复合的
+[网络] 复合土工膜"
 composition,"n. 作文, 创作, 组成
 [化] 成分; 组成"
 comprehensive,"a. 广泛的, 有理解力的, 综合的
 [经] 广泛的, 综合的, 全面的"
 comprise,"vt. 包含, 构成"
-compromise,"n. 妥协, 折中, 折中方案, 和解
-vi. 妥协处理
-vt. 危害"
+compromise,"n. 妥协；和解；折中；互让
+v. 让步；违背（原则）；达不到（标准）
+[网络] 都做点妥协"
 compulsory,"a. 被强制的, 强迫的, 义务的
 [经] 强迫的, 强制的"
 computer literate,"adj. 能熟练使用计算机的；会用电脑的
@@ -819,7 +891,9 @@ concept,"n. 观念, 概念
 concise,"a. 简洁的, 简明的"
 conclude,"vt. 结束, 作结论, 推断
 vi. 结束, 推断"
-condition,[网络] 要件；经营环境；条件
+condition,"n. 情况, 条件
+vt. 使健康, 以...为条件, 决定, 使适应
+[计] 条件"
 conditional,"a. 有条件的, 有前提的
 [电] 有条件的"
 conduct,"n. 行为, 举动, 指导
@@ -827,11 +901,11 @@ vt. 为人, 指挥, 管理, 实施
 vi. 领导, 传导, 指挥"
 confectionery,"n. 甜食, 糕饼制造业, 糖果店
 [建] 糖食店"
-confer,"vt. 授予, 带来
-vi. 协商"
+confer,abbr. conferred 授予称号的，赠与的
 conference,"n. 会议
 [经] 会议, 讨论会, 协商会"
-confidence,[网络] 有自信
+confidence,"n. 信心；信任；秘密
+adj. （美）诈骗的；骗得信任的"
 confident,"a. 有信心的, 有把握的"
 confidential,"a. 机密的, 获他人信赖的, 易于信任他人的
 [经] 秘密件"
@@ -856,7 +930,8 @@ n. 集成物, 混合体, 砾岩
 v. (使)凝聚成团"
 conquer,"vt. 克服, 征服, 战胜
 vi. 得胜"
-conscious,adj. 意识到的；故意的；神志清醒的
+conscious,"a. 有意识的, 知觉的, 觉察的
+[医] 有意识的, 清醒的"
 consensus,"n. 合意, 一致, 同感
 [计] 合意"
 consent,"n. 同意, 许可
@@ -891,7 +966,9 @@ consume,"vt. 消耗, 消费, 消灭
 vi. 耗尽, 毁灭"
 consumer,"n. 消费者
 [经] 消费者, 用户"
-contact,[网络] 装饰用套子
+contact,"n. 联系, 交际, 熟人, 接触
+vi. 接触, 联系
+vt. 使接触"
 container,"n. 容器, 集装箱
 [化] 集装箱; 贮存箱; 容器(任何一种)"
 contemplate,"vt. 注视, 沉思, 盘算
@@ -900,7 +977,9 @@ content,"n. 内容, 满足, 意义, 要旨
 a. 满足的, 满意的
 vt. 使...满足, 使...安心
 [计] 内容"
-context,[网络] 语境；文化与境；历史文本的脉络交织
+context,"n. 上下文, 背景, 来龙去脉
+n. 上下文
+[计] 上下文"
 contingency,"n. 偶然性, 可能性, 意外事故
 [经] 意外事故, 意外开支, 偶然事故"
 continue,"vi. 继续, 延续, 延长
@@ -921,8 +1000,7 @@ vi. 出力, 捐献, 投稿"
 contributory,"n. 贡献者, 捐助者
 a. 贡献的, 捐助的"
 controversial,"a. 争论的, 论争的, 被议论的"
-convention,"n. 大会, 协定, 惯例, 约定
-[计] 约定"
+convention,n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗
 converge,"vi. 聚合, 集中于一点
 vt. 使集合"
 conversion,"n. 转变, 转换, 改变宗教信仰, 换位法
@@ -931,13 +1009,17 @@ convey,"vt. 传达, 运输, 转让
 [经] 转让(财产等), 搬运"
 convince,"vt. 说服, 使相信
 [法] 使确信, 使信服, 使人认识错误"
-cooperate,v. 合作；配合
-coordinate,"[经] 协调, 调节"
+cooperate,"vi. 合作, 协力, 配合
+[化] 合作"
+coordinate,"n. 同等的人(或物), 坐标
+a. 同等的, 并列的
+v. (使)协调"
 copy,"n. 副本, 摹仿, 一册
 v. 复印, 抄袭, 复制
 [计] 副本; 复制; DOS内部命令:复制文件
 将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送"
-copyright,版权；复制权
+copyright,"n. 版权, 著作权
+[法] 著作权"
 copywriter,"un. 撰稿人
 [网络] 文案；文案撰写；文案人员"
 core time,〈英〉(弹性工作时间制中所有人员都在上班的)核心上班时间(多为每天中间的一段时间)
@@ -961,30 +1043,33 @@ counter,"n. 计算器, 计算者, 柜台, 筹码
 a. 反方向的, 相反的
 adv. 反方向地, 相反地
 [计] 计数器; 计数字"
-counteroffensive,n. 反攻；反击
+counteroffensive,"n. 反攻, 反击, 逆袭"
 coup,"n. 砰然的一击, 妙计, 出乎意料的行动, 政变
 [医] 发作, 中, 击"
 coupon,"n. 息票, 赠券
 [经] 息票, 利息单, 联票"
-coverage,"覆盖(度), 覆盖〔度〕"
+coverage,"n. 覆盖的范围, 保险总额, 新闻报导
+[化] 可达范围; 覆盖度"
 covet,"v. 妄想, 垂涎"
-craft,na. 术；行业
+craft,"n. 技艺, 手艺, 诡计
+vt. 精心制作"
 creative,"a. 有创造力的, 创作的, 产生的"
 credit,"n. 信用, 信任, 荣誉, 贷款, 学分
 vt. 归功于, 赞颂, 信任, 相信
 [计] 信用量"
 creditworthy,"有信誉的
 可给予信贷的"
-crisis,危象
-criterion,"n. 标准, 准则, 规范
-[化] 判据"
+crisis,"n. 危机, 危险期, 紧要关头
+[医] 危象; 骤退, 临界, 极期"
+criterion,n. （批评判断的）标准；准则；规范；准据
 critical,"a. 批评的, 决定性的, 危险的, 临界的
 [医] 危象的; 临界的, 极期的"
 cross-border,"adj. 跨越国境的
-[网络] 跨境；跨界；走过边境"
+[网络] 跨境；跨境专网；跨国界"
 cross-fertilisation,"杂交受精
 异体受精"
-cross over," 横[越]过（河等）, 穿过（道路、屋子等）; <主英>改变立场; 投诚"
+cross over,"[计] 跨插; 跨接; 跨接线
+[医] 交换(染色体); 交叉型, 交叉组"
 crucial,"a. 决定性的, 重要的, 严厉的
 [医] 十字形的; 决断的, 定局的"
 crumble,"v. (使)粉碎, (使)成为碎屑, 瓦解, 崩溃, 败落"
@@ -1016,34 +1101,40 @@ vi. 切, 割, 砍, 刺痛, 相交, 抄近路, 剪辑
 [计] 剪切"
 cutback,"na. 缩减；修剪(树枝等)；回叙往事
 [网络] 削减；减少；消减"
-cut-price, 削价
+cut-price,"a. 打折扣的, 廉价的"
 cut-throat,"un. 切除鳃耙工；刎颈
 [网络] 切断喉管；割喉；害人的"
 CV,"adj. 心血管的
 n. 履历
 [网络] 变异系数(coefficient of variation)；简历(curriculum vitae)；循环伏安法(Cyclic Voltammetry)"
-cyberspace,网际空间之意
-cycle,[网络] -周期
-D/A,[=donor-acceptor]供体-受体
+cyberspace,"[计] 空间, 网控空间"
+cycle,"n. 周期, 循环, 自行车, 一段时间, 整套
+vi. 循环, 轮转, 骑自行车
+vt. 使循环, 使轮转
+[计] 环路; 周期; 循环"
+D/A,"abbr. 〈美俚(=duck's ass)鸭屁股男发型
+[网络] 数字-模拟(digital-analog)；数模转换电路；一"
 damage,"n. 损害, 伤害
 v. 损害"
 dampen,"vt. 弄湿, 使沮丧
 vi. 变湿, 丧气"
 danger money,"危险工作的额外报酬
 [经] 危险工作津贴"
-data,"pl. 资料, 数据
-[计] 数据; DOS内部命令:用于显示或设定系统的日期"
-database,"[计] 数据库
-[化] 数据库"
+data,"n. 数据；资料；材料；（存储在计算机中的）数据资料
+[网络] 数据文档；产品处理的所有数据；数据录入文员"
+database,"n. 数据库
+[网络] 资料库；数据基；数据基础"
 date,"n. 日期, 约会, 枣椰树
 vt. 约会, 定日期
 vi. 注明日期, 过时"
 dead,"a. 死的, 不活泼的, 麻木的, 熄灭的
 n. 死者
 adv. 完全地, 直接地"
-deadline,"[计] 静线
-[化] 安全界线"
-deadlock, [体]难解难分
+deadline,"n. 最后期限；截止日期
+[网络] 死线；最终期限；截止时间"
+deadlock,"n. 僵局, 停顿
+v. (使)停顿, (使)相持不下
+[计] 死锁"
 deal,"n. 交易, 协定, 数量, 买卖, 松木板
 vi. 处理, 应付, 做生意
 vt. 分配, 发牌, 给予
@@ -1060,7 +1151,7 @@ debit,"n. 借方, 借
 vt. 记入借方"
 debt,"n. 债务, 罪过
 [经] 借款, 欠款, 债务"
-debt-equity ratio,债资比率
+debt-equity ratio,负债与权益比率
 decade,"n. 十年, 十"
 decent,"a. 有分寸的, 得体的, 大方的"
 decimal,"a. 十进位的, 小数的
@@ -1073,7 +1164,8 @@ vi. 下降, 衰落, 偏斜"
 decrease,"n. 减少, 减少量
 v. 减少"
 dedicate,"vt. 献出, 贡献"
-deduct,[网络] 扣除
+deduct,"vt. 扣除, 减去
+[经] 扣除, 减去, 折扣"
 default,"n. 违约, 不履行责任, 缺席, 默认值
 v. 疏怠职责, 缺席, 拖欠, 默认
 [计] 默认; 默认值; 缺省值"
@@ -1114,8 +1206,10 @@ deliver,"vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付
 [经] 交运"
 delivery,"n. 递送, 交付, 分娩, 交货, 引渡
 [化] 交货额"
-demand,"n. 要求, 需求, 需要
-v. 要求, 查询"
+demand,"vt. 要求；需要；查询
+vi. 需要；请求；查问
+n. [经] 需求；要求；需要
+n. (Demand)人名；(德)德曼德"
 demonstrate,"vt. 示范, 证明
 vi. 示威"
 demotivate,vt. 使失去动力；使变得消极
@@ -1142,13 +1236,15 @@ depreciation,"n. 价值减低, 减价, 跌落, 贬低, 折旧
 depress,"vt. 使沮丧, 压低, 降低, 使萧条
 [化] 推下"
 deputy,n. 副手，代理人
-description,[网络] 描写；摹状词
+description,"n. 描述, 说明, 种类
+[经] 说明书(物品), 品名种类, 货物名称"
 designate,"vt. 指定, 指明, 称呼
 a. 已选出而未上任的"
 designer,"n. 设计者, 谋划者, 制图者
 [计] 设计员"
-deskill,vt. 使非技能化
-desktop, [计]台式的
+deskill,v. 使（工人）的技能过时
+desktop,"n. 桌面
+[计] 桌面"
 desire,"n. 欲望, 要求
 vt. 想要, 请求
 vi. 渴望"
@@ -1157,9 +1253,10 @@ despite,"n. 轻视, 憎恨
 prep. 虽然, 尽管"
 destructive,"a. 毁灭性的, 破坏的, 有害的
 [医] 破坏的, 毁坏的"
-detail,"n. 细节，详情
-vt. 详述；选派
-vi. 画详图"
+detail,"n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
 deteriorate,v. (使)恶化
 determine,"v. 决定, 决心"
 devalue,"vt.vi. 降低...的价值, 贬值, 降低价值, 使(货币)贬值
@@ -1199,12 +1296,13 @@ vi. 指导, 指挥
 adv. 直接地"
 director,"n. 主任，主管；导演；人事助理
 n. (Director)人名；(英)迪雷克托"
-directory,"n. 目录, 工商名录, 指南
-[计] 目录"
+directory,"n. 名录；电话号码簿；公司名录；（计算机文件或程序的）目录
+adj. 管理的
+[网络] 姓名地址录；指南；董事会"
 disability benefit, 伤残补助
 disappear,"vi. 消失；失踪；不复存在
 vt. 使…不存在；使…消失"
-disaster,n. 灾难，灾祸；不幸
+disaster,"n. 灾祸, 不幸, 彻底失败"
 discipline,"n. 训练, 纪律
 vt. 训练, 惩罚"
 disclosure,"n. 揭发, 泄露, 揭发(或暴露)的事实
@@ -1226,9 +1324,9 @@ vi. 解散
 [计] 解散"
 disparate,"a. 根本不同的, 全异的, 不相干的
 n. 无法相比的东西(或人)"
-dispatch,"vt. 派遣
-n. 派遣, 急件
-[计] 调度"
+dispatch,"n. 派遣；发送；电讯；快信
+v. 派遣；派出；发出；调遣
+[网络] 派往；总台"
 dispenser,"n. 分配者, 药剂师, 配药员, 分配器
 [医] 调剂员"
 display,"n. 显示, 陈列, 炫耀, 显示器
@@ -1278,30 +1376,37 @@ n. 【动】犬；【动】雄性的犬科动物；常用于形容词后；〈�
 doldrums,"n. 忧郁, 赤道无风带"
 domain,"n. 领域, 领土, 产业, 范围
 [计] 域, 区域, 支配命令"
-domestic,"a. 家庭的, 国内的, 驯养的
-[医] 家庭的, 家用的"
+domestic,"adj. 国内的；家庭的；驯养的；一心只管家务的
+n. 国货；佣人"
 dominant,"a. 占优势的, 支配的
 [医] 优性的, 显性的"
 donate,v. 捐赠
 doom,"n. 厄运, 不幸, 法律, 宣告, 判决, 死亡
 vt. 命中注定, 判决"
-door-to-door, 门到门
+door-to-door,"a. 挨家挨户的, 送货上门的
+adv. 挨户地, 送货上门地"
 dot-com,网络公司（尤指网址末尾为.com 的）
-down,"a. 向下的
-adv. 下, 下去, 降下
-prep. 往下, 沿着
-n. 丘陵, 软毛, 开阔的高地
-[计] 向下, 退下命令"
+down,"adv. 下降；向下；下跌；降低
+prep. 沿着；顺着；往下；朝着
+adj. 沮丧；停机；情绪低落；悲哀
+n. 绒毛；软毛；汗毛
+v. 击倒；咽下；使倒下"
 download,"[计] 下装, 卸载"
-downside,(三辊式机座的)机前侧
-downsize,[计] 缩小尺寸
-downturn,经济下降
-DP,abbr. data-phone；dimeric polymer 【化学】二聚物
-drain,"n. 排水沟, 消耗, 排水
-vt. 排出, 喝光, 耗尽
-vi. 排水, 流干"
+downside,"n. 底侧；下降趋势；阴暗面；缺点
+[网络] 面侧"
+downsize,vt. 以较小尺寸设计；缩小尺寸；裁减人数
+downturn,"n. (尤指经济方面的)衰退, 下降趋势
+[电] 低迷时期"
+DP,"abbr. (=difference of potential)【电】电位差
+[网络] 径节螺纹；聚合度；直达港口"
+drain,"n. 消耗；下水道；排水管；耗竭
+v. 排空；流出；（使）流光；放干
+[网络] 漏极；排水沟；耗尽"
 dramatic,"a. 戏剧性的, 生动的"
-draw,[计] Acorn的基于对象的矢量图像文件
+draw,"vi. 拉, 拖, 拔剑
+vt. 拖拉, 挨近, 领取, 打成平局, 引导, 抽签决定, 画, 描写, 制订, 草拟, 吸引
+n. 拉, 拖, 拔出, 抽签, 平局
+[计] 翻牌, 绘图"
 drawback,"收回, 退却, 缩回
 [经] 退钱, 退税"
 dream up,"na. 凭空想出；凭空捏造出
@@ -1328,16 +1433,16 @@ dump,"n. 垃圾场
 vt. 倾倒, 倾销
 vi. 倒垃圾, 倾销商品
 [计] 转出; 转储; 倾卸; 切断电源"
-duplicate,"n. 副本, 复本, 复制品
-a. 复制的, 二重的
-vt. 复制, 使加倍
-[计] 复制"
+duplicate,"v. 复制；复印；复写；（尤指不必要时）重复
+n. 副本；复制品；完全一样的东西
+adj. 完全一样的；复制的；副本的"
 durable,"a. 持久的, 耐用的"
 duration,"n. 持续时间, 持续
 [计] 持续时间"
-duty,"n. 责任, 关税, 职务, 尊敬
-[化] 职责"
-duty-free,[经] 免税
+duty,"n. 责任；[税收] 关税；职务
+n. (Duty)人名；(英)迪蒂"
+duty-free,"adj. 无税的
+[网络] 免税；免税的；免税国际"
 dwell on,"细想, 详述"
 dynamic,"a. 动态的, 有活力的, 有力的, 动力的, 不断变化的
 n. 动力, 动态
@@ -1353,10 +1458,12 @@ a. 选择的, 折衷的"
 e-commerce, [计]电子商务
 economic,"a. 经济上的, 实用的, 节省的
 [经] 经济的"
-economical,济的，节省的
+economical,"a. 节俭的, 经济的, 合算的
+[经] 经济的, 节约的"
 economise,"vi.vt. 节约, 避免浪费, 节省
 [经] 节约"
-economy,[网络] 经济；电子经济
+economy,"n. 经济；节约；经济制度；节省
+[网络] 经济舱；我想坐一等舱；普通"
 ecotourism,n. 生态旅游
 edge,"n. 边缘, 尖锐, 刀刃, 优势
 vt. 使锐利, 挤进, 镶边
@@ -1399,7 +1506,7 @@ endow,"vt. 捐赠, 捐助, 赋予
 end-user,"[计] 终端用户, 最终用户
 [经] 最终使用者, 直接用户"
 energise,vt. 供给…能量；使精力充沛（等于energize）
-energy-efficient, 节能
+energy-efficient,[网络] 能源效率；能效；节龙
 engage,"vi. 答应, 从事, 交战
 vt. 使忙碌, 雇佣, 预定, 使从事于, 使参加"
 enhance,"vt. 提高, 加强, 增加"
@@ -1425,12 +1532,13 @@ entreaty,"n. 恳求, 乞求"
 entrepreneur,"n. 企业家, 主办人
 [经] 承包商, 企业家"
 entrepreneurial,"a. 创业的, 具有企业精神的; 企业性质的"
-entry,"n. 记录；词条；登录；录入
-[网络] 进入；条目；入口"
+entry,"n. 登录, 条目, 进入, 入口, 报关
+[计] 登录项, 输入项, 条目"
 environment,"n. 环境, 外界, 围绕
 [计] 环境"
 envisage,"vt. 面对, 正视, 想象"
-equipment,[网络] 设备；设备标志符；仪器设备
+equipment,"n. 装备, 设备, 才能
+[化] 设备; 装备; 装置"
 equity,"n. 公平, 公正
 [经] 权益, 产权"
 equivalent,"n. 同等物, 等价物, 相等物
@@ -1452,25 +1560,27 @@ estimate,"n. 估计, 判断
 vt. 估计, 评价, 判断
 vi. 估计"
 estimated demand,无
-ETA,-etum的复数
+ETA,abbr. estimated time of arrival; 预计到达时间
 ethic,"n. 道德规范, 伦理"
 euphemism,"n. 委婉说法, 委婉语"
 euro,n. 欧元（欧盟的统一货币单位）
-Eurocurrency,"n. 欧洲货币
-[网络] 欧元"
+Eurocurrency,"n. 欧洲倾向
+[经] 欧洲贷币"
 evaluate,"vt. 评估, 评价, 赋值"
 evaporate,"vi. 蒸发, 失去水分, 消失
 vt. 使蒸发, 使脱水, 使消失"
 event tourism,无
 eventual,"a. 最后的, 终于的"
-evidence,[网络] 证据；大量运用事例证据
-evolution,[网络] 演化；网络发展
+evidence,"n. 根据, 证据, 迹象
+[经] 证据, 凭证"
+evolution,"n. 进化, 发展, 进展, (气体)放出, 开方
+[医] 进化, 演化, 旋出"
 exact,"a. 精确的, 准确的, 精密的
 vt. 强求, 急需"
 exaggerate,"v. 夸大, 夸张"
 exceed,"vt. 超过, 超越, 胜过
 vi. 超过其他"
-excellent,[网络] 都是四星；爱格斯兰
+excellent,"a. 优良的, 杰出的, 出色的"
 excess,"n. 过度, 剩于, 超过, 超额
 a. 过量的, 额外的"
 exchange,"n. 交换, (电话)交换局, 交换机, 汇兑, 交易所
@@ -1496,14 +1606,17 @@ vi. 张开, 发展
 vt. 展开
 vi. 展开
 [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上"
-expatriate,[网络] 最适合移居国外人士
+expatriate,"n. 移居国外者, 侨民, 被流放者, 背井离乡者
+vt. 逐出国外, 脱离国籍, 放逐
+vi. 移居国外"
 expectation,"n. 期待, 指望, 展望
 [化] 期望值"
 expenditure,"n. 开支, 费用, 用光, 消费额
 [经] 支出, 费用, 消费"
 expense,"n. 费用, 代价, 开支, 损失
 [经] 费用, 开支, 将支出转为费用"
-expertise,专家
+expertise,"n. 专家意见, 专门技术
+[法] 专门知识, 专家意见"
 expire,"vi. 期满, 呼气, 断气
 vt. 呼出"
 explicit,"a. 详述的, 清楚的, 直言的"
@@ -1536,7 +1649,8 @@ extrovert,"n. 外向性格的人
 [医] 外倾[性格]者"
 exuberance,"n. 茂盛, 茂盛的生长物, 丰富"
 exude,"v. (使)流出, (使)渗出"
-eye contact, 目光接触
+eye contact,"n. 眼神接触；目光交流
+[网络] 眼神交流；视觉接触；眼睛望向讲者"
 fabulously,adv. 非常(富有的/伟大的)
 face,"n. 脸, 面容, 正面, 外观
 vt. 面对, 朝, 正视, 面临
@@ -1546,9 +1660,11 @@ facilitate,"vt. 使容易, 促进, 帮助
 [法] 使容易, 使便利, 推进"
 facility,"n. 容易, 灵巧, 设备
 [计] 设施; 设备; 装备"
-factor,"n. 因素, 因数, 系数, 基因, 代理人
-[计] 因式"
-factory,因子Y
+factor,"n. 因子；因素；系数；要素
+v. 【数】把…化为因子[因数]；为…充当代理商；代理经营；代管(产业)
+[网络] 因式"
+factory,"n. 工厂, 产生地, 代理店
+[经] 工厂, 代理店, 商行在国外的代理处"
 fail,"vi. 失败, 缺乏, 中断, 衰退, 失灵
 vt. 忘记, 使...失望, 缺乏, 不及格
 n. 不及格"
@@ -1562,11 +1678,12 @@ adv. 不准确地, 欺诈地"
 falter,"vt. 支吾地说
 vi. 支吾, 蹒跚地走
 n. 颤抖, 支吾, 踌躇"
-family business, 家族企业
+family business,"un. 个体工商业
+[网络] 家族企业；家族生意；家族事业"
 fashionable,"a. 时髦的, 上流社会的, 流行的"
-fast-growing, 快速增长的
-fat cat,"n. <美俚>有钱有势的人
-vi. 谋求特权"
+fast-growing,"un. 生长迅速的
+[网络] 成长的经济体；速生；高速发展"
+fat cat,adj. [美国俚语]有财有势的; （因富裕或地位高而）自鸣得意的; 自命不凡的
 favourable,"a. 有用的, 良好的, 赞成的, 顺利的
 [医] 良好的, 顺利的"
 feasibility,"n. 可行性, 可能性
@@ -1581,22 +1698,25 @@ federation,"n. 联邦, 联合, 联盟
 [法] 联邦, 联盟, 联邦政府"
 fee,"n. 费用, 小费, 封地, 所有权
 vt. 付费给"
-feedback," 反作用, 反馈"
+feedback,"n. 反馈；反馈意见；回授；【电子】反馈
+[网络] 快速反馈"
 fetch,"n. 取得, 拿, 诡计, 魂
 vt. 接来, 取来, 售得, 带来, 推出, 引出, 杀死, 吸引, 到达
 vi. 取物, 前进
 [计] 取"
 fiduciary,"a. 基于信用的, 信托的, 受信托的
 n. 被信托者, 受托人"
-field,"n. 领域, 田地, 场地, 战场, 场, 域
-vt. 使...晒在场上, 使上场
-a. 田间的, 野生的, 野外的, 田赛的
-[计] 域, 字段"
+field,"n. 场；字段；领域；田
+v. 接；使参加竞选；使参加比赛；担任守场员
+adj. 田间的；野外的；实地的
+[网络] 莎莉·菲尔德；野战套服；外地代理指"
 fiercely,"adv. 猛烈地, 厉害地"
 figure,"n. 数字；人物；图形；价格；（人的）体形；画像
 vi. 计算；出现；扮演角色
 vt. 计算；认为；描绘；象征"
-file,[网络] 文件；提取码；文件操作
+file,"n. 档案；文件夹；锉；锉刀
+v. 把（文件等）归档；提起（诉讼）；提出（申请）；送交（备案）
+[网络] 自行指定某个档案；媒体文件；不创建文件"
 fill,"vt. 装满, 填充, 弥漫, 供给, 满足, 供应
 vi. 充满, 变得沉重
 n. 满足, 装满, 充分, 填方
@@ -1612,7 +1732,7 @@ financial,"a. 财政的, 金融的
 [经] 财政的, 金融的, 财务的"
 finding,"n. 发现, 发现物, 决定, 裁决
 [法] 调查结果, 对事实的认定, 判定的要素"
-fingertip,[医] 指尖
+fingertip," [医]指尖（套）, 手指光（电）传感器"
 finished,"adj. 完结的，完成的；精巧的
 v. 完成；结束；毁掉（finish的过去分词形式）"
 fire,"n. 火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情
@@ -1623,17 +1743,20 @@ a. 坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 
 vt. 使牢固, 使坚定
 vi. 变稳固, 变坚实
 adv. 稳固地"
-first aid,"急救
-[医] 急救"
-first-come-first-serve, [财]先到先服务
+first aid,"na. 急救处理
+[网络] 助理医生；紧急治疗；急救处置"
+first-come-first-serve,"un. 先来者优先
+[网络] 先到先得；先来先服务；先赢"
 fiscal,"a. 财政的, 国库的
 [经] 财政上的, 会计的, 国库的"
 fishery,"n. 渔业
 [法] 捕鱼, 捕鱼权"
-fix,[网络] -固定
+fix,"vt. 使固定, 修理, 准备, 安装, 凝视, 牢记, 确定, 整理
+vi. 固定, 注视, 确定
+n. 困境, 方位, 维修, 贿赂"
 fixed,"a. 固定的, 不变的
 [法] 固定的, 确定的, 不变的"
-flagship,旗舰
+flagship,n. 旗舰
 flat,"a. 平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊的
 adv. 平直地, 断然地
 n. 扁平物, 平面, 平地, 平原, 平板车
@@ -1667,7 +1790,9 @@ vt. 使流动, 淹没, 流出"
 fluctuate,"vi. 变动, 起伏, 动摇
 vt. 使波动, 使动摇"
 flying start,n. 快速起跑; 快速起动; 迅速起步; 迅速发展
-FOB,[网络] 价；离岸价格；离岸价
+FOB,"n. 船上交货价；离岸价格
+abbr. （书写形式）离岸价格
+[网络] 有离岸价；出口货物以离岸价格；出口按离岸价格"
 focus,"n. 焦点, 焦距
 vi. 聚焦, 注视
 vt. 使聚焦, 调焦, 集中
@@ -1686,7 +1811,8 @@ foreign,"a. 外国的, 外交的, 外省的, 外来的, 不相关的
 [机] 外来的"
 foremost,"a. 最初的, 最重要的
 adv. 在最前"
-foresight,前瞄准器
+foresight,"n. 远见, 深谋远虑
+[法] 先见, 预见, 预见的能力"
 forestry,"n. 林学, 森林地
 [法] 林地, 林学, 林业"
 forfeiture,"n. 没收物, 罚金, 丧失
@@ -1701,14 +1827,20 @@ fortune,"n. 财富, 运气, 兴隆, 大量财产, 好运, 命运
 [法] 命运, 财产, 大量财产"
 forum,"n. 论坛, 公开讨论的广场, 法庭, 讨论会
 [法] 讨论会, 专题讨论, 公共论坛"
-forward,[网络] 正激式；转寄
-foundation,n. 基础；地基；基金会；根据；创立
+forward,"adj. 向前的；早的；迅速的
+adv. 向前地；向将来
+vt. 促进；转寄；运送
+n. 前锋
+n. (Forward)人名；(英)福沃德"
+foundation,"n. 基础, 根据, 建立
+[化] 地基"
 foundry,"n. 铸造, 铸造厂, 铸造类
 [机] 铸造厂, 铸造"
 frame,"n. 框, 结构, 体格
 vt. 构成, 设计, 制定, 使适合, 陷害
 [计] 框架, 图文框, 帧"
-framework,结构材
+framework,"n. 结构, 骨架, 参照标准, 准则, 观点
+[医] 构架组织"
 franchise,"n. 公民权, 特权, 特许经营权, 免赔额
 vt. 给以特权, 给以...公民权"
 fraud,"n. 欺骗, 欺诈, 诡计, 骗子
@@ -1716,8 +1848,10 @@ fraud,"n. 欺骗, 欺诈, 诡计, 骗子
 freebie,n. 免费的东西；免费赠品（尤指戏院赠券）
 free gift,"un. 免费赠送
 [网络] 赠品；免费礼物；免费的礼物"
-freehold,[经] 自由掌握
-freelance,"自由骑士, 自由作家"
+freehold,"n. 自由保有, 不动产, 自由保有官职
+[经] 不动产所有权"
+freelance,"n. 自由作家, 自由投稿, 自由职业者
+a. 自由投稿的"
 freeze,"vi. 冻结, 冷冻, 僵硬, 楞住
 vt. 使结冰, 使冻住, 使呆住
 n. 结冰, 凝固
@@ -1742,9 +1876,10 @@ full-on,"adj. （表示最大程度）完全的；最强烈的
 function,"n. 官能, 职务, 功能, 函数
 vi. 活动, 运行, 行使职责
 [计] 功能, 函数"
-fund,"n. 基金, 资金, 存款, 财源, 贮藏
-vt. 提供资金, 积累"
-fund-raising,[经] 筹措资金
+fund,"n. 基金；资金；专款；储备
+v. 为…提供资金；拨款给
+[网络] 存款；资助；现款"
+fund-raising,(fund-raise 的现在分词) 募金
 fuss,"n. 大惊小怪, 小题大作, 忙乱
 vi. 无事自扰, 焦急, 焦燥, 忙乱
 vt. 使激动, 使烦燥"
@@ -1762,7 +1897,8 @@ vi. 豁开
 gateway, 采空区内运输巷; 采空区平巷; 采区联络煤巷
 gathering,"n. 聚集, 集中, 采集
 [化] 富集"
-GDP,[网络] 国内生产总值；生产值；国内生产毛额
+GDP,"abbr. (=Guanosine diphosphate)【生化】磷酸鸟苷酸
+[网络] 国内生产总值；国内生产毛额；非常股东大会"
 gearing,"n. 传动装置
 [经] 比例结合, 齿轮作用"
 generate,"vt. 产生, 发生, 导致
@@ -1778,7 +1914,8 @@ n. (网球等)救球, 生殖, 幼兽
 [计] 取得指令, 获取文件"
 giant,"n. 巨人, 大力士, 巨大怪物
 a. 庞大的, 巨大的"
-gift,[网络] 礼物婴儿
+gift,"n. 礼物, 赠予, 天才
+vt. 赋予"
 gilt,"n. 镀金, 眩目的外表, 小母猪
 a. 镀金的
 gild的过去式"
@@ -1795,7 +1932,495 @@ glory,"n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣
 vi. 自豪"
 GM,"abbr. （英国学校）由中央政府出资的
 [网络] 通用汽车(General Motors)；通用汽车公司；美国通用汽车公司"
-go,[网络] 困觉；绿基色输出；格拉苏蒂
+go,"G.O.
+abbr.
+general office 总公司,总局,总办事处,总社
+general order [亦作 g. o.]
+Go
+= general obligation bond
+go1
+[ɡəu]
+vi.
+前进；行走；去；驶：
+(从某地)离去，出发，离开：
+(如机器等)运转，运行；操作；行动，进行；起作用；(心脏)跳动：
+采取(特定的)行动：
+处于；成为；变得；变成(某种特定状态)：
+(消息等)被流传，传播；(货币等)流通，通用，通行：
+通(向)，延伸至；到达；通到：
+(时间)过去，消逝；被用完：
+做特定的动作：
+(使自己)遭受，招惹：
+被出售，被卖掉(常与at， for连用)：
+(钱等)被用于，让与，分配给(某一特定的领受者或目的)(常与for， in， on， to连用)：
+(奖品、职位、财产等)被给(予)，属(于)，归(于)(to)：
+有助(于)，趋向(于)，倾向(于)：
+结果，结局；结果是：
+(事情)发展，进行，进展：
+(经常)被放置；归属：
+(式样、色彩等)相配；相称；和谐：
+发出某种声音：
+[用于as引导的从句](就某方面)说，一般说来，从一般情况来看：
+用完，用光；消耗；耗尽；衰退，减弱：
+垮掉；损坏；陷下，塌下；折断；被丧失：
+死去，失去知觉：
+(音乐)有某种调子；(谚语等)用某种措辞表达；(被)创作；(被)写作：
+装得下，装得进；塞得进；可通过：
+诉诸，求助于：
+开始，开动：
+持续：
+被放弃，被废弃；被去掉；被辞退(常与can， have， to， must 连用)：
+(话语等)有权威性，可相信的；(话)是决定性的：
+被接受；被准许；被信以为真；有效：
+(在言行等方面)达到特定程度：
+总共，构成，合成：
+【数学】(除)得整数商，纳入(与into连用)：
+将要，打算，预定[用进行时态，后接不定式]：
+决意[用作不定式，强调感情冲动、迅速果断或拼死之意]：
+下沉：
+[口语]兴奋地表演；以特别鼓舞人心的方式表演：
+[美国方言]想[常用于否定句，后接不定式]：
+[俚语]撒尿，拉屎
+[古语]离开法庭
+vt.
+赌，(用钱或物)打赌，以…打赌，同…打赌，押(赌注)：
+循…而行，通行于，沿…进行：
+[美国口语]忍耐，忍受；容忍，宽恕[通常用于否定句]：
+[口语]为…作保释人，为(被捕人)提供(保释金)；承担…的责任：
+[口语]出(价)，愿付(一定数额的款)；出(牌等)：
+[美国口语]欣赏，鉴赏；分享，享用，享受，品尝：
+对付：
+[主美国口语]重量为；成长到(某种程度)：
+走过，穿过：
+[口语]说，说道[通常用现在时叙述过去说的话]
+【棒球】在(全场比赛的特定局次)中投球
+n.
+去；离开；进行
+成功，胜利；成功的事，进行顺利
+[口语]精神，精力；活力，劲头，干劲；频繁紧张的活动
+[口语]事件，意外的事态
+[美国口语]协议；约定；交易
+[口语]试一下，尝试，试图；努力，尽力
+[英国口语]一次提供(或取得)的量；一杯(酒)；一份(食物)
+[口语]一口气，一下子，一举
+[口语]轮到的机会
+[英国口语](剑桥大学学士)学位考试
+(疾病的)发作
+允许，许可；批准
+比赛；拳击比赛
+[the go][口语]时兴东西，时髦东西
+【牌戏】宕(指未能完成定约)；吊牌
+adj.
+[美国口语]完全准备(或预备)好的；处于(可发射、使用等)良好状态的
+[美国口语]运行正常的，功能精确的
+时髦的，合潮流的
+[俚语]好的，行的，对的
+interj.
+(赛跑时的起跑口令)跑：
+(赛跑时的起跑口令)跑：
+近义词:
+depart
+. leave
+. quit
+. retire
+. withdraw
+反义词:
+arrive
+. come
+短语:
+a capital go
+[口语]太好了，妙极了
+all (或quite) go
+[口语]最流行的，非常时髦的
+a near go
+[口语]极侥幸的逃跑
+a pretty (或 quite, run) go
+[口语]难题，难办的事；怪事；尴尬的事
+as (或 so) far as…goes
+就…来说
+as (或 so) far as it (或 that) goes
+就目前情况而言，就其本身而言
+as…go
+就…而论，从…的通常情况而论
+as people (或 things) go
+就一般情况而言，从一般情况来看
+at one go
+一下子，一举
+be going strong
+见 strong
+be going to
+计划(或打算、决定)(做某事)
+即将(发生某事)
+可能会(发生某事)
+be on the go
+[口语]在活动，在活跃
+[口语]准备离开；正在离开
+[俚语]有醉意
+[废语]衰弱；濒于死亡
+call it a go
+一言为定
+could go
+[口语]真想吃(或喝)
+enough (或 something) to go on with
+见 enough
+fair go
+公平的比赛；公平对待；机会均等
+first go
+[口语]第一次尝试；一下子，一口气
+first go off
+[口语]最初，一开始 [亦作 at first go off]
+from the word go
+[美国口语]始终，从一开始；完全，彻底
+full of go
+[口语]精力充沛，劲头十足
+get someone going
+[美国俚语]使某人激动(或发怒)
+get up and go
+果断迅速地行动
+go all out
+[口语]全力以赴，鼓足干劲
+go aloft
+死，去世
+go along for the ride
+凑凑热闹，逢场作戏
+Go along with you!
+[口语]去你的!别瞎说!(表示怀疑、不相信)
+go (and) chase oneself
+[美国俚语]别捣乱，走开
+go and (do something)
+[口语]竟然愚蠢到(去干某事)；竟然粗心到… (表示惊讶、厌烦、不赞许等)
+go around together
+情侣的定期约会
+go astray
+迷路，走失；误入歧途，堕落
+放错地方
+go at it hammer and tongs
+全力以赴地干，精神抖擞地工作
+激烈殴斗，全力进攻
+go badly
+(工作、事情等)进展不顺利
+go bananas
+失常，不正常
+go bang
+发出嘣地一声
+go begging (或 a-begging)
+见 beg
+go behind someone's back
+背后行事，暗中行事
+go below (decks)
+【航海学】到舱内去
+go beyond one's duty
+(出于负责、勇气、决心或多管闲事而)逾越职责
+go broke
+[口语]破产
+go bung
+[澳大利亚、新西兰俚语]
+失败，完蛋
+死
+go bust
+[俚语]
+失败，完蛋
+破产
+go cahoots
+见 cahoots
+go counter to
+与…背道而驰；违反…
+go downhill
+(经济、健康等)恶化；(道德)日益败坏
+走下坡路
+go down swinging
+体面地失败
+go down the drain
+每况愈下
+go down the line
+[俚语]被解雇
+go drink from the sea
+滚开，别管闲事
+go dry
+见 dry
+go easy
+[口语]慢慢来；从容不迫
+go easy on someone
+待人善良，对人温厚
+go easy with (或 on)
+[口语]
+小心处置…；对…进行从宽处理
+爱惜…；节约…
+go farther (或 further) and fare worse
+每况愈下
+go fifty-fifty
+[美国英语]平分，均摊，一半一半
+go flat out
+= go all out
+go flop
+[俚语]垮台，遭到失败
+go for a Burton
+见 Burton
+go for a song
+非常便宜
+go for broke
+全力以赴
+go for it
+冒一下险，大胆试一试
+go full tour
+[俚语]回家
+go fut (或 phut)
+(机器等)故障，不能运转；(机构)垮台；崩溃
+(计划等)落空，告吹
+go glimmering
+见 glimmering
+go halves (on或in something with someone)
+见half
+go hang
+[口语]随它去，听之任之
+go hard with someone
+使某人遭受困难(或痛苦、不幸、危险等)
+go hence
+[诗歌用语]
+离开，出去
+死
+go home
+回家，回国
+击中要害；打中目标
+[委婉语]死去，“回老家”[亦作 go to one's last (或 long) home]
+用坏；穿破
+腐败
+深入；使获得深刻印象
+go home in a box
+[俚语、委婉语]死
+go home to
+使受感动；打动(某人)的心
+使…理解(或领会)；使…有深刻印象
+go ill
+不妙；不祥
+go ill with someone
+对某人不利；对某人而言是不祥的
+go in and out
+进进出出
+忽明忽暗
+go in at
+[口语]痛打，猛烈攻击
+go in circles
+(毫无成效地)兜圈子
+go into particulars
+见particular
+go into the red
+出现赤字
+go into the whys and wherefores
+见 why
+go it
+[口语]
+着手；进行一些活动
+飞速行进；使出猛劲干
+(在比赛中)加油，作进一步努力[常用作祈使句]
+挥霍；过放荡生活
+go it alone
+[口语]单独行动；独自生活
+go it blind
+鲁莽行事；碰运气
+go it strong
+见 strong
+go it strong on
+见 strong
+go it with a rush
+见 rush
+go, man go
+[美国口语]干得好，太妙了
+go near to do (或 doing) something
+几乎要做某事
+go off at half-cock (或 half cock)
+枪走火
+[口语]没准备好就干，仓促行事[亦作 go of half-cock]
+go one better
+出价超过对手
+超过以前的成绩；更胜一筹
+[美国英语]胜过某人[见 better¹]
+go out of one's mind
+见mind
+go over big
+[美国口语](演出等)大受欢迎；非常成功；(演员)走红[亦作 go big]
+go over-board
+【航海学】从船上跌落；被扔到船外
+go phut
+= go fut
+go pit-a-pat
+(心)怦怦地跳；劈劈啪啪地跑
+go public
+(封闭式公司)让股票上市公开发售
+go scot free (或 scot-free)
+安然逃脱；逍遥法外
+go seesaw
+忽前忽后，忽上忽下；交替进行
+go slow
+(车辆)慢行；慢慢走
+慢点来：留神(叫听话人对问题思考一下)
+减少活动
+[英国英语]怠工(以表示抗议)
+go smash into
+冲进，撞入
+go snap
+突然裂开；啪地一声断裂了
+go soak yourself (或 your head)
+[口语]走开，别来打扰我
+go so far as (to do)
+甚至(做出某事)；竟然到(做出)…的地步
+go solid for
+见 solid
+go some
+[美国口语]
+收获很大；很有成就；做了不少
+(工作、事情等)有效地(或顺利地、迅速地)进行
+go (someone) one better
+[口语]
+胜过(某人)；(比某人)略胜一筹
+(玩纸牌时)增加赌注
+go somewhere
+[口语] 出去一下(上厕所的委婉语)
+go south(with something)
+[俚语]卷逃；(偷窃某物后)失踪
+go steady (with)
+[美国口语](与某人)谈恋爱；(与异性朋友)经常外出约会
+go straight
+径直走
+重新做人，改过自新
+go swimmingly
+进行顺利
+go the way of all flesh (或 of all the earth)
+见way
+go the way of nature
+见 way
+go the whole coon
+见coon
+go the whole hog
+见 hog
+Go to!
+[古语]
+别说了!去你的!我不信!(表示不相信、不赞同)
+快!开始吧!
+go (to) bye-bye
+上床睡觉
+go too far
+走得太远；做得太过分
+go to pot
+见pot
+go to rest
+见rest
+go (to) smash
+[口语]
+垮台，完蛋；解体
+破产
+go well
+(工作、事情、计划等)进行顺利
+go without saying
+[口语]不言而喻，不必说
+go wrong
+走错路
+失足；堕落
+失败，不如意
+(食品、产品等)腐败；变质
+(机器等)发生故障
+搞错，弄错
+going on
+[口语]接近，快到
+gone on someone
+[口语]倾心于某人
+have a go (at)
+[口语]
+尝试(某事)；试做(某事)
+攻击(某人)；责骂(某人)
+have been and gone and done it
+[口语]竟然干出了这种蠢事(表示惊讶、恼火)
+have something going for one
+[美国俚语]有本钱，有条件(尤指有才能、美貌、人事关系等)
+Here goes!
+[口语]瞧，开始了，看我的!(说话者开始做冒险举动或游戏时说的话) Here we go again.[口语]同样不愉快的事情又发生了。
+How goes it? (或 How is it going? How are things going?)
+[口语]你好吗?近况如何?
+It (或 That) goes without saying.
+不言而喻；显而易见。
+It's a go!
+[口语]行!就这么办!
+leave (或 let) go (of)
+松手；放手
+let go
+放开，松手；让…走，释放
+不理会；忽略
+开枪，发射
+听任；随它去吧 [亦作
+Let it go]
+【航海学】解开(缆绳等)
+开除；解雇
+let it go at that
+[美国口语]谈论到此为止；就这样吧
+let oneself go
+[口语]放松；放纵；尽情发泄自己的感情(或欲望等)
+let things go hang
+见 thing [亦作 let things slide]
+make a go of it
+使取得成功；使获得圆满结果
+make something go round
+使够分配；使够一段时间使用
+near go
+[口语]九死一生；差点送命
+no go
+[口语]无用，无价值；不行，不可能
+on the go
+[口语]忙碌，忙个不停
+[口语]衰弱，衰败
+[俚语]醉
+quite (或 all) the go
+非常流行
+sentry go
+【军事】
+换哨命令
+步哨勤务
+so far as it goes
+= as far as it goes
+That (或 It) goes without saying.
+不言而喻；显而易见
+the great go
+[英国英语]剑桥大学文学士学位正式考试
+the little go
+[英国英语]剑桥大学学士学位初试；预考
+There he (或 she, you) goes again.
+他(或她，你)那一套又来了。
+to go
+[口语]
+供外卖的(食物)
+仍未完成，有待于完成的；剩下的
+What goes?
+[美国俚语]发生什么事了?
+What has (或 is) gone of (或 with) someone?
+[口语]某人怎么样了?某人出了什么事?
+Where do we go from here (或 there)?
+下一步该怎么办?下一步是什么?
+Who goes there?
+(哨兵喝问)谁?
+You may go farther and fare worse.
+[谚语]往前走，情形可能更坏。
+变形：
+n.
+goes
+vi.
+went
+. gone
+. going
+go2
+[ɡəu]
+n.
+[日语](日本)古围棋 [亦作 Go， I-go]
+go
+n.
+Papago的变形
+Papago
+[,pæpə'ɡəu]
+n.
+帕帕戈人(北美印第安部落)
+帕帕戈人的乌托阿兹台克语
+变形：
+n.
+Papagos
+. go"
 goad,"n. 赶牛棒, 激励, 刺激
 vt. 用刺棒驱赶, 激励, 刺激, 唆使, 煽动"
 goal,"n. 目标, 终点, 得分, 球门, 守门员
@@ -1808,8 +2433,10 @@ golden rules,"un. 金科玉律
 [网络] 黄金法则；公司六大黄金法则；黄金规则"
 goods,"n. 货物
 [经] 货物, 商品, 动产"
-goodwill,善意；信誉
-go-slow,"慢慢走, 怠工"
+goodwill,"n. 友好, 好意, 善意, 亲善, (企业享有的)信誉, 声誉
+[经] (企业的)商誉, 信誉"
+go-slow,"n. 怠工
+[法] 消极怠工"
 government grant,"un. 政府拨款
 [网络] 政府批地书；政府补助；政府资助"
 governor,"n. (美)州长, (英)总督, 统治者, 管理者, 理事
@@ -1843,8 +2470,8 @@ guide,"n. 引导者, 导游, 指南, 路标
 vt. 指导, 支配, 管理, 带领, 操纵
 vi. 任向导
 [计] 辅助线"
-guideline,"[计] 准则
-[医] 导线, 观测线"
+guideline,"n. 指导路线, 方针, 指标
+[经] 指导路线, 方针, 准则"
 guilt,"n. 罪行, 内疚
 [法] 罪, 犯罪, 罪行"
 guru,"n. 古鲁(印度教导师)
@@ -2621,17 +3248,21 @@ vt. 触摸, 运用, 买卖, 处理, 操作
 vi. 搬运, 易于操纵
 n. 句柄
 [计] 句柄"
-handout,"na. 分；拿出来；施舍
-[网络] 分发；散发；分给"
-hands-on,实习的；亲自动手的
+handout,"n. 施舍物, 救济品, 分发的印刷品资料, 广告物品"
+hands-on,"adj. 插手的
+[网络] 汉尊；动手做；汉德森"
 hang on,"v. 坚守；守住；坚持；支撑着
-[网络] 坚持下去；抓紧不放；等一下"
+[网络] 摩托车大赛；讨论页说明暂缓快速删除"
 harassment,"n. 困扰, 烦扰, 烦恼
 [法] 折磨, 骚扰, 侵扰"
-hard,"a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的
-adv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
-hardware, [医]硬件，硬设备
-harm,(T 接头之)H平面臂
+hard,"adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的
+adv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地
+n. (Hard)人名；(英、芬、瑞典)哈德"
+hardware,"n. 硬件；硬件设备；五金制品；机器
+[网络] 五金件；五金器具；金属五金件"
+harm,"n. 伤害；损害
+v. 伤害；损害
+[网络] 害处的；短句来源"
 harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
 hassle,"n. 激烈而持久的争论
@@ -2643,11 +3274,13 @@ vi. 出没, 作祟"
 hazard,"n. 冒险, 危险, 机会
 vt. 冒...的危险, 赌运气, 使冒危险
 [计] 相关危险; 冒险"
-head,"n. 头；头部；头脑；负责人
-v. 主管；领导；朝（某方向）行进；位于排行之首
-adj. 头的；主要的
-[网络] 海德；磁头；扬程"
-headcount,[法] 人口调查
+head,"n. 头；头痛；上端；最前的部分；理解力
+vt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题
+vi. 出发；成头状物；船驶往
+a. 头的；主要的；在顶端的
+n. (Head)人名；(英)黑德"
+headcount,"na. 人口调查
+[网络] 人数"
 headed paper,[网络] 带信头的信纸；带有单位名称的信纸
 headhunt,"n. 野蛮人猎取人头的出征
 v. 出外猎取人头"
@@ -2657,8 +3290,9 @@ hedge,"n. 树篱, 障碍, 套头交易
 vt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失
 vi. 筑树篱, 躲闪, 两面下注以防损失
 a. 树篱的, 偷偷摸摸的"
-help desk," （商业公司的）咨询服务, 咨询台；（尤指计算机的）帮助台"
-helpline, 求助行
+help desk,"n. （商业公司的）咨询服务；（尤指有关电脑问题的）技术支持服务
+[网络] 帮助台；帮助平台；支持台"
+helpline,n. 热线服务电话
 hesitate,"vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿"
 hide,"n. 兽皮, 迹象, 躲藏处
 vt. 藏, 隐瞒, 遮避, 剥...的皮, 隐藏
@@ -2669,7 +3303,9 @@ hierarchy,"n. 等级制度, 僧侣统治, 等级体系
 high-flyer,"高波动股票（金融术语，一段时间来相对整个市场价格上下剧烈波动的股票）
 有潜力的人
 成功人士"
-highlight, 图像最亮部分，高度光泽，高亮度
+highlight,"n. 加亮区, 精彩场面
+vt. 加亮, 使显著, 以强光照射, 突出
+[计] 突出"
 highly,"adv. 非常, 非常赞许地
 [电] 大大地"
 hike,"n. 徒步旅行, 远足, 涨价, 提高
@@ -2681,15 +3317,20 @@ hindsight,[网络] 但见知心；酸甜回忆；后见之明
 hire,"n. 雇用，租用；租金，工钱
 vt. 雇用；出租
 vi. 雇用，租用；受雇"
-hit,[网络] 异质结；打击访问人数；香港国际货柜码头公司
+hit,"n. 打击, 打, 冲撞, 讽刺
+vt. 打, 打击, 碰撞, 打中, 袭击, 偶然碰上
+vi. 打, 打中, 打击, 碰撞, 偶然碰上
+[计] 击中; 找到; 瞬时打扰"
 hi-tech,"adj. 高科技的
 [网络] 电脑动画；高科技投资"
-hoist,"n. 升高, 起重机, 推动
-v. 升起, 升高, 举起"
+hoist,"v. 提升；吊起；拉高
+n. 起重机；吊车；（残疾人用）升降机
+[网络] 升起；举起；卷扬机"
 holder,"n. 持有人；所有人；固定器；（台、架等）支持物
 n. (Holder)人名；(英、罗、瑞典、德)霍尔德"
 holiday entitlement,无
-home page,"[计] 主页, 第一个界面"
+home page,"na. 【计】主页
+[网络] 回响者网址；首页；网站首页"
 honestly,"adv. 真诚地, 公正地"
 honour,"n. 荣誉, 头衔, 信用, 尊敬, 名誉, 阁下, 勋章
 vt. 尊敬, 授予荣誉, 承兑, 实践"
@@ -2698,12 +3339,16 @@ vi. 用真空吸尘器打扫"
 hospitality,"n. 款待, 亲切, 殷勤"
 hostile,"a. 敌人的, 怀敌意的, 敌对的
 n. 敌对分子"
-household name,n. 家喻户晓的事或人
-human resource,[计] 人的资源
-hush-hush,[口语]机密，保密；机密的，秘而不宣的
+household name,"n. 家喻户晓的名字
+[网络] 家喻户晓的人；家喻户晓的名人；家喻户晓的事或人"
+human resource,"n. 〔经〕人力资源
+[网络] 人员成本；人资"
+hush-hush,"n. 机密的
+a. 极秘密的
+vt. 守秘, 遮盖"
 hype,n. 大肆宣传；皮下注射
 hyperbole,n. 夸张法
-hyperinflation,恶性通货膨胀
+hyperinflation,n. 恶性通货膨胀
 icon,"n. 画像, 肖像, 偶像, 图标, 像标
 [计] 像标, 图标"
 idealise,"vi.vt. 使理想化, 使观念化"
@@ -2714,12 +3359,13 @@ ignore,"vt. 不理睬, 忽视, 驳回, 忽略
 [计] 忽略"
 illustrate,"vt. 举例说明, 作图解, 阐明
 vi. 举例说明"
-image,"n. 图像；形象；影像；意象
-v. 反映；想像；象征；使…成像
-[网络] 图片；图象；映像"
+image,"n. 影像, 肖像, 想象, 图像, 形象, 翻版
+vt. 作...的像, 反映, 想象, 象征
+n. 图像
+[计] 图象"
 imbue,"vt. 使感染, 灌输, 使浸透"
-immediate,"a. 立即的, 直接的, 接近的
-[医] 直接的, 立即的"
+immediate,"adj. 立即的；立刻的；目前的；当前的
+[网络] 立竿见影；眼前"
 impact,"n. 冲击, 冲突, 影响, 效果
 vt. 挤入, 撞击, 压紧, 对...发生影响"
 impasse,"n. 难局, 僵局, 死路, 死胡同"
@@ -2745,8 +3391,9 @@ impulse,"n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲
 vt. 推动"
 incentive,"n. 动机
 a. 激励的"
-incident,"n. 事件, 事变, 小事
-a. 附带的, 易于发生的, 外来的, 入射的"
+incident,"adj. 【法】附带的；入射的；易起的；附随的
+n. 发生的事情（尤指不寻常的或讨厌的）；严重事件；（两国间的）摩擦
+[网络] 事变；事故；小事件"
 inclination,"n. 倾向, 趋向, 倾斜度, 点头
 [化] 倾角"
 inclusive,"a. 包含的, 包括的"
@@ -2794,7 +3441,7 @@ inflate,"vt. 使膨胀, 使得意, 使通货膨胀, 使充气
 vi. 充气, 膨胀"
 inflation,"n. 胀大, 夸张, 通货膨胀
 [化] 充气吹胀; 膨胀"
-in-flight, 飞行
+in-flight,"a. 飞行中发生的, 飞行中进行的"
 inflow,[网络] 流量；流入；入流
 influence,"n. 影响力, 权力, 势力
 vt. 影响, 改变"
@@ -2804,7 +3451,9 @@ infringe,"v. 破坏, 侵犯, 违反"
 ingenuity,"n. 心灵手巧, 精巧, 精巧设计"
 ingredient,"n. 成分, 因素
 [化] 配合剂; 拼料; 成分; 组分"
-in-house, 内部的; 室内的
+in-house,"a. 内部的
+adv. 内部地
+[计] 内部的"
 initial,"n. 字首, 首字母
 a. 开始的, 最初的, 字首的
 vt. 用姓名的首字母签名"
@@ -2813,8 +3462,8 @@ a. 新加入的
 vt. 开始, 传授基本知识给"
 initiative,"n. 主动行动, 首创精神, 主动权
 a. 自发的, 起始的"
-injury,"n. 伤害, 侮辱
-[医] 伤, 损伤"
+injury,"n. 损伤；挫伤
+[网络] 伤害；受伤；损害"
 ink,"n. 墨水, 墨汁
 vt. 涂墨水于, 签署, 加墨水"
 innovate,"vi. 改革, 创新"
@@ -2822,13 +3471,15 @@ input,"n. 投入；输入电路
 vt. [自][电子] 输入；将…输入电脑"
 inquiry,"n. 质询, 探索, 调查, 询盘
 [计] 询问; 查询"
-insight,被看到
+insight,"na. 看得见；“in/within sight”的变体
+[网络] 内视；洞见；洞察力"
 insistence,"n. 坚持, 坚决主张"
 insolvent,"n. 破产者；无力偿还者
 adj. 破产的；无力偿还的"
 inspect,"vt. 检查, 检阅, 检验
 vi. 检查"
-install,vt. 安装；设置；正式任命；使就职；任用；安顿；安置
+install,"vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
 instance,"n. 建议, 情况, 例子, 场合
 vt. 引以为例, 举例说明"
 institute,"vt. 开始（调查）；制定；创立；提起（诉讼）
@@ -2837,7 +3488,8 @@ instrument,"n. 工具, 手段, 仪器
 [化] 仪器"
 insure,"vt. 保险, 确保
 vi. 投保"
-insurance,n. 保险；保险费；保险契约；赔偿金
+insurance,"n. 保险, 保险业, 保险费
+[医] 保险"
 intangible,"a. 难以明了的, 无形的
 [经] 无形的"
 integral,"n. 整体, 积分, 整数
@@ -2849,7 +3501,8 @@ a. 完整的, 完全的"
 intellectual,"n. 有知识者, 知识分子, 凭理智做事者
 a. 智力的, 用脑力的, 聪明的"
 intended recipient,预期的接受者
-interactive,[网络] 互动；互动性
+interactive,"a. 相互作用的, 相互影响的
+[计] 交互, 人机对话的"
 interest,"n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力
 vt. 使感兴趣, 与...有关系"
 interface,"n. 分界面, 接触面, 界面
@@ -2869,8 +3522,9 @@ internship,"n. 实习医师的职务
 interrupt,"vt. 中止，中断，阻碍；遮断；打断(别人讲话等)；打扰；打破…的平衡(或连续性等)
 vi. 打断；打扰
 n. 中断；暂停；隔阂；距离；分隔；裂痕；【计算机】中断信号"
-interview,"n. 接见, 采访；面试, 面谈
-vt. 采访；接见；对…进行面谈；对某人进行面试"
+interview,"n. 面试；访谈；面谈；会谈
+v. 面谈；访问；对（某人）进行面试（或面谈）；接受面试
+[网络] 采访；去面试；我会采访了别人了"
 in the black,"赢利
 [经] 盈利"
 intimidate,"vt. 威胁, 恐吓
@@ -2893,7 +3547,8 @@ investment,"n. 投资
 invincible,"a. 不能征服的, 无敌的"
 invitation,"n. 邀请, 请柬, 引诱
 [经] 邀请, 招待, 吸引"
-invoice,嗓子好
+invoice,"n. 发票, 发货单
+v. 开发票, 记清单"
 involve,"vt. 包括, 使陷于, 潜心于, 包围
 [医] 累及, 牵涉, 包含"
 irrelevant,"a. 不恰当的, 无关系的, 不相干的
@@ -2915,7 +3570,10 @@ jargon,"n. 专门术语, 行话, 梦话, 土语
 [计] 行话"
 jeopardise,"vt. 使受危险, 危及, 危害
 [法] 使受危害, 使陷入危险, 危及"
-job,[网络] 职务；多个作业；即作业
+job,"n. 工作, 零活, 职业, 事情
+vi. 做零工, 打杂, 做股票经纪, 假公济私
+vt. 代客买卖, 批发, 承包, 欺骗
+[计] 作业"
 joint,"n. 连接处, 接合, 关节
 a. 共同的, 联合的, 连接的, 合办的
 vt. 连接, 接合, 使有接头
@@ -2925,7 +3583,8 @@ journal,"n. 日记, 杂志, 日报
 judge,"n. 法官, 裁判员, 审判官, 鉴定人
 vt. 审理, 鉴定, 判断, 判决, 裁定
 vi. 下判断, 作评价"
-judgement,判决，判断，评审
+judgement,"n. 审判, 判决, 判断
+[经] 判定, 审定, 鉴定"
 junk,"n. 垃圾, 乌七八糟的东西, 舢板
 [计] 清除"
 jurisdiction,"n. 司法权, 审判权, 管辖权
@@ -2940,26 +3599,37 @@ v. 唱挽歌, 痛哭"
 keep,"n. 生计, 维持, 保持
 vt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐
 vi. 保持, 继续不断"
-key,[计] DataCAD图标工具条文件
+key,"n. （打字机等的）键；关键；钥匙
+vt. 键入；锁上；调节…的音调；提供线索
+vi. 使用钥匙
+adj. 关键的
+n. (Key)人名；(英)基；(德、荷、瑞典)凯"
 keynote speaker,[网络] 专题演讲者；演讲人
 keyword,"关键字, 保留字
 [计] 关键字"
 kiosk,"n. 亭, 凉亭, 报摊"
 knock-down,"na. 打倒；拆除；拆卸；(拍卖时)敲槌卖出
 [网络] 撞倒；击倒；击落"
-know-how,[化] 专门技术; 窍门
-knowledge,[网络] 知识；英语知识；识记
+know-how,"n. 实际知识, 技术秘诀, 诀窍
+[计] 技术诀窍"
+knowledge,"n. 知识, 学问, 认识, 知道"
 label,"n. 标签, 称号, 商标, 标志
 vt. 贴标签于, 标注
 [计] 标志; 标注; DOS外部命令:用于建立改变或删除磁盘卷标号"
-labour,"n. 劳动力，人工；分娩
-vi. 劳动；分娩；费力地前进"
-land,表示：u201c某种质量的土地u201d：grassland; u201c特定的地方或境界u201d：fairyland
+labour,"n. 劳动；劳动力；分娩；工人
+v. 努力做（困难的事）；干苦力活；困难吃力地行进
+[网络] 劳工；工党；工作"
+land,"n. 陆地, 地面, 地界, 地产, 国土, 土地
+vi. 登陆, 登岸, 到达
+vt. 使上岸, 使登陆, 使到达
+[计] 连接盘; 焊盘"
 landlord,"n. 房东, 地主
 [经] 业主, 地主, 房东"
 languish,"vi. 憔悴, 凋萎, 苦思"
-laptop,n. 笔记本电脑
-laser printer,[计] 激光印刷机
+laptop,"a. 膝上型的
+n. 膝上型电脑"
+laser printer,"na. 激光打印机
+[网络] 雷射印表机"
 launch,"n. 下水, 汽艇, 发射
 vt. 使下水, 发射, 发动
 vi. 起飞, 下水, 投入, 开始"
@@ -2967,13 +3637,18 @@ launder,"n. 流水槽
 v. 洗衣, 烫衣"
 lavish,"a. 大方的, 丰富的, 浪费的
 vt. 浪费, 滥用, 慷慨给予"
-law,"n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼
-v. 起诉"
-lay off,"na. 辞退；停止；暂停
-[网络] 解雇；下岗；裁员"
-layout,"n. 布局；设计；规划；安排
-[网络] 布置；摆开；花费"
-lead,[网络] 成长计划
+law,"n. 法律；规律；法治；法学；诉讼；司法界
+vi. 起诉；控告
+vt. 控告；对…起诉
+n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳"
+lay off,"n. 解雇, (临时)解雇期, 关闭, 停歇
+[经] 临时解雇, 停止工作, 休息"
+layout,"n. 布局, 陈列, 规划图, 页面布局, 版面编排
+[计] 页面布局, 版面"
+lead,"n. 铅, 铅条, 领导, 超前量, 领引, 榜样, 主角, 导线
+vt. 引导, 带领, 领导, 指挥, 致使, 加铅于, 用铅包
+vi. 领导, 带头, 导致, 用测深锤测深, 被铅覆盖
+a. 带头的, 最重要的"
 leaflet,"n. 小叶, 传单
 [医] 小叶"
 leap,"n. 跳跃, 剧增, 急变, 被越过之物
@@ -2982,7 +3657,8 @@ vt. 跃过, 使跃过"
 learning goals,无
 lease,"n. 租约, 租期, 租
 vt. 出租, 租出, 租得"
-leasehold,租借地
+leasehold,"a. 租赁的
+n. 租赁权, 租赁"
 leave,"n. 许可, 告别, 请假, 休假
 vt. 离开, 剩下, 遗忘, 委托, 丢弃
 vi. 出发, 离开, 生叶"
@@ -2998,7 +3674,8 @@ lend,"vt. 借, 贷款给, 增添, 提供, 出租
 vi. 贷款"
 lessee,"n. 承租人, 租地人, 租屋人
 [经] 承租人"
-lessor,[网络] 我的爱人
+lessor,"n. 出租人
+[经] 出租人"
 letterhead,"na. 笺头；印有上述笺头的信笺
 [网络] 信头；信纸；信头标识"
 leverage,"n. 杠杆作用, 杠杆装置, 杠杆效率
@@ -3012,25 +3689,31 @@ liaison,n. 联络
 liberalise,vt. 使自由化
 license,"n. 执照, 许可证, 特许
 vt. 许可, 特许"
-lie,[网络] 长岛迷情；少男初体验；中间
-life,[网络] 季刊
+lie,"n. 谎言, 假象, 位置
+vi. 躺着, 说谎, 位于, 展现, 存在, 停泊
+vt. 谎骗"
+life,"n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑
+[医] 生活, 生存, 生命, 寿命"
 life-cycle costing,生命周期成本法;寿命周期成本;寿命周期价格
 lifelong,"adj. 终身的
 [网络] 终身险；终身服用；是长寿"
-lifestyle, 生活方式
+lifestyle,n. 生活方式
 lift,"n. 举起, 帮助, 昂扬, 电梯
 vt. 升高, 提高, 鼓舞, 清偿, 空运, 举起, 剽窃
 vi. 升起, 消散, 耸立"
 likely,"a. 有可能的, 合适的, 前途有望的
 adv. 或许, 可能"
-limitation,[网络] 局限性
+limitation,"n. 限制, 缺陷, 限额
+[医] 限界, 限制, 限度"
 limited,"a. 有限制的, 有限的, 有限责任的
 n. 特别快车"
-line,"comb.form 表示“电话服务”：jokeline [参较 chatline, helpline]"
-link,"n. 环, 连结物, 链接, 火把
-vt. 连结, 联合, 挽住
-vi. 连接起来
-[计] 连接, 链路"
+line,"n. 列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系
+vt. 排成一行, 顺...排列, 划线于, 加衬里, 使有线条, 使起皱纹
+vi. 排队
+[计] 线路"
+link,"n. 链接；连接；联系；纽带
+v. 联系；把（物体、机器、地方等）连接起来；相关联
+[网络] 系动词；把……和……联系起来；链环"
 link-up," （使）连接, （使）结合, （使）合并; 贯通; 连贯; 沟通"
 liquid,"n. 液体, 流体, 流音
 a. 液体的, 透明的, 明亮的, 流动的, 易变的"
@@ -3047,21 +3730,24 @@ vt. 在法庭相争, 诉讼"
 litigation,"n. 诉讼, 起诉
 [经] 诉讼, 纠葛"
 livelihood,"n. 生计, 营生, 生活"
-load,"n. 负载，负荷；工作量；装载量
-vi. [力] 加载；装载；装货
-vt. 使担负；装填"
+load,"n. 负荷, 担子, 重担, 装载量, 负载, 工作量, 加载
+vt. 装载, 装填, 使担负
+vi. 装货, 上客, 装料
+[计] 加载, 装入程序"
 loan,"n. 贷款, 借出
 v. 借, 供应货款, 借给"
-local,abbr. low calorie 低卡路里
+local,"a. 地方性的, 当地的, 局部的, 乡土的, 本地的
+n. 当地居民, 本地新闻, 局部
+[计] 本地的; 局部"
 logistics,"n. 后勤学, 后勤
 [医] 后勤学"
 logo,"n. 连合活字, 商标, 徽标
 [计] 徽标"
-log off,"[计] 注销, 下网"
+log off,"[计] 注销, ""退出系统"""
 log on,"[计] 注册, 登录, 登录入网"
-log in,[计] 注册
-long-standing,维持；存在已久的
-loophole,漏洞
+log in,"[计] 请求联机, 联通, 注册, 进入系统, 登记, 记入"
+long-standing,"a. 长期间的, 长期存在的"
+loophole,"n. 枪眼, 小窗, 换气孔"
 lose,"vt. 遗失, 损失, 丢失, 使失去, 错过, 浪费, 迷失, 使迷路, 输去, 使沉溺于
 vi. 受损失, 失败"
 loss,"n. 减少；亏损；失败；遗失
@@ -3071,11 +3757,12 @@ lottery,"n. 奖券, 彩票, 运气
 lounge,"n. 闲逛, 休闲室, 长沙发
 vi. 闲混, (懒洋洋地)躺
 vt. 闲混"
-low-cost, 低成本
+low-cost,"a. 价格便宜的, 廉价的"
 loyalty,"n. 忠贞, 忠诚, 忠实
 [法] 忠诚, 忠心"
 lucrative,"a. 有利益的, 获利的, 合算的"
-lump sum,"[计] 总额, 总结算"
+lump sum,"a. 一次总付的
+[经] (金额)一次总付的, 整笔总付的"
 lure,"n. 饵, 诱惑
 vt. 引诱, 诱惑"
 luxury,"n. 奢侈, 豪华
@@ -3089,7 +3776,10 @@ mail,"n. 邮件, 邮政, 邮递, 盔甲
 vt. 邮寄, 给...穿盔甲
 [计] 邮件"
 mailshot,n. 邮寄广告
-mainstream, 干流; 主流
+mainstream,"n. 主流；(河流的)主流；干流
+v. 使…成为主流；将(残障儿童等)纳入正规班级
+adj. 主流的
+[网络] 主要有主流式；主流政党；主流菸"
 maintain,"vt. 维持, 维修, 保持, 坚持, 供养, 主张
 [化] 维修"
 maintenance,"n. 维护, 保持, 维修, 生活费用, 坚持, 扶养
@@ -3101,19 +3791,21 @@ vi. 主修
 make,"vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
 vi. 开始, 前进, 增大, 被制造, 被处理
 n. 制造, 构造, 性情"
-malfunction,"vi. 发生故障；不起作用
-n. 故障；失灵；疾病"
+malfunction,"n. 故障, 失灵, 疾病
+vi. 发生故障, 不起作用
+[计] 故障"
 managed float,[经] 控制的浮动
 management,"n. 经营, 支配, 管理
 [化] 管理处"
 managerial,"a. 管理的
 [经] 管理上的, 经营上的"
-man hour,[化] 工时
+man hour,"n. 一人一小时内完成的工作量, 工时"
 manning,n. 人员配备
 manoeuvre,"n. 调遣, 演习, 策略
 vi. 调动, 演习, 用策略
 vt. 调动, 操纵"
-manpower,[经] 人力
+manpower,"n. 人力
+[经] 人力"
 manual,"n. 手册, 指南
 a. 手的, 手动的, 手工的, 体力的
 [计] 人工的, 手动的"
@@ -3127,9 +3819,10 @@ maritime,"a. 海的, 海上的, 海事的, 沿海的, 海员的
 [经] 海事的, 海上的, 海员的"
 markdown,"记下, 标低价格
 [法] 减价"
-market,"n. 市场, 交易, 集市, 推销地区, 行情, 市面, 销路
-vt. 在市场上交易, 使上市, 销售
-vi. 在市场上买卖"
+market,"n. 市场；行情；股票市场；市面；集市；销路；商店
+vt. 在市场上出售
+vi. 做买卖
+n. (Market)人名；(塞)马尔凯特"
 marketing,"n. 行销, 买卖
 [经] 推销, 在市场买卖, 销售"
 marketplace,"[计] 市场位置
@@ -3148,13 +3841,13 @@ vt. 使相配, 使比赛, 与...竞争
 vi. 结婚, 相配
 [计] 比较"
 maternity leave,[法] 产假
-matter,[网络] 解决问题
+matter,"n. 事件, 物质, 原因, 素材, 实体, 重要
+vi. 有关系"
 mature,"a. 成熟的, 到期的, 充分考虑的
 vt. 使成熟
 vi. 成熟, 到期"
 maximise,"vt. 把...增加到最大限度, 把...扩大到最大限度, 充分重视, 找出...的最高值"
-MB,"un. 闭合断开
-[网络] 服装贸易公司；妈宝；伟华宠物花园"
+MB,abbr. myrmekitised biotite 含蠕状石黑云母; Myrtle Beach <美国>默特尔海滩
 measure,"n. 尺寸, 量度器, 量度标准, 测量, 量具, 程度, 范围, 限度, 分寸, 措施, 方法
 vt. 测量, 测度, 估量, 权衡, 调节, 拿(自己或自己的力量等)作较量
 vi. 度量"
@@ -3189,15 +3882,16 @@ merit,"n. 优点, 功绩, 价值, 功过, 真相
 vt. 值得
 vi. 应受"
 meticulous,"a. 一丝不苟的, 精确的, 过细的"
-middleman,"[经] 经纪人, 掮客, 中间商"
-mid-price,[网络] 中价；中间价；中心价
+middleman,"n. 中间人
+[法] 调解人, 中间人, 中人"
+mid-price,[网络] 中等价位；交易价格偏离中间价格
 mighty,"n. 有势力的人
 a. 有势力的, 强大的, 有力的
 adv. 很, 极"
-milestone, [交]里程碑
-mill,"n. 磨坊；工厂；磨粉机；面粉厂
-v. 磨成粉
-[网络] 穆勒；密尔；米尔"
+milestone,"n. 里程碑, 里程石, 里程标"
+mill,"n. 压榨机, 磨坊, 制造厂
+vt. 碾磨, 磨细, 搅拌, 使乱转
+vi. 乱转, 被碾磨"
 mimic,"a. 模仿的, 摹拟的
 n. 效颦者, 模仿者, 小丑, 仿制品
 vt. 模仿, 摹拟"
@@ -3226,19 +3920,22 @@ moderate,"a. 适度的, 稳健的, 中等的, 节制的
 vt. 节制, 减轻, 使缓和
 vi. 变缓和, 主持会议"
 modernisation,n. <主英>=modernization
-modest,"a. 谦逊的, 羞怯的, 端庄的, 适度的
-[经] 适当的"
+modest,"adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
+n. (Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特"
 modify,"vt. 修正, 变更, 修饰, 缓和, 减轻
 vi. 被修改
 [计] 修改"
-moment,[网络] 一刹那
+moment,"n. 片刻, 瞬间, 重要, 阶段, 力矩
+[医] 片刻, 瞬间, 时机, 因素, 矩"
 monetary,"a. 货币的, 金钱的
 [经] 货币的, 金融的"
-money,[网络] 抠抠
+money,"n. 金钱, 一笔款, 财富, 货币, 金额
+[经] 货币, 金钱, 财产"
 monitor,"n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物
 v. 监视, 监听, 监督
 [计] 监视器, 监视程序; 监视"
-monopoly,[网络] 韩国进口文具
+monopoly,"n. 垄断, 专卖权, 独占事业
+[经] 垄断, 专利品, 垄断(权)独占"
 morale,"n. 士气, 道德"
 moratorium,"n. 延期偿付, 暂停
 [法] 延期偿付, 延缓履行, 延期偿还期"
@@ -3246,16 +3943,21 @@ mortgage,"n. 抵押, 约束性义务, 抵押借款
 vt. 抵押, 以...作担保, 把...许给"
 motivate,"vt. 给与动机, 刺激, 提高...的学习欲望, 促动
 [经] 促动, 激发, 激励"
-motive,"suf. 表示“动的”,“运动的”：locomotive"
+motive,"n. 动机, 目的, 主题, 基调
+a. 运动的, 成为动机的"
 motto,"n. 箴言, 座右铭, 警句"
-mould,"霉菌，模具, 霉菌；模型"
+mould,"n. 模子, 模制品, 松软沃土, 霉
+vt. 形成, 浇铸, 用泥土覆盖
+vi. 发霉"
 mount,"n. 乘骑用马, 框, 衬纸, 山
 vi. 乘马, 爬上, 增长
 vt. 爬上, 使上马, 装上, 装裱, 安放, 制作...的标本, 设置, 上演
 [计] 安装"
 MPS,(m-p 的复数) abbr. metal-point 金属点
-multilateral,adj. [数] 多边的；多国的，多国参加的
-multinational, 多民族的
+multilateral,"a. 多边的, 多国的
+[经] 多边的, 涉及多方的"
+multinational,"a. 多国的, 跨国公司的
+n. 跨国公司"
 multiply,"vt. 乘；使增加；使繁殖；使相乘
 vi. 乘；繁殖；增加
 adv. 多样地；复合地
@@ -3281,25 +3983,100 @@ neglect,"n. 疏忽, 忽略, 漏做
 vt. 疏忽, 忽视, 不顾"
 negotiate,"vi. 商议, 谈判, 交涉
 vt. 谈妥, 转让, 处理"
-net,"adj. 无虚价的；基本的；最后的；最后的(定论)
-n. 纯利；净值；实价；纯量
-v. 编网；编结网状物；〔诗〕成网状；撒(网)
-[网络] 网络；净重(Netweight)；球网"
-network,[机] 净功
+net,"Net
+[net]
+abbr.
+National Educational Television (美国)全国教育电视网
+n.
+因特网
+短语:
+surfing the Net
+上因特网，网上冲浪
+net1
+[net]
+n.
+网，罗网
+网子，网状物
+捕网，束缚
+网状织物；网眼花边
+(丝状体、血管等的)网状组织
+网状系统；通信网；广播网；间谍网
+互相交织的一组事物
+(网球、乒乓球等的)擦网球；落网球
+[用复数]【冰球】球门
+vt.
+把…织成网；编织；用网做：
+to net one's son a cap
+给儿子织一顶帽子
+(用网)遮盖，遮挡，围住：
+to net a place where a building is being built
+用网遮挡住正在盖楼的地方
+用网捕捉：
+to net birds
+用网捕鸟
+捕捉，诱捕；捕获：
+The police netted a drugpusher in the station.
+警方在火车站抓获了一名毒品贩子。
+(网状地)缠绕；笼罩：
+He was netted by an ill omen.
+一种不详的预兆萦绕着他。
+【广播、电视】联播(节目等)
+【体育】把(球等)击落网；把(球等)踢进网
+vi.
+织网：
+to net for fishing
+织网以备捕鱼
+联成通信网
+【体育】击球落网失分；踢球入网得分
+短语:
+spread one's net for someone
+为某人布置好圈套
+sweep everything into one's net
+网罗一切，把一切可以到手的东西都攫为己有
+变形：
+vt.
+netted
+. netting
+net2
+[net]
+adj.
+净的，纯的
+净重的
+以净价出售的
+最终的，结局的
+n.
+净收入，纯利；净值；净重；净价
+要点，要旨
+最终结果
+【高尔夫球】净得分
+vt.
+使净得，净赚：
+You will net ￡ 2 000 from the deal.
+在这笔交易中，你可净赚2 000英镑。
+使得到；获得：
+He netted the support of all of us.
+他得到了我们所有人的支持。
+变形：
+vt.
+netted
+. netting"
+network,"n. 网络, 广播网, 网状物
+[计] 网络"
 niche,"n. 壁龛
 vt. 放入壁龛, 安顿"
-no-brainer, <美><非正>不需对其动脑筋的事物
+no-brainer,"n. something that requires little thought,傻瓜都知道的问题"
 nominal,"a. 名义上的, 名字的, 有名无实的, 稍许的
 n. 名词性词"
 nominate,"vt. 提名, 任命, 命名
 [法] 提名...为候选人, 指定, 推荐"
 non-committal,"adj. 模棱两可的
 [网络] 不明朗的；不承诺；不承担义务的"
-non-negotiable, [财]不可转让的
+non-negotiable,"[化] 不可转让; 无商量余地的; 不可谈判的
+[经] 不能抵押, 不可转让"
 normal,"n. 常态, 标准, 正常, 普通
 a. 正常的, 正规的, 标准的, 师范的, 正态的
 [计] 标准, 普通"
-nosedive,n. 空降; 暴跌
+nosedive,"vi. 俯冲, (价格)猛跌, 暴落"
 notably,"adv. 显著地, 著名地, 尤其, 特别"
 notice,"n. 注意, 布告, 通知, 预告, 短评
 vt. 注意, 通知, 评论, 提及, 关注
@@ -3314,7 +4091,8 @@ nurture,"n. 养育, 营养物, 培育
 vt. 养育, 供给营养物, 教养"
 obedient,"a. 服从的, 顺从的, 孝顺的
 [法] 服从的, 顺从的, 忠顺的"
-obey,[网络] 遵守
+obey,"vt. 服从, 遵从, 顺从
+vi. 服从"
 object,"n. 物体, 目标, 目的, 对象, 宾语, 客体
 vi. 反对, 抱反感
 vt. 提出...来反对
@@ -3344,11 +4122,16 @@ offend,"v. 犯罪, 冒犯, 违反, 进攻"
 offer,"n. 给予(物), 出价, 提议, 意图, 报价
 vt. 提供, 出价, 奉献, 试图, 使出现, 演出
 vi. 出现, 献祭, 提议, 求婚"
-office,[网络] 办公室；写字楼
-off-putting,a. 令人厌恶的; 老是推托的
+office,"n. 办公室, 部, 公职, 职责
+[化] 办公室"
+off-putting,"(offput 的现在分词) vt.<英口>使困窘, 使气恼,使倒胃口"
 off-season,"[化] 非生产季节; 淡季
 [经] 淡季"
-offset,n. 排列不正
+offset,"n. 抵消, 把...并列, 旁系, 支管, 用胶印法印
+vt. 弥补, 抵消, 胶印
+vi. 装支管
+n. 偏移量
+[计] 偏移量"
 old hand,"[化] 熟练工人
 [经] 熟练工人, 熟练人才, 熟手"
 omission,"n. 省略, 遗漏, 疏忽
@@ -3359,12 +4142,14 @@ on business,因公
 one-stop shopping,[网络] 一次购足；一站购足；一站式购物
 ongoing,"adj. 不间断的，进行的；前进的
 n. 前进；行为，举止"
-online,"[经] (与主机)联机, 在线, 机内"
-onset,"adj. 开始
-[网络] 开集；设；起始温度"
-on-the-job,"工作着, 警惕着"
+online,"un. 在线的；联机；电站并网；机控
+[网络] 线上人数"
+onset,"n. 开始, 攻击, 进攻
+[医] 起始, 开始"
+on-the-job,[网络] 私人企业实习
 on the market,"在市场上,供出售,待售"
-on the road,"在旅途中, 在...过程中"
+on the road,"na. 在旅行中；〔美国〕(剧团等)在巡回演出中
+[网络] 道路；在路上"
 opening,"n. 开始, 口子, 穴, 揭幕
 a. 开始的"
 operate,"v. 操作, 运转, 动手术, 活动"
@@ -3387,25 +4172,29 @@ vt. 整理, 命令, 定购
 n. 顺序, 阶数
 [计] 顺序, 阶数"
 organisation,"n. 组织, 团体, 体制, 编制"
-orient,"n. 东方, 东方诸国
-a. 东方的
+orient,"vt. 使适应；确定方向；使朝东
+n. 东方；东方诸国
+adj. 东方的
 vi. 向东
-vt. 使朝东, 使适应, 确定方向"
+n. (Orient)人名；(西)奥连特；(法)奥里安"
 orientation,"n. 定方位, 适应, 向东方
 n. 方向
 [计] 方向"
 original,"a. 最初的, 原始的, 有创意的
 n. 原物, 原作"
-outbreak, 超欠挖
-outcome,n. 结果，结局；成果
+outbreak,"n. 爆发, 暴动
+[医] 暴发"
+outcome,"n. 结果, 结局；成果"
 outdated,(out-date 的过去分词) 过期；出单日期
-outflow,"n. 流出；流出量；流出物
-vi. 流出"
-outgoing,a. 外向的
+outflow,"n. 流出, 流出物
+[医] 流出, 传出, 流出物"
+outgoing,"n. 外出, 开支, 流出
+a. 喜欢外出的, 即将离职的, 乐于助人的"
 outgrow,"vt. 过大而不适于, 长得比...高(或大、快), 成长得不再具有..."
 outlay,"vt. 花费
 n. [会计] 经费；支出；费用"
-outlet,[网络] 电机功率；出口；找到出路
+outlet,"n. 出口, 发泄方法, 市场
+[医] 出口"
 outline,"n. 大纲, 轮廓, 概要
 vt. 描画轮廓, 描述要点
 n. 大纲, 分级, 轮廓
@@ -3415,50 +4204,65 @@ outlook,"n. 观点, 景色, 前途, 了望
 out of debt,"不欠债
 [经] 不欠债"
 outperform,vt. 胜过；做得比……好
-output, [林]出材率
+output,"n. 输出, 产品, 产量
+[计] 输出"
 outsell,"vt. 卖得比...多, 比...更畅销"
-outsource,外包
-outspoken,[网络] 直言的
-outstanding,"adj. 杰出的；显著的；未解决的；未偿付的
-n. 未偿贷款"
-overall,遍及
-overcapacity,"[计] 过量, 过载"
+outsource,vt. 把…外包
+outspoken,"a. 直言无讳的, 坦率的, 坦白无隐的"
+outstanding,"a. 杰出的, 突出的, 未偿付的, 未决定的
+[经] 未解决的, 未偿付"
+overall,"a. 全部的, 全体的, 从头至尾的, 一切在内的
+adv. 从头到尾, 总的说来
+n. 罩衫, 工作服"
+overcapacity,"n. 生产能力过剩
+[网络] 产能过剩；过度能量；生产过剩"
 overdraft,"n. [金融] 透支；[金融] 透支额
 vt. [金融] 透支"
 overdraw,"vt. 透支(银行帐户), 把(弓等)拉得过度, 夸大, 夸张
 vi. 透支"
 overheads,n. 企业的日常管理费用；杂项开支；一般费用（overhead的复数）
-overnight,[网络] 过夜；隔夜敞口；过夜检查
-overpay,"vt. 多付；多给报酬
-vi. 多付"
+overnight,"n. 前一天晚上, 一夜的逗留
+a. 通宵的, 晚上的, 前夜的
+adv. 在前一夜, 整夜, 昨晚一晚上"
+overpay,"vt. 多付, 多给报酬
+vi. 付得过多"
 overriding,(over-ride 的现在分词) vi. 搁置
-oversee,"vt. 监督；审查；俯瞰；偷看到, 无意中看到"
-oversight,看漏
+oversee,"vt. 向下看, 了望, 监督, 偷看到
+[法] 监察, 监督, 俯瞰"
+oversight,"n. 勘漏, 失察, 失败, 照料
+[经] 监督权"
 oversupply,"n. [经] 供给过多；过多的供应品
 vt. 过度供给"
 overtake,"vt. 赶上；压倒；突然来袭
 vi. 超车"
-overtime,[计] 超时
+overtime,"n. 超时, 加班, 延长时间
+a. 超时的, 加班的
+adv. 加班地
+vt. 使超过时间"
 overtrade,vi.(企业)贸易过度
 overwhelm,"vt. 淹没, 受打击, 制服, 压倒, 使不知所措
 [法] 打翻, 倾覆, 覆盖"
 owe,"vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩
 vi. 欠钱"
-ownership,n. 所有权；物主身份
-own-label,[网络] 自有品牌
+ownership,"n. 所有权, 物主身份
+[经] 所有权, 所有制"
+own-label, = own-brand
 p.a.,"abbr. 帕（斯卡）（标准压强单位）
 [网络] 聚酰胺(polyamide)；尼龙；功率放大器(power amplifier)"
 pace,"n. 速度, 步调, 步法
 vi. 踱步, 缓慢走
 vt. 用步测, 踱步于"
-pack,comb.form 表示“(瓶、罐头等)一箱”
+pack,"n. 包裹, 一伙, 一副, 背包, 包装
+vt. 包装, 捆扎, 塞满, 压紧, 挑选
+vi. 包装货物, 挤, 群集, 被包装
+[计] 压缩"
 package,"n. 包裹, 套装软件, 包, 包装用物, 程序包
 vt. 包装, 打包
 a. 一揽子的
 [计] 包, 软件包, 包装"
 pact,"n. 契约, 协定, 条约
 [化] 合同"
-page view, 访问量；浏览量
+page view,是指对每个页面所发出的请求，你访问一个页面，无论其包含多少个页面元素，只产生一个pageview，但却产生数个Hits。
 painkiller,"n. 【医】止疼药
 [网络] 止痛药；止痛剂；头痛就买止痛药"
 pairing,"[计] 配对, 成对"
@@ -3470,7 +4274,9 @@ paper,"n. 纸, 文件, 文章, 报纸, 证券, 证件
 vt. 用纸糊, 贴壁纸于, 用纸包装
 vi. 贴壁纸
 a. 纸做的, 纸上的"
-par,[网络] 精密进近雷达；归模型
+par,"n. 标准, 票面价值, 平均数量, 同等水平
+a. 票面的, 平常的, 标准的, 平价的
+[计] 重新传输的肯定回答"
 paradigm,"n. 范例, 式样, 词形变化表, 纵聚合关系语言项"
 parallel,"n. 平行, 对比, 相匹敌之物
 a. 平行的, 相似的
@@ -3492,10 +4298,14 @@ a. 党派的, 偏袒的, 效忠的, 献身的, 盲目推崇的"
 partly,"adv. 部分地, 在一定程度上"
 partnership,"n. 合伙, 合股, 合作关系
 [经] 合伙(合作)关系, 全体合伙人"
-part-time,n. 兼任，部分时间
-party,"n. 宴会, 党, 政党, 团体, 当事人, 聚会
-v. 举办聚会"
-passbook,"[经] 银行存折, 顾客赊欠帐簿"
+part-time,"a. 兼任的, 半工半读的, 部分时间的
+adv. 部分时间, 兼任地"
+party,"n. 政党；党派；聚会；宴会
+adj. 党派的；社交的；【纹章】分隔开的
+v. 寻欢作乐；吃喝玩乐
+[网络] 派对；晚会；当事人"
+passbook,"na. 〈英〉(银行)存折；顾客赊欠账簿
+[网络] 银行存摺；顾客赊欠帐本；银行存折"
 passionate,"a. 热情的, 热烈的, 易怒的, 热恋的"
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
 [医] 被动的"
@@ -3509,13 +4319,17 @@ vt. 取得...的专利权, 请准专利"
 patient,"n. 病人, 承受者
 a. 忍耐的, 容忍的, 有耐性的, 坚忍的"
 patronise,"vt. 庇护, 资助, 赞助, 保护, 光顾, 惠顾, 对...以恩人自居"
-pattern,[网络] 实地调查和抽样
+pattern,"n. 模范, 典型, 式样, 样品, 图案, 格调, 模式
+vt. 模仿, 仿造, 以图案装饰
+vi. 形成图案
+[计] 模式, 图案"
 pay,"n. 薪资, 付款, 补偿
 vt. 支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物
 vi. 付款, 付出代价, 偿还, 得到报应, 获得好处"
 payment,"n. 付款, 支付的款项(或实物), 偿还, 报应, 惩罚
 [经] 支付, 缴纳, 支付款额"
-payroll,"工资清单,薪工清单;工资薪金总额"
+payroll,"n. 工资名单, 饷金名单, 发放的工资总额
+[计] 工资表, 工资单"
 peak,"n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌
 a. 最高的, 最大值的
 vi. 到达最高点, 消瘦, 变憔悴, 逐渐缩小
@@ -3538,11 +4352,13 @@ perform,"vt. 进行, 履行, 完成, 执行, 表演
 vi. 行动, 工作, 执行, 演出"
 performance,"n. 施行, 工作情况, 成绩, 行为, 表现, 演出
 [电] 绩效, 性能"
-periodical,期的，定期的，间歇的，循环的，断断续续的
+periodical,"n. 期刊
+a. 定期出版的, (有关)期刊的, 间歇(性的), 周期的, 定期的"
 perishables,n. 容易腐坏的东西（尤指食品）( perishable的复数形式 )
-perk,"vi. 昂首, 振作, 举止高傲, 神气活现, 滤煮
-vt. 竖起, 打扮, 使振作, 滤煮
-n. 小费"
+perk,"v. 振作；〈口〉过滤；(病后)复原；抬头
+n. 津贴
+adj. 〈罕〉同“perky”
+[网络] 技能；破壳；外快"
 permanent,"a. 永久的, 不变的, 固定的, 持久的
 n. 烫发
 [计] 永久的"
@@ -3567,21 +4383,27 @@ phase out,"na. 使逐步结束；使逐步撤出；逐步淘汰；逐部停止(�
 [网络] 使逐步淘汰；逐渐停止；逐步取消"
 phenomenon,"n. 现象, 迹象, 表现, 奇迹, 奇才
 [化] 现象"
-photocopier,[印刷] 照相复印器
-photographic,[网络] 商业摄影；相簿目录
+photocopier,"[印刷] 照相复印器
+[摄] 照相拷贝器"
+photographic,"a. 照相的, 摄影用的, 详细记录的, 逼真的, 酷似的"
 phrase,"n. 惯用语, 词组, 成语, 措词, 乐句
 vt. 用短语表达, 把(乐曲)分成短句
 [计] 短语"
 pick,"n. 精选, 选择, 掘, 精华, 牙签, 鹤嘴锄
 v. 摘, 掘, 凿, 挖, 挑选
 [计] 拾取"
-piece,"comb.  表示""...件数的""； adj. 块的；与数词连用形成形容词指某物由特定数量的品目组成"
-pie chart,n. 圆形分格统计图表
+piece,"n. 块, 片, 篇, 碎片, 部分, 部件, 标准量
+vt. 修补, 修理, 拼合, 接线头
+vi. 吃零食"
+pie chart,"na. 馅饼形统计图
+[网络] 饼图；饼状图；扇形饼图"
 pilot,"n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人
 vt. 领航, 驾驶, 引导, 试用
 a. 引导的, 控制的, 试点的
 [计] 引导"
-PIN,[网络] 销
+PIN,"n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位)
+vt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于
+a. 针的, 销子的, 闩的"
 pioneering,a. 首创的；先驱的
 pirate,"n. 海盗, 盗印者, 侵犯专利权者
 vt. 盗印, 掠夺, 翻印
@@ -3590,7 +4412,7 @@ pitch,"n. 程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距
 vt. 投, 掷, 向前倾跌, 扎营, 竭力推销, 为...定调, 定位于, 用沥青涂
 vi. 搭帐篷, 投掷, 向前跌, 猛然摔倒, 坠落, 倾斜
 [计] 孔距"
-pitfall,"n. 陷阱, 圈套；缺陷；诱惑"
+pitfall,"n. 陷阱, 诱惑, 阴谋, 易犯的错误, 意想不到的困难"
 placing,"n. 出盘, 出售
 [化] 铺设"
 plain,"n. 平原, 草原, 朴实无华的东西, 无格式
@@ -3604,8 +4426,10 @@ vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于
 vi. 种植"
 plate,"n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照)
 vt. 镀金, 电镀, 用金属板固定, 给...装钢板, 为...制印版"
-platform,"n. 平台；月台, 站台；坛；讲台"
-player,P层（花冈岩质层）
+platform,"n. 站台, 月台, 讲台, 论坛, 平台
+[计] 平台"
+player,"n. 竞赛者, 上场队员, 游戏者, 演员
+[经] 交易者"
 pledge,"n. 诺言, 保证, 誓言, 抵押, 信物, 保人, 祝愿
 vt. 许诺, 保证, 使发誓, 抵押, 典当, 举杯祝...健康"
 plight,"n. 困境, 窘境
@@ -3631,7 +4455,8 @@ n. 正号, 加号, 附加额, 正数, 增益
 poach,"vt. 水煮(蛋), 偷猎, 侵入, 窃取
 vi. 偷猎, 陷入泥中"
 podium," 表示：足,足状部分：monopodium; 梗, 柄[亦作-pode]"
-point-blank,"明白率直的,直截了当的"
+point-blank,"a. 直射的, 断然的
+adv. 直射地, 断然地"
 pointless,"a. 不尖的, 钝的, 不得要领的"
 point-of-sale,"[计] 销售点系统
 [经] 销货点"
@@ -3646,7 +4471,12 @@ vi. 投票
 a. 剪过毛的, 修过枝的
 [计] 轮询"
 poor service, 差劲的服务
-pop,[网络] 相纸，打印纸
+pop,"adv. 突然；砰地(一声)
+n. 流行音乐；汽水；（短促清脆的爆裂声）砰；爹
+v. （使）发砰砰声；发爆裂声；（突然或匆匆）去；（迅速或突然）放置
+adj. 流行音乐的；通俗风格的；通俗的；现代的
+abbr. (=printing-out paper)【摄】(利用光照直接显影的)印相纸
+[网络] 流行(popularity)；流行音乐(popularmusic)；波普(Pope)"
 port,"n. 港口, 埠, 舱门, 避风港, 左舷, 炮眼, 姿势, 意义
 vt. 左转舵, 持(枪)
 vi. 左转舵
@@ -3660,7 +4490,9 @@ portfolio,"n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术�
 portion,"n. 部分, 一份, 命运, 嫁妆
 vt. 分配, 给...嫁妆"
 pose a threat,[网络] 构成威胁；形成一种威胁；对……构成威胁
-position,[网络] 位置
+position,"n. 位置, 地位, 身分, 形势, 姿势, 立场, 职位, 状态, 阵地
+vt. 安置, 决定...的位置
+[计] 位置"
 positive,"a. 肯定的, 积极的, 有把握的
 [医] 正的, 阳性的"
 possess,"vt. 持有, 占有, 拥有, 克制, 支配, 迷住
@@ -3681,9 +4513,10 @@ a. 有潜力的, 可能的, 潜在的"
 power,"n. 力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率
 vt. 使...有力量, 供以动力, 激励
 [计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性"
-powerhouse,"发电所
-[化] 发电站"
-PR,abbr. 公共关系（public relations）；性能要求（Performance Requirement）
+powerhouse,"n. 发电所, 动力室, 精力旺盛的人, 办事效率高的机构"
+PR,"abbr. 对外联络；公关；公关人士(=praseodymium)【化】镨
+n. 公关
+[网络] 公关(Public Relations)；镨(praseodymium)；孕激素受体(progesterone receptor)"
 practice,"n. 实践, 练习, 实行, 惯例, 习惯, 开业
 v. 实践, 实行, 练习, 实习, 业务"
 practise,"v. 实践, 实行, 练习, 实习, 从事(职业)"
@@ -3700,7 +4533,8 @@ predecessor,"n. 前任, 先辈, 前身
 predict,"v. 预知, 预言, 预报"
 predominant,"a. 占主导地位的, 卓越的
 [法] 占优势的, 支配其他的, 主要的"
-pre-emptive, [医]超前性（预防）超前性预防给药是指对高危人群用药以清除致病菌
+pre-emptive,"a. 先买的, 先买权的, 有先买权的
+[法] 有优先购买权的, 优先购买的, 先发制人的"
 preference,"n. 偏爱, 优先, 喜爱物
 [计] 首选项"
 prejudice,"n. 偏见, 成见, 侵害
@@ -3712,11 +4546,11 @@ vt. 预先提出, 引出, 作为...的前提
 vi. 作出前提"
 premium,"n. 额外补贴, 奖金, 奖赏, 保险费
 [医] 保险费"
-preoccupy,vt. 迷住；使全神贯注
+preoccupy,"vt. 抢先占领, 使全神贯注"
 prepared,"adj. 准备好的；精制的
 v. 准备（prepare的过去分词）"
-prerequisite,"n. 首要事, 必要事
-a. 首要的, 必须的"
+prerequisite,"a. 先决条件的, 必要的
+n. 先决条件, 必备条件"
 prescriptive,"a. 规定的, 指定的, 规范的
 [法] 规定的, 指示的, 命令"
 presentation,"n. 赠与, 描述, 介绍
@@ -3724,19 +4558,143 @@ presentation,"n. 赠与, 描述, 介绍
 preserve,"vt. 保护, 保持, 保存, 维持, 腌, 禁猎
 vi. 加工食品, 禁猎
 n. 加工成的食品, 禁猎地, 保护区, 防护物"
-press,"vt. 压；按；逼迫；紧抱
-vi. 压；逼；重压
-n. 压；按；新闻；出版社；[印刷] 印刷机
-n. (Press)人名；(英、德、俄、西、瑞典)普雷斯"
+press,"press1
+[pres]
+vt.
+压；按；揿；扳：
+压榨；压挤；榨取：
+压缩；压制；(尤指用熨斗)熨平：
+使紧贴；紧抱；紧握：
+逼迫；强迫；强制：
+挤出(路)：
+力劝，催促；催逼；敦促：
+恳求，请求；坚持；强调：
+压制；把…压(或捏)成型：
+强迫接受；硬塞：
+使苦恼；使烦恼；使窘迫：
+驱赶；推动：
+竭力推行；执行；实施：
+需立即处理；紧急；使紧迫：
+进逼；进攻：
+【举重】推举：
+生搬硬套(或牵强附会)地使用(词语、比喻等)
+[古语]拥挤；推进
+[废语]=oppress
+[美国俚语](在大街或马路上)闲逛
+[美国俚语](警察在辖区内)巡逻
+[美国俚语](尤指政治家与选民)握手；讨好选民
+vi.
+压；挤；按；推：
+催逼；紧迫；敦促：
+熨烫；被压平：
+奋勇前进，突进；赶上前：
+变得紧急(或紧迫)：
+竭力推行；竭力要求：
+挤拢，拥挤：
+【篮球】紧逼，做紧逼动作
+【高尔夫球】长挥击球过猛
+n.
+压；按；揿；扳
+人丛，人群；拥挤；蜂拥向前
+压榨机；压力机；冲床；打包机；吐丝器；夹具
+紧迫；紧急；急迫
+承压；受压；压力
+驱赶；推动；逼迫
+熨平；压平；(衣服熨平后的)平整状态；(衣服)熨后的线条
+印刷出版机构;印刷业[printing press 的缩略]
+[总称]新闻，杂志；从事印刷业者；新闻界；出版界；通讯社；新闻记者
+报刊上的评论；新闻报道
+白刃战；混战
+柜，衣橱；书箱；书橱
+【举重】推举
+【篮球】紧逼防守
+【心理学】(人格理论用语，指个人行为的环境决定因素)压力
+全力射击
+附加打赌
+生物体对环境中任何事物的需要
+近义词:
+urge
+短语:
+at (或 in the ) press
+在排印中；正在印刷中；即将出版(或发表)
+be hard pressed
+被逼得很紧；手头拮据，经济困难
+面临强大的攻势，受到猛烈攻击
+be (hard) pressed for
+缺乏，缺少(金钱、时间等)
+bring to (the )press
+使开印；把…出版(或发表)
+correct the press
+校对排版上的错误，校对
+go (或 come,send) to press
+(报刊等)付印；开始印刷
+gutter press
+迎合低级趣味的报纸
+have a good press
+在报上获得好评
+in the press
+=at press
+off the press
+已印好；出版，已发行
+out of press
+绝版；卖光
+press ahead (或 forward)
+加紧进行；决心继续，继续干(与 with连用)
+努力前进
+press an attack
+强袭
+press hard upon
+进逼；压迫；穷追
+press home
+坚定不移地进行下去
+极力主张；令人信服地阐明
+press of canvas (或sail)
+满帆，扯满所有风帆
+press one's way
+奋力前进；向前挤
+press someone to death
+把某人折磨致死
+press something (up) on someone
+把某事物强加于某人，坚持要某人接受某事物
+press the button
+按电铃；动手干
+press the matter to a division
+坚持要把事情弄个明白
+press the words
+坚持字面意思
+stop the presses
+(为了插入最新消息)暂停开印报纸
+the reptile press
+(资本主义国家中)向政府献媚的半官方报纸，卖身投靠的报纸
+the yellow press
+黄色报刊
+underground press
+地下刊物
+[美国英语]急进派刊物；新派刊物；野鸡刊物
+press2
+[pres]
+vt.
+强迫服兵役(常指陆军或海军)；强迫服役：
+(尤指紧急)征用：
+vi.
+强迫征兵，抓壮丁
+n.
+强迫服兵役(尤指陆军、海军)；抓壮丁
+[废语]强迫服役令
+press
+abbr.
+pressure"
 prestige value,无
 prestigious,a. 享有声望的
 pretend,"v. 假装, 伪称, 自命, 自称"
 prevent,"v. 预防, 防止, 阻止, 妨碍"
 previous,"a. 早先的, 前面的, 过急的
 [法] 以前的, 生前的, 前述的"
-price,"n. 价格, 代价, 价值
-vt. 定...的价格"
-pride,必利
+price,"n. 价格；价值；代价
+vt. 给……定价；问……的价格
+n. (Price)人名；(英)普赖斯；(法)普里斯；(葡、瑞典)普里塞"
+pride,"n. 骄傲, 自尊心, 自豪, 精华, 勇气
+vt. 以...自豪"
 prime,"n. 最佳部分, 初期, 全盛期
 a. 主要的, 最初的, 根本的
 v. 加油启动, 灌注, 填装"
@@ -3748,11 +4706,11 @@ printer,"n. 印刷工, 打印机
 [计] 打印机"
 prioritise,"vt. 给予…优先权; 按优先顺序处理; 出轻重缓急
 vi. 把事情按优先顺序排好（等于prioritize）"
-priority,"n. 优先权, 优先
-[计] 优先级"
-private,"a. 私人的, 秘密的, 私立的, 隐蔽的
-n. 士兵, 隐士, 阴部
-[计] 私人的"
+priority,"n. 优先；优先权；重点；优先事项
+[网络] 优先级"
+private,"adj. 私有的；私用的；自用的；为一部分人的
+n. 列兵（级别最低的士兵）
+[网络] 私人的；个人的；二等兵"
 proactive,[网络] 积极主动；发展方向将是预主动；超主动型
 probation,"n. 鉴定, 查验, 证明, 试用, 察看, 缓刑
 [医] 审辨, 试验, 鉴定, 试用, 见习"
@@ -3760,21 +4718,32 @@ procedure,"n. 程序, 过程, 手续
 [计] 规程; 过程"
 proceeds,"pl. 收益
 [经] 收入, 收款, 所得"
-process,[网络] 过程；流程；进程
+process,"n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
 procure,"vt. 获得, 取得, 导致
 vi. 拉皮条"
-product,[网络] 产品；产品创新
-production,产物离子
+product,"n. 产品, 结果, 乘积
+[化] 生产物"
+production,"n. 制造, 生产, 产物
+[医] 产生, 生成"
 productive,"a. 能生产的, 有生产价值的, 多产的
 [医] 产出性的, 产生性的"
 productivity,"n. 生产力
 [经] 生产率, 生产能力"
 professional,"n. 专业人才
 a. 专业的, 职业的"
-profile,微机条形码
-profit,[网络] 专家型；宝发实业有限公司
+profile,"n. 侧面, 轮廓, 传略
+vt. 描绘...轮廓, 写...的传略
+[计] 提问档; 剖面图法; 剖面法"
+profit,"n. 利润, 赢利, 利益
+vi. 有益, 获利, 赚钱
+vt. 有益于"
 pro forma,"a. 形式上的, 预计的"
-programme,纲，方案，计(规)划，程序，进度表，说明书
+programme,"n. 节目, 节目单, 程序, 纲要, 大纲, 计划
+vt. 规划, 拟...计划
+vi. 安排节目, 编程序"
 progress,"n. 进步, 发展, 前进
 vi. 进步, 进行"
 prohibit,"vt. 禁止, 阻止
@@ -3826,21 +4795,25 @@ prospectus,"n. 创办计划书, (内容)说明书, 内容简介
 [经] (募债)说明书"
 prosperity,"n. 繁荣, 茂盛, 成功
 [经] 繁荣"
-protection,[网络] 保障
-protest,普罗试验
-prototype,"原型;样机,试制型"
+protection,"n. 保护, 防卫, 贸易保护制度
+[计] 保护"
+protest,"n. 抗议, 反对, 抗议书, 断言
+v. 反对, 抗议, 断言"
+prototype,"n. 原型
+[计] 样机; 原型"
 provable,"a. 可证明的, 可查明的
 [法] 可证明的, 可证实的"
 provider,"n. 供应者, 供养人, 伙食承办人
 [计] 提供器"
 provincial,"n. 外地人, 粗野的人
 a. 省的, 外地的, 偏狭的"
-provision,[网络] 专业视力眼镜中心；邻舍能供应需要
+provision,"n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款
+vt. 供给...食物及必需品"
 prowess,"n. 英勇, 勇敢, 超凡技术"
 prudent,"a. 审慎的, 三思而后行的, 精明的, 节俭的"
 pseudo-academic,[网络] 作假的学术
-public,"n. 公众, 民众
-a. 公众的, 公共的, 公立的, 公用的"
+public,"n. 民众；百姓；平民；志趣相同（或从事同一类活动）的群体
+adj. 平民的；大众的；公众的；百姓的"
 publicise,"vt. 公布, 为...做广告, 宣传"
 publicity,"n. 名声, 宣传, 公开场合
 [经] 宣传, 广告"
@@ -3849,32 +4822,35 @@ punctual,"a. 准时的, 守时的, 点状的, 中肯的
 [经] 准时的, 不误期的, 准时"
 purchase,"n. 购买, 购买品, 紧握, 绞辘
 vt. 购买, 赢得, 努力取得, 用滑轮起(锚等)"
-purpose,"n. 目的；用途；意志
-vt. 决心；企图；打算"
+purpose,"n. 目的, 意向, 决心, 用途, 效果, 论题
+vt. 意欲, 企图, 计划"
 pursue,"vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事
 vi. 追赶, 继续"
 push,"n. 推, 推动, 奋斗, 攻击, 进取心
 vt. 推, 推动, 使伸出, 推行, 逼迫, 增加
 vi. 推, 推进, 增加, 努力争取"
-QC,[网络] 品质；建筑物耗冷量指标；锥尖阻力
+QC,"abbr. 〈英(=Queen's Counsel)(女王的)王室法律顾问
+n. 御用大律师（全写为 Queen's Counsel，女王在位时使用）
+[网络] 品管员；也看"
 qualification,"n. 资格, 条件, 限制
 [计] 限定"
 qualified,"a. 有资格的
 [经] 合格的, 有条件的, 有限制的"
 qualify,"vi. 取得资格, 有资格
 vt. 使有资格, 使合格, 限定, 限制, 准予"
-quality,"n. 品质, 特性, 才能, 质量
-a. 优质的
-[计] 品质"
+quality,"n. 质量；品质；上乘；优质
+adj. 优质的；高质量的；盖帽儿了；棒极了
+[网络] 音乐品质；美丽是很抽象的；质量工程师"
 quantity,"n. 量, 数量, 总量
 [计] 数量; 量"
-quarter,"n. 四分之一, 一刻钟, 季度, 地区
-vt. 四等分, 肢解
-vi. 驻扎, 住宿"
+quarter,"n. 季度；一刻钟；宿舍；四等份之一
+v. 把…切成（或分成）四部分；给…提供食宿
+[网络] 四分之一；宽大；宽恕"
 quarterly,"a. 季度的, 按季度的, 每季的
 adv. 按季, 每三个月, 每季一次
 n. 季刊"
-questionnaire,调查表
+questionnaire,"n. 调查表, 问卷
+[经] 调查表"
 quit,"vi. 离开, 辞职, 停止
 vt. 离开, 放弃, 使解除, 停止
 n. 离开
@@ -3886,7 +4862,8 @@ quotation,"n. 引用语, 语录, 牌价, 报价
 quote,"n. 引用
 vt. 引述, 举证, 报(价)
 vi. 引用"
-R&D,"suf. 表示""第三"""
+R&D,"[计] 报表描述; DOS内部命令:该命令用于删除磁盘中的空白子目录
+[医] 卢[瑟福](放射物质的蜕变单位)"
 racket,"n. 球拍, 喧闹, 杂乱无章
 vi. 喧闹
 vt. 用球拍打"
@@ -3900,7 +4877,9 @@ rally,"n. 重振旗鼓, 集合, 群众集会, 跌停回升
 v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑"
 ramification,"n. 分枝, 分叉, 枝状物, 支脉, 支流, 衍生物
 [医] 分支, 支状分布"
-ramp,[=rifampin]利福平
+ramp,"n. 斜坡, 坡道, 敲诈
+vi. 狂跳乱撞, 乱冲, 敲诈, 蔓延
+vt. 使有斜面, 敲诈"
 random,"n. 随意, 随机
 a. 任意的, 随便的, 胡乱的, 随机的
 adv. 胡乱地"
@@ -3918,9 +4897,10 @@ rapidly,"adv. 飞快地, 迅速地, 赶紧地"
 rapport,"n. 关系, 融洽, 一致
 [医] 关系, 协调(病人与医师间), 感通(唯心的灵交术时)"
 rarely,"adv. 很少地, 罕有地"
-rate,"n. 比率, 率, 速度, 价格, 费用, 等级
-vt. 估价, 认为, 鉴定等级, 责骂
-vi. 被评价, 责骂"
+rate,"n. 比率，率；速度；价格；等级
+vt. 认为；估价；责骂
+vi. 责骂；被评价
+n. (Rate)人名；(法、塞)拉特"
 rating,"n. 等级, 额定功率, 责骂
 [经] 等级评定"
 ratio,"n. 比, 比率
@@ -3934,20 +4914,24 @@ raw,"n. 擦伤处, 半成品
 a. 生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的
 vt. 擦伤
 [计] 写后读"
-react,"vt. 重做, 重演"
+react,"vi. 起反应, 起作用, 反攻
+[医] 应答, 发生反应"
 reaction,"n. 反应, 反作用, 反动
 [医] 反应"
 realise,"vt. 实现, 认识到, 体会到, 了解, 认清, 使显得逼真, 变卖财产为现钱"
 reallocate,v. 重新分配；再指派
-real time,"[计] 实时
-[经] 实时"
+real time,"n. 实时
+[网络] 即时；实时性；真实时间"
 reassessment,[网络] 重新评估；再评估；复查鉴定
-reassure,"vt. 使…安心, 使消除疑虑"
+reassure,"vt. 使...安心, 向...再保证
+[法] 重新保证, 再保险, 使清除疑虑"
 rebate,"n. 部分退款, 折扣
 vt. 退还, 打折扣
 vi. 退还部分付款"
-rebrand,vt. 改变…的面貌
-recall,[网络] 召回；汽车召回制度；招回
+rebrand,"v. 给（产品或组织）重新命名（或包装）, 重塑…的形象"
+recall,"n. 回忆, 召回, 撤消
+vt. 回想, 回忆, 召回, 撤消, 使恢复
+[计] 检索"
 recapitalise,vt. [主英国英语] = recapitalize
 receipt,"n. 收据, 收入, 收到
 vt. 开...的收据"
@@ -3955,8 +4939,8 @@ receive,"vt. 收到, 接到, 得到, 接待, 迎接, 承受
 vi. 收到, 会客
 [计] 接收"
 receiver,"n. 接收器；接受者；收信机；收款员, 接待者"
-reception,"n. 接待, 接受, 招待会
-[医] 接受, 感受"
+reception,"n. 接待；招待会；欢迎；欢迎会
+[网络] 接待处；接收；接受"
 receptive,"a. 能接纳的
 [医] 接受的, 感受的"
 recession,"n. 后退, 凹处, 衰退, 归还
@@ -3967,12 +4951,13 @@ reciprocal,"a. 互惠的, 相互的, 相等的, 倒数的, 彼此相反的
 n. 倒数, 互相起作用的事物"
 reckon,"vt. 计算, 总计, 估计, 认为, 猜想
 vi. 数, 计算, 估计, 依赖, 料想"
-reclaim,"vt. 要求收回, 试图取回, 要求重得, 要求恢复"
+reclaim,"vt. 开垦, 改造, 感化, 纠正, 回收
+vi. 喊叫, 抗议"
 recline,"vt. 使斜靠
 vi. 靠, 斜倚, 依赖"
-recognise,[网络] 认识
-recommend,"vt. 推荐, 介绍；劝告；使受欢迎；托付
-vi. 推荐；建议"
+recognise,"vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言"
+recommend,"vt. 推荐, 介绍, 劝告, 使受欢迎, 托付
+[经] 建议, 推荐"
 recompense,"n. 报偿, 酬金, 赔偿
 vt. 报偿, 赔偿, 报酬"
 reconcile,"vt. 使和解, 调停, 使和谐, 使一致, 使听从
@@ -3981,17 +4966,93 @@ recoup,"vt. 偿还, 赔偿, 补偿, 扣除
 vi. 补偿损失"
 recourse,"n. 求援, 求助, 追索权
 [经] 追索权"
-recover,"v. 重新盖；改装(伞等的)面子
-[网络] 重新盖给…换新面子；再覆盖；再盖"
-recovery,"n. 恢复, 复原, 痊愈, 重获
+recover,"vt. 重新获得, 恢复, 复原, 拯救
+vi. 痊愈, 复原, 胜诉
 [计] 恢复"
+recovery,"n. 恢复；复苏；回升；痊愈
+[网络] 数据恢复风险"
 recruit,"n. 新兵, 新手, 新会员, 补给品
 vt. 恢复, 补充, 充实, 征募
 vi. 征募新兵, 复原, 得到补充"
-recycle, [电影]鬼域; 异域
-red,"n. 红色；红葡萄酒；左翼人士；激进分子
-adj. 红的；红色的；充血的；布满血丝的
-[网络] 红(redness)；赤焰战场；红颜色"
+recycle,"vt. 使再循环, 重新利用, 再制
+n. 再循环"
+red,"Red
+= Red River
+red1
+[red]
+adj.
+红色的；鲜红的
+红头发的；红褐色毛发的
+红肤色的
+(因生气或害羞而)脸红的；红润的
+(眼睛等)充血的；发炎的
+[常作R-]激进的；革命的；共产党的；苏维埃的
+沾满鲜血的
+烧红的；赤热的
+流血的；暴力的
+表示亏欠的，赤字的
+用紫葡萄制成的(酒)
+[美国英语]红种人的；北美印第安人的
+n.
+红色
+红颜料；红色染料
+红色的物品(如红衣服，红棋子，红台球，红色交通信号灯等)
+[常为R-，西方新闻界用语]激进分子；赤色分子(尤指共产党)
+[美国英语][常为R-][复数]北美印第安人
+【经济学】赤字；亏空
+[口语]红葡萄酒
+【英国历史】(17世纪英国舰队的)红舰队
+[俚语](巴比妥酸盐)红胶囊，“红魔鬼”[亦作red devil]
+vt.,vi.
+= redden
+短语:
+(as) red as a rose (或berry)
+脸色红润的
+(as) red as a turkey-cock (或beetroot)
+(由于发怒或害羞而)满面通红的
+be (或get) out of the red
+不再亏损；赢利
+dago red
+[美国俚语]劣等红酒
+go into (the) red
+[美国英语](资产负债表、资金平衡表、预算等)出现赤字；出现亏损
+go red
+[美国俚语]“赤化”；变成“激进派”
+in the red
+[美国英语]负债；亏空；亏损；有赤字
+into the red
+[英国英语]负债；财政情况欠佳
+paint it red
+[美国俚语]把某事弄得引人注目；把某事物描绘成骇人听闻的样子
+paint the town red
+见town
+red, white, and blue
+红白蓝三色米字旗，英国国旗
+see red
+[口语]
+发怒，狂怒；气得发疯
+嗜血(成性)，残暴
+患红视病
+变形：
+adj.
+redder
+. reddest
+vt.,vi.
+redded
+. redding
+red2
+[red]
+vt.,vi.
+1的异体
+变形：
+vt.,vi.
+red 或 redded
+. redding redd
+red.
+abbr.
+reduce
+reduced
+reduction"
 redeem,"vt. 赎回, 挽回, 恢复, 偿还, 补偿
 [经] 履行(契约), 买回, 赎回"
 reduce,"vt. 减少, 分解, 降低, 使衰退, 把...分解, 把...归纳
@@ -4012,8 +5073,10 @@ vt. 给...加上参考资料
 vt. 引用
 vi. 引用
 [计] 引用"
-refill,重新注满
-refinance,[网络] 再融资；贷款；重新贷款
+refill,"n. 再注满, 替换物
+vt. 再将...注满
+vi. 被再注满"
+refinance,"vt. 再为...筹钱, 再供...资金"
 refine,"vt. 精炼, 净化, 使优雅, 使精炼
 vi. 被精炼, 被净化"
 reflect,"vt. 反射, 反映, 招致, 深思
@@ -4023,8 +5086,10 @@ vi. 提起精神, 恢复精神, 吃点心, 喝饮料
 vt. 刷新, 重新整理
 vi. 刷新, 重新整理
 [计] 刷新, 重新整理"
-refund,[网络] 退票
-refurbish,vt. 刷新；再磨光
+refund,"n. 偿还
+vt. 付还, 偿还借款
+vi. 归还, 偿还"
+refurbish,"vt. 再磨光, 刷新"
 regain,"vt. 恢复；重新获得；收回
 vi. 上涨
 n. 收复；取回"
@@ -4033,8 +5098,8 @@ regardless,"a. 不管, 不注意, 不顾"
 regeneration,n. [生物][化学][物] 再生，重生；重建
 regime,"n. 政权, 当权期间, 政体, 社会制度, 体制, 情态
 [医] 制度, 生活制度"
-region,"n. 区域, 地带, 地区, 领域, 范围, 区
-[计] 区, 区域"
+region,"n. 区域；行政区；（一国除首都以外的）全部地区
+[网络] 面域；磁各向异性效应"
 register,"n. 寄存器, 记录, 登记簿, 注册
 vt. 记录, 注册, 提示, 表达, 把...挂号
 vi. 登记, 注册, 挂号
@@ -4046,16 +5111,21 @@ regulation,"n. 规则, 管理, 调整
 [计] 调整; 规章; 规则; 调节"
 regulator,"n. 调整者, 校准者, 校准器, 调整器, 标准钟
 [化] 调节剂; 调节器"
-reimburse,vt. 偿还；赔偿
-reinsurance,n. 再保险；再保险金额
+reimburse,"vt. 付还, 偿还, 赔偿
+[经] 偿付, 赔还, 付还; 偿还"
+reinsurance,"n. 再保险, 再保险金额
+[医] 再保险"
 reinvent,vt. 重新使用；彻底改造；重复发明（在不知他人已发明的情况下）
 reject,"n. 被拒之人, 被弃之物, 不合格品, 次品
 vt. 拒绝, 抵制, 否决, 驳回, 丢弃, 呕出"
-relationship,n. 关系；关联
+relationship,"n. 关系, 关联
+[医] 关系"
 relatively,"adv. 相对地, 比较地, 相当地, 相关地
 [计] 相对地"
-release,"vt. 释放；发射；让与；允许发表
-n. 释放；发布；让与"
+release,"n. 释放, 发泄, 豁免, 发行, 释放证书
+vt. 释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与
+n. 发布
+[计] 版本, 发布"
 relevant,"a. 有关联的, 有关系的, 适当的, 相应的
 [法] 有关的, 相关的"
 reliable,"a. 可靠的, 可信赖的
@@ -4066,9 +5136,8 @@ relief,"n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)�
 [医] 缓减, 减轻, 浮雕(绘画中)"
 relieve,"vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著
 vi. 救济, 当替补投手, 呈鲜明突出"
-relocate,"vt. 重新安置；迁移
-vi. 重新安置；迁移新址
-n. 浮动"
+relocate,"vt. 重新安置, 再配置, 放在新地方
+[计] 再定位; 浮动"
 reluctant,"a. 不情愿的, 勉强的
 [法] 不愿的, 勉强的, 难以处理的"
 remain,"vi. 保持, 逗留, 剩余
@@ -4077,7 +5146,10 @@ remainder,"n. 剩余物, 其他人, 残余, 余数
 v. 削价出售(图书)
 a. 剩余的, 出售削价剩书的
 [计] 余数"
-remark,[网络] 重新标记
+remark,"n. 评论, 注意
+vt. 评论, 注意
+vi. 评论, 谈论
+[计] 注释"
 remind,"vt. 提醒, 使想起"
 removal,"n. 移动, 移居, 迁移, 排除, 切除
 [医] 切除, 除去"
@@ -4088,20 +5160,28 @@ vi. 给予补偿
 n. 交纳, 打底"
 renovation,"n. 革新, 刷新, 修理
 [化] 改建"
-rent,n. [口语]爸；妈
-reorient,vt. 使适应；再调整
+rent,"n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂
+vt. 租用, 租出
+vi. 出租
+a. 分裂的, 破裂的
+rend的过去式和过去分词"
+reorient,"vt. 使适应, 再调整"
 repackage,vt. 重新包装；重新装配
 repay,"v. 偿还, 报答, 报复"
 repeat order,续订的订单
-replacement,n. 更换；复位；代替者；补充兵员
+replacement,"n. 归还, 更换, 代替者
+[医] 复位, 置换"
 replicate,"vt. 折叠, 折转, 复制
 n. 复现试验, 复制品, 高八度音
 a. 复现的, 复制的, 折转的, 弯回的"
-report,[网络] 所决定的；再搬运一次
-represent,"vt. 代表；表现；描绘；回忆；再赠送
-vi. 代表；提出异议"
-re-present,"vt. 代表；表现；描绘；回忆；再赠送
-vi. 代表；提出异议"
+report,"n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单
+vt. 报告, 汇报, 转述, 报道, 揭发, 使报到
+vi. 报告, 写报道, 报到
+[计] 报告"
+represent,"vt. 表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演
+vi. 提出异议"
+re-present,"vt. 表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演
+vi. 提出异议"
 representative,"n. 代表, 众议员, 典型
 a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
 repurchase,"n. 买回；再买；再采购
@@ -4115,18 +5195,20 @@ vt. 请求, 要求, 邀请
 [计] 请求"
 require,"vt. 需要, 命令, 要求
 [法] 需要, 要求, 命令"
-research,"v. 再调查
-[网络] 研究；搜索；追寻"
-resent,vt. 怨恨；愤恨；厌恶
+research,"n. 研究；调查
+vi. 研究；调查
+vt. 研究；调查"
+resent,"vt. 愤恨, 憎恶, 怨恨"
 reservation,"n. 保留, 预定, 保留品, 保留地
 [经] 预定, 预约, 权益保留"
-reserve,[网络] 再服务
-reshuffle,"vt. 重新洗牌；改组；重作安排
-n. 重新洗牌；改组"
+reserve,"n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金
+vt. 保留, 保存, 预订, 延期, 推迟"
+reshuffle,"vt. 重新洗牌, 改组, 撤换
+n. 重新洗牌, 改组, 撤换"
 resident,"n. 居民, 常驻程序, 居住者, 留鸟
 a. 居留的, 定居的"
-resign,"v. 重新签署
-[网络] 续签；再签名；再签署"
+resign,"vt. 辞职, 放弃, 使顺从
+vi. 辞职, 屈从"
 resignation,"n. 辞职, 辞呈, 听从
 [经] 辞职"
 resistance,"n. 抵抗力, 反抗, 耐力, 阻力, 电阻
@@ -4139,22 +5221,30 @@ resort hotel,"un. 度假旅馆
 [网络] 名胜酒店；度假酒店；渡假旅馆"
 resource,"n. 资源, 财力, 办法, 策略, 急智, 消遣
 [计] 资源"
-respect,[网络] 尊重
+respect,"n. 尊敬, 尊重, 问候
+vt. 尊敬, 注意, 遵守"
 respond,"vt. 以...回答
 vi. 回答, 响应, 回报, 有反应, 承担责任"
 response,"n. 反应, 回答, 响应
 [计] 应答"
 responsibility,"n. 责任, 职责, 负担, 可靠性
 [化] 职责"
-restore,[网络] 再储藏；恢复
-restrain,[网络] 再紧张
+restore,"vt. 回复, 恢复, 归还, 修补, 修复
+vt. 还原
+vi. 还原
+[计] 还原; DOS外部命令:从备份盘中取回文件"
+restrain,"vt. 抑制, 阻止, 束缚
+[法] 抑制, 遏制, 制止"
 restrict,"vt. 限制, 限定, 约束
 [医] 限制"
-restructure,vt. 调整；重建；更改结构
+restructure,"vt. 更改结构, 重建, 调整"
 result,"n. 结果, 成绩, 答案
 vi. 产生, 结果, 致使
 [计] 结果"
-resume,[网络] 恢复
+resume,"vt. 重新开始, 取回, 恢复
+vi. 再开始
+n. 摘要, 个人简历
+[计] 继续执行"
 resurgence,"n. 再起, 复活, 再现"
 retail,"n. 零售
 a. 零售的
@@ -4174,10 +5264,15 @@ vi. 再训练；再教育
 n. (Retrain)人名；(法)雷特兰"
 retrospect,"n. 回顾, 追忆, 回溯
 v. 回顾, 追忆"
-return,[网络] 返回；归回
-reunion,n. 重聚
-revamp,"vt. 修补；翻新；修改
-n. 改进；换新鞋面"
+return,"n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书
+a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的
+vi. 返回, 归还, 回来
+vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回
+[计] 返回"
+reunion,"n. 团圆, 重聚
+[医] 再连合, 复连[合]"
+revamp,"vt. 换新鞋面, 修理, 修补, 修改
+[经] 整修, 补, 修改"
 reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
 n. 窗侧, 门侧"
 revenue,"n. 收入, 岁入, 税收, 税务局
@@ -4191,17 +5286,18 @@ revert,"vi. 恢复, 复归, 回复, 还原
 vt. 使回复原状, 使回转
 n. 恢复原信仰的人
 [计] 还原"
-review,"n. 回顾；复习；评论；检讨；检阅
-vt. 回顾；检查；复审
-vi. 回顾；复习功课；写评论"
+review,"n. 检讨, 复习, 回顾, 检阅, 评论
+vt. 温习, 检讨, 评论, 再检察, 复审
+vi. 复习功课, 写评论"
 revise,"n. 校订, 修正, 改样
 vt. 校订, 修正, 校正"
 revitalise,vt. 使有新的活力；使新生（等于revitalize）
-revolutionary,"a. 革命的；旋转的；大变革的
-n. 革命者"
+revolutionary,"n. 革命者, 革命党人
+a. 革命的, 革命性的"
 reward,"n. 报酬, 酬谢, 赏金
 vt. 奖赏, 酬谢, 给...应有报应"
-rework,vt. 回修; 返修
+rework,"vt. 重做, 修订, 修改
+[经] 再加工, 再制, 返工"
 rife,"a. 流行的, 盛传的, 充满的"
 rigid,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的"
 rigour,"n. 严格, 严厉, 苛刻, 严酷, 严密, 精确"
@@ -4215,12 +5311,12 @@ rocket,"n. 火箭, 烟火
 vi. 急升, 猛涨, 飞驰
 vt. 用火箭运载"
 roughly,"adv. 概略地, 粗糙地, 粗暴地"
-round,"n. 旋转；巡视；一连串；绕圈
-adv. 环绕；附近；各处；向四面
-prep. 环绕；在…周围；始终
-v. 绕过；拐过；使成圆形；把…四舍五入
-adj. 圆的；球形的；肥胖的；弧形的
-[网络] 回合；轮；圆形的"
+round,"n. 圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱
+a. 圆的, 球形的, 丰满的, 肥胖的, 完全的, 大概的, 完美的, 圆润的
+prep. 围着, 附近, 绕过, 在...周围
+adv. 围绕着, 在周围, 迂回地, 挨个, 朝反方向
+vt. 弄圆, 使成圆形, 绕行, 完成, 围捕, 把...四舍五入
+vi. 变圆, 发胖, 环行, 拐弯, 进展"
 route,"n. 路径, 途径, 路线
 vt. 确定路线, 按规定路线发送
 [计] 传递, 路由设定程序"
@@ -4231,17 +5327,20 @@ royalty,"n. 皇室, 王族成员, 王权, 特权阶层, 庄严
 [经] 特许权, 使用费, 使用税"
 rumour,"n. 谣言, 传闻
 vt. 谣传"
-run,"vi. 经营；奔跑；运转
-vt. 管理，经营；运行；参赛
-n. 奔跑；赛跑；趋向；奔跑的路程
-n. (Run)人名；(塞)鲁恩"
-runaway,"潜逃
-[化] 失控"
+run,"n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续
+vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延
+vt. 使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行
+a. 熔化的, 融化的, 浇铸的
+run的过去式和过去分词
+[计] 运行"
+runaway,"n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜
+a. 逃亡的, 逃走的"
 running,"n. 运转；赛跑；流出
 adj. 连续的；流动的；跑着的；运转着的
 v. 跑；运转（run的ing形式）；行驶
 n. (Running)人名；(英)朗宁"
-rush hour,"n. （上, 下班的）高峰期"
+rush hour,"n. (上,下班的)高峰期
+[网络] 高峰时间；尖峰时刻；交通量增加"
 sachet,"n. 小袋, 香料袋
 [医] 香囊, 小药囊"
 sack,"n. 麻布袋, 洗劫
@@ -4250,7 +5349,8 @@ safety,"n. 安全, 保险, 平安, 保安设备
 vt. 保护, 防护"
 salary,"n. 薪水
 vt. 给...加薪"
-sale,[网络] 整车销售
+sale,"n. 出售, 卖, 拍卖, 销售额, 廉价出售
+[经] 卖, 出售; 销售(货)"
 sample,"n. 样品, 范例, 样本
 vt. 抽样, 尝试
 [计] 示例, 字样"
@@ -4272,8 +5372,8 @@ scale,"n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天�
 vt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤
 vi. 剥落, 生水垢, 重量为, 攀登, 衡量
 [计] 刻度"
-scapegoat,"n. 替罪羊，替人顶罪者；替身
-vt. 使成为…的替罪羊"
+scapegoat,"n. 替罪羔羊, 替人顶罪者, 替身
+[法] 替罪羊, 代人受过者"
 scarce,"a. 难得的, 稀罕的, 缺乏的"
 scare,"n. 惊吓, 恐慌
 vt. 惊吓, 使恐慌
@@ -4321,7 +5421,8 @@ v. 分割, 分裂
 [计] 段"
 selection,"n. 选择, 选文, 精选品
 [医] 选择, 淘汰"
-self-employed, 自营；个体经营的
+self-employed,"a. 自己经营的, 不受雇于他人的, 非为雇主工作的, 不专为某一雇主工作的
+[经] 个体经营者, 自我雇佣者"
 sellers' market,"卖方市场
 [经] 销售者(卖主)市场"
 selling point,n. （有助于推销的）货品的特点或优点
@@ -4335,7 +5436,8 @@ n. 半熟练的
 sense,"n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智
 vt. 感觉, 觉察, 检测
 [计] 阅读; 检测"
-sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
+sensitive,"a. 敏感的, 易感的, 灵敏的, 感光的
+[机] 敏感的, 灵敏的, 感度高的"
 sentiment,"n. 感情, 感伤, 情操, 情绪, 感想, 意见
 [医] 情感, 情操"
 separate,"n. 独立件, 抽印本
@@ -4350,12 +5452,13 @@ series,"n. 串联, 序列, 连续, 系列, 丛书, 套, 级数, 组
 server,"n. 服伺者, 上菜用具, 发球员
 n. 服务器
 [计] 服务器, 服务器启动程序, 服务台程序"
-service,"n. 服务, 服侍；服役；仪式
-a. 服务性的；耐用的；服现役的
-vt. 维修, 检修；保养
-n. (Service)人名；(英)瑟维斯"
-session,"n. 期间, 开庭期, 会议, 学期
-[计] 会话, 对话, 会晤, 通用任务程序"
+service,"n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门
+vt. 保养, 维修
+a. 武装部队的, 服务性的, 仆人的, 耐用的
+[计] 服务, 业务"
+session,"n. 阶段；环节；(正式)会议；(法院)开庭
+adj. 为录音的歌手或乐队伴奏的
+[网络] 会话对象"
 setback,"na. 阻碍；延迟；〈非正式〉花费
 [网络] 推迟；推迟，延缓；使退步"
 setting,"n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具
@@ -4365,13 +5468,20 @@ vt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算
 vi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家"
 settlement,"n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降
 [医] 居住区; 沉渣"
-set up,"na. 建立；创立；发起；开办
-[网络] 设立；设置；成立"
+set up,"n. 装备, 组织, 计划, 机构, 调整, 设置
+[计] 准备; 安排; 建立"
 shadow price,"[计] 预示价格
 [化] 影子价格"
-share,suf. （构成名词）分摊；（构成动词）共用
-shareholder,"[经] 股东, 股票持有人"
-sharp,[网络] 夏普；日本夏普；真切得
+share,"n. 部分, 参与, 一份, 参股, 份额
+vt. 均分, 分担, 分享, 分配, 共有
+vi. 分享
+[计] 共享; DOS外部命令:在网络或多工系统中提供文件共享
+文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持"
+shareholder,"n. 股东
+[法] 股东, 股票持有人"
+sharp,"n. 半升音调, 利刃, 骗子
+a. 锋利的, 明显的, 敏锐的, 急剧的, 尖刻的, 严厉的, 刺耳的, 精明的
+adv. 锐利地, 急速地"
 shatter,"n. 碎片, 粉碎, 落叶, 喷洒
 vt. 打碎, 使散开, 粉碎, 破坏
 vi. 粉碎, 损坏, 脱落"
@@ -4388,9 +5498,9 @@ vt. 覆盖；盖上被单；使成大片
 vi. 成片流动；大片落下
 adj. 片状的
 n. (Sheet)人名；(英)希特"
-shelf life,"保存期限
-[化] 存放期"
-shell out,"交付, 支付"
+shelf life,[计] 搁置寿命; 储藏期限
+shell out,"na. 交出；付出；付款
+[网络] 支付；交付；出需要的或应付的钱"
 shelter,"n. 庇护所, 避难所, 庇护, 隐蔽处, 掩蔽
 vt. 庇护, 保护, 隐匿
 vi. 躲避"
@@ -4409,12 +5519,13 @@ vt. 选购"
 shopping trip,[网络] 购物旅行图片；逛街购物；购物旅程
 shortage,"n. 不足, 缺乏
 [化] 缺额"
-shortcoming,n. 缺点；短处
+shortcoming,"n. 缺点, 短处"
 shorten,"vt. 弄短, 缩短, 减少
 vi. 缩小, 变短"
-shortlist,最终候选人名单
+shortlist,n. <英>供最后挑选(或考虑)用的候选人名单
 short-term,[经] 短期
-showroom,"陈列室,展览厅"
+showroom,"n. 陈列室
+[经] 样品间, 陈列室"
 shredder,"n. 切菜器, 碎纸机"
 shrink,"n. 收缩, 萎缩, 回避
 vi. 收缩, 退缩, 萎缩, 缩小, 回避
@@ -4435,14 +5546,15 @@ vi. 签名
 [计] 正负号; 符号; 符号字符"
 significantly,adv. 值得注目地；意味深长地
 simplify,"vt. 单一化, 简单化"
-simulation,"n. 模拟, 假冒物, 模仿
-[计] 模拟"
+simulation,"n. 模拟；仿真；假装；冒充
+[网络] 模拟法；模拟仿真；仿真特效"
 simultaneously,"adv. 同时发生, 一齐, 同时, 同时存在"
 single proprietorship,"[经] 独资, 所有权"
-site map,地位级图
+site map,[网络] 网站地图；站点地图；网站导览
 site visit,[网络] 现场参观；实地视察；实地访查
 situate,"vt. 使位于, 使处于"
-situation,n. 情况；形势；处境；位置
+situation,"n. 情形, 境遇, 位置
+[医] 情境, 处境"
 skill,"n. 技术, 技巧, 技能, 熟练, 熟练工人
 [化] 技能"
 skim,"vt. 撇取浮沫, 略读, 掠过
@@ -4462,9 +5574,10 @@ n. 猛砍, 乱砍, 删减
 sleek,"a. 光滑的, 油嘴滑舌的, 线条明快的, 圆滑的, 时髦的
 vt. 使光滑, 掩盖
 vi. 打扮漂亮, 滑动"
-slide,"n. 滑, 滑道, 山崩, 雪崩, 幻灯片
-vt. 使滑动, 偷偷放入
-vi. 滑动, 滑落, 不知不觉陷入, 偷偷地走"
+slide,"n. 降低；跌落；衰落；滑动
+v. （使）滑行；（使）快捷而悄声地移动；逐渐降低；贬值
+adj. 滑动的；不稳定的
+[网络] 幻灯片；滑梯；滑落"
 slightly,"adv. 些微地, 苗条地"
 slip,"n. 滑, 滑行, 事故, 溜, 差错, 滑台, 下降, 插条, 后裔, 板条, 瘦长的年轻人
 vi. 滑动, 滑倒, 失足, 溜走, 滑落, 犯错, 变坏
@@ -4472,24 +5585,30 @@ vt. 使滑动, 滑过, 摆脱, 闪开, 塞入, 从...取接枝
 a. 滑动的, 滑移的, 活络的, 有活结的
 [计] 串行线接口协议"
 slogan,"n. 呐喊声, 标语, 口号"
-slowdown,(使)慢下来
+slowdown,"n. 降低速度, 减速"
 slump,"n. 暴跌, 垂头弯腰的姿态
 vi. 猛然掉落, 陷入, 衰落(经济等)"
 smoothly,"adv. 平滑地, 流畅地, 流利地"
 smooth-talking,"adj. 花言巧语的；巧舌如簧的
 [网络] 出言要顺人心"
-snail mail,[计] 蜗牛邮件
+snail mail,"n. 普通邮件
+[网络] 传统信件"
 snap up,"na. 咬住；突然插嘴
 [网络] 抢购；争购；抢购，争夺"
 soar,"n. 高扬, 翱翔
 vi. 往上飞舞, 高耸, 翱翔"
-so-called,adj. 所谓的
+so-called,"a. 所谓的, 号称的
+[法] 所谓的, 据称的"
 sociable,"a. 好交际的, 社交的, 过社会生活的
 n. 联谊会"
-social security,"n. 社会保障, 社会保险; <美>政府的公共福利计划"
+social security,"na. 社会保障；〈美〉政府的公共福利计划
+[网络] 社会安全；土地资源管理"
 social setting,社会环境
-soft,[网络] -柔软的
-software,软件;程序设备;语言设备;方案;设计计算法
+soft,"a. 软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的
+n. 柔软的东西, 笨人, 纸币
+adv. 柔软地, 温和地"
+software,"n. 软件
+[网络] 软件工程师；软体登录保存档；软件设计"
 sole,"n. 脚掌, 鞋底, 底部
 a. 唯一的, 仅有的, 单独的, 独身的
 vt. 上鞋底, 触底"
@@ -4541,13 +5660,13 @@ spiral,"n. 螺旋形之物, 螺线
 a. 螺旋形的, 盘旋的
 vi. 螺旋形下降, 螺旋形上升, 螺旋形行进
 vt. 使螺旋形行进"
-splash out,"溅出;随意花钱,大肆挥霍"
+splash out,[网络] 挥霍；大肆挥霍；随意花钱
 split,"n. 劈开, 裂片, 裂缝, 分裂, 派系, 派别, 柳条
 a. 劈开的
 vi. 分离, 分开, 裂开, 被劈开
 vt. 劈开, 切开, 使分裂, 使分离
 [计] 拆分"
-spokesman,n. 发言人；代言人
+spokesman,"n. 发言人, 代言者"
 sponsor,"n. 保证人, 赞助者, 发起者, 倡议者, 教父
 vt. 发起, 赞助, 倡议"
 spread,"n. 传播, 散布, 伸展
@@ -4556,9 +5675,9 @@ vt. 展开, 铺开, 传播, 推广, 伸出, 涂, 敷, 延伸
 vi. 展开, 扩大, 传开, 延伸
 [计] 展开"
 squarely,"adv. 干脆地, 正好, 直角地"
-squeeze,"n. 紧握, 挤, 榨, 榨取, 佣金
-vt. 紧握, 挤, 榨取
-vi. 压榨, 榨"
+squeeze,"v. 挤压；挤出；捏；（使）挤入
+n. 挤压；塞；捏；榨出的液体
+[网络] 压榨；榨取；紧缩"
 stable,"n. 马房, 牛棚
 a. 稳定的, 安定的, 坚固的, 坚定的
 vt. 赶入马房
@@ -4567,7 +5686,8 @@ staff,"n. 全体人员, 工作班子, 棍棒, 杆, 拐杖, 支柱, 权杖
 a. 职员的, 雇员的, 参谋的
 vt. 为...配备人员"
 stag,[=slow(binding)target-attaching globulin]慢结合靶细胞-粘附球蛋白
-stagnant,[地名] 圣阿尼昂 ( 法 )
+stagnant,"a. 不流动的, 停滞的, 不景气的, 萧条的, 污浊的, 迟钝的
+[经] 萧条的"
 stainless,"a. 无瑕疵的, 不锈的
 [机] 不绣的, 污染的"
 stake,"n. 桩, 炮烙刑, 木柱, 赌注, 奖金
@@ -4578,14 +5698,18 @@ stakeholder,"n. 赌金保管者
 stall,"n. 厩, 停车处, 牧师职位, 货摊, 托辞, 拖延
 vt. 关入厩, 停顿, 推托, 支吾, 使陷于泥中
 vi. 被关在厩内, 陷于泥中, 停止, 支吾"
-stand,[网络] 热连轧机因受轧机
+stand,"n. 站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席
+vi. 站, 立, 坐落, 停滞, 位于, 坚持, 维持原状
+vt. 忍受, 使站立, 抵挡"
 standard,"n. 标准, 规格, 旗, 军旗, 本位
 a. 标准的, 合规格的
 [计] 标准"
-standstill,"站着不动, 停滞不前"
+standstill,"na. 站住；搁置不动
+[网络] 停顿；停止；停滞"
 startling,a. 令人吃惊的
 start-up,"突然站起, 突然出现, 发动, 开动"
-statement,[网络] 说明
+statement,"n. 陈述, 指令, 声明
+[计] 程序语句; 语句"
 state-of-the-art,"adj. 应用最先进技术（或方法）的；最先进的
 n. 目前最高水平
 [网络] 尖端科技；技术发展水平；技术成熟"
@@ -4593,8 +5717,8 @@ stationery,"n. 文具, 信纸
 [法] 文具"
 statistics,"n. 统计学, 统计资料
 [计] 统计信息"
-status,"n. 状态, 情形, 地位, 要人身份
-[计] 状态"
+status,"n. 地位；身份；情形；法律地位（或身份）
+[网络] 老实待在那"
 statute,"n. 法令, 成文法律, 法规, 章程, 条例
 [法] 法令, 法规, 成文法"
 statutory,"a. 法令的, 法定的, 可依法惩处的
@@ -4603,7 +5727,8 @@ steadily,"adv. 稳定地, 无变化地, 有规则地"
 steer,"vt. 引导, 驾驶, 航行, 控制
 vi. 驾驶, 掌舵, 行驶
 n. 驾驶指示, 劝告"
-stereotype,[网络] 刻板印象；定型；强硬派看待中国的流行做法
+stereotype,"n. 铅版, 陈规, 老套
+vt. 使用铅版, 把...印制成盲文, 套用老套, 使一成不变"
 sterling,"n. 英国货币, 标准纯银
 a. 英国货币的, 标准纯银的, 含标准成分的"
 stick,"n. 棍, 棒, 刺, 枯枝, 茎, 条状物
@@ -4614,14 +5739,13 @@ stimulus,"n. 刺激, 激励, 刺激品
 stipend,"n. 薪金, 定期生活津贴
 [经] 薪水"
 stipulate,"v. 规定, 保证"
-stir,"n. 搅拌；轰动
-vt. 搅拌；激起；惹起
-vi. 搅动；传播；走动"
-stock,"n. 股份，股票；库存；血统；树干
-adj. 存货的，常备的；平凡的
-vt. 进货；备有；装把手于…
-vi. 囤积；办货；出新芽
-n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克"
+stir,"n. 骚动, 轰动, 搅动, 监狱
+vt. 移动, 摇动, 激起, 惹起, 搅拌
+vi. 走动, 传播, 搅拌"
+stock,"n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目
+a. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的
+vt. 装把手于, 进货, 备有, 放牧
+vi. 出新芽, 备货, 囤积"
 stock-in-trade,"[经] 存货, 生财, 全部营业用具"
 storage,"n. 存储器, 储藏, 保管, 库存, 仓库
 [计] 存放处; 存储"
@@ -4630,10 +5754,11 @@ vt. 储存, 贮藏, 供给
 vi. 贮藏
 a. 贮藏的, 现成的
 [计] 存储器操作; 存储"
-straight,"n. 直线, 直
-a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
-adv. 直接地, 立即, 不断地"
-straightforward, 一直；直白
+straight,"adj. 直的；连续的；笔直的；正直的；整齐的
+adv. 直接地；不断地；立即；坦率地
+n. 直；直线
+n. (Straight)人名；(英)斯特雷特"
+straightforward,"a. 笔直的, 率直的, 明确的, 简单的, 直接的"
 strain,"n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻
 vt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤
 vi. 尽力, 努力, 紧拉, 弯曲, 被滤出"
@@ -4641,7 +5766,8 @@ strategic,"a. 战略的, 战略上的
 [经] 战略的"
 strategy,"n. 战略, 策略
 [经] 战略, 策略"
-streamline,[计] 流线
+streamline,"n. 流线, 流线型
+vt. 使成流线型, 使合理化"
 strength,"n. 力量, 实力, 强度, 浓度, 人数, 抵抗力
 [化] 强度"
 strengthen,"vt. 加强, 变坚固
@@ -4661,19 +5787,29 @@ stub,"n. 断肢, 烟蒂, 树桩, 残余, 存根
 vt. 连根拔除, 踩熄
 [计] 存根"
 study leave,"(职工的)学习假,进修假"
-style," 表示：“…式样的”：familystyle; “按…式样”, “有点儿…地”; 表示“…柱式”,“…柱的”：distyle"
-sub-brand,[网络] 副品牌；次品牌；子品牌
-subcontract, [财]分包合同
-subject,[网络] 主体；对象；主题
+style,"n. 风格, 时尚, 文体, 风度, 字体, 类型
+vt. 称呼, (根据新款式)设计, 使合潮流
+n. 风格, 样式
+[计] 风格, 样式"
+sub-brand,[网络] 品牌；副品牌；向下延伸时用一个次品牌
+subcontract,"n. 转包合同, 分包合同
+v. 转包"
+subject,"n. 科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由
+a. 服从的, 易患...的, 隶属的, 受支配的
+adv. 在...条件下
+vt. 使隶属, 使受到
+[计] 主题, 主体"
 submit,"vt. 使服从, 使受到, 委托, 提交, 认为
 vi. 屈服, 服从"
 subordinate,"n. 下属，下级；部属，属下
 adj. 从属的；次要的
 vt. 使……居下位；使……服从"
-subprime,adj. 次要的
-subscribe,"vi. 订阅；捐款；认购；赞成；签署
-vt. 签署；赞成；捐助"
-subsequent,adj. 后来的，随后的
+subprime,"a. 准一流的, 近乎头等的; 准最低贷款利率的"
+subscribe,"vt. 捐献, 签署
+vi. 赞成, 同意, 捐款, 预订, 认购
+[计] 订阅"
+subsequent,"a. 后来的, 接下去的
+[经] 后来的"
 subsidiary,"n. 子公司, 附件, 辅助者
 a. 辅助的, 次要的, 津贴的"
 subsidise,"vt. 给...补助金, 津贴, 资助"
@@ -4700,8 +5836,8 @@ a. 政府首脑的, 最高级的"
 superior,"n. 长者, 占优势的人, 上级
 a. 上级的, 出众的, 高傲的"
 supervise,"v. 监督, 管理, 指导"
-supplement,"vt. 增补，补充
-n. 增补，补充；补充物；增刊，副刊"
+supplement,"n. 补充物, 增刊, 补充, 补遗, 补编, 附录, 补角
+vt. 补充, 增补"
 supply,"n. 补给, 供给, 供应品
 vt. 补给, 供给, 提供, 补充
 vi. 替代"
@@ -4733,7 +5869,8 @@ v. 交换, 替换, 交易
 [计] 交换"
 swathe,"vt. 绑, 裹, 包围
 n. 带子, 绷带"
-sweeping,[化] 吹扫
+sweeping,"n. 扫除, 垃圾
+a. 扫荡的, 彻底的, 广泛的"
 switch,"n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔
 vt. 转变, 切换, 摆动, 转换, 使转轨
 vi. 转换, 变换, 摆动
@@ -4751,15 +5888,14 @@ systematise,"vt. 使系统化, 使成体系, 使有秩序, 使组织化, 把...�
 tackle,"n. 工具, 复滑车, 滑车, 装备, 扭倒
 vt. 固定, 处理, 抓住
 vi. 扭倒"
-tactic,"n. 策略, 战略
-a. 按顺序的, 依次排列的"
+tactic,"n. 一项战术, 一条策略
+a. 战术的, 顺序的, 排列的"
 tailor,"n. 裁缝, 成衣匠
 vt. 缝制, 制作, 使适应
 vi. 做裁缝"
-takeaway,"adj. 买回去的
-[网络] 拿走；带走；外带"
-take-off,"v. (飞机)起飞；出去；拿掉；移送
-[网络] 脱下；脱掉；脱去"
+takeaway,"a. <主英>（饭食）外带的, （餐厅）供应外带食物的（相当于美语take-out）"
+take-off,"拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开
+[经] 取消"
 takeover,"na. 接管；继承
 [网络] 接收；接任；接替"
 talent,"n. 天才, 才能, 有才干的人, 天资"
@@ -4771,18 +5907,21 @@ vi. 轻叩, 轻拍, 啪塔啪塔地走
 [计] 接头"
 target,"n. 目标, 靶子, 指标
 vt. 对准, 订指标"
-tariff,"n. 关税, 关税表, 价格表, 收费表
-vt. 课以关税
-[计] 价目表"
-task force,特遣部队
-tax,"n. 税, 税款, 重负, 会费
-vt. 课以税, 使负重荷, 斥责"
+tariff,"n. 关税；收费表；量刑标准
+v. 征收关税；定税率；定收费标准
+[网络] 价目表；关税税则；运费表"
+task force,"na. 【军】特混(特遣)部队或舰队；专门工作组
+[网络] 工作小组；特遣部队；任务导向"
+tax,"n. 税；税款
+v. 课税；对…征税；使纳税；缴纳车辆牌照税
+[网络] 税收(taxation)；税金；税务"
 team,"n. 队, 组
 vt. 把马(牛)套在同一辆车上, 把...编成一组
 vi. 驾驶卡车, 协作"
 technician,"n. 技师
 [化] 技师"
-technology transfer,[经] 技术转让
+technology transfer,"na. 技术转让
+[网络] 技术转移；技术移转；科技转移"
 telesale,n. 电话售货；电话销售
 temporary,"a. 暂时的, 临时的
 n. 临时工, 临时雇员
@@ -4815,9 +5954,12 @@ territory,"n. 领土, 领地, 版图, 地区, 活动范围
 [经] (推销员等的)推销区域"
 theoretical,"a. 理论的, 理论上的, 假设的, 推理的
 [计] 理论的"
-thorough,"a. 十分的, 彻底的"
-threat,"n. 恐吓, 恶兆, 威胁
-[经] 威胁"
+thorough,"adj. 彻底的；完全的；深入的；细致的
+n. 【英史】(如英王查理一世实行的)专横政策
+prep. 〈古〉同“through”
+[网络] 详尽的；周全；周密"
+threat,"n. 威胁，恐吓；凶兆；隐患
+v. 〈古,方〉同“threaten”"
 threaten,"vt. 恐吓, 威胁, 预示...的凶兆
 vi. 威胁, 恫吓, 可能来临"
 thrive,"vi. 繁荣, 兴旺, 茁壮成长
@@ -4911,8 +6053,9 @@ vi. 进行交易, 做买卖, 经商, 对换, 购物
 vt. 用...进行交换"
 trainee,"n. 实习生, 新兵, 受培训者
 [经] 学徒工, 培训人员"
-training,"n. 训练, 培养
-[医] 训练"
+training,"n. 训练；培训；锻炼
+v. “train”的现在分词
+[网络] 公司培训；经典培训计划模板；训练中"
 trait,"n. 特征, 特性, 一笔, 少许"
 tramp,"n. 坚实(或沉重)的脚步声, 流浪者
 vi. 践踏, 重步行走, 步行, 流浪
@@ -4924,11 +6067,14 @@ transfer,"n. 迁移, 移动, 传递, 转让, 转移, 过户, 汇兑, 换车
 vt. 使转移, 调转, 调任, 改变, 传递, 转让
 vi. 转移, 转学, 转职, 换车
 [计] 传送"
-transform,[化] 反式; 反式异构体
+transform,"vt. 使转换, 改变, 改造, 使...变形
+vi. 改变, 转化, 变换
+[计] 变换"
 transit,"n. 经过, 通行, 运输, 运输线, 转变
 vt. 运送, 使通过, 经过
 vi. 通过"
-transnational, 跨国的
+transnational,"a. 超越国界的, 跨国的
+[法] 超越国界的, 超国家的, 跨国的"
 transparent,"a. 透明的, 显然的, 清晰的
 [计] 透明"
 transpire,"vt. 使蒸发, 使排出
@@ -4954,8 +6100,10 @@ vi. 松开扳柄
 triumph,"n. 凯旋, 胜利, 欢欣
 vi. 得胜, 成功"
 trivial,"a. 琐碎的, 不重要的, 轻微的, 平常的"
-trolley,"悬吊车；手推车；吊运车, 悬吊钩，手推车，吊运车"
-trouble-shooting,[化] 查找故障; 排除故障
+trolley,"n. 电车, 手推车, 台车
+vt. 用手推车运
+vi. 乘电车"
+trouble-shooting,"n. 发现并修理故障, 解决纷争"
 trust,"n. 信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯
 a. 信托的, 托拉斯的
 vt. 信赖, 信任, 相信, 盼望, 赊卖给
@@ -4970,11 +6118,11 @@ vt. 使摔倒, 使滚翻, 弄乱"
 turmoil,"n. 骚动, 混乱"
 turnaround,"na. 转身；〈美〉使向好的方向转变
 [网络] 回转；转过身；转过来"
-turnover,"na. ￡ 500 a week 每星期卖得五百镑
-[网络] 移交；翻转；翻过来"
+turnover,"打翻, 营业额达到, 周转, 移交给, 翻阅, 反复考虑, 翻身
+[法] 移交, 交付, 让渡"
 tweak,"n. 拧, 扭, 焦急
 vt. 扭, 开足马力"
-twenty-four seven,[网络] 每时每刻；霍斯金斯；日日夜夜
+twenty-four seven," 一天二十四小时, 一星期七天（用以表示“全天候”）"
 typical,"a. 典型的, 象征性的
 [医] 典型的"
 ultimate,"n. 终极, 根本, 顶点, 基本原则
@@ -4983,17 +6131,22 @@ unanimous,"a. 意见一致的, 无异议的"
 uncensored,"a. 未经审查的, 无保留的"
 undercapitalised,"投资不足
 资本金不足"
-undercut,"根切,咬边;下挖;切底式尖轨"
-underestimate,"vt. 低估；看轻
-n. 低估"
+undercut,"n. 底切, 牛腰部下侧嫩肉, 下口, 下旋削球
+vt. 廉价出售, 底切, 雕出, 下旋削球
+vi. 切除底部"
+underestimate,"n. 低估
+vt. 低估, 看轻"
 undergo,"vt. 遭受, 经历, 忍受
 [法] 经受, 经历, 忍受"
 underinsured,(under-insure 的过去分词) n. 保险价值过低
-underline, 腹线
+underline,"vt. 在...下面划线, 作...的衬里, 强调
+n. 下划线, 图下说明文字
+[计] 加下划线; 下划线"
 underlying,"adj. 潜在的；根本的；在下面的；优先的
 v. 放在…的下面；为…的基础；优先于（underlie的ing形式）"
-undermine,"vt. 破坏, 渐渐破坏；挖掘地基"
-understaffed,[网络] 人手不足的
+undermine,"vt. 在...下面挖, 渐渐破坏, 暗地里破坏
+[法] 暗中破坏, 以阴谋中伤伤害"
+understaffed,"a. 人员不足的, 人手不足的"
 undertake,"vt. 试图, 从事, 保证, 承担, 同意, 接受
 [化] 承包; 承担"
 underwrite,"vt. 给...保险；承诺支付；签在...下
@@ -5026,25 +6179,34 @@ unspectacular,a. 不引人注意的
 unstable,a. 不稳定的
 untapped,"a. 塞子未开的, 未利用的"
 unyielding,"a. 不易弯曲的, 不屈的"
-up-and-coming,"积极进取的,奋发有为的"
+up-and-coming,"a. 进取的, 可能成功的, 有希望的"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-upfront,"在最前面, 预先"
-upgrade,"上坡,往上走"
-upkeep,[网络] 保持场地良好；保养；上坡球
+upfront,"a. 正直的, 坦率的; 最前面的, 首要的; 在前面的; 预先的
+adv. 在最前面; 提前支付（工资）"
+upgrade,"n. 上坡, 升级, 上升
+adv. 往上
+vt. 使升级, 提升, 改良品种
+vi. 升级
+[计] 升级"
+upkeep,"n. 维持, 维修费
+[经] 维修费, 养护费, 保养"
 upmarket,adj.& adv. 高档的（地），高档消费的（地）
-upside,[网络] 迎风面；上升段
+upside,"n. 上侧, 上段, 上部
+[机] 上侧, 上部"
 uptight,"adj. 非常神经质的；非常焦急的；极端保守的；过于严格的
 [网络] 紧张；紧绷"
-up-to-date,"最近的, 最新的
-[经] 直到最近的, 现代的"
-upturn,[网络] 向上转移
+up-to-date,"a. 直到现在的, 最近的, 现代化的
+[化] 最新的"
+upturn,"n. 情况好转, 向上趋势
+v. (使)向上, 转朝上, 翻转"
 upwards,"adv. 以上, 向上"
 urgent,"a. 紧急的, 急迫的, 催逼的
 [经] 紧急的, 急迫的"
-user-friendly,[电] 使用者亲和性
-user group,[计] 用户集团
-USP,[医] 美国药典
+user-friendly,"adj. 方便使用的
+[网络] 用户友好；用户友好性；上相当便利"
+user group,"[计] 用户组, [计] 用户集团"
+USP,[网络] 美国药典；美国药典委员会
 utilise,"vt. 利用, 运用, 使用"
 utility,"n. 功用, 有用之物, 实用, 公用事业, 实用程序
 a. 实用的, 有多种用途的
@@ -5157,7 +6319,8 @@ vt. 浪费, 消耗, 使荒芜
 vi. 浪费, 消耗, 变消瘦"
 wealth,"n. 财富, 资源, 财产, 丰富, 富裕, 大量
 [经] 财富"
-website,网页；网址
+website,"na. 【计】网站
+[网络] 网页；公司网址；参考网站"
 weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
 vt. 加重量于, 压迫, 使加权, 称重量
 [计] 粗细"
@@ -5169,20 +6332,26 @@ n. 重击, 重打"
 whim,"n. 一时的兴致, 冲动, 怪念头, 绞盘"
 white-collar,"adj. 白领
 [网络] 妙警贼探；猫鼠游戏；不是冤家不聚头"
-white goods,"n. 白色货物, 大型家用电器"
-wholesale,"批发,趸售"
+white goods,"na. 家用的漂白织物；家庭大型用具
+[网络] 家电用品；家庭用具"
+wholesale,"n. 批发
+a. 批发的, 大规模的
+adv. 大规模, 照批发方式
+vi. 经营批发业, 批发
+vt. 批发"
 wholly-owned, 全资拥有的
 wi-fi,abbr. 基于IEEE 802.11b标准的无线局域网（Wireless Fidelity）；无线网络模块
 willing,"a. 乐意的, 自愿的, 甘愿的"
-win,"vt. 赢得, 打胜, 成功
-vi. 获胜, 达到, 影响
-n. 胜利, 赢, 收益"
-windfall,风落物;风折枝
-wind up,"na. 解散(公司等)；终止；卷紧；绕紧
-[网络] 结束；使紧张；上发条"
+win,"v. 赢；获得；（尤指通过自己的努力）取得
+n. （在比赛、竞赛等中的）胜利
+[网络] 获胜v；上链类玩具；打打下就"
+windfall,"n. 被风吹落的果子, 横财
+[经] 意外损失"
+wind up,"卷起, 卷拢, 上紧...发条, 使紧张, 使振奋, 结束
+[经] 停止营业"
 winning combination,最佳组合
-withdraw,"vt. 撤退；收回；撤消；拉开
-vi. 撤退；离开"
+withdraw,"vt. 撤回, 取回, 撤消, 使撤退, 拉开, 移开
+vi. 撤退, 离开"
 withhold,"vt. 使停止, 扣留, 保留, 拒给
 vi. 克制, 忍住"
 wonder,"n. 惊奇；奇迹；惊愕
@@ -5190,13 +6359,14 @@ vi. 怀疑；想知道；惊讶
 vt. 怀疑；惊奇；对…感到惊讶
 adj. 奇妙的；非凡的
 n. (Wonder)人名；(英)旺德"
-word of mouth,n. 口头传述的，口碑
+word of mouth,"a. 口头的, 口述的
+[法] 口头的, 口述的"
 words of wisdom,聪明的话语；忠告[常用作反语]
 workaholic,"n. 专心工作的人；醉心于工作的人；为免遭辞退而工作过份卖力的人
 adj. 醉心于工作的"
-workfare,[经] 工作福利
-workforce,"劳动力
-[经] 劳动力"
+workfare,"n. 工作福利
+[法] 工作福利"
+workforce,"n. 劳动力；工人总数, 职工总数"
 working,"adj. 有工作的；有职业的；做工的；从事体力劳动的
 n. （机器、系统、组织等的）运作；作业区
 v. “work”的现在分词
@@ -5204,8 +6374,10 @@ v. “work”的现在分词
 work-life balance,[网络] 工作与生活平衡；工作生活平衡；工作和生活平衡
 workload,"[计] 工作负载, 工作装配
 [经] 工作量"
-worksheet,"[经] 计算表, 工作单, 试算表"
-workshop,"[计] 专题讨论会, 学术会议"
+worksheet,"[计] 工作表
+[化] 工作单; 加工单"
+workshop,"n. 工场, 车间, 研讨会
+[计] 讨论会; 专题研究组"
 worry,"n. 担心, 烦恼, 忧虑, 苦恼, 撕咬
 vt. 使烦恼, 使焦虑, 使苦恼, 困扰, 折磨, 撕咬
 vi. 烦恼, 担心, 撕咬"
@@ -5213,10 +6385,9 @@ wrap,"n. 外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行
 vt. 包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护
 vi. 缠绕, 穿外衣, 包起来
 [计] 换行"
-write down,"na. 记下来；贬低；减低账面价值；把…拨作公积金
-[网络] 写下；写下来；减记"
-write up,"na. 写在高处；书面表扬；一直写到最近事情；详细写
-[网络] 详细描写；把…写成文；写文章赞扬"
+write down,"写下, 写文章贬低, 降低地位, 减低帐面价值
+[法] 记录, 记下, 以文字诋毁"
+write up,n. [美国英语]；[口语](报纸、杂志等的)报道；尤指：捧场文章；【财经学】(资产等)账面价值的夸大；增记账面价值
 yearly,"a. 每年的, 一年一度的
 adv. 一年一次, 每年"
 yield,"n. 生产量, 投资收益

@@ -3,7 +3,8 @@ suited,comb.form 表示“穿…衣服(或套服)的”：red-suited
 career,"n. 事业, 生涯, 成功
 [法] 职业, 专业, 履历"
 actually,"adv. 事实上, 竟然, 如今, 现在"
-so-called,adj. 所谓的
+so-called,"a. 所谓的, 号称的
+[法] 所谓的, 据称的"
 glamorous,"a. 富有魅力的, 迷人的"
 cushion,"n. 垫子, 橡皮软垫
 vt. 加垫褥, 缓冲, 掩盖"
@@ -24,8 +25,10 @@ option,"n. 选择权, 挑选, 选项
 [计] 选项"
 lawyer,"n. 律师；法学家
 n. (Lawyer)人名；(英)劳耶"
-well-paid, 报酬（或薪金）丰厚的
-canyon,"n. 峡谷, 海底悬崖"
+well-paid,"adj. 工资高的
+[网络] 一份薪金丰厚；一份报酬优厚；报酬优厚的"
+canyon,"n. 【地】峡谷
+[网络] 山谷；峡谷区；美峡谷"
 zone,"n. 地带, 带, 地区
 vt. 环绕, 使分成地带
 vi. 分成区
@@ -36,20 +39,25 @@ litre,"n. 升, 公升
 [计] 升"
 shopkeeper,"[经] 零售商人, 店主, 业主"
 barber,n. 理发师
-barbershop,理发店
+barbershop,n. 理发店
 cleaner,"n. 清洁工人, 清洁剂, 干洗商
 [化] 滤清器; 除垢器; 洗净剂; 清洁剂"
-rat,[网络] 抽油杆和油管；冲压空气涡轮；大老鼠
+rat,"n. 老鼠；耗子；讨厌的人；卑鄙的小人
+v. 责骂；脱党；不参加罢工；做特务
+abbr. (=rocket-launched antisubmarine torpedo)火箭发射式反潜鱼雷
+[网络] 仿藤编织工艺品"
 go about,"从事, 走动, 传开"
 salesgirl,n. 女店员
 cucumber,"n. 黄瓜
 [医] 黄瓜, 胡瓜"
-sly,[网络] 硫酸盐硫
-fox,"n. 狐狸, 狡猾的人
-vi. 奸狡地行动, (书页)生斑, 变酸
-vt. 欺骗, 使变酸, 为(鞋等)换面, 使生黄斑"
-cast-iron,"铸铁
-[化] 铸铁"
+sly,"adj. 诡诈的；狡诈的；诡秘的（表示自己知道别人不知道的秘密）
+[网络] 狡猾的；偷偷摸摸的；淘气的"
+fox,"vt. 欺骗；使变酸
+n. 狐狸；狡猾的人
+vi. 假装；耍狡猾手段
+n. (Fox)人名；(英、法、德、意、西、瑞典)福克斯"
+cast-iron,"a. 铸铁的, 铸铁制成的, 坚固的, 不妥协的
+[电] 铸铁"
 nerve,"n. 精神, 勇气, 叶脉, 神经
 vt. 鼓起勇气"
 martial,"a. 战争的, 军事的, 尚武的, 威武的
@@ -63,17 +71,19 @@ vt. 用矛刺
 vi. 刺, 戳
 a. 父系的"
 magician,"n. 魔术家, 幻术家, 术士"
-bath,[网络] 阿拉伯复兴社会党；巴斯党
+bath,abbr. best available true heading 可行的最佳准确航向
 bedding,"n. 被褥, 寝具, 床上用品, 基床
 [机] 褥草, 被褥"
 bandage,"n. 绷带
 [化] 帘布筒; 实心轮胎; 紧带; 绷带"
-ward, 向…的
+ward,"n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌
+vt. 使入病房, 守护, 保卫"
 creative,"a. 有创造力的, 创作的, 产生的"
-self-confident, [体]自信的
+self-confident,"adj. 自信(力强)的；自恃的
+[网络] 自信心"
 artistic,"a. 艺术的, 艺术家的, 富有艺术性的"
 realistic,"a. 现实的, 逼真的, 现实主义的, 实在论的"
-greengrocer,蔬菜水果商
+greengrocer,"n. 蔬菜水果商, 菜贩"
 tailor,"n. 裁缝, 成衣匠
 vt. 缝制, 制作, 使适应
 vi. 做裁缝"
@@ -87,7 +97,8 @@ stewardess,"n. 空中小姐, 女管理人, 女管家"
 enterprising,"a. 有魄力的, 有进取心的, 有事业心的"
 take pleasure in,乐于
 typist,n. 打字员
-Ltd,有限的
+Ltd,"abbr. (=Limited)常用于股份有限公司的名称后
+[网络] 有限责任公司；广州；中国人力资源管理协会"
 engineering,"n. 工程学, 工程, 操纵
 [化] 机器; 机器学"
 covering,"n. 覆盖物, 掩蔽物
@@ -97,8 +108,9 @@ gap,"n. 缝隙, 缺口, 间断, 间距, 通用汇编程序
 vt. 打开缺口, 造成缝隙
 vi. 豁开
 [计] 通用汇编程序, 图形应用程序, 间距"
-session,"n. 期间, 开庭期, 会议, 学期
-[计] 会话, 对话, 会晤, 通用任务程序"
+session,"n. 阶段；环节；(正式)会议；(法院)开庭
+adj. 为录音的歌手或乐队伴奏的
+[网络] 会话对象"
 employer,"n. 雇主, 老板
 [经] 雇主, 业主"
 employee,"n. 职员, 员工, 受雇人员
@@ -120,12 +132,12 @@ shaver,"n. 修面的人, 电动剃刀, 刨刀, 杀价买进期票的人, 善于�
 shave,"n. 修面, 刮胡子, 幸免, 剃刀
 vt. 修面, 剃, 修剪, 掠过
 vi. 刮脸, 勉强通过"
-haircut,[网络] 剪发；理发；发型
+haircut,"n. 理发, (男子的)发式"
 conservative,"a. 保守的, 守旧的, 有保存力的
 [化] 防腐剂; 保存剂"
 allowance,"n. 津贴, 零用钱, 限额, 折扣, 允许
 vt. 定量供应"
-roundabout,"周围, 向相反方向, 迂回地, 大约"
+roundabout,adv. 周围；向相反方向；大约；迂回地
 parking,"n. 停车
 a. 停车的"
 look somebody in the eye,"na. 无畏惧[无愧]地正视某人
@@ -147,12 +159,13 @@ smartly,"adv. 潇洒地, 火辣辣地, 刺痛地"
 garage,"n. 车库, 汽车修理厂, 机库
 vt. 把车送入修车场"
 relaxed,"a. 松懈的, 不严密的, 不严格的, 放松的, 得到休息的, 随意的, 不拘束的, 自在的"
-team player,n. 合作意识强的人；有团队精神的人
+team player,"na. 通力合作者
+[网络] 团队合作能力；有团队精神的人；团体行动"
 response,"n. 反应, 回答, 响应
 [计] 应答"
 diploma,"n. 文凭, 毕业证书
 [医] 文凭"
-videophone,可视电话
+videophone,n. 电视电话
 division,"n. 分, 分开, 除法, 部门(如部、处、系等), 师
 [计] 部分"
 fluency,"n. 流畅, 雄辩, 善辩"
@@ -163,8 +176,9 @@ ladder,"n. 梯, 梯状物, 发迹的途径
 vi. 袜子抽丝, 成名"
 Antarctic,"a. 南极的, 南极地带的
 n. 南极地区"
-fund,"n. 基金, 资金, 存款, 财源, 贮藏
-vt. 提供资金, 积累"
+fund,"n. 基金；资金；专款；储备
+v. 为…提供资金；拨款给
+[网络] 存款；资助；现款"
 Brazil,n. 巴西
 Amazon,"n. 亚马孙河
 [医] 无乳腺者"
@@ -175,7 +189,8 @@ switch,"n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔
 vt. 转变, 切换, 摆动, 转换, 使转轨
 vi. 转换, 变换, 摆动
 [计] 交换机；开关; 翻转; 转移"
-nail,[网络] 钉
+nail,"n. 钉子, 指甲
+vt. 用钉钉牢, 使固定, 截住, 揭露"
 mayor,[地名] 马约河 ( 阿根、秘 )
 improvement,"n. 进步, 改善, 利用
 [医] 改善, 好转, 进步"
@@ -185,16 +200,17 @@ geometry,"n. 几何学
 diagram,n. 图表；图解
 circuit,"n. 电路, 环(行)道, 巡回
 [计] 线路; 电路"
-resign,"v. 重新签署
-[网络] 续签；再签名；再签署"
+resign,"vt. 辞职, 放弃, 使顺从
+vi. 辞职, 屈从"
 pocket-sized,a. 可放在衣袋中携带的；小型的；袖珍的
-pull out,"拔出, 离开, (使)渡过难关, (使)恢复健康"
+pull out,"n. 拔，拉；(尤指)撤离，离去，撤退；书刊中折着的供参阅用的大张插页，折页；书刊中可取出的附录(或附样)
+adj. 可拉出的"
 the last minute,[网络] 最后一分钟；紧急关头
 the last moment, [电影]悲恋三人行
-put out,"v. 扑灭；熄灭；放出；伸出
-[网络] 关；关熄；消灭，关"
-take off,"v. (飞机)起飞；出去；拿掉；移送
-[网络] 脱下；脱掉；脱去"
+put out,"放出, 伸出, 生产, 出版, 发布, 熄灭, 消除, 使困扰, 使脱臼, 把...杀出局, 出航
+[化] 关; 停止"
+take off,"拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开
+[经] 取消"
 calculator,"n. 计算者, 计算器
 [计] 计算器"
 amateur,"n. 业余爱好者, 外行, 爱好者
@@ -214,8 +230,14 @@ tire,"n. 轮胎, 头饰
 vt. 使疲倦, 使厌烦, 打扮
 vi. 疲劳, 厌倦"
 throw oneself into,积极从事
-fold, 乘以；…倍；由…部分组成
-cycle,[网络] -周期
+fold,"n. 折层, 折, 羊栏, 折痕, 信徒
+vt. 折叠, 包, 合拢, 交迭
+vi. 折叠起来, 彻底失败
+[计] 折叠; 合并"
+cycle,"n. 周期, 循环, 自行车, 一段时间, 整套
+vi. 循环, 轮转, 骑自行车
+vt. 使循环, 使轮转
+[计] 环路; 周期; 循环"
 will,"n. 意志, 决心, 意愿, 意向, 干劲, 遗嘱
 vt. 用意志的力量驱使, 决意, 愿意, 立遗嘱
 vi. 下决心, 愿意
@@ -224,13 +246,14 @@ plug,"n. 塞子, 栓, 插头
 vt. 插入, 塞住, 接插头
 vi. 被塞住"
 graph," 表示：书写器；描绘器；记录器：telegraph; (以某种方法)书写(或描绘、记录)的结果(或东西)：monograph, lithograph"
-economical,济的，节省的
+economical,"a. 节俭的, 经济的, 合算的
+[经] 经济的, 节约的"
 sanitary,"a. 卫生的
 n. 公共厕所"
 correctional,"a. 改正的, 修正的, 矫正的"
 facility,"n. 容易, 灵巧, 设备
 [计] 设施; 设备; 装备"
-downsize,[计] 缩小尺寸
+downsize,vt. 以较小尺寸设计；缩小尺寸；裁减人数
 body count, 敌尸计数；死亡人数统计
 survivor,"n. 生还者, 幸存者
 [法] 生还者, 生存者, 辛存者"
@@ -239,7 +262,8 @@ reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
 n. 窗侧, 门侧"
 informer,"n. 密告者, 控告者, 通知者
 [法] 控告人, 通知者, 告密者"
-offshore,离岸
+offshore,"adv. 离岸, 近海岸
+a. 离岸的, 向海的, 近海的, (美)国外的"
 scratch,"n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线
 vt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉
 vi. 搔, 抓, 发刮擦声, 勉强糊口
@@ -254,9 +278,11 @@ employment,"n. 雇用, 职业, 工作
 [经] 职业, 雇用, 职工招请"
 surplus,"n. 剩余, 过剩, 盈余
 a. 过剩的, 剩余的"
-capital punishment, 死刑
-taxpayer,[经] 纳税人
-pre-owned, 旧的；二手的；转手的
+capital punishment,"na. 死刑
+[网络] 极刑；处死的刑罚；最大刑罚"
+taxpayer,"n. 纳税人
+[法] 纳税人, 纳税义务人"
+pre-owned,adj. 第二手的，旧的，二手的
 flexibility,"n. 弹性, 适应性
 [计] 灵活性; 适应性"
 unemployed,"a. 失业的, 未被利用的
@@ -271,7 +297,8 @@ fibre,"n. 纤维, 构造, 纤维制品
 [化] 纤维"
 thirst,"n. 口渴, 渴望
 vi. 口渴, 渴望"
-microscope,[网络] 显微镜
+microscope,"n. 显微镜
+[化] 显微镜"
 drive,"n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器
 vt. 开车, 驱使, 推动, 驾驶
 vi. 开车, 猛击, 飞跑
@@ -303,8 +330,10 @@ vt. 事先查看, 预演
 numerous,"a. 很多的, 数目众多的, 多数的
 [机] 多数的, 甚多的"
 brochure,"n. 小册子, 小册"
-catalogue,型绿
-psychology,n. 心理学；心理状态
+catalogue,"n. 目录, 大学情况一览
+vt. 编入目录"
+psychology,"n. 心理学, 心理状态
+[医] 心理学"
 fry,"n. 油炸食物, 鱼苗
 v. 油炸, 煎"
 pepper,"n. 胡椒粉, 胡椒, 辣椒
@@ -312,10 +341,12 @@ pepper,"n. 胡椒粉, 胡椒, 辣椒
 steak,"n. 牛排, 鱼排, 肉排"
 rice cooker,"n. 饭锅
 [网络] 电饭煲；电饭锅；电锅"
-bean curd,豆腐
+bean curd,n. 豆腐
 garlic,"n. 大蒜
 [化] 大蒜"
-microwave, [医]微波
+microwave,"n. 微波炉；【物】电磁微波
+v. 用微波炉加热(或烹饪)
+[网络] 微波法；微波加热；微波实验"
 saucer,[地名] 绍塞河 ( 阿根 )
 Thermos,n. 热水瓶
 put something away, （非正式）（体育运动用语）处理; 同 put something down （见后面义项3）; （非正式）（大量）吃喝; 存（钱）
@@ -326,12 +357,13 @@ hook,"n. 钩, 钩状, 镰刀, 陷阱
 vt. 挂...于钩上, 钩住, 引上钩, 偷窃
 vi. 弯成钩状, 钩紧
 [计] 钩"
-millimetre,n. 毫米；公厘
+millimetre,"n. 毫米
+[机] 公厘"
 room-mate,"n. 室友；同住一室的人
 [网络] 暧昧的同居室友；我的室友；微电影"
 astronomy,n. 天文学
-mineral,"n. 矿物, 无机物, 苏打水
-a. 矿物的, 似矿物的"
+mineral,"n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
+adj. 矿物的；矿质的"
 bat,"n. 蝙蝠；球拍；球棒；球板
 v. 用球板击球；拍打（空中飞舞的小东西）
 abbr. (=Bachelor of Arts in Teaching)教学法学士
@@ -346,7 +378,7 @@ embassy,"n. 大使馆, 大使馆全体人员
 [经] 大使馆"
 allusion,"n. 提及, 暗指"
 surprisingly,"adv. 使人惊奇, 出人意外, 惊人, 令人惊讶"
-den,[网络] 密度；二选一；轧制面
+den,abbr. Denbighshire；Denmark
 catch-22,"n. 互相抵触之规律或条件所造成的无法脱身的困窘；不合逻辑的或矛盾的问题
 a. 摆脱不了的"
 heel,"n. 脚后跟, 踵, 后部, 倾侧
@@ -355,18 +387,19 @@ vi. 紧随, 用脚后跟传球"
 mythology,n. 神话
 unbeatable,"a. 无敌的, 无与伦比的"
 prophet,"n. 预言者, 先知, 提倡者"
-overboard,落水
+overboard,"adv. 自船上落下, 在船外"
 vomit,"vt. 吐出, 呕吐
 vi. 呕吐
 n. 呕吐, 呕吐物, 催吐剂"
 Herculean,a. 魁梧有力的
 a good Samaritan,一个乐善好施的人
-bang,"n. 重击, 突然巨响, 刘海
-v. 发巨响, 重击
-adv. 砰然地, 突然巨响地, 直接地
-[计] 撞击符"
+bang,"n. 猛敲；突然的巨响；额前短发；刘海儿
+v. 猛敲；砸；（把…）砰地关上；猛摔
+adv. 正好；完全地
+int. （表示枪声等巨响）砰
+[网络] 砰一声；曼谷；枪声就是这样响的"
 aimless,"a. 无目的的, 没有目标的"
-land on one's feet,"交好运, 脱离困境"
+land on one's feet,[网络] 安全摆脱困境
 atom,"n. 原子, 核能, 微粒, 微量
 [计] 原子"
 nuclear,"a. 核子的, 原子能的, 核的, 中心的
@@ -383,7 +416,10 @@ currently,"adv. 现在, 当前, 一般, 普通
 [计] 当前"
 premier,"n. 总理, 首相
 a. 首位的, 最初的"
-arch," 表示“原始的”; 表示“统治者”, “首领”, “领导者”"
+arch,"n. 拱门, 拱形, 足弓
+vt. 使成弓形
+vi. 拱起, 成弓形
+a. 主要的, 调皮的, 傲慢无礼的, 狡猾的"
 seminar,"n. 研究班, 专题讨论会
 [经] 讨论会, 专家讨论会"
 sharpen,"vt. 使尖锐, 使敏捷, 加重, 削尖

@@ -30,7 +30,8 @@ individual,"n. 人, 个人, 个体
 a. 个别的, 个人的, 独特的"
 rational,"a. 理性的, 合理的
 n. 有理数"
-transportation,输送，运输，运输工具
+transportation,"n. 运输, 输送, 交通车辆
+[经] 运转, 运输, 运输费"
 relative,"n. 亲戚, 关系词
 a. 有关系的, 相对的, 比较的"
 independent,"adj. 独立的；自主的；自治的；不相干的人所做的（或提供的）
@@ -54,14 +55,15 @@ recipient,"a. 领受的, 容易接受的, 感受性强的
 n. 领受者, 容纳者, 容器"
 anonymous,"a. 姓氏不详的, 无名的, 无特色的
 [计] 无记录"
-top-flight,"最高层, 最高级；第一流"
+top-flight,"a. 第一流的, 最好的, 最高级的"
 half-measure,"[经] 权宜办法, 折衷办法"
 veteran,"n. 老手, 退伍军人, 老兵, 老树
 a. 老兵的, 老练的, 经验丰富的"
 be abuzz with,无
 blazing,"a. 炽燃的, 强烈的"
-lightweight,"un. 轻载重量；轻的
-[网络] 轻量级；重量轻；轻量化"
+lightweight,"n. 不到平均重量的人/物, 轻量级, 无足轻重的人, 性格不够强的人
+a. 平均重量以下的, 重量轻的
+[计] 轻便的, 轻量的"
 peak,"n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌
 a. 最高的, 最大值的
 vi. 到达最高点, 消瘦, 变憔悴, 逐渐缩小
@@ -71,7 +73,7 @@ seniority,"n. 长辈, 老资格
 laureate,"a. 戴桂冠的, 用月桂树枝编织成的, 荣誉的
 n. 桂冠诗人
 vt. 使戴桂冠"
-oddsmaker,[网络] 赔率工作人员
+oddsmaker,n. 出盘者；赔率制定者
 prevail,"vi. 获胜, 流行, 盛行
 [医] 流行, 盛行"
 ambivalent,"a. 矛盾的, 模棱两可的
@@ -80,7 +82,8 @@ versatile,"a. 多才多艺的, 万用的, 万向的"
 startling,a. 令人吃惊的
 frazzled,"a. 穿破了的, 磨损了的, 疲惫的, (美)(非正式)喝醉了的"
 honed,v. 把（刀、剑等）磨光( hone的过去式和过去分词 )
-well-rounded, [体]技术全面的
+well-rounded,"adj. 面面俱到的；全面的；多才多艺的；圆满无缺的
+[网络] 能，全才；全能；经过周密考虑的"
 picky,"a. 吹毛求疵的, 挑剔的, 找麻烦的"
 credential,"n. 国书, 凭据, 证明书
 [经] 凭证, 证书"
@@ -128,18 +131,22 @@ isolated,"a. 孤立的, 孤零零的
 [计] 隔离的, 绝缘的"
 daunting,a. 使人畏缩的
 meager,"a. 质量差的, 贫乏的, 不毛的, 瘦的"
-real-estate,"不动产
-[经] 不动产, 房地产"
+real-estate,"n. 房地产；房产；不动产
+[网络] 房地产论坛；房地产专业；地产房产"
 prospect,"n. 景色, 展望
 vt. 勘探, 勘察
 vi. 勘探, 有前途"
-cap,[计] 压缩音乐文件格式
+cap,"n. 盖子, 帽子
+vt. 戴帽子, 覆盖, 胜过
+vi. 脱帽致意
+[计] 调用程序分析, 容量, 代码分析程序, 计算机辅助生产, 计算机辅助印刷"
 millennial,"a. 一千年的, 千福年的"
 affordability,n. 支付能力；负担能力；可购性
 embarrassing,"a. 令人为难的, 麻烦的"
-cutoff,"na. 削除；截止；截断(退路等)；割下来
-[网络] 切断；断绝；切掉"
-stagnant,[地名] 圣阿尼昂 ( 法 )
+cutoff,"切掉, 删去, 切断, 断绝, 中断, 关掉, 使死亡
+[建] 切断, 断流, 切去"
+stagnant,"a. 不流动的, 停滞的, 不景气的, 萧条的, 污浊的, 迟钝的
+[经] 萧条的"
 accumulate,"v. 积聚, 堆积"
 strategist,n. 战略家
 fiscally,"adv. 在国库方面, 财政上, 在国库岁入方面"
@@ -156,19 +163,24 @@ stigma,"n. 耻辱, 污名, 烙印
 necessitate,"vt. 迫使, 使成为必需, 需要"
 relief,"n. 减轻, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏
 [医] 缓减, 减轻, 浮雕(绘画中)"
-windfarm, 风力田
-dual fuel,双燃料
+windfarm,"n. 风力发电场
+[网络] 风电场；风力发电厂；风力农场"
+dual fuel, 双燃料
 subsidy,"n. 补助金, 津贴
 [经] 补助金, 津贴, 补贴"
 carbon target,无
-offset,n. 排列不正
+offset,"n. 抵消, 把...并列, 旁系, 支管, 用胶印法印
+vt. 弥补, 抵消, 胶印
+vi. 装支管
+n. 偏移量
+[计] 偏移量"
 obligation,"n. 义务, 责任, 约束, 契约, 恩惠, 债务
 [经] 待付款, 债务, 义务"
 predict,"v. 预知, 预言, 预报"
 calculate,"v. 计算, 预测, 计划, 打算"
 gadget,"n. 小配件, 小玩意, 诡计"
-modest,"a. 谦逊的, 羞怯的, 端庄的, 适度的
-[经] 适当的"
+modest,"adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
+n. (Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特"
 proportion,"n. 比例, 比率, 均衡, 部分, 面积
 vt. 使成比例, 使均衡"
 condense,"vt. 使浓缩, 使压缩, 缩短
@@ -183,33 +195,38 @@ vulnerable,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局
 gullible,"a. 易受骗的
 [法] 易受骗的, 轻信的"
 deceive,"v. 欺骗, 行骗"
-antivirus,抗病毒
-highlight, 图像最亮部分，高度光泽，高亮度
+antivirus,"n. 抗病毒素
+[医] 细菌滤液"
+highlight,"n. 加亮区, 精彩场面
+vt. 加亮, 使显著, 以强光照射, 突出
+[计] 突出"
 fall prey to,[网络] 成为……的牺牲品；深受…之害；受害
 hacker,"[计] 计算机窃贼, 计算机新技术挑战者, 黑客"
-counterpart,"[计] 副本, 配对物, 对应物"
+counterpart,"n. 副本, 复本, 配对物, 相应物
+[经] 副本, 正副二份中之一"
 knowledgeable,"a. 聪明的, 有知识的"
 heed,"n. 注意, 留心
 v. 注意, 留心"
-database,"[计] 数据库
-[化] 数据库"
+database,"n. 数据库
+[网络] 资料库；数据基；数据基础"
 innocent,"a. 无罪的, 不懂事的, 无知的
 n. 天真的人, 笨蛋"
 indict,"vt. 起诉, 控告, 指控
 [法] 控告, 揭发, 对...起诉"
 negligent,"a. 疏忽的, 粗心的, 不在意的"
-whip,"n. 鞭子, 抽打, 车夫, 搅拌器
-vt. 鞭打, 搅拌, 煽动, 召集, 仓促制成
-vi. 拍击, 急走, 抽打"
+whip,"n. 鞭子；【无线】鞭状天线；投票指示；(某党)议员领袖
+v. 鞭打；鞭笞；〈口〉击败；抽打
+[网络] 薇普；搅打；皮鞭"
 siblings,"n. 兄弟, 姐妹( sibling的复数形式 )"
-incident,"n. 事件, 事变, 小事
-a. 附带的, 易于发生的, 外来的, 入射的"
+incident,"adj. 【法】附带的；入射的；易起的；附随的
+n. 发生的事情（尤指不寻常的或讨厌的）；严重事件；（两国间的）摩擦
+[网络] 事变；事故；小事件"
 conservative,"a. 保守的, 守旧的, 有保存力的
 [化] 防腐剂; 保存剂"
 leap to,[网络] 跃居
 psychiatry,"n. 精神病学, 精神病治疗
 [医] 精神病学"
-overwhelming,[网络] 压倒
+overwhelming,"a. 压倒性的, 无法抵抗的"
 aggressive,"a. 侵略的, 挑畔的, 进取的
 [法] 侵略的, 爱挑衅的, 行为过火的"
 spanking,"a. 清爽的, 疾行的, 强烈的
@@ -223,8 +240,8 @@ vi. 化合, 和解, 妥协
 vt. 使复合, 使化合"
 expose,"vt. 使暴露, 使曝光, 揭穿, 陈列
 [医] 暴露, 露置"
-turnover,"na. ￡ 500 a week 每星期卖得五百镑
-[网络] 移交；翻转；翻过来"
+turnover,"打翻, 营业额达到, 周转, 移交给, 翻阅, 反复考虑, 翻身
+[法] 移交, 交付, 让渡"
 ouster,"n. 驱逐, 撵走, 剥夺
 [法] 驱逐, 撵走, 剥夺"
 succession,"n. 连续, 继承权, 继位, 演替, 地层次序
@@ -255,11 +272,16 @@ vt. 使失效"
 outcry,"n. 尖叫, 倒彩, 强烈抗议, 喊价
 vi. 喊叫
 vt. 叫得比...响"
-snapshot,"急射, 快射"
+snapshot,"n. 快照, 抽点打印
+[计] 瞬象; 抽点打印"
 dial,"n. 刻度盘, 钟面, 转盘
 v. 拨"
-headset,"(头戴式)耳机,听筒"
-chip,[网络] 新电脑；中游晶粒切割；金属切削加工过程中切屑
+headset,"n. (一副)耳机
+[电] 头载机组"
+chip,"v. 打破；弄缺；被损坏；切下
+n. （木头、玻璃等的）缺口；（木头、玻璃等破损后留下的）碎屑
+adj. (雀,栗鼠等)唧唧叫的
+[网络] 筹码；薯条保温台；薄片"
 tensor,"n. 张肌, 张量
 [化] 张量"
 sociable,"a. 好交际的, 社交的, 过社会生活的
@@ -269,9 +291,9 @@ selective,"a. 选择的, 选择性的
 deceive,"v. 欺骗, 行骗"
 vulnerable,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的
 [医] 易损的"
-recharge,"vt. 再充电；再袭击；再控告
-n. 再袭击；再装填
-vi. 再袭击"
+recharge,"vt. 再充电, 再装填, 再控告, 再袭击
+vi. 再袭击
+n. 再袭击, 再装填"
 metropolitan,"n. 大都市居民, 都主教, 宗主国的公民
 a. 大都市的, 都主教区的, 宗主国的"
 reallocate,v. 重新分配；再指派
@@ -289,20 +311,24 @@ potential,"n. 潜在性, 可能性, 潜力, 潜能, 势, 位
 a. 有潜力的, 可能的, 潜在的"
 cite,"vt. 引用, 引证, 表彰
 [建] 引证, 指引"
-antisocial,adj. 反社会的
+antisocial,"不爱社交的, 反社会的, 有害于公众利益的
+[医] 不喜社交的"
 manufacturer,"n. 制造业者, 厂商
 [经] 制造人, 制造商, 制造厂"
 augmented reality,"n. 增强现实
 [网络] 扩增实境；增强现实技术；扩增实境技术"
-virtual reality,n. [计]虚拟现实
+virtual reality,"na. 【计】虚拟现实
+[网络] 虚拟实境；虚拟实境技术；虚拟存在"
 marathon,"n. 马拉松, 耐力的考验"
-contempt,n. 轻视，蔑视；耻辱
+contempt,"n. 轻视, 轻蔑
+[法] 藐视, 侮辱, 轻视"
 critics,n. 评论家；批评者；吹毛求疵的人（critic的复数）
 reject,"n. 被拒之人, 被弃之物, 不合格品, 次品
 vt. 拒绝, 抵制, 否决, 驳回, 丢弃, 呕出"
 emerge,"vi. 浮现, 形成, 出现, (事实)显露"
 enlightenment,"n. 启迪, 教化"
-foundation,n. 基础；地基；基金会；根据；创立
+foundation,"n. 基础, 根据, 建立
+[化] 地基"
 humility,"n. 谦逊, 谦虚, 谦卑"
 resentment,"n. 怨恨, 愤恨"
 egoistic,"a. 自我中心的, 自私自利的"
@@ -312,11 +338,12 @@ opposition,"n. 反对, 敌对, 相反, 在野党
 parliament,"n. 国会, 议会
 [法] 会议, 国会, 议院"
 essentially,"adv. 本质上, 本来"
-domestic,"a. 家庭的, 国内的, 驯养的
-[医] 家庭的, 家用的"
+domestic,"adj. 国内的；家庭的；驯养的；一心只管家务的
+n. 国货；佣人"
 legislation,"n. 立法, 法律
 [医] 立法, 法规"
-investigation,n. 调查；调查研究
+investigation,"n. 调查, 审查
+[医] 调查, 调查研究"
 terrorist,"n. 恐怖分子
 [法] 恐怖份子, 恐怖主义"
 regulate,"vt. 管理, 控制, 调节, 调整, 校准
@@ -332,7 +359,9 @@ vt. 使戴桂冠"
 inconclusive,"a. 非决定性的, 无效果的, 不得要领的
 [法] 非决定性的, 不确定的, 无结果的"
 awesome,"a. 引起敬畏的, 可怕的"
-coax,[网络] 同轴；飞河；同轴阀
+coax,"vt. 哄, 诱骗, 耐心地摆弄
+vi. 哄骗
+[计] 同轴电缆"
 peaceful,"a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的
 [法] 和平的, 爱好和平的, 和平时期的"
 mitigate,"vt. 温和, 缓和, 减轻
@@ -343,19 +372,23 @@ judgment,"n. 裁判, 宣告, 判决书
 [医] 判断"
 preference,"n. 偏爱, 优先, 喜爱物
 [计] 首选项"
-overwhelming,[网络] 压倒
+overwhelming,"a. 压倒性的, 无法抵抗的"
 rating,"n. 等级, 额定功率, 责骂
 [经] 等级评定"
-capture,[网络] 利益集团捕获
+capture,"n. 抓取, 战利品, 捕获之物
+vt. 抓取, 获得, 迷住
+[计] 截获命令"
 comment,"n. 注解, 批评, 评论, 备注
 vi. 评论, 注解
 [计] 备注"
 suspicious,"a. 可疑的, 多疑的, 怀疑的
 [法] 怀疑的, 令人怀疑的, 可疑的"
 entertainment,"n. 娱乐, 款待, 娱乐表演"
-breakthrough,"突围, 突破
-[计] 断缺"
-inequality,n. 不平等；不同；不平均
+breakthrough,"na. 【军】突破(点)；(科技等的)重大发现；关键问题的解决
+[网络] 穿透；穿通；打破"
+inequality,"n. 不平等, 不同, 不平坦, 不平均
+n. 不平等, 不等式
+[计] 不等式"
 flexibility,"n. 弹性, 适应性
 [计] 灵活性; 适应性"
 adaptability,"n. 适应性
@@ -386,8 +419,10 @@ monastic,"a. 修道院的, 僧尼的, 寺院的, 庙宇的, 禁欲生活的
 n. 修道士"
 temple,"n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角
 [医] 颞颥, 颞部"
-caretaker,"n. 看管人, 暂时行使职权者, 暂时行使职权的政府或个人"
-concern,[网络] 关心；关系
+caretaker,"n. 照顾者, 看管者, 看守人
+[法] 看守员, 管理员, 看管人"
+concern,"n. 关心, 忧虑
+vt. 与...有关, 使担心, 使挂念"
 suggestion,"n. 提议, 意见
 [医] 暗示"
 circulation,"n. 流通, 循环, 发行量
@@ -401,11 +436,11 @@ a. 必要的, 重要的, 本质的
 normal,"n. 常态, 标准, 正常, 普通
 a. 正常的, 正规的, 标准的, 师范的, 正态的
 [计] 标准, 普通"
-cash,"n. 现金
-vt. 兑现"
+cash,abbr. cashew 腰果树; cashier （商店等的）出纳员; （银行或公司的）司库
 customer,"n. 消费者
 [化] 顾客"
-institution,[网络] 刚刚开始研究中国制度；新制度经济学把制度
+institution,"n. 机构, 惯例, 制度
+[医] 机关, 机构, 设施"
 cyclist,n. 骑脚踏车的人
 motor vehicle,[化] 机动车辆
 pleasant,"adj. 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的
@@ -421,13 +456,15 @@ consumption,"n. 消费, 消费量, 痨病
 mankind,"n. 人类, 男性"
 deteriorate,v. (使)恶化
 frequently,"adv. 频繁, 经常地"
-reasonable,adj. 合理的，公道的；通情达理的
+reasonable,"a. 合理的, 明理的, 适当的
+[法] 合理的, 公道的, 正当的"
 ceaselessly,"adv. 不停地, 不断地"
 paranoid,"a. (似)患妄想狂的, (似)患偏执狂的
 n. 患妄想狂的人"
 conscientious,"a. 有责任心的, 负责的, 本着良心的
 [法] 凭良心做的, 有道德感的"
-hands-on,实习的；亲自动手的
+hands-on,"adj. 插手的
+[网络] 汉尊；动手做；汉德森"
 crucial,"a. 决定性的, 重要的, 严厉的
 [医] 十字形的; 决断的, 定局的"
 scale,"n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢
@@ -444,7 +481,7 @@ vi. 参军, 注册"
 suicidal,"a. 自杀的, 自杀性的, 自我毁灭的
 [法] 自杀的"
 traumatized,v. 使受精神创伤( traumatize的过去式和过去分词 ); 使受外伤
-neuroscience,n. 神经系统科学（指神经病学、 神经化学等）
+neuroscience,n. 神经系统科学( 指神经病学、 神经化学等)
 trauma,"n. 外伤, 损伤
 [医] 创伤, 外伤"
 toxic,"a. 有毒的, 中毒的
@@ -453,7 +490,7 @@ provocation,"n. 激怒, 刺激, 挑拨
 [医] 激发[作用]"
 adverse,"a. 不利的, 敌对的, 相反的, 逆的
 [法] 相反的, 敌对的, 逆的"
-straightforward, 一直；直白
+straightforward,"a. 笔直的, 率直的, 明确的, 简单的, 直接的"
 suspension,"n. 悬挂, 暂停, 中止
 [化] 悬浮; 悬浮体; 悬浮液"
 early shift, 早班
@@ -468,14 +505,13 @@ restructuring,(re-structure 的现在分词) vt. 调整；重建；更改结构
 jolt,"n. 震摇, 摇动, 颠簸
 vi. 颠簸而行, 震摇
 vt. 使颠簸, 使慌张, 猛击"
-recognise,[网络] 认识
+recognise,"vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言"
 sense,"n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智
 vt. 感觉, 觉察, 检测
 [计] 阅读; 检测"
-badge,"n. 徽章, 标记
-[计] 标记"
+badge,comb.form 表示“象征名牌的”，“名牌标志的”(只因该商品是名牌而使用它)：badge-product
 medieval,"a. 中古的, 中世纪的"
-craftsman,n. 工匠；手艺人；技工
+craftsman,"n. 工匠, 技工, 手艺人"
 distinguish,"v. 区别, 辨别"
 authenticity,"n. 可靠性, 真实性
 [经] 确实性, 真实性"
@@ -483,7 +519,8 @@ consultant,"n. 顾问, 征询意见者
 [医] 顾问医师"
 heritage,"n. 遗产, 祖先遗留物, 继承物
 [医] 遗传性"
-well-grounded, 炳炳凿凿
+well-grounded,"a. 基础牢固的, 有事实根据的, 理由充足的, 有充分根据的
+[法] 有充分理由的, 有充分根据的"
 underlying,"adj. 潜在的；根本的；在下面的；优先的
 v. 放在…的下面；为…的基础；优先于（underlie的ing形式）"
 as opposed to,"完全不同, 截然相反, 反对, 对照"
@@ -500,19 +537,24 @@ remotely,"adv. 极小地, 极细微地"
 tricky,"a. 狡猾的, 机敏的"
 commute,"vt. 交换, 折偿, 减轻
 vi. 代偿, 经常乘车来往"
-mood,"n. 心情, 气氛, 生气, 基调
-[医] 心境"
+mood,"n. 情绪；心情；气氛；氛围
+[网络] 语气；甲心情；沐恋商旅"
 dividend,"n. 被除数, 股利
 [计] 被除数"
 investigate,"v. 调查, 审查"
 misery,"n. 痛苦, 悲惨, 不幸, 穷困"
-pile up,"堆积, 积累, 搁浅, 撞毁"
+pile up,"n. 多车相撞, 堆积
+[电] 堆起"
 articulate,"a. 发音清晰的, 口才好的
 vt. 明白地说, 以关节连接, 使成为系统的整体"
 interaction,"un. (美国)《相互影响》月刊
 [网络] 互动；作用；动作补间"
 accomplishment,"n. 成就, 完成"
-share,suf. （构成名词）分摊；（构成动词）共用
+share,"n. 部分, 参与, 一份, 参股, 份额
+vt. 均分, 分担, 分享, 分配, 共有
+vi. 分享
+[计] 共享; DOS外部命令:在网络或多工系统中提供文件共享
+文件锁定及检测磁盘更动和对超过32MB硬盘分区的支持"
 sign up,"签约参加工作, 签约雇用"
 divest,"vt. 使摆脱, 使脱去, 夺去
 [经] 取消权力"
@@ -529,8 +571,10 @@ confirm,"vt. 证实, 确定, 批准, 使巩固
 [计] 确认"
 demonstrate,"vt. 示范, 证明
 vi. 示威"
-protest,普罗试验
-public transport,"n. 公共交通, 公共交通工具, 公交车辆"
+protest,"n. 抗议, 反对, 抗议书, 断言
+v. 反对, 抗议, 断言"
+public transport,"un. 公共运输；旅客机
+[网络] 公共交通；公共交通展区；公共交通工具"
 tuition fee,n. 学费，（某一学科的）教学
 sufficient,"a. 充分的, 足够的
 [法] 充分的, 足够的"
@@ -573,7 +617,7 @@ psychiatric,"a. 精神病学的, 医精神病的
 [医] 精神病学的"
 charity,"n. 慈悲, 博爱, 慈善团体, 施舍
 [法] 宽大, 宽恕, 慈善机关"
-ex-con,[网络] 有前科者；以前的罪犯；前科犯
+ex-con,abbr. executive control 执行控制
 trajectory,"n. 轨道, 弹道, 轨线
 [化] 轨道"
 qualification,"n. 资格, 条件, 限制
@@ -615,14 +659,17 @@ ethical,"a. 伦理的, 民族的, 民族特有的
 [医] 伦理的, 道德的"
 appraisal,"n. 评价, 估价
 [经] 评价, 评估"
-torture,"n. 拷问, 苦闷
-vt. 拷问, 曲解, 折磨, 使弯曲"
-gaze,[网络] -凝视
+torture,"n. 酷刑；拷打；拷问；痛苦
+v. 拷打；拷问；严刑逼供；使痛苦
+[网络] 折磨；虐待；刑讯"
+gaze,"n. 注视, 凝视
+vi. 注视, 凝视"
 be tricked into believing,无
 corridor,"n. 走廊, 回廊, 人口密集地带"
 complicated,"a. 复杂的
 [医] 并发的"
-prediction,n. 预报；预言
+prediction,"n. 预言, 预报
+[化] 预测"
 estimate,"n. 估计, 判断
 vt. 估计, 评价, 判断
 vi. 估计"
@@ -653,8 +700,8 @@ consume,"vt. 消耗, 消费, 消灭
 vi. 耗尽, 毁灭"
 boost,"n. 推进, 吹捧
 vt. 推进, 提高, 宣扬, 促进"
-status,"n. 状态, 情形, 地位, 要人身份
-[计] 状态"
+status,"n. 地位；身份；情形；法律地位（或身份）
+[网络] 老实待在那"
 respondent,"a. 回答的, 应答的, 反射的
 n. 应答者, 被告"
 perception,"n. 知觉, 感觉, 领悟力, 获取
@@ -669,8 +716,8 @@ aptitude,"n. 资质, 才能, 自然倾向
 [医] 资质, 才能"
 implicitly,"adv. 含蓄, 不言明, 暗示, 暗指, 内含, 固有, 无疑, 绝对, 无保留
 [计] 隐含地"
-recommend,"vt. 推荐, 介绍；劝告；使受欢迎；托付
-vi. 推荐；建议"
+recommend,"vt. 推荐, 介绍, 劝告, 使受欢迎, 托付
+[经] 建议, 推荐"
 internship,"n. 实习医师的职务
 [医] 实习医师职位, 实习医师期"
 comprehensive,"a. 广泛的, 有理解力的, 综合的
@@ -683,7 +730,8 @@ personality,"n. 个性, 人格, (团体、地方、国家)特有特性, 名人
 promising,"a. 有希望的, 前途有望的
 [经] 有希望的"
 without any reservation,无
-shortcut,"n. 近路, 捷径"
+shortcut,"n. 捷径, 最短路线
+[计] 快捷方式"
 cartoon,"n. 卡通画, 漫画
 v. 画漫画"
 inner world,精神世界
@@ -703,27 +751,31 @@ critique,"n. 评论文章, 评论"
 anonymity,"n. 匿名, 姓氏不明
 [计] 匿名信件"
 publicly,"adv. 公然地, 以公众名义"
-flagship,旗舰
+flagship,n. 旗舰
 associate,"n. 同伴, 伙伴, 关联的事物
 vt. 使联合, 使发生联系
 vi. 交往
 [计] 关联"
 oath,"n. 誓约, 誓言, 咒骂
 [法] 誓言, 誓约, 宣誓"
-editor-in-chief,n. 主编，总编辑
+editor-in-chief,[网络] 主编；执行主编
 guidance,"n. 指导, 领导
 [医] 导"
 obesity,"n. 肥胖
 [医] 肥胖, 多脂"
-gastrointestinal, [医]胃肠的
+gastrointestinal,"a. 胃肠的, 肠胃的
+[医] 胃肠的"
 autism,"n. 孤独症
 [医] 孤独癖, 自我中心主义"
 herbicide,"n. 除草剂
 [化] 除草剂"
-gauge,义大利李，表，计，规
+gauge,"n. 标准度量, 计量器
+vt. 精确计量, 估计
+[计] 线规"
 spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
-accountability,会计责任
+accountability,"n. 负有责任, 可说明性
+[化] 衡算计量"
 marginalize,"vt.使处于社会边缘,使脱离社会发展进程, 忽视,排斥"
 organism,"n. 生物, 有机体, 社会组织
 [医] 生物[体],[有]机体"
@@ -740,7 +792,8 @@ resumption,"n. 取回, 恢复, 再开始
 [经] 再取回, 恢复, 重新占用"
 negotiation,"n. 谈判, 磋商, 交涉
 [经] 谈判, 协商"
-unsustainable,adj. 无法支撑的；不可证实的；不能成立的
+unsustainable,"a. 无法支撑的, 不能忍受的, 不可证实的
+[法] 未能证实的, 不能成立的"
 workload,"[计] 工作负载, 工作装配
 [经] 工作量"
 collateral,"a. 并行的, 附随的, 旁系的
@@ -749,15 +802,19 @@ negative,"n. 否定, 否定语, 负数, 底片
 a. 否定的, 消极的, 负的, 阴性的
 n. 负数, 负值
 [计] 负数, 负值"
-crisis,危象
+crisis,"n. 危机, 危险期, 紧要关头
+[医] 危象; 骤退, 临界, 极期"
 commitment,"n. 委托, 交押, 承担义务, 赞助
 [医] 院禁"
-backbone,[医] 脊柱
+backbone,"n. 脊椎, 志气, 骨干, 支柱
+[计] 主干网, 主干网点"
 nostalgic,"a. 乡愁的, 怀旧的
 [医] 怀乡病的"
 despondent,"a. 丧气的, 失望的, 没有精神的"
-labor-force,"[经] 劳动力, 劳动大军"
-participation,n. participate的变形
+labor-force,"n. 劳动力
+[网络] 劳动力人数；劳力；劳动人口"
+participation,"n. 参与, 分享
+[经] 参与, 参股"
 decline,"n. 衰退, 跌落, 下降
 vt. 使降低, 婉谢
 vi. 下降, 衰落, 偏斜"
@@ -766,11 +823,12 @@ considerable,"a. 相当的, 可观的, 重要的"
 along with,"与…一道,与…一起,连同…"
 symbolic,"a. 象征的, 符号的
 [电] 符号化"
-pick up,"v. 拾起；探出；重新开始
-[网络] 捡起；拿起；学会"
+pick up,"n. 拾起, 加速, 刺激, 猎物的收集, 好转, 恢复健康, 搭车者, 兴奋剂, 电视摄像
+[电] 拾音器"
 barrier,"n. 障碍, 栅栏
 [化] 势垒; 阻片; 阻挡层"
-suburban,[网络] 城市的近郊地区；城外
+suburban,"a. 郊外的, 郊区的, (贬)偏狭的, 土气的, 见识不广的
+n. 郊区居民"
 satellite,"n. 人造卫星
 [医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星"
 separation,"n. 分离, 分居, 缺口, 退职
@@ -790,9 +848,9 @@ spectrum,"n. 光谱, 范围, 系列
 [化] 光谱"
 nutrient,"a. 营养的, 滋养的
 n. 营养物, 滋养物"
-approach,"n. 接近, 入门
-vt. 接近, 近似, 找...商量
-vi. 靠近"
+approach,"n. 方法；接近；路径；道路
+v. 接近；建议；接洽；着手处理
+[网络] 措施"
 chronic,"a. 慢性的, 习惯性的
 n. 慢性病患者"
 consumption,"n. 消费, 消费量, 痨病
@@ -805,8 +863,8 @@ treble,"n. 最高声部, 三倍
 a. 三倍的, 最高声部的
 vt. 使增为三倍
 vi. 成为三倍"
-outstanding,"adj. 杰出的；显著的；未解决的；未偿付的
-n. 未偿贷款"
+outstanding,"a. 杰出的, 突出的, 未偿付的, 未决定的
+[经] 未解决的, 未偿付"
 delinquency,"n. 行为不良, 失职
 [经] 毁约, 怠工, 旷职"
 bankruptcy,"n. 破产者
@@ -826,12 +884,12 @@ responsibility,"n. 责任, 职责, 负担, 可靠性
 [化] 职责"
 category,"n. 种类, 类项
 [计] 分类"
-bar code,"条形码
-[计] 条形码"
+bar code,"na. (商品上示价的)条纹码
+[网络] 条码；条形码；条形码技术"
 efficient,"comb.form 表示“效率高的”,“充分利用的”：cost-efficient,energy-efficient"
 payment,"n. 付款, 支付的款项(或实物), 偿还, 报应, 惩罚
 [经] 支付, 缴纳, 支付款额"
-liberal arts,文科
+liberal arts,n. 大学文科
 intend,"vt. 计划, 打算, 意思是
 [法] 想要, 打算, 意旨"
 capacity,"n. 容量, 能力, 才能, 资格
@@ -839,8 +897,8 @@ capacity,"n. 容量, 能力, 才能, 资格
 slot,"n. 水沟, 细长孔, 硬币投币口, 缝, 狭槽, 狭通道, 位置, 一档(广播节目等)
 vt. 开槽于, 把...纳入机构
 [计] 槽; 存储槽"
-underestimate,"vt. 低估；看轻
-n. 低估"
+underestimate,"n. 低估
+vt. 低估, 看轻"
 polemic,"a. 争辩的, 好争论的
 n. 争论, 辩论, 辩论者"
 artificial,"a. 人造的, 假的, 非原地产的
@@ -870,9 +928,9 @@ operator,"n. 操作员, 行家, 经纪人, 算子, 运算符
 permanent,"a. 永久的, 不变的, 固定的, 持久的
 n. 烫发
 [计] 永久的"
-approach,"n. 接近, 入门
-vt. 接近, 近似, 找...商量
-vi. 靠近"
+approach,"n. 方法；接近；路径；道路
+v. 接近；建议；接洽；着手处理
+[网络] 措施"
 fine,"n. 罚款, 罚金, 晴天, 精细
 a. 好的, 晴朗的, 健康的, 细小的, 精细的
 vt. 罚款, 精炼, 澄清
@@ -927,7 +985,7 @@ human-trafficking,"n. 人口贩卖
 recruit,"n. 新兵, 新手, 新会员, 补给品
 vt. 恢复, 补充, 充实, 征募
 vi. 征募新兵, 复原, 得到补充"
-inhumane,adj. 残忍的；无人情味的
+inhumane,"a. 无人情味的, 薄情的, 残忍的"
 armed,"adj. 武装的；有扶手的；有防卫器官的（指动物）
 n. (Armed)人名；(科摩)阿米德"
 bonded labour,抵债性劳动
@@ -976,9 +1034,9 @@ achievement,"n. 完成, 成就, 功业"
 progress,"n. 进步, 发展, 前进
 vi. 进步, 进行"
 first-rate,"n. 一级战舰；一流人物
-adj. 第一等的
+adj. 最上等的
 adv. 〈口〉非常(好)地
-[网络] 一流的；甲级；第一流的"
+[网络] 菲尔斯特；第一流的；菲瑞斯"
 professional personnel,"[法] 专职人员, 专业人员"
 discipline,"n. 训练, 纪律
 vt. 训练, 惩罚"
@@ -990,7 +1048,8 @@ adv. 十分"
 by contrast,"对比起来, 与之相比, 相反地"
 detention,"n. 阻止, 监禁, 拘留
 [医] 隔离, 拘留, 滞留, 停滞"
-withdrawal,回，收回；排除，抽除[空气]，[气流]分离；提出(控制棒)
+withdrawal,"n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程
+[医] 戒除, 脱瘾"
 privilege,"n. 特权, 特别恩典, 基本权利, 特免
 vt. 给与...特权, 特免"
 precisely,"adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错"
@@ -1021,7 +1080,8 @@ trivial,"a. 琐碎的, 不重要的, 轻微的, 平常的"
 ritual,"n. 仪式, 典礼, 宗教仪式
 a. 仪式的, 依仪式进行的"
 surge pricing,无
-ban,全颅底平面
+ban,"n. 禁令
+vt. 禁止, 取缔"
 adjustment,"n. 调整, 调节, 校正
 [化] 调节"
 necessity,"n. 需要, 必需品, 必然
@@ -1052,7 +1112,9 @@ prominence,"n. 突起, 突出, 显著, 突出物, 凸出
 decline,"n. 衰退, 跌落, 下降
 vt. 使降低, 婉谢
 vi. 下降, 衰落, 偏斜"
-highlight, 图像最亮部分，高度光泽，高亮度
+highlight,"n. 加亮区, 精彩场面
+vt. 加亮, 使显著, 以强光照射, 突出
+[计] 突出"
 commentary,"n. 注释, 评论, 说明
 [法] 注释, 评注, 评论"
 survey,"n. 纵览, 视察, 测量, 俯瞰, 调查
@@ -1074,7 +1136,7 @@ kidney,"n. 肾, 个性
 suspend,"vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟
 vi. 暂停, 中止, 悬浮, 停止偿付债务
 [计] 暂停"
-from scratch," <非正>从头做起, 从零开始"
+from scratch,adj. 从头做起的; 从零开始的; 白手起家的
 portfolio,"n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑
 [法] 公文包, 文件夹, 阁员职务"
 crucial,"a. 决定性的, 重要的, 严厉的
@@ -1094,7 +1156,8 @@ corrugated,"a. 皱纹的, 波状的
 panel,"n. 嵌板, 仪表板, 专题讨论小组, 全体陪审员
 vt. 嵌镶板"
 translucent,"a. 半透明的, 透明的"
-spherical,球的
+spherical,"a. 球的, 球面的, 球状的, 天体的
+[医] 球形的, 球状的"
 notice,"n. 注意, 布告, 通知, 预告, 短评
 vt. 注意, 通知, 评论, 提及, 关注
 vi. 注意"
@@ -1116,8 +1179,9 @@ exaggerated,"a. 夸大的, 夸张的, 言过其实的"
 donate,v. 捐赠
 implement,"n. 工具, 器具, 手段
 vt. 实现, 使生效, 执行"
-restructure,vt. 调整；重建；更改结构
-income distribution,"[经] 收益分配, 收入分配"
+restructure,"vt. 更改结构, 重建, 调整"
+income distribution,"un. 利润分配
+[网络] 收入分配；收益分配；所得分配"
 low-income citizen,无
 stable,"n. 马房, 牛棚
 a. 稳定的, 安定的, 坚固的, 坚定的

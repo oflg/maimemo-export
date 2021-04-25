@@ -10,8 +10,8 @@ abdomen,"n. 腹部
 [医] 腹[部]"
 abdominal,"a. 腹部的, 有腹鳍的
 [医] 腹[部]的"
-abduct,"vt. 诱拐, 绑架, 使外展
-[医] 外展, 展"
+abduct,"v. 绑架；劫持；【医】外转；使外展
+[网络] 诱拐；拐走；拐骗"
 abduction,"n. 诱拐, 绑架, 外展
 [医] 外展, 展"
 abductor,"n. 诱拐者, 绑架者, 外展肌
@@ -51,7 +51,7 @@ abscess,"n. 脓肿
 vi. 形成脓肿"
 absolute,"a. 绝对的, 专制的, 完全的, 独立的
 n. 绝对事物"
-absolutely,adv. 绝对地；完全地
+absolutely,"adv. 完全地, 绝对地, 确确实实地"
 absorb,"vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担
 [医] 吸收"
 absorbable,"a. 可吸收的, 容易被吸收的
@@ -99,19 +99,21 @@ accentuate,"vt. 以重音念, 强调, 重读"
 acceptable,"a. 可接受的, 合意的, 可忍受的"
 acceptor,"n. 接受者, 承兑人, 接收器
 [化] 接纳体; 接受体; 受体; 受主; 被诱物"
-access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
-vt. 访问, 存取, 接近, 使用
-[计] 访问, 存取"
+access,"v. 进入；〈正式〉到达；【IT】获得或储存(电脑文件)
+n. 通道；入口；机会；权力
+[网络] 访问权；连接开始；数据库之类的"
 accessibility,"n. 易接近, 可进入
 [化] 可及性; 可达性; 可接近性; 吸湿性"
 accessible,"a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
 accessory,"n. 附件, 零件, 附加物, 从犯, 同谋
 a. 附属的, 补充的, 同谋的, 帮凶的, 非主要的, 副的
 [计] 附件"
-accident,[网络] 意外事故；意外
+accident,"n. 意外事件, 机遇, 事故, 次要方面
+[化] 意外事故; 事故"
 accidental,"a. 意外的, 偶然的, 非主要的, 附属的
 n. 临时记号, 次要方面"
-acclimatization,驯化〔作用〕
+acclimatization,"n. 服水土, 顺应, 适应环境
+[化] 驯化; 驯化作用; 适量沉淀"
 accommodate,"vt. 使适应, 调和, 通融, 容纳, 向...提供
 vi. 适应"
 accommodation,"n. 膳宿, 预订铺位, 适应性调节, 调和, 贷款
@@ -123,9 +125,10 @@ accord,"n. 一致, 调和, 协定
 vt. 给与, 使一致
 vi. 相符合"
 accordance,"n. 一致, 和谐"
-account,"n. 账户；解释；账目，账单；理由
-vi. 解释；导致；报账
-vt. 认为；把…视为"
+account,"n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目
+vi. 报帐, 解释, 导致, 报偿, 占, 杀死
+vt. 认为
+[计] 帐户, 帐号"
 accredit,"vt. 信托, 确认, 归结于, 委派
 [经] 发行信用证, 信托, 委托"
 accretion,"n. 自然增大, 添加, 添加物, 连生
@@ -157,21 +160,25 @@ acetonuria,(=oxonuria)丙酮尿
 acetyl,"n. 乙酰(基)
 [化] 乙酰; 乙酰基"
 acetylator,[化] 乙酰化器
-acetylcholine,乙酰胆碱
-acetylcholinesterase,乙酰胆碱酯酶
+acetylcholine,"n. 乙酰胆碱
+[化] 乙酰胆碱"
+acetylcholinesterase,n. [生化]乙酰胆碱酯酶
 acetylcysteine,乙酰半胱氨酸
 acetylsalicylic,a. 乙酰水杨酸的
-acetyltransferase,乙酰转移酶
+acetyltransferase,"un. 乙酰转移酶
+[网络] 乙酰化酶；乙酰基转移酶"
 achalasia,n. [医]弛缓不能
 achieve,"vt. 完成, 达到
 vi. 如愿以偿"
 achlorhydria,n. [医]胃酸缺乏
 achondroplastic,[医] 软骨发育不全的
 achylia,胃液缺乏
-acid,酸
+acid,"n. 酸, 酸类物质, 尖刻, 迷幻药
+a. 酸的, 酸性的, 尖刻的, 敏锐的
+[计] 自动文档互参与索引生成程序"
 acidemia,"n. 酸血症
 [医] 酸血[症]"
-acid-fast,[医] 耐酸的
+acid-fast,"a. (结核菌)抗酸的,耐酸的"
 acidic,"a. 成酸的, 尖刻的, 酸性的
 [机] 酸性"
 acidification,"n. 使发酸, 酸化, 成酸性
@@ -208,7 +215,7 @@ acquired,"a. 获得的, 后天的
 [医] 获得的, 后天的"
 acquisition,"n. 获得, 获得物
 [经] 收购, 招揽, 取得"
-acroanesthesia,[医] [四]肢麻木
+acroanesthesia, 四肢麻木，肢端麻木，肢麻木
 acrocentric,a. & n.[生](染色体)近端着丝(的)
 acrocyanosis,n. [医]手足发绀
 acrognosis,[医] 肢体感
@@ -260,7 +267,9 @@ adaptin,[网络] 衔接蛋白；吞噬泡中接合素蛋白；蛋白与
 adaptive,"a. 适应的, 能适应的"
 adaptor,"n. 改编者, 插座, 转接器, 接合器, 拾音器
 [计] 适配器, 转接器"
-add,[网络] 度；新增；注意力缺陷症
+add,"vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
 addict,"vt. 使沉溺, 使上瘾
 n. 入迷的人, 上瘾者"
 addiction,"n. 入迷, 瘾
@@ -273,10 +282,12 @@ additive,"a. 添加的, 附加的, 加法的, 累积的
 n. 添加物"
 adduct,"vt. 使内收
 n. 加合物"
-adduction,[化] 加合离子
+adduction,"n. 引证, 内收
+[化] 氧化; 氧化作用; 内收; 内收作用"
 adductor,n. 【解剖学】收肌，内收肌；【动物学】肉柱，闭壳肌
 adenemphraxia,"腺梗阻,腺阻塞"
-adenine,腺嘌呤
+adenine,"n. 腺嘌呤
+[化] 腺嘌呤; 6-氨基嘌呤"
 adenitis,n. [医]腺炎
 adenocarcinoma,"n. 腺癌
 [医] 腺癌"
@@ -295,7 +306,8 @@ adenomyosis,[医] 子宫内膜异位
 adenopathy,"n. 腺病
 [医] 腺病"
 adenosarcoma,腺肉瘤
-adenosine,腺苷
+adenosine,"n. 腺苷
+[化] 腺嘌呤-9β-呋喃核糖苷; 腺苷"
 adenosis,n. [医] 腺病
 adenosquamous,n. 腺鳞状
 adenovirus,"n. 腺病毒
@@ -316,8 +328,7 @@ adhesion,"n. 附着, 粘着, 支持, 追随
 [化] 粘合; 粘附; 附着; 粘合力; 粘附力; 附着力"
 adhesive,"a. 粘着的, 涂有粘性物质的
 n. 粘合剂, 橡皮膏"
-ad hoc,"特别地
-[经] 特定, 专设, 临时"
+ad hoc,adj. （拉丁语）特别的；特定的；临时安排的
 adipocyte,n. 脂肪细胞
 adipocytokine,[网络] 脂肪细胞因子；脂肪细胞激素；脂肪细胞素
 adipokines,[网络] 脂肪因子；脂肪激素；脂肪细胞因子
@@ -374,7 +385,8 @@ adrenalin,"n. 肾上腺素
 [化] 肾上腺素"
 adrenergic,"adj. 【医】肾上腺素能的
 [网络] 肾上腺素的；肾上腺素性；肾上腺素能药"
-adrenocortical,[网络] 肾上腺皮质
+adrenocortical,"a. 肾上腺皮质的
+[医] 肾上腺皮质的"
 adrenocorticoid,"肾上腺类皮质激素,肾上腺皮质素"
 adrenocorticosteroid,"n. [生化]肾上腺皮质甾类,肾上腺皮质类固醇"
 adrenocorticotropic,"a. 促肾上腺皮质的
@@ -385,8 +397,9 @@ adrenogenital,肾上腺(性)生殖器的
 adriamycin,"n. [微]亚德里亚霉素,阿霉素(一种抗肿瘤药)"
 adsorption,"n. 吸附
 [化] 吸附"
-adult,"n. 成人, 成虫
-a. 成年的, 成熟的"
+adult,"n. 成人；长成体
+adj. 成年的；成熟的；理智的；成人的
+[网络] 成人诵读困；成人雨衣"
 adulterant,"a. 掺杂用的
 n. 掺杂物"
 advance,"n. 前进, 进展, 行过的路程
@@ -422,7 +435,8 @@ aerococcaceae,气球菌科
 aerogel,"[化] 气凝胶
 [医] 气凝胶[体]"
 aerosil,"一种高度分散的硅胶, 氧相二氧化硅"
-aerosol,"[机] 气溶胶, 湿剂"
+aerosol,"n. 烟, 雾
+[化] 气溶胶; 烟雾剂"
 aesculetin,"亭, 七叶内脂, 秦皮乙素, 6,7 二羟香豆素"
 afebrile,"a. 无热的
 [医] 无热的"
@@ -450,24 +464,32 @@ vt. 公开侮辱, 冒犯, 面对"
 afibrinogenemia,[医] 无纤维蛋白原血症
 aflatoxicosis,[医]黄曲霉毒素中毒
 aflatoxin,[化] 黄曲霉毒素
-afterbirth,胎衣；胞衣；后产
+afterbirth,"n. 胞衣
+[法] 遗腹子, 胎胞"
 afterbrain,"n. 后脑
 [医] 后脑; 菱脑"
 afterload,后负荷
-afterward,adv. 以后，后来
+afterward,"adv. 然后, 后来"
 agalactia,"[医] 乳汔缺乏, 无乳"
 agammaglobulinemia,"[医] 血γ-球蛋白缺乏, 缺γ-球蛋白血"
-agar,琼脂
+agar,"n. 琼脂, 石花菜
+[化] 琼脂"
 agastache,藿香
-age,comb. 表示数量;表示动作;表示身份;表示地方
+age,"n. 年龄；年龄段；时期；老年
+v. 变老；使显老；使变老；使苍老
+[网络] 时代；年纪；寿命"
 aged,"a. 老的, 陈的, 有...岁的
 [化] 老化的; 老化了的; 陈化的; 陈化了的"
 agency,"n. 代理机构, 经销商, 中介
 [化] 办事处"
 agenesis,"n. 无生殖力, 发育不全
 [医] 发育不全; 无生殖力"
-agent,[网络] 代理；智能体；软件代理
-agglomerate,集块岩
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
+agglomerate,"n. 大团, 大块
+a. 成块的, 聚结的
+vt. 使成团, 使成块, 使聚结
+vi. 成团, 成块, 聚结"
 agglutinate,"a. 粘着的, 胶合的
 vt. 使...粘着
 vi. 粘合, 成胶状"
@@ -488,7 +510,8 @@ aggregation,"n. 集合, 聚合, 集合体
 aggressive,"a. 侵略的, 挑畔的, 进取的
 [法] 侵略的, 爱挑衅的, 行为过火的"
 aggressiveness,"n. (贬)侵略, 侵犯, 寻衅, (褒)敢作敢为, 有进取心, (武器)攻击性, 过分, 放肆"
-aging,[网络] 老化研究研究所；不要太快
+aging,"n. 老化, 变陈
+[计] 老化, 陈化"
 agitate,"vt. 使摇动, 搅动, 使激动, 使不安
 vi. 鼓动, 煽动"
 agitation,"n. 激动, 焦虑, 煽动, 搅动, 摇动
@@ -519,14 +542,15 @@ ainhum,[医] 阿洪病(自发性断趾病)
 air,"n. 空气；空中；天空；神态
 v. 晾；播出；播送；晾干
 [网络] 大气；执行环境(Adobe Integrated Runtime)；青空"
-airborne,"[经] 空运的, 非机上的"
-airspace,[医] 气腔
-airway,[机] 通风道
+airborne,"a. 升空的, 空运的, 空中传播的, 空降的"
+airspace,气室；大气空间；（冷藏车）空气壁；空（心）处
+airway,"n. 空中航线, 风道
+[医] 导气管"
 akathisia,n. [医]静坐不能
 akebiaquinata,木通
 akin,"a. 同类的, 同族的, 同源的"
 akinesia,"n. [医]运动不能,失运动能"
-ala,.....型式的
+ala,abbr. American Library Association 美国图书馆协会
 alarmingly,adv. 让人担忧地
 albinism,"n. 白化病
 [医] 白化病"
@@ -547,7 +571,8 @@ alcoholism,"n. 酗酒, 酒精中毒
 [化] 酒中毒"
 aldactone,"[化] 螺甾内酯
 [医] 螺内酯(螺旋内酯)"
-aldehyde,醛
+aldehyde,"n. 醛, 乙醛
+[化] 醛; 乙醛"
 aldolase,n. [生化]醛缩酶
 aldosterone,"n. 醛固酮
 [化] 醛甾酮"
@@ -573,8 +598,7 @@ alkali,"n. 碱
 a. 碱性的"
 alkaline,"a. 碱的, 碱性的
 [化] 碱的; 强碱的"
-alkalinity,"n. 碱度
-[化] 碱度; 碱性"
+alkalinity,n. [化学] 碱度；[化学] 碱性
 alkaloid,"n. 生物碱
 [化] 生物碱"
 alkaloidal,[医] 生物硷的
@@ -629,15 +653,18 @@ alopecia,"n. 脱发
 alpha,"n. 希腊字母表的第一个字母, 最初, 开端
 [医] α(希腊文的第一个字母), 甲种"
 alpha-fetoprotein, [医](AFP)甲胎蛋白，α胎儿蛋白
-alphainterferon, [医]α干扰素
-alpha-methyldopa,[网络] a-甲基多巴
+alphainterferon,n. 【药物】α—干扰素
+alpha-methyldopa,"[医] 甲基多巴, α-甲基二羟苯丙氨酸"
 alpinetin,山姜素
-alter,v. 改变
+alter,"v. 更改；修改（衣服使更合身）
+[网络] 改变；变更；改动"
 alterable,"a. 可变的, 可改的"
 alteration,"n. 变更, 改动
 [医] 变更"
-alternate,"a. 交替的, 轮流的, 间隔的
-v. 轮流, (使)交替"
+alternate,"v. 交替；轮流；使交替；使轮流
+n. 代理人；代替者；候补者
+adj. 交替的；轮流的；间隔的；每隔（…天等）的
+[网络] 互生"
 alternating,"a. 交互的
 [医] 交替的"
 alternative,"n. 两者择一, 供替代的选择
@@ -695,9 +722,9 @@ amine,comb.form [用于复合词词尾]= amino-:
 amino acid,n. [生化] 氨基酸
 aminoacid,n. [生化] 氨基酸
 aminoacidopathy,氨基酸病
-aminoglutethimide,氨鲁米特
+aminoglutethimide,[化] 氨鲁米特
 aminoglycoside,n. 氨基糖苷类
-aminophylline,氨茶碱
+aminophylline,n. [药]氨茶碱
 aminopterin,n. [药]氨喋呤
 aminopyrine,"n. 一种无色透明化合物,氨基比林"
 aminotransferase,[化] 氨基转移酶; 转氨酶
@@ -734,8 +761,8 @@ ample,"a. 大量的, 充足的, 丰富的"
 amplicon,扩增子
 amplification,"n. 扩大, 放大
 [化] 放大; 放大作用"
-amplifier,"n. 扩大的人(物), 放大器, 扩音器
-[计] 放大器"
+amplifier,"n. 放大器；放大器电路；【电】扩大器
+[网络] 扩音机；扩音器；功放"
 amplify,"vt. 增强, 放大, 扩大, 详述
 vi. 引伸"
 amplitude,"n. 广阔, 充足, 幅度
@@ -762,11 +789,13 @@ anabolic,"a. 合成代谢的
 [医] 组成代谢的, 同化的"
 anabolism,"n. 合成代谢
 [化] 合成代谢"
-anaerobe,厌氧性微生物
-anaerobic,厌氧的
-anal,"a. 肛门的, 肛门附近的
-[计] 分析员"
-analgesia,痛觉缺失
+anaerobe,"n. 厌氧菌
+[医] 厌氧菌"
+anaerobic,"a. 厌氧的, 在缺氧情况下生活的
+[化] 厌氧的"
+anal,abbr. analogous；analogy；analysis
+analgesia,"n. 止痛, 痛觉缺失
+[医] 痛觉缺失, 无痛法, 止痛法"
 analgesic,"a. 止痛的, 痛觉缺失的
 n. 止痛剂"
 analgin,[化] 安乃近
@@ -777,8 +806,8 @@ analogy,"n. 相似, 类似
 [计] 模拟"
 analyse,"vt. 分析, 细察, 分解
 [经] 分析"
-analysis,"n. 分析
-[计] 分析机; 分析员; 分析; 分析程序"
+analysis,"n. 分析结果；（对物质成分的）分析
+[网络] 进一步分析；模式分析；分析表明"
 anamnestic,"a. 记忆的, 回想的
 [医] 记忆的, 既往症的"
 anaphase,n. [生](细胞分裂的)后期
@@ -847,7 +876,7 @@ angelica,"n. 当归属植物
 angiitis,[医] 脉管炎
 angina,"n. 咽痛, 绞痛
 [医] 咽峡炎, 咽痛, 绞痛"
-angina pectoris,心绞痛
+angina pectoris,n. 心绞痛
 anginal,"[医] 咽峡炎的, 咽痛的, 绞痛的"
 angiocardiogram,n. [医]心血管X线照片
 angiocardiography,[医]心血管造影术
@@ -870,7 +899,8 @@ anhidrosis,"n. [医]汗缺乏, 缺汗症"
 anhydrase,"n. 脱水酶, 去水酶
 [化] 脱水酶"
 anicteric,[医] 无黄疸的
-animal,[网络] 动物
+animal,"n. 动物
+[医] 动物"
 animate,"vt. 使有生气, 赋予生命
 a. 有生命的, 有生气的"
 animation,"n. 活泼, 生气, 激励, 卡通制作
@@ -918,41 +948,45 @@ vi. 引起反抗"
 antecedent,"n. 前情, 先行词
 a. 先前的, 先行的"
 antegrade,"[医] 前进的, 顺行的"
-antemortem,[医] 死前
+antemortem,"n. 宰前；死前
+[网络] 宰前检验；屠宰前；生前"
 antenatal,"adj. 出生前的
 [网络] 产前；产前房"
-antepartum,"[医] 分娩前, 产前"
+antepartum,"a. 分娩前的, 生产前的"
 anterior,"a. 前面的, 先前的
 [医] 前的"
 anteriorly,"adv. 先前地；居先地；在前面, 在以前"
-anteroposterior,前后轴
+anteroposterior,[医] 前后的
 anterosuperior,[医] 前上的
 anterosuperiorly,[医]adv.在前上方
 anthelmintic,"a. 驱肠虫的
 n. 驱肠虫剂"
 anthrax,"n. 炭疽
 [医] 炭疽(脾脱疽)"
-antiandrogen,抗雄激素
-antiantibody,抗-抗体
-antiarrhythmic, 抗心律失常药
+antiandrogen,n. [生化]抗雄激素物质
+antiantibody,[医] 抗抗体
+antiarrhythmic,"a. [药]抗心律失常的,抗心律不齐的"
 antiatherosclerotic,抗动脉粥样硬化药[剂]
-antibacterial,抗菌的
+antibacterial,"a. 抗菌的
+n. 抗菌剂"
 antibiotic,"a. 抗生的；抗菌的
 n. 抗生素, 抗菌素"
-antibody,[机] 抗体
+antibody,"n. 抗体
+[化] 抗体"
 anticholinergic,a. 反副交感神经生理作用的
 anticholinesterase,n. [生化]抗胆碱酯酶(如毒扁豆碱)
 anticipate,"vt. 预期, 占先, 加速, 提前使用
 [医] 提前出现, 先期发生"
 anticipation,"n. 预期, 预料
 [医] 提前出现(如遗传病)"
-anticoagulant,[机] 阻凝剂
+anticoagulant,"n. 抗凝剂
+[化] 阻凝剂; 防凝剂; 抗凝剂; 石油抗凝剂; 抗凝血药"
 anticoagulation,n. 抗凝作用
-anticodon,反密码子
+anticodon,n. [生]反密码子
 anticomplement,[医] 抗补体
 anticonceptive,[医] 避孕剂
 anticongestive,无
-anticonvulsant,adj. 抗痉挛的，抗惊厥的
+anticonvulsant,"a. & n.抗惊厥的(药物),抗痉挛的(药物)"
 antidepressant,n. 抗抑郁药; 使人放松（或快乐）的事物；解忧良药
 antidiarrheal,"n. 止泻剂
 adj. 止泻的"
@@ -961,65 +995,78 @@ n. 制尿剂"
 antidote,"n. 解毒剂, 解毒药
 [化] 解毒药"
 antidysrhythmic,[医]抗节律不齐药，抗心律不齐药
-antiemetic,[网络] 止吐效果；镇吐药；止吐剂
+antiemetic,"a. [医]止呕吐的
+n. 止吐的药"
 antiendotoxin,抗内毒素单克隆抗体
-antiepileptic,抗癫痫药
+antiepileptic,"n. 镇癫痫剂
+[医] 抗癫痫的, 镇[癫]痫剂"
 antiestrogen,n. [药] 抗雌激素（一种能抑制雌激素的产生、活动及作用的物质）
-antifungal,抗真菌
+antifungal,"a. 抗真菌的
+[化] 杀真菌的; 杀真菌剂"
 antigen,"n. 抗原
 [化] 抗原"
 antigenic,"a. 抗原
 [医] 抗原的"
 antigenicity,"n. 抗原性
 [化] 抗原性"
-antihistamine,抗组织氨
+antihistamine,n. 抗组胺药
 antihistaminic,"[化] 抗组织胺药
 [医] 抗组胺的, 抗组胺剂"
-antihypertensive,抗高血压
+antihypertensive,"[化] 抗高血压药
+[医] 抗高血压的"
 anti-idiotype,n. 把另一种抗体视为抗原并抑制其免疫反应性的抗体
 Antiidiotypic,adj. anti-idiotype的变形
 antiinflammatory,"un. 抗炎的；消炎药；消炎的
 [网络] 抗发炎；消炎镇痛类产品；消炎效果"
-antimalarial, [医]抗疟疾药
+antimalarial,"[化] 抗疟的; 抗疟药
+[医] 抗疟的, 防治疟疾的"
 antimetabolite,n. [医]抗代谢物
-antimicrobial,n. 抗菌
+antimicrobial,"a. 抗菌的
+n. 抗菌剂"
 antimicrobic,"[医] 抗微生物的, 抗菌的"
 antimony,"n. 锑
 [化] 锑Sb"
-antimutagen,抗变剂
+antimutagen,抗诱变因素
 antineoplastic,[网络] 菠萝酶同时具有抗肿瘤；抗肿瘤
-antineutrino,反微中子
+antineutrino,[化] 反中微子
 antioncogene,"抗癌基因,抑癌基因"
-antioxidant,[机] 抗氧化剂
-antioxidation,[机] 抗氧化
-antiproliferative,[网络] 抗增生；细胞增殖
+antioxidant,"n. 抗氧化剂, 防老化剂
+[化] 抗氧剂; 抗氧化剂; 防老剂; 防老化剂"
+antioxidation,"抗氧化(作用), 氧化抑制(作用)"
+antiproliferative,[网络] 抗增殖的；反增殖性的；抗增生
 antiprostaglandin,[网络] 抗前列腺素；抗前列腺素活性
 antipruritic,"n. 止痒剂
 a. 止痒的, 防痒的"
 antipsychotic,"adj. 治疗精神病的，抗精神病的
 n. 安定药"
 antipyresis,退热(疗)法
-antipyretic,[网络] 退热药
+antipyretic,"a. 退热的
+n. 退热剂"
 antipyrine,n. 【药物】安替比林(解热镇痛药)
 antirachitic,a. [医]治疗佝偻症的
-antiretroviral,adj. 抗逆转录病毒的
-antirheumatic,抗风湿药
+antiretroviral," [医]抗逆转录病毒的, 抗后病毒的"
+antirheumatic,"n. [医]治疗风湿药剂
+a. 治疗风湿病的, 防风湿病的"
 antiscorbutic,"a. 抗坏血病的
 n. 抗坏血病的药剂"
-antisense,反义
+antisense,a. 反义的
 antisepsis,"n. 防腐, 抗菌
 [医] 抗菌[法]"
 antiseptic,"adj. 防腐的，抗菌的；非常整洁的
 n. 防腐剂，抗菌剂"
-antiserum,[网络] 抗血清
+antiserum,"n. 抗血清
+[化] (复antisera)抗血清"
 antisterility,[医] 抗不育的
 antistreptolysin,[医] 抗链球菌[溶血]素
-antithrombin,抗凝血酶
-antithyroid,[网络] 抗甲状腺
-antitoxin,n. 抗毒素；抗毒素血清
+antithrombin,"[化] 抗凝血酶
+[医] 抗凝血酶, 抗纤维蛋白酶"
+antithyroid,a. & n.抗甲腺的(药剂)
+antitoxin,"n. 抗毒素
+[医] 抗毒素"
 antituberculous,a. (药物等)抗结核的
-antitussive,是一种祛痰镇咳药
-antiulcer,抗溃疡
+antitussive,"a. 能止咳的, 能防咳的
+[化] 镇咳药"
+antiulcer,"a. (药物等)抗溃疡的,治溃疡的"
 antiviral,"a. 抗病毒的；抗滤过性病原体的
 n. 抗病毒物质（等于antidote）"
 antral,"a. 窦, 室, 房
@@ -1041,7 +1088,8 @@ aortic,"a. 主动脉的
 [医] 主动脉的"
 aortitis,[医] 主动脉炎
 aortoprosia,主动脉下垂
-apathetic,adj. 冷漠的；无动于衷的，缺乏兴趣的
+apathetic,"a. 缺乏感情的, 无动于衷的, 缺乏兴趣的
+[医] 无情[感]的, 淡漠的"
 apathy,"n. 无感情, 无兴趣, 冷漠
 [医] 无情[感], 淡漠"
 apelin,[网络] 脂肪细胞因子；活性多肽；脂肪炎症因子
@@ -1059,10 +1107,11 @@ apical,"a. 顶端的
 [医] 尖的, 尖端的"
 apicostomy,[医] [牙]根尖造口术
 aplasia,"n. [医]发育不全, 成形不完全,先天萎缩"
-aplastic,[网络] 塑料
+aplastic,"a. 发育不全的, 再生障碍的
+[医] 发育不全的, 成形不全的; 再生障碍的"
 apnea,"n. 呼吸暂停, 窒息
 [医] 呼吸暂停, 窒息"
-apoenzyme,[网络] 酶蛋白
+apoenzyme,n. [生化]脱辅基酶蛋白
 apolipoprotein,n. [生化]阿朴脂蛋白
 apomorphine,"n. [药]阿朴吗啡,脱水吗啡"
 aponecrosis,无
@@ -1082,9 +1131,11 @@ appeal,"n. 恳求, 诉请, 上诉, 吸引力
 vi. 呼吁, 诉请, 要求, 上诉, 有吸引力
 vt. 将...上诉"
 appealing,"a. 有感染力的, 动人的, 恳求的"
-appear,"vi. 出现, 显得, 来到
-[法] 出庭, 到案, 出现"
-appearance,n. 外貌，外观；出现，露面
+appear,"v. 出现；显现；呈现；出版
+linkv. 似乎；显得；看来
+[网络] 显露；露面；看起来"
+appearance,"n. 出现, 露面, 外观, 外表, 出版
+[计] 外观, 版面"
 appendage,"n. 附加物, 附器
 [医] 附件, 附器"
 appendectomy,"n. 阑尾切除术
@@ -1111,8 +1162,8 @@ application,"n. 应用, 申请, 志愿书, 应用程序
 applicator,"[医] 声极(超声治疗用); 敷料器, 涂药器"
 applied,"a. 应用的
 [机] 应用的; 应用, 申请"
-apply,"vt. 涂, 应用
-vi. 申请, 适用"
+apply,"vt. 申请；涂，敷；应用
+vi. 申请；涂，敷；适用；请求"
 appraisal,"n. 评价, 估价
 [经] 评价, 评估"
 appraise,"vt. 评价, 估价
@@ -1124,11 +1175,11 @@ appreciation,"n. 感激, 赏识, 鉴别
 apprehension,"n. 理解, 忧惧, 逮捕
 [医] 领会"
 apprehensive,"a. 惴惴不安的, 敏悟的, 知晓的"
-approach,"n. 接近, 入门
-vt. 接近, 近似, 找...商量
-vi. 靠近"
-appropriate,"adj. 适当的
-vt. 占用；拨出"
+approach,"n. 方法；接近；路径；道路
+v. 接近；建议；接洽；着手处理
+[网络] 措施"
+appropriate,"a. 适当的
+[经] 适当的, 拨出, 占用"
 appropriateness,n. 适当；适合
 approval,"n. 赞成, 批准
 [化] 核准"
@@ -1141,7 +1192,8 @@ approximately,"adv. 大约, 大致, 近于
 [经] 大约, 近似"
 apraxia,"n. [医]运用不能症, 精神性失用症"
 aprotinin,[化] 抑肽酶
-apt,[医] 明矾沉淀类毒素
+apt,"a. 有...倾向的, 易于的, 恰当的, 聪明的
+[计] 自动数控语言, 自动图象传输, 自动程序控制, 自动程序设计工具"
 aptitude,"n. 资质, 才能, 自然倾向
 [医] 资质, 才能"
 aquacoat,乙基纤维素水分散体
@@ -1165,10 +1217,13 @@ arc,"n. 弧；弧形；弓形；【数】弧
 abbr. (=American Radio Corporation)美国无线电公司
 v. 作弧形运动；【科技】形成电弧
 [网络] 圆弧；弧光；弧线"
-arch," 表示“原始的”; 表示“统治者”, “首领”, “领导者”"
+arch,"n. 拱门, 拱形, 足弓
+vt. 使成弓形
+vi. 拱起, 成弓形
+a. 主要的, 调皮的, 傲慢无礼的, 狡猾的"
 archaea,n. 古生菌
-architecture,"n. 建筑学, 建筑式样
-[计] 体系结构"
+architecture,"n. 体系结构；建筑学；建筑设计；建筑风格
+[网络] 建筑学概论"
 archive,"vt. 把...存档
 n. 档案馆, 档案文件
 [计] 挡案库, 存档"
@@ -1189,7 +1244,8 @@ argon,"n. 氩
 aristogenesis,芒状发生
 aristogenics,(=eugenics)优生学
 armamentarium,[医] 医疗设备
-armpit,[医] 腋窝
+armpit,"n. 腋窝
+[医] 腋, 腋窝"
 aromatherapy,n. 用香料按摩
 aromatic,"a. 芬芳的
 [医] 芳香的; 芳香剂"
@@ -1205,8 +1261,9 @@ arrhythmia,"n. 心律不齐
 [医] 心律失常, 心律不齐, 无节律"
 arrhythmogenic,致心律失常性
 arseniasis,慢性砷中毒
-arsenic,"n. 砷, 砒霜
-[化] 砷As"
+arsenic,"adj. 砷的
+n. 砷
+[网络] 砒霜；砷盐；自然砷"
 arsenism,n. 慢性砷中毒
 arterial,"a. 动脉的, 脉络状的, 干线的
 [医] 动脉的"
@@ -1314,14 +1371,16 @@ assess,"vt. 估定, 对...征税, 评定
 [经] 估计, 估价, 确定(税款罚款等)的金额"
 assessment,"n. 评估, 估定, 评定的款额
 [化] 评估"
-assign,"vt. 分配, 指派, 赋值
-[计] 赋值"
+assign,"v. 指定；指派；转让；分派
+n. 【法】受让人
+[网络] 赋给；把…分配给"
 assimilate,"vt. 使同化, 吸收, 使相拟, 把...比作
 vi. 被吸收, 被同化"
 assist,"n. 帮助, 协助
 vt. 帮助, 促进
 vi. 协助, 参加"
-assistance,n. 援助，帮助；辅助设备
+assistance,"n. 协助, 援助
+[经] 援助, 帮助"
 assistant,"n. 助手, 助理, 助教
 a. 有帮助的, 辅助的, 助理的"
 associate,"n. 同伴, 伙伴, 关联的事物
@@ -1355,13 +1414,14 @@ astringent,"n. 收敛剂
 a. 收敛性的, 严厉的, 涩的"
 astrocyte,"[医] 星形[胶质]细胞, 蛛形细胞"
 astrocytoma,n. [医]星细胞瘤
-asymmetrical,对称[的]；不平衡[的]
+asymmetrical,"a. 不对称的, 偏位的
+[计] 非对称的, 不对称的"
 asymmetry,"n. 不匀称, 不对称
 [医] 不对称, 偏位"
 asymptomatic,"a. 无症状的
 [医] 无症状的"
-asynchronous,"a. 不同时的, 不同期的, 异步的
-[计] 异步的"
+asynchronous,"adj. 不同时存在（或发生）的；非共时的
+[网络] 异步；非同步；异步的"
 asystole,"n. 心搏停止
 [医] 心搏停止"
 ataxia,"n. 运动失调, 无秩序, 混乱, 动作机能不协调, 共剂失调
@@ -1406,14 +1466,16 @@ atresia,"n. 闭锁, 无孔
 atretic,[医] 闭锁的
 atrial,"a. 门廊, 心房
 [医] 房的, 前房的"
-atrioventricular,房室的
+atrioventricular,"a. 房室的
+[医] 房室的"
 atrium,"n. 中庭, 心房
 [医] 房, 前房"
 atrophic,"a. 萎缩的
 [医] 萎缩的"
 atrophy,"n. 萎缩, 萎缩症
 [医] 萎缩"
-atropine,阿托品
+atropine,"n. 阿托平, 颠茄硷
+[化] 阿托品"
 atropinization,n. [医]阿托品化( 指受阿托品影响而呈现的生理状态)
 attach,"vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚
 vi. 附属, 归属, 联系在一起
@@ -1438,14 +1500,14 @@ attenuate,"a. 纤细的, 稀薄的, 稀释的
 vt. 使减弱, 使纤细
 vi. 变稀薄, 变纤细, 减少
 [计] 衰减"
-attenuation,"n. 变稀薄, 变纤细, 衰减
-[计] 衰减"
+attenuation,"n. 减弱；稀释；【物】衰减；变细
+[网络] 衰减量；衰减作用；衰减值"
 attenuator,"n. 衰减器
 [化] 衰减器; 弱化子"
 attest,"vi. 证明, 表明, 作证
 vt. 为...作证"
-attitude,"n. 态度, 看法, 姿势
-[医] 体态, 姿势, 态度"
+attitude,"n. 态度；看法；我行我素的做派；姿势
+[网络] 态度决定一切；厉害；标志"
 attractant,"[医] 诱引剂, 吸引剂"
 attributable,a. 可归于...的
 attribute,"n. 属性, 标志, 定语
@@ -1455,12 +1517,12 @@ atypical,"a. 非典型的
 [医] 非典型的, 不标准的"
 audible,"a. 听得见的
 [电] 可闻的"
-audiometer,声频仪表
+audiometer,"n. 听力计, 听度计
+[医] 听力计"
 audiometric,"a. 听力测定的, 测听术的"
-audit,"n. 审计, 查帐
-vt. 查(帐), 旁听
-vi. 查账
-[计] 查帐; 审查; 检查"
+audit,"v. 审计；检查；〔美国〕(大学生)旁听(课程)
+n. 审计；(地主与佃户间的)决算
+[网络] 剧场椅"
 auditory,"a. 听觉的, 听觉器官的
 [医] 听[音]的, 听觉的"
 auger,"n. 螺旋钻, 木螺钻
@@ -1499,7 +1561,7 @@ autocrine, 自分泌
 autograft,"[化] 自身移植
 [医] 自体移植物"
 autohemolysis,[医] 自血溶解
-autoimmune,adj. 自身免疫的
+autoimmune,a. 自体/自身免疫的
 autoimmunity,"n. 自体/自身免疫
 [化] 自身免疫性"
 autointoxication,[医] 自体中毒
@@ -1537,22 +1599,26 @@ autoreactivity,[医]自身反应性
 autosomal,"[医] 正染色体的, 常染色体的"
 autosome,"n. 常染色体
 [化] 常染色体"
-autosuggestion, [医]自我暗示
+autosuggestion,"n. 自我暗示
+[医] 自我暗示"
 autotransplant,n. (=autograft)自体移植物
-autotransplantation,自身移植
+autotransplantation,"n. 自体移植
+[医] 自体移植[法]"
 autotroph,"n. [生]自养生物,靠无机物质生存的生物"
 autoxidation,"n. 自动氧化
 [化] 自氧化; 自动氧化作用"
 auxiliary,"n. 辅助者, 辅助物, 附属机构, 助动词
 a. 辅助的, 备用的"
-availability,定修期；可用率
-available,adj. 有效的，可得的；可利用的；空闲的
+availability,"n. 有效性, 可利用性, 可利用的人
+[计] 有效性; 可用性"
+available,"a. 可利用的, 可获得的, 有效的
+[医] 有效的, 可得的"
 avenue,"n. 大街, 途径, 林荫路"
 average,"n. 平均, 平均数, 一般水平, 海损
 a. 平均的, 中等的, 平常的
 vt. 算出...平均数, 平均做, 均分, 使平衡
 vi. 平均为, 呈中间色"
-avert,vt. 避免，防止；转移
+avert,"vt. 转开, 避免, 防止"
 avidity,"n. 热望, 急切, 利欲心
 [医] 贪婪癖"
 avirulent,"a. 无毒力的
@@ -1578,15 +1644,17 @@ axilla,"n. 腋, 腋窝
 [医] 腋, 腋窝"
 axillary,"a. 腋窝的, 腋生的
 n. 腋羽"
-axis,n. 轴；轴线；轴心国
+axis,"n. 轴
+[计] 坐标轴"
 axon,"n. 轴突
 [计] 轴索, 轴突"
 axonopathy,[网络] 轴突病变；轴突病理变化；神经轴病变
 axonotmesis,[医] 轴索断伤
 azathioprine,n. [药](硝基)咪唑硫嘌呤(一种免疫抑制剂)
-azide,叠氮
+azide,n. [化]叠氮化物
 azidothymidine,"n. 叠氮胸苷（抗病毒药, 用于治疗艾滋病）"
-azo,a. [植]含氮的
+azo,"adj. 【化】偶氮的
+[网络] 偶氮染料(azo-dye)；偶氮化合物(azo-compound)；蓝盘"
 azole,n. [化] 一氮二烯伍圜
 azone,[网络] 酮；A片区；月桂氮卓酮
 azoospermia,"n. [医]精子缺乏, 精子缺乏活力"
@@ -1599,10 +1667,13 @@ bacillus,"n. 杆菌, 细菌
 [医] 芽胞杆菌属, 杆菌属"
 bacitracin,"n. 杆菌肽
 [化] 杆菌肽"
-backache,背痛
-backbone,[医] 脊柱
-backflow,[化] 回流; 倒流; 开模缩裂
-background,[经] 背景
+backache,[网络] 下背痛
+backbone,"n. 脊椎, 志气, 骨干, 支柱
+[计] 主干网, 主干网点"
+backflow,"n. 逆流, 回流
+[医] 回流, 反流"
+background,"n. 背景, 背景资料
+[计] 背景, 后台"
 baclofen,[化] 巴氯芬; 氯苯氨丁酸
 Becquerel,"贝克勒尔(Antoine Henri, 1852-1908, 法国物理学家, 曾获1903年诺贝尔物理学奖)"
 bacteremia,"n. 菌血症
@@ -1617,7 +1688,7 @@ bactericide,"n. 杀菌剂
 [化] 杀菌剂"
 bactericidin,"杀细菌素, 杀菌抗体"
 bacterin,"n. 疫苗, 菌苗"
-bacteriocin,杀[细]菌素
+bacteriocin,"n. [微]细菌素(细菌分泌的抗菌物, 如大肠杆菌素)"
 bacteriological,"a. 细菌学的, 细菌学上的
 [医] 细菌学家, 细菌学者"
 bacteriologist,"n. 细菌学家
@@ -1639,16 +1710,21 @@ bacteriuria,"n. [医]细菌尿,菌尿症"
 bacteroides,类桿菌属; 拟桿菌属
 baicalin,"[化] 黄芩苷
 [医] 贝加灵, 黄岑甙"
-balance,[网络] 平衡；达到平衡
+balance,"n. 平衡, 差额
+vi. 平衡, 相等
+vt. 称, 权衡, 比较, 使平衡, 结算, 抵消"
 balanitis,[医] 龟头炎
 balanoposthitis,阴茎头包皮炎
 ballooning,[医] 气胀术
-ban,全颅底平面
+ban,"n. 禁令
+vt. 禁止, 取缔"
 bandage,"n. 绷带
 [化] 帘布筒; 实心轮胎; 紧带; 绷带"
-bandwidth,[化] 带宽
-bank,"n. 银行, 堤, 岸
-[医] 库"
+bandwidth,"n. 频带宽度, 通带宽度
+[计] 带宽, 频宽"
+bank,"n. 银行；岸；库；河畔
+v. 存款；把（钱）存入银行；（转弯时）倾斜飞行；堆积（某物）
+[网络] 银行存款"
 barbiturate,"n. 巴比土酸盐
 [化] 巴比妥类药物"
 bariatrics,n. 肥胖病学
@@ -1672,9 +1748,10 @@ base,"n. 底部, 垒, 基础, 基地
 vt. 以...作基础
 a. 卑鄙的, 低劣的
 [计] 基准"
-baseline,"基线
-[电] 基线"
-basement,n. 地下室；地窖
+baseline,"n. 基线, 基准
+[计] 基线, 基准"
+basement,"n. 地下室, 墙脚
+[化] 地下室"
 basic,"n. 基本原理, 要素, 基本规律
 a. 基本的, 碱性的
 (计算机)BASIC语言"
@@ -1683,22 +1760,27 @@ basidiospore,n. [植]担子孢子
 basophilia,"[医] 嗜硷性, 嗜硷细胞增多[症]"
 bathe,"vt. 沐浴, 用水洗
 vi. 洗澡"
-battery,"n. 电池, 殴打
-[化] 蓄电池"
+battery,"n. 电池；炮组；炮列；【法】殴打
+[网络] 电池灯；直流电源"
 Bdellovibrio,蛭弧菌属
 beam,"n. 横梁, 杆, 光线, 容光焕发
 vi. 用梁支承, 微笑, 射出光线
 vt. 照耀, 感到欣喜
 [计] 束"
-bear,[网络] 蚕豆
+bear,"n. 熊
+vt. 忍受, 支承, 产生, 怀有, 通过卖空使跌价
+vi. 忍受, 结果实, 压挤, 行进, 转向"
 beargall,无
 bearing,"n. [机] 轴承；关系；方位；举止
 v. 忍受（bear的ing形式）"
 beclomethasone,"n. [药]氯地米松,倍氯米松( 一种用于治疗气喘的吸入剂)"
 becquerel,"贝克勒尔(Antoine Henri, 1852-1908, 法国物理学家, 曾获1903年诺贝尔物理学奖)"
-bedpan,"[医] 便盆, 便盘"
-bedsore,[医] 褥疮
-beeswax,[网络] 蜜腊；蜂蜡；蜂腊
+bedpan,"n. 便盆, 暖床用长柄炭炉
+[医] 便盆"
+bedsore,"n. 褥疮
+[医] 褥疮"
+beeswax,"n. 黄蜡
+[网络] 蜂蜡；蜜蜡；蜂腊"
 beforehand,[网络] 预先；事先；提前
 behavior,"n. 行为, 举止
 [医] 行为"
@@ -1713,7 +1795,7 @@ belly,"n. 腹部, 食欲
 vt. 使鼓起
 vi. 鼓起, 匍匐前进"
 benadryl,n. 伤风抗素剂的一种
-benchmark,[机] 水准点
+benchmark,n. 准基点（等于benchmark）
 beneficence,"n. 慈善, 善行, 赠物
 [经] 捐款"
 beneficial,"a. 有益的, 受益的
@@ -1721,8 +1803,7 @@ beneficial,"a. 有益的, 受益的
 benign,"a. 善良的, 良性的
 [医] 良性的"
 bentonite,n. <美>[地质]斑脱土(火山灰分解成的一种粘土)
-benzene,"n. 苯
-[化] 苯"
+benzene,1-allyl-4-hydroxy = chavicol
 benzidine,n. [化]对二氨基联苯
 benzoate,"n. 苯(甲)酸盐
 [化] 苯甲酸盐(或酯)"
@@ -1732,11 +1813,12 @@ benzoic,"a. 安息香的
 [医] 苯甲酸的, 安息香的"
 benzoin,"n. 安息香(树)
 [化] 苯偶姻; 安息香"
-benzopyrene,苯并芘
+benzopyrene,n. [化]苯并芘
 berberine,n. [化]黄连素
 bereave,"vt. 使孤寂, 使丧失, 使失去"
 bereavement,"n. 丧亲, 丧友"
-beriberi, 脚气
+beriberi,"n. 脚气病
+[医] 脚气[病]"
 beryllium,"n. 铍
 [化] 铍Be"
 beta,"n. 希腊字母表的第二个字母
@@ -1759,10 +1841,11 @@ bicarbonate,"n. 重碳酸盐
 bicuspid,"n. 双尖齿
 a. 双尖的"
 bidirectional,adj. 双向的；双指向性
-bidirectionally,双向地
+bidirectionally,"adv. 双向地, 双重地"
 bifendate,联苯双酯
 bifunctional,a. 具有两种(截然)不同功能的
-bilateral,adj. 双边的；有两边的
+bilateral,"a. 有两边的, 双边的, 双方的
+[医] 两侧的"
 bilaterally," [医]adv.两侧, 双向地"
 bilayer,[机] 双分子层
 bile,"n. 胆汁, 坏脾气, 暴躁
@@ -1776,7 +1859,7 @@ bilirubin,"n. 胆汁红素, 胆红素
 [化] 胆红素"
 bilirubinuria,胆红素尿
 billion,"num. 十亿, 十亿个"
-bimolecular,双分子
+bimolecular,"a. [化]双分子的, 有两个分子的"
 binder,"n. 捆缚者, 用以绑缚之物, 活页夹
 [化] 粘结剂"
 binding,"n. （书籍的）封皮；镶边；绲边；（滑雪板的）滑雪鞋固定装置
@@ -1791,37 +1874,41 @@ bioactivation,生物激活作用
 bioaerosol, 生物气溶胶
 bioaminergic,生物胺能的
 bioamplification,"生物放大,生物富集"
-bioassay,[医] 生物鉴定
+bioassay,"n. 生物鉴定, 活体检定, 生物测定
+[化] 生物测定"
 bioavailability,[化] 生物可利用率
-biochemical,生化
-biochemistry,[网络] 生物化学；生化；生化学
+biochemical,"a. 生物化学的
+[机] 生物化学的"
+biochemistry,"n. 生物化学
+[化] 生物化学; 生化"
 biocompatibility,"生物适应性, 生物配伍"
 bioconcentration,生物浓缩
 biodefense,[网络] 生物防卫；生物防护
 biodegradable,adj. 生物所能分解的，能进行生物降解的
 biodegradation,生物降解
-biodiversity,生物多样性
+biodiversity,n. 生物多样性
 biodynamics,"n. 生物动力学
 [医] 生物动态学, 生物力学"
 bioelectricity,[电] 生物电学
 bioencapsulation,[网络] 生物包埋
-bioenergetics,[医] 生物能量学
+bioenergetics,[复]n.[用作单]生物能学(研究活生物体中的能量转换)
 bioengineer, [医]生物工程师
-bioengineering,"生物工程
-生物工程学"
+bioengineering,"[计] 生物工程
+[化] 生物工程"
 bioenrichment,无
 bioequivalence, 生物等效性
 bioethics,n. 生物伦理学
-biofeedback,生物回馈
+biofeedback,[化] 生物反馈
 biofilm, 生物膜
 biogas,[机] 生物沼气
 bioinformatics,[网络] 生物资讯；生物信息学；生物资讯学
-biological,生物学的
+biological,"a. 生物学的
+[医] 生物学的"
 biologist,"n. 生物学家
 [医] 生物学家"
 biology,"n. 生物学
 [化] 生物; 生物学"
-biomacromolecule,生物巨分子
+biomacromolecule,"生物高分子, 生物大分子"
 biomagnification,n. [生]生物放大(作用)(指有毒化学物质在食物链各环节中的毒性渐进)
 biomarker, 生物标记
 biomedical,adj. 生物医学的
@@ -1831,17 +1918,20 @@ biomimetics, 生体模仿学
 biomonitoring, 生物监测
 bionic,"a. 超越人力的(速度/力量)
 [计] 仿生学"
-biopharmaceutical,生物制药
+biopharmaceutical,a. 生物制药学
 biopsy,"n. 活组织检查
 [医] 活组织检查"
 biopsychology,"生物心理学, 精神生物学"
 biopsychosocial,[网络] 社会；生物心理社会学的；社会层面
-biosphere,[网络] 生活的生物圈
-biostatistics,生物统计学；生物统计
+biosphere,"n. 生物圈
+[医] 生物圈, 生物层"
+biostatistics,"n. 生物统计学
+[计] 生物统计学"
 biosynthetic,a. 生物合成
 biotechnology,[网络] 生物科技；生物技术；生物技术简介
 bioterrorism,n. 生物恐怖主义
-biotic,a. 生物的；有关生命的
+biotic,"a. 生命的, 生物的
+[医] 生命的, 生物的, 生物区[系]的"
 biotin,"n. 生物素
 [化] 生物素; 维生素H"
 biotransformation,n. 生物转化
@@ -1851,13 +1941,16 @@ bipartite,adj. 双边的；由两部分构成的；一式两份的；双方的
 biphasic,[医] 二相性的
 biphenyl,"n. 联苯
 [化] 联苯; 联二苯; (误用,=biphenylyl)联苯基"
-bipolar,双极的
+bipolar,"a. 有两极的, 双极的
+[计] 双极性"
 birth,"n. 出生, 起源
 [医] 生产, 分娩"
 bisphosphonate, [医]二碳磷酸盐化合物
-bitter,"a. 苦的, 痛苦的, 怀恨的
-adv. 刺骨
-v. (使)变苦"
+bitter,"adv. 剧烈
+adj. 激烈而不愉快的；充满愤怒与仇恨的；愤愤不平的；令人不快的
+n. 苦啤酒（在英国很受欢迎）
+v. 把…弄苦；变苦
+[网络] 苦的；痛苦的；苦味"
 bivalent,"a. 二价的
 [化] 二价的"
 bladder,"n. 膀胱, 囊
@@ -1883,12 +1976,13 @@ bleeding,"n. 出血, 流血
 [化] 渗色"
 blemish,"n. 污点, 缺点
 vt. 弄脏, 玷污, 损害"
-bleomycin,[化] 博莱霉素; 争光霉素
+bleomycin,n. [药] 争光霉素，[微][药] 博来霉素
 bletilla,"白芨
 白芨属"
 blindness,"n. 盲目, 失明, 愚昧
 [医] 盲, 视觉缺失"
-blister,[网络] B咖
+blister,"n. 水疱
+[化] 砂眼"
 block,"n. 街区, 木块, 石块, 块
 vt. 阻塞, 封锁, 使成块状
 [计] 块, 数据块"
@@ -1899,7 +1993,8 @@ blockage,"n. 封锁, 妨碍
 [化] 堵塞"
 blocker,"n. 【体】体育比赛中；阻断器；〈俚〉圆顶硬礼帽
 [网络] 阻断剂；乙型阻断剂；预锻模膛"
-bloodstained, [医]沾染着血的; 血迹斑斑
+bloodstained,"a. 血污的, 犯杀人罪的
+[法] 犯杀人罪的, 血腥的, 有血痕的"
 bloodstream,"血流
 [医] 血流"
 bloody,"adj. 血腥的；非常的；嗜杀的，残忍的；血色的
@@ -1909,8 +2004,8 @@ blot,"n. 污点, 墨水渍
 vt. 乱涂, 使模糊, 吸干
 vi. 弄上墨渍, 吸墨水"
 blotting,[化] 印迹
-blueprint,"蓝图
-[法] 蓝图"
+blueprint,"n. 蓝图, 设计图, (周详的)计划
+vt. 制成蓝图, 计划"
 bluish,a. 带蓝色的
 blunt,"a. 钝的, 坦率的, 麻痹的"
 blur,"vt. 使模糊, 弄脏
@@ -1928,16 +2023,19 @@ boost,"n. 推进, 吹捧
 vt. 推进, 提高, 宣扬, 促进"
 booster,"n. 向前推的人, 支持者, 后援者, 升压器
 [化] 爆管; 扩爆药; 传爆药; 升压机; 增压装置; 升压器; 助促进剂"
-bootstrap,自举作用
+bootstrap,"n. 解靴带
+[计] 引导程序, 引导自举"
 borax,"n. 硼砂
 [化] 硼砂"
 border,"n. 边缘, 边境, 边界, 花坛
 vt. 在...上镶边, 接近
 vi. 接界, 近似
 [计] 边框"
-borderline,[法] 边界线
+borderline,"n. 边界, 界线
+a. 边界的"
 boredom,"n. 厌烦, 厌倦, 令人厌烦的事物"
-boric,"a. 硼的, 含硼的"
+boric,"adj. 【化】硼的
+[网络] 含硼素的；硼酸根；含硼的"
 borneol,"n. 龙脑, 冰片
 [化] 冰片; 龙脑; 内-2-莰烷醇; 内向-2-莰烷醇"
 borrelia,[微]包柔氏螺旋体菌
@@ -1962,23 +2060,27 @@ vi. 打起精神
 [计] 花括号"
 brachial,"a. 臂的, 臂状的
 [医] 臂的, 肱的"
-brachytherapy,近接治疗
+brachytherapy,n. [特医] 短距离放射治疗；短程疗法
 bradycardia,"n. 心动过缓, 心搏徐缓
 [医] 心搏徐缓"
 bradykinesia,[医]运动徐缓
 bradykinin,"n. [生化]缓激肽,血管舒缓激肽"
 bradyphrenia,[医]思想迟钝
-brain,"n. 脑
-vt. 打碎脑部"
+brain,"n. 脑；脑力；智力；（供食用的）动物脑髓
+v. 猛击…的脑袋致死
+[网络] 大脑；头脑；脑子"
 brainstem,"[医] 脑干, 节段装置"
-branch,comb.form 【脊椎动物学】表示“具有…鳃的”：lamellibranch
+branch,"n. 树枝, 支店, 支流, 分部
+vi. 分支, 出枝
+vt. 分割, 用枝状叶脉刺绣花纹装饰
+[计] 分支, 目录分支"
 breach,"n. 裂口, 违背, 破坏, 违反, 突破, 破裂
 vt. 攻破, 突破
 vi. 跳出水面"
-breakdown,"v. 分解；抛锚；分析；划分
-[网络] 损坏；出故障；瓦解"
-breakthrough,"突围, 突破
-[计] 断缺"
+breakdown,"毁掉, 制服, 压倒, 倒塌, 垮掉, 分解
+[化] 发生故障"
+breakthrough,"na. 【军】突破(点)；(科技等的)重大发现；关键问题的解决
+[网络] 穿透；穿通；打破"
 breast-fed,"un. 人乳哺育的
 [网络] 吃母奶的；喂食母乳；吃人奶长大的"
 breathe,"vi. 呼吸, 生存, 低语
@@ -1996,9 +2098,11 @@ bridging,"n. 造桥
 [电] 桥接"
 brittle,"a. 易碎的, 脆弱的, 易坏的
 [机] 脆的, 脆性的, 易碎的"
-broad-spectrum,[医] 广谱
-bromate,"vt. 使溴化
-n. 溴酸盐"
+broad-spectrum,"adj. 【物】宽谱的
+[网络] 广谱"
+bromate,"n. 【化】溴酸盐
+v. 使与溴化合
+[网络] 用溴处理；溴酸根；时测定"
 bromocriptine,"n. [药]溴麦角环肽,溴麦角隐亭"
 bronchial,"a. 支气管, 细支气管
 [医] 支气管的"
@@ -2011,11 +2115,12 @@ bronchiolitis,[医]细支气管炎
 bronchitis,"n. 支气管炎
 [医] 支气管炎"
 bronchoconstriction,"n. [医]支气管缩小,支气管狭窄"
-bronchodilatation,支气管扩张
+bronchodilatation,"[医] 支气管扩张, 支气管扩张术"
 bronchodilator,"[医] 支气管扩张药, 支气管扩张器"
 bronchogenic,"a. 支气管原的,产生于支气管的, 影响支气管的"
 bronchography,n. [医]支气管造影( 术)
-bronchopneumonia,支气管肺炎
+bronchopneumonia,"n. 支气管肺炎
+[医] 支气管肺炎, 小叶性肺炎"
 bronchopulmonary,a. [解]支气管肺的
 bronchoscope,"n. 支气管镜
 [医] 支气管镜"
@@ -2042,13 +2147,15 @@ buccal,"a. 颊的, 口的, 口腔的
 [医] 颊的"
 buccally,[医] 向颊
 bucking,"[机] 浸渍, 浸润"
-bud,[计] Quicken的备份磁盘
+bud,"n. 芽, 花蕾
+vi. 发芽, 萌芽
+vt. 使发芽"
 budding,"a. 萌芽的, 发育期的, 初露头角的
 n. 发芽"
 budesonide,[化] 布地奈德; 丁地去炎松
-buffer,"n. 缓冲器, 缓冲区
-vt. 缓冲
-[计] 缓冲区, 缓冲器"
+buffer,"v. 缓存；保护；减缓（伤害）；使不受…的侵害
+n. 缓冲器；缓冲物；起缓冲作用的人；缓存区
+[网络] 和缓冲管理法"
 building,"n. 建筑；建筑物
 v. 建筑；建立；增加（build的ing形式）"
 bulbogastrone,[化] 球抑胃素
@@ -2074,20 +2181,22 @@ burden,"n. 负担, 重载, 担子, 责任
 vt. 装货于, 烦扰, 使负担"
 burdock,"n. 牛蒡
 [医] 牛蒡[根]"
-burn,"vt. 烧, 烧毁, 烧伤
-vi. 燃烧, 发热, 烧毁
-n. 烧伤, 烙印"
+burn,"v. 烧伤；燃烧；烫伤；烧着
+n. 烧伤；烫伤；灼伤；烧（或烫、灼）的痕迹
+[网络] 够丢人；燃烧的棕榈"
 burning,"a. 燃烧的, 象燃烧一样的
 n. 烧, 燃烧"
 bursa,"n. 囊, 黏液囊
 [医] 囊, 粘液囊, 伞(昆虫)"
 bursitis,"n. 黏液囊炎
 [医] 粘液囊炎, 滑囊炎"
-butazone,泰宗
+butazone,[化] 丁氮酮
 buttock,"n. 半边臀部, 屁股, 船尾突出部
 vt. 过背摔"
-bypass, 旁路，绕道
-by-product, 副产品，副产物
+bypass,"n. 旁路
+vt. 省略, 绕过, 忽视, 回避"
+by-product,"n. 副产品, 额外收获, 意外收获
+[计] 副产品"
 byssinosis,n. 绵纤维吸入性肺炎
 cable,"n. 电缆, 海底电报, 缆, 索
 vi. 打海底电报
@@ -2106,8 +2215,10 @@ cadence,"n. 韵律, 抑扬, 调子, 节奏
 cadherin, 钙黏着蛋白
 cadmium,"n. 镉
 [化] 镉Cd"
-caffeine,咖啡因；咖啡硷
-calamine,异极矿
+caffeine,"n. 咖啡因, 咖啡碱
+[化] 咖啡因; 咖啡碱"
+calamine,"[化] 异极矿; 炉甘石
+[医] 炉甘石, 异极石"
 calamus,"n. 菖蒲, 白藤, 羽根
 [化] 菖蒲(Acorus calamus)"
 calcaneocuboid,[医] 跟骰的
@@ -2153,7 +2264,7 @@ calm,"n. 平稳, 风平浪静
 a. 平静的, 冷静的
 vi. 平静下来, 镇静
 vt. 使平静"
-calmodulin,n. [生化] 钙调蛋白；携钙素
+calmodulin,[化] 钙调蛋白; 钙结合调节剂蛋白
 calnexin,[网络] 钙联蛋白；钙联结蛋白；钙连接蛋白
 calomel,"n. 甘汞
 [化] 甘汞; 氯化亚汞"
@@ -2164,23 +2275,28 @@ calreticulin,[网络] 钙网蛋白；钙网织蛋白；钙网素
 calsequestrin,[化] 肌集钙蛋白
 camera,"n. 照相机, 摄影机, 密谈室, 暗箱
 [计] 摄影"
-camphor,"樟脑,莰酮-2"
-camphorwood,n. 樟木
+camphor,"n. 樟脑
+[化] 樟脑"
+camphorwood,"na. 樟木
+[网络] 香樟木；樟树"
 camptodactyly,[医] 屈曲指
 camptomelic,肢弯曲的
 campylobacter,n. 弯曲菌
 campylobacteriosis,弯曲菌病
-canal,"n. 运河, 水道, 管, 沟渠
-vt. 开运河"
+canal,"n. 运河；[地理] 水道；[建] 管道；灌溉水渠
+vt. 在…开凿运河
+n. (Canal)人名；(英、法、西、意、葡)卡纳尔；(土)贾纳尔"
 canalicular,"a. [动][植]小管的,微管的, 似小管的,似微管的"
 canaliculus,"n. 小管, 微管
 [医] 小管"
-cancer,康斯河
+cancer,"n. 癌, 恶性肿瘤
+[医] 癌"
 cancerous,"a. 癌的, 似癌的, 生癌的
 [医] 癌性的"
 cancrum,[拉](坏疽性)溃疡
 Candida,[医] 念珠菌属
-candidate,n. 候选人，候补者；应试者
+candidate,"n. 候选人, 投考者
+[法] 候选, 候补者"
 candidiasis,[医] 念珠菌病
 candidosis, 念珠菌病
 candiduria,念珠菌尿
@@ -2188,7 +2304,8 @@ canid,n. [动]犬科动物(包括家犬、狼、狐等)
 cannabinoid,"n. 大麻的化学成分（可指任何一种, 如四氢大麻醇、大麻醇等）"
 cannabis,"n. 大麻
 [化] 大麻"
-cannula,插管
+cannula,"n. 套管
+[医] 套管, 插管"
 cantharides,n. [药]干斑蝥(粉)
 capability,"n. 能力, 性能, 约束力
 [化] 能力"
@@ -2200,21 +2317,25 @@ capillarization,"n. 毛细血管化
 [网络] 毛细化；窦毛细血管化；窦壁毛细血管化"
 capillary,"n. 毛细管
 a. 毛状的, 毛细管的"
-capital,"n. 首都, 大写字母, 资本
-a. 首都的, 重要的"
+capital,"n. 资本；资金；首都；大写字母
+adj. 死刑的；大写的；顶好的；极好的
+[网络] 资产；首府；省会"
 capitellum,(骨的)小头
 capping,"[医] 髓盖, 盖髓术, 盖髓物"
 capsid,n. 衣壳
-capsule,密封舱
-capture,[网络] 利益集团捕获
+capsule,"n. 胶囊, 蒴果, 瓶帽, 航天舱
+[化] 胶囊剂"
+capture,"n. 抓取, 战利品, 捕获之物
+vt. 抓取, 获得, 迷住
+[计] 截获命令"
 Caralluma,[网络] 水牛角属；水牛掌属；紫龙角
 caramel,"n. 焦糖, 卡拉梅尔糖
 [化] 焦糖; (俗称)酱色; (俗称)糖色"
 carbachol,"n. [药]卡巴可,氯化氨甲酰胆碱,碳酰胆碱"
 carbamazepine,[化] 卡马西平; 酰胺咪嗪
 carbenicillin,n. [微]羧苄青霉素
-carbide,"n. 碳化物
-[化] 碳化物; 碳化钙; 电石"
+carbide,"n. 电石；【化】碳化物；碳化钙
+[网络] 炭化物；硬质合金；碳化合金"
 carbodiimide,[化] 碳(化)二亚胺(HN:C:NH)
 carbohydrase,n. [生化]糖酶
 carbohydrate,"n. 碳水化合物, 糖类
@@ -2222,13 +2343,13 @@ carbohydrate,"n. 碳水化合物, 糖类
 carbomer,[网络] 卡波姆；卡波莫；卡波姆胶
 carbon,"n. 碳, 副本, 复写纸
 [化] 碳"
-carbon dioxide,"二氧化碳
-[化] 二氧化碳"
+carbon dioxide,"n. 二氧化碳
+[网络] 二氧化碳吸收体"
 carbonic,"a. 碳的, 由碳得到的
 [医] 碳的"
 carboplatin,n. 卡波铂
 carbopol,聚羧乙烯; 聚羧乙烯
-carboxyhaemoglobin,碳氧血红蛋白
+carboxyhaemoglobin,[化] 碳氧血红蛋白
 carboxylase,n. [化]碳酸酵素
 carboxylation,"[化] 羧基化; 羧化; 羧化作用
 [医] 羧化[作用]"
@@ -2256,7 +2377,8 @@ cardiac,"n. 心脏病患者, 强心剂, 健胃药
 a. 心脏的, (胃的)贲门的"
 cardinal,"n. 红衣主教, 鲜红色
 a. 主要的, 深红色的"
-cardioaccelerator,[医] 心动加速剂
+cardioaccelerator,"n. 【药理学】心脏搏动加速器；心动加速剂
+adj. 心动加速的；加速心脏搏动的"
 cardiogenic,"a. 心原性的, 心脏发生的
 [医] 心原性的, 心脏发生的"
 cardioinhibitory,[医] 心动抑制的
@@ -2270,11 +2392,13 @@ cardioplegia,"[医] 心麻痹, 心瘫痪"
 cardiopulmonary,"a. 心肺的
 [医] 心肺的"
 cardioregulatory,心脏调节的
-cardiorespiratory,[网络] 心肺的
+cardiorespiratory,"a. 心和肺的, 心脏呼吸的
+[医] 心脏呼吸的"
 cardiotonic,"a. 强心的, 强心剂
 n. 强心的, 强心剂"
 cardiotoxicity,[网络] 心脏毒性；心肌毒性；心脏中毒
-cardiovascular,adj. 心血管的
+cardiovascular,"a. 心血管的
+[医] 心血管的"
 cardioversion,"n. [医]心律转变法,复律法"
 carditis,"n. 心脏炎
 [医] 心炎"
@@ -2286,7 +2410,8 @@ carminative,"a. 排出胃肠气体的
 n. 驱风止痛剂"
 carnitine,"[化] 卡尼汀; 肉碱; 肉毒碱
 [医] 肉毒硷, 三甲基羟基丁酰甜菜硷"
-carotene,n. 胡萝卜素（等于carotin）
+carotene,"n. 胡萝卜素
+[网络] 类胡萝卜素；胡罗卜素；叶红素"
 carotid,"n. 颈动脉
 a. 颈动脉的"
 carotin,n. (=carotene)[生化]胡罗卜素
@@ -2302,14 +2427,15 @@ vi. 成瀑布落下
 [计] 层叠, 级联"
 casein,"un. 下套管
 [网络] 酪蛋白"
-caseous,"a. 干酪的
-[医] 干酪样的"
+caseous,"adj. 干酪(状)的
+[网络] 干酪的；干酪样的；凝成块的"
 caspase, [医]半胱天冬酶
 cast,"vt. 投，抛；计算；浇铸；投射（光、影、视线等）
 n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物
 vi. 投，抛垂钓鱼钩；计算，把几个数字加起来
 n. (Cast)人名；(法)卡斯特"
-castorbean,[医] 蓖麻子
+castorbean,"na. 〈美〉蓖麻(子)
+[网络] 蓖麻子；蓖麻籽；蓖麻子豆"
 castration,"n. 去雄蕊, 修正, 阉割
 [医] 阉, 阉割(睾丸或卵巢切除术)"
 casual,"a. 偶然的, 不经意的, 便装的
@@ -2334,7 +2460,8 @@ catarrh,"n. 黏膜炎, 卡他
 [医] 卡他, 粘膜炎"
 catarrhal,"a. 卡他, 粘膜炎
 [医] 卡他性的"
-catecholamine,儿茶酚胺
+catecholamine,"n. 儿茶酚胺, 邻苯二酚胺
+[化] 儿茶酚胺"
 catechu,"n. 儿茶
 [医] 儿茶"
 categorically,"adv. 无条件, 绝对, 明白, 断言, 明显, 明确, 范畴"
@@ -2394,8 +2521,8 @@ cefuroxime,[化] 头孢呋辛
 Celastrol,[建] 南蛇藤醇
 cell,"n. 细胞；电池；牢房；基层组织
 [网络] 单元；单元格；信元"
-cellular,"a. 细胞的
-[医] 细胞的"
+cellular,"adj. 细胞的；由细胞组成的；（无线电话）蜂窝状的；网状的
+[网络] 一线生机"
 cellularity,"n. 细胞性, 细胞结构
 [医] 细胞构成"
 cellulitis,"n. 蜂窝织炎
@@ -2414,7 +2541,8 @@ centenary,"n. 一百年
 a. 一百年的"
 centigrade,"a. 百分度的, 摄氏的
 [医] 百分度"
-centimeter,[网络] 公分；厘米
+centimeter,"n. 厘米
+[医] 厘米"
 centimorgan,[遗]厘摩(基因交换单位)
 centrally,"adv. 在中心, 在中央"
 centrifuge,"n. 离心机
@@ -2434,8 +2562,9 @@ cephalosporin,"n. 头孢菌素
 ceramide,n. [生化]神经酰胺
 cercaria,"n. 摇尾幼虫, 尾蚴
 [医] 尾蚴"
-cereal,"n. 谷类食品, 谷类植物
-a. 谷类的"
+cereal,"n. 谷物；谷类植物；（常加牛奶作早餐用的）谷类食物
+adj. 谷类制成的
+[网络] 粮食；麦片就解决了；麦片粥"
 cerebellum,"n. 小脑
 [医] 小脑"
 cerebral,"a. 脑的, 大脑的
@@ -2443,7 +2572,8 @@ cerebral,"a. 脑的, 大脑的
 cerebritis,"n. 大脑炎
 [医] 大脑炎, 脑炎"
 cerebroside,n. [生化]脑苷脂
-cerebrospinal,adj. 脑脊髓的
+cerebrospinal,"a. 脑脊髓的
+[医] 脑脊髓的"
 cerebrovascular,adj. 脑血管的
 cerebrum,"n. 大脑
 [医] 大脑"
@@ -2452,8 +2582,8 @@ certainty,"n. 确定, 确实的事情
 [法] 确定, 肯定, 必然的事"
 certificate,"n. 证书, 证明书
 vt. 发给证明书, 用证书批准, 用证书证明"
-certification,"n. 证明
-[经] 证明"
+certification,"n. 证书；证明；检定；合格证
+[网络] 认证"
 certify,"v. 证明, 保证"
 ceruloplasmin,n. [生化]血浆铜蓝蛋白
 cervical,"a. 颈的, 子宫颈的
@@ -2461,7 +2591,8 @@ cervical,"a. 颈的, 子宫颈的
 cervicitis,n. 子宫颈炎
 cervix,"n. 器官的颈部, 颈
 [医] 颈, 子宫颈"
-cesarean,"a. 凯撒的, 皇帝的"
+cesarean,"adj. 同“Caesarean”
+[网络] 剖腹产；剖腹产的；剖腹产术的"
 cessation,"n. 停止
 [法] 中止, 中断, 停止"
 cetirizine,[网络] 西替利嗪；西替立嗪；盐酸西替利嗪
@@ -2469,18 +2600,20 @@ chain,"n. 链条；链子；锁链；一系列
 v. 用锁链拴住（或束缚、固定）
 [网络] 连锁；一连串；项圈"
 chalazion,[医]睑板腺囊肿
-challenge,"n. 挑战, 盘问
-vt. 向...挑战, 要求, 怀疑
-vi. 挑战, 对(证据等)表示异议"
-chamber,"n. 室, 房间, 枪膛
-vt. 装(弹药), 把...关在室内
-a. 室内的"
+challenge,"n. 挑战；质疑；质询；挑战书
+v. 考查；盘问；对…怀疑（或质疑）；拒绝接受
+[网络] 挑战啊"
+chamber,"n. 室；卧室；寝室；会议厅
+v. (枪上)装(子弹)；禁闭；使有房间
+adj. 秘密的；【乐】在小厅内表演的
+[网络] 会议室；议院；腔"
 chamoishorn,无
 chancre,"n. 下疳, 初疮
 [医] 下疳"
 chancroid,"n. 软下疳
 [医] 软下疳"
-changeability,n. 可变性；易变性
+changeability,"n. 可变性
+[建] 变易性"
 channel,"n. 海峡, 航道, 频道
 vt. 引导, 在...上挖沟, 形成河道
 [计] 信道, 通道"
@@ -2497,7 +2630,8 @@ vi. 逐项相符, 开支票
 [计] 复选"
 checklist,"[计] 校验表, 检验表, 对照表
 [化] 检验单; 检查表"
-checkpoint,[电] 核对点
+checkpoint,"n. 检查站
+[计] 检查点"
 chelation,[化] 螯合作用; 螯环化
 chemerin,[网络] 趋化素；分泌异常水平的趋化素
 chemobiodynamics,化学生物动力学
@@ -2520,13 +2654,16 @@ chest,"n. 胸, 胸部, 衣柜, 箱子
 chew,"vt. 咀嚼, 嚼碎
 vi. 咀嚼, 细想
 n. 咀嚼, 咀嚼物"
-chiasma,交叉
-chicken-pox,水痘
-childbearing,"生孩子,分娩"
-chill,"n. 寒冷, 寒意, 失意
-a. 寒冷的, 冷漠的
-vt. 使寒心, 冷冻
-vi. 变冷"
+chiasma,"n. 交叉
+[医] 交叉"
+chicken-pox,"na. 【医】鸡痘
+[网络] 水痘"
+childbearing,"n. 分娩
+[医] 分娩, 生产"
+chill,"n. 寒冷；寒意；受寒；凉意
+v. 使很冷；使冰冷；（使）冷却；（被）冷藏
+adj. 寒冷的；冷飕飕的；阴冷的
+[网络] 使变冷；寒战；使寒冷"
 chimera,"n. 客迈拉(狮头、羊身、蛇尾的吐火女怪), 假想的妖怪, 妄想
 [医] 嵌合体"
 chimeric,"a. 妄想的, 荒诞不经的"
@@ -2556,7 +2693,7 @@ chlorobutanol,"[化] 三氯叔丁醇; 氯丁醇
 [医] 三氯叔丁醇, 氯丁醇"
 chlorocresol,氯化甲酚
 chloroethylnitrosourea,无
-chlorofluorocarbon,n. 含氯氟烃(CFC)
+chlorofluorocarbon,n. <化>含氯氟烃（即破坏臭氧层的CFC）
 chloroform,"n. 氯仿
 vt. 用氯仿麻醉"
 chloroma,"绿色白血病, 绿色瘤"
@@ -2574,9 +2711,9 @@ chlortetracycline,"n. 氯四环素, 金霉素
 [化] 金霉素"
 chocolate,"n. 巧克力
 a. 巧克力制的"
-choke,"vt. 窒息, 阻塞, 噎, 抑制
-vi. 窒息, 阻塞, 噎
-n. 窒息, 噎, 阻气门"
+choke,"n. 窒息；哽噎；（车辆发动机的）进气门；哽噎声
+v. 阻塞；哽噎；使窒息；（尤指感情激动而）说不出话来
+[网络] 扼流圈；阻风门；噎住"
 cholangiocarcinoma," 肝胆管型肝癌, 肝外胆管癌, 肝小胆管癌"
 cholangiography,"n. 胆管造影术
 [医] 胆管造影术"
@@ -2594,7 +2731,7 @@ cholecystokinin,"n. [生化]缩胆囊素,缩胆囊肽, 肠促胰酶肽"
 cholecystostomy,n. [医]胆囊造口术
 cholecystotomy,[医] 胆囊切开术
 choledocholithiasis,[医] 胆总管石病
-cholelithiasis,胆石
+cholelithiasis,n. [医]胆石病
 cholera,"n. 霍乱
 [医] 霍乱"
 choleretic,利胆剂
@@ -2608,7 +2745,7 @@ n. 胆碱能药, 拟副交感神经药"
 cholinesterase,"n. 胆碱酯酶
 [医] 胆硷酯酶"
 chondral,a. 软骨的
-chondroblastoma,软骨母细胞瘤
+chondroblastoma,[医] 成软骨细胞瘤
 chondrocyte,[医] 软骨细胞
 chondrodysplasia,"[医]软骨发育异常, 软骨发育不良"
 chondrolysis,[医] 软骨溶解
@@ -2620,7 +2757,7 @@ chorea,"n. 舞蹈病
 choreiform,a. [医]舞蹈病样的
 choreoathetoid,[医] 舞蹈病手足徐动症样的
 chorioamnionitis,绒毛膜羊膜炎
-choriocarcinoma,绒毛膜瘤
+choriocarcinoma,n. [医]绒(毛)膜癌
 chorio-epithelioma,"[医] 绒[毛]膜上皮癌, 绒[毛]膜瘤"
 chorion,"n. 绒毛膜, 浆膜, 卵壳
 [医] 绒[毛]膜"
@@ -2669,7 +2806,7 @@ chyluria,[医] 乳糜尿
 chymotrypsin,"n. 胰凝乳蛋白酶, 糜蛋白酶
 [化] 胰凝乳蛋白酶; 糜蛋白酶"
 cicatricial,a. [医][植]瘢痕的
-cigarette,n. 香烟；纸烟
+cigarette,"n. 香烟, 纸烟"
 ciliary,"a. 眼睫毛的, 纤毛的, 纤毛状的
 [医] 睫状的, 睫的"
 ciliate,"a. 有睫的, 有纤毛的
@@ -2702,9 +2839,9 @@ circumscribe,"vt. 在...周围画线, 限制"
 circumstance,"n. 环境, 状况, 事件"
 cirrhosis,"n. 肝硬化
 [医] 硬变; 肝硬变"
-cisplatin,"顺二氯二氨铂,顺铂"
+cisplatin," [医]顺-二氯二氨络铂, 顺铂, 顺氯氨铂, 氯氨铂"
 cis-platinum," [医][=cis-diamminedichloroplatinum]Ⅱ顺氯氨铂, 顺氯氨铂, 顺铂"
-cisterna,池；槽；腔
+cisterna,"n. [解] 池, 内胞浆网槽"
 cistron,"n. 顺反子, 作用子
 [化] 顺反子"
 cite,"vt. 引用, 引证, 表彰
@@ -2716,7 +2853,9 @@ citrullinemia,瓜氨酸血
 civilization,"n. 文明, 教化
 [法] 文明, 文化, 文明国家的总称"
 cladothrix,[医] 分支丝菌属
-claim,叫喊
+claim,"n. 要求, 要求权, 断言, 权利
+vt. 要求, 认领, 主张
+vi. 提出要求, 主张, 断言"
 clamp,"n. 夹钳
 vt. 夹紧, 强加"
 clarify,"vi. 澄清, 阐明
@@ -2724,7 +2863,8 @@ vt. 使明晰"
 clarithromycin, [医]克拉霉素：大环，内酯抗生素，对革兰氏阳性和阴性细菌的抗菌谱甚广，口服用于呼吸道以及皮肤和软组织感染的治疗
 clarity,"n. 清楚, 明晰
 [化] 透明度; 透明性; 清晰性"
-classical,"古典的,标准的,典型的"
+classical,"a. 古典的, 正统派的, 经典的
+[医] 古典的; 标准的, 典型的"
 classification,"n. 分类, 分级
 [化] 分级; 分粒; 分类"
 classify,"vt. 分类, 归类, 分等
@@ -2793,15 +2933,15 @@ vi. 乌云密布, 阴沉"
 cloudy,"a. 多云的, 有愁容的, 云的, 浑浊的
 [建] (混)浊的"
 clubbing,"[医] 杵状变(指,趾)"
-clue,"n. 线索, 暗示
-vt. 暗示, 提供线索"
+clue,"n. 提示；迹象；（纵横填字谜、游戏或问题的）提示词语
+v. 提示；为…提供线索
+[网络] 暗示；妙探寻凶；端倪"
 clump,"n. 丛, 块, 笨重的脚步声
 [计] 丛"
-cluster,"n. 串, 丛, 群, 簇
-vi. 成串, 丛生
-vt. 使聚集
-[计] 簇"
-coadministration,[法] 共同管理
+cluster,"n. 群集；簇；组；挂
+v. 集中；簇拥；(使)成群；(使)群集
+[网络] 聚集"
+coadministration,[网络] 作用程度分级为可以合用
 coaggregation,[网络] 细菌共凝集；共聚；共凝集作用
 coagulability,"n. 凝结力, 凝固性
 [化] 凝结力; 凝结性"
@@ -2816,7 +2956,9 @@ coagulin,"[医] 凝血致活酶, 凝血活素; 凝固素"
 coagulopathy, 凝血病
 coagulum,"n. 凝结物, 凝固物
 [医] 凝块, 血块"
-coal,[网络] 钴蓝
+coal,"n. 煤；煤炭；木炭；〔美国〕(一堆)烧红的煤
+v. (给…)上煤；(把…)烧成炭
+[网络] 详情"
 coalesce,"vi. 合并, 联合, 合生
 [计] 结合"
 coarctation,"密集, 收缩"
@@ -2828,20 +2970,23 @@ cobalamin,"n. 钴胺素, 维生素B12
 [医] 钴胺"
 cobalt,"n. 钴, 钴类颜料
 [化] 钴Co"
-cocaine,?-古柯硷
-co-carcinogen,[医] 辅致癌物质
-co-carcinogenesis,"协癌过程,合致癌作用"
+cocaine,"n. 可卡因, 古柯碱
+[化] 可卡因; 古柯碱"
+co-carcinogen,"n. 助致癌原, 辅致癌物( 质)"
+co-carcinogenesis,"n. 辅致癌作用
+[网络] 助癌过程"
 coccobacillus,[生]球杆菌
-coccus, 表示球菌[用于各种细菌名称]
+coccus,"n. 分果爿, 球菌
+[医] 球菌"
 coccyx,"n. 尾骨
 [医] 尾骨"
 cochlea,"n. 蜗
 [医] (耳)蜗"
 cocktail,"n. 鸡尾酒, 开味品
 a. 鸡尾酒会的"
-code,"n. 代码, 密码, 法规, 法典
-vt. 把...编码
-[计] 代码"
+code,"n. 代码；密码；法典；法规
+v. 编码；编程序；为…编码；把…译成密码
+[网络] 编号；识别码；节目介绍"
 codeine,"n. 可卡因, 可待因
 [化] 可待因"
 codominant, 次优势的，次优势木，共优势的
@@ -2851,7 +2996,8 @@ coefficient,"n. [数] 系数；率；协同因素
 a. 合作的；共同作用的"
 coenzyme,[网络] 辅酶；辅酵素；辅脢
 coexist,vi. 共存
-cofactor, 辅助因子
+cofactor,"n. 余因子
+[计] 余因子"
 coferment,[建] 辅酵素
 coffee,"n. 咖啡, 咖啡色
 [医] 咖啡, 咖啡豆"
@@ -2868,7 +3014,8 @@ coil,"n. 线圈, 盘绕, 骚动, 卷
 vt. 盘绕, 卷"
 coin,"n. 硬币, 金钱, 货币
 vt. 铸币, 创造, 杜撰"
-coincide,"vi. 一致, 符合；同时发生"
+coincide,"vi. 一致, 符合
+[化] 重合"
 coincidence,[网络] 巧合；生命中的每一刻都是巧合；发生之状况
 coincident,adj. 一致的；符合的；同时发生的
 coincidental,adj. 巧合的；符合的；暗合的；一致的
@@ -2924,9 +3071,11 @@ colonoscopy,"n. 结肠镜检查
 [医] 结肠镜检查"
 colony,"n. 殖民地, 移民队
 [医] 菌(集)落, 菌丛; 移民区"
-color,[地名] 科洛河 ( 澳 )
+color,"n. 颜色, 面色, 颜料, 外貌
+vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲
+vi. 变色"
 colorblindness,[医] 色盲
-colorectal,adj. 结肠直肠的
+colorectal,a. [解]结肠直肠的
 coloring,"n. 着色, 色彩, 色调, 面色, 气色, 外貌, 伪装, 色素, 颜料, 染料, 着色剂, 特质
 [建] 着色, 染色"
 colostomy,"n. 结肠开口术
@@ -2935,7 +3084,8 @@ colostrum,"n. 初乳
 [医] 初乳"
 colposcopy,[医] 阴道窥器检查
 coltivirus,[网络] 科罗拉多壁虱热病毒；呼肠病毒科考蒂病毒；科州蜱传热病毒属
-column,n. 纵队，列；专栏；圆柱，柱形物
+column,"n. 专栏, 圆柱, 纵队, 列, 柱形物
+[计] 列, 柱形图"
 coma,"n. 昏迷, 麻木, 彗发
 [化] 彗差; 彗形像差"
 comatose,"a. 昏睡的, 昏睡状态的
@@ -2949,7 +3099,9 @@ combustion,"n. 燃烧, 骚动
 [化] 燃烧"
 comedocarcinoma,[医] 粉刺癌
 comet,n. 彗星
-command,[网络] 命令
+command,"n. 命令, 指挥, 控制, 部队, 司令部
+v. 命令, 指挥, 控制
+[计] 命令; 指令; DOS外部命令:启动新的命令处理器"
 commence,"vt. 开始；着手
 vi. 使……开始；使……得学位"
 commencement,"n. 开始, 毕业典礼
@@ -2972,13 +3124,15 @@ commit,"vt. 委托(托付), 犯罪, 指派...作战, 使承担义务
 [法] 犯, 做, 把...交托给"
 commitment,"n. 委托, 交押, 承担义务, 赞助
 [医] 院禁"
-commonplace,[网络] 公共位置；迷你涮涮锅；共同空间
+commonplace,"n. 老生常谈；司空见惯的事；普通的东西
+a. 平凡的；陈腐的"
 communicable,"a. 可传达的, 会传染的, 爱说话的
 [医] 有传染性的"
-communication,"n. 交流, 交通, 通讯
-[计] 通信"
-community,n. 社区；[生态] 群落；共同体；团体
-comorbid,[网络] 共同病态
+communication,"n. 通信；交际；交流；信息
+[网络] 通讯；沟通；对话"
+community,"n. 社区, 公众, 共有, 共同体
+[经] 公众, 共有, 社会"
+comorbid,[网络] 共病；共存性疾病；共发
 comorbidity,[网络] 合并症；共病；共病现象
 compact,"a. 紧凑的, 紧密的, 简洁的
 vt. 使紧密结合, 压缩
@@ -2990,8 +3144,8 @@ n. 比较
 [计] 比较"
 compartment,"n. [建] 隔间；区划；卧车上的小客房
 vt. 分隔；划分"
-compatibility,"n. 兼容性
-[计] 兼容性"
+compatibility,"n. 相容性；和睦相处；并存
+[网络] 与其他产品的兼容性如何"
 compatible,comb.form 表示“兼容的”：plug-compatible
 compel,"vt. 强迫, 迫使"
 compensate,"v. 偿还, 补偿, 付报酬"
@@ -3029,15 +3183,16 @@ complicate,"vt. 弄复杂, 使错综, 使恶化
 vi. 变复杂"
 complication,"n. 复杂化, 复杂情况
 [医] 并发症, 并发病"
-compliment,"n. 恭维；称赞；问候；致意；道贺
-vt. 恭维；称赞"
+compliment,"n. 称赞, 恭维, 敬意
+vt. 称赞, 褒扬, 恭维"
 comply,"vi. 顺从, 依从
 [法] 遵守, 承诺, 照做"
 component,"n. 元件, 组件, 成分
 a. 组成的, 构成的
 [计] 组件"
-composite,"a. 合成的, 混合成的, 菊科的
-n. 合成物, 复合材料, 菊科"
+composite,"n. 复合材料；混合物；合成物
+adj. 合成的；混成的；复合的
+[网络] 复合土工膜"
 composition,"n. 作文, 创作, 组成
 [化] 成分; 组成"
 compound,"n. 混合物, 复合词, 化合物, 院子
@@ -3053,12 +3208,12 @@ vi. 受压缩小
 [计] 压缩程序"
 compressibility,"n. 压缩系数, 压缩性, 压缩率
 [化] 压缩率; 可压缩性"
-compression,"n. 压缩, 压紧
-[计] 压缩"
+compression,"n. 压缩；加压；压紧；浓缩
+[网络] 压迫性；压缩文件的设置"
 comprise,"vt. 包含, 构成"
-compromise,"n. 妥协, 折中, 折中方案, 和解
-vi. 妥协处理
-vt. 危害"
+compromise,"n. 妥协；和解；折中；互让
+v. 让步；违背（原则）；达不到（标准）
+[网络] 都做点妥协"
 compulsive,"a. 强制的, 强迫的
 [医] 强迫性的"
 compulsory,"a. 被强制的, 强迫的, 义务的
@@ -3078,12 +3233,14 @@ concentrate,"n. 浓缩, 精选
 v. 集中, 专心"
 concentrated,"a. 集中的, 浓缩的
 [建] 浓的"
-concentration,n. 浓度；集中；浓缩；专心；集合
+concentration,"n. 集中, 专心
+[化] 浓度; 浓缩"
 concentric,"a. 同中心的, 同轴的
 [医] 同心的, 共心的"
 conception,"n. 观念, 概念
 [医] 妊娠, 受孕; 概念"
-concern,[网络] 关心；关系
+concern,"n. 关心, 忧虑
+vt. 与...有关, 使担心, 使挂念"
 concerted,"a. 商定的, 协定的, 一致的
 [法] 一致的, 协力的, 共同的"
 conclude,"vt. 结束, 作结论, 推断
@@ -3104,7 +3261,9 @@ concussion,"n. 剧烈摇动, 震荡
 [医] 震荡"
 condense,"vt. 使浓缩, 使压缩, 缩短
 vi. 浓缩, 凝结"
-condition,[网络] 要件；经营环境；条件
+condition,"n. 情况, 条件
+vt. 使健康, 以...为条件, 决定, 使适应
+[计] 条件"
 condom,"n. 避孕套
 [医] 阴茎套"
 conduce,"vi. 有助于, 有益于, 有贡献于, 导致"
@@ -3117,14 +3276,13 @@ conduction,"n. 传导
 condyle,"n. 骨节
 [医] 髁"
 condyloma,n. [医]湿疣
-confer,"vt. 授予, 带来
-vi. 协商"
+confer,abbr. conferred 授予称号的，赠与的
 conference,"n. 会议
 [经] 会议, 讨论会, 协商会"
 confidential,"a. 机密的, 获他人信赖的, 易于信任他人的
 [经] 秘密件"
-confidentiality,"[计] 机密性
-[经] 保密"
+confidentiality,"n. 保密；机密性
+[网络] 保密性；保密的原则"
 configuration,"n. 结构, 表面配置, 外形, 配置
 [计] 配置"
 confine,"vt. 限制, 使不外出, 禁闭
@@ -3151,7 +3309,8 @@ confront,"vt. 使面对, 对抗, 遭遇, 使对质, 比较
 [法] 对证, 使对质, 比较"
 confuse,"vt. 使混乱, 使狼狈, 使困惑
 [法] 混淆"
-confusion,[网络] 劳务的出处混淆
+confusion,"n. 混乱, 混淆, 无秩序
+[计] 含混"
 confusional,[医] 精神混乱的
 congenital,"a. 天生的, 先天的
 [医] 先天的"
@@ -3163,7 +3322,8 @@ congestion,"n. 拥挤, 充血
 congestive,"a. 充血的, 引起拥塞的
 [医] 充血的"
 congression, [医]中板集合（指染色体）
-conical,[数] 圆锥形的
+conical,"a. 圆锥形的, 圆锥的
+[计] 圆锥的"
 conidia,conidium 的复数
 conidiophore,n. [微]分生孢子
 conidium,"n. 分生孢子
@@ -3184,11 +3344,13 @@ conjunctivitis,"n. 结膜炎
 [医] 结膜炎"
 consanguineous,"a. 血亲的, 血缘的, 同族的
 [法] 同血缘的, 同宗的, 近亲的"
-consanguinity,血缘
+consanguinity,"n. 血亲, 血缘, 同族
+[医] 血亲"
 conscientious,"a. 有责任心的, 负责的, 本着良心的
 [法] 凭良心做的, 有道德感的"
 conscientiousness, 责任心
-conscious,adj. 意识到的；故意的；神志清醒的
+conscious,"a. 有意识的, 知觉的, 觉察的
+[医] 有意识的, 清醒的"
 consciousness,"n. 意识, 知觉, 自觉
 [医] (有)意识, 清醒"
 consecutive,"a. 连续的, 联贯的
@@ -3261,7 +3423,9 @@ consumption,"n. 消费, 消费量, 痨病
 [化] 消耗量; 耗量"
 consumptive,"a. 消费的, 浪费的, 消耗性的
 n. 肺病患者"
-contact,[网络] 装饰用套子
+contact,"n. 联系, 交际, 熟人, 接触
+vi. 接触, 联系
+vt. 使接触"
 contactant,n. 接触性过敏原
 contagious,"a. 触染性的, 会蔓延的
 [医] (接)触(传)染的"
@@ -3277,14 +3441,17 @@ contamination,"n. 污染, 污物
 [化] 污染; 沾污"
 contemplate,"vt. 注视, 沉思, 盘算
 vi. 冥思苦想"
-contempt,n. 轻视，蔑视；耻辱
+contempt,"n. 轻视, 轻蔑
+[法] 藐视, 侮辱, 轻视"
 content,"n. 内容, 满足, 意义, 要旨
 a. 满足的, 满意的
 vt. 使...满足, 使...安心
 [计] 内容"
-contention,"n. 争论, 争辩, 所持的论点
-[计] 争用"
-context,[网络] 语境；文化与境；历史文本的脉络交织
+contention,"n. 争论；争吵；争执；（尤指争论时的）看法
+[网络] 论点；竞争；争夺"
+context,"n. 上下文, 背景, 来龙去脉
+n. 上下文
+[计] 上下文"
 contiguous,"a. 邻近的, 接近的
 [医] 接触的"
 continuation,"n. 继续, 续集, 补编
@@ -3299,8 +3466,8 @@ contour,"n. 轮廓
 vt. 画轮廓
 a. 显示轮廓的
 [计] 轮廓"
-contraception,"n. 避孕, 避孕法
-[医] 节(制生)育, 避孕"
+contraception,"n. 避孕（法）；节育（法）
+[网络] 避孕法；避孕方法；避孕措施"
 contraceptive,"a. 避孕的
 n. 避孕剂, 避孕用具"
 contract,"n. 合约, 婚约, 契约
@@ -3313,7 +3480,8 @@ contraction,"n. 收缩, 缩写式, 害病
 contracture,"n. 挛缩
 [医] 挛缩"
 contraindicate,vt. 禁忌（某种疗法或药物）；显示（治疗或处置）不当
-contraindication, [医]禁忌症
+contraindication,"n. 禁忌症
+[医] 禁忌证"
 contralateral,"a. 对侧的
 [医] 对侧的"
 contrary,"a. 相反的, 矛盾的, 对立的
@@ -3329,7 +3497,9 @@ contribution,"n. 捐助, 捐助之物, 贡献
 [经] 贡献, 捐款, 补助品"
 contributor,"n. 贡献者, 捐助者, 赠送者, 投稿者
 [法] 捐助人, 捐赠人, 投搞人"
-control,[网络] 控制；控制传输；变更控制
+control,"n. 控制, 管理, 克制, 控制器, 操纵装置
+vt. 控制, 操纵, 抑制
+[计] 控制; 控制器"
 controllability,"[计] 可控制性
 [化] 可控性; 能控性"
 controversial,"a. 争论的, 论争的, 被议论的"
@@ -3380,26 +3550,38 @@ convulsion,"n. 震动, 震撼, 动乱, 惊厥, 痉挛
 [医] 惊厥, 抽搐"
 coolant,"n. 冷却剂
 [计] 冷却剂"
-cooperation,n. 合作，协作；[劳经] 协力
-coordinate,"[经] 协调, 调节"
-coordination,[建] 配位
+cooperation,"cooperation
+[kəu,ɔpə'reiʃən]
+n.
+合作，协作；配合
+【经济学】合作社；合作团体
+【生态学】(有机体间的)互助[亦作 co-operation]"
+coordinate,"n. 同等的人(或物), 坐标
+a. 同等的, 并列的
+v. (使)协调"
+coordination,"n. 同等, 协调
+[计] 协调; 进程协调"
 cope,"vi. 处理；对付；竞争
 n. 长袍
 n. (Cope)人名；(英)科普；(西)科佩"
 copious,"a. 很多的, 丰富的, 内容丰富的"
-copolymer, [医]共聚物，共聚体，异分子聚合物
+copolymer,"n. 共聚物
+[化] 共聚物; 二元共聚物"
 coprecipitate,vt. 共沉淀，同时沉淀
 coprolalia,"n. 秽语症, 污秽言语"
 copy,"n. 副本, 摹仿, 一册
 v. 复印, 抄袭, 复制
 [计] 副本; 复制; DOS内部命令:复制文件
 将几个文件合并成一个文件, 以及将文件传至外设或在设备之间传送"
-copyright,版权；复制权
+copyright,"n. 版权, 著作权
+[法] 著作权"
 coracoid,"n. 鸟喙骨, 喙突
 a. 喙状的"
 cordotomy,"n. [医]脊髓前侧柱切断术,脊髓索切开术"
-core,comb.form 表示“…类别的摇滚乐”：queercore
-coreceptor,共受体
+core,"n. 核心, 果心, 要点
+vt. 挖...的核
+[计] 内核, 核心网"
+coreceptor,[网络] 受体；辅助受体；受体形式
 corepressor,"辅抑制子,辅抑制物,辅阻遏物,协阻抑物"
 corn,"n. （美）玉米；（英）谷物；[皮肤] 鸡眼
 vt. 腌；使成颗粒
@@ -3411,7 +3593,7 @@ corneal,"a. 角膜的
 cornerstone,"[法] 基础, 基石, 要件"
 coronary,"a. 冠的, 花冠的, 冠状的
 [医] 冠状的"
-coronavirus,[病毒] 冠状病毒
+coronavirus,"n. [微]日冕形病毒,冠状病毒"
 cor pulmonale,[医] 肺(原)性心(脏)病
 corpus,"n. (事物的)主体, 文集, 本金, 语料库
 [医] 体"
@@ -3477,7 +3659,8 @@ counter,"n. 计算器, 计算者, 柜台, 筹码
 a. 反方向的, 相反的
 adv. 反方向地, 相反地
 [计] 计数器; 计数字"
-counteract,vt. 抵消；中和；阻碍
+counteract,"vt. 抵消, 阻碍, 中和
+[法] 抵抗, 阻碍, 抵销"
 counterfeit,"n. 赝品, 伪造品
 a. 假冒的, 假装的
 v. 仿造, 伪装, 假装"
@@ -3489,19 +3672,22 @@ vt. 使成双, 连接, 使成婚, 把...联系起来
 vi. 结合, 成婚"
 coupler,"n. 连结者, 连接器, 耦合器, 车钩
 [计] 耦合器"
-court,"n. 法院, 庭院, 奉承
-vt. 献殷勤, 追求, 招致
-vi. 求爱"
+court,"n. 法院；球场；朝廷；奉承
+vt. 招致（失败、危险等）；向…献殷勤；设法获得
+vi. 求爱
+n. (Court)人名；(英)考特；(法)库尔"
 courtesy,"n. 礼貌, 谦恭, 好意
 [法] 优待, 礼貌, 恩惠"
 covalent,"a. 共有原子价的, 共价的"
 covariable,[网络] 协变量
 covariate,"n. 协变量, 共向变量"
-cowpox,[医] 牛痘
-crack,"n. 裂缝, 爆裂声
-v. (使)爆裂, (使)裂开, (使)发出爆裂声
-a. 第一流的
-adv. 啪地一声"
+cowpox,"n. 牛痘
+[医] 牛痘"
+crack,"n. 裂缝；裂纹；缝隙；尝试
+v. 断裂；破裂；打击；崩溃
+adj. 训练有素的；技艺高超的；优秀的；一流的
+adv. 尖锐地
+[网络] 破解；裂痕；龟裂"
 cramp,"n. 痉挛, 腹部绞痛, 铁夹钳
 a. 狭窄的, 难认的
 vt. 使抽筋, 以铁箍扣紧, 束缚"
@@ -3547,27 +3733,34 @@ cretinism,"n. 白痴病, 呆小症
 cricothyrotomy,环甲膜切开术
 crime,"n. 犯罪, 罪行, 罪恶
 [法] 犯罪, 罪, 罪恶"
-criminal,"n. 罪犯, 犯人, 刑事
-a. 犯了罪的, 刑事的, 有罪的"
+criminal,"n. 罪犯
+adj. 犯罪的；犯法的；涉及犯罪的；刑法的
+[网络] 刑事辩护律师"
 cripple,"n. 跛者, 残废
 vt. 使跛, 使成残废, 削弱
 a. 跛的, 残废的"
-crisis,危象
-criterion,"n. 标准, 准则, 规范
-[化] 判据"
+crisis,"n. 危机, 危险期, 紧要关头
+[医] 危象; 骤退, 临界, 极期"
+criterion,n. （批评判断的）标准；准则；规范；准据
 critical,"a. 批评的, 决定性的, 危险的, 临界的
 [医] 危象的; 临界的, 极期的"
 cromoglycate,"n. 色甘酸盐
 [网络] 钠"
 cromolyn,[化] 色甘酸
 crospovidone,[网络] 交联聚维酮；交聚维酮；交联聚乙烯吡咯烷酮
-cross,[网络] 罗斯；萝丝
-crossing-over, 互换
+cross,"n. 十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交
+a. 生气的, 交叉的, 相反的
+v. 交叉, 横过, 越过
+[计] 交叉, 十字标"
+crossing-over,"n. 互换
+[医] 交换(染色体)"
 cross-linkage,"[建] 交键, 交联"
-cross-match, [医]交叉配（血）
+cross-match,"un. 交叉配合
+[网络] 交叉配血；交叉合血；交叉试验"
 cross-presentation,无
 cross-reaction,[医] 交叉反应
-crossreactivity, [医]交叉反应性
+crossreactivity,"n. 交叉反应性
+[网络] 交叉反应如下"
 croton,n. 巴豆
 crotonaldehyde,"[化] 巴豆醛
 [医] 巴豆醛, 丁烯醛"
@@ -3648,8 +3841,8 @@ cusp,"n. 尖头, 尖端
 [医] 尖"
 customary,"a. 习惯的, 惯常的
 [经] 通常的, 习惯的"
-cutaneous,"a. 皮肤上的, 影响皮肤的
-[医] 皮的"
+cutaneous,"adj. 皮肤（上）的
+[网络] 皮肤的；皮的；影响皮肤的"
 cyanide,"n. 氰化物
 vt. 用氰化物处理
 [计] 氰化物"
@@ -3673,7 +3866,8 @@ cyclotron,"n. 回旋加速器
 [化] 回旋加速器"
 cylinder,"n. 圆筒, 圆筒状物, 汽缸, 柱面
 [计] 柱面"
-cylindrical,筒形的，圆柱形的
+cylindrical,"a. 圆柱体的, 圆筒形的
+[计] 圆柱形的, 圆柱体的, 圆筒形的, 柱面的"
 cynamorlum,无
 Cynanchol,白薇素
 cyperene,香附烯
@@ -3707,7 +3901,7 @@ cytology,"n. 细胞学
 cytolysin,n. [生化]溶细胞素
 cytolysis,"n. 细胞溶解
 [化] 细胞溶解"
-cytomegalovirus,细胞巨病毒
+cytomegalovirus,n. 巨细胞病毒
 cytometry,n. 血细胞计数
 cytopathic,a. 细胞病变的
 cytopathology,细胞病理学
@@ -3727,23 +3921,28 @@ cytotoxic,"a. 细胞毒素的
 [医] 细胞毒素的"
 cytotoxicity,n. 细胞毒性
 dacryoadenitis,[医] 泪腺炎
-daemon,[计] 无交互后台程序
+daemon,n. 守护进程；后台程序
 daily,"a. 每日的, 日常的
 adv. 每日地, 日常地
 n. 日报"
 dairy,"n. 牛奶公司, 乳品店, 乳牛场"
 damage,"n. 损害, 伤害
 v. 损害"
-damp,"氨苄西林,氨苄青霉素"
+damp,"n. 潮湿, 湿气
+a. 潮湿的
+vt. 使潮湿, 使阻尼, 抑止
+vi. 变潮湿, 衰减"
 darken,"vt. 弄暗, 使模糊
 vi. 暗下来, 颜色变深"
-database,"[计] 数据库
-[化] 数据库"
-dataset,[计] 数据集; 数传机
+database,"n. 数据库
+[网络] 资料库；数据基；数据基础"
+dataset,"na. 数据集；数传机
+[网络] 源码展示；运算符优先级"
 datum,"n. 论据, 材料, 资料, 已知数
 [医] 材料, 资料, 论据"
 daunting,a. 使人畏缩的
-daydream,"[医] 白日梦, 白日梦想"
+daydream,"n. 白日梦
+vi. 做白日梦"
 deadly,"a. 致命的, 致死的
 adv. 非常, 如死一般地"
 deaf,"a. 聋的
@@ -3854,7 +4053,8 @@ vi. 缩小"
 defoliant,"n. 脱叶剂, 落叶剂
 [化] 脱叶剂"
 deformability,"可变形能力, 形变度, 可塑性"
-deformation,[网络] 抹掉旧我固执气傲的形态
+deformation,"n. 损形, 变丑, 畸形
+[化] 变形; 形变"
 deformity,"n. 残缺, 畸形, 残缺者
 [医] 变形, 畸形"
 defy,"vt. 藐视, 挑衅, 使落空
@@ -3880,7 +4080,8 @@ dehiscence,"n. 裂开
 [医] 裂开"
 dehydrate,"vt. (使)脱水
 [医] 脱水, 去水"
-dehydration,脱水;去水
+dehydration,"n. 脱水
+[化] 脱水; 脱水作用"
 dehydroepiandrosterone,"[化] 脱氢反雄甾酮
 [医] 脱氢表雄甾酮"
 dehydrogenase,"n. 脱氢酶
@@ -3913,8 +4114,8 @@ deliver,"vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付
 [经] 交运"
 delivery,"n. 递送, 交付, 分娩, 交货, 引渡
 [化] 交货额"
-deltoid,"a. 三角形的
-n. 三角肌"
+deltoid,"n. 三角肌
+adj. 三角形的"
 delusion,"n. 迷惑, 欺瞒, 错觉
 [医] 妄想"
 delusional,[医] 妄想的
@@ -3955,14 +4156,15 @@ dengue,"n. 登革热
 denitrification,"[化] 反硝化作用
 [医] 脱氮[作用]"
 de novo,"n. 重新, 更始"
-dens,"[医] 牙, 齿"
+dens,abbr. density
 dense,"a. 密集的, 浓厚的"
 densely,"adv. 浓密地, 浓厚地"
 density,"n. 密度
 [化] 密度"
 dental,"a. 牙齿的
 [医] 牙的, 齿的, 齿音, 齿音字母"
-dentine,齿质
+dentine,"n. 牙质
+[医] 牙[本]质"
 dentist,"n. 牙科医生
 [医] 牙医师"
 dentistry,"n. 牙科
@@ -4049,7 +4251,8 @@ vt. 下降"
 descending,"a. 下降的, 下行的
 [计] 递减"
 describe,"vt. 描述, 描绘, 画"
-description,[网络] 描写；摹状词
+description,"n. 描述, 说明, 种类
+[经] 说明书(物品), 品名种类, 货物名称"
 descriptive,"a. 描述的, 叙述的"
 desensitization,"n. 脱敏(现象), 减感(作用)
 [计] 脱敏, 降低感光性"
@@ -4082,7 +4285,7 @@ desquamative,"a. 引起脱皮/脱屑的
 [医] 脱屑的, 脱皮的"
 destain,vt. 使退色
 destine,"vt. 注定, 预定"
-destroy,vt. 破坏；消灭；毁坏
+destroy,"vt. 破坏, 毁坏, 消灭"
 destruction,"n. 破坏, 毁灭
 [医] 破坏"
 destructive,"a. 毁灭性的, 破坏的, 有害的
@@ -4093,14 +4296,16 @@ detached,"a. 超然的, 分离的, 冷淡的
 [法] 分遣的, 派遣的, 分离的"
 detachment,"n. 分离, 分遣, 分遣队
 [医] 脱离, 分离, 支队"
-detail,"n. 细节，详情
-vt. 详述；选派
-vi. 画详图"
+detail,"n. 细节, 详情
+vt. 详述, 选派
+vi. 画详图
+[计] 详细数据"
 detect,"vt. 发现, 察觉, 探测
 [法] 发现, 查明, 探测"
 detectable,"a. 可察觉的, 易发现的
 [计] 可检测的"
-detection,[科技] 探测
+detection,"n. 探测；发现；侦查；察觉
+[网络] 探测能力；检波检测"
 detective,"n. 侦探
 a. 侦探的"
 detector,"n. 发现者, 检验器, 检波器
@@ -4120,8 +4325,9 @@ deterrent,"a. 制止的, 威慑的, 遏制的
 n. 威慑力量(或因素), 制止物"
 detoxication,"n. 除去...的毒物, 去除...的放射性沾染, 使解毒
 [化] 解毒; 解毒作用"
-detoxification,解毒
-detoxify,vt. 使解毒；给…解毒
+detoxification,[机] 解毒作用
+detoxify,"vt. 使解毒
+[医] 解毒, 去毒"
 detrimental,a. 有害的
 devastation,n. 毁坏
 develop,"vt. 发展, 使发达, 进步, 洗印, 显影
@@ -4148,14 +4354,14 @@ dextran,"n. 右旋糖酐
 [化] 葡聚糖; 右旋糖酐"
 dextrin,n. [化]糊精
 dextrocardia,n. (=dexiocardia)[医]右位心
-dextromethorphan,右甲吗喃
+dextromethorphan,"[医] 右甲吗南, 右旋甲氧甲基吗啡喃(镇咳药)"
 dextrose,"n. 葡萄糖, 右旋糖
 [化] 葡萄糖; 葡糖"
 diabetes,"n. 糖尿病, 多尿症
 [医] 糖尿病; 多尿症"
 diabetic,"a. 糖尿病的
 n. 糖尿病患者"
-diacylglycerol,甘油二酯
+diacylglycerol,"甘油二酯, 二酯 酰甘油"
 diagnose,v. 诊断
 diagnosis,"n. 诊断
 [计] 诊断"
@@ -4230,10 +4436,11 @@ digestion,"n. 消化力, 领悟
 [化] 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化"
 digestive,"a. 消化的, 助消化的
 n. 助消化药"
-digit,[网络] 挖掘；挖它；挖掘它
-digital,"a. 数字显示的, 数字的
-n. 数字仪表, 数字式电子表(或时钟)
-[计] 数字, 数字式"
+digit,"n. 数字, 位数, 指头
+[计] 数位; 位"
+digital,"adj. 数字信息系统的；数码的；数字式的；数位的
+n. 数字电视
+[网络] 数字的；数字型定时器；数控车床"
 digitalis,"n. 洋地黄
 [化] 毛地黄; 洋地黄"
 digitalisation, [医]数字化
@@ -4247,7 +4454,8 @@ dihydromorphinone,[医] 二氢吗啡酮
 dihydropteridine, [医]二氢蝶啶
 dihydropyrimidine,无
 dihydroxycholecalciferol,"n. [生化]二羟胆钙化(甾)醇,二羟维生素D&-{3}"
-dilatation,"扩张,膨胀部分"
+dilatation,"n. 膨胀, 扩张术, 扩张(症), 扩大, 铺张, 详述
+[计] 膨胀, 扩张"
 dilate,"vi. 扩大, 详述, 膨胀
 vt. 使膨胀"
 dilation,"n. 膨胀, 扩张术, 扩张(症), 扩大, 铺张, 详述
@@ -4266,7 +4474,8 @@ vt. 使暗淡
 [计] 数据解释模块"
 dimension,"n. 尺寸, 次元, 面积, 维数
 vt. 标出尺寸"
-dimensional, …维的
+dimensional,"a. ...维的
+[化] 量纲的; 因次的"
 dimerize,"v. [化](使)二聚,(使)成为二聚物"
 dimethicone,[医] 二甲聚硅氧烷
 dimethylbenzene,"[化] 二甲苯
@@ -4297,7 +4506,8 @@ diplotene,n. & adj.[生]双线期(的)
 dipolar,"a. 偶极的, 两极的
 [医] 偶极的, 两极的"
 dipyridamole,[化] 双嘧达莫; 潘生丁
-direction,n. 方向；指导；趋势；用法说明
+direction,"n. 方向, 指导, 趋势
+[计] 方向; 流向"
 directive,"a. 指导的, 指挥的, 方向的
 n. 指令
 [计] 指令; 命令"
@@ -4315,9 +4525,9 @@ disagreement,"n. 不合, 争论, 不一致
 disalignment,"不对准中心, 偏离轴心"
 disappearance,"n. 看不见, 失踪, 消失"
 disapprove,v. 不赞成
-disaster,n. 灾难，灾祸；不幸
-disc,"n. 圆盘, 唱片
-vt. 灌唱片"
+disaster,"n. 灾祸, 不幸, 彻底失败"
+disc,"abbr. (=discount； discover)
+[网络] 圆盘切口机；退片键；特价区"
 discard,"vt. 丢弃, 抛弃
 vi. 垫牌
 n. 垫牌, 抛弃"
@@ -4356,7 +4566,8 @@ discrimination,"n. 差别, 岐视, 辨别力
 discriminator,"n. 辨别者, 鉴别器
 [电] 鉴别器"
 disease-free, 无病的
-disequilibrium,n. 不均衡；不安定；失调
+disequilibrium,"n. 不均衡, 失调
+[医] 平衡不稳"
 disfiguration,"n. 毁容,缺陷,畸形"
 disfigure,"vt. 毁损...的外形, 玷污, 损害, 毁损...的容貌
 [法] 损毁容颜, 破相"
@@ -4378,8 +4589,9 @@ disintegrate,"vt. (使)分解, (使)碎裂
 disintegration,"n. 瓦解
 [化] 破碎; 崩解; 蜕变"
 disintegrative,"a. 使分裂的, 使崩溃的"
-disk,"n. 圆盘, 磁盘
-[计] 磁盘"
+disk,"n. 磁盘
+v. 把…录制成唱片；使成圆盘状；用圆盘耙耕(地)
+[网络] 圆盘喜袋；呵呵；使用道具"
 dislocation,"n. 脱臼, 转位, 混乱
 [化] 位错; 转位"
 dislodge,"vt. 逐出, 使移动, 驱逐
@@ -4423,14 +4635,16 @@ vi. 处置"
 disposition,"n. 性情, 处置, 处理, 布置
 [医] 素因, 性情"
 disproportionate,a. 不成比例的
-disprove,vt. 证明(主张、断言等)虚假(或错误、不正确、不能成立)；反驳，驳斥，反证：使不无效
+disprove,"vt. 证明...是不对的, 提出...的反证, 反驳
+[法] 证明...不成立, 反驳, 驳斥"
 dispute,"n. 争论
 v. 争论"
 disregard,"n. 忽视, 漠视
 vt. 忽视, 不顾"
 disrupt,"a. 分裂的, 中断的
 vt. 使分裂, 使瓦解"
-disruption,"n. 分裂, 崩溃, 瓦解"
+disruption,"n. 中断；破裂
+[网络] 破坏；分裂；瓦解"
 disruptive,"a. 分裂的, 破坏(性)的
 [计] 击穿的, 中断的"
 disruptor,"n. 分裂者, 破坏者"
@@ -4496,7 +4710,8 @@ a. 利尿的"
 diurnal,"a. 每日的, 一日间的, 白天的
 [医] 昼现的(丝虫), 昼间的"
 diurnally,adv. 白天活动地
-divergence,n. 分歧
+divergence,"n. 分歧
+[计] 分散度"
 divergent,"a. 有分歧的
 [医] 散开的, 偏斜的"
 diverse,"a. 不同的, 变化多的"
@@ -4512,13 +4727,14 @@ n. 分配, 分水岭
 [计] 除"
 division,"n. 分, 分开, 除法, 部门(如部、处、系等), 师
 [计] 部分"
-divorce,[网络] 离婚
+divorce,"n. 离婚
+vt. 与...离婚"
 dizygotic,[医] 两合子的
 dizziness,"n. 头昏眼花
 [医] 头晕, 头昏"
 dizzy,"a. 晕眩的, 眼花缭乱的
 vt. 使晕眩"
-DNA,[网络] 神射之殇
+DNA,abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局 （Defense Nuclear Agency）
 DNA-adduct,dna加合物
 doctor,"n. 医生；博士
 vt. 修理；窜改，伪造；为…治病；授以博士学位
@@ -4534,8 +4750,8 @@ dolor,[医] [疼]痛
 domain,"n. 领域, 领土, 产业, 范围
 [计] 域, 区域, 支配命令"
 domed,"a. 圆屋顶的, 圆盖状的, 圆顶的, 半球形的"
-domestic,"a. 家庭的, 国内的, 驯养的
-[医] 家庭的, 家用的"
+domestic,"adj. 国内的；家庭的；驯养的；一心只管家务的
+n. 国货；佣人"
 dominant,"a. 占优势的, 支配的
 [医] 优性的, 显性的"
 dominate,"v. 支配, 占优势"
@@ -4557,9 +4773,14 @@ dosage,"n. 剂量, 用量, 配药
 dose,"n. 剂量, 服用量
 vt. 给药, (用药)医治
 vi. 服药"
-dot,[计] Microsoft Word文档模板
-double-blind, 双盲
-doublet,四环素[四环素类抗生素]
+dot,"n. 点, 圆点, 小数点, 小东西, 嫁妆
+vt. 作小点记号, 加小点于
+vi. 打上点
+[计] 点"
+double-blind,"un. 双盲法
+[网络] 双盲试验；双重匿名；双重隐密"
+doublet,"n. 成对物, 偶极天线, 对称振子, 偶极子, 对偶物
+[计] 二位字节"
 download,"[计] 下装, 卸载"
 downstream,"[计] 下游
 [经] 下游工业"
@@ -4568,15 +4789,19 @@ doxycycline,[化] 多西环素; 脱氧土霉素; 强力霉素
 draft,"n. 气流, 草稿, 汇票, 草案
 vt. 起草, 征兵
 [计] 草稿"
-drain,"n. 排水沟, 消耗, 排水
-vt. 排出, 喝光, 耗尽
-vi. 排水, 流干"
-drainage,[化] 疏水
+drain,"n. 消耗；下水道；排水管；耗竭
+v. 排空；流出；（使）流光；放干
+[网络] 漏极；排水沟；耗尽"
+drainage,"n. 排水
+[医] 引流[法], 导液[法], 排水[设备]"
 dramatically,"adv. 戏剧地, 引人注目地, 突然地"
 drape,"n. 布帘, 褶皱
 vt. 用布帘覆盖, 披上
 vi. 成褶皱状"
-draw,[计] Acorn的基于对象的矢量图像文件
+draw,"vi. 拉, 拖, 拔剑
+vt. 拖拉, 挨近, 领取, 打成平局, 引导, 抽签决定, 画, 描写, 制订, 草拟, 吸引
+n. 拉, 拖, 拔出, 抽签, 平局
+[计] 翻牌, 绘图"
 drawback,"收回, 退却, 缩回
 [经] 退钱, 退税"
 dreadful,a. 可怕的
@@ -4606,35 +4831,36 @@ drowsiness,"n. 睡意
 [医] 倦睡, 瞌睡"
 drowsy,"a. 昏昏欲睡的
 [医] 倦睡的, 瞌睡的"
-drug,"n. 药, 麻药, 麻醉药
+drug,"n. 药；毒品；麻醉药；滞销货
+vt. 使服麻醉药；使服毒品；掺麻醉药于
 vi. 吸毒
-vt. 使服麻醉药, 使麻木"
-drug-induced, [医]药物造成的
-drug-resistant, [医]抗药，耐药的
+n. (Drug)人名；(罗)德鲁格"
+drug-induced, [医][由]药物引起的
+drug-resistant,adj. 耐药的，抗药的
 drunkenness,"[医] 醉酒, 酒醉"
 dual,"a. 双重的, 双的
 n. 双数"
 dubious,"a. 可疑的, 不确定的"
-duct,引导
+duct,"n. 管, 输送管
+vt. 通过管道输送"
 ductless,"a. 无管的
 [医] 无管的"
 due,"n. 应得的东西, 应付款
 a. 到期的, 应得的, 应付的, 约定的"
-dumb,"a. 哑的, 不说话的, 无声音的
-[医] 哑的"
+dumb,abbr. Dumbarton；Dumbartonshire
 dummy,"n. 傀儡, 假人, 仿制品
 a. 虚设的, 假的, 名义上的"
 duodenal,"a. 十二指肠的
 [医] 十二指肠的"
 duodenotomy,[医] 十二指肠切开术
 duodenum,n. 十二指肠
-duplicate,"n. 副本, 复本, 复制品
-a. 复制的, 二重的
-vt. 复制, 使加倍
-[计] 复制"
+duplicate,"v. 复制；复印；复写；（尤指不必要时）重复
+n. 副本；复制品；完全一样的东西
+adj. 完全一样的；复制的；副本的"
 duplication,"n. 副本, 复制
 [医] 重迭, 双折, 复制"
-dura,[医] 硬脑[脊]膜
+dura,"n. 【解】硬脑[脊]膜
+[网络] 持续时间"
 dural,"a. 硬脑膜的
 [医] 硬脑[脊]膜的"
 duration,"n. 持续时间, 持续
@@ -4650,7 +4876,9 @@ dwindle,"vi. 减少, 缩小, 衰落
 vt. 使缩小"
 dyad,"n. 二, 一对, 二元一位
 [化] 二价元集(或基); 双; 对; 成对之物; 并矢"
-dye,[网络] 染料
+dye,"n. 颜料, 染料
+vt. 染, 染色
+vi. 被着色"
 dynamic,"a. 动态的, 有活力的, 有力的, 动力的, 不断变化的
 n. 动力, 动态
 [计] 动态的"
@@ -4688,7 +4916,8 @@ dysphonia,"n. 发声困难, 言语障碍
 [医] 发音困难"
 dysplasia,"n. 发育异常, 发育不良
 [医] 发育异常, 发育不良"
-dyspnea,呼吸困难
+dyspnea,"n. 呼吸困难
+[医] 呼吸困难"
 dysraphism,[医] 闭合不全
 dysrhaphism,"脊柱裂,神经管闭合不全"
 dysrhythmia,[医] 节律障碍
@@ -4705,8 +4934,10 @@ dystrophy,"n. 营养障碍, 营养不良
 [医] 营养不良, 营养障碍"
 dysuria,"n. 排尿困难
 [医] 排尿困难"
-earache,耳痛
-ear-drum,[医] 鼓室(俗也作为鼓膜)
+earache,"n. 耳朵痛
+[医] 耳痛"
+ear-drum,"n. 中耳, 鼓膜
+[医] 鼓室"
 eccentric,"n. 怪人, 偏心圆
 a. 古怪的, 反常的, 不同圆心的"
 ecchymosis,"n. 瘀斑
@@ -4736,7 +4967,7 @@ ecosystem,abbr. ecological system 生态学系统; economic system 经济学系�
 ecotoxicology, 生态毒理学
 ectoderm,"n. 外胚层, 外层
 [医] 外胚层"
-ectohormone,[化] 外激素
+ectohormone,n. [生化]外激素
 ectopic,"a. 异位的
 [医] 异位的"
 ectoplasm,"n. 外胚层质, 外质
@@ -4798,37 +5029,46 @@ electric,"a. 电的, 导电的, 电动的
 [医] 电的"
 electricity,"n. 电, 电流, 电学, 热情, 电力供应
 [化] 电学; 电"
-electrocardiogram,n. [内科] 心电图
-electrocardiograph,心电仪
+electrocardiogram,"n. 心电图
+[计] 心电图"
+electrocardiograph,"n. [内科] 心电图仪, [内科] 心电图描记器"
 electrocardiographic,a. 心电图描记(法)的
-electroconvulsive,[网络] 电惊厥
+electroconvulsive,"a. [医]电惊厥的,电休克的"
 electrocution,"n. 电刑, 电死
 [医] 触电死"
 electrode,"n. 电极
 [化] 电极; 焊条; 电焊条"
-electrodialysis,电渗析
-electroencephalogram,n. [内科] 脑电图，[内科] 脑动电流图
-electroencephalograph, 脑电描记器
-electroencephalography,脑电流描记术
+electrodialysis,"n. 电渗析
+[化] 电渗析"
+electroencephalogram,"[计] 脑电波记录
+[医] 脑[动]电[流]图"
+electroencephalograph,"n. [医]脑电描记器,脑电图仪"
+electroencephalography,"n. 脑电图记录, 脑电图
+[计] 脑电图显示, 脑电图描记术"
 electrolysis,"n. 电分解, 电解, 以电针除痣
 [化] 电解"
 electrolyte,"n. 电解物, 电解质, 电解液
 [化] 电解质"
-electromagnetic,电磁
-electromagnetism,n. 电磁；电磁学
+electromagnetic,"a. 电磁的, 由电磁石产生的
+[电] 电磁的"
+electromagnetism,"n. 电磁, 电磁学
+[化] 电磁学"
 electron,"n. 电子
 [化] 电子"
 electronegativity,电负性；电阴性
-electronic,"a. 电子的
-[计] 电子工业协会接口"
+electronic,"adj. 电子的；电子器件的；电子设备的
+[网络] 电子玩具；免费的电子；电子工程师"
 electronically,adv. 电子地
 electrophile,n. [化]亲电子试剂
 electrophilic,[机] 亲电性的
-electrophoresis,电泳
+electrophoresis,"n. 电泳
+[化] 电泳"
 electrophoretic,a. [物]电泳的
-electrophysiological,adj. 电生理学的
-electrophysiology,电生理学
-electroshock,n. 电休克
+electrophysiological,a. [物]电生理学的
+electrophysiology,"n. 电生理学
+[计] 电生理学"
+electroshock,"n. 电震, 电休克, 电击疗法
+[医] 电休克"
 electrotherapy,"n. 电疗法
 [医] 电疗法, 电疗学"
 electuary,"n. 干药糖剂
@@ -4861,7 +5101,7 @@ elucidate,"vt. 阐明, 说明"
 emaciation,"n. 瘦弱, 憔悴, 衰弱
 [医] 消瘦"
 embarrass,"vt. 使困窘, 使局促不安, 阻碍"
-embarrassed,[网络] 尴尬
+embarrassed,a. 尴尬的；窘迫的
 embolectomy,n. 【外科学】栓子切除术
 embolic,"a. 插子的, 栓子的"
 embolisation, 经血管碘油化疗物栓塞术
@@ -4882,7 +5122,8 @@ emerge,"vi. 浮现, 形成, 出现, (事实)显露"
 emergence,"n. 出现, 浮现, 发生"
 emergency,"n. 紧急状况, 紧急事件, 紧急需要
 [化] 紧急情况"
-emesis,呕吐
+emesis,"n. 呕吐
+[医] 呕吐"
 emetic,"n. 催吐剂
 a. 引起呕吐的"
 emetine,"n. [药]依米丁,吐根碱,吐根素(用作催吐剂,祛痰剂和杀阿米巴剂)"
@@ -4905,7 +5146,7 @@ empathy,"n. 移情作用, 共鸣
 [医] 移情, 神入"
 emphasis,"n. 强调, 加强, 重点, 强语气"
 emphasize,"vt. 强调, 加强语气, 着重"
-emphraxis,阻塞
+emphraxis,"n. 阻塞, 闭塞"
 emphysema,"n. 肺气肿
 [医] 气肿, 肺气肿"
 emphysematous,[医] 气肿的
@@ -4938,25 +5179,27 @@ encapsulation,"[计] 封闭, 封装, 密封, 灌封, 装箧
 encelialgia,内脏痛
 encephalitis,"n. 脑炎
 [医] 脑炎, 大脑炎"
-encephalomalacia,脑软化
+encephalomalacia,n. [医]脑软化
 encephalomeningitis,[医] 脑脑膜炎
 encephalomyelitis,"n. 脑脊髓炎
 [医] 脑脊髓炎"
 encephalomyeloradiculitis,[医] 脑脊髓脊神经根炎
 encephalon,"n. 脑, 脑髓
 [医] 脑"
-encephalopathy,脑病
+encephalopathy,"n. 脑病
+[医] 脑病"
 enchondroma,n. [医]内生软骨瘤
 enclose,"vt. 围绕, 圈起, 放入封套, 附上"
-encode,"vt. 把(电文、情报等)译成密码
-[计] 编码"
+encode,"v. 把…译成电码（或密码）；把…编码；把…译成外语
+[网络] 编码器"
 encompass,"vt. 围绕, 完成, 包括, 包含, 环绕, 包围"
 encounter,"vt. 遭遇, 邂逅；遇到
 n. 遭遇, 偶然碰见
 vi. 遭遇；偶然相遇"
 encourage,"vt. 鼓励, 支持, 激励
 [法] 怂恿, 煽动, 助长"
-encrypt,[计] 加密
+encrypt,"v. 把…加密（或编码）
+[网络] 夺宝生死战；资料加密；加密处理"
 endangiitis,[医] 血管内膜炎
 endangium,[医] 血管内膜
 endarterectomy,[医] 动脉内膜切除术
@@ -4974,7 +5217,8 @@ endocarditis,"n. 心内膜炎
 endocardium,"n. 心内膜
 [医] 心内膜"
 endocervical,[医] 子宫颈内的
-endocrine,内分泌，内分泌腺，内分泌物
+endocrine,"a. 内分泌的
+n. 内分泌物, 内分泌腺"
 endocrinology,n. 内分泌学
 endocytosis,n. [生](细胞)内吞作用
 endoderm,"n. 内胚层
@@ -5023,9 +5267,8 @@ endotracheal,"a. 气管内的
 [医] 气管内的"
 endow,"vt. 捐赠, 捐助, 赋予
 [法] 赠送财产给, 分给寡妇一份遗产, 授与"
-endpoint,"终点
-[化] 终点"
-end-stage, [医]末期
+endpoint,"n. 端点；末端, 终结点"
+end-stage,[网络] 末期
 endurance,"n. 忍耐, 忍耐力, 耐性
 [机] 持九性"
 endure,"vt. 忍受, 忍耐, 容忍, 耐
@@ -5105,10 +5348,12 @@ envelope,"n. 信封, 封套, 封袋
 [医] 膜, 包袋"
 environment,"n. 环境, 外界, 围绕
 [计] 环境"
-environmental,[网络] 环保
+environmental,"a. 周围的, 环境的
+[经] 环境的, 环保的"
 enzymatic,"a. 酶的
 [医] 酶的"
-enzyme,酵素
+enzyme,"n. 酶
+[化] 酶"
 eosinophil,"[医] 嗜曙红细胞, 嗜酸性细胞"
 eosinophilia,"[医] 嗜曙红细胞增多, 嗜曙红性"
 eosinophilic,"[医] 嗜曙红的, 嗜酸性的"
@@ -5147,7 +5392,8 @@ epileptiform,a. [医]癫痫样的
 epileptogenesis,[网络] 癫痫形成；癫痫的形成；癫痫形成过程
 epimerization,差向[立体]异构(作用)
 epimestrol,[化] 表美雌醇; 雌三醇甲醚
-epinephrine,肾上腺素
+epinephrine,"n. 肾上腺素
+[化] 肾上腺素"
 epiphysiodesis,[医] 骺骨干固定术
 epiphysis,"n. 脑上体, 松果腺
 [医] 骺, 松果体"
@@ -5258,7 +5504,8 @@ establish,"vt. 建立, 确立, 制定
 vi. 移植生长"
 established,"a. (被)建立的, 固定的, 既定的, 确定的, 确认的, 确立的, (被)制定的
 [计] 确定的, 既定的"
-ester,酯
+ester,"n. 酯
+[化] 酯"
 esterase,"n. 酯酶
 [化] 酯酶"
 esterification,"n. 酯化作用
@@ -5280,7 +5527,8 @@ ethacrynic,[网络] 道教
 ethambutol,n. [药]乙胺丁醇(一种抗结核药)
 ethanol,"n. 乙醇, 酒精
 [化] 乙醇"
-ether,醚
+ether,"n. 醚, 苍天, 以太
+[化] 醚; 以太"
 Ethernet,"n. 以太网
 [计] 以太网, 以太网报文分组"
 ethical,"a. 伦理的, 民族的, 民族特有的
@@ -5292,8 +5540,9 @@ ethyl,"[化] 乙基
 [医] 乙基"
 ethylaldehyde, [医]乙醛
 ethylbenzene,[化] 乙苯; 苯乙烷
-ethylene,乙烯
-ethylenediamine,乙撑二胺
+ethylene,"n. 乙烯
+[化] 乙烯; 1,2-亚乙基"
+ethylenediamine,乙(撑)二胺
 etiologic,"a. 病原学, 病因学
 [医] 病因学的, 病原学的"
 etiologically, [医]adv.在病因学上
@@ -5330,16 +5579,18 @@ vt. 使蒸发, 使脱水, 使消失"
 evaporation,"n. 蒸发, 脱水, 消失
 [化] 蒸发"
 eventually,"adv. 最后, 终于"
-evidence,[网络] 证据；大量运用事例证据
+evidence,"n. 根据, 证据, 迹象
+[经] 证据, 凭证"
 evident,"a. 显然的, 明显的"
 evoke,"vt. 唤起, 引起, 召(魂)
 [法] 提审, 移送"
-evolution,[网络] 演化；网络发展
+evolution,"n. 进化, 发展, 进展, (气体)放出, 开方
+[医] 进化, 演化, 旋出"
 evolutionary,"a. 展开的, 进化论的, 进化的, 发展的
 [计] 进化的, 改良的, 发展的"
 evolve,"vi. 进展, 进化, 展开
 vt. 使发展, 使推断出, 使进化"
-exacerbate,vt. 使加剧；使恶化；激怒
+exacerbate,"vt. 使恶化, 使增剧, 激怒, 使加剧"
 exacerbation,"n. 恶化, 增剧, 激怒
 [医] 加重, 转剧"
 exaggerate,"v. 夸大, 夸张"
@@ -5368,7 +5619,8 @@ excitability,"n. 易兴奋性, 兴奋性, 激动性
 excitation,"n. 刺激, 鼓舞, 兴奋
 [化] 激发"
 excite,"vt. 刺激, 使兴奋, 激励"
-excitement,[网络] 激动人心
+excitement,"n. 刺激, 兴奋
+[医] 兴奋, 激动"
 exclude,"vt. 除外, 排除, 排斥
 [医] 除外(诊断)"
 exclusion,"n. 排除, 除外, 逐出
@@ -5414,10 +5666,11 @@ existence,"n. 存在, 生存
 exocrine,"a. 外分泌的
 [医] 外分泌的, 外分泌物"
 exocytosis,n. [生]胞外分泌
-exoenzyme,"[医] 胞外酶, 外酶"
+exoenzyme,"n. [生化]外酵, 外酵素"
 exogenous,"a. 外生的
 [医] 外原的, 外生的"
-exon,[化] 外显子
+exon,"n. 〔遗〕外显子；编码顺序；基因外区；外子
+[网络] 编码顺序(exonextron)；表现序列；显译子"
 exonuclease,n. [生化]核酸外切酶
 exophthalmos,"n. 突眼症, 眼球突出症
 [医] 眼球突出, 突眼"
@@ -5460,14 +5713,16 @@ experimentation,"n. 实验, 试验, 实验法
 expert,"n. 专家, 行家
 a. 老练的, 内行的, 专门的
 [计] 高级"
-expertise,专家
+expertise,"n. 专家意见, 专门技术
+[法] 专门知识, 专家意见"
 expiration,"n. 终止, 满期, 呼出, 呼气
 [医] 呼[气], 断气, 死亡"
 expiratory,"a. 吐气的, 呼气的
 [医] 呼[气]的"
 expire,"vi. 期满, 呼气, 断气
 vt. 呼出"
-explain,[网络] 解释
+explain,"v. 解释；说明；阐明；说明（…的）原因
+[网络] 讲解；向某人解释某事；辩解"
 explicable,"a. 可说明的, 可解释的"
 explicit,"a. 详述的, 清楚的, 直言的"
 exploit,"n. 功绩, 勋绩
@@ -5508,7 +5763,7 @@ external,"n. 外部, 外面
 a. 外部的, 客观的, 表面的"
 extirpate,"vt. 连根拔起, 消灭, 根除, 毁灭"
 extra-abdominal,无
-extra-articular,[医] 关节外的
+extra-articular, [医]adj.关节外的
 extracardiac,心外的
 extracardial,[医] 心外的
 extracellular,"un. 胞外的
@@ -5525,10 +5780,12 @@ extrahepatic,a. (位于或发生在)肝外的
 extraneous,"a. 外来的, 非必要的, 无关的
 [医] 体外的"
 extraordinarily,"adv. 非凡, 破例, 特别, 非常, 离奇, 使人惊奇, 惊人, 特命, 特派"
-extraordinary,[网络] 寻常領域；超凡；非常规
-extrapancreatic,
+extraordinary,"a. 非常的, 特别的, 非凡的
+[经] 非常的, 特别的, 临时的"
+extrapancreatic,无
 extrapolate,"v. 推断, 外推"
-extrapolation,外推法
+extrapolation,"n. 推断, 外推法
+[计] 外插法"
 extrapyramidal,a. [解]锥体束外的
 extrasystole,[医] 期外收缩(过早收缩)
 extrauterine,[医] 子宫外的
@@ -5552,7 +5809,8 @@ exudative,"a. 渗出的, 溢泌的, 流出的
 [医] 渗出性的"
 exude,"v. (使)流出, (使)渗出"
 ex vivo," [医]在活体外, 离体, 从活体内, 从有生命体的, 取自活体的, 用活体材料"
-eyelid,眼睑；眼皮
+eyelid,"n. 眼皮, 眼睑
+[医] 睑"
 facet,"n. (多面体的)面, 方面, 琢面
 [医] 小平面, 小面"
 facial,"n. 美颜, 脸部按摩
@@ -5561,20 +5819,22 @@ facilitate,"vt. 使容易, 促进, 帮助
 [法] 使容易, 使便利, 推进"
 facility,"n. 容易, 灵巧, 设备
 [计] 设施; 设备; 装备"
-factor,"n. 因素, 因数, 系数, 基因, 代理人
-[计] 因式"
+factor,"n. 因子；因素；系数；要素
+v. 【数】把…化为因子[因数]；为…充当代理商；代理经营；代管(产业)
+[网络] 因式"
 facultative,"a. 授权的, 机能上的, 才能上的, 能力上的, 兼性的, 可选择的, 任意的
 [化] 兼性的"
 fade,"vi. 褪色, 消失, 凋谢
 vt. 使褪色
 n. 淡入, 淡出
 a. 平淡的"
-faeces,粪便
+faeces,n. 粪便
 fail,"vi. 失败, 缺乏, 中断, 衰退, 失灵
 vt. 忘记, 使...失望, 缺乏, 不及格
 n. 不及格"
-failover,[网络] 故障转移；故障切换；故障而迁移
-failure,[化] 事故; 失效
+failover,n. [电脑][数据库]失效备援 （为系统备援能力的一种，当系统中其中一项设备失效而无法运作时，另一项设备即可自动接手原失效系统所执行的工作）
+failure,"n. 失败, 失败者, 不足, 缺乏, 破产
+[计] 故障; 失效"
 faint,"n. 昏厥, 昏倒
 a. 模糊的, 微弱的, 无力的
 vi. 昏倒, 变得微弱"
@@ -5596,26 +5856,30 @@ familiar,"a. 熟悉的, 常见的, 亲密的
 n. 熟友, 常客"
 familiarity,"n. 熟悉, 精通, 亲密"
 familiarize,"vt. 使熟悉, 使熟知, 使通俗化"
-family,[网络] 家族；家庭
-fantastic,[网络] 电扇探密
+family,"n. 家庭, 家人, 族
+a. 家庭的"
+fantastic,"a. 奇妙的, 稀奇的, 空想的"
 fantasy,"n. 幻想, 想象的产物
 [医] 幻想"
-farsightedness, 远视
+farsightedness,n. 远视眼；远见卓识
 fascial,[医] 筋膜的
 fasciitis,[医] 筋膜炎
 fasciotomy,[医]筋膜切开术
-fashion,na. comb. F. 加在名词之后
+fashion,"n. 流行, 风尚, 时样
+vt. 形成, 造, 作"
 fastidious,"a. 难取悦的, 挑剔的, 苛求的"
 fasting,"a. 禁食的
 n. 禁食"
-fat,"n. 脂肪, 脂油, 肥肉
-a. 肥的, 胖的, 油腻的
-n. 文件分配表
-[计] 文件分配表"
+fat,"adj. 肥的，胖的；油腻的；丰满的
+n. 脂肪，肥肉
+vt. 养肥；在…中加入脂肪
+vi. 长肥
+n. (Fat)人名；(法、西、塞)法特；(东南亚国家华语)发"
 fatal,"a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的
 [医] 致命的, 致死的"
 fatality,"n. 不幸, 厄运, 致命性, 死亡者, 厄运, 天命"
-father,[网络] 父亲
+father,"n. 父亲, 祖先, 长辈, 神父, 创始者
+vt. 当...的父亲, 保护, 创作, 发明, 培养"
 fatigability,[医] 易疲[劳]性
 fatigue,"n. 疲乏, 疲劳
 vt. 使疲劳, 使心智衰弱
@@ -5636,8 +5900,9 @@ feasibility,"n. 可行性, 可能性
 [化] 可行性"
 feasible,"a. 能实行的, 可行的, 适宜的
 [法] 可行的, 可执行的, 可完成的"
-feat,"n. 壮举, 功绩, 技艺表演
-a. 灵巧的, 合适的, 整洁的"
+feat,"n. 功绩；技艺；武艺；英勇事迹
+adj. 灵巧的；整洁的；合适的
+[网络] 张智成；幸福的我；光良"
 feathery,"a. 生有羽毛的, 柔软如羽毛的"
 feature,"n. 面孔的一部分(如眼、口等), 特征, 容貌, 特色, 特写
 vt. 是...的特色, 特写, 放映
@@ -5651,7 +5916,8 @@ feces,"pl. 粪, 屎
 [医] 粪便"
 feeble,"a. 微弱的, 衰弱的, 无效的
 [医] 无力的, 衰弱的"
-feedback," 反作用, 反馈"
+feedback,"n. 反馈；反馈意见；回授；【电子】反馈
+[网络] 快速反馈"
 feeding,"n. 饲养, 进料, 加料
 a. 供给饲料的, 摄取食物的"
 felon,"n. 重罪犯, 恶棍, 瘭疽
@@ -5690,9 +5956,9 @@ fetus,"n. 胎儿
 [医] 胎, 胎儿"
 fever,"n. 发烧, 发热, 热病
 [医] 发热, 热"
-fiber,"n. 纤维, 构造, 纤维制品
-[化] 纤维"
-fiberoptic, 光纤
+fiber,"n. 纤维；光纤（等于fibre）
+n. (Fiber)人名；(匈)菲贝尔"
+fiberoptic, [医]纤维光学的
 fibril,"n. 小纤维, 须根
 [化] 原纤"
 fibrillar,"a. 纤丝状的, 纤维状的"
@@ -5711,7 +5977,7 @@ fibrinolytic, 溶纤维蛋白药
 fibrinous,"a. (血)纤维蛋白的
 [医] 纤维蛋白的"
 fibroadenoma,[医] 纤维腺瘤
-fibrocartilage,纤维软骨
+fibrocartilage,[医] 纤维软骨
 fibroid,"a. 纤维性的, 纤维状的
 n. 纤维瘤"
 fibroma,"n. 纤维瘤
@@ -5732,8 +5998,8 @@ fibula,"n. 腓骨, 搭扣, 扣针
 fibular,"a. 腓骨的
 [医] 腓骨的, 腓侧的"
 ficolin,[网络] 纤维胶凝蛋白；无花果酶；纤维蛋白胶凝素
-fidelity,"n. 忠实, 诚实, 忠诚, 保真度
-[电] 逼真度"
+fidelity,"n. 忠诚；忠实；忠贞；（对丈夫、妻子或性伴侣的）忠贞
+[网络] 富达；保真度；富达投资"
 figure,"n. 数字；人物；图形；价格；（人的）体形；画像
 vi. 计算；出现；扮演角色
 vt. 计算；认为；描绘；象征"
@@ -5743,7 +6009,9 @@ filarial,"a. 丝虫的
 [医] 丝虫的"
 filariasis,"n. 丝虫病
 [医] 丝虫病"
-file,[网络] 文件；提取码；文件操作
+file,"n. 档案；文件夹；锉；锉刀
+v. 把（文件等）归档；提起（诉讼）；提出（申请）；送交（备案）
+[网络] 自行指定某个档案；媒体文件；不创建文件"
 filial,"a. 子女的, 当做子女的, 孝顺的
 [医] 子女的"
 filler,"n. 装填者, 补白, 装填物
@@ -5786,17 +6054,24 @@ first-pass,[计] 第一遍
 fish-flesh,鱼肉
 fission,"n. 裂开, 分裂, 分体
 [化] 裂变"
-fissure,分裂术
-fist, [电影]拳头大风暴
+fissure,"n. 裂缝, 裂沟
+v. (使)裂开, (使)分裂"
+fist,abbr. Federal Investigative Strike Team(美国)联邦侦缉队；Fugitive Investigative Strike Team；(美国)侦缉逃犯行动
 fistula,"n. 瘘, 瘘管
 [医] 瘘, 瘘管"
 fistulize,[医]v.造瘘，造口
 fistulous,"a. 瘘管, 瘘
 [医] 瘘的, 瘘管的"
-fit,[网络] 美国纽约时装学院；弗雷德里克理工学院；注水试验
+fit,"n. 适宜, 合身, 发作, 痉挛
+a. 适宜的, 对的, 准备好的
+vt. 适合, 安装, 使合身, 使适应, 使合格
+vi. 适合, 符合, 合身
+[计] 非特"
 fitness,"n. 适合, 合宜, 合理, 恰当, 健康
 [医] 适合性, 适应性"
-fix,[网络] -固定
+fix,"vt. 使固定, 修理, 准备, 安装, 凝视, 牢记, 确定, 整理
+vi. 固定, 注视, 确定
+n. 困境, 方位, 维修, 贿赂"
 fixation,"n. 定置, 固定, 定色
 [医] 固定; 固定法, 固定术; 定影"
 fixative,"a. 固定的, 定色的
@@ -5853,7 +6128,8 @@ vi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动
 vt. 使漂浮, 容纳, 淹没, 发行, 实行
 [计] 浮动"
 flocculant,n. 凝聚剂
-flora,n. 植物区系；植物群
+flora,"n. 植物群
+[医] 植物区系, 植物丛, 植物群, 菌丛"
 floxuridine,[化] 氟尿苷; 5-氟脱氧尿苷
 flucloxacillin,"氟氯西林, 2,6-氟氯苯甲异青霉素"
 fluctuant,"a. 变动的, 波动的, 起伏的"
@@ -5895,7 +6171,7 @@ focus,"n. 焦点, 焦距
 vi. 聚焦, 注视
 vt. 使聚焦, 调焦, 集中
 [计] 焦点"
-foe,[网络] 在原野上登场的部分怪物
+foe,abbr. Fraternal Order of Eagles
 foetal,"a. 似胎儿的, 胎儿的"
 fog,"n. 雾, 迷惑, (割后的)最生草, 苔藓
 vi. 被雾笼罩, 变模糊
@@ -5914,26 +6190,31 @@ n. 跟随；追随"
 following,"n. 下列各项, 部下, 追随者
 a. 下列的, 其次的"
 follow-up,"v. 把…探究到底；回答
-[网络] 跟进；追踪；跟踪"
+[网络] 追踪，跟踪；跟进工作；继而进行"
 fontanelle,n. 囟门
 food,"n. 食物, 养料
 [医] 食物, 食品"
-foodstuff, [医]食物
+foodstuff,"n. 食品, 粮食"
 foramen,"n. 孔, 小孔, 胚孔
 [医] 孔"
 forceps,"n. 镊子, 钳子, 钳子状器官
 [医] 钳, 镊, 钳状体"
-forearm,前臂
+forearm,"n. 前臂
+vt. 预先武装, 准备"
 foregoing,"a. 前面的, 先前的, 前述的"
 foreign,"a. 外国的, 外交的, 外省的, 外来的, 不相关的
 [机] 外来的"
 foreignness,n. 外国（人）的特性
-forelimb,前翼
+forelimb,n. 前肢
 forelock,"n. 额发，额毛；栓
 vt. 以开口栓栓住"
-forerunner,前[驱]涌；征兆
-forever,"永远, 老是"
-form," 表示：具有...形状：dentiform,有...种形式：triform"
+forerunner,"n. 先驱, 前兆"
+forever,"na. 永远
+[网络] 免费发短信的网站"
+form,"n. 形式；表格；形状；样子
+v. 组成；建立；组织；产生
+linkv. 成为；是
+[网络] 形成；使用表单；表单标记"
 formaldehyde,n. 蚁醛，[有化] 甲醛
 formality,"n. 礼节, 拘谨, 正式手续
 [化] 克式浓度"
@@ -5954,7 +6235,8 @@ vt. 弄脏, 妨害, 污蔑, 犯规, 淤塞
 vi. 腐烂, 犯规, 缠结
 adv. 违反规则地, 不正当地
 n. 犯规, 缠绕"
-foundation,n. 基础；地基；基金会；根据；创立
+foundation,"n. 基础, 根据, 建立
+[化] 地基"
 founder,"n. 创立者, 建立者
 vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏
 vi. 沉没, 摔到, 变跛, 倒塌, 失败"
@@ -5975,19 +6257,23 @@ fragmentation,"n. 分裂, 破碎
 frail,"a. 脆弱的, 虚弱的, 意志薄弱的
 n. 少女, 少妇, 灯心草篓"
 frameshift,[化] 移码
-framework,结构材
+framework,"n. 结构, 骨架, 参照标准, 准则, 观点
+[医] 构架组织"
 frank,"a. 坦白的, 率直的, 老实的
 vt. 免费邮寄
 n. 免费邮寄特权"
 frankincense,"n. 乳香
 [化] 乳香"
-free,comb. 无…的；免除…的
+free,"adv. 免费；脱离束缚
+v. 释放；使摆脱；解除（或去除、清除）；使可用（于某目的）
+adj. 能随自己意愿的；随心所欲的；不受限制的；不受约束的
+[网络] 自由的；空闲的；内存清理实"
 fremitus,"n. 震颤
 [医] 震颤"
 freon,"n. 氟利昂
 [计] 氟里昂"
-frequency,"n. 频率, 频数
-[计] 频率"
+frequency,"n. 频繁；发生率；出现率；重复率
+[网络] 频率；最高回转数；最大回转数"
 frequent,"a. 时常发生的, 频繁的, 快速的
 vt. 时常来访, 常常聚集, 常与...交往"
 frequently,"adv. 频繁, 经常地"
@@ -6000,14 +6286,16 @@ frightening,a. 令人恐惧的；引起突然惊恐的
 frontal,"a. 前面的, 正面的, 额的
 n. 额骨, 祭坛(前面的)帏帘, (建筑物的)正面"
 frontalis,额的
-frostbite, [医]冻伤
+frostbite,"n. 冻伤, 冻疮
+vt. 被霜伤害, 使冻伤"
 fructan,n. [化]果聚糖
 fructose,"n. 果糖
 [化] 果糖; 左旋糖"
 fruitful,"a. 结果实的, 多实的, 产量多的"
 frustrate,"vt. 挫败, 击败, 破坏
 a. 无益的, 挫败的, 挫折的"
-frustration,n. 挫折
+frustration,"n. 挫折, 顿挫
+[医] 挫折"
 fuel,"n. 燃料, 木炭
 vt. 加燃料, 供燃料
 vi. 得到燃料"
@@ -6051,11 +6339,13 @@ vt. 在炉中烧"
 furnish,"vt. 供给, 提供, 装设
 [化] 供应; 供给; 配料"
 furosemide,"n. [药]速尿,速尿灵,利尿磺胺"
-furthermore,"adv. 而且,此外"
+furthermore,"adv. 此外, 而且"
 furuncle,"n. 疖
 [医] 疖"
-fuse,"n. 保险丝, 导火线
-v. 熔化, 融合"
+fuse,"vi. 融合；熔化，熔融
+vt. 使融合；使熔化，使熔融
+n. 保险丝，熔线；导火线，雷管
+n. (Fuse)人名；(意)富塞；(法)菲斯"
 fusiform,"a. 纺锭状的, 两端渐细的
 [医] 梭形的, 梭状的"
 fusion,"n. 熔合物, 结合, 熔合
@@ -6066,16 +6356,18 @@ gadolinium,"n. 钆
 gait,"n. 步法, 步态
 vt. 训练...的步法"
 galactorrhea,[医] 乳溢
-galactose,"n. 半乳糖
-[化] 半乳糖"
+galactose,"n. 【化】半乳糖
+[网络] 半乳醣；D-半乳糖；脱氧-D-半乳糖"
 galactosemia,[医] 半乳糖血
-gallbladder,[医] 胆囊
+gallbladder,"n. 胆囊
+[医] 胆囊"
 gallium,"n. 镓
 [化] 镓"
 gallop,"n. 疾驰, 飞奔
 vi. 飞驰, 急速进行, 急急忙忙地说
 vt. 使飞跑, 迅速运输"
-gallstone,[医] 胆石
+gallstone,"n. 胆结石
+[医] 胆石"
 galvanometer,"n. 电流计
 [化] 灵敏电流计; 检流计; 电流计"
 gamete,"n. 配子
@@ -6087,7 +6379,7 @@ gammopathy,丙种球蛋白病
 ganciclovir, 9-1.3-二羟-2-丙氧甲基鸟嘌呤；9-鸟嘌呤；9-(1.3-二羟-2-丙氧甲基)鸟嘌呤；9-1-2-丙氧甲基鸟嘌呤
 ganglion,"n. 神经节, 腱鞘囊肿
 [医] 神经节, 腱鞘囊肿"
-ganglionectomy,[外科] 神经节切除术
+ganglionectomy,n. [医]神经节截除术
 ganglioneuroblastoma,"[医] 成神经节细胞瘤, 成神经节胶质神经瘤"
 ganglioneuroma,"神经节细胞瘤, 星形胶质细胞瘤"
 ganglioside,n. [生化]神经节苷脂
@@ -6098,13 +6390,17 @@ vt. 使生坏疽"
 gangrenous,"a. 坏疽的, 腐败的
 [医] 坏疽性的"
 gantry,"n. 桶架, 龙门起重架, (跨轨)信号架, (起重架的)构台/门架, 导弹拖车"
-garbage,"n. 垃圾, 废物
-[计] 无用信息"
+garbage,"n. 垃圾桶；废物；垃圾箱；废话
+[网络] 垃圾袋；残羹剩菜使我掩鼻；平口袋"
 gardenoside,栀子甙
 gargle,"vt. 漱
 vi. 漱口
 n. 漱口药"
-gas,[医] 全身适应综合征
+gas,"n. 气体；气体燃料；煤气；天然气
+v. 用毒气杀伤；使吸入毒气；闲聊；空谈
+abbr. (=gasoline)
+adj. 〈美俚〉喝醉酒的
+[网络] 汽油；四眼炉；气弹簧活塞"
 gaseous,"a. 气体的, 气态的, 无实质的
 [医] 气[体]的"
 gasoline,"n. 汽油
@@ -6119,9 +6415,11 @@ gastrinoma,n. [医]促胃液素瘤
 gastritis,"n. 胃炎
 [医] 胃炎"
 gastrocnemius,[医] 腓肠肌
-gastroenteritis,[网络] 肠胃炎
-gastrointestinal, [医]胃肠的
-gastrojejunostomy,胃空肠吻合术
+gastroenteritis,"n. 肠胃炎
+[医] 胃肠炎"
+gastrointestinal,"a. 胃肠的, 肠胃的
+[医] 胃肠的"
+gastrojejunostomy,n. [医]胃空肠吻合术
 gastroparesis,[医] 胃轻瘫
 gastroschisis,n. [医]腹裂(畸形)
 gastroscope,"n. 胃镜, 胃窥镜
@@ -6136,12 +6434,13 @@ n. (Gate)人名；(英)盖特；(法、瑞典)加特"
 gauze,"n. 薄纱, 纱布, 金属网
 [医] 纱布"
 gavage,"n. [医]强饲法,[农]填喂法"
-gaze,[网络] -凝视
+gaze,"n. 注视, 凝视
+vi. 注视, 凝视"
 gecko,"n. 壁虎
 [医] 蛤蚧"
-gel,"n. 胶化体, 凝胶
-vi. 胶化, 成凝胶状
-[计] 通用仿真语言"
+gel,"v. 联手共事；结为一体；变得更清楚；显得更明确
+n. 胶滞体（尤指用于头发或护肤的产品）
+[网络] 凝胶；胶体；胶状(gelatiniform)"
 gelatin,"n. 明胶, 凝胶体, 动物胶, 果子冻, 彩色透明滤光板
 [计] 明胶"
 gelatinization,"[化] 胶凝; 胶凝作用; 凝胶化; 凝胶化作用; 糊化; 淀粉糊化作用
@@ -6149,7 +6448,8 @@ gelatinization,"[化] 胶凝; 胶凝作用; 凝胶化; 凝胶化作用; 糊化; 
 gelatinous,"a. 凝胶状的
 [医] 胶状的"
 gemstone,[网络] 宝石；求购宝石；宝石又叫石头
-gene,comb.form =-gen
+gene,"n. 基因
+[化] 基因(遗传因子)"
 general,"n. 一般, 将军, 大体
 a. 全面的, 大体的, 总的, 一般的, 普遍的
 n. 常规
@@ -6165,7 +6465,8 @@ generate,"vt. 产生, 发生, 导致
 generator,"n. 产生器, 发电机, 生产者
 [计] 发生器"
 genesis, 表示u201c起源u201d，u201c发源u201d，u201c由来u201d，u201c起因u201d，u201c发生u201d，u201c创造u201d，u201c形成u201d，u201c进化u201d，u201c演化u201d
-genetic,a. 遗传的；基因的；起源的
+genetic,"a. 创始的, 遗传的, 起源的, 遗传学的
+[医] 生殖的, 遗传的"
 genetically,"adv. 创始, 遗传学, 生殖, 基因, 遗传, 发生"
 geneticist,"n. 遗传学家
 [医] 遗传学家"
@@ -6175,8 +6476,10 @@ genital,"a. 生殖的
 [医] 生殖的, 生殖器的"
 genitalia,"n. 生殖器, 外阴部
 [医] 生殖器"
-genitourinary,[网络] 生殖泌尿系统；泌尿生殖的
-genome,基因组
+genitourinary,"a. 泌尿生殖器的
+[医] 泌尿生殖的"
+genome,"[化] 基因组
+[医] 染色体组"
 genomics, 基因组学
 genotoxic,a. 遗传毒性的
 genotoxicity, 基因毒性
@@ -6204,14 +6507,16 @@ germicide,"n. 杀菌剂
 germinal,"a. 幼芽的, 胚种的
 [医] 胚的, 生发的"
 germinoma,生殖细胞瘤
-germline, 种系
+germline,"un. 种系；生殖系谱
+[网络] 胚系；种细胞系；胚胎细胞系"
 gerontology,"n. 老年医学, 老人学
 [医] 老年医学, 老年病学, 老人学"
 gestation,"n. 妊娠, 妊娠期, 孕育, 酝酿
 [医] 妊娠, [受]孕"
 gestational,"[医] 妊娠的, 受[孕]的"
 giardiasis,"[医] 贾第虫病, 梨形鞭毛虫病"
-gigantism,巨大畸形
+gigantism,"n. 巨大, 巨体, 巨大发育, 巨大畸形, 庞大
+[医] 巨大发育, 巨人症"
 gingivitis,n. 齿龈炎
 ginseng,"n. 人参, 西洋参
 [化] 人参"
@@ -6259,8 +6564,8 @@ glutamine,"n. 谷氨酸盐
 glutaraldehyde,n. [化]戊二醛
 glutaric acidemia,无
 glutaric aciduria,无
-glutathione,谷胱甘肽
-glutathione-S-transferase,谷胱苷肽S-转移酶
+glutathione,[医] 谷胱甘肽
+glutathione-S-transferase,谷胱甘肽-S-转移酶
 gluteal,[医] 臀的
 glycan,"n. [生化]多糖,聚糖,多聚糖"
 glycation, [医]糖化，加糖（作用）
@@ -6269,7 +6574,8 @@ glycerin,"n. 甘油, 丙三醇
 glycerite,n. [化]甘油溶液
 glycerol,"n. 甘油, 丙三醇
 [化] 甘油"
-glycine,甘胺酸
+glycine,"[化] 甘氨酸; 氨基乙酸
+[医] 甘氨酸, 氨基乙酸"
 glycogen,"n. 糖原
 [化] 糖原; 糖元; 牲粉; 动物淀粉"
 glycogenesis,"n. 糖原生成(作用)
@@ -6301,8 +6607,9 @@ goitrogen,[医] 致甲状腺肿物
 gonad,"n. 性腺, 生殖腺"
 gonadal, 性腺生成障碍
 gonadectomy,n. [医]性腺切除术
-gonadotrophic,促性腺的
-gonadotropin,生殖激素；促性腺激素
+gonadotrophic,a. 刺激生殖腺的
+gonadotropin,"[化] 促性腺素; 促性腺激素
+[医] 促性腺激素"
 gonococcus,n. 淋病球菌
 gonorrhoea,n. 淋病
 gout,"n. 味, 趣味, 嗜好, 痛风, 麦秆病, 一滴, 一团
@@ -6317,10 +6624,14 @@ gradient,"n. 倾斜度, 梯度, 坡度, 斜率
 a. 渐升的, 渐降的, 步行的"
 gradient-echo,[网络] 梯度回波；梯度回讯
 grading,"[经] 分级, 归类"
-graft,"n. 嫁接, 贪污
-v. 嫁接, 移植, 贪污"
-gram-negative,革兰氏(染色)阴性
-gram-positive,革兰氏(染色)阳性
+graft,"vi. 移植；嫁接；贪污
+vt. 移植；嫁接；贪污
+n. 移植；嫁接；渎职
+n. （非正式）脚踏实地地埋头苦干"
+gram-negative,"a. 革兰氏阴性的
+[化] 格兰氏阴性"
+gram-positive,"a. 革兰氏阳性的
+[化] 格兰氏阳性"
 grant,"n. 授予, 授予物, 允许
 vt. 允许, 承认, 授与
 [计] 授权命令"
@@ -6338,12 +6649,13 @@ granulomatous,[医] 肉芽肿的
 granulopoiesis,粒细胞生成
 granulysin,[网络] 颗粒溶素；颗粒溶解素；颗粒裂解肽
 granzyme,[网络] 颗粒酶；颗粒溶解酶；G颗粒酶G抗体
-grapeseed,[网络] 葡萄籽；葡萄子；葡萄籽油
+grapeseed,[网络] 葡萄籽油；葡萄核油；葡萄仔
 graph," 表示：书写器；描绘器；记录器：telegraph; (以某种方法)书写(或描绘、记录)的结果(或东西)：monograph, lithograph"
-grasp,"v. 理解；领会；抓紧；明白
-n. 领会；紧握；控制；紧抓
-[网络] 抓住；掌握；抓牢"
-grassroots,"乡村地区, 乡村民众, 基层, 基础"
+grasp,"n. 把握, 抓紧, 理解, 抓, 柄, 控制
+vt. 抓住, 紧握, 领会
+vi. 抓"
+grassroots,"a. 一般民众的, 基层的
+[经] 基层, 基层群众, 农业区(企业的)"
 gravely,"adv. 重大地, 严肃地, 庄重地"
 gravitate,"vi. 被重力吸引, 沉下, 下降
 vt. 使受重力吸引"
@@ -6371,18 +6683,20 @@ vt. 放在地上, 使搁浅, 打基础, 给...以训练
 vi. 搁浅, 落地, 根据, 基于
 a. 磨过的
 grind的过去式和过去分词"
-groundwater,"[化] 地下水
-[医] 地下水"
+groundwater,"n. 地下水
+[网络] 地下水流出"
 growth,"n. 生长, 栽培, 增长
 [计] 等比级数"
-guanine,鸟嘌呤
+guanine,"n. 鸟嘌呤
+[化] 鸟嘌呤; 2-氨基-6-羟嘌呤"
 guarantee,"n. 担保, 抵押品, 保证书
 vt. 保证, 担保"
 guidance,"n. 指导, 领导
 [医] 导"
-guideline,"[计] 准则
-[医] 导线, 观测线"
-guinea-pig,天竺鼠
+guideline,"n. 指导路线, 方针, 指标
+[经] 指导路线, 方针, 准则"
+guinea-pig,"n. 实验对象；【动】豚鼠；天竺鼠
+[网络] 实验品；几内亚猪；考试考试品"
 gum,"n. 树胶, 橡皮, 橡皮糖, 牙床, 老天
 vt. 涂以树胶, 用胶粘, 使有粘性
 vi. 分泌树胶, 发粘"
@@ -6402,11 +6716,13 @@ gyration,"n. 旋回, 回转, 旋转
 habitat,"n. 栖息地, 居留地, 自生地, 聚集处
 [医] 习生地, 产地, 生境, 栖所"
 habitually,"adv. 习惯(性), 惯常, 习以为常, 出于习惯, 已成规则"
-haem,n. [生化]血红素
+haem,(=hem-)表示“血”之义
 haemorrhoid,n. [常作～s][医]痔
 haemostasis,n. (=hemostasis)[医]止血法
-half-life,"[医] 半衰期(放射性物质), 半存留期(化学性物质)"
-hallmark,伦敦金业公会证明金银纯度的检验印记
+half-life,"na. 【核】半衰期〔放射性同位素分裂[从生物体中排出]一半量的时间〔也作 half life 或 half life period〕〕
+[网络] 半条命；半寿期；半死不活"
+hallmark,"n. 纯度检验证明, 品质证明
+vt. 加盖纯度检验证明"
 hallucination,"n. 幻觉, 幻想
 [医] 幻觉"
 hallucinogen,"n. 迷幻剂
@@ -6430,7 +6746,8 @@ hamper,"n. 食篮, 阻碍物, 食盒
 vt. 阻碍, 使困累, 妨碍, 牵制"
 hamstring,"n. 后腿腱
 vt. 切断腿腱使成跛腿, 使瘫痪"
-handbook,"手册,便览"
+handbook,"n. 手册
+[计] 手册"
 handicap,"n. 障碍, 困难, 不利条件
 vt. 加障碍于, 妨碍"
 handle,"n. 柄, 把手, 把柄, 柄状物, 手感
@@ -6440,15 +6757,17 @@ n. 句柄
 [计] 句柄"
 hantavirus,[网络] 汉坦病毒；汉他病毒；汉塔病毒
 haploid,"[医] 单倍体, 单倍的"
-haploinsufficiency,"单倍不足,单倍体低效率"
+haploinsufficiency,[网络] 单倍剂量不足；单一等位基因不足性；单倍不足
 haplotype,单模标本
 hapten,"n. 半抗原, 不全抗原
 [化] 半抗原"
 haptoglobin,"n. [生化]结合珠蛋白,触珠蛋白"
-harbour,[地理] 港湾
+harbour,"n. 港, 避难所
+v. 庇护, 藏匿, (使)入港停泊"
 hardness,"n. 坚硬, 困难, 严厉, 勇气
 [化] 硬度"
-hardware, [医]硬件，硬设备
+hardware,"n. 硬件；硬件设备；五金制品；机器
+[网络] 五金件；五金器具；金属五金件"
 harmonization,"n. 调和化, 融洽, 一致"
 harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
@@ -6466,7 +6785,8 @@ haze,"n. 薄雾, 阴霾, 疑惑
 vt. 使变朦胧, 使变糊涂
 vi. 变朦胧, 变糊涂"
 hazy,"a. 朦胧的, 模糊的, 烟雾弥漫的"
-headache,[网络] 头痛
+headache,"n. 头痛, 令人头痛之事
+[医] 头痛"
 heading,"(head- 的现在分词) n. 头；头痛；上端；最前的部分；理解力
 vt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题
 vi. 出发；成头状物；船驶往
@@ -6484,12 +6804,14 @@ healthy,"a. 健康的, 有益健康的, 卫生的
 [医] 健康的"
 hearing,"n. 听, 听觉, 听讯
 [医] 听, 听觉"
-heartburn,胃烧灼痛
+heartburn,"n. 胃灼热, 心痛, 妒忌
+[医] 胃灼热"
 heat,"n. 热, 热度, 体温, 高潮
 vi. 加热, 激昂, 加剧
 vt. 把...加热, 使激动"
 heated,"a. 热的, 激昂的, 兴奋的"
-heatstroke,"[医] 中暑, 热射病"
+heatstroke,"n. 中暑
+[医] 中暑"
 hebephrenia,n. [医]青春期痴呆
 heel,"n. 脚后跟, 踵, 后部, 倾侧
 vt. 尾随, 装以鞋跟, 倾侧, 追赶
@@ -6504,15 +6826,16 @@ vt. 由直升机运送
 vi. 乘直升机"
 helix,"n. 螺旋（形）
 [网络] 螺旋线；耳轮；螺旋体"
-helminth,"n. 寄生虫, 蠕虫
-[医] 蠕虫, 肠虫"
+helminth,comb.form 表示“蠕虫”：helminthic
 helper,"n. 帮忙者, 有益的东西
 [机] 助手"
 hemachromatosis,"血色素沉着症, 血色病"
-hemagglutination,血红细胞凝集
-hemagglutinin,"血红细胞凝集素,血凝素"
+hemagglutination,"n. 血球凝集(作用)
+[医] 血细胞凝集[作用]"
+hemagglutinin,"n. 血球凝集素
+[医] 血细胞凝集素"
 hemangioblastoma,成血管细胞瘤
-hemangioendothelioma,血管内皮瘤
+hemangioendothelioma,[医]血管内皮瘤
 hemangioma,[医] 血管瘤
 hemangiopericytoma,血管外皮细胞瘤
 hematemesis,"n. 吐血, 咯血"
@@ -6577,8 +6900,10 @@ hemoperfusion, 血液灌流
 hemopericardium,[医] 心包积血
 hemoperitoneum,腹腔积血
 hemophilia,n. 血友病
-hemophiliac,血友病
-hemopoiesis,"n. (=hematopoiesis)[医]造血作用, 生血作用"
+hemophiliac,"a. 血友病的
+n. 血友病患者"
+hemopoiesis,"n. 造血；血细胞生成作用
+[网络] 造血作用；造血过程；造血机能"
 hemoptysis,"n. 咯血
 [医] 咯血"
 hemorrhage,"n. 出血
@@ -6620,8 +6945,8 @@ hepatotoxicity,肝中毒
 heptamer,七聚物
 herald,"n. 使者, 传令官, 先驱
 vt. 预报, 宣布, 传达, 欢呼"
-herb,"n. 药草, 香草
-[医] 草, 草本, 草药"
+herb,"n. 香草，药草
+n. (Herb)人名；(德、英、瑞典)赫布"
 herbal,"a. 草药的
 [医] 本草书"
 herbalism,n. 药草学
@@ -6637,7 +6962,8 @@ heritable,"a. 可继承的, 被遗传的, 可遗传的, 被继承的
 [计] 可遣传的, 可继承的"
 hermaphrodite,"n. 具有两性者, 阴阳人, 两性体
 a. 雌雄同体的"
-hermaphroditism,半阴阳
+hermaphroditism,"n. 雌雄同体性
+[医] 两性畸形, 半阴阳, 雌雄同体性"
 hernia,"n. 疝气
 [医] 疝, 突出"
 herniation,"[医] 疝形成, 突出"
@@ -6679,11 +7005,13 @@ hiccup,"n. 打嗝
 v. 打嗝"
 hierarchy,"n. 等级制度, 僧侣统治, 等级体系
 [计] 分级结构; 分层结构; 新闻组, 新闻组分层"
-highlight, 图像最亮部分，高度光泽，高亮度
+highlight,"n. 加亮区, 精彩场面
+vt. 加亮, 使显著, 以强光照射, 突出
+[计] 突出"
 hilar,[医] 门的
 hinder,"a. 后面的
 v. 阻碍, 打扰"
-hindlimb, 后肢
+hindlimb,"n. (动物或昆虫的)后肢,下肢"
 hint,"n. 暗示, 提示
 v. 暗示, 示意"
 hip,"n. 臀部, 蔷薇果, 忧郁
@@ -6724,7 +7052,7 @@ vt. 挖空"
 holocarboxylase,羧化全酶
 holoendemic,"adj. 高发病的
 [网络] 全地方性的"
-holoenzyme,全酵素
+holoenzyme,n. [生化]全酶
 Holter, [人名] [英格兰人姓氏] 霍尔特 Holt的变体
 homeobox, 同源框
 homeopathy,"n. 顺势疗法
@@ -6751,7 +7079,7 @@ homograft,"n. 自体移植片, 同种移植片
 [医] 同种移植物"
 homologous,"a. 相应的, 同源的, 一致的
 [医] 同种的(组织,血清), 同系的(化合物), 相应的, 类似的"
-homologue,同系物
+homologue,"[医] 同种组织, 同系[化合]物, 相应的"
 homology,"n. 相同, 异体同形, 同族关系
 [化] 同源性"
 homoplasmy,同型异源性
@@ -6760,7 +7088,8 @@ homosexuality,"n. 同性恋
 [医] 同性性欲, 同性恋爱"
 homozygous,"[医] 纯合的, 同型[接合]的"
 honeysuckle,na. 【植】忍冬属
-hookworm,钩口线虫
+hookworm,"un. 钩虫
+[网络] 钩虫胎；勾虫"
 hopper,"n. 跳跃的东西, 单足跳者, 跳虫
 [化] 漏斗; 贮斗; 料斗; 集尘箱; 集尘斗"
 horizon,"n. 地平线, 眼界, (天)视地平"
@@ -6785,9 +7114,10 @@ vt. 当主人招待, 作...节目主持人
 hostile,"a. 敌人的, 怀敌意的, 敌对的
 n. 敌对分子"
 hostility,"n. 敌意, 敌对, 反对"
-household,"n. 家眷, 家务, 王室
-a. 家务的, 家常的"
-housekeeping,内务工作
+household,"n. 一家人, 家庭, 家族, 王室
+a. 家庭的, 家常的, 王室的"
+housekeeping,"n. 家事, 家政, 持家
+[计] 内务处理"
 Houttuynia, [医]蕺菜
 Houttuynin,鱼腥草素
 huge,"a. 极大的, 巨大的, 无限的"
@@ -6805,7 +7135,8 @@ humoral,"a. 体液的, 由体液引起的, 温性的
 humorally,无
 hurt,"n. 伤害, 创伤, 损害
 v. 伤害, (使)伤心, 危害, 刺痛"
-hyaline,玻璃质，玻璃蛋白，透明蛋白
+hyaline,"a. 玻璃似的, 透明的
+n. 镜似的海, 晴朗天空"
 hybrid,"n. 混血儿, 杂种, 混合物
 a. 混合的, 杂种的, 混合语的
 [计] NetWare的主机实用程序, 双重用户建立程序"
@@ -6818,7 +7149,8 @@ hydrate,"n. 水合物, 水化合物, 氢氧化物
 vt. 使成水化合物"
 hydration,"n. 水合
 [化] 水合"
-hydrocarbon,n. [有化] 碳氢化合物
+hydrocarbon,"n. 碳氢化合物
+[化] 烃; 碳氢化合物"
 hydrocephalus,"n. 脑积水
 [医] 脑积水"
 hydrochloric,"a. 氯化氢的, 盐酸的"
@@ -6885,7 +7217,7 @@ hyperglycemia,"n. 多糖症, 高血糖症"
 hyperglycinemia,高甘氨酸血
 hyperimmune,超免疫
 hyperimmunization,"超免疫法, 高度免疫法"
-hyperinflation,恶性通货膨胀
+hyperinflation,n. 恶性通货膨胀
 hyperinsulinemia,"[医] 血胰岛素增多, 高胰岛素血"
 hyperintensity,[网络] 高信号；高讯号强度；变强
 hyperkalemia,"[医]血钾过多, 高钾"
@@ -6895,15 +7227,16 @@ hyperlipemia,n. <主美> = hyperlipaemia
 hyperlipidemia,"n. [医]血脂过多, 高脂血"
 hyperlipidemic,[网络] 症；高脂血症性
 hypermagnesemia,"[医] 血镁过多, 高镁血"
-hypermedia,n. 超媒体
+hypermedia,"[计] 多介质的, 超媒体"
 hypermenorrhea,[医]月经过多
 hyperopia,"n. 远视
 [医] 远视"
 hyperostosis,"n. [医]骨肥大, 骨肥厚"
-hyperoxaluria,尿草酸盐过多
+hyperoxaluria,草酸尿; 高草酸尿症
 hyperoxide,"n. 过氧化物
 [化] 超氧化物(O,--2为一价基)"
-hyperparathyroidism,甲状旁腺机能亢进
+hyperparathyroidism,"n. 甲状旁腺机能亢进
+[医] 甲状旁腺机能亢进"
 hyperplasia,"n. 增生, 增殖
 [医] 增生"
 hyperplastic,"a. [医]增生的, 数量性肥大的"
@@ -6915,7 +7248,8 @@ hyperreactivity,[网络] 高反应性；过度反应
 hyperreflexia,[医]反射亢进
 hypersecrete,无
 hypersecretion,n. [医]分泌过多
-hypersensitivity,超敏性
+hypersensitivity,"n. 过敏症, 高灵敏度
+[医] 过敏[性]"
 hypersomnia,"n. [医]睡眠过度, 嗜睡"
 hypersplenism,[医] 脾机能亢进
 hyperstimulation,[网络] 刺激过度；过度刺激；刺激型
@@ -6924,7 +7258,7 @@ hypertension,"n. 高血压, 过度紧张
 [医] 高血压, 血压过高, 张力过强, 压力过高"
 hypertensive,"a. 高血压的
 n. 高血压"
-hypertext,超文本
+hypertext,[网络] 超文本；超文字；超文件
 hyperthermia,"[化] 过热
 [医] 高温, 热"
 hyperthymia,"n. 情感增盛, 心情激越"
@@ -7010,7 +7344,8 @@ hypothermia,"n. 低体温
 hypothesis,"n. 假设
 [化] 假设"
 hypothesize,"vt. 假设, 假定"
-hypothetical,[数] 假设的
+hypothetical,"a. 假设的, 有待证实的, 假定的, 有前提的
+[计] 理想的"
 hypothyroidism,"n. 甲状腺功能减退
 [医] 甲状腺机能减退"
 hypotonic,"a. [医]张力减退的, 低渗的"
@@ -7089,10 +7424,12 @@ illusion,"n. 幻影, 错觉, 幻想
 illustrate,"vt. 举例说明, 作图解, 阐明
 vi. 举例说明"
 illustrative,"a. 说明的, 解说的, 作例证的"
-image,"n. 图像；形象；影像；意象
-v. 反映；想像；象征；使…成像
-[网络] 图片；图象；映像"
-imagination,[网络] 想象
+image,"n. 影像, 肖像, 想象, 图像, 形象, 翻版
+vt. 作...的像, 反映, 想象, 象征
+n. 图像
+[计] 图象"
+imagination,"n. 想像, 听觉, 想像力
+[医] 想像"
 imagine,"vt. 想像, 设想, 猜测
 vi. 想像起来"
 imaging,"[计] 成象
@@ -7107,8 +7444,8 @@ imipramine,"[化] 米帕明; 丙咪嗪
 imitate,"vt. 模仿, 效法, 冒充, 仿造"
 immature,"a. 不成熟的, 未完全发育的, 粗糙的
 [医] 未成熟的"
-immediate,"a. 立即的, 直接的, 接近的
-[医] 直接的, 立即的"
+immediate,"adj. 立即的；立刻的；目前的；当前的
+[网络] 立竿见影；眼前"
 immense,"a. 极广大的, 无边的, 非常好的"
 immerse,"vt. 沉浸, 使陷入
 [医] 浸[入]"
@@ -7139,13 +7476,13 @@ immunoblotting,[化] 免疫印迹; 免疫印迹法
 immunocompetence,n[生].免疫活性
 immunocompetent,a. [生]免疫活性的
 immunocomplex,免疫复合体
-immunocompromised, [医]免疫妥协
+immunocompromised,a. 免疫系统受损伤[削弱]的
 immunocytochemistry,n. 免疫细胞化学
-immunodeficiency,[网络] 免疫不全病症
+immunodeficiency,"n. 免疫缺陷, 免疫缺损"
 immunodominant, [医]免疫显性的
 immunoediting,[网络] 免疫编辑；免疫剪辑过程；免疫学者以免疫校订
-immunoelectron,免疫电子
-immunoelectrophoresis,[临床] 免疫电泳
+immunoelectron,[医]免疫电子
+immunoelectrophoresis,n. [生]免疫电泳
 immunoenhancement,免疫增强法; 免疫增强作用
 immunoevasin,无
 immunofluorescence,n. [免疫] 免疫荧光；萤光免疫检验法
@@ -7163,7 +7500,7 @@ immunology,"n. 免疫学
 immunomodulator,免疫调节剂
 immunopathology,n. 免疫病理学(研究体液和细胞免疫因子所造成的病理损伤 )
 immunophilin,抑免蛋白
-immunoprecipitation, [医]免疫沉淀法
+immunoprecipitation,n. [生]免疫沉淀反应
 immunoprophylaxis,"接种免疫, 免疫预防"
 immunoproteasome,[网络] 免疫蛋白酶体
 immunoradiometric,[医]免疫放射测定的
@@ -7175,7 +7512,8 @@ immunostimulation,"n. 免疫刺激作用
 immunosuppressant,n. [药]免疫抑制剂
 immunosuppression,n. 免疫抑制
 immunosuppressive,a. 免疫抑制的
-immunotherapy,免疫疗法
+immunotherapy,"n. 免疫疗法
+[医] 免疫疗法"
 immunotolerance,"免疫耐受性, 免疫反应迟钝"
 immunotoxicology,免疫毒理学
 immunotoxin,"抗毒素, 免疫毒素"
@@ -7236,12 +7574,14 @@ impurity,"n. 杂质, 不洁, 不纯
 [化] 杂质"
 imputation,"n. 归罪, 非难
 [法] 归属, 归罪, 转嫁"
-inability,在能力方面
+inability,"n. 无能, 无力"
 inactivate,"vt. 使不活动, 撤销, 使失去活性, 灭活
 [医] 灭活, 使不活动"
 inactivation,n. [生物] 失活；[化学] 钝化（作用）
-inactive,adj. 不活跃的；不活动的；怠惰的；闲置的
-inactivity,[网络] 在活动；目标感
+inactive,"a. 不活动的, 停止的, 怠惰的, 闲置的
+[计] 非活动的"
+inactivity,"n. 不活动, 不活泼, 休止状态
+[经] 商业呆滞"
 inadequacy,"n. 不适当, 不足之处, 不充分
 [医] 机能不全, 闭锁不全, 关闭不全"
 inadequate,"a. 不充分的, 不适当的
@@ -7253,7 +7593,7 @@ inapparent,a. 不明显的；不显著的
 inappropriate,"a. 不适当的, 不相称的"
 inattention,"n. 不注意, 粗心, 疏忽"
 inborn,adj. 天生的；先天的
-inbred,[网络] 近交品系
+inbred,"a. 天生的, 同系繁殖的"
 incapable,"a. 无能力的, 不能的
 [机] 不能行的, 耐不住的"
 incapacitate,"vt. 使无能力, 使无行为能力
@@ -7261,13 +7601,14 @@ incapacitate,"vt. 使无能力, 使无行为能力
 incapacitation,"n. 无能力, 无资格"
 incentive,"n. 动机
 a. 激励的"
-inception,初始位置
+inception,"n. 起初, 获得学位"
 incessant,"a. 不断的, 不绝的, 无尽的"
 incessantly,"adv. 不断地, 不停地; 接连不断; 连绵不断; 不已"
 incidence,"n. 发生, 发生率, 影响, 负担者, 入射, 倾角
 [医] 入射, 发生率, 发生数"
-incident,"n. 事件, 事变, 小事
-a. 附带的, 易于发生的, 外来的, 入射的"
+incident,"adj. 【法】附带的；入射的；易起的；附随的
+n. 发生的事情（尤指不寻常的或讨厌的）；严重事件；（两国间的）摩擦
+[网络] 事变；事故；小事件"
 incidental,"a. 附带的, 偶然的, 容易发生的
 n. 附带事件"
 incineration,"n. 烧成灰, 焚化, 灰化
@@ -7291,11 +7632,13 @@ incompetence,"n. 不胜任, 不够格, 不合格, 不适合, 无能力, 不熟�
 [医] 机能不全, 闭锁不全, 关闭不全"
 incompetent,"a. 无能力的, 无资格的, 机能不全的, 不胜任的
 n. 无能力者"
-incomplete,[网络] 未完成学业
+incomplete,"a. 不完全的, 未完成的, 不完善的
+[机] 不完全的"
 inconceivable,"a. 不能想象的, 想不到的, 难信的"
 inconclusive,"a. 非决定性的, 无效果的, 不得要领的
 [法] 非决定性的, 不确定的, 无结果的"
-inconsistency,[网络] 不一致性
+inconsistency,"n. 不一致, 易变, 前后矛盾的事物
+[法] 前后矛盾, 不一致"
 inconsistent,"a. 不一致的, 易变的, 前后矛盾的
 [法] 矛盾的, 不一致的, 不协调的"
 incontinence,"n. 无节制, 荒淫, 失禁
@@ -7305,7 +7648,7 @@ incorporate,"a. 合并的, 组成公司的, 一体化的
 vt. 吸收, 合并, 使组成公司, 体现
 vi. 合并, 混合, 组成公司"
 incorrectly,adv. 错误地；不适当地
-increased,"增加的,增长的,增殖的,增大的"
+increased,a. 增强的（increase的过去分词）
 increasingly,"adv. 逐渐地, 渐增地"
 increment,"n. 增加, 增值, 盈余
 [计] 增量"
@@ -7344,7 +7687,8 @@ indigestion,"n. 消化不良
 [医] 消化不良, 不消化"
 indirect,"a. 间接的, 非直截了当的, 不坦率的
 [医] 间接的"
-indiscretion,n. 轻率；言行失检
+indiscretion,"n. 鲁莽, 不慎重, 轻率
+[法] 言行失检, 轻率, 不慎重"
 indiscriminate,"a. 无差别的, 任意的, 杂乱的
 [医] 无差别的, 普遍的"
 indispensable,"n. 不可缺少之物
@@ -7368,13 +7712,15 @@ inducer,"n. 引诱者, 诱导物
 inducible,a. 可导致的；可诱导的
 induction,"n. 归纳法, 感应, 就职, 入门
 [计] 归纳法"
-induration,n. 硬化；[医] 硬结；顽固；无情
+induration,"n. 硬化, 无情, 顽固
+[医] 硬结"
 industrial,"a. 工业的, 供工业用的, 工业高度发展的, 产业的
 n. 工业工人, 工业股票"
 industry,"n. 勤劳, 工业, 企业, 产业, 有组织的劳动
 [经] 工业, 实业"
 indwelling,[网络] 内住；内居
-ineffective,adj. 无效的，失效的；不起作用的
+ineffective,"a. 无效的
+[法] 失效的, 无效的, 效率低的"
 inefficacy,"n. 无效果, 无疗效
 [医] 无效, 无效力"
 inefficiency,"n. 无效率, 无能
@@ -7440,13 +7786,16 @@ influence,"n. 影响力, 权力, 势力
 vt. 影响, 改变"
 influenza,"n. 流行性感冒
 [医] 流行性感冒, 流感"
-influx, 冻结磁通
+influx,"n. 流入, 河口, 汇集
+[医] 注入, 流入"
 informality,n. 非正式
-information,[网络] 形成中；永远都在队伍中；信息
-information superhighway,信息高速公路.
+information,"n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉
+[计] 信息"
+information superhighway,[计] 信息高速公路
 informative,"a. 提供消息的, 见闻广博的"
 infraclavicular,[医] 锁骨下的
-infrared,红外
+infrared,"un. 红外线的
+[网络] 非接触式温度传感器"
 infrastructure,[网络] 基础结构；基础建设；水电路等基础设施
 infrequent,"a. 稀少的, 珍贵的, 罕见的"
 infrequently,"adv. 很少发生, 不常发生, 罕见, 稀罕, 偶有, 不寻常"
@@ -7509,11 +7858,12 @@ injection,"n. 注射, 注射剂
 injudicious,"a. 欠思考的, 不聪明的
 [法] 判决不当的"
 injudiciously,adv. injudicious的变形
-injure,"[法] 在法律上, 依照法律"
+injure,"vt. 伤害, 损害, 使受冤屈
+[医] 损伤"
 injurious,"a. 有害的, 不公正的
 [法] 伤害的, 有害的, 不公平的"
-injury,"n. 伤害, 侮辱
-[医] 伤, 损伤"
+injury,"n. 损伤；挫伤
+[网络] 伤害；受伤；损害"
 innate,"a. 先天的, 天生的
 [医] 先天的, 生来的"
 innervate,"vt. 使受神经支配, 使神经分布于"
@@ -7535,9 +7885,10 @@ inoperable,"a. 不能动手术的
 inorganic,"a. 无机的, 无生物的, 非自然形成的
 [医] 无机的"
 inotropic,"a. [医]影响肌肉收缩力的,变力的"
-inpatient, [医]住院病人
-inquest,寻找；设法找到；为了寻求…
-inquire,未装订
+inpatient,(=inpatient)住院病人
+inquest,"n. 审讯, 讯问, 验尸
+[医] 验尸"
+inquire,"v. 询问, 问明, 查究"
 inquiry,"n. 质询, 探索, 调查, 询盘
 [计] 询问; 查询"
 insanity,"n. 疯狂, 愚顽, 精神错乱
@@ -7562,11 +7913,13 @@ insertion,"n. 插入, 刊载, 插入物
 insidious,"a. 隐伏的, 阴险的, 狡猾的
 [医] 隐袭的"
 insidiously,"adv. 阴险, 狡诈, (疾病)不知不觉之间加剧, 伺机陷害, 毒而诱人, 隐袭, 隐匿"
-insight,被看到
+insight,"na. 看得见；“in/within sight”的变体
+[网络] 内视；洞见；洞察力"
 insignificant,"a. 无关紧要的, 无意义的, 琐碎的"
 insist,"v. 坚持, 坚决主张, 强调"
-in situ,"在原来位置
-[医] 原位"
+in situ,"n. 原位; 现场
+a. 原位的
+adv. 在原位"
 insoluble,"a. 不能溶解的, 不能解决的
 [医] 不溶解的"
 insomnia,"n. 失眠症
@@ -7583,7 +7936,8 @@ inspissate,"vt. 使浓缩, 使变浓
 a. 浓厚的, 强烈的"
 instability,"n. 不安定, 不稳定
 [医] 不稳定性"
-install,vt. 安装；设置；正式任命；使就职；任用；安顿；安置
+install,"vt. 安装, 安置, 使就职
+[计] 安装, 安装程序; DOS内部命令:安装常驻程序"
 installation,"n. 安装, 装置, 就职
 [医] 结构, 装置, 设立"
 instance,"n. 建议, 情况, 例子, 场合
@@ -7596,7 +7950,8 @@ instinct,"n. 本能, 直觉
 a. 充满着的"
 institute,"vt. 开始（调查）；制定；创立；提起（诉讼）
 n. 学会，协会；学院"
-institution,[网络] 刚刚开始研究中国制度；新制度经济学把制度
+institution,"n. 机构, 惯例, 制度
+[医] 机关, 机构, 设施"
 institutional,"a. 制度的, 公共机构的, 学会的
 [法] 组织机构的, 制度的, 公共机构的"
 instruction,"n. 指令, 教导, 命令
@@ -7621,9 +7976,12 @@ insulin,"n. 胰岛素
 insulinoma,n. 胰岛瘤
 insult,"n. 侮辱, 无礼, 损害
 vt. 损害, 侮辱, 攻击"
-insurance,n. 保险；保险费；保险契约；赔偿金
-intact,[网络] 完好无缺
-intake,[网络] 吸收；语言获得
+insurance,"n. 保险, 保险业, 保险费
+[医] 保险"
+intact,"a. 尚未被人碰过的, 原封不动的, 完整的
+[医] 完整的, 无伤的"
+intake,"n. 入口, 吸入, 吸入量
+[医] 摄取量"
 integral,"n. 整体, 积分, 整数
 a. 固有的, 整体的, 整数的, 积分的
 [计] 积分"
@@ -7640,16 +7998,19 @@ integument,"n. 覆盖物
 [医] 体被, 皮, 珠被, 包膜"
 intellectual,"n. 有知识者, 知识分子, 凭理智做事者
 a. 智力的, 用脑力的, 聪明的"
-intelligence,[网络] 智力；理解力；智能
+intelligence,"n. 智力, 情报, 信息
+[医] 智力"
 intelligible,"a. 可理解的, 易理解的, 纯概念性的"
 intemperate,"a. 不节制的, 不温和的, 饮酒过度的"
 intended,"adj. 故意的，有意的；打算中的
 n. 已订婚者
 v. 打算；准备（intend的过去分词）"
-intense,[网络] 紧张
+intense,"a. 非常的, 强烈的, 紧张的, 热情的
+[医] 强的"
 intensify,"vt. 加强
 vi. 强化"
-intensity,[网络] 强度；亮度
+intensity,"n. 强烈, 紧张, 强度
+[计] 强度; 亮度"
 intensive,"adj. 加强的；集中的；透彻的；加强语气的
 n. 加强器"
 intent,"n. 意图, 含义, 故意
@@ -7671,12 +8032,14 @@ n. 互换；立体交叉道"
 interchangeable,adj. 可互换的；可交换的；可交替的
 interchangeably,"adv. 可交换地, 可交替地, 可互换地"
 interchromosomal,染色体间的
-intercommunication,n. 相互联系，相互沟通；互相联络
+intercommunication,"n. 相互联系, 互通, 双方通信, 内部通信联络, 多方通信
+[计] 内部通信, 多向通信, 互通"
 intercostal,"a. 脉间的
 [医] 肋间的"
 intercourse,"n. 交往, 交流
 [医] 交际, 往来"
-intercurrent,adj. 间发的；中途发生的
+intercurrent,"a. 介入的, 并发的, 间发的
+[医] 间发的, 介入的"
 interdependence,[网络] 相互依存；依赖；互相依赖
 interdependent,[网络] 依赖的；互相依存的；相互依存
 interdigitate,"vi. (两手的手指)交错对插
@@ -7685,10 +8048,10 @@ interface,"n. 分界面, 接触面, 界面
 [计] 接口, 界面"
 interfere,"vi. 妨碍, 冲突, 干涉, 抵触
 [医] 干扰, 干涉, 阻碍, 碰腿(马)"
-interference,"n. 冲突, 干涉
-[计] 干扰"
+interference,"n. 干涉；干预；介入；（无线电信号的）干扰
+[网络] 我们在这服务你"
 interferon,"n. 干扰素
-[化] 干扰素"
+[网络] 如干扰素；干涉素；干扰子"
 intergenic,基因间的
 interindividual,[网络] 个体间；个人间的互动
 interior,"n. 内部, 内政
@@ -7713,7 +8076,8 @@ internist,"n. 内科医师
 [医] 内科医师"
 interoceptor,"n. 内感受器
 [医] 内感受器"
-interoperability,[网络] 互操作性；互通性；互测
+interoperability,"n. 〔计〕互用性
+[网络] 互操作性；互通性；互可操作性"
 interphase,"n. 分裂期间, 中间相
 [医] 核分裂间期"
 interpose,"vt. 使插入, 使介于二者间, 使干涉
@@ -7723,7 +8087,7 @@ vi. 翻译, 解释"
 interpretable,"a. 可说明的, 可翻译的"
 interpretation,"n. 解释, 演出, 翻译
 [计] 插值; 插值法; 解释"
-interrelation,相互关系
+interrelation,n. 相互关系
 interrogation,"n. 审问, 疑问句, 问号
 [电] 询问"
 interrupt,"vt. 中止，中断，阻碍；遮断；打断(别人讲话等)；打扰；打破…的平衡(或连续性等)
@@ -7732,10 +8096,12 @@ n. 中断；暂停；隔阂；距离；分隔；裂痕；【计算机】中断�
 interscapular,a. [解]肩胛间的
 intersex,"n. 阴阳人, 兼具两性特征者
 [医] 雌雄间性, 间性, 雌雄间体"
-interspace,间隙;间隔(带)
+interspace,"n. 空间, 中间, 空隙
+vt. 使留空隙, 占据...之间"
 interspecific,a. 种间的
 intersperse,"vt. 散布, 点缀"
-interstitial,填隙的
+interstitial,"a. 空隙的, 裂缝的, 有空隙的
+[医] 间隙的, 间质的"
 interstitium,[医] 小间隙
 interval,"n. 间隔, 距离, 间歇, 间隙
 [计] 时间间隔"
@@ -7744,9 +8110,11 @@ intervene,"vi. 插入, 调停, 干涉
 intervention,"n. 插入, 介入, 调停
 [经] 干预"
 interventional, [医]介入的； 干涉的
-intervertebral,adj. [解剖] 椎间的
-interview,"n. 接见, 采访；面试, 面谈
-vt. 采访；接见；对…进行面谈；对某人进行面试"
+intervertebral,"a. 椎骨间的, 脊椎骨间的
+[医] 椎[骨]间的"
+interview,"n. 面试；访谈；面谈；会谈
+v. 面谈；访问；对（某人）进行面试（或面谈）；接受面试
+[网络] 采访；去面试；我会采访了别人了"
 intervillous,[医] 绒毛间的
 intestinal,"a. 肠的, 肠内的
 [医] 肠的"
@@ -7768,11 +8136,12 @@ intoxication,"n. 使醉, 沉醉状态
 intraabdominal,[医] 腹内的
 intraalveolar,"牙糟内,肺泡内的"
 intraaortic,balloon counterpulsation 【医学】 主动脉内气囊对抗搏动法
-intraarterial,[医] 动脉内的
-intraarticular,[医] 关节内的
+intraarterial,[网络] 动脉内的
+intraarticular, [医]关节内的，节间的
 intrabronchial,[医] 支气管内的
 intracardiac,a. 心脏内的
-intracellular,adj. 细胞内的
+intracellular,"a. 胞内的, 细胞内的
+[医] 细胞内的"
 intracerebral,a. 大脑内的
 intracordally,无
 intracranial,"a. 颅内的
@@ -7781,7 +8150,7 @@ intractability,"n. 难驾驭, 难操作"
 intractable,"a. 不听话的, 倔强的, 棘手的
 [医] 顽固的, 难治的"
 intracytoplasmic,[医] 胞质内的
-intradermal,真皮内的
+intradermal,"皮内的, 皮层内的"
 intraepithelial,[医] 上皮内的
 intragenic,a. [生]基因内的
 intrahepatic,adj. [解剖] 肝内的
@@ -7789,15 +8158,18 @@ intraject,无
 intralipid,英脱利匹特(30%)
 intraluminal,"a. 管腔内的
 [医] 管腔内的"
-intramural,[网络] 壁内部的闭塞；子宫内
-intramuscular,adj. 肌肉的；肌肉内的
+intramural,"a. 校内的, 内部的
+[医] 壁内的"
+intramuscular,"a. 肌内的
+[医] 肌内的"
 intramusculary,肌肉内
 intranasal,[医] 鼻内的
 intranuclear,adj. [核] 在原子核内的；[细胞] 在细胞核内的
 intraocular,[医] 眼内的
 intraoperative,"外科手术进行时发生(或遇到,采取)的"
 intrapericardial,[医] 心包内的
-intraperitoneal,腹膜内的
+intraperitoneal,"a. 腹膜内的
+[医] 腹膜内的"
 intrapleural,[医] 胸膜内的
 intrastromal,[医] 基质内的
 intrathecal,[医] 鞘内的
@@ -7805,7 +8177,8 @@ intrathoracic,"a. [解]胸内的, 胸廓内的"
 intrauterine,[医] 子宫内的
 intravascular,"a. 血管内的
 [医] 血管内的"
-intravenous,adj. 静脉内的
+intravenous,"a. 静脉内的
+[医] 静脉内的"
 intravenously,"adv. 静脉内地, 静脉注射地"
 intraventricular,a. [解]心室内的
 intravesical,[医] 膀胱内的
@@ -7844,7 +8217,9 @@ n. 不变量"
 invasion,"n. 侵犯, 侵入, 侵害
 [医] 侵袭, 侵入, 发病"
 invasive,"a. 侵入的, 侵略性的, 攻击性的"
-inverse,"以诗体,用诗歌"
+inverse,"a. 倒转的, 相反的
+n. 反向, 反面
+[计] 反白, 反色"
 inversely,"adv. 相反地
 [机] 反的, 反对"
 inversion,"n. 倒转, 倒置, 倒装
@@ -7857,16 +8232,18 @@ invertebrate,"a. 无脊椎的, 无骨气的
 n. 无脊椎动物, 无骨气的人"
 inverted,"a. 倒转的, 反向的"
 investigate,"v. 调查, 审查"
-investigation,n. 调查；调查研究
+investigation,"n. 调查, 审查
+[医] 调查, 调查研究"
 investment,"n. 投资
 [医] 包埋料, 围模料, 包埋法, 围模法"
 invisible,"a. 看不见的, 无形的
 [经] 无形的, 表面上看不见的, 未列在公开帐目的"
-in vitro,"在试管内, 在体外
-[化] 体外; 活体外; 试管内"
-in vivo,"在活体内
-[化] 体内; 活体内"
-involuntary,adj. 无意识的；自然而然的；不知不觉的
+in vitro,"n. 〈外〉在试管内
+[网络] 体外；离体；体外测试法"
+in vivo,"na. 〈外〉在活微生物中出现的
+[网络] 体内；活体；活体内"
+involuntary,"a. 自然而然的, 无意识的, 不知不觉的, 偶然的, 不随意的
+[医] 不随意的"
 involute,"a. 纷乱的, 复杂的, 内卷的
 n. 渐开线
 vi. 内卷, 恢复原状, 消失"
@@ -7883,7 +8260,8 @@ iodine,"n. 碘, 碘酒
 iodization,"[化] 碘化作用
 [医] 碘化作用"
 iodohippurate,碘马尿酸钠
-ion, …行为；…状态
+ion,"n. 离子
+[化] 离子"
 ionic,"a. 离子的, 爱奥尼亚的, 爱奥尼亚韵律的, 爱奥尼亚式的
 n. 爱奥尼亚方言"
 ionizable,a. 可电离的
@@ -7904,10 +8282,15 @@ iridocyclitis,n. [医]虹膜睫状体炎
 iris,abbr. International Research Information Service 工业研究与信息服务处
 iritis,"n. 虹膜炎
 [医] 虹膜炎"
-iron,[网络] 铁；铁含量
+iron,"n. 熨斗；烙铁；坚强
+vt. 熨；用铁铸成
+adj. 铁的；残酷的；刚强的
+vi. 熨衣；烫平
+n. (Iron)人名；(英)艾恩"
 irradiate,"vt. 照耀, 启发, 使灿烂, 放射
 vi. 发光, 变灿烂"
-irradiation,[网络] 红外辐射；红外线辐射；图像仿真
+irradiation,"n. 发光, 光线, 照射
+[化] 辐射; 辐照"
 irrational,"n. 无理数
 a. 无理性的, 不合理的"
 irregular,"n. 不规则物, 不合规格之物
@@ -7946,14 +8329,16 @@ ischemia,"n. 局部出血, 局部贫血
 ischemic,"a. 局部出血的, 局部贫血的
 [医] 局部缺血的"
 ischialgia,[医] 坐骨神经痛
-island,[网络] 陆地
+island,"n. 岛, 岛屿, 孤立地区, 安全岛
+vt. 使成岛状, 孤立"
 islet,"n. 小岛
 [医] 岛, 小岛"
-isoagglutinin,"[医] 同种凝集素, 同族凝集素"
-isoantibody,[医] 同种抗体
+isoagglutinin,"n. [生]同种凝集素, 同族凝集素"
+isoantibody,"n. [生]同种抗体,同族抗体"
 isochromosome,n. [生](细胞)等臂染色体
-isoelectric,"[医] 等电的, 等电势的"
-isoenzyme,同功酶
+isoelectric,"a. 等电位的, 零电位差的"
+isoenzyme,"n. 同功酶, 同工酶
+[化] 同工酶"
 isoferritin,异铁蛋白
 isoform,[医] 对碘氧基苯甲醚
 isogeneic,"a. [生]同基因的,同系的"
@@ -7986,7 +8371,8 @@ isozyme,"n. [生化]同工酶 , 同功酶"
 issue,"n. 发行, 问题, 后果, 流出, 出口, 争端
 vi. 发行, 流出, 造成...结果, 传下
 vt. 使流出, 放出, 发行, 发布, 发给"
-isthmus,地崃
+isthmus,"n. 地峡, 峡部
+[医] 峡"
 itch,"n. 痒, 渴望, 疥疮
 vi. 发痒, 渴望"
 itching,"a. 渴望的, 痒的
@@ -8004,7 +8390,7 @@ vt. 使患黄疸, 使怀偏见"
 jaw,"n. 颚, 颌
 v. 闲谈, 教训, 唠叨"
 jejunal,[医] 空肠的
-jejunoileostomy,[医] 空肠回肠吻合术
+jejunoileostomy,n. 空回肠吻合术；空肠回肠吻合术
 jejunum,n. 空肠
 jeopardize,"vt. 危害, 使受危困, 使陷危地"
 jerk,"n. 性情古怪的人, 急拉, 肌肉抽搐, 牛肉干
@@ -8025,7 +8411,8 @@ journal,"n. 日记, 杂志, 日报
 judge,"n. 法官, 裁判员, 审判官, 鉴定人
 vt. 审理, 鉴定, 判断, 判决, 裁定
 vi. 下判断, 作评价"
-judgement,判决，判断，评审
+judgement,"n. 审判, 判决, 判断
+[经] 判定, 审定, 鉴定"
 judicious,"a. 头脑精明的, 贤明的, 判断正确的"
 jugular,"a. 咽喉的, 颈部的, 颈静脉的
 n. 颈静脉"
@@ -8083,7 +8470,8 @@ junk,"n. 垃圾, 乌七八糟的东西, 舢板
 [计] 清除"
 justifiable,"a. 可辩解的, 可证明的, 有理的
 [法] 正当的, 不可非议的, 可办明的"
-justification,n. 理由；辩护；认为有理，认为正当；释罪
+justification,"n. 辩护, 证明正当, 释罪
+[计] 调整"
 justify,"vt. 替...辩护, 证明
 vi. 证明合法
 [计] 段落重排, 两端对齐"
@@ -8092,7 +8480,7 @@ a. 少年的, 不成熟的, 适于少年的"
 juxtacortical,"adj. 近皮质的
 [网络] 近密质骨；近皮质型"
 juxtaglomerular,a. [生理]近肾小球的
-kala-azar, 黑热病
+kala-azar,"[医] 黑热病, 内脏利什曼病"
 kalium,"n. 钾
 [医] 钾(19号元素)"
 kaliuresis,尿钾排洩
@@ -8140,7 +8528,7 @@ kidney,"n. 肾, 个性
 [医] 肾"
 killer,"n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器
 [计] 删除程序; 断路器"
-kilobase,[生化] 千碱基
+kilobase,n. 千碱基对（核酸链长度单位）
 kilocalorie,n. [热] 千卡；[热] 大卡
 kilovoltage,千伏电压
 kinase,"n. 激酶, 致活酶
@@ -8157,14 +8545,15 @@ kinin,激肽
 kininase,n. [生化]激肽酶
 kininogen,n. [生化]激肽原
 kinking,[化] 扭结; 打扣; 打结; 纵向弯曲
-kit,"n. 装备, 工具箱, 成套工具
-[计] 成套部件; 成套零件"
+kit,"v. 装备
+n. 成套工具；配套元件；成套设备；全套衣服及装备
+[网络] 套装及附件；允许玩家使用所有物品包；厨房置物架"
 klebsiella,[医] 克雷白氏杆菌属
 knee,"n. 膝, 膝盖
 vt. 膝行, 用膝盖碰"
 knit,"v. 编织, 结合"
-knockout,"na. 敲出；敲空；使屈服；使无用
-[网络] 击倒；击昏；打破"
+knockout,"n. (拳击)击倒对方, 被击倒, 击倒, (非正式)令人倾慕的人/物, 轰动的事物
+a. 击倒的, 引人注目的, 轰动的, 使昏迷的"
 knowledgeable,"a. 聪明的, 有知识的"
 kochia,"n. 地肤
 [网络] 地肤属；碱地肤"
@@ -8172,7 +8561,8 @@ koilocyte,[网络] 挖空细胞；凹空细胞；凹空的角化细胞
 kwashiorkor,"n. 夸休可尔症, 恶性营养不良"
 kyphoscoliosis,"n. 侧凸
 [医] 脊柱后侧凸"
-kyphosis,后凸
+kyphosis,"n. 驼背
+[医] 脊柱后凸, 驼背"
 kyphotic,"[医] 脊柱后凸的, 驼背的"
 label,"n. 标签, 称号, 商标, 标志
 vt. 贴标签于, 标注
@@ -8183,8 +8573,9 @@ labile,"a. 不安定的, 易发生变化的
 lability,"[医] 不稳定性, 易变性"
 laboratory,"n. 实验室, 研究室, 化工厂
 [医] 实验室, 检验室, 化验室"
-labour,"n. 劳动力，人工；分娩
-vi. 劳动；分娩；费力地前进"
+labour,"n. 劳动；劳动力；分娩；工人
+v. 努力做（困难的事）；干苦力活；困难吃力地行进
+[网络] 劳工；工党；工作"
 labyrinth,"n. 迷宫, 难解事物, 迷路
 [化] 迷宫; 曲径"
 lacerate,"vt. 划破, 割破, 使痛心, 撕碎
@@ -8214,7 +8605,8 @@ lacuna,"n. 空白, 空隙, 阙文
 lacunar,"n. 花格平顶, 花格平顶的凹板
 a. 有花格平顶的"
 Lagovirus,兔病毒
-lamina,[地名] 拉米纳 ( 巴拿、洪 )
+lamina,"n. 薄板, 薄片, 薄层, 叶片
+[医] 板, 层, 叶片(植物)"
 laminectomy,n. [医] 椎板切除术
 languor,"n. 怠惰, 疲倦, 无气力
 [医] 疲倦, 无力"
@@ -8256,14 +8648,19 @@ vt. 制做格子, 使成格子状
 [计] 格"
 laurocapram,[网络] 月桂氮酮；月桂氮卓酮；月桂氮桌酮
 lavage,"[医] 灌洗, 洗出法"
-lax,[网络] 洛杉矶国际机场；点由洛杉矶
+lax,"a. 松的, 不严格的, 腹泻的, 松弛的
+n. 腹泻, 松元音"
 laxative,"a. 通便的, 轻度腹泻的
 n. 通泻剂, 缓泻药"
-lead,[网络] 成长计划
+lead,"n. 铅, 铅条, 领导, 超前量, 领引, 榜样, 主角, 导线
+vt. 引导, 带领, 领导, 指挥, 致使, 加铅于, 用铅包
+vi. 领导, 带头, 导致, 用测深锤测深, 被铅覆盖
+a. 带头的, 最重要的"
 leak,"n. 漏洞, 漏处, 漏出, 泄漏
 vi. 漏, 泄漏
 vt. 使渗漏"
-leakage,漏洩，流失
+leakage,"n. 漏, 漏出物, 泄漏
+[化] 漏电; 漏水; 漏气; 渗漏; 漏失量; 漏出量"
 lean,"n. 瘦肉, 倾斜, 倾斜度
 a. 瘦的, 贫乏的, 歉收的
 vi. 倚靠, 倾斜, 依赖
@@ -8274,7 +8671,7 @@ Lecythophora,油瓶霉属
 leflunomide, [医]来氟米特<消炎镇痛药>
 Legionella, [医]〔复legionellae〕军团杆菌
 legionellosis,[网络] 军团病；军团病是军团杆菌；军团菌感染
-legionnaires' disease,军团病(一种严重的肺部传染病)
+legionnaires' disease,n. 军团病（由细菌引起的严重肺部疾病，尤通过空调及类似系统传播）
 legislation,"n. 立法, 法律
 [医] 立法, 法规"
 legitimate,"a. 合法的, 正当的, 婚生的
@@ -8336,7 +8733,7 @@ leukoplakia,n. [医] 黏膜白斑病
 leukopoietin,白细胞生成素
 leukotriene,[化] 白三烯
 levamisole,"n. [药]左咪唑,左旋(四)咪唑,左旋驱虫净(广谱驱肠虫药及免疫增强药)"
-levodopa,左旋多巴
+levodopa,n. <美>=L-dopa
 levorphanol,"[医] 左吗啡(商品名,左旋-3-羟-N-甲基吗啡烷,止痛药)"
 levothyroxine, [医]左旋甲状腺素
 levulose,"n. 果糖
@@ -8361,15 +8758,19 @@ lid,"n. 盖子, 限制, 眼睑
 vt. 给...盖盖子"
 lidocaine,"[化] 利多卡因
 [医] 利多卡因, 塞罗卡因"
-lie,[网络] 长岛迷情；少男初体验；中间
+lie,"n. 谎言, 假象, 位置
+vi. 躺着, 说谎, 位于, 展现, 存在, 停泊
+vt. 谎骗"
 life-expectancy,"[计] 估计寿命, 预期使用寿命
 [化] 耐用期限"
 lifeless,"a. 无生命的, 无趣味的, 死气沉沉的"
 lifelong,"adj. 终身的
 [网络] 终身险；终身服用；是长寿"
-lifespan,[化] 使用期限; 有效期限
-life-threatening,a. 威胁生命的
-lifetime, 使用期限，寿命
+lifespan,n. 预期生命期限；寿命；预期使用期限
+life-threatening,"un. 危急生命的
+[网络] 生命迫切威胁"
+lifetime,"n. 一生, 终生
+a. 一生的, 终生的"
 ligament,"n. 结带, 纽带, 韧带
 [医] 韧带"
 ligamentous,a. [解]韧带的
@@ -8390,9 +8791,13 @@ likewise,"adv. 同样地, 也"
 limbic,[医] 缘的
 limit,"n. 界限, 边界, 限度, 极限, 限制
 vt. 限制, 限定"
-limitation,[网络] 局限性
+limitation,"n. 限制, 缺陷, 限额
+[医] 限界, 限制, 限度"
 lincomycin,"n. [微]林肯霉素,洁霉素"
-line,"comb.form 表示“电话服务”：jokeline [参较 chatline, helpline]"
+line,"n. 列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系
+vt. 排成一行, 顺...排列, 划线于, 加衬里, 使有线条, 使起皱纹
+vi. 排队
+[计] 线路"
 lineage,"n. 血统, 直系
 [法] 血统, 世系"
 linear,"a. 线的, 直线的, 线状的
@@ -8403,11 +8808,11 @@ a. 亚麻布制的, 亚麻的"
 linezolid,[网络] 利奈唑胺；利奈唑酮；利奈唑烷
 liniment,"n. 涂敷药
 [化] 搽剂"
-lining,李宁
-link,"n. 环, 连结物, 链接, 火把
-vt. 连结, 联合, 挽住
-vi. 连接起来
-[计] 连接, 链路"
+lining,"n. 衬里, 内层, 衬垫
+[化] 衬里; 衬垫; 衬套; 衬层"
+link,"n. 链接；连接；联系；纽带
+v. 联系；把（物体、机器、地方等）连接起来；相关联
+[网络] 系动词；把……和……联系起来；链环"
 linkage,"n. 联合, 连锁, 结合, 联动
 [计] 连接"
 linked,a. 连接的；显示连环遗传的；联合的
@@ -8437,7 +8842,8 @@ lipomatosis,脂(肪)过多症
 lipophilic,"a. 亲脂性的
 [化] 亲油的; 亲脂的"
 lipopolysaccharide,n. [生化]脂多糖
-lipoprotein,脂肪蛋白质
+lipoprotein,"n. 脂蛋白
+[化] 脂蛋白"
 liposarcoma,n. [医]脂肪肉瘤
 liposome,"[化] 脂质体
 [医] 微脂粒"
@@ -8454,9 +8860,10 @@ lithotripsy,[医] 碎石术
 lithotripter, [医]碎石机
 liver,"n. 肝脏, 生活者, 居民
 [医] 肝"
-load,"n. 负载，负荷；工作量；装载量
-vi. [力] 加载；装载；装货
-vt. 使担负；装填"
+load,"n. 负荷, 担子, 重担, 装载量, 负载, 工作量, 加载
+vt. 装载, 装填, 使担负
+vi. 装货, 上客, 装料
+[计] 加载, 装入程序"
 lobar,"a. 叶的
 [医] 叶的"
 lobe,"n. 叶, 耳垂, 裂片
@@ -8469,7 +8876,9 @@ lobomycosis,瘢痕疙瘩性芽生菌病
 lobular,"a. 有小叶的
 [医] 小叶的"
 lobulated,[医] 分成小叶的
-local,abbr. low calorie 低卡路里
+local,"a. 地方性的, 当地的, 局部的, 乡土的, 本地的
+n. 当地居民, 本地新闻, 局部
+[计] 本地的; 局部"
 localization,"n. 局限, 地方化
 [化] 定位化"
 localize,"vt.vi. 使地方化, 使具有地方性, 使限制于局部, 确定起源, 集中, 局限
@@ -8477,9 +8886,11 @@ localize,"vt.vi. 使地方化, 使具有地方性, 使限制于局部, 确定起
 locally,"adv. 地方性地, 局部性地, 在当地"
 locate,"vt. 找出, 设于, 位于
 vi. 定居"
-location,[网络] 偏重于以区位
+location,"n. 位置, 场所, 特定区域
+[计] 位置"
 lochia,n. [医]恶露(分娩后的子宫阴道分泌物)
-locomotion,n. 运动；移动；旅行
+locomotion,"n. 运动, 移动, 旅行
+[医] 行动, 运动"
 locus,"n. 轨迹；地点, 所在地"
 lodge,"n. 小屋, 门房, 支部, 旅舍, 分会
 vi. 临时住宿, 倒伏, 寄宿, 投宿
@@ -8492,7 +8903,8 @@ longevity,"n. 长命, 长寿, 寿命
 [医] 长寿"
 longitudinal,"a. 经度的, 经线的, 纵的
 [医] 纵的"
-long-term, 长期的
+long-term,"adj. 长期的；时间持续很长的；(资本,借贷等的)涉及较长期限的
+[网络] 长期借款比例；在全式；成都龙台家具有限公司"
 loop,"n. 环, 圈, 弯曲部分, 循环
 vt. 使成环, 以圈结, 以环连结
 vi. 打环, 翻筋斗
@@ -8525,7 +8937,8 @@ luminal,"n. 鲁米那(镇静刺)
 lump,"n. 块, 瘤, 很多, 肿块, 笨人
 vt. 使成块状, 混在一起
 vi. 结块"
-lunar,[地名] 卢纳河 ( 巴西 )
+lunar,"a. 阴历的, 月的, 微亮的(指光)
+[医] 月的, 银的"
 lupus,"n. 狼疮, 豺狼座
 [医] 狼疮"
 lustreless,"a. 无光泽的, 无光彩的"
@@ -8535,12 +8948,11 @@ luteinize,v. 使成为黄体部份
 luteum, [医]（拉）黄色，黄体酮，己酸孕酮
 luxurious,"a. 豪华的, 奢侈的, 放纵的"
 lyme,"arthritis 莱姆关节炎(伴有疼痛、发热与皮肤红斑) , grass [植]欧滨麦"
-lymph,"n. 淋巴
-[医] 淋巴, 浆, 苗"
+lymph,"(=lympho-) 表示“淋巴的,淋巴管的”之义"
 lymphadenectomy,[医] 淋巴切除术
 lymphadenitis,"n. 淋巴腺炎
 [医] 淋巴结炎(旧名淋巴腺炎)"
-lymphadenoma,淋巴瘤
+lymphadenoma,n. [医]淋巴腺瘤
 lymphadenopathy,[医] 淋巴结病
 lymphangiography,n. [医]淋巴管造影术
 lymphangioma,n. [医]淋巴管瘤
@@ -8569,21 +8981,24 @@ lyophobic,a. [化] 疏液的胶体
 lyse,comb.form [主英国英语] =-lyze
 lysine,"n. 赖氨酸
 [化] 赖氨酸"
-lysis,n. 细胞溶解；病势减退；消散
+lysis,"n. 溶解, 病势减退, 消散
+[化] 溶解; 细胞溶解; 溶胞; 溶胞作用; 溶菌; 溶菌作用; (医)松解术; 减退"
 lysogeny,"n. [生]溶原性,溶原现象"
 lysosomal, [医]溶酶体的
 lysosome,"n. 溶酶体
 [化] 溶酶体; 溶菌体"
 lysozyme,"n. 溶菌酶
 [化] 溶菌酶"
-lytic,a. 细胞溶素的；促使细胞溶解的；渐退的
+lytic,"a. 溶菌作用的
+[化] 溶解的; 细胞溶解的; 溶胞的; 溶菌的; 松解的; 分解的"
 maceration,"n. 浸软, 浸渍, 浸解, 消瘦, 饿瘦
 [化] 浸渍"
 macroautophagy,[网络] 自噬；巨自噬；大自噬
 macrocytic, [医]大红细胞的
 macrocytosis,n. [医]大红细胞症
 macroglobulinemia,巨球蛋白血(症)
-macromolecule, 高分子
+macromolecule,"n. 巨分子, 高分子
+[化] 高分子; 大分子"
 macronutrient,[机] 大量营养剂
 macrophage,"n. 巨噬细胞
 [化] 巨噬细胞"
@@ -8595,8 +9010,8 @@ magenta,"n. 品红色, 洋红
 [化] (碱性)品红; 洋红"
 magnesium,"n. 镁
 [化] 镁Mg"
-magnet,"n. 磁铁, 有吸引力之人, 有吸引力之物
-[化] 磁体"
+magnet,"n. 磁铁；[电磁] 磁体；磁石
+n. (Magnet)人名；(塞)马格内特；(西)马涅特；(法)马涅"
 magnetic,"a. 有磁性的, 有吸引力的, 催眠术的
 [医] 磁[性]的"
 magnetism,"n. 磁性, 吸引力, 磁学, 催眠术
@@ -8610,13 +9025,13 @@ magnitude,"n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)
 magnolia,"n. 木兰, 浅桃红色
 [医] 木兰属"
 magnolol,木兰醇
-mainstay, 主桅前支索
+mainstay,"n. 主桅支索, 支柱, 中流砥柱"
 maintenance,"n. 维护, 保持, 维修, 生活费用, 坚持, 扶养
 [计] 维护; 维修"
 majority,"n. 多数, 大半
 [计] 多数逻辑"
-makeup,"na. 弥补；起草；定；签订
-[网络] 组成；化妆；编造"
+makeup,"弥补, 赔偿, 配制, 包装, 编辑, 虚构, 缝制, 组成, 和解, 结算, 整理, 化装
+[经] 弥补, 赔偿, 内部运装"
 malabsorption,"n. 吸收不良, 养料吸收障碍
 [化] 吸收障碍"
 malady,"n. 病, 疾病, 弊病
@@ -8630,8 +9045,9 @@ male,"n. 男人, 雄性动物
 a. 男性的, 雄性的, 有力的"
 malformation,"n. 变形(体), 畸形
 [医] 畸形, 变形"
-malfunction,"vi. 发生故障；不起作用
-n. 故障；失灵；疾病"
+malfunction,"n. 故障, 失灵, 疾病
+vi. 发生故障, 不起作用
+[计] 故障"
 malignancy,"n. 恶意, 邪恶, 恶性肿瘤
 [医] 恶性"
 malignant,"a. 有恶意的, 恶性的, 有害的
@@ -8650,7 +9066,8 @@ a. 哺乳动物的"
 mammogram,[医] 乳房X线照片
 mammography,"n. 早期胸部肿瘤X射线测定法
 [医] 乳房X线照相术"
-manage,[网络] 管理；成年人
+manage,"vi. 处理
+vt. 管理, 控制, 维持, 达成, 经营, 运用"
 management,"n. 经营, 支配, 管理
 [化] 管理处"
 mandatory,"a. 命令的, 托管的
@@ -8661,9 +9078,10 @@ maneuver,"n. 演习, 调遣, 策略
 v. 调遣, 演习, 用计"
 manganese,"n. 锰
 [化] 锰; 锰酸盐"
-mania, …狂；…癖
-manic,"a. 躁狂的
-n. 躁狂者"
+mania,"n. 狂躁, 热衷, 狂热
+[医] 躁狂, 狂"
+manic,"adj. 躁狂的；狂热的
+n. 躁狂症者"
 manifest,"n. 载货单, 运货单, 旅客名单
 a. 显然的, 明白的
 vi. 显示, 出现
@@ -8719,7 +9137,7 @@ massage,"n. 按摩, 揉
 vt. 按摩, 揉"
 massive,"a. 大而重的, 宽大的, 宏伟的
 [医] 大块的, 整块的, 大量的"
-mast cell,n. 肥大细胞
+mast cell,na. 【生】肥大细胞
 mastectomy,"n. 乳房切除术
 [医] 乳房切除术"
 masticate,v. 咀嚼
@@ -8743,7 +9161,8 @@ maternal,"a. 母亲的, 母系的, 母方的
 [医] 属母的, 母的, 母性的"
 maternity,"n. 母性, 怀孕, 妇产科医院
 a. 产妇的"
-mathematical,[数] 数学的
+mathematical,"a. 数学的, 精确的
+[机] 数学上的"
 mathematically,adv. 算术地
 mathematics,"n. 数学
 [机] 数学"
@@ -8803,9 +9222,9 @@ medication,"n. 药物治疗, 药物处理, 医药
 medicolegal,a. 法医学的
 mediocre,"a. 不好不坏的, 通常, 平凡的"
 meditation,"n. 沉思, 冥想"
-medium,"n. 媒体, 方法, 媒介
-a. 半生熟的, 中间的
-[计] 媒体, 中"
+medium,"n. （传播信息的）媒介；手段；工具；方法
+adj. 中等的；中号的
+[网络] 灵媒缉凶；一般；中等个子"
 MEDLARS,[计] 医学资料分析与检索系统
 MEDLINE,n. <美>联机医学文献分析和检索系统
 medulla,"n. 骨髓, 髓质, 脊髓
@@ -8860,10 +9279,11 @@ meningitis,"n. 脑膜炎
 meningococcal, 脑膜炎球菌的
 meningococcemia,[医]脑膜炎球菌血症
 meningococcus,n. [微]脑膜炎球菌
-meningoencephalitis,脑膜脑炎
+meningoencephalitis,n. [医]脑膜脑炎
 menometrorrhagia,[医]月经过多
 menopausal,[医] 绝经的
-menopause,n. 更年期
+menopause,"n. 绝经期
+[医] 绝经"
 menorrhagia,n. [医]月经过多
 menotropin,[网络] 促月经素；用促生育素；用促生育索
 mensis,<拉>月经
@@ -8873,7 +9293,8 @@ menstruate,"vi. 有月经
 [医] 行经"
 menstruation,"n. 月经, 月经期间
 [医] 月经, 行经"
-mental,"suf. 表示""行为的"""
+mental,"a. 心智的, 精神病的, 心理的, 颏的
+n. 精神病患者"
 mentally,"adv. 心理上, 精神上, 智力上
 [法] 精神上, 智力上"
 mental-status,精神状态
@@ -8883,8 +9304,8 @@ meprobamate,"n. [药]安宁,眠尔通, 氨甲丙二酯(安定药)"
 mercaptopurine,"n. [药]巯(基)嘌呤(尤指6-巯基嘌呤,用以治疗急性白血病)"
 mercurial,"a. 水星的, 敏捷的, 活泼的, 水银的
 n. 汞剂"
-mercury,"n. 水银, 汞, 使者
-[化] 汞Hg"
+mercury,"n. 水银；水银柱；精神
+n. (Mercury)人名；(法)梅屈里"
 mercy,"n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运
 [法] 权宜处置权, 决定权, 宽恕"
 merge,"vt. 使合并, 使消失, 吞没
@@ -8934,9 +9355,8 @@ metacentric, 具中间着丝粒的
 metacercaria,n. [动]后囊蚴
 metagenomics,"n. 元基因组学
 [网络] 宏基因组学；宏基因组学研究；宏基因组进展"
-metal,"n. 金属, 金属制品, 合金, 本质, 质料
-a. 金属制的
-vt. 以金属覆盖"
+metal,"na. 同“metallurgy”；“metall.”的变体
+[网络] 金属口；金属电台；金属探测器"
 metalloenzyme,n. [生化]金属酶
 metalloid,"a. 非金属的, 准金属的, 类似金属性的
 n. 非金属, 类似金属, 准金属"
@@ -8947,7 +9367,8 @@ metaplasia,"n. 组织变形
 [医] [组织]转化, 化生, 组织变形"
 metaplastic,"[医] 后成质的, [组织]转化的, 化生的"
 metaproteome,[网络] 元蛋白质
-metastable,adj. [物][化学] 亚稳的；相对稳定的
+metastable,"a. 亚稳的
+[化] 亚稳的; 亚稳态的; 介稳的; 介稳态的"
 metastasis,"n. 转移, 新陈代谢, 移位变化
 [化] 移位变化; 失α-微粒变化; 转移"
 metastasize,"vi. 转移
@@ -8955,7 +9376,8 @@ metastasize,"vi. 转移
 metastatic,"a. 转移性的, 变态的, 变形的, 由转移所致的
 [医] 转移的, 迁徒的"
 metatarsophalangeal,[医] 跖趾的
-methacholine,乙酰甲胆碱
+methacholine,"[化] 醋甲胆碱
+[医] 乙酰甲胆硷"
 methadone,"[化] 美沙酮; 美散痛
 [医] 美沙酮, 美散痛(镇痛药)"
 methane,"n. 甲烷, 沼气
@@ -8972,21 +9394,22 @@ methodologically,adv. 方法学(methodological的变形)
 methodology,"n. 方法学, 方法论
 [化] 操作法; 工艺"
 methotrexate,[化] 甲氨蝶呤; 氨甲蝶呤
-methyl,"n. 甲基
-[化] 甲基"
+methyl,"n. 【化】甲基
+[网络] 甲基烟酸甲酯(Methylnicotinate)；甲醇；羟基苯甲酸甲酯"
 methylate,"n. 甲醇化物
 vt. 混入甲基, 混入甲醇"
 methylation,"[化] 甲基化作用(指加甲基作用和加甲醇使酒精变性的作用)
 [医] 甲基化[作用]"
-methyldopa,甲基多巴
+methyldopa,"n. [药]甲基多巴(C&-{10}H&-{13}NO&-{4}, 降血压药)"
 methylenetetrahydrofolate,[网络] 亚甲基四氢叶酸
 methylmalonic acidemia,无
 methylmalonic aciduria,[化] 甲基丙二酸尿
-methylmercury,甲基汞
+methylmercury,n. 甲基水银
 methylphenidate,"[化] 哌醋甲酯; 利他灵
 [医] 苯哌啶醋酸甲酯"
-methylprednisolone,甲基脱氢皮质(甾)醇
-methyltestosterone,[医] 甲基睾酮
+methylprednisolone,"n. [药]甲强龙,甲基强的松龙,6-甲强的松龙,6-甲氢化泼尼松"
+methyltestosterone,"[化] 甲睾酮
+[医] 甲基睾[丸]酮, 甲基睾丸素"
 meticulous,"a. 一丝不苟的, 精确的, 过细的"
 meticulously,"adv. 过细地, 细致地"
 metoclopramide,"n. [药]灭吐灵,胃复安"
@@ -9018,7 +9441,7 @@ microcapsule,"n. 微胶囊,微囊体(含有化学物质或药物等,囊体破裂
 microcephaly,"n. 小头畸型
 [医] 小头"
 microchimerism, [医]微嵌合状态，微嵌合性（体）
-microcirculation, 微循环
+microcirculation,[医] 微循环
 microcirculatory, [医]adj.微循环的
 microclimate,"n. 微气候
 [网络] 微型气候；小气候；区域气候"
@@ -9028,25 +9451,30 @@ microcystin,[网络] 微囊藻毒素；微囊藻素；含强致肝癌剂微囊�
 microdeletion, 染色体微缺失
 microdissection, [医]显微解剖
 microembolus,微栓子
-microemulsion,[化] 微乳; 微乳状液
+microemulsion,n. 微乳液; 可溶化乳油; 微乳剂
 microencapsulation,[化] 微囊包封
-microenvironment,个体环境；微观环境
+microenvironment,"n. 小环境
+[化] 微环境"
 microfilaria,n. [动]微丝蚴
-microflora,微植物群
+microflora,"[医] 微[生]植物区系, 微植物丛"
 microglia,[医] 小神经胶质[细胞]
-microgram,[网络] 微毫克
+microgram,"n. 微观图
+[医] 微克, 显微照片"
 micrometer,[网络] 微米；千分尺；测微计
 micron,"n. 微米
 [计] 微米"
 micronize,"vt. 使微粉化
 [医] 微粒化"
 micronucleus,"n. [动]小核,微核(指原生动物纤毛虫类体内较小的细胞核, 有遗传功能)"
-micronutrient, 微量营养元素
-microorganism,生物
+micronutrient,"n. 微量营养素
+[机] 微量营养"
+microorganism,"n. 微生物, 微小动植物
+[化] 微生物"
 micropenis,[医] 小阴茎
 microRNA, [遗]微RNA
 microsatellite, [航天]微卫星
-microscope,[网络] 显微镜
+microscope,"n. 显微镜
+[化] 显微镜"
 microscopic,"a. 显微镜的, 用显微镜可见的, 微观的, (非正式)极微小的, 细微的
 [计] 微观的"
 microscopically,"adv. 用显微镜, 通过显微镜"
@@ -9065,11 +9493,16 @@ microtiter, [医]微量滴定法
 microtubule,"n. 微管
 [化] 微管"
 microvillus,"n. [生](细胞表面的)微绒毛,微小突起物,指状突"
-microwave, [医]微波
+microwave,"n. 微波炉；【物】电磁微波
+v. 用微波炉加热(或烹饪)
+[网络] 微波法；微波加热；微波实验"
 micturition,"n. 频尿, 排尿
 [医] 排尿"
-midway,"中途,半路,在半路上"
-midwife, 产婆
+midway,"n. 中途, 中间, 娱乐场
+a. 中途的, 中间的
+adv. 中途"
+midwife,"n. 助产士, 接生婆
+[医] 助产士"
 midwifery,"n. 助产术, 产科学
 [医] 助产学, 产科学"
 migraine,"n. 严重的周期性偏头痛
@@ -9085,24 +9518,27 @@ mildew,"n. 霉
 vi. 发霉, 生霉
 vt. 使发霉"
 mildly,"adv. 柔和地, 和善地, 适度地"
-milestone, [交]里程碑
+milestone,"n. 里程碑, 里程石, 里程标"
 miliary,"a. 粟粒状的, 粟粒大的, 粟疹的
 [医] 粟粒状的, 粟粒性的"
-milieu,n. 环境；周围；出身背景
+milieu,"n. 周围, 社会环境, 环境, 表达的手法
+[医] 环境"
 military,"n. 军队
 a. 军事的, 军人的, 适于战争的"
 milliliter,"n. 毫升
 [医] 毫升"
-millimeter,[网络] 公厘
+millimeter,"n. 毫米
+[医] 毫米"
 mimic,"a. 模仿的, 摹拟的
 n. 效颦者, 模仿者, 小丑, 仿制品
 vt. 模仿, 摹拟"
-mineral,"n. 矿物, 无机物, 苏打水
-a. 矿物的, 似矿物的"
+mineral,"n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
+adj. 矿物的；矿质的"
 mineralization,"n. 矿化, 使含矿物
 [化] 矿化"
 minidose,n. 小剂量，微剂量，(小粒的)口服药
-minimal,
+minimal,"a. 最小的, 极微的, 最小限度的
+[医] 最小的, 最低的"
 minimally,adv. 最低限度地；最低程度地
 minimization,"n. 减到最小限度, 估到最低额, 轻视"
 minimize,"vt. 将...减到最少
@@ -9112,7 +9548,7 @@ vi. 最小化
 minimum,"a. 最小的, 最低的
 n. 最小值
 [计] 最小值"
-minisatellite,超小卫星
+minisatellite, [医]小卫星序列
 minor,"n. 未成年人, 副修科目
 a. 较小的, 二流的, 未成年的
 vi. 副修
@@ -9140,18 +9576,19 @@ miscode,vt.[生]错编(密码)
 misdiagnose,vt. 误诊
 misdiagnosis,n. 错误的诊断
 misinterpret,vt. 曲解
-mismatch,"vt. 使配错
-n. 错配；不协调"
+mismatch,"n. 错配
+vt. 错配, 使...成不相配的婚姻"
 mispair,错配
 miss,"n. 失误, 避免, 失败, 小姐
 vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
 vi. 失败, 击不中"
-missense,[网络] 错义；错义突变
+missense,n. & adj.[生]错义(的)
 mistakenly,"adv. 错误地, 被误解地"
 mistreat,"vt. 虐待
 [法] 虐待, 苛待"
 misunderstand,"vt. 误解, 误会"
-misunderstanding,n. 误解；误会；不和
+misunderstanding,"n. 误会, 误解
+[法] 误解, 误会, 不和"
 mite,"n. 尽绵薄之力的捐献, 细微, 微少, 螨
 [医] 螨"
 mithramycin,光神霉素
@@ -9172,7 +9609,8 @@ vt. 使混合, 弄混, 使结合, 混淆
 vi. 相混合, 交往, 参与"
 mixture,"n. 混合, 混淆, 混合物
 [化] 混合物"
-mobile,[网络] -移动
+mobile,"a. 移动的, 易变的, 机动的
+n. 活动物体"
 mobility,"n. 可动性, 流动性, 机动性
 [化] 迁移率"
 mobilization,"n. 动员, 调动, 活动法
@@ -9194,7 +9632,8 @@ moderate,"a. 适度的, 稳健的, 中等的, 节制的
 vt. 节制, 减轻, 使缓和
 vi. 变缓和, 主持会议"
 moderately,"adv. 适当地, 适度地, 中庸地"
-modification,n. 修改，修正；改变
+modification,"n. 修正, 修饰, 修改
+[化] 修饰; 修改"
 modifier,"n. 修正的人, 修饰语
 [计] 修改量"
 modify,"vt. 修正, 变更, 修饰, 缓和, 减轻
@@ -9202,8 +9641,8 @@ vi. 被修改
 [计] 修改"
 modulate,"vt. 调整, 使转调, 控制
 vi. 转调, 调制"
-modulation,"n. 调制, 调节, 语调
-[计] 调制"
+modulation,"n. 调节；调整；调幅；变换
+[网络] 调制"
 modulator,"n. 调节人, 调光器, 调制器
 [医] 调制器, 调幅器"
 moiety,"n. 一半, 一部分, 应得之份
@@ -9218,9 +9657,12 @@ molar,"a. 磨碎的, 臼齿的, 摩尔的, 克分子的
 n. 臼齿, 磨牙"
 molarity,"n. 克分子浓度, 容模
 [化] 体积摩尔浓度; 体积克分子浓度(中英文均已废除)"
-mold,"n. 模子, 模型, 霉
-v. 形成, 塑造, 发霉"
-mole,分子[量]；摩尔
+mold,"n. 模具；霉；霉菌；铸模
+v. 塑造；对…影响重大；将…塑造成；吻合
+abbr. (=mould)
+[网络] 模子；模型；成型"
+mole,"n. 痣, 鼹鼠, 防波堤, 摩尔, 克分子
+[化] 摩尔"
 molecular,"a. 分子的, 由分子组成的
 [医] 分子的"
 molecule,"n. 分子, 些微
@@ -9230,7 +9672,7 @@ monilia,[医] 念珠菌属
 monitor,"n. 监督器, 级长, 监听员, 班长, 监视器, 告诫物
 v. 监视, 监听, 监督
 [计] 监视器, 监视程序; 监视"
-monkshood,[网络] 般若
+monkshood,"n. [植] 附子之类(毒草),舟形乌头"
 monoamine,[化] 一元胺
 monoclonal,a. [生]单克隆的
 monocular,"a. 单眼的, 单眼用的"
@@ -9253,8 +9695,8 @@ monosodium,[医] 一钠
 monosomy,单体性(染色体)
 monoxide,"n. 一氧化物
 [医] 一氧化物"
-mood,"n. 心情, 气氛, 生气, 基调
-[医] 心境"
+mood,"n. 情绪；心情；气氛；氛围
+[网络] 语气；甲心情；沐恋商旅"
 morbid,"a. 致病的, 病态的, 疾病的, 可怕的
 [医] 病的"
 morbidity,"n. 病态, 发病, 罹病率
@@ -9336,17 +9778,23 @@ n. 复因子"
 multifactorial,[网络] 多因素；多因子疾病；多因子
 multifold,[数] 多重的，[数] 多倍的
 multiformat, [医]多辐的
-multifunctional,adj. 多功能的
+multifunctional,"[计] 多功能的
+[化] 多官能的; 多功能的"
 multigenic, [医]多基因（的）
-multimedia,[网络] 多媒体；多媒体的语音功能；多媒体影像
-multimodality,n. [统计] 多峰性
+multimedia,"multimedia
+[,mʌlti'mi:diə]
+adj.
+多媒体的；使用多种媒体的；同时使用形象、光影、声响效果的
+n.
+[复数，用作单数](同时使用影片、幻灯、音乐等多种手段的)混合舞台效果；多媒体的采用"
+multimodality,[网络] 多模态；多模融合；多模态配准
 multipara,"n. 经产妇, 非初产妇
 [医] 经产妇"
 multiphase,"adj. [电] 多相的；多方面的
 n. 多相"
-multiplanar,多层面采集
-multiple,"n. 倍数, 并联
-a. 多样的, 许多的, 多功能的"
+multiplanar, [医]多维的
+multiple,"adj. 多重的；多样的；许多的
+n. 倍数；[电] 并联"
 multiplication,"n. 乘法, 增加, 乘法运算
 [医] 增殖; 倍增"
 multiplicity,"n. 相重性, 多重性, 多样
@@ -9376,7 +9824,8 @@ muscularis,[医] 肌的; 肌层
 musculature,"n. 肌肉系统
 [医] 肌肉系统"
 musculoaponeurotic,[医] 肌腱膜的
-musculoskeletal, [医]肌肉骨骼的
+musculoskeletal,"a. 肌与骨骼的
+[医] 肌[与]骨胳的"
 mutagen,"n. 诱变剂
 [医] 诱变剂, 致变物"
 mutagenesis,"[医] 诱变, 引起突变"
@@ -9403,8 +9852,9 @@ mycelium,"n. 菌丝体
 [医] 菌丝体"
 mycobacterium,[医] 分直杆菌属
 mycophenolate,[网络] 霉酚酸；霉酚酸酯；霉酚酸脂
-mycoplasma,菌质体；菌原生质；霉浆菌
-mycosis,"真菌病,霉菌病"
+mycoplasma,"n. [微]支原体,支原菌"
+mycosis,"n. 霉菌病
+[医] 霉菌病, 真菌病"
 mycotic,[医] 霉菌病的; 霉菌的
 mycotoxin,[医] 霉菌毒素
 mydriasis,"n. 瞳孔放大
@@ -9467,7 +9917,8 @@ myxoma,"n. 粘液瘤
 [医] 粘液瘤"
 nadir,"n. 天底, 最低点"
 nafcillin,"n. [药]乙氧萘(胺)青霉素,新青霉素III, 萘夫西林"
-nail,[网络] 钉
+nail,"n. 钉子, 指甲
+vt. 用钉钉牢, 使固定, 截住, 揭露"
 naked,"a. 裸体的, 无装饰的, 无保护的, 赤贫的
 [医] 裸露的"
 naloxone,[化] 纳洛酮
@@ -9479,11 +9930,11 @@ nanoparticle, 纳米粒
 nanopharmaceutical,无
 nanorobot, 奈米机器人
 nanosphere, [医]毫微球
-nanotechnology,纳米技术
-nap,"n. 小睡，打盹儿；细毛；孤注一掷
-vt. 使拉毛
-vi. 小睡；疏忽
-n. (Nap)人名；(朝、越)纳"
+nanotechnology,"n. 纳米技术
+[网络] 奈米科技；纳米科技；奈米技术"
+nap,"n. 小睡, 稍睡, 细毛, 孤注一掷
+vi. 小睡, 疏忽
+vt. 使拉毛, 打盹度过, 预测...为获胜马"
 narcolepsy,"n. 嗜眠发作
 [医] 发作性睡眠"
 narcosis,"n. 昏迷状态, 麻醉
@@ -9494,8 +9945,8 @@ naris,"n. 鼻孔
 [医] 鼻孔"
 nasal,"a. 鼻的, 鼻声的, 尖锐的
 n. 鼻音, 鼻音字"
-nasogastric,adj. 鼻饲的
-nasopharynx,鼻咽
+nasogastric,a. [医]鼻饲的
+nasopharynx,[医] 鼻咽
 nasotracheal, [医]鼻支气管的
 natriuresis,n. [医]尿钠排泄
 natriuretic,a. (促)尿钠排泄的
@@ -9508,7 +9959,7 @@ nature,"n. 自然, 大自然, 本性, 性格, 性质
 [医] 自然, 大自然; 本性, 性能"
 nausea,"n. 反胃, 晕船, 恶心, 厌恶
 [医] 恶心"
-nearsightedness, 近视眼
+nearsightedness,[医] 近视
 nebulizer,"n. 喷雾器
 [化] 雾化器; 喷雾器"
 necessarily,"adv. 必然地, 必须地, 必要地"
@@ -9526,10 +9977,10 @@ necrospermia,[医] 死精症
 necrotic,"a. 坏死的, 枯斑的
 [医] 坏死的"
 necrotizing,[医] 引起坏死的
-needle,"n. 针, 尖
-vt. 用针缝
-vi. 缝纫
-[计] 探针"
+needle,"n. 针；指针；刺激；针状物
+vi. 缝纫；做针线
+vt. 刺激；用针缝
+n. (Needle)人名；(英)尼德尔"
 negate,"vt. 否定, 否认, 取消
 [计] 非"
 negative,"n. 否定, 否定语, 负数, 底片
@@ -9541,10 +9992,11 @@ negligible,"a. 可以忽略的, 不足取的, 无用的
 [医] 可不计的, 可忽视的"
 Neisseria,[医] 奈瑟氏菌属
 neoadjuvant, [医]新辅助疗法
-neocentromere,新着丝粒
+neocentromere,[医] 新着丝点
 neomycin,"n. 新霉素
 [化] 新霉素"
-neonatal,[网络] 新生儿
+neonatal,"a. 出生不满一个月的婴儿
+[医] 新生[期]的"
 neonate,"n. 婴儿
 [医] 新生儿; 新生的"
 neoplasia,"n. 瘤形成
@@ -9581,11 +10033,85 @@ nephrotoxicity, 中毒性肾损害
 nerve,"n. 精神, 勇气, 叶脉, 神经
 vt. 鼓起勇气"
 nestin,[网络] 巢蛋白；神经巢蛋白；巢素
-net,"adj. 无虚价的；基本的；最后的；最后的(定论)
-n. 纯利；净值；实价；纯量
-v. 编网；编结网状物；〔诗〕成网状；撒(网)
-[网络] 网络；净重(Netweight)；球网"
-network,[机] 净功
+net,"Net
+[net]
+abbr.
+National Educational Television (美国)全国教育电视网
+n.
+因特网
+短语:
+surfing the Net
+上因特网，网上冲浪
+net1
+[net]
+n.
+网，罗网
+网子，网状物
+捕网，束缚
+网状织物；网眼花边
+(丝状体、血管等的)网状组织
+网状系统；通信网；广播网；间谍网
+互相交织的一组事物
+(网球、乒乓球等的)擦网球；落网球
+[用复数]【冰球】球门
+vt.
+把…织成网；编织；用网做：
+to net one's son a cap
+给儿子织一顶帽子
+(用网)遮盖，遮挡，围住：
+to net a place where a building is being built
+用网遮挡住正在盖楼的地方
+用网捕捉：
+to net birds
+用网捕鸟
+捕捉，诱捕；捕获：
+The police netted a drugpusher in the station.
+警方在火车站抓获了一名毒品贩子。
+(网状地)缠绕；笼罩：
+He was netted by an ill omen.
+一种不详的预兆萦绕着他。
+【广播、电视】联播(节目等)
+【体育】把(球等)击落网；把(球等)踢进网
+vi.
+织网：
+to net for fishing
+织网以备捕鱼
+联成通信网
+【体育】击球落网失分；踢球入网得分
+短语:
+spread one's net for someone
+为某人布置好圈套
+sweep everything into one's net
+网罗一切，把一切可以到手的东西都攫为己有
+变形：
+vt.
+netted
+. netting
+net2
+[net]
+adj.
+净的，纯的
+净重的
+以净价出售的
+最终的，结局的
+n.
+净收入，纯利；净值；净重；净价
+要点，要旨
+最终结果
+【高尔夫球】净得分
+vt.
+使净得，净赚：
+You will net ￡ 2 000 from the deal.
+在这笔交易中，你可净赚2 000英镑。
+使得到；获得：
+He netted the support of all of us.
+他得到了我们所有人的支持。
+变形：
+vt.
+netted
+. netting"
+network,"n. 网络, 广播网, 网状物
+[计] 网络"
 neural,"a. 神经的, 神经系统的, 神经中枢的, 背的
 [医] 神经的"
 neuralgia,"n. 神经痛
@@ -9603,7 +10129,7 @@ neurocutaneous,[医] 神经[与]皮肤的; 皮神经的
 neurocytoma,神经细胞瘤
 neurodegenerative,[网络] 神经系统退化性疾病
 neurodevelopmental, [医]神经发育的
-neuroendocrine,神经-内分泌
+neuroendocrine,[医] 神经内分泌的
 neurofibrillary,a. 神经元纤维的(neurofibril的变形)
 neurofibroma,[医] 神经纤维瘤
 neurofibromatosis,"[医] 神经纤维瘤病, 多发性神经纤维瘤"
@@ -9616,7 +10142,8 @@ neurology,"n. 神经病学
 [医] 神经病学"
 neuroma,"n. 神经瘤
 [医] 神经瘤"
-neuromuscular,神经肌肉的
+neuromuscular,"a. 神经肌肉的
+[医] 神经肌肉的"
 neuromyelitis,[医] 神经脊髓炎
 neuron,"n. 神经原, 轴索, 神经细胞
 [计] 神经元"
@@ -9630,10 +10157,11 @@ neuropeptide,n. [生化]神经肽
 neuropharmacology,n. 神经药理学（药理学的一个重要分支）
 neuropil,[医] 神经纤维网
 neuropsychology,[医] 神经心理学
-neuroscience,n. 神经系统科学（指神经病学、 神经化学等）
+neuroscience,n. 神经系统科学( 指神经病学、 神经化学等)
 neurosis,"n. 神经症, 神经机能病
 [医] 神经机能病, 神经[官能]症"
-neurosurgeon,n. 脑外科医师
+neurosurgeon,"n. 神经外科医师
+[医] 神经外科医师"
 neurosurgery,n. [外科] 神经外科
 neurosurgical,a. <医>神经外科的
 neurotensin,[化] 神经降压素
@@ -9656,8 +10184,8 @@ neutropenia,"n. 嗜中性白血球减少症
 neutrophil,"a. 嗜中性的
 n. 嗜中性白细胞, 嗜中性白血球"
 neutrophilia,[医] 中性白细胞增多[症]
-nevertheless,"仍然
-尽管如此"
+nevertheless,"adv. 然而, 虽然如此
+conj. 然而"
 nevus,"n. 痣
 [医] 痣"
 newborn,"adj. 新生的；再生的
@@ -9683,8 +10211,10 @@ nitrate,"n. 硝酸盐
 [化] 硝酸盐(或酯)"
 nitrite,"n. 亚硝酸盐
 [化] 亚硝酸盐(或酯)"
-nitrobenzene,硝基苯
-nitrocellulose,硝酸纤维素
+nitrobenzene,"n. 硝基苯
+[化] 硝基苯"
+nitrocellulose,"n. 硝化纤维
+[化] 硝酸纤维素"
 nitrofurazone,[化] 硝呋醛; 呋喃西林
 nitrogen,"n. 氮
 [化] 氮N-2"
@@ -9702,38 +10232,55 @@ nocturia,"n. 夜尿
 [医] 夜尿症"
 nocturnal,"a. 夜的, 夜曲的
 [医] 夜间的"
-node,[网络] 节点；节点机
+node,"node
+[nəud]
+n.
+节，结，瘤
+中心点，集合点
+(戏剧、故事情节等的)纠葛，曲折，错综复杂(性)
+【几何学】结，结点，叉点
+【物理学】(波)节
+【天文学】交点
+【植物学】
+苤节
+(茎的)生叶处
+【解剖学】(肌组织的)结，结节；淋巴结
+【病理学】硬结肿
+=nodus [参较 ascending node, descending node]"
 nodosum,[网络] 节根黄精；莠竹
 nodular,"a. 小节的, 地核状的, 小结节的
 [医] 小结的, 结的; 小结状的"
 nodule,"n. 小节, 小瘤, 小结节
 [医] 结, 小结"
 noggin,"n. 小杯, 一杯饮料"
-noise,"n. 噪音, 杂音, 响声, 喧闹
-vt. 谣传
-vi. 喧闹
-[计] 噪声"
-nomenclature,"[计] 名词汇编, 术语表, 术语符号"
+noise,"n. 噪声；噪音；声音；干扰
+v. 吵；哄传；传说；〈罕〉大声谈论
+[网络] 噪点终结者；噪音娱乐系；噪音探测器"
+nomenclature,"n. 命名法, 专门语, 术语
+[化] 命名法; 命名原则"
 noncoding,[网络] 非编码；非编码区；非蛋白编码
 nondepolarizer,非去极化剂
 nondifferential,[网络] 无差异的
-nondiscrimination, 非歧视；非歧视原则
-nondisjunction, 不分开，或非
+nondiscrimination,[网络] 非歧视；非歧视原则；无差别待遇
+nondisjunction,"un. 不分开
+[网络] 不分离；染色体不分离；不分离现象"
 nonfatal,[网络] 非致命；非致命性；非致命错误
-non-genetic, 非遗传
+non-genetic,[网络] 非遗传性的
 non-genotoxic,[网络] 致癌剂可能有非基因毒
-nonhereditary,非遗传的
-nonhomogeneous, 不均匀，非同质
+nonhereditary, [医]非遗传的
+nonhomogeneous,"非齐(次, 性)的, 不[非]均匀的, 非均态的, 多相的"
 noninfectious,[网络] 非传染性疾病；非感染性；非感染组
 noninvasive,"un. 非侵害的
 [网络] 无创美容中心；非侵犯性；采用无副作用疗法"
 nonionized,[网络] 电离的离子化的；非电离的；非离子性
 non-ionizing,"un. 不电离的
 [网络] 非游离"
-nonoperative,非手术的
+nonoperative,"adj. 不动作的；不工作的；无效的
+n. 不工作的
+[网络] 非开刀；未激活的；非手术"
 nonparalytic,[医]非麻痹的，非瘫痪的
 nonparenchymal,[网络] 非实质的
-nonpathogenic,un. 不致病的
+nonpathogenic,"a. [医]非病原的,不致病的"
 nonpolar,[医] 非极性的
 nonproductive,"un. 无痰干咳
 [网络] 非产能区；非生产力"
@@ -9743,17 +10290,18 @@ nonseminoma,[网络] 非精细胞瘤；非精原细胞癌；非精原细胞瘤
 nonsense,"n. 胡说；废话
 a. 荒谬的
 int. 胡说！"
-nonsterile,[网络] 为不经过消毒
+nonsterile,[网络] 非无菌；非消毒包装；非无菌方式
 non-suppurative,[医] 非化脓性的
-nonsurgical,非外科的
-nonsynonymous,[网络] 非同义
-nontoxic,无毒
-nonverbal,adj. 非用言语的
+nonsurgical,[医] 非外科的
+nonsynonymous,[网络] 非同义；非同义突变；非同义变异
+nontoxic,[医] 无毒性的
+nonverbal,"a. 不使用语言的, 非言语交际的"
 nonvirulent,[网络] 无毒
 noradrenaline,"[化] 去甲肾上腺素
 [医] 去甲肾上腺素, 降肾上腺素(旧名正肾上腺素)"
 noradrenergic,"a. 产生去甲肾上腺素的, 去甲肾上腺素激活的"
-norepinephrine,新去甲肾上腺素
+norepinephrine,"n. 去甲肾上腺素
+[化] 去甲肾上腺素"
 norfloxacin,[化] 诺氟沙星; 氟哌酸
 norm,"n. 基准, 模范, 标准, 准则, 平均数
 [化] 定额"
@@ -9764,13 +10312,14 @@ normocytic,[医] 正常红细胞的
 normotensive,"a. 正常血压的
 [医] 血压正常的, 血压正常者"
 norovirus, [医]诺洛病毒可引起病毒性胃肠炎
-nosebleed,[网络] 流鼻血；鼻衄；鼻出血
+nosebleed,"n. 鼻出血
+[医] 鼻出血, 衄血"
 nosocomial,[医] 医院的
 nostril,"n. 鼻孔
 [医] 鼻孔"
 notable,"n. 著名人士, 值得注意之事物
 a. 值得注意的, 显著的"
-noteworthy,[网络] 动人乐章
+noteworthy,"a. 值得注目的, 显著的"
 noticeable,"a. 显而易见的, 显著的, 值得注意的"
 notoriously,"adv. 臭名昭著的, 声名狼藉的"
 nourish,"vt. 滋养, 使健壮, 怀有"
@@ -9790,21 +10339,24 @@ nucleic,a. 核的
 nucleolus,"n. 核, 细胞核, 核仁"
 nucleophile,n. [化]亲核试剂
 nucleophilic,a. 亲核的；亲质子的
-nucleoprotein,核蛋白质
+nucleoprotein,"n. 核蛋白质
+[化] 核蛋白"
 nucleoside,"[化] 核苷
 [医] 核甙"
 nucleosome,n. [生化]核小体
 nucleotide,"n. 核苷酸
 [化] 核苷酸"
-nucleus,环
+nucleus,"n. 核心, 核子, 原子核, 起点
+[计] 核心程序"
 nuisance,"n. 讨厌的东西, 讨厌的人, 损害
 [医] 损害, 讨厌"
 null,"a. 无效力的, 无效的, 无价值的
 n. 零, 空, 零位
 [计] 空"
 nulliparous,"a. 从未生育过者的, 未产妇的"
-numb,"a. 麻木的, 失去知觉的
-vt. 使麻木, 使昏迷, 使失去知觉"
+numb,"adj. (精神、肉体上)麻木的，失去感觉的；麻痹的，迟钝的
+vt. 使麻木；使麻痹，使失去知觉：
+vi. 变得麻木："
 numbness,"n. 麻木, 麻痹
 [医] 麻木"
 numerator,"n. 分子, 计算者, 计算的东西"
@@ -9852,7 +10404,8 @@ obscure,"a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, �
 vt. 使变暗, 隐藏, 使变模糊, 使难解"
 observable,"a. 可遵守的, 可庆祝的, 看得见的, 可辨别的, 观测得到的, 值得注意的, 显著的
 n. 感觉到的事物, 现象"
-observation,[网络] 观察
+observation,"n. 观察, 注意, 观测, 观察力
+[化] 观察"
 obsession,"n. 困扰, 困扰人的情绪
 [医] 强迫观念"
 obsolete,"a. 荒废的, 成废物的, 陈旧的, 老式的
@@ -9896,10 +10449,12 @@ occurrence,"n. 发生, 事件, 出现
 octamer,[化] 八聚物
 octapeptide,n. [生化]八肽
 octreotide, 奥曲肽
-ocular,
+ocular,"a. 眼睛的, 用眼的, 凭视觉的, 目击的
+n. 目镜"
 ocularmucocutaneous,无
 odds,"n. 可能性, 几率, 机会, 胜算, 不平等"
-odor,[网络] 气味
+odor,"n. 气味, 香味, 名声, 意味
+[医] 气味"
 odorless,"a. 无嗅的, 没有气味的"
 odorous,"a. 芬芳的, 臭的, 有气味的"
 offend,"v. 犯罪, 冒犯, 违反, 进攻"
@@ -9911,8 +10466,13 @@ vt. 提供, 出价, 奉献, 试图, 使出现, 演出
 vi. 出现, 献祭, 提议, 求婚"
 official,"n. 官员, 公务员, 职员
 a. 公务的, 官方的, 正式的"
-offset,n. 排列不正
-offspring, 后代
+offset,"n. 抵消, 把...并列, 旁系, 支管, 用胶印法印
+vt. 弥补, 抵消, 胶印
+vi. 装支管
+n. 偏移量
+[计] 偏移量"
+offspring,"n. 子孙, 后代, 产物
+[法] 后辈, 子孙, 后裔"
 ofloxacin, [医]氧氟沙星：广谱抗菌药，作用与诺氟沙星(norfloxacin)相似，对革兰氏阴性细菌广泛有效，口服治疗直肠炎、性病以及下呼吸道、尿路和皮肤感染、眼科外用治疗细菌性角膜溃疡
 oilimmersion,[医] 油浸法(显微镜)
 ointment,"n. 软膏, 油膏
@@ -9926,7 +10486,7 @@ oligodendroglioma,"[医] 少突神经胶质[细胞]瘤, 间胶质瘤"
 oligohydramnios,[医] 羊水过少
 oligomenorrhea,[医] 月经过少
 oligonucleotide,[化] 低核苷酸; 低聚核苷酸; 寡核苷酸
-oligoovulation,排卵过少
+oligoovulation,n. 排卵过少
 oligosaccharide,"n. [生化]低聚糖,寡糖"
 oligospermia,"[医] 精子减少, 精液缺乏"
 oligozoospermia,[网络] 少精子症；精子数量太少称寡精症；少精症
@@ -9938,7 +10498,7 @@ omasum,"n. 重瓣胃
 omental,a. [解]网膜的
 omentin,[网络] 网膜素；网膜素说明书；网膜素价格
 omentum,n. [解]网膜
-omics,
+omics,[网络] 组学；组学技术；基因组学综合杂志
 omission,"n. 省略, 遗漏, 疏忽
 [化] 省略"
 omit,"vt. 省略, 删除, 疏忽, 遗漏
@@ -9951,9 +10511,10 @@ oncology,"n. 肿瘤学
 [医] 肿瘤学"
 oncoprotein, 肿瘤蛋白
 oneirophobia,[网络] 恐梦症
-online,"[经] (与主机)联机, 在线, 机内"
-onset,"adj. 开始
-[网络] 开集；设；起始温度"
+online,"un. 在线的；联机；电站并网；机控
+[网络] 线上人数"
+onset,"n. 开始, 攻击, 进攻
+[医] 起始, 开始"
 ontogeny,"n. 个体发生, 个体发生学
 [医] 个体发生, 个体发育"
 oocyte,"n. 卵母细胞
@@ -10020,7 +10581,8 @@ opsonin,"n. 调理素
 opsonization,[医] 调理素作用
 optic,"a. 眼睛的, 视觉的, 光学的
 n. 镜片"
-optical,[光] 光学的
+optical,"a. 眼睛的, 视觉的, 光学的
+[机] 光学上的, 光学的"
 optimal,"a. 最佳的, 最理想的
 [化] 最优的"
 optimization,"n. 最佳化, 最优化
@@ -10037,11 +10599,12 @@ optional,"a. 可选择的, 随意的
 oral,"n. 口试
 a. 口头的, 口述的, 口部的"
 orally,"adv. 口头, 口语, 口述, 口, 用口发声, 口部"
-orange,"n. 柑橘, 桔子, 橘色
-a. 橘色的"
-orbit,"n. 轨道, 常轨, 眼眶
-vt. 绕...轨道而行
-vi. 进入轨道, 盘旋"
+orange,"adj. 橙色的；橘色的
+n. 橙；橙色；桔子
+n. (Orange)人名；(英)奥林奇；(法)奥朗热"
+orbit,"n. （天体等运行的）轨道；（人、组织等的）影响范围
+v. 沿轨道运行；围绕…运动
+[网络] 轨道玩具"
 orbital,"a. 轨道的, 眼眶的
 [化] 轨道"
 orbitography,[眼]眶造影[术]
@@ -10071,10 +10634,11 @@ a. 有机氯的；有机氯杀虫剂的"
 organogenesis,"n. [生]器官发生, 器官形成"
 organophosphate,"n. 有机磷酸酯（肥料）
 adj. 有机磷酸酯的"
-orient,"n. 东方, 东方诸国
-a. 东方的
+orient,"vt. 使适应；确定方向；使朝东
+n. 东方；东方诸国
+adj. 东方的
 vi. 向东
-vt. 使朝东, 使适应, 确定方向"
+n. (Orient)人名；(西)奥连特；(法)奥里安"
 orientation,"n. 定方位, 适应, 向东方
 n. 方向
 [计] 方向"
@@ -10087,7 +10651,7 @@ n. 原物, 原作"
 originate,"vt. 创始, 发明, 发起
 vi. 发源, 发生, 起航
 [计] 发自"
-ornithine,鸟氨酸
+ornithine,n. [生化]鸟氨酸
 oropharyngeal,adj. 口咽的
 oropharynx,[网络] 口咽
 orthopedic,"a. 整形术的, 整形学的
@@ -10103,7 +10667,8 @@ oscillate,"vi. 振动, 彷徨, 犹豫
 vt. 使振动, 使动摇"
 oscillation,"n. 振动, 动摇, 变动, 彷徨, 电波
 [医] 振动, 摆动"
-oscillograph,示波器
+oscillograph,"n. 示波器
+[化] 示波器"
 oscillopsia,[医] 振动幻视
 osmolarity,[机] 克分渗透压浓度
 osmotic,"a. 渗透的, 渗透性的
@@ -10113,8 +10678,10 @@ osseous,"a. 骨的, 骨质的, 多骨的
 ossific,"a. [生理]骨化的,成骨的"
 ossification,"n. 成骨, 变骨, 骨化, (思想的)僵化
 [医] 骨化"
-osteitis,纤维性骨炎
-osteoarthritis,n. 骨关节炎
+osteitis,"n. 骨炎
+[医] 骨炎"
+osteoarthritis,"n. 骨关节炎
+[医] 骨关节炎"
 osteoarthropathy,骨关节病
 osteoblast,"n. 成骨细胞
 [医] 成骨细胞"
@@ -10130,7 +10697,8 @@ osteogenesis,"n. 骨生成, 成骨, 骨发生
 osteoid,"a. 骨样的
 [医] 骨样的, 类骨质, 前骨质"
 osteolytic,[医] 溶骨的
-osteomalacia,[网络] 骨软化
+osteomalacia,"n. 软骨病, 骨软化
+[医] 骨软化"
 osteomyelitis,"n. 骨髓炎
 [医] 骨髓炎"
 osteopathia,[医] 骨病
@@ -10146,7 +10714,7 @@ osteosarcoma,[医] 骨肉瘤
 osteosclerosis,n. [医]骨硬化
 osteotomy,"n. 截骨术, 骨切开术
 [医] 骨切开术, 切骨术"
-otherwise,[网络] 聪明
+otherwise,"adv. 否则, 不同地, 别的方式"
 otitis,"n. 耳炎
 [医] 耳炎"
 otolaryngology,"n. 耳鼻喉科学
@@ -10154,9 +10722,10 @@ otolaryngology,"n. 耳鼻喉科学
 otosclerosis,[医] 耳硬化症
 otoscope,"n. 耳镜
 [医] 耳镜"
-outbreak, 超欠挖
+outbreak,"n. 爆发, 暴动
+[医] 暴发"
 outburst, [医]脉冲，尖头信号，闪光，爆发
-outcome,n. 结果，结局；成果
+outcome,"n. 结果, 结局；成果"
 outgrow,"vt. 过大而不适于, 长得比...高(或大、快), 成长得不再具有..."
 outline,"n. 大纲, 轮廓, 概要
 vt. 描画轮廓, 描述要点
@@ -10164,49 +10733,64 @@ n. 大纲, 分级, 轮廓
 [计] 大纲, 分级, 轮廓"
 outlook,"n. 观点, 景色, 前途, 了望
 [经] 展望"
-outnumber,vt. 数目超过；比…多
-outpatient,n. 门诊病人
-output, [林]出材率
+outnumber,"vt. 数目超过, 比...多"
+outpatient,"n. 门诊病人
+[医] 门诊病人"
+output,"n. 输出, 产品, 产量
+[计] 输出"
 outright,"a. 率直的, 完全的, 总共的, 直率的
 adv. 完全地, 率直地, 立刻地, 一直向前"
-outstanding,"adj. 杰出的；显著的；未解决的；未偿付的
-n. 未偿贷款"
-ovarian,卵巢癌
+outstanding,"a. 杰出的, 突出的, 未偿付的, 未决定的
+[经] 未解决的, 未偿付"
+ovarian,"a. 子房的, 卵巢的, 果核的
+[医] 卵巢的"
 ovary,"n. 卵巢, 子房, 果核
 [医] 卵巢, 子房"
-overactive,[网络] 呆滞
-overactivity,过度活动
-overall,遍及
-overcome,"vt. 克服；胜过
-vi. 克服；得胜"
+overactive,[医] 活动过度的
+overactivity,"n. 活动过度, 过度活跃"
+overall,"a. 全部的, 全体的, 从头至尾的, 一切在内的
+adv. 从头到尾, 总的说来
+n. 罩衫, 工作服"
+overcome,"vt. 战胜, 克服, 胜过
+vi. 得胜"
 overdiagnosis,[网络] 过度诊断；诊断过滥；诊断过度
 overdistension,[医] 膨胀过度
 overdosage,n. 过剂量
-overdose,[医] 过量
-overdue,过期
-overestimate,[经] 高估
+overdose,"n. 配药量过多
+vt. 配药过量, 使过分沉溺"
+overdue,"a. 过期的, 未兑的, 迟到的, 早就成熟的
+[经] 过期未付的"
+overestimate,"vt. 评价过高, 过高估价
+n. 估计过高, 评价过高"
 overestimation,[网络] 过高估计
-overexposure,过度曝光
-overexpress,[网络] 头颈癌细胞株中过表现
-overhaul,"vt. 分解检查, 大修；追上并超过
-n. 彻底检修, 详细检查"
+overexposure,"n. 曝光过度
+[医] 感光过度, 露光过度"
+overexpress,[网络] 过度表现；过表达；使相关基因超表达
+overhaul,"vt. 分解检查, 翻修, 精细检查, 彻底革新
+n. 分解检查, 精细检查, 大检修"
 overhydration,[医] [体内]水分过多
-overlap,重叠;交错
+overlap,"n. 重叠, 重复, 部分的同时发生
+vt. 重叠, 重复, 与...同时发生
+vi. 迭盖, 部分的同时发生
+[计] 重叠"
 overlie,"vt. 躺在...上面, 压在...上面, 盖得使窒息, 压得...闷死"
-overload, 过度负荷，过负荷
+overload,"vt. 超载, 过载, 超过负荷
+n. 超载, 负荷过多"
 overlook,"vt. 忽略；俯瞰；远眺；检查；高耸于…之上
 n. 忽视；眺望"
 overproduce,"vt. 过度生产
 vi. 过度生产"
-overrate,"n. 过量率
-[网络] 过分夸大安全感的作用"
-overrepresent,[网络] 过份代表
+overrate,"vt. 评价过高, 高估, 估价过高
+[经] 对...估价过高, 高估"
+overrepresent,"vt. 使代表人数超出比例, 使有过多的代表"
 overriding,(over-ride 的现在分词) vi. 搁置
-overseas,"adv. 在海外，海外
-adj. 海外的，国外的"
-oversight,看漏
-overuse, 过度利用
-overwhelming,[网络] 压倒
+overseas,"a. 海外的, 国外的
+adv. 在海外, 在国外"
+oversight,"n. 勘漏, 失察, 失败, 照料
+[经] 监督权"
+overuse,"vt. 使用过度
+n. 过度使用, 任意驱使"
+overwhelming,"a. 压倒性的, 无法抵抗的"
 overwhelmingly,"adv. 压倒性地, 不可抵抗地"
 oviduct,"n. 输卵管
 [医] 输卵管"
@@ -10225,10 +10809,11 @@ oxidase,"[化] 氧化酶
 oxidation,"n. 【化】氧化(作用)
 [网络] 氧化作用；氧化反应；氧化了"
 oxidative,a. 氧化的
-oxide,氧
+oxide,"n. 氧化物
+[医] 氧化物"
 oxidize,"vt. 使氧化, 使生锈
 vi. 氧化"
-oxidoreductase,氧化还原酶
+oxidoreductase,n. [生化]氧化还原酶
 oxycodone,"[化] 羟考酮; 14-羟基二氢可待因酮
 [医] 氧可酮, 14-羟基二氧可待因酮"
 oxygen,"n. 氧
@@ -10247,11 +10832,13 @@ n. 催产剂"
 oxytocin,"n. 催产素
 [化] 缩宫素; 催产素"
 ozonation,[化] 臭氧化; 臭氧化作用
-ozone,[网络] 欧龙；欧志姆；涑爽
+ozone,"n. 新鲜的空气, 臭氧, 使人愉快的影响
+[化] 臭氧"
 pace,"n. 速度, 步调, 步法
 vi. 踱步, 缓慢走
 vt. 用步测, 踱步于"
-pacemaker,"心房脉冲产生器,带跑人"
+pacemaker,"n. 带步人, 标兵, 起搏器
+[医] 起搏点, 起搏器"
 pachytene,"[生]n.粗线期(指细胞减数分裂前期的第三期, 其间配对的染色体变粗并分裂成染色单体)"
 pacing,"[计] 调步, 匀速"
 packed,"a. 充满...的, 满座的, 挤得满满的, 压坚实的, 塞满了...的, 挤满了人的, 拥挤的
@@ -10266,7 +10853,8 @@ painkiller,"n. 【医】止疼药
 paint,"n. 油漆, 颜料, 绘画作品, 涂漆
 vt. 油漆, 绘, 画, 描绘, 装饰, 点缀
 vi. 绘画, 涂漆"
-pair,[地名] 帕伊河 ( 尼日利 )
+pair,"n. 一双, 一对, 一副
+v. (使)成对"
 palate,"n. 腭, 味觉, 趣味, 爱好
 [医] 腭"
 palilalia,[医] 言语重复
@@ -10328,8 +10916,9 @@ papule,"丘疹, 小突起
 [医] 丘疹"
 para-aminosalicylic,对-氨水杨酸
 para-articular,无
-paracentesis,[网络] 腹腔穿刺
-paracetamol,对乙酰氨基酚
+paracentesis,n. [医](放液)穿刺术
+paracetamol,"[化] 对乙酰氨基酚; 扑热息痛
+[医] 醋氨酚, 对乙酰氨基酚"
 paracolic,[医]结肠周围的
 paracortex,"[病理]副皮质区, 淡色拟薄壁组织皮层"
 paracrine,旁泌性
@@ -10367,7 +10956,8 @@ paraplegia,"n. 下身麻痹, 截瘫
 paraplegics,n. 截瘫患者( paraplegic的复数形式 )
 parapophysis,椎体横突
 paraproteinemia,副蛋白血症; 异常蛋白血症
-parasite,n. 寄生虫；食客
+parasite,"n. 寄生生物, 寄生虫, 食客
+[医] 寄生物; 寄生胎"
 parasitemia,[医]寄生虫血症
 parasitic,"a. 寄生的, 由寄生虫引起的
 [计] 寄生的"
@@ -10382,8 +10972,9 @@ parasitology,"n. 寄生物学, 寄生虫学
 parasitosis,"n. 寄生虫病
 [医] 寄生物病, 寄生虫病"
 parasomnia,[医] 深眠状态
-parasympathetic,[网络] 副交感神经
-parathormone,n. [生化] 甲状旁腺素
+parasympathetic,"a. 副交感的, 副交感神经系统的
+[医] 副交感神经; 副交感的"
+parathormone,n. [生化]甲状旁腺(激)素
 parathyroid,"a. 副甲状腺的
 [医] 甲状腺旁的; 甲状旁腺"
 parathyroidectomy,n. [医]甲状旁腺切除术
@@ -10414,7 +11005,8 @@ parous,[网络] 普鲁士
 paroxysm,"n. 发作, 突发
 [医] 发作, 阵发"
 paroxysmal,"a. 发作性的, 突发性的"
-parthenogenesis,孤雌生殖；单性生殖
+parthenogenesis,"n. 单性生殖, 孤雌生殖
+[医] 单性生殖, 孤雌生殖"
 partial,"a. 部分的, 偏袒的, 偏爱的
 n. 分音"
 partially,"adv. 部分地, 一部分地, 不公平地"
@@ -10422,7 +11014,8 @@ participant,"n. 参加者, 参与者
 a. 有份的, 参加的, 参与的"
 participate,"vi. 参加, 分享, 参与, 带有
 vt. 分享, 分担"
-participation,n. participate的变形
+participation,"n. 参与, 分享
+[经] 参与, 参股"
 particle,"n. 颗粒, 粒子, 质点, 极小量
 [化] 粒子; 质点"
 particulate,"n. 微粒
@@ -10433,8 +11026,9 @@ vt. 区分, 瓜分, 隔开, 分割
 partogram,产程图
 parturition,"n. 分娩, 生产
 [医] 分娩, 生产"
-passage,"n. 一段（文章）；走廊；通路
-n. (Passage)人名；(英)帕西奇；(法)帕萨热"
+passage,"n. 通道, 通过, 移居, 航行, 一段, 走廊
+vi. 通过, 经过, 航行, 横渡, 争吵
+vt. (使)马以斜横步前进, 使传代"
 passive,"a. 消极的, 被动的, 冷漠的, 顺从的, 无源的
 [医] 被动的"
 paste,"n. 面团, 面食, 浆糊, 糊状物, 粘贴, 用拳重击
@@ -10469,14 +11063,16 @@ pathogenicity,"n. 致病力, 致病原因
 [医] 致病性"
 pathognomonic,"a. 特殊病征的, 能确定诊断的
 [医] 特殊的, 特定的, 能判定诊断的(病征)"
-pathological,病理的
+pathological,"a. 病理学的, 由疾病引起的, (非正式)不合理的, 仅由想象引起的, 不理智的
+[计] 错误的"
 pathologist,"n. 病理学家
 [医] 病理学家"
 pathology,"n. 病理学, 病理, 病状, 病变
 [医] 闰理学"
 pathomechanism," [医]病理机理, 病理（学）机制"
 pathophysiologic,病理生理的
-pathway,[计] 通道
+pathway,"n. 路径, 途径
+[医] 路径, 道"
 patient-centered,[网络] 以病人为中心；以病患为中心；以病人为中心的
 pauciarthritis,少关节炎
 peak,"n. 山峰, 巅, 山顶, 顶点, 尖峰, 帽舌
@@ -10486,8 +11082,7 @@ vt. 使竖起, 使达到最高点"
 peanut agglutinin,花生凝集素
 pecten,"n. 梳状突起, 梳膜, 梳板, 扇具
 [医] 梳, Х; 肛门梳; Х膜(动物)"
-pectin,"n. 果胶
-[化] 果胶"
+pectin,n. [生化] 果胶；胶质
 peculiar,"a. 奇特的, 罕见的, 特殊的, 特别的
 n. 特有财产, 特权"
 pediatric,"a. 小儿科的
@@ -10584,7 +11179,7 @@ periarteriolar,[网络] 周围动脉瘤
 pericardial,"a. 心包的, 位于心脏周围的
 [医] 心包的"
 pericardiectomy,[医] 心包切除术
-pericardiocentesis,心包穿刺术
+pericardiocentesis,n. [医]心包(放液)穿刺术
 pericarditis,"n. 心包炎
 [医] 心包炎"
 pericardium,"n. 心包
@@ -10662,11 +11257,13 @@ pernicious,"a. 有害的, 致命的, 恶劣的, 险恶的
 peroral,"un. 口服
 [网络] 口服制剂"
 peroxidation,n. 过氧化反应
-peroxide,过氧
+peroxide,"n. 过氧化物
+[计] 过氧化物"
 peroxisomal, 过氧化物酶病
 perpetuation,"n. 永存, 不朽"
 perphenazine,"n. [药]奋乃静,羟哌氯丙嗪"
-per se,"adv. 本身, 本质上"
+per se,"adv. 本身；本质上
+[网络] 自身；本来；本身餐厅"
 perseverance,"n. 毅力, 忍耐, 锲而不舍, 不屈不挠"
 perseveration,[医]持续言语(指言语反复不止的病态)
 persist,"vi. 坚持, 固执, 持续, 坚称
@@ -10746,7 +11343,9 @@ pharyngitis,"n. 咽炎
 [医] 咽炎"
 pharynx,"n. 咽
 [医] 咽"
-phase,"期,阶段"
+phase,"n. 时期, 局面, 方面, 位相, 相, 阶段
+vt. 使调整相位, 使定相, 使一致, 逐步执行, 实行
+[计] 阶段"
 phase-contrast,[化] 相衬; 相位衬
 phellodendrine,黄柏碱
 phenacetin,"n. [医] 乙酰对氨苯乙醚, 非那西汀(解热镇痛剂的一种)"
@@ -10758,12 +11357,13 @@ phenol,"n. 苯酚, 石炭酸, 羟基类化合物
 [化] 酚; 苯酚"
 phenomenon,"n. 现象, 迹象, 表现, 奇迹, 奇才
 [化] 现象"
-phenotype,表现型
+phenotype,"n. 表现型, 有共同表现型的生物群体, 遗传环境互应结果
+[医] 表型, 显型"
 phenotypic,"[医] 表型的, 显型的"
 phenoxybenzamine,"[化] 苯氧苄胺; 酚苄明
 [医] 苯氧苯扎明, 苯氧苄胺(降压药)"
 phenylbutazone,"n. [药]苯基丁氮酮 (即保泰松,用作止痛和退热药)"
-phenylketonuria,苯[丙]酮尿症
+phenylketonuria,[医] 苯丙酮酸尿
 phenytoin,"n. [药]苯妥英,二苯乙内酰脲( 用作抗惊厥和抗癫痫药)"
 pheochromocytoma,n. [医]嗜铬细胞瘤( 一种交感神经系统的肿瘤)
 pheromone,[化] 性外激素; 信息激素
@@ -10776,7 +11376,8 @@ phlebotomy,"n. 静脉切开术, 放血术
 [医] 静脉切开术, 放血术"
 phlegmon,"n. 蜂窝织炎
 [医] 蜂窝织炎"
-phobia," 表示“恐惧”, “憎恶”"
+phobia,"n. 恐怖病, 恐惧症, 惧怕, 憎恶
+[医] 恐怖[症]"
 pholcodine,"[化] 福尔可定; 吗啉乙吗啡
 [医] 福可定(可待因衍生物)"
 phonation,"n. 发声
@@ -10791,13 +11392,14 @@ phosphate,"n. 磷酸盐；磷酸酯
 [网络] 皮膜化成；磷酸根；磷肥"
 phosphatidic-acid,"[化] 磷脂酸
 [医] 磷脂酸"
-phosphatidylcholine,[医] 磷脂酰胆硷
+phosphatidylcholine,[化] 磷脂酰胆碱; 卵磷脂
 phosphatidylinositol,[医] 磷脂酰肌醇
 phosphokinase,n. [生化]磷酸激酶
 phospholipase,n. [生化]磷脂酶
 phospholipid,"n. 磷脂体, 膦脂类
 [化] 磷脂"
-phosphoric,磷酸
+phosphoric,"a. 磷的, 含磷的
+[化] 磷的; 五价磷的"
 phosphorolysis,n. [生化]磷酸解(作用)
 phosphorus,"n. 启明星, 金星, 磷, 磷光体
 [化] 磷P"
@@ -10805,17 +11407,19 @@ phosphorylate,vt.[化]使磷酸化
 phosphorylation,"[化] 磷酸化作用
 [医] 磷酸化[作用]"
 phosphorylcholine,n. [化](可用作药物的)磷酸胆碱
-photochemical,"adj. 光化学的
-n. 光催化学物"
-photodegradation,[染料] 光脆
+photochemical,"a. 光化学的, 光化作用的
+[医] 光化学的"
+photodegradation,[网络] 光降解；在海上被光解；光致衰减
 photometry,"n. 光度学, 光度测定, 测光法
 [化] 光度学; 光度滴定法"
 photon,"n. 光子, 光量子, 光度
 [化] 光量子; 光子"
-photooxidation,光氧化[作用]
+photooxidation,"un. 光致氧化
+[网络] 光氧化；会因光氧化；光氧化原理"
 photophobia,"n. 畏光, 羞明, 昼盲, 恐光症
 [医] 畏光, 羞明"
-photosensitivity,感光性
+photosensitivity,"n. 光敏性
+[化] 光敏感性"
 photosynthesis,"n. 光合作用
 [化] 光合作用"
 phototherapy,"n. 光线疗法, 光照疗法
@@ -10835,7 +11439,8 @@ physical,"a. 身体的, 物质的, 自然的, 物理学的, 好色的
 n. 体格检查"
 physician,"n. 医师, 内科医师, 解除痛苦者
 [医] 主治医师"
-physicochemical,物理化学的
+physicochemical,"a. 物理化学的
+[医] 物理化学的"
 physiologic,"a. 生理学的, 生理的
 [医] 生理学的, 生理的"
 physiology,"n. 生理学, 生理机能
@@ -10847,7 +11452,7 @@ pica,"n. 异食癖, 鹊, 12点活字
 [医] 异食癖, 异嗜癣"
 picking,"n. 掘, 选择, 挑选, 采摘, 撬开, [U]采得物, 捡得物, 赃物, 扒窃物
 [经] 挑拣"
-picture phone,电视电话
+picture phone,"n. 电视电话,可视电话[商标名]"
 pierce,"vt. 刺穿, 穿透, 打眼于, 洞悉, (声音)响彻, (亮光)照进, 深深地打动
 vi. 刺入, 穿入, 透入, 进入"
 pigment,"n. 色素, 色质, 颜料
@@ -10866,23 +11471,89 @@ a. 引导的, 控制的, 试点的
 [计] 引导"
 pilus,"n. (细胞、微生物等表面的)毛,纤毛,菌毛"
 pineocytoma,[网络] 松果体细胞瘤；成松果体细胞瘤；松果体细胞肿
-pinhead,大头针的针头;钉头
+pinhead,"n. 针头, 小东西, 微不足道的东西"
 pinocytosis,"n. [生]胞饮(作用),饮液(作用),吞饮(作用)"
-pinpoint,"n. 针尖；极尖的顶端；极小的东西；琐事
-v. 极精确地测定[瞄准,轰炸]；指出；确认
-adj. 微小的；极准确的
-[网络] 针点；针尖镇；针点内含物"
+pinpoint,"n. 极小之物, 针尖, 立锥之地, 精确位置
+vt. 精确地找到, 准确地轰炸, 刺穿, 准确描述, 使突出, 强调
+a. 针尖的, 极微的, 精确的, 详尽的, 精确定位的"
 piperacillin,[化] 哌拉西林; 氧哌嗪青霉素
 piperazine,n. 【化学】哌嗪;对二氮己环 [亦作piperazidine]
-pipette,吸管
-pit,"n. 深洞；深坑；矿井；麻子
-v. 使…表面有斑点；在…上打洞；去掉…的果核
-[网络] 凹坑；匹兹堡(Pittsburgh)；陷阱"
+pipette,"n. 吸量管, 吸移管
+[化] 吸移管"
+pit,"pit1
+[pit]
+n.
+[美国英语](桃、杏、梅子等的)果核，核
+vi.
+除去…的核：
+除去…的核：
+变形：
+vi.
+pitted
+. pitting
+pit2
+[pit]
+n.
+坑；地坑；深洼；地洞
+深渊，绝境
+[the Pit]地狱
+陷阱，圈套；意外困难；罗网
+矿井，矿；煤矿
+专用坑；工业用坑；窑
+斗兽场；兽栏
+躯体的凹部；物体表面的凹陷
+(平面上的)小凹陷；(尤指)天花疤痕；麻子点
+低洼之处
+心窝；胳肢窝
+[英国英语](剧场)楼下正厅(尤指正厅后座)；正厅后座观众；(舞台前的)乐池
+【植物学】纹孔
+【工业】接受箱，均热炉
+【军事】散兵坑；靶壕；炮兵掩体
+蚀损斑；氢气泡疤
+[美国英语](交易所中)某种商品的交易场
+[美国英语](汽车)修理站，(汽车修理厂的)修车场地
+(田径场上的)沙坑，木屑坑；(地滚球木柱落入的)终点坑；【美式橄榄球】(进攻和防守之间的)争夺区；棒球联赛的最低位
+(卡西诺赌场的)赌台区
+[英国方言]坟墓
+[英国俚语]床；卧室
+[英国俚语]衣袋
+[美国俚语]最次的东西；最坏的状况
+vt.
+把…放进坑内，窖藏：
+挖坑于；使凹下；使成凹：
+使留下疤痕：
+把(鸡等)放进斗场内使互斗；使竞争：
+vi.
+起凹点；变得坑坑洼洼：
+(赛车中为加油或检修)小停：
+【医学】(浮肿的皮肤被按后)起凹陷：
+短语:
+at the pit't brink
+快死
+dig a pit for someone
+为某人挖陷阱(陷害某人)，设法使某人落入圈套
+fly(或shoot) the pit
+(斗鸡)飞出斗鸡场，转尾而逃
+[俚语]不付房钱而潜逃；逃之夭夭，仓皇逃走
+of (great) pit and moment
+非常重要的
+pit of the stomach
+心窝，胸口
+power of pit and gallows (或gallows and pit)
+见 power
+the bottomless pit
+地狱 [亦作the pit of hell]
+the pits
+[美国俚语]最恶劣的地方(或条件等)，最令人厌恶的地方(或环境、情况等)；极糟
+变形：
+vt.
+pitted
+. pitting"
 pitch,"n. 程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青
 vt. 投, 掷, 向前倾跌, 扎营, 竭力推销, 为...定调, 定位于, 用沥青涂
 vi. 搭帐篷, 投掷, 向前跌, 猛然摔倒, 坠落, 倾斜
 [计] 孔距"
-pitfall,"n. 陷阱, 圈套；缺陷；诱惑"
+pitfall,"n. 陷阱, 诱惑, 阴谋, 易犯的错误, 意想不到的困难"
 pitting,"n. 锈斑, 凹痕
 [化] 点状腐蚀"
 pituicyte,细胞垂体后叶
@@ -10923,7 +11594,8 @@ plasmocytoma,浆细胞瘤
 plasmodial,"[医] 疟原虫的, 原形体的, 合胞体的"
 plaster,"n. 石膏, 灰泥, 安慰(缓解)用品, 膏药
 vt. 涂以灰泥, 敷以膏药, 掩饰, 使平服, 彻底击败, 减轻, 粘贴"
-plastic,[网络] -塑料
+plastic,"n. 塑料, 可塑体, 可塑性物质
+a. 塑料的, 塑造的, 有可塑性的, 造型的, 易受影响的, 有创造力的"
 plasticizer,"n. 塑化剂, 增塑剂
 [化] 塑化剂; 增塑剂"
 plastid,"n. 色素体, 质体, 成形粒
@@ -10988,12 +11660,14 @@ polar,"a. 两极的, 极地的, 正好相反的, 极性的
 n. 极线, 极面"
 polarity,"n. 极性, 截然相反
 [医] 极性, 极性现象"
-pole,[网络] -极
+pole,"n. 波兰人, 极点, 磁极, 电极, 杆, 竿, 相反的极端
+vt. 用竿支撑
+vi. 撑篙"
 polio,"n. 脊髓灰质炎, 小儿麻痹症
 [医] 脊髓灰质炎"
 poliomyelitis,"n. 脊髓灰质炎, 小儿麻痹症
 [医] 脊髓灰质炎"
-poliovirus,小儿麻痺病毒
+poliovirus,[医] 脊髓灰质炎病毒
 pollen,"n. 花粉
 vt. 传授花粉给"
 pollinosis,"n. 花粉病
@@ -11005,7 +11679,7 @@ pollute,"vt. 污染, 弄脏, 玷污
 pollution,"n. 污染, 玷污
 [化] 污染"
 poloxamer,[化] 泊咯沙姆
-polyacrylamide,聚丙烯酰胺
+polyacrylamide,[化] 聚丙烯酰胺
 polyadenylation,n. 聚腺苷酸化
 polyamine,"n. [化]聚胺,多胺"
 polyarthritis,n. [医]多发性关节炎
@@ -11044,9 +11718,11 @@ polymyositis,多肌炎
 polymyxin,"n. 多粘菌素
 [化] 多粘菌素"
 polyneuritis,n. [医]多神经炎
-polyp,无机多磷酸
+polyp,"n. 息肉, 水螅虫
+[医] 息肉"
 polypectomy,n. [医]息肉切除术
-polypeptide,多肽
+polypeptide,"n. 多肽
+[化] 多肽"
 polyperforin,无
 polyphagia,"n. 贪食性, 杂食性
 [医] 贪食[症], 杂食(吃各类食物)"
@@ -11100,7 +11776,9 @@ vt. 分配, 给...嫁妆"
 pose,"n. 姿势, 姿态, 装模作样, 伪装
 vi. 摆姿势, 装模作样, 假装
 vt. 使摆好姿势, 提出, 造成"
-position,[网络] 位置
+position,"n. 位置, 地位, 身分, 形势, 姿势, 立场, 职位, 状态, 阵地
+vt. 安置, 决定...的位置
+[计] 位置"
 positional,"a. 位置的, 地位的"
 positive,"a. 肯定的, 积极的, 有把握的
 [医] 正的, 阳性的"
@@ -11114,25 +11792,29 @@ n. 后部, 臀部"
 posteriorly,"adv. 以后, 后面, 其次"
 posteroanterior,前后方向的
 posterolaterally,[网络] 后方
-postganglionic,adj. （神经）节后的
+postganglionic,a. [解](神经)节后的
 postgenomic,[网络] 后基因组；后基因体的；是后基因组
-postgraduate,[网络] 研究生；研究生文凭；硕士
+postgraduate,"a. 大学毕业后的, 大学研究院的
+n. 研究生"
 posthemorrhagic,[医] 出血后的
 posthepatic,[网络] 胆汁淤积性黄疸
-post hoc,"[拉]在此之后, 因此"
+post hoc,"na. 〈外〉在此之后
+[网络] 事后；事后分析；事后比较栏"
 postmaturity,[网络] 过度成熟
-postmenopausal, 绝经后
-postmortem,"[计] 算后检查, 事后剖析
-[医] 死后"
+postmenopausal,a. [医](妇女)绝经后的
+postmortem,"a. 死后的, 事后的
+n. 尸体检查, 验尸"
 postoperative,"un. 发生于外科手术之后
 [网络] 术后的"
-postpartum,[医] 产后
+postpartum,"a. 产后的
+[医] 产后的"
 post-pericardiotomy,[网络] 心包切开术
 postpone,"vt. 延迟, 使延期, 缓办, 搁延
 vi. 延缓, 延缓发作"
 postponement,"n. 延迟, 延期
 [法] 延期, 延迟"
-postprandial,adj. 饭后的；餐后的
+postprandial,"a. 饭后的, 宴会后的
+[医] 食后的"
 post-traumatic,"un. 外伤后的
 [网络] 创伤后"
 postulate,"n. 假定, 基本条件
@@ -11173,14 +11855,14 @@ praziquantel,[化] 吡喹酮; 环吡异喹酮
 preantral,[网络] 前滤泡腔
 preattack,[网络] 抢先
 prebiotic,adj. 生命起源以前的
-precancerous, 变肿瘤前的
+precancerous,a. 癌症前期的
 precarcinogen,n. [生化]前致癌物
 precaution,"n. 预防, 留心, 警戒
 vt. 预先警告"
 precede,"vt. 在...之前, 优于, 较...优先
 vi. 在前面"
-precedence,"n. 优先, 居先
-[计] 先后次序; 优先规定"
+precedence,"n. 优先；优先权
+[网络] 优先级；居先；优先顺序"
 preceding,"a. 在前的, 前面的
 [法] 在前的, 在先的, 前面的"
 precipitate,"n. 沉淀物, 凝结物, 结果
@@ -11195,50 +11877,60 @@ precisely,"adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对,
 precision,"n. 精密, 精确, 精确度, 精度
 a. 精密的, 精确的
 [计] 精度"
-preclinical,[网络] 临床前；前临床试验；临床前试验
+preclinical,"a. 临床使用前的
+[医] 临证前期的, 临床前的"
 preclude,"vt. 预先排除, 预防, 阻止, 妨碍
 [法] 预防, 排除, 消除"
-precondition,n. 前提条件；先决条件
-preconditioning,n. 事先思想准备
-precursor,[网络] 前体；前光标；前导
+precondition,"vt. 事先准备, 事先处理
+n. 先决条件, 前提
+[计] 前置条件"
+preconditioning,"[计] 预处理, 预调节
+[化] 预处理"
+precursor,"n. 先驱者, 前导, 前兆
+[化] 前体; 前身; 产物母体"
 predecessor,"n. 前任, 先辈, 前身
 [医] 初牙, 前辈, 祖先"
-predialysis, 透析前
+predialysis,[网络] 透析前
 predictable,a. 可预言的
 predictably,adv. 可预言地
-prediction,n. 预报；预言
+prediction,"n. 预言, 预报
+[化] 预测"
 predilection,"n. 嗜好, 偏爱"
-predispose,vt. 预先处置；使…偏向于
-predisposition,[网络] 预设立场；事前倾向；已有的犯罪倾向
+predispose,"vt. 预先处置, 使预先有倾向"
+predisposition,"n. 爱好, 素质, 癖性, 天性, 倾向, 易感受性
+[医] 素因, 素质"
 prednisolone,"n. 氢化泼尼松, 强的松龙, 去氢氢化可的粉
 [化] 泼尼松龙; 强的松龙; 氢化泼尼松"
 prednisone,"n. 泼尼松, 强的松
 [化] 泼尼松; 强的松"
 predominant,"a. 占主导地位的, 卓越的
 [法] 占优势的, 支配其他的, 主要的"
-predominantly,adv. 主要地；显著地
+predominantly,"adv. 主要地, 显著地, 大多数地, 突出地"
 predominate,"vt. 掌握, 控制, 支配
 vi. 占主导地位, 占优势"
 preeclampsia,"n. 先兆子痫；子痫前期；惊阙前期；〔医〕先非子痛；先兆子痫
 [网络] 妊娠毒血症"
-preemptive, [医]超前性（预防）超前性预防给药是指对高危人群用药以清除致病菌
+preemptive,"a. 先买的, 先买权的, 有先买权的
+[法] 有优先购买权的, 优先购买的, 先发制人的"
 preexist,"v. 先(存)在；先于…而存在
 [网络] 在先出现；先存在；早先存在"
 preferable,"a. 更可取的, 更好的, 更合意的"
 preferably,"adv. 更可取地, 更好地, 更合意地"
 preference,"n. 偏爱, 优先, 喜爱物
 [计] 首选项"
-prefrontal,[网络] 前额
+prefrontal,"a. 前额的
+[医] 额叶前部的, 筛骨中心部"
 preganglionic,a. [解]神经节前的
 pregnancy,"n. 怀孕；丰富, 多产；意义深长"
 pregnant,"a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的
 [医] 妊娠的, 有孕的"
-preimplantation, 胚胎植入前面
+preimplantation,a. [医](子宫中)胚胎植入前的
 prejudice,"n. 偏见, 成见, 侵害
 vt. 使存偏见, 使有成见, 侵害"
 preliminary,"n. 初步做法, 初步措施, 预试, 预选赛
 a. 初步的, 开始的, 预备的"
-preload,[网络] 预载；预加载；预装
+preload,"[计] 预加载, 预装入, 预填入
+[化] 预加荷载"
 prelude,"n. 前奏, 序幕, 序诗, 前奏曲
 vi. 作为前奏
 vt. 作为...的开头"
@@ -11246,7 +11938,7 @@ premature,"a. 早产的, 过早的, 不成熟的
 n. 早产儿, 过早发生的事物"
 prematurity,"n. 提早, 早熟, 过早, 不成熟, 早产
 [医] 早熟"
-premedication,n. 术前用药法
+premedication,"[医] 前驱给药法, 术前用药法"
 premise,"n. 前提, 房屋连地基, 上述各项
 vt. 预先提出, 引出, 作为...的前提
 vi. 作出前提"
@@ -11255,20 +11947,22 @@ premium,"n. 额外补贴, 奖金, 奖赏, 保险费
 premunition,"n. 抗病, 抗病力, 预免疫
 [医] 预防措施, 传染[病后]免疫"
 premutation,前突变
-prenatal,adj. <美>出生前的，产前的，孕期的
-preoperative,[网络] 手术前
+prenatal,"a. 出生以前的, 孕期的
+[医] 产前的, 出生前的"
+preoperative,"a. 手术前的
+[医] 手术前的"
 preovulatory,a. [生]排卵期前的
 preparation,"n. 准备, 预备, 预习
 [化] 制剂"
-prepartum,n. 产前
+prepartum,[网络] 产前感染
 preponderance,"n. 优势, 多数
 [医] 优势"
 prepotency,"n. 优势, 遗传优势
 [医] 优性, 遗传优势"
 prepubertal,adj. 青春期前的
 prerenal,[医] 肾前的
-prerequisite,"n. 首要事, 必要事
-a. 首要的, 必须的"
+prerequisite,"a. 先决条件的, 必要的
+n. 先决条件, 必备条件"
 prescribe,"v. 规定, 指定, 嘱咐, 开处方"
 prescription,"n. 处方, 命令, 指定
 [医] 处方, 药方"
@@ -11298,7 +11992,7 @@ presumption,"n. 专横, 放肆, 假定, 推测
 [法] 假定, 推测, 设想"
 presumptive,"a. 根据推定的, 假定的, 预期的
 [医] 推定的, 预期的"
-presurgical,[网络] 前矫正
+presurgical,a. (外科)手术前的
 presymptomatically,症状出现之前地
 presynaptic,a. [解]突触前的
 pretend,"v. 假装, 伪称, 自命, 自称"
@@ -11344,10 +12038,10 @@ v. 打印, 印刷, 铭记, 留印记于, 用印刷体写
 prion,"n. 感染性蛋白质, 普列昂; 锯鹱"
 prior,"a. 更重要的, 较早的, 在先的
 n. 小隐修院院长, 大隐修院副院长"
-priority,"n. 优先权, 优先
-[计] 优先级"
-privacy,"n. 隐私, 隐居, 秘密
-[计] 个人保密权"
+priority,"n. 优先；优先权；重点；优先事项
+[网络] 优先级"
+privacy,"n. 隐私；私密；不受公众干扰的状态
+[网络] 隐私保护；保密"
 proactive,[网络] 积极主动；发展方向将是预主动；超主动型
 proarrhythmia,致心律失常
 probability,"n. 可能性, 或然率, 几率, 概率
@@ -11367,14 +12061,19 @@ procedure,"n. 程序, 过程, 手续
 [计] 规程; 过程"
 proceeding,"n. 进行, 程序, 行动, 诉讼程序, 事项
 [化] 会议论文集"
-process,[网络] 过程；流程；进程
+process,"n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
 proctoscope,"n. 直肠镜
 [医] 直肠镜"
 prodromal,"a. [医]前驱的,有前驱症状的"
 prodrome,"n. 前驱症状
 [医] 前驱症状"
-prodrug, 前体药物，潜药
-product,[网络] 产品；产品创新
+prodrug,"n. 前体药物；药物前体
+[网络] 前药；前驱药；前驱药物"
+product,"n. 产品, 结果, 乘积
+[化] 生产物"
 proenzyme,"n. 酶原
 [化] 酶原"
 profession,"n. 职业, 表白, 声明
@@ -11382,7 +12081,9 @@ profession,"n. 职业, 表白, 声明
 professional,"n. 专业人才
 a. 专业的, 职业的"
 proficiency,"n. 精通, 熟练, 精练"
-profile,微机条形码
+profile,"n. 侧面, 轮廓, 传略
+vt. 描绘...轮廓, 写...的传略
+[计] 提问档; 剖面图法; 剖面法"
 profound,"a. 极深的, 深厚的, 深刻的, 渊博的"
 profuse,"a. 很多的, 丰富的, 浪费的, 慷慨的"
 profusely,"adv. 极其丰富地, 大量地"
@@ -11398,7 +12099,10 @@ prognosis,"n. 预测, 预后
 [医] 预后"
 prognostic,"a. 预兆的, 预后的
 n. 先兆, 预测"
-program,[网络] 程序；程序下载；项目
+program,"n. 节目, 节目单, 程序, 纲要, 大纲, 计划
+vt. 规划, 拟...计划
+vi. 安排节目, 编程序
+[计] 程序"
 progress,"n. 进步, 发展, 前进
 vi. 进步, 进行"
 progression,"n. 前进, 连续, 级数
@@ -11410,7 +12114,7 @@ proguanil,氯胍
 prohibit,"vt. 禁止, 阻止
 [经] 禁止"
 prohormone,n. [生化]激素原
-proinflammatory,a. 促炎的
+proinflammatory, [医]促炎症反应
 project,"n. 计划, 设计, 事业
 vt. 计划, 设计, 投掷, 发射, 使凸出, 放映
 vi. 凸出"
@@ -11456,8 +12160,11 @@ pronounced,"a. 发出音的, 读出来的, 显著的, 断然的, 明显的
 [法] 显著的, 明显的, 明确的"
 pronucleus,"n. 前核, 原核
 [医] 原核, 前核"
-proof,suff. 表示“耐
-proopiomelanocortin,[化] 丙鸦片黑素皮质素
+proof,"n. 证据, 证明, 试验, 检验, 考验
+a. 不能透入的, 证明用的, 防...的, 耐...的
+vt. 检验, 试验, 校对, 使不被穿透
+[计] 审稿"
+proopiomelanocortin,[网络] 阿黑皮素原；前促黑激素；黑色素皮质素
 propagation,"n. 增殖, 繁殖, 宣传
 [医] 传播, 繁殖, 持续培养"
 propantheline,"n. 普鲁本辛；丙胺太林
@@ -11507,13 +12214,14 @@ prostrate,"a. 拜倒的, 降伏的, 俯卧的, 衰竭的, 沮丧的
 vt. 弄倒, 使屈服, 使俯伏, 使平卧"
 prostration,"n. 平伏, 跪倒, 疲劳, 虚脱
 [医] 衰竭, 虚脱"
-protamine,鱼精蛋白
+protamine,n. [生化](鱼)精蛋白
 protean,"a. 千变万化的, 变化不定的, (海神)普罗透斯的
 [化] ┚(音田)"
 protease,"n. 朊酶, 蛋白酶
 [化] 蛋白酶; 蛋白水解酶"
 proteasome, [医]蛋白酶体
-protection,[网络] 保障
+protection,"n. 保护, 防卫, 贸易保护制度
+[计] 保护"
 protein,"n. 蛋白质
 a. 蛋白质的"
 proteinaceous,"a. 朊的, 蛋白质的"
@@ -11532,15 +12240,16 @@ prothrombin,"n. 凝血酶原
 [化] 凝血酶原; 凝血因子II"
 prothrombotic,[网络] 血栓；前血栓形成；血栓阻塞性
 protist,n. 原生生物
-protocol,"n. 草案, 礼仪, 协议
-v. 拟定
-[计] 协议, 协议列表实用程序"
+protocol,"n. 议定书；礼仪；外交礼节；条约草案
+v. 打(草稿)；(把…)记入议定书
+[网络] 协议；协定；通讯协定"
 proton,"n. 质子
 [化] 质子"
 protoplasm,"n. 原生质
 [医] 原生质, 原浆"
 protoporphyrin,n. [化]原卟啉
-prototype,"原型;样机,试制型"
+prototype,"n. 原型
+[计] 样机; 原型"
 protozoa,[医] 原生动物门
 protozoal,"a. 原生动物的
 [医] 原生动物的, 原虫的"
@@ -11556,12 +12265,13 @@ protrusion,"n. 突出, 突出部, 露出
 protuberant,"a. 突起的, 招人注意的"
 prove,"vt. 证明, 查验, 检验, 勘探, 显示
 vi. 证明是"
-provide,"vt. 提供；规定；准备；装备
-vi. 规定；抚养；作准备"
+provide,"vt. 提供, 供应, 规定, 预备
+vi. 作准备, 抚养, 规定"
 province,"n. 省, 地方, 职权, 领域
 [法] 省, 地方, 领域"
 provirus,n. [微]前病毒
-provision,[网络] 专业视力眼镜中心；邻舍能供应需要
+provision,"n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款
+vt. 供给...食物及必需品"
 provocation,"n. 激怒, 刺激, 挑拨
 [医] 激发[作用]"
 provoke,"vt. 激怒, 惹起, 诱导
@@ -11576,14 +12286,14 @@ pruritic,"a. 痒的
 pruritus,"n. 瘙痒症
 [医] 瘙痒"
 psammoma,沙瘤
-pseudo,"假,拟"
+pseudo,"a. 假的, 冒充的"
 pseudoallele,"拟等位基因,假对偶基因"
 pseudoaneurysm, 假动脉瘤
 pseudoautosomal,[网络] 染色体
 pseudodementia,[医] 假[性]痴呆
 pseudogene,"n. 假遗传因子,假基因"
 pseudoginseng, 田七
-pseudogout,假性痛风
+pseudogout,假性痛风; 软骨钙质沉着病
 pseudomembranous,[医] 假膜的
 pseudomonas,[医] 假单胞菌属
 pseudomosaicism,无
@@ -11601,27 +12311,32 @@ psyche,"n. 灵魂, 精神, 普赛克(希腊神话中人类灵魂的化身)
 [医] 精神, 心灵"
 psychiatric,"a. 精神病学的, 医精神病的
 [医] 精神病学的"
-psychiatrist,n. 精神病学家，精神病医生
+psychiatrist,"n. 精神病医生, 精神病学家
+[医] 精神病学家"
 psychiatry,"n. 精神病学, 精神病治疗
 [医] 精神病学"
-psychoactive,adj. 影响心理状态的；作用于精神的
+psychoactive,"a. 对神经起显著作用的, 对神经起特殊作用的"
 psychoanalysis,[网络] 精神分析；心理分析；精神分析学
-psychodynamic,adj. 心理动力的；精神动力的
+psychodynamic,"a. 心理动力的
+[医] 精神动力学的"
 psychogenic,"[医] 精神性的, 心理性的"
 psychologic,[医] 心理学的
 psychologist,"n. 心理学家
 [医] 心理学家"
-psychology,n. 心理学；心理状态
-psychometric,[网络] 心理计量
+psychology,"n. 心理学, 心理状态
+[医] 心理学"
+psychometric,"a. 心理测量的,心理测量学的"
 psychomotor,[网络] 儿童心理动作；心理肌动；心理激励
-psychopathology,[网络] 精神病理学
+psychopathology,"n. 精神病理学
+[医] 精神病理学, 病理心理学"
 psychopathy,"n. 精神病, 精神变态, 精神疗法
 [医] 精神变态, 变态人格, 病态人格"
 psychosensory,"[医] 精神性感觉的, 心理感觉的"
 psychosis,"n. 精神病, 精神不正常
 [医] 精神病"
-psychosocial, 心理社会
-psychosomatic,[网络] 心身；心理的
+psychosocial,社会心理的(指社会环境影响下的个人心理变化)
+psychosomatic,"a. 身心的, 身心失调的
+[医] 身心的, 心身的"
 psychostimulant, 精神兴奋药
 psychotherapy,"n. 精神疗法, 心理疗法
 [医] 精神疗法, 心理疗法"
@@ -11631,8 +12346,8 @@ psychotropic,a. 治疗精神病的
 pterin,n. [生化]蝶呤
 puberty,"n. 青春期, 春情发动期
 [医] 青春期(12-17岁)"
-public,"n. 公众, 民众
-a. 公众的, 公共的, 公立的, 公用的"
+public,"n. 民众；百姓；平民；志趣相同（或从事同一类活动）的群体
+adj. 平民的；大众的；公众的；百姓的"
 publication,"n. 出版物, 出版, 公布
 [经] 发布"
 puerarin,葛根素
@@ -11693,14 +12408,16 @@ purulence,"n. 脓, 化脓
 [医] 脓性, 化脓"
 purulent,"a. 脓的, 化脓性的, 化脓的
 [医] 脓性的"
-pus,足
+pus,[=(polyunsaturated/saturated fatty acids)ratio]多不饱和脂纺酸与饱和脂肪酸比值
 putrefaction,"n. 腐败
 [医] 腐败[作用], 腐化[作用]"
 putrefactive,"a. 腐败的, 易腐败的, 使腐败的
 [医] 腐败的, 腐化的"
 putrid,"a. 腐败的
 [医] 腐败的, 恶臭的"
-puzzle,[网络] 难题
+puzzle,"n. 难题, 迷惑
+vt. 使困惑, 使为难
+vi. 迷惑, 苦思"
 pycnometer,"n. 比重计
 [化] 比重瓶"
 pyelectasis,[医] 肾盂扩张
@@ -11759,9 +12476,9 @@ qualify,"vi. 取得资格, 有资格
 vt. 使有资格, 使合格, 限定, 限制, 准予"
 qualitative,"a. 性质的, 质的, 定性的"
 qualitatively,adv. 质量上
-quality,"n. 品质, 特性, 才能, 质量
-a. 优质的
-[计] 品质"
+quality,"n. 质量；品质；上乘；优质
+adj. 优质的；高质量的；盖帽儿了；棒极了
+[网络] 音乐品质；美丽是很抽象的；质量工程师"
 quantifiable,a. 可以计量的
 quantify,"vt. 定量, 用数量表示, 测量"
 quantitate,"vt. 测定...的数量, 用数量表示, 估计...的数量
@@ -11780,11 +12497,13 @@ quartz,"n. 石英
 [化] 石英"
 quaternary,"a. 四个一组的, 四元的, 四价的, 季的
 [计] 四进制的, 四元的"
-quest,[网络] 寻求
-questionnaire,调查表
+quest,"n. 探索, 寻求, 调查
+v. 寻找, 找, 追寻猎物"
+questionnaire,"n. 调查表, 问卷
+[经] 调查表"
 quickening,"n. 胎动初期
 a. 加快的, 活跃的"
-quick-frozen,冻的
+quick-frozen, 使急速冷冻( quick-freeze的过去分词 ); [医]迅速冷冻的
 quiescent,"a. 静止的, 不活动的, 寂静的
 [医] 静息的, 静止的"
 quinidine,"n. 奎尼丁
@@ -11815,20 +12534,24 @@ radical,"n. 激进分子, 词根, 基础, 根式, 根
 a. 激进的, 根本的, 基本的, 根的"
 radically,"adv. 根本地, 完全地"
 radicular,"a. 根的, 小根的"
-radioactive,adj. [核] 放射性的；有辐射的
+radioactive,"a. 放射性的, 有放射能的
+[医] 放射性的, 放射的"
 radioactivity,n. 放射性；[核] 放射能力；[核] 放射现象
-radiochemical,"n. 已含放射性同位素的化学物质
-adj. 放射化学的"
+radiochemical,"a. [化] 放射化学的
+n. 已含放射性同位素的化学物质"
 radiograph,"n. 射线照片, 射线照相
 vt. 拍射线照片"
 radiographer,"n. 射线照相技师
 [医] 放射照相技术员"
-radiography,放射线照片术
-radioimmunoassay,放射性免疫分析
+radiography,"n. 射线照相术
+[化] 射线照相术; 放射线照相术; 射线照相法; 放射线照相法"
+radioimmunoassay,"n. 放射免疫测定, 放射免疫测定法
+[化] 放射免疫测定; 放射免疫分析"
 radioimmunometric,无
-radioiodine,[网络] 放射物质
-radioisotope,[医] 放射性同位素
-radiolabel,v. 对…作放射性同位素示踪
+radioiodine,n. [特医][核] 放射碘
+radioisotope,"n. 放射性同位素
+[化] 放射性同位素"
+radiolabel,vt.[化]用放射性同位素给…示踪或做标记
 radioligand,放射性配体
 radiologic,"a. 辐射学, 放射学
 [医] 放射学的"
@@ -11837,15 +12560,17 @@ radiology,"n. 辐射学, 放射学
 [医] 放射学"
 radiolucent,"a. 射线可透过的
 [医] 射线透射的, X线可透的"
-radionuclide,"放射性核素, 放射性核种"
+radionuclide,"n. 放射性核素
+[化] 放射性核素"
 radiopaque,"a. 辐射不能显著穿透的
 [医] 不透X线的, 不透射线的"
-radiopharmaceutical,n. 【药物】(诊断或治疗使用的)放射性药物
+radiopharmaceutical,"n. & adj.(供诊断或治疗用的)放射性药物(的),放射药剂(的)"
 radiopharmaceutics,放射药剂学
 radioprotector,n. 辐射防护药物
 radioreceptor,[生]辐射感受器
 radiosensitizer,[化] 放射致敏剂
-radiotherapy,n. 放射疗法
+radiotherapy,"n. 放射疗法
+[医] 放射疗法, 放射治疗"
 radiotoxicology,n. 辐射毒害学
 radishseed,萝卜籽
 radium,"n. 镭
@@ -11880,10 +12605,11 @@ rapamycin, 纳巴霉素；雷怕霉素；雷帕霉素
 rapidity,"n. 迅速, 急速, 速度"
 rash,"a. 轻率的, 匆忙的, 鲁莽的
 n. 皮疹"
-rate,"n. 比率, 率, 速度, 价格, 费用, 等级
-vt. 估价, 认为, 鉴定等级, 责骂
-vi. 被评价, 责骂"
-ratemeter,定率计
+rate,"n. 比率，率；速度；价格；等级
+vt. 认为；估价；责骂
+vi. 责骂；被评价
+n. (Rate)人名；(法、塞)拉特"
+ratemeter,[医] 计数率计
 ratio,"n. 比, 比率
 [医] 比, 比率, 比例"
 rational,"a. 理性的, 合理的
@@ -11896,7 +12622,8 @@ n. 格格声, 拨浪鼓, 喋喋不休的话"
 ravage,"n. 破坏, 蹂躏
 v. 毁坏, 破坏, 掠夺"
 reabsorb,vi. 再吸附；重吸收
-reabsorption,再吸收
+reabsorption,"n. 重吸收, 重吸收作用
+[医] 重吸收[作用]"
 reaction,"n. 反应, 反作用, 反动
 [医] 反应"
 readily,"adv. 迅速地, 轻易地, 乐意地"
@@ -11907,24 +12634,31 @@ realgar,"n. 雄黄
 [化] 雄黄"
 realm,"n. 王国, 领土, 领域
 [计] 领域"
-real-world, 真实世界
-reanimate,vt. 鼓舞；使复活；使恢复生气
-rearrangement,"重排列, 重新安排"
-reasonable,adj. 合理的，公道的；通情达理的
+real-world,"adj. 存在于现实世界的；真实的
+[网络] 真实世界；红尘过客；真实的世界"
+reanimate,"vt. 使复活, 鼓舞, 鼓励
+[医] 复苏, 回苏"
+rearrangement,"[计] 重排, 重列
+[化] 重排"
+reasonable,"a. 合理的, 明理的, 适当的
+[法] 合理的, 公道的, 正当的"
 reasonably,"adv. 适度地, 相当地"
 reassurance,"n. 安心, 放心, 再保证"
-reassure,"vt. 使…安心, 使消除疑虑"
-recall,[网络] 召回；汽车召回制度；招回
+reassure,"vt. 使...安心, 向...再保证
+[法] 重新保证, 再保险, 使清除疑虑"
+recall,"n. 回忆, 召回, 撤消
+vt. 回想, 回忆, 召回, 撤消, 使恢复
+[计] 检索"
 recanalisation,管道再造
 recapitulate,"v. 重述要点, 概括, 摘要"
 receptacle,"n. 容器, 花托, 插座
 [医] 容器, [接]受器, 花托"
-reception,"n. 接待, 接受, 招待会
-[医] 接受, 感受"
+reception,"n. 接待；招待会；欢迎；欢迎会
+[网络] 接待处；接收；接受"
 receptive,"a. 能接纳的
 [医] 接受的, 感受的"
-receptor,"n. 受体, 感觉器官
-[化] 接受器; 受体"
+receptor,"n. 受体；感受器
+[网络] 接受器；接受体；接收器"
 recess,"n. 休息, 休会, 放假, 凹进处, 深处
 vt. 使凹进
 vi. 休假, 休息"
@@ -11942,26 +12676,30 @@ recognition,"n. 赞誉, 认得, 识别, 承认, 认可, 认识
 [电] 认识"
 recognizable,"a. 可认识的, 可承认的, 可识别的
 [法] 可被认出的, 可辩认的, 可被承认的"
-recognize,[网络] 重新认知；认清
+recognize,"vt. 认出, 认可, 承认, 公认, 识别, 赏识
+vi. 承认, 具结"
 recombinant,"n. 重组, 重组物"
-recombination,n. 复合，再结合；[遗] 重组
-recommend,"vt. 推荐, 介绍；劝告；使受欢迎；托付
-vi. 推荐；建议"
-reconfirm,vt. 再确认；再证实
+recombination,"n. 再组合.重组合, 复合, 再化合
+[计] 复合的"
+recommend,"vt. 推荐, 介绍, 劝告, 使受欢迎, 托付
+[经] 建议, 推荐"
+reconfirm,"vt. 再证实, 再确认
+[法] 重新证实, 重行批准, 重新确认"
 reconstitution,"n. 重新组建, 重新构建"
-reconstruction, 重构
+reconstruction,"n. 改造, 再建
+[医] 改建, 改造, 翻造"
 reconstructive,"a. 再建的, 改造的"
-recount,"n. 覆算, 覆算票数
-v. 覆算"
+recount,"vt. 详述, 叙述, 重新计算
+n. 重新计算"
 recoverability,可复(原)性
-recovery,"n. 恢复, 复原, 痊愈, 重获
-[计] 恢复"
+recovery,"n. 恢复；复苏；回升；痊愈
+[网络] 数据恢复风险"
 recreational,"a. 消遣的, 娱乐的"
 recruitment,"n. 新兵征召
 [医] 募集[反应], 募集[现象](生理), 复聪(耳科)"
 rectal,"a. 直肠的
 [医] 直肠的"
-rectovaginal,直肠阴道的
+rectovaginal,[医] 直肠阴道的
 rectum,"n. 直肠
 [医] 直肠, 背侧肛(动物)"
 recumbent,"a. 斜靠着的, 躺着的, 不活泼的, 休息着的
@@ -11971,8 +12709,10 @@ recuperation,"n. 恢复
 recur,"vi. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环"
 recurrence,"n. 再现, 再发生, 反复, 循环
 [医] 复发, 再发"
-recurrent,[网络] 再发
-redistribute,vt. 重新分配；再区分
+recurrent,"a. 再发生的, 定期重复的, 循环的
+[医] 复发的, 再发的, 回归的"
+redistribute,"vt. 重新分配, 再分发
+[经] 再分配, 重新分配"
 redress,"v. 再给…穿上；重新包扎(伤处)
 [网络] 重新给…穿衣；重新装扮；再穿衣"
 reduce,"vt. 减少, 分解, 降低, 使衰退, 把...分解, 把...归纳
@@ -11985,7 +12725,7 @@ reduction,"n. 减少, 缩影, 变化
 [化] 还原"
 redundancy,"n. 过多, 冗长, 累赘, 多余, 冗余位, 冗余度, 冗余码, 多余信息
 [计] 冗余"
-reemphasize,[网络] 再次强调
+reemphasize,vt. 再度（重新）强调
 reentry,"n. 【宇】重返大气层；再进入；【法】所有权的收回
 [网络] 再入；再上场；入境签证"
 reestablish,"v. 重建；使复元；使复职
@@ -12032,16 +12772,17 @@ refrigeration,"n. 冷却, 冷藏, 冷冻
 refutation,"n. 反驳, 辩驳, 反驳的证据
 [计] 反驳"
 refute,"vt. 反驳, 驳斥；驳倒"
-regenerate,"vt. 使再生；革新
-vi. 再生；革新
-a. 再生的；革新的"
+regenerate,"vt. 使再生, 重建, 革新
+vi. 新生, 再生
+a. 新生的, 再生的
+[计] 再生; 重写"
 regeneration,n. [生物][化学][物] 再生，重生；重建
 regime,"n. 政权, 当权期间, 政体, 社会制度, 体制, 情态
 [医] 制度, 生活制度"
 regimen,"n. 养生法, 常规强化训练课, 体制, 情态
 [医] 制度, 生活制度"
-region,"n. 区域, 地带, 地区, 领域, 范围, 区
-[计] 区, 区域"
+region,"n. 区域；行政区；（一国除首都以外的）全部地区
+[网络] 面域；磁各向异性效应"
 regional,"a. 地方的, 地域性的
 [医] 区的, 部位的"
 registrar,"n. 记录者, 登记者, 登记官员
@@ -12059,7 +12800,8 @@ regulate,"vt. 管理, 控制, 调节, 调整, 校准
 [经] 控制, 管理"
 regulation,"n. 规则, 管理, 调整
 [计] 调整; 规章; 规则; 调节"
-regulatory,adj. 管理的；控制的；调整的
+regulatory,"a. 受控制的, 统制的, 调整的
+[经] 规则的"
 regurgitant,"[医] 回流的, 反流的"
 regurgitate,"v. (使)回涌, (使)回流, (使)反胃"
 regurgitation,"n. 回流, 逆流, 反刍
@@ -12070,30 +12812,33 @@ rehabilitation,"n. 复原
 [医] 复原, 恢复, 康复"
 rehabilitative,"a. 使复原的, 复职的"
 rehmannia,地黄
-rehydration, 复水
-reimplant,再植
+rehydration,"[医] 再水化[作用], 再水合[作用]"
+reimplant, [医]再植
 reimplantation,[医] 再植[入]术
-reinfection,再感染
+reinfection,"n. 再传染, 再感染"
 reject,"n. 被拒之人, 被弃之物, 不合格品, 次品
 vt. 拒绝, 抵制, 否决, 驳回, 丢弃, 呕出"
 rejection,"n. 拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物
 [化] 报废; 拒收"
-rejoin,"vi. 答辩；回答；重新聚合
-vt. 再加入；使…再结合；再回答"
+rejoin,"vt. 使再结合, 再加入, 回答
+vi. 重新聚合, 回答, 第二次答辩"
 rejuvenate,"vt. 使年轻, 使复原, 使恢复精神
 vi. 返老还童, 复原"
 relapse,"n. 回复, 故态复萌, 复发
 vi. 故态复萌, 再陷邪道, 再度堕落"
 relatedness,"n. 与…有亲戚关系, 有关系"
-relationship,n. 关系；关联
+relationship,"n. 关系, 关联
+[医] 关系"
 relax,"vi. 放松, 松懈, 松弛, 变从容, 休息, 休养
 vt. 使松弛, 缓和, 使松懈, 使休息"
 relaxant,"a. 弛缓的
 n. 弛缓药"
 relaxation,"n. 松弛, 放松, 减轻, 缓和, 休息, 休养
 [化] 松弛; 驰豫"
-release,"vt. 释放；发射；让与；允许发表
-n. 释放；发布；让与"
+release,"n. 释放, 发泄, 豁免, 发行, 释放证书
+vt. 释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与
+n. 发布
+[计] 版本, 发布"
 relevance,n. 有关；贴切；中肯；确切；相关(性)；相应；成比例；重大意义；实用性
 relevant,"a. 有关联的, 有关系的, 适当的, 相应的
 [法] 有关的, 相关的"
@@ -12142,16 +12887,22 @@ renin,"n. 肾素, 高血压蛋白原酶, 高血压蛋白的酶原
 renogram,"n. [医]肾X光照片,肾探测图"
 renography,"[医]肾X线照相术, 肾造影照片"
 renovascular,a. [解][医]肾血管(性)的
-rent,n. [口语]爸；妈
+rent,"n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂
+vt. 租用, 租出
+vi. 出租
+a. 分裂的, 破裂的
+rend的过去式和过去分词"
 reoperation, 再手术
 re-orientation, [医]重新定向
 reovirus,"n. [微]呼肠孤病毒, 呼吸道肠道病毒"
 reperfusion, [医]再灌注
 repertoire,"n. 全部剧目, 全部技能, 全部节目, 全部作品"
 repetitive,"a. 重复的, 反复性的"
-replace,"vt. 取代, 代替；替换, 更换；归还, 偿还；把…放回原处"
-replacement,n. 更换；复位；代替者；补充兵员
-replant,vt. 改种；移植；移居
+replace,"vt. 代替, 替换, 放回, 归还
+[计] 替换; DOS外部命令:取代或更新文件"
+replacement,"n. 归还, 更换, 代替者
+[医] 复位, 置换"
+replant,"vt. 改种, 在...再植, 使移居"
 replenish,"vt. 把...重新补足, 把...再装满
 vi. 被再装满, 充满"
 replenishment,"n. 补给, 补充"
@@ -12162,9 +12913,10 @@ replication,"n. 回答, 反响, 复制, 第二次答辩, 折转, 弯回
 [化] 复制"
 replicative,"a. 重复的,复制的"
 repolarization,"复极化, 恢复极化"
-represent,"vt. 代表；表现；描绘；回忆；再赠送
-vi. 代表；提出异议"
-representation,[网络] 再现
+represent,"vt. 表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演
+vi. 提出异议"
+representation,"n. 表示法, 表现, 陈述, 代表
+[计] 表示法指定"
 representative,"n. 代表, 众议员, 典型
 a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
 reproduce,"vt. 复制；再生；生殖；使…在脑海中重现
@@ -12196,10 +12948,12 @@ reserpine,"n. 利血平
 [化] 利血平; 血安平"
 reservation,"n. 保留, 预定, 保留品, 保留地
 [经] 预定, 预约, 权益保留"
-reserve,[网络] 再服务
+reserve,"n. 储备品, 贮量, 后备军, 自然保护区, 保留, 拘谨, 节制, 储备金
+vt. 保留, 保存, 预订, 延期, 推迟"
 reservoir,"n. 贮水池, 贮藏处, 贮备, 水库
 vt. 储藏"
-reshaped,(re-shape 的过去分词) vt. 改造；再成形
+reshaped,"a. [医]整形的
+v. 改变…的形状[结构]( reshape的过去式和过去分词 ); 重塑; 改组; 修正, 改编"
 reside,"vt. 住，居住；属于
 n. (Reside)人名；(英)雷赛德"
 resident,"n. 居民, 常驻程序, 居住者, 留鸟
@@ -12208,8 +12962,8 @@ residual,"a. 残渣的, 剩余的
 n. 残渣, 剩余, 余数"
 residue,"n. 残渣, 剩余, 余数
 [化] 残基; 残渣; 残液; 釜液"
-resign,"v. 重新签署
-[网络] 续签；再签名；再签署"
+resign,"vt. 辞职, 放弃, 使顺从
+vi. 辞职, 屈从"
 resilience,"n. 弹回, 有弹力, 恢复力
 [化] 回弹; 弹性; 弹回性; 回能; 弹能"
 resist,"vi. 抵抗，抗拒；忍耐
@@ -12217,11 +12971,13 @@ vt. 抵抗；忍耐，忍住
 n. [助剂] 抗蚀剂；防染剂"
 resistance,"n. 抵抗力, 反抗, 耐力, 阻力, 电阻
 [化] 抵抗; 抗性; 阻力; 抗药性; 电阻"
-resistant,"adj. 抵抗的，反抗的；顽固的
-n. 抵抗者"
+resistant,"n. 抵抗者, 反抗者
+a. 抵抗的, 反抗的, 耐...的"
 resolute,"n. 果断的人
 a. 坚决的, 刚毅的, 毅然的"
-resolution,[网络] 再溶解；稀土溶液
+resolution,"n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解
+n. 图形分辨率
+[计] 图形分辨率"
 resolve,"vi. 决定, 分解, 决心
 vt. 使分解, 解析, 解决, 消除, 决心
 n. 决定之事, 决心, 坚决"
@@ -12230,9 +12986,11 @@ resonance,"n. 共鸣, 回声, 反响, 谐振, 共振
 resonant,"a. 共鸣的, 反响的, 洪亮的, 共振的
 [医] 反响的, 叩响的, 共鸣的, 共振的"
 resorb,v. 再吸收
-resort,vt. 使再分类
-resources,资源;储藏
-respect,[网络] 尊重
+resort,"n. 度假胜地, 手段, 凭借, 常去之地
+vi. 诉诸, 常去"
+resources,n. 资源；物力（resource的复数）
+respect,"n. 尊敬, 尊重, 问候
+vt. 尊敬, 注意, 遵守"
 respectively,"adv. 各自地, 独自地, 个别地, 分别地"
 respiration,"n. 呼吸, 一口气, 呼吸作用
 [化] 呼吸"
@@ -12254,7 +13012,10 @@ responsive,"a. 回答的, 应答的, 易感应的"
 restlessness,n. 坐立不安；不安定
 restoration,"n. 恢复, 归还, 复位
 [医] 恢复, 康复, 复位, 回复, 修复"
-restore,[网络] 再储藏；恢复
+restore,"vt. 回复, 恢复, 归还, 修补, 修复
+vt. 还原
+vi. 还原
+[计] 还原; DOS外部命令:从备份盘中取回文件"
 restraint,"n. 抑制, 克制, 束缚
 [医] 约束, 拘束"
 restrict,"vt. 限制, 限定, 约束
@@ -12262,7 +13023,10 @@ restrict,"vt. 限制, 限定, 约束
 restricted,"a. 受限制的, 有限的"
 restriction,"n. 限制, 限定, 约束
 [计] 限定"
-resume,[网络] 恢复
+resume,"vt. 重新开始, 取回, 恢复
+vi. 再开始
+n. 摘要, 个人简历
+[计] 继续执行"
 resumption,"n. 取回, 恢复, 再开始
 [经] 再取回, 恢复, 重新占用"
 resuscitate,"v. (使)复苏, (使)复兴"
@@ -12284,7 +13048,8 @@ vt. 呕吐
 n. 反胃, 呕吐声"
 retention,"n. 保持, 留置, 保留, 保持力, 保留物, 记忆, 停滞, 固位
 [计] 保贸, 保持"
-reticulocyte,网状红血球
+reticulocyte,"n. 网状细胞
+[医] 网状细胞, 网织红细胞"
 reticulocytopenia,[医] 网状细胞减少
 reticulocytosis,n. [医] 网状细胞(旧名网织红血球)过多症
 reticuloendothelial,"a. 网状内皮组织的
@@ -12292,13 +13057,14 @@ reticuloendothelial,"a. 网状内皮组织的
 reticulonodular,[网络] 网目斑点状
 reticulum,"n. 网状质, 网状组织, 蜂巢胃
 [医] 网, 网状组织, 蜂窝胃(反刍动物第二胃)"
-retina, 全反维生素A酸
+retina,"n. 视网膜
+[医] 视网膜"
 retinal,"a. 视网膜的
 [化] 视黄醛"
 retinitis,"n. 视网膜炎
 [医] 视网膜炎"
 retinoblastoma,n. [医] 眼癌(有遗传性)
-retinochoroiditis,视网膜脉络膜炎
+retinochoroiditis,[医] 视网膜脉络膜炎
 retinoid,"[医] 视网膜样的, 树脂样的"
 retinol,"[医] 维生素A醇, 维生素A1, 瑞叮醇, 松香油"
 retinopathy,[医] 视网膜病
@@ -12313,7 +13079,7 @@ n. 取回, 恢复, 救险球
 retrograde,"a. 后退的, 倒退的, 退步的
 vi. 倒退, 退步, 回顾"
 retrogress,"vi. 倒退, 退化, 退步"
-retroperitoneal,腹膜后位
+retroperitoneal,a. [解][医]腹膜后的
 retroperitoneum,[医] 腹膜后腔
 retropharyngeal,[医] 咽后的
 retrospect,"n. 回顾, 追忆, 回溯
@@ -12321,12 +13087,16 @@ v. 回顾, 追忆"
 retrospective,"a. 回顾的, 怀旧的, 在后面的
 n. 回顾展"
 retrotranslocation,[网络] 逆向转移
-retrotransposition,反转座作用
+retrotransposition,反转录转座[作用]
 retroverted,"a. 子宫后倾的
 [医] 后倾的"
-retrovirus, [医]逆[转]录病毒（微）
-return,[网络] 返回；归回
-reuptake, 再摄取
+retrovirus,n. [微]逆转录酶病毒( 一种致肿瘤病毒)
+return,"n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书
+a. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的
+vi. 返回, 归还, 回来
+vt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回
+[计] 返回"
+reuptake,"n. (神经细胞对化学物质的)再吸收,再摄取"
 revascularization,n. 血管的再形成
 reveal,"vt. 露出, 显示, 透露, 揭露, 泄露, (神)启示
 n. 窗侧, 门侧"
@@ -12347,10 +13117,11 @@ revert,"vi. 恢复, 复归, 回复, 还原
 vt. 使回复原状, 使回转
 n. 恢复原信仰的人
 [计] 还原"
-review,"n. 回顾；复习；评论；检讨；检阅
-vt. 回顾；检查；复审
-vi. 回顾；复习功课；写评论"
-revision,n. [印刷] 修正；复习；修订本
+review,"n. 检讨, 复习, 回顾, 检阅, 评论
+vt. 温习, 检讨, 评论, 再检察, 复审
+vi. 复习功课, 写评论"
+revision,"n. 校订, 修正, 修订本, 修订版
+[计] 修订版"
 revive,"vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播
 vi. 苏醒, 复活, 复兴, 恢复精神"
 rewarding,"a. 有益的, 有报酬的, 报答的"
@@ -12403,7 +13174,8 @@ rickettsia,"n. 立克次氏体
 [医] 立克次氏体"
 rickettsial,a. [微] 里克次氏体属微生物的
 rickettsiosis,[医]立克次体病
-rid,[网络] 康威世界；示差折光检测器；琼脂扩散
+rid,"vt. 免除, 以...清除, 使获自由, 使摆脱
+[法] 免除, 清除, 摆脱"
 ridge,"n. 脊, 山脊, 山脉
 [医] 嵴, 脊, 棱线"
 rifampin,[化] 利福平; 甲哌力复霉素
@@ -12414,7 +13186,7 @@ rigidity,"n. 坚硬, 僵化, 坚硬, 刚性, 刚度
 rigor,"n. 严格, 严厉, 苛刻, 严酷, 严密, 精确
 [医] 寒战, 强直, 僵硬"
 rigorous,"a. 严厉的, 严酷的, 严格的, 苛刻的, 严密的, 精确的"
-ringworm,癣
+ringworm,"[医] 癣, 癣菌病"
 rinse,"n. 清洗, 染发, 染发剂
 vt. 以清水冲洗, 漱, 漂清
 vi. 被漂净"
@@ -12432,7 +13204,8 @@ rod,"n. 竿, 笞鞭, 小枝
 [化] 棒"
 rodent,"a. 咬的, 啮齿类的
 n. 啮齿动物"
-roentgen,伦琴
+roentgen,"n. 伦琴射线, X射线
+[化] 伦琴"
 roentgenogram,"n. 射线照片
 [医] X线[照]片"
 roentgenographic,"a. 射线拍摄, X射线照相术, X射线拍摄术
@@ -12456,7 +13229,8 @@ vt. 使粗糙, 使不平, 使蓬乱, 粗制, 草拟, 粗暴对待, 对...动粗
 vi. 变粗糙
 adv. 粗糙地, 粗暴地"
 roughly,"adv. 概略地, 粗糙地, 粗暴地"
-round-the-clock,连续一整天
+round-the-clock,"a. 全天的, 全天候的
+[经] 连续不停的, 日夜24小时"
 route,"n. 路径, 途径, 路线
 vt. 确定路线, 按规定路线发送
 [计] 传递, 路由设定程序"
@@ -12484,7 +13258,9 @@ rural,"a. 乡下的, 田园的, 乡村风味的
 rust,"n. 锈, 生锈, 衰退
 vi. 生锈, 衰退
 vt. 使生锈, 腐蚀"
-sac,[网络] 中国国家标准化管理委员会
+sac,"n. 气囊
+abbr. 〈美(=Strategic Air Command)战略空军司令部
+[网络] 酵母菌属"
 saccharin,"n. 糖精
 [化] 糖精; 邻磺酰苯甲酰亚胺"
 saccharomyces,[单复同]n.[植]酵母
@@ -12493,7 +13269,8 @@ sacral,"a. 祭典的, 圣礼的, 神圣的, 骶骨的
 sacroiliitis,[医] 骶髂关节炎
 sacrum,"n. 骶骨
 [医] 骶骨"
-safeguard, 安全设备，护轨
+safeguard,"n. 保卫, 保护措施, 防护设施
+vt. 保卫, 保护"
 safety,"n. 安全, 保险, 平安, 保安设备
 vt. 保护, 防护"
 safflower,"n. 红花, 红花染料, 红花油
@@ -12573,8 +13350,8 @@ saturable,"a. 可饱和的, 能浸透的"
 saturate,"vt. 使渗透, 浸透, 使充满, 使饱和
 a. 浸透的, 饱和度高的, 深颜色的
 n. 饱和化合物, 饱和脂肪酸"
-saturation,"n. 饱和, 渗透, 浸透, 色饱和度
-[计] 饱和度"
+saturation,"n. 饱和；饱和度；饱和状态
+[网络] 高饱和度；色饱和度"
 sausage,"n. 香肠, 腊肠"
 save,"n. 救球
 vt. 解救, 挽救, 储蓄, 保存, 节省, 保留
@@ -12603,11 +13380,14 @@ vi. 押韵, 扫描
 [计] 网络软件目录, 编码与分析系统"
 scanner,"n. 扫描仪, 扫描盘, 审视者
 [计] 扫描器; 词法分析程序; 扫描程序; 扫视程序"
-scanning,[电子] 扫描
+scanning,"[计] 扫描
+[医] 断续言语, 扫描"
 scant,"a. 不充分的, 不足的
 vt. 减少, 吝啬, 限制, 藐视, 忽略"
 scanty,"a. 缺乏的, 仅有的, 不够的, 狭小的, 吝啬的"
-scar,[网络] S号汽车
+scar,"n. 疤痕, 伤痕, 悬崖
+vi. 结疤, 愈合, 痊愈
+vt. 使有伤痕"
 scarce,"a. 难得的, 稀罕的, 缺乏的"
 scarcely,"adv. 简直不, 一定不, 仅仅"
 scarlet,"n. 猩红色, 绯红色, 红衣
@@ -12630,8 +13410,8 @@ schistosomiasis,"n. 血吸虫病
 schizont,n. [生](孢子虫的)裂殖体
 schizophrenia,"n. 精神分裂症
 [医] 精神分裂症"
-schizophrenic,"adj. 精神分裂症的
-n. 精神分裂症的患者"
+schizophrenic,"a. 精神分裂症的
+[医] 精神分裂症的, 精神分裂症患者"
 schizophreniform,"a. [心]精神分裂症样的,分裂样的"
 scholarship,"n. 学问, 学术成就, 奖学金"
 schwannoma,[医] 神经鞘瘤
@@ -12691,13 +13471,16 @@ scrutiny,"n. 细看, 仔细检查, 监视, 选票检查
 [经] 复查, 评核, 仔细检查"
 scurvy,"a. 下流的, 卑鄙的, 无礼的
 n. 坏血病"
-seal,[网络] 那太简单了
+seal,"n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志
+vt. 封闭, 盖印, 盖章
+vi. 猎海豹"
 sealer,"[计] 密封层, 密封器
 [化] 表面保护层"
 search,"n. 搜寻, 查究
 v. 搜寻, 搜查, 探求, 调查, 搜索
 [计] 搜索, 路径检索程序"
-seasickness,[医] 晕船
+seasickness,"na. 晕船
+[网络] 晕船症；晕船药；晕船病"
 sebaceous,"a. 脂肪的, 脂肪质的, 分泌脂肪的
 [医] 皮脂的, 分泌脂质的"
 seborrhea,[医] 皮脂溢
@@ -12750,31 +13533,34 @@ seize,"vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握
 vi. 突然抓住, 利用"
 seizure,"n. 捕获, 夺取, 占领, 捕获物, 没收, 充公
 [医] 发作; 癫痫发作"
-selectin,选择输入
+selectin, 选择蛋白
 selection,"n. 选择, 选文, 精选品
 [医] 选择, 淘汰"
 selective,"a. 选择的, 选择性的
 [经] 选择的, 选择性的"
-selectivity,"n. 选择性, 选择度
-[化] 选择性"
+selectivity,"n. 选择；选择率；精选；【无线】选择性
+[网络] 选择度；选择比；选择能力"
 selenide,"n. 硒化物
 [化] 硒化物; 硒醚"
 selenite,"n. [矿]透明石膏,[化] 亚硒酸盐"
 selenium,"n. 硒
 [化] 硒Se"
 selenoprotein,[网络] 硒蛋白；硒蛋白质；S炎症负调控因子蛋白抗体
-self-contained, [体]自给的
-self-esteem, 自尊
-selfheal, 夏枯草
-self-imposed,"a. 自愿接受的, 自愿承担的"
+self-contained,"adj. 独立的；自恃的；自足的；自治的
+[网络] 自封闭的；自存性；自明性"
+self-esteem,"n. 自尊；自重；自大；自满
+[网络] 自尊心；自我价值感；自信心"
+selfheal,n. [植](有治疗作用的)夏枯草
+self-imposed,"adj. 自愿承担的
+[网络] 自我强制性"
 self-renewal, [医]自我更新
-self-tolerance,自身耐受[性]
+self-tolerance,n. 自体耐受性
 sella,[医] 鞍
 semaphorin,[网络] 脑信号蛋白；臂板蛋白；导向蛋白
 semen,"n. 精液, 精子
 [医] 种子; 精液"
-semicoma,[网络] 半昏迷
-semicomatose,adj. 半昏迷的
+semicoma,"n. 轻昏迷,半昏迷"
+semicomatose,"a. 轻昏迷的,半昏迷的"
 semiconservative,[网络] 半保留性；半保留复制；半守旧
 semi-liquid,"un. 半液体的
 [网络] 半流；固体状"
@@ -12786,7 +13572,8 @@ seminar,"n. 研究班, 专题讨论会
 [经] 讨论会, 专家讨论会"
 seminiferous,"a. 产种子的, 产生精液的, 输精的"
 seminoma,n. [医]精原细胞瘤
-semi-permeable,adj. 半渗透的
+semi-permeable,"a. 半透的
+[医] 半透的"
 semisynthetic,[网络] 半合成；半合成油；半合成润滑油
 semitransparent,"un. 半透明的
 [网络] 半透明化"
@@ -12810,15 +13597,16 @@ sensibility,"n. 感性, 感觉, 情感
 [医] 感觉性, 感受性; 感觉, 感觉能力"
 sensible,"a. 有感觉的, 敏感的, 明智的
 [医] 可感觉的"
-sensitive,adj. 敏感的；[仪] 灵敏的；感光的；易受伤害的
+sensitive,"a. 敏感的, 易感的, 灵敏的, 感光的
+[机] 敏感的, 灵敏的, 感度高的"
 sensitivity,"n. 敏感, 灵敏度
 [计] 灵敏度"
 sensitization,"n. 敏感化, 致敏作用
 [化] 敏化作用; 致敏作用"
 sensitize,"vt. 使敏感, 使具有感光性
 vi. 变得敏感"
-sensor,"n. 传感器
-[计] 检测器"
+sensor,"n. （探测光、热、压力等的）传感器
+[网络] 感应器；感测器；感应灯"
 sensorineural,a. [解]感觉神经的
 sensory,"a. 知觉的, 感觉的, 传递感觉的
 [医] 感觉的"
@@ -12881,16 +13669,17 @@ serpin, 丝氨酸蛋白酶抑制蛋白
 serratia,[微]沙雷氏菌属
 serum,"n. 浆液, 血清, 乳清
 [医] 血清; 浆液"
-service,"n. 服务, 服侍；服役；仪式
-a. 服务性的；耐用的；服现役的
-vt. 维修, 检修；保养
-n. (Service)人名；(英)瑟维斯"
+service,"n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门
+vt. 保养, 维修
+a. 武装部队的, 服务性的, 仆人的, 耐用的
+[计] 服务, 业务"
 sesame,"n. 芝麻
 [医] 芝麻, 脂麻, 胡麻"
 sessile,"a. 无柄的, 固着的
 [医] 无柄的, 无蒂的; 固着的"
-session,"n. 期间, 开庭期, 会议, 学期
-[计] 会话, 对话, 会晤, 通用任务程序"
+session,"n. 阶段；环节；(正式)会议；(法院)开庭
+adj. 为录音的歌手或乐队伴奏的
+[网络] 会话对象"
 setting,"n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具
 [计] 设置"
 settle,"n. 有背长椅
@@ -12903,8 +13692,10 @@ severe,"a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的
 severity,"n. 严格, 朴素, 激烈"
 sewage,"n. 脏水, 污水
 [医] 污水, 污物"
-sex,[网络] 性别
-sexual,[网络]  - 性别
+sex,"n. 性别, 性欲
+vt. 区别...的性别, 引起...的性欲"
+sexual,"a. 性的, 性别的
+[医] 性的; 性欲的"
 shadow,"n. 阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护
 vt. 遮蔽, 使朦胧, 预示, 尾随
 vi. 渐变, 变阴暗
@@ -12947,8 +13738,10 @@ vt. 修面, 剃, 修剪, 掠过
 vi. 刮脸, 勉强通过"
 sheath,"n. 鞘, 叶鞘, 翅鞘
 [化] 护套"
-shell,"abbr. (=she will [shall])
-[网络] 她将"
+shell,"n. 贝壳, 壳, 外形, 炮弹
+vt. 去壳, 脱落, 炮轰
+vi. 剥落, 脱壳
+[计] 外壳; DOS内部命令:指定命令行处理程序"
 shellac,"n. 虫胶
 vt. 涂上虫胶, 以虫胶处理, 殴打"
 shift,"n. 变化, 移动, 轮班, 手段, 应急办法, 移位
@@ -12970,18 +13763,21 @@ vi. 震动, 吓人
 a. 蓬乱浓密的"
 shortage,"n. 不足, 缺乏
 [化] 缺额"
-shortcoming,n. 缺点；短处
+shortcoming,"n. 缺点, 短处"
 shorten,"vt. 弄短, 缩短, 减少
 vi. 缩小, 变短"
 short-term,[经] 短期
-shoulder,[网络] 大号
+shoulder,"n. 肩, 肩膀, 衣肩
+vt. 肩负, 负担, 担任
+vi. 用肩推挤"
 shower,"n. 阵雨, 淋浴, 一阵, 展出者, 显示者
 vi. 淋浴, 下阵雨
 vt. 淋湿, 倾注"
 shrink,"n. 收缩, 萎缩, 回避
 vi. 收缩, 退缩, 萎缩, 缩小, 回避
 vt. 使收缩, 使缩小"
-shrinkage,收缩，皱缩，失重
+shrinkage,"n. 收缩, 收缩量, 减低
+[化] 起皱; 收缩; 收缩量"
 shunt,"vt. 使转轨, 使分流, 回避讨论, 推延
 vi. 转向一边, 转轨, 往返
 n. 转轨, 分流"
@@ -13048,12 +13844,11 @@ simulate,"vt. 模拟, 假装, 模仿
 simultaneous,"a. 同时的, 同时发生的
 [计] 同时的"
 simultaneously,"adv. 同时发生, 一齐, 同时, 同时存在"
-single,"a. 单身的, 单程的, 单一的, 个别的, 孤独的, 专一的
-n. 一个, 单打, 单程票
-vt. 选出
-vi. 击出一垒打
-[计] 单精度型"
-single-blind,[化] 带单圈的盲板
+single,"v. 选拔；【棒】作一垒手；(马)单步行进
+adj. 仅有一个的；单一的；单个的；特指某人或事物
+n. 单程票；单曲（常指流行音乐）；单曲激光唱片；（旅馆等的）单人房间
+[网络] 单身；未婚；单身的"
+single-blind,a. (被试者不知道试验或测验的内容和细节)
 sinus,"n. 窦, 静脉窦, 凹陷处"
 sinusitis,"n. 窦炎
 [医] 窦炎"
@@ -13063,24 +13858,27 @@ vt. 用虹吸管吸出；抽取
 n. (Siphon)人名；(老、柬)西蓬"
 siphonostegia,n. 阴行草属
 sitosterolemia,谷固醇血症
-situation,n. 情况；形势；处境；位置
+situation,"n. 情形, 境遇, 位置
+[医] 情境, 处境"
 skeletal,"a. 骨骼的, 框架的
 [医] 骨胳的"
 skeleton,"n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸
 a. 骨骼的, 概略的, 基层的, 骨干的
 [计] 骨架"
 skilful,"a. 灵巧的, 熟练的, 制作精巧的"
-skin,"n. 皮肤, 皮
-vt. 剥皮, 在...植皮
-vi. 长皮, 愈合, 蜕皮"
+skin,"n. 皮；皮肤；…皮肤的；（兽）皮
+v. 剥皮；扒皮；削皮；擦破（身体某部位的）皮肤
+adj. 有…皮的；没有草皮的
+[网络] 蒙皮；兽皮；表皮"
 skull,"n. 头盖骨, 头脑, 好学生
 [医] 头颅"
 sleeplessness,[医] 失眠
-sleeptalking, 梦呓
+sleeptalking,"[医] 梦呓, 梦语"
 sleep-walker,[医] 梦行者
-slide,"n. 滑, 滑道, 山崩, 雪崩, 幻灯片
-vt. 使滑动, 偷偷放入
-vi. 滑动, 滑落, 不知不觉陷入, 偷偷地走"
+slide,"n. 降低；跌落；衰落；滑动
+v. （使）滑行；（使）快捷而悄声地移动；逐渐降低；贬值
+adj. 滑动的；不稳定的
+[网络] 幻灯片；滑梯；滑落"
 slight,"adj. 轻微的；略微的；细小的；纤细的
 n. 侮慢；冷落；轻视
 v. 侮慢；冷落；轻视
@@ -13101,7 +13899,8 @@ sluggishly,adv. 懒怠地；慢吞吞地
 slur,"n. 连音符, 诽谤, 玷污, 印刷模糊
 vt. 草率地看过, 忽略, 含糊地念
 vi. 模糊不清"
-smallpox,天花
+smallpox,"n. 天花
+[医] 天花, 痘疮"
 smear,"vt. 涂, 擦上, 玷污, 把...擦模糊
 vi. 被弄脏
 n. 污点, 污迹, 污蔑"
@@ -13112,11 +13911,13 @@ n. 抚平；〈美〉平地；草原；一角银币
 v. 使平整；使平坦；使平滑；使光滑
 adv. 同“smoothly. a smooth skin”
 [网络] 流畅；平顺；平静的"
-smother,[网络] 他受到嘉莉母亲的细心护理；的妈妈
+smother,"vt. 使喘不过气, 使窒息, 闷熄, 忍住, 抑制, 覆盖
+vi. 窒息, 被抑制
+n. 浓烟, 窒息状态, 杂乱无章"
 snail,"n. 蜗牛, 行动迟缓的人, 脑筋迟钝的人, 蜗形凸轮
 vt. (蜗牛般)缓慢地打发(时间)
 vi. 缓慢移动"
-snakebite,蛇咬伤
+snakebite,[医] 蛇咬伤
 sneeze,"n. 喷嚏
 vi. 打喷嚏"
 sniff,"n. 以鼻吸气, 嗅, 气息
@@ -13125,9 +13926,9 @@ vt. 闻, 用力吸, 发觉"
 snooze,"vi. 小睡, 打盹儿
 vt. 懒散地打发日子
 n. 打盹儿, 小睡"
-snore,"n. 鼾声, 打鼾
-vi. 打鼾
-vt. 打鼾度过"
+snore,"v. 打鼾；打呼噜
+n. 鼾声；呼噜声
+[网络] 发鼾声；打呼打鼾"
 snort,"vi. 喷着气弄响鼻子, 轻蔑地哼, 嘶嘶响着排气
 vt. 哼着鼻子说, 喷出, 吸入(毒品)
 n. 喷鼻息, (潜艇的)水下通气管"
@@ -13139,7 +13940,7 @@ n. 浸；湿透；大雨"
 soap,"n. 肥皂, 阿谀
 vt. 以肥皂洗, 阿谀
 [计] 评语"
-sober-minded,"a. 镇定的, 沉着的, 冷静的"
+sober-minded,"a. 头脑清醒的,自我节制的,严肃的,持重的"
 socioeconomic,"adj. 社会与经济的；社经的
 [网络] 社会经济；确实激励鼓舞了社会经济；其社会经济"
 sociology,"n. 社会学
@@ -13153,13 +13954,15 @@ sodium,"n. 钠
 soften,"v. (使)变柔软, (使)变柔和"
 softener,"n. 软化剂, 硬水软化器
 [化] 软化剂"
-software,软件;程序设备;语言设备;方案;设计计算法
+software,"n. 软件
+[网络] 软件工程师；软体登录保存档；软件设计"
 soil,"n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池
 vt. 弄脏, 污辱
 vi. 变脏"
 solapsone,"n. [药]苯丙砜,扫风壮(抗麻风药)"
-solar,"a. 太阳的, 日光的, 源自太阳的
-[医] 太阳的; 腹腔丛的"
+solar,"adj. 太阳的；日光的；利用太阳光的；与太阳相关的
+n. 日光浴室
+n. (Solar)人名；(法、英、意、西、塞、捷)索拉尔"
 solarium,"n. 日光浴室, 日晷
 [医] 日光浴室"
 sole,"n. 脚掌, 鞋底, 底部
@@ -13218,8 +14021,13 @@ vt. 使变酸, 使失望
 n. 酸味, 酸饮料"
 source,"n. 来源, 水源, 根源, 原始资料, 源
 [计] 来源, 源程序"
-space,[网络] 定下步调；按……的节奏；缤纷家居
-span,[=starch-polyacrylonitrile]淀粉-聚丙烯腈
+space,"n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅
+vt. 隔开, 分隔
+vi. 留间隔
+[计] 空白, 空格校验"
+span,"n. 持续时间；范围；包括的种类；跨度
+v. 持续；贯穿；包括（广大地区）；涵盖（多项内容）
+[网络] 加那利群岛；巴利亚里群岛"
 spare,"n. 剩余, 备用品, 备件, 备用零件, 备用轮胎
 a. 多余的, 备用的, 空闲的, 节约的, 瘦的
 vi. 节约, 省掉, 宽恕
@@ -13227,7 +14035,8 @@ vt. 节约, 省用, 剩下, 饶恕, 赦免"
 sparganii,无
 sparse,"a. 稀疏的, 稀稀落落的, 稀薄的"
 sparsely,adv. 稀疏地; 稀少地; 不足地; 贫乏地
-spasm,痉挛
+spasm,"n. 痉挛, 抽搐, 发作
+[医] 痉挛"
 spasmodic,"a. 痉挛的, 痉挛性的, 由痉挛引起的, 抽搐的, 间歇的, 突发性的, 一阵阵的
 [医] 痉挛的"
 spasmolytic,a. 解痉的
@@ -13260,7 +14069,8 @@ spectinomycin,"n. [微]奇放线菌素,壮观霉素,奇霉素(用作抗淋病药
 spectral,"a. 光谱的, 鬼怪的, 幻觉的
 [医] 光谱的"
 spectrometry,"[医] 分光术, 光谱测定法"
-spectrophotometer,分电光度计
+spectrophotometer,"n. 分光光度计
+[化] 分光光度计"
 spectroscope,"n. 分光镜
 [化] 分光镜"
 spectrum,"n. 光谱, 范围, 系列
@@ -13288,7 +14098,8 @@ spermatozoon,"n. 精虫, 精子
 spermine,"n. 精素
 [化] 精胺; 精素"
 sphere," 表示：u201c球体的u201d,u201c似球的u201d：planisphere; u201c地球(或其他星球)诸层气体的u201d：ionosphere"
-spherical,球的
+spherical,"a. 球的, 球面的, 球状的, 天体的
+[医] 球形的, 球状的"
 spherocytosis,[医]球形红细胞(贫血)症
 sphincter,"n. 括约肌
 [医] 括约肌"
@@ -13319,7 +14130,7 @@ spirochete,[医] 螺旋体
 spirochetemia,[医] 螺旋体血症
 spirometer,"n. 肺活量计
 [医] 肺量计, 呼吸量计"
-spironolactone,[药] 螺甾内酯
+spironolactone,"n. [药]安体舒通,螺内酯,螺旋内酯甾酮(一种利尿药)"
 spit,"n. 唾液, 唾吐, 小雨, 炙叉, 一铲的深度
 vt. 唾吐, 吐出, 降小雨, 用炙叉穿过
 vi. 吐唾沫, 吐痰, 唾弃, 飘霏霏细雨"
@@ -13347,9 +14158,9 @@ a. 劈开的
 vi. 分离, 分开, 裂开, 被劈开
 vt. 劈开, 切开, 使分裂, 使分离
 [计] 拆分"
-spoil,"n. 战利品, 赃物, 奖品, 变质, 次品
-vt. 损坏, 破坏, 溺爱
-vi. 腐坏, 掠夺"
+spoil,"n. 赃物；战利品；掠夺物；成功所带来的好处
+v. 破坏；搞坏；糟蹋；毁掉
+[网络] 损坏；宠坏；溺爱"
 spondylitis,"n. 脊椎炎
 [医] 脊椎炎"
 spondyloarthropathy,[网络] 脊柱关节病；脊椎关节病变；脊椎关节紊乱
@@ -13371,7 +14182,7 @@ sporadic,"a. 偶尔发生的, 零星发生的, 分散的
 sporadically,adv. 偶发地；零星地
 spore,"comb.form sporo-的异体,表示：“孢子”：teliospore"
 sporotrichosis,"n. [医]孢子丝菌病,分支孢菌病"
-sporozoite,子孢子
+sporozoite,"n. [动]孢子体,子孢子"
 sporozoon,n. 孢子虫
 spot,"n. 污点, 地点, 斑点, 点, 娱乐场所, 处境, 少量
 a. 当场的, 现场的, 现货买卖的, 现金交易的, 抽样的
@@ -13391,9 +14202,9 @@ squama,"n. 鳞片, 鳞, 腋瓣
 squamomastoid,[医] 颞鳞乳突的
 squamous,"a. 有鳞的, 多鳞的, 鳞状的
 [医] 鳞状的, 鳞屑的"
-squeeze,"n. 紧握, 挤, 榨, 榨取, 佣金
-vt. 紧握, 挤, 榨取
-vi. 压榨, 榨"
+squeeze,"v. 挤压；挤出；捏；（使）挤入
+n. 挤压；塞；捏；榨出的液体
+[网络] 压榨；榨取；紧缩"
 stability,"n. 安定, 稳定性, 坚实, 巩固
 [化] 稳定性"
 stabilize,"vt. 使安定, 使稳固
@@ -13416,7 +14227,8 @@ vt. 上演, 表演, 筹划
 vi. 适于上演, 乘驿车旅行"
 staging,"n. 脚手架, 上演, 公共马车业
 [计] 登台"
-stagnant,[地名] 圣阿尼昂 ( 法 )
+stagnant,"a. 不流动的, 停滞的, 不景气的, 萧条的, 污浊的, 迟钝的
+[经] 萧条的"
 stagnate,"v. (使)淤塞, (使)停滞, (使)变萧条"
 stain,"n. 污染, 污点, 着色剂
 vt. 沾染, 染污, 着色
@@ -13424,7 +14236,10 @@ vi. 变脏"
 staining,"[医] 染色法, 染色"
 stakeholder,"n. 赌金保管者
 [法] 赌款保存人, 保存保证金的人"
-stale,[网络] 鲸的故事
+stale,"n. 尿
+a. 不新鲜的, 陈腐的, 疲惫的, 陈旧的
+vt. 使变旧, 走味
+vi. 变陈旧, 走味, 失时效, 撒尿"
 stamina,"n. 精力, 活力, 耐力, 雄蕊
 [医] 耐力, 精力; 雄蕊"
 stammer,"v. 口吃, 结结巴巴地说
@@ -13434,8 +14249,9 @@ a. 标准的, 合规格的
 [计] 标准"
 standardize,"vt. 使标准化, 使合于标准, 用标准检验
 [计] 标准化; 规格化"
-standpoint,[科技] 观点
-standstill,"站着不动, 停滞不前"
+standpoint,"n. 立场, 观点"
+standstill,"na. 站住；搁置不动
+[网络] 停顿；停止；停滞"
 staphylococcal,"a. 葡萄球菌的
 [医] 葡萄球菌的"
 staphylococcus,"n. 葡萄球菌
@@ -13443,11 +14259,11 @@ staphylococcus,"n. 葡萄球菌
 starch,"n. 淀粉, 浆糊, 刻板
 vt. 浆硬"
 starchy,"a. 淀粉的, 浆糊的, 浆糊状的, 古板的"
-stasis, [医]〔后缀〕意为保持恒定
-static,"a. 静态的；静电的；静力的
-n. 静电；静电干扰"
-statin,"n. 他汀类；抑制素
-n. (Statin)人名；(俄)斯塔京"
+stasis,"n. 停滞, 郁积
+[医] 停滞, 郁滞"
+static,"n. 静电, 静电干扰
+a. 静态的, 静止的, 固有的, 静电的"
+statin,"n. 斯达汀（药物名）; [医]抑制素[类名, 包括促生长素抑制素、促黑素抑制素、促乳素抑制素等]"
 stationary,"a. 不动的, 静止的, 不变的, 固定的, 停留的
 [计] 定常, 定态, 固定的"
 statistical,"a. 统计的, 统计上的, 统计学的
@@ -13457,26 +14273,27 @@ statistics,"n. 统计学, 统计资料
 [计] 统计信息"
 stature,"n. 身材, 身高, 高度
 [医] 身材, 身高"
-status,"n. 状态, 情形, 地位, 要人身份
-[计] 状态"
+status,"n. 地位；身份；情形；法律地位（或身份）
+[网络] 老实待在那"
 steadily,"adv. 稳定地, 无变化地, 有规则地"
 steady,"a. 稳定的, 不动摇的, 沉着的, 稳固的, 坚定的, 经常的
 vt. 使稳定, 使坚定
 vi. 变为沉着, 稳固"
 steatohepatitis,[网络] 脂肪性肝炎；脂肪肝炎；脂肪肝
-steatorrhoea,脂[肪]泻
+steatorrhoea,脂漏；脂肪痢；皮脂漏
 steatosis,脂肪变性
 stellate,"a. 星形的, 似星的
 [医] 星状的"
 stem,"n. 茎, 干, 柄, 船首, 血统, 堵塞物
 vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行
 vi. 堵住, 逆行"
-stenosis,狭窄
+stenosis,"n. 狭窄
+[医] 狭窄"
 stenotic,"a. 狭窄
 [医] 狭窄的"
 stent,[医] 斯滕特氏印模膏; 斯滕特氏印模; 移植片固定模
 stephanotis,n. 千金子藤
-stepwise, 逐步
+stepwise,"a. 楼梯式的, 逐步的"
 stereotyped,"adj. 用铅版印刷的；老一套的
 v. 把…浇铸成铅版；使成为陈规（stereotype的过去分词）"
 sterile,"a. 不毛的, 不孕的, 无菌的, 贫瘠的, 无效的, 枯燥的
@@ -13493,7 +14310,8 @@ sternum,"n. 胸骨, 胸片, 胸板
 [医] 胸骨; 腹板(昆虫)"
 steroid,"n. 类固醇
 [化] 甾族化合物"
-sterol,[网络]  - 甾醇
+sterol,"n. 甾醇, 固醇
+[化] 甾醇"
 stethoscope,"n. 听诊器
 vt. 用听诊器诊断"
 stevioside,"甜菊苷, 蛇菊苷(一种非营养性的天然甜味剂, 比蔗糖甜 300 倍)"
@@ -13509,8 +14327,9 @@ stigma,"n. 耻辱, 污名, 烙印
 [医] 柱头; 小孔, 眼点; 气孔; 小斑; 特征"
 stigmatization,[医] 斑痕形成; 瘀斑形成; 特征发生
 stilbestrol,已烯雌酚
-stillbirth,[医] 死产
-stillborn, [医]死产
+stillbirth,"[法] 死产, 死于胎中的婴儿, 死胎"
+stillborn,"a. 生下来已死的, 死产的
+[医] 死产的"
 stimulant,"a. 兴奋性的, 激励的, 鼓舞的
 n. 兴奋剂, 酒精饮料"
 stimulate,"vt. 刺激, 激励, 鼓舞
@@ -13525,11 +14344,10 @@ stippling,"n. 呈点画状, 呈点刻状
 stipulate,"v. 规定, 保证"
 stitch,"n. 一针, 疼痛, 针法, 碎布条, 针脚
 v. 缝, 缝合, 装订"
-stock,"n. 股份，股票；库存；血统；树干
-adj. 存货的，常备的；平凡的
-vt. 进货；备有；装把手于…
-vi. 囤积；办货；出新芽
-n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克"
+stock,"n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目
+a. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的
+vt. 装把手于, 进货, 备有, 放牧
+vi. 出新芽, 备货, 囤积"
 stoma,"n. 口, 气孔
 [医] 口, 小孔; 气孔(植物)"
 stomach,"n. 胃, 食欲, 欲望, 肚子
@@ -13542,17 +14360,20 @@ stomatology,"n. 口腔病学
 stool,"n. 凳子, 大便, 粪便, 厕所
 vi. 长新枝
 vt. 引诱, 诱捕"
-stopcock,停止旋塞
+stopcock,"n. 龙头, 开关
+[化] 调节旋塞; 旋阀"
 storage,"n. 存储器, 储藏, 保管, 库存, 仓库
 [计] 存放处; 存储"
 storax,"n. [药]苏合香,安息香料(=styracaceae) 植物的"
-storehouse,"[经] 仓库, 货栈"
+storehouse,"n. 仓库, 储藏所, 宝库
+[机] 库房, 贮藏库, 仓库"
 strabismus,"n. 斜视
 [医] 斜视, 斜眼"
-straight,"n. 直线, 直
-a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的
-adv. 直接地, 立即, 不断地"
-straightforward, 一直；直白
+straight,"adj. 直的；连续的；笔直的；正直的；整齐的
+adv. 直接地；不断地；立即；坦率地
+n. 直；直线
+n. (Straight)人名；(英)斯特雷特"
+straightforward,"a. 笔直的, 率直的, 明确的, 简单的, 直接的"
 strain,"n. 紧张, 拉紧, 张力, 过劳, 扭伤, 血缘, 种, 族, 气质, 曲调, 旋律, 口吻
 vt. 使劳累, 拉紧, 过分使用, 扭伤, 滥用, 曲解, 滤
 vi. 尽力, 努力, 紧拉, 弯曲, 被滤出"
@@ -13582,11 +14403,11 @@ streptomycin,"n. 链霉素
 [化] 植霉素(即链霉素)"
 stress,"suf. [用于表示阴性] =-ster:seamstress,songstress"
 stressor,[医] 紧张性刺激; 应激物
-stretch,"vt. 伸展,张开
-vi. 伸展
-adj. 可伸缩的
-n. 伸展，延伸
-n. (Stretch)人名；(英)斯特雷奇"
+stretch,"n. 伸展, 张开, 连绵, 一段路, 一段时间
+a. 可伸缩的, 弹性的
+vt. 伸展, 张开, 曲解, 使过度伸展
+vi. 伸展, 延伸
+[计] 伸展"
 stretcher,"n. 担架, 延伸器
 [医] 担架"
 stria,"n. 线条, 条纹
@@ -13634,28 +14455,37 @@ stupor,"n. 无感觉, 人事不省, 麻木
 [医] 木僵, 昏呆"
 styrene,"n. 苯乙烯
 [化] 苯乙烯; 苏合香烯; 苯亚乙基"
-subacute,[网络] 亚急性；次急性；亚急起
+subacute,"a. 稍尖的, 亚急性的
+[医] 亚急性的"
 subarachnoid,[医] 蛛网膜下的
-sub-cellular,[网络] 亚细胞的
+sub-cellular,a. [生]亚细胞的
 subchronic,[网络] 亚慢性；次慢性
-subclass, 子集
-subclinical,[网络] 亚临床；次临床期；临床下
+subclass,"n. 亚纲, 子集
+[医] 亚纲(生物分类)"
+subclinical,"a. 无临床症状的, 轻度不正常的, 症状不明显的, 亚临床的
+[医] 临床症状不显的, 亚临床的"
 subcostal,"a. [解]肋下的
 n. 肋下肌"
 subcutaneous,"a. 皮下的, 皮下用的
 [医] 皮下的"
 subcutaneously,adv. 皮下地
-subdivide,"vi. 细分, 再分
-vt. 把……再分, 把……细分"
+subdivide,"vt.vi. (把...)再分, (把...)细分
+[法] 再分, 细分"
 subdivision,n. 细分；分部；供出卖而分成的小块土地
 subdural,[医] 硬膜下的
-subendocardial,心内膜下的
+subendocardial,[医] 心内膜下的
 subendothelial,[医] 内皮下的
-subfamily, 子族
-subgroup,"(周期表)子群,副族"
+subfamily,"n. 亚科
+[医] 亚科"
+subgroup,"n. 小群, 隶属的小组织, 子群
+[化] 族; 族周期表; 副族(指周期表中B族); 子群; 亚群(生物分类); 族(数)"
 subhealth,不完全健康的状况
 subinvolution,[医]复旧不全
-subject,[网络] 主体；对象；主题
+subject,"n. 科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由
+a. 服从的, 易患...的, 隶属的, 受支配的
+adv. 在...条件下
+vt. 使隶属, 使受到
+[计] 主题, 主体"
 subjective,"a. 主观的, 个人的
 [医] 主观的, 自觉的"
 sublimation,"n. 净化, 升华作用, 高尚化
@@ -13674,13 +14504,15 @@ submit,"vt. 使服从, 使受到, 委托, 提交, 认为
 vi. 屈服, 服从"
 submucous,"a. [解]黏膜下的, 黏膜下层的"
 subnanoemulsion,亚纳米乳
-subnormal,亚常态
+subnormal,"a. 低于正常的, 普通以下的, 低能的
+[医] 低常的, 正常下的"
 subnormality,[医] 低常状态
 subordinate,"n. 下属，下级；部属，属下
 adj. 从属的；次要的
 vt. 使……居下位；使……服从"
-subpopulation,亚群体
-subsequent,adj. 后来的，随后的
+subpopulation,n. (从其他人口分出或构成总人口的)分组人口
+subsequent,"a. 后来的, 接下去的
+[经] 后来的"
 subsequently,"adv. 后来, 随后"
 subserous,a. [解]浆膜下的
 subset,n. [数] 子集；子设备；小团体
@@ -13711,7 +14543,7 @@ vi. 做减法
 [计] 减"
 subtraction,"n. 减少
 [计] 减法"
-subtype, 副型
+subtype,[计] 图表类型
 subunit,"n. 亚基；次单位；子单位；子单元
 [网络] 亚单位；亚单元"
 suburb,"n. 市郊住宅区, 郊区, 边缘"
@@ -13729,9 +14561,9 @@ succinylcholine,"[医] 丁二酰胆硷, 琥珀酰胆硷"
 succumb,"vi. 屈从, 屈服, 死"
 succus,"n. 液, 汁
 [医] 汁, 液"
-suck,"vt. 吸, 吮, 吸入, 吮吸, 吸收
-vi. 吸, 吸奶
-n. 吸, 吸入, 吮吸"
+suck,"v. 吮吸；咂；啜；含在嘴里吸食
+n. 吸；吮；啜；咂
+[网络] 吸吮；吸收；摇滚吸血鬼"
 sucker,"n. 乳儿, 吸管
 [医] 吸盘"
 sucrase,"n. 蔗糖酶
@@ -13785,17 +14617,21 @@ summarize,"v. 概述, 总结"
 summary,"n. 摘要, 概要
 a. 摘要的, 简略的
 [计] 摘要; 概要"
-sunburn, [医]日光灼伤
-suncream,〈英〉防晒霜
-sunstroke,"[医] 日射病, 中暑"
-superantigen,超抗原
+sunburn,"n. 日炙, 晒斑, 晒焦, 晒黑
+vt.vi. (使)晒黑, (使)晒得退色, (使)晒焦"
+suncream,n. (进行日光浴时用的)防晒乳，防晒霜
+sunstroke,"n. 中暑
+[医] 日射病, 中暑"
+superantigen,[免疫]超(级)抗原
 supercooling,过(度)冷(却)
-superfamily,总科
+superfamily,"n. 总科
+[医] 超科"
 superficial,"n. 表面, 外表
 a. 表面的, 肤浅的, 面积的"
-superhuman,[网络] 超人；超人类
-superimpose,[网络] 叠印；重叠
-superinfection,再感染
+superhuman,"a. 超人的, 人类能力所不能及的"
+superimpose,"vt. 把(一物)放在另一物的上面, 添上, 附加, 加上, 添加
+[计] , 重叠, 叠加"
+superinfection,"n. [医]重复感染,双重感染"
 superior,"n. 长者, 占优势的人, 上级
 a. 上级的, 出众的, 高傲的"
 superiority,"n. 优越, 高傲
@@ -13817,12 +14653,14 @@ supervene,"vi. 并发, 伴随产生, 意外发生, 附带发生
 supervise,"v. 监督, 管理, 指导"
 supine,"a. 仰卧的, 掌心向上的, 懒散的
 [医] 仰卧的, 旋后的"
-supplement,"vt. 增补，补充
-n. 增补，补充；补充物；增刊，副刊"
+supplement,"n. 补充物, 增刊, 补充, 补遗, 补编, 附录, 补角
+vt. 补充, 增补"
 supplementary,"a. 补足的, 补充的, 追加的
 [经] 追加的, 补充的, 增补的"
 supplementation,"n. 增补, 补足, 补充"
-support,[网络] 支承
+support,"n. 支持, 支撑, 援助, 供养, 支撑物
+vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证实
+[计] 后援; 支持"
 supportive,"a. 支撑, 支承, 资助, 赞助, 支援, 经受, 忍受, 扶养, 证实, 鼓励, 维持, 伴奏"
 supportively,支持的
 supposition,"n. 想像, 推测, 推想
@@ -13894,7 +14732,8 @@ v. 怀疑, 猜想"
 suspend,"vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟
 vi. 暂停, 中止, 悬浮, 停止偿付债务
 [计] 暂停"
-suspense,n. 悬疑
+suspense,"n. 悬疑, 焦虑, 悬念, 悬而不决
+[经] 未定, 暂记"
 suspension,"n. 悬挂, 暂停, 中止
 [化] 悬浮; 悬浮体; 悬浮液"
 suspicious,"a. 可疑的, 多疑的, 怀疑的
@@ -13906,8 +14745,9 @@ sustained,"a. 持续的, 持久不变的, 持久的, 不懈的
 [计] 持续的"
 suture,"n. 缝合, 缝合处, 缝合线
 vt. 缝合"
-swab,"n. 拖把, 药签
-vt. 擦洗, 拭抹"
+swab,"n. （医用的）拭子；用拭子对（人体）化验标本的采集
+v. 用拭子擦拭；擦拭（地板等）
+[网络] 棉签；药签；拖把"
 swallow,"n. 燕子, 吞咽, 喉
 vt. 咽, 淹没, 吞没, 耗尽, 轻信, 忍受, 抑制
 vi. 吞下, 咽下"
@@ -13934,7 +14774,8 @@ symbiosis,"n. 共栖, 共同生活
 [化] 类聚效应"
 symbol,"n. 符号, 象征, 代号, 信条
 [计] 符号; 码元"
-symmetrical,对称的
+symmetrical,"a. 对称的, 匀称的
+[医] 对称的, 均称的"
 sympathetic,"a. 有同情心的, 合意的, 赞成的
 n. 交感神经, 容易感受的人"
 sympathize,"vi. 同情, 怜悯, 同意, 体谅"
@@ -13953,14 +14794,15 @@ symptomatology,"n. 综合征, 症状学
 [医] 症状学"
 symptomless,"a. 无症状的, 无征候的
 [医] 无症状的"
-synaeresis,离水[现象]
+synaeresis,"n. 元音溶合, 缩约
+[医] [胶体]凝缩[作用], 脱水收缩[作用]"
 synapse,"n. (神经)突触, 神经键
 [医] 突触, 神经键"
 synapsis,"n. 染色体结合, 联会, 突触
 [医] 接合, 联会(指染色体), 突触, 神经键"
 synaptonemal, [医]联会丝的
-synchronous,"a. 同时的, 同步的
-[计] 同步"
+synchronous,"adj. 同时发生（或存在）的；同步的；共时的
+[网络] 同时的；同期的；同时发生的"
 syncopal,a. [医]晕厥的
 syncope,"n. (词中)音省略, 中略
 [医] 晕厥"
@@ -13999,7 +14841,8 @@ syringe,"n. 注射器, 洗涤器
 vt. 注射, 洗涤"
 syrup,"n. 糖浆, 果汁
 [化] 糖浆剂"
-system,[网络] 系统；系统层
+system,"n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
 systematic,"a. 有系统的, 分类上的, 体系的
 [医] 系统的, 系的, 分类的"
 systematically,"adv. 有系统地, 有组织地, 有条理地"
@@ -14025,8 +14868,8 @@ tachypnea,"n. 呼吸急促
 [医] 呼吸急促"
 tachysterol,n. [生化]速甾醇
 tacrolimus,[网络] 他克莫司；免疫抑制剂他克莫司；普乐可复
-tactic,"n. 策略, 战略
-a. 按顺序的, 依次排列的"
+tactic,"n. 一项战术, 一条策略
+a. 战术的, 顺序的, 排列的"
 tactile,"a. 触觉的, 有触觉的
 [医] 触觉的"
 tag,"n. 标签, 附属物, 碎片, 结束语, 口头禅, 附加语, 浑名, 标记, 标记符
@@ -14051,7 +14894,8 @@ tapasin,无
 tape,"n. 带子, 录音带, 磁带, 窄带, 卷尺
 vt. 以带子绑起, 测量, 录音
 [计] 带"
-tapeworm,[医] 绦虫
+tapeworm,"n. 绦虫
+[医] 绦虫"
 tar,"n. 焦油；焦油沥青；柏油；（烟草点燃后产生的）焦油
 v. 用沥青涂抹；用柏油铺
 adj. 涂有柏油的
@@ -14072,7 +14916,9 @@ taxonomic,"a. 分类学的, 分类的
 taxonomist,n. 分类学家
 taxonomy,"n. 分类学, 分类系统
 [医] 分类学"
-tear,[地名] 特阿河 ( 西 )
+tear,"n. 泪滴, 眼泪, 撕, 扯, 裂缝, 激怒, 飞奔
+vi. 流泪, 撕破, 赶快, 飞奔, 被撕破
+vt. 撕裂, 戳破, 拉掉, 撕掉, 使分裂, 使精神不安, 折磨"
 technetium,"n. 锝
 [化] 锝"
 technic,"n. 技巧, 技能, [谓语用单数]工艺学
@@ -14087,14 +14933,14 @@ technologist,"n. 工艺师, 技术员
 [医] 技术员"
 technology,"n. 技术, 工业技术, 术语
 [医] 技术学, 工艺学"
-teenager,n. 十几岁的青少年；十三岁到十九岁的少年
+teenager,"n. 青少年, 十几岁的少女, 十几岁的少年"
 teichoic,[网络] 电视
 telangiectasia,"n. 毛细管扩张
 [医] 毛细管扩张"
 telangiectasis,"n. 毛细管扩张
 [医] 毛细管扩张"
 telangiectatic,[医] 毛细管扩张的
-telemedicine,遥控医学
+telemedicine,n. (通过遥测、电话、电视等手段求诊的)远距离医学
 telephone,[网络] 电话；打电话；通讯设备的研収
 telocentric,a. 具端着丝粒的
 telomerase,n. 端粒酶
@@ -14122,7 +14968,8 @@ n. 照料, 看管人, 供应船, 小船, 提出, 偿付, 投标"
 tenderness,"n. 柔软, 亲切, 柔和, 敏感, 易触痛
 [医] 触痛"
 tendinitis,[医] 腱炎
-tendon,"招待, 照料"
+tendon,"n. 腱
+[医] 腱"
 tenesmus,"n. [医]里急后重,下坠"
 tenet,"n. 信条, 教义, 宗旨, 原则"
 tenosynovitis,n. 〈医〉腱鞘炎
@@ -14165,16 +15012,15 @@ n. 间日热"
 tertiary,"a. 第三的, 第三位的, 第三产业的
 n. 第三修道会会员, 第三纪
 第三的; 三代的(指无机盐)"
-test,"n. 试验；检验
-vt. 试验；测试
-vi. 试验；测试
-n. (Test)人名；(英)特斯特"
+test,"n. 测试, 试验, 化验, 检验, 考验, 甲壳
+vt. 测试, 试验, 化验
+vi. 接受测验, 进行测试"
 testicle,"n. 睾丸
 [医] 睾丸"
 testicular,"a. 睾丸的, 睾丸状的
 [医] 睾丸的"
-testimonial,"n. 证明书；推荐书
-adj. 证明的；褒奖的；表扬的"
+testimonial,"n. 证明书, 介绍信, 奖品, 奖金, 奖状, 感谢信, 表扬信
+a. (有关)证明书的, 鉴定书的, 表扬的, 褒奖的"
 testis,"n. 睾丸
 [医] 睾丸; 四迭体下丘"
 testosterone,"n. 睾丸激素
@@ -14215,22 +15061,25 @@ therapeutic,"a. 治疗的, 有益于健康的
 therapeutically,adv. therapeutical的变形
 therapy,"suf. 表示“治疗”,“疗法”：physiotherapy"
 thereby,[网络] 因此；从而
-thermal,[网络] 热的
+thermal,"a. 热的, 热量的, 温泉的
+n. 上升温暖气流"
 thermally, 热地
 thermodynamic,"a. 热力学的, 使用热动力的"
 thermolabile,"a. 不耐热的, 感热的, 受热即分解/破坏的
 [化] 不耐热的"
 thermometer,"n. 温度计, 体温计
 [化] 温度计"
-thermophile,"嗜热生物；嗜热菌；高温菌, 嗜热生物，高温生物，嗜热菌，高温菌"
+thermophile,"[生] adj.喜温的, 嗜热的,适温的 
+n. 嗜热生物,喜温生物"
 thermoregulation,"n. 温度调节
 [医] 温度调节"
 thermoregulatory,"a. 体温调节的,保持(一定)体温的"
 thermostat,"n. 自动调温器, 温度自动启闭装置
 [化] 恒温器; 恒温箱"
 thiacetazone,"缩氨硫胺, 氨硫脲"
-thiamine,"硫胺素,维生素B1"
-thiazide,噻嗪利尿剂
+thiamine,"n. 硫胺, 维生素B1
+[化] 硫胺素; 盐酸硫胺; 维生素B-1"
+thiazide,"n. [药]噻嗪化物,噻嗪类(利尿药, 尤用于降低血压)"
 thiazolidinedione,[网络] 胰岛素增敏剂；噻唑烷二酮类；硫氮烷二酮类
 thiazolyl,噻唑基
 thicken,"vi. 变浓, 变厚, 变得模糊, 变为复杂
@@ -14245,7 +15094,8 @@ vi. 变薄, 变细, 变少, 变淡
 adv. 薄地, 稀疏地, 微弱地
 n. 细小部分"
 thioguanine,n. [药]硫鸟嘌呤(一种抗肿瘤药)
-thiol,硫醇
+thiol,"n. 【化】硫醇(类) =mercaptan
+[网络] 巯基；硫氢基；硫羟"
 thiomersal,"n. [药]硫柳汞,邻乙汞硫基苯酸钠( 一种皮肤消毒药)"
 thiopental,戊硫代巴比妥
 thiophosphoryl,硫代磷酰
@@ -14253,19 +15103,23 @@ thiopurine,[网络] 巯基嘌呤；硫代嘌呤；嘌呤代谢物
 thiotepa,"[化] 噻替派
 [医] 硫替派(原名噻替派,抗癌药)"
 thiouracil,n. [药]硫脲嘧啶(抗甲亢、心绞痛或充血性心力衰竭等的药物)
-thiourea,硫脲
+thiourea,n. [化]硫脲(用于治疗甲亢、照相术等)
 thirsty,"a. 口渴的, 渴望的, 干燥的"
 thistle,n. 蓟
 thixotropy,"n. 触变性, 摇溶现象, 摇溶
 [化] 触变性"
-thoracentesis,n. 【外科学】胸腔穿刺术
+thoracentesis,(=thoracocentesis)胸腔穿刺术
 thoracic,"a. 胸的
 [医] 胸的, 胸廓的"
 thoracocentesis,[医] 胸腔穿刺术
 thoracotomy,[医] 胸廓切开术
 thorascope,无
-thorax,胸
-thorough,"a. 十分的, 彻底的"
+thorax,"n. 胸, 胸廓, 胸腔
+[医] 胸, 胸廓"
+thorough,"adj. 彻底的；完全的；深入的；细致的
+n. 【英史】(如英王查理一世实行的)专横政策
+prep. 〈古〉同“through”
+[网络] 详尽的；周全；周密"
 threaten,"vt. 恐吓, 威胁, 预示...的凶兆
 vi. 威胁, 恫吓, 可能来临"
 threonine,n. [生化]苏氨酸
@@ -14291,8 +15145,8 @@ thrombocyte,"n. 血小板, 凝血细胞
 thrombocytopenia,"n. 血小板减少症
 [医] 血小板减少"
 thrombocytosis,n. [医]血小板增多(症)
-thromboembolism,[医] 血栓栓塞
-thromboendarterectomy,n. 血栓动脉内膜切除术（等于thromboendarteriectomy）
+thromboembolism,n. [医]血栓栓塞
+thromboendarterectomy,n. [医]血栓动脉内膜切除术(亦作thromboendarteriectomy)
 thrombogen,n. [生化]凝血酶原
 thrombogenic,[医] 形成血栓的
 thrombokinesis, [医]血栓形成，血液凝固
@@ -14306,7 +15160,7 @@ thrombosis,"n. 血栓形成
 [医] 血栓形成"
 thrombotic,"a. 血栓形成, 栓塞
 [医] 血栓形成的"
-thromboxane,"血栓素,血栓烷"
+thromboxane,[化] 凝血┭烷; 血栓烷
 thrombus,"n. 血栓
 [医] 血栓"
 thumb,"n. 拇指
@@ -14339,7 +15193,7 @@ tick,"n. 滴答声, 一瞬间, 壁虱, 褥套, 信用, 赊欠
 vi. 滴答响, 活动
 vt. 滴答地记录, 标记号于"
 tight,comb.form 表示“不透的”，“不漏的”，“密封的”，“防…的”
-timeline, 时线
+timeline,[地质] 时间线；等时线
 timely,"a. 及时的, 适时的
 adv. 及时地"
 timing,"n. 时间选择, 时间测定, 定时, 调速
@@ -14368,7 +15222,8 @@ titanium,"n. 钛
 [化] 钛Ti"
 titrate,v. 用滴定法测量
 titrator,"n. [化]滴定器,滴定仪"
-titre,"碘噻罗宁,三碘甲状腺原氨酸,甲碘安"
+titre,"n. 滴定率, 效价, 滴度, 滴定度
+[化] 滴度; 滴定度"
 toad,"n. 蟾蜍, 癞蛤蟆, 讨厌的家伙"
 tobacco,"n. 烟草, 香烟
 [医] 烟草"
@@ -14377,7 +15232,9 @@ tocography,[医] 分娩力描记法
 tocopherol,"n. 【生化】生育酚；抗不育维生素
 [网络] 生育醇；维生素E；维他命E"
 toddler,"n. 蹒跚行走的人, 学步的小孩, 学步的幼儿, (非正式)信步走的人"
-toe,[=total organic extracts]总有机提取物
+toe,"n. 足趾, 趾部, 脚趾
+vt. 以趾踏触, 用脚尖走
+vi. 动脚尖"
 toilet,"n. 厕所, 梳妆
 vi. 梳妆, 打扮, 上厕所
 vt. 给...梳妆打扮"
@@ -14386,12 +15243,13 @@ tolerability,"n. 可忍性, 尚可"
 tolerable,"a. 可容忍的, 可以的"
 tolerance,"n. 宽容, 忍受, 容忍, 容许量, 公差
 [计] 允许误差"
-tolerant,adj. 宽容的；容忍的；有耐药力的
+tolerant,"a. 宽容的, 容忍的, (对冷、热)能耐的
+[医] 能耐受的"
 tolerate,"vt. 宽容, 容许, 有耐力"
 tolerogen,n. 耐受原
 toluene,"n. 甲苯
 [化] 甲苯"
-tomatine,"番茄素,番茄苷"
+tomatine,"n. [生化]番茄(碱糖)苷,番茄素"
 tomogram,"n. X线断层照片
 [医] X线体层照片, X线断层照片"
 tomograph,"n. X光断层摄影装置
@@ -14405,7 +15263,8 @@ vi. 颜色调和
 tongue,"n. 舌, 语言能力, 讲话方式, 语言
 vt. 舔, 斥责, 发...的音
 vi. 使用舌头, 吹管乐器"
-tonic,[网络] 网卡连接口；隔离卡网卡的连接口
+tonic,"n. 补药, (音乐)主调音或基音
+a. 滋补的, 声调的, 使精神振作的"
 tonometer,"n. 音调计, 汽压计, 血压计
 [医] 张力计; 压力计"
 tonsil,"n. 扁桃体
@@ -14417,15 +15276,21 @@ tonsillitis,"n. 扁桃腺炎
 tooth,"n. 牙齿, 齿状物, 爱好
 vt. 装以齿, 将...切成齿状
 vi. 啮合"
-toothache,[医] 牙痛
+toothache,"n. 牙痛
+[医] 牙痛"
 tophus,"n. 痛风石
 [医] 痛风石; 松石(牙石或涎石)"
 topical,"a. 论题的, 题目的, 时事问题的, 局部的
 [医] 局部的"
 topically,adv. 总论地；时事问题地
-torture,"n. 拷问, 苦闷
-vt. 拷问, 曲解, 折磨, 使弯曲"
-total,[地名] 托塔湖 ( 哥伦 )
+torture,"n. 酷刑；拷打；拷问；痛苦
+v. 拷打；拷问；严刑逼供；使痛苦
+[网络] 折磨；虐待；刑讯"
+total,"a. 全体的, 总的, 全然的
+vt. 计算...的总和, 共计为
+vi. 合计
+n. 总数, 全体, 合计
+adv. 统统"
 totipotent,a. (细胞)全能的
 tough,"n. 恶棍
 a. 强硬的, 艰苦的, 坚固的, 坚韧的, 粗暴的, 咬不动的"
@@ -14461,8 +15326,8 @@ trabecular,"[医] 小梁的, 柱的"
 trace,"n. 痕迹, 踪迹, 微量, 迹线, 缰绳
 vt. 追踪, 回溯, 描绘
 vi. 追溯, 沿路走"
-tracer,"n. 追踪者, 描图者, 描绘工具
-[计] 跟踪程序"
+tracer,"n. 曳光弹；示踪剂
+[网络] 追踪者；示踪物；示踪器"
 trachea,"n. 气管, 导管
 [医] 气管"
 tracheobronchial,a. [解]气管支气管的
@@ -14476,7 +15341,8 @@ trachoma,"n. 沙眼, 颗粒性结膜炎
 [医] 沙眼"
 tracing,"n. 描摹, 描图, 追踪
 [计] 跟踪"
-tract,"拖,拉,吸引"
+tract,"n. 大片土地, 地带, 小册子
+[医] 束, 道"
 traction,"n. 曳, 牵引, 牵引力
 [医] 牵引"
 tradition,"n. 传说, 传统, 交付
@@ -14497,7 +15363,8 @@ tranquilize,vt. 使……安静；使……镇定
 tranquilizer,"[医] 安定药, 镇定药"
 transabdominal,[网络] 经腹部；经腹部超音波；腹部进行
 transactivate,[网络] 基因间并可外作用於
-transaminase,氨基转移酶
+transaminase,"n. 氨基移转酶, 转氨酶
+[化] 转氨酶"
 transcribe,"vt. 抄写, 译, 意译, 录制, 改编
 [计] 转录"
 transcriptase,[化] 转录酶
@@ -14521,8 +15388,11 @@ transferase,n. [生化]转移酶
 transferrin,"n. 转铁蛋白, 转铁球蛋白
 [化] 转铁蛋白"
 transfersome,"传递体,转铁体"
-transform,[化] 反式; 反式异构体
-transformation,n. [遗] 转化；转换；改革；变形
+transform,"vt. 使转换, 改变, 改造, 使...变形
+vi. 改变, 转化, 变换
+[计] 变换"
+transformation,"n. 变形, 变质, 变化, 改革, 变换
+[化] 转化; 变换"
 transfusable," [医]adj.可转输的, 可输液的"
 transfuse,"vt. 输血, 充满
 [医] 输血, 输液"
@@ -14549,7 +15419,7 @@ translocation,"n. 改变位置, 易位
 [医] 易位(染色体)"
 translucent,"a. 半透明的, 透明的"
 transluminal, [医]经腔的，穿腔的，穿过（血管）腔壁的
-transmembrane,跨膜转移
+transmembrane,a. [生][物]横跨膜的
 transmissible,"a. 能递送的, 可传递的, 可传达的
 [医] 可传播的, 可传染的; 可传递的"
 transmission,"n. 传输, 传送, 变速器
@@ -14572,8 +15442,11 @@ n. 移居者, 移植"
 transplantation,"n. 移植, 移民, 移植术
 [医] 移植术"
 transplanter,"n. 移植者, 移植机"
-transport,[网络] 运输
-transportation,输送，运输，运输工具
+transport,"n. 运输, 运输工具, 激动, 狂喜, 流放犯
+vt. 传送, 运输, 流放
+[计] 传送"
+transportation,"n. 运输, 输送, 交通车辆
+[经] 运转, 运输, 运输费"
 transporter,"n. 输送人, 运输机
 [化] 运输船; 运输机"
 transposition,"n. 调换, 换位, 移项
@@ -14598,13 +15471,16 @@ traverse,"n. 越过, 横贯, 横断物, 屏障, 否认, 反驳
 vt. 横过, 穿过, 经过, 详细研究, 反对, 在...来回移动
 vi. 横越, 横断, 旋转, 来回移动
 a. 横亘的, 横贯的"
-tray,[网络] 太赫兹；射线；太赫兹技术
-treadmill,脚踏轧机
-treasurehouse,[经] 宝库
+tray,"n. 托盘, 公文盘, 满盘, 发射箱
+[化] 淋盘"
+treadmill,"n. 踏车, 令人厌倦的工作
+[法] 踏车"
+treasurehouse,"n. 宝库
+[法] 宝库, 宝藏室"
 treatable,"a. 好对付的, 能处理的, 能治疗的"
 treatise,"n. 论文, 专著"
-treatment,"n. 治疗, 待遇, 处理
-[医] 疗法, 治疗; 处理"
+treatment,"n. 治疗；处理；待遇；疗法
+[网络] 其名词为；性病特别的名称；患者的依从性"
 tremor,"n. 震动, 颤动
 [医] 震颤"
 tremorous,"tremorous
@@ -14654,7 +15530,7 @@ vi. 松开扳柄
 triglyceride,"n. 甘油三酸酯
 [化] 甘油三酯; 三酸甘油酯"
 trihalomethane, [医]三卤甲烷
-triiodothyronine,[机] 三碘甲腺原氨酸
+triiodothyronine,n. [药]三碘甲状腺氨酸( 用于治疗甲状腺机能减退)
 trimester,"n. 三个月, 一学期
 [医] 三个月, 三月期"
 trimethoprim,"n. [药]甲氧苄氨嘧啶,三甲氧苄二氨嘧啶(一种抗菌素,用以治疗疟疾及呼吸道或尿路感染)"
@@ -14662,7 +15538,7 @@ trioxide,"n. 三氧化物
 [医] 三氧化物"
 tripeptide,n. [化]三肽
 triphalangia,[医] 三指节畸形
-triphosphate,三磷酸盐
+triphosphate,n. [化]三磷酸盐
 triple,"n. 三倍数, 三个一组
 a. 三倍的
 vt. 使增至三倍
@@ -14696,7 +15572,8 @@ vi. 相信, 信赖, 依靠
 trypanosome,"n. 锥体虫
 [医] 锥虫"
 trypanosomiasis,n. [医]锥虫病
-trypsin,n. 【生物化学】胰蛋白酶
+trypsin,"n. 胰蛋白酶
+[化] 胰蛋白酶"
 trypsinogen,n. [生化]胰蛋白酶原
 tryptic,[生化]胰蛋白酶的
 tryptophan,"n. 色氨酸
@@ -14726,18 +15603,19 @@ turbid,"a. 浑浊的, 污浊的, 混乱的, 雾重的
 [医] 混浊的"
 turbidity,"n. 浑浊, 混乱
 [化] 浊度"
-turnover,"na. ￡ 500 a week 每星期卖得五百镑
-[网络] 移交；翻转；翻过来"
+turnover,"打翻, 营业额达到, 周转, 移交给, 翻阅, 反复考虑, 翻身
+[法] 移交, 交付, 让渡"
 tutor,"n. 家庭教师, 导师, 助教, 监护人
 vt. 当...的教师, 教, 指导, 约束, 克制
 vi. 当家庭教师, 受家庭教师的指导"
 Tween,prep. [诗歌用语] = between [亦作 tweeny]
-twin,"n. 双胞胎中一人, 一对非常相像的人(或物)中的一个
-a. 双胞胎的, 成对的, 孪生的
-vi. 生双胞胎, 成对
-vt. 怀(双胞胎), 使成对"
-twirl,"vt. (使)快速转动, 捻弄
-n. 转动, 万能钥匙, 旋转的东西"
+twin,"adj. 孪生之一的；双胞胎之一的；成对的；成双的
+v. 使结成姊妹城市；使结成友好地区；使（两人或两事物）紧密结合；使耦合
+n. 孪生儿之一；双胞胎之一；一对相像的事物之一
+[网络] 孪生的；双人房；双晶"
+twirl,"v. 转动；使轻快地转动；使旋转；（用手指）缠绕
+n. （人）旋转一周
+[网络] 旋转扭曲；涡形旋转；漩涡"
 twist,"n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法
 vt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转
 vi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形"
@@ -14779,18 +15657,22 @@ ultimate,"n. 终极, 根本, 顶点, 基本原则
 a. 终极的, 根本的, 极限的, 最远的, 最后的, 最大的"
 ultimately,"adv. 最后, 最终
 [法] 最后, 终究, 总之"
-ultracentrifugation, 超速离心分离
+ultracentrifugation,[化] 超速离心
 ultrafast,"adj. 超速的
 [网络] 超快速；超高速；超快恢复二极管"
-ultrafiltration, [体]超滤过
+ultrafiltration,"un. 超滤
+[网络] 超过滤法；超滤分离类；超离心过滤"
 ultralente,[网络] 长效型；长效胰岛素；特慢胰岛素锌
-ultramicroscope, [医]超（度）显微镜
+ultramicroscope,"n. 超显微镜
+[化] 超显微镜"
 ultrasonic,"adj. [声] 超声的；超音速的
 n. 超声波"
-ultrasonography,超声波检查法
-ultrasound,超声(波)
-ultrathin, 超薄型
-ultraviolet,adj. 紫外线的
+ultrasonography,n. 超声波检查法
+ultrasound,"n. 超声
+[计] 超声"
+ultrathin,"a. 超薄的,极细的"
+ultraviolet,"n. 紫外线
+[网络] 紫外线的；紫外灯光源；紫外光"
 ultravist,优维显
 umbilical,"a. 脐带的, 脐的, 近脐的, 关系密切的
 [医] 脐的"
@@ -14802,7 +15684,8 @@ umbra,"n. 阴影, 本影, 暗影
 unacceptable,"a. 无法接受的, 不受欢迎的
 [法] 不能接受的, 不受欢迎的, 难以承认的"
 unaided,"a. 无助的, 未受协助的"
-unambiguous,adj. 不含糊的；清楚的；明白的
+unambiguous,"a. 不含糊的, 明确的
+[法] 清晰的, 明白的, 不模糊的"
 unanimous,"a. 意见一致的, 无异议的"
 unavoidably,adv. 不可避免地
 unaware,"a. 未认识到的, 不知道的
@@ -14822,24 +15705,29 @@ adv. 不平常地"
 uncomplicated,a. 简单的；不复杂的
 unconscious,"a. 未意识到的, 无意识的, 无知觉的
 [医] 人事不省的, 神志丧失的; 无意识的"
-unconsciousness,无意识
-uncontrolled,adj. 不受控制的
+unconsciousness,"n. 无意识, 意识不清, 人事不省
+[医] 人事不省, 神志丧失; 无意识"
+uncontrolled,"a. 不受抑制的, 不受控制的, 自由的"
 uncoordinate,无
 uncorrected,"a. 未改正的, 未修正的, 未加管教的, 未调整的
 [计] 漏校的"
 undeniable,a. 不可否认的
-underdeveloped,"[法] 未充分发展的, 落后的"
-underestimate,"vt. 低估；看轻
-n. 低估"
+underdeveloped,"a. 开发不充分的, 不发达的, 发育不全的"
+underestimate,"n. 低估
+vt. 低估, 看轻"
 undergo,"vt. 遭受, 经历, 忍受
 [法] 经受, 经历, 忍受"
-underground, 地下
+underground,"adv. 在地下；秘密地
+adj. 地下的；秘密的；先锋派的
+n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体"
 underlying,"adj. 潜在的；根本的；在下面的；优先的
 v. 放在…的下面；为…的基础；优先于（underlie的ing形式）"
-undermine,"vt. 破坏, 渐渐破坏；挖掘地基"
+undermine,"vt. 在...下面挖, 渐渐破坏, 暗地里破坏
+[法] 暗中破坏, 以阴谋中伤伤害"
 underneath,"adv. 在下面
 prep. 在...的下面"
-underproduction, 生产不足
+underproduction,"n. 生产不足, 生产供不应求
+[化] 产量不足"
 undertake,"vt. 试图, 从事, 保证, 承担, 同意, 接受
 [化] 承包; 承担"
 undesirable,"a. 不受欢迎的, 不合乎社会道德标准的
@@ -14857,9 +15745,11 @@ unequivocal,"a. 不含糊的, 不模棱两可的, 明确的
 unequivocally,"adv. 只有一种含意地, 清楚明白地"
 unevenly,adv. 不平坦地；不均衡地；不平行地
 uneventful,"a. 太平无事的, 平静无事的"
-unexpected,[网络] 预期的花费
+unexpected,"a. 料想不到的, 突然的, 意外的
+[法] 不能预料的, 意外的"
 unexpectedly,"adv. 想不到的, 突然的, 意外的, 出乎意料的"
-unfavorable,adj. 不宜的；令人不快的；不顺利的
+unfavorable,"a. 不宜的, 不顺利的, 反对的
+[法] 不利的, 有害的, 不吉祥的"
 unfortunately,"adv. 恐怕, 不幸的是"
 unhealthy,a. 不健康的
 unicellular,"a. 单细胞的
@@ -14890,8 +15780,8 @@ unprecedented,"a. 空前的
 [经] 空前的, 无前例的"
 unproductive,"a. 不生产的, 无出产的, 不毛的
 [经] 非生意性的, 浪费的"
-unprotected,"adj. 无保护的；未设防的；不受关税保护的
-v. 无保护（unprotect的过去分词）"
+unprotected,"a. 没有防卫的, 无掩护的, 未设防的, 没有保护人的, 不受关税保护的
+[计] 无保护的, 非保护的"
 unrelated,[法] 无关的
 unremarkable,"a. 不显著的, 平凡的, 不值得注意的"
 unremitting,"a. 不懈的, 不断的, 坚忍的, 持续的
@@ -14912,21 +15802,29 @@ unwind,"vt. 展开
 [化] 拆卷; 开卷"
 update,"vt. 更新；校正, 修正；使现代化
 n. 更新；现代化"
-upgrade,"上坡,往上走"
+upgrade,"n. 上坡, 升级, 上升
+adv. 往上
+vt. 使升级, 提升, 改良品种
+vi. 升级
+[计] 升级"
 uppsala,乌普萨拉[瑞典东南部城市]
-upregulation,增量调节
+upregulation,[网络] 会造成这些基因的上调；会出现表达的上调；正调控
 upright,"a. 正直的, 诚实的, 公正的, 垂直的, 竖式的
 [化] 立杆"
-upset,上端局设备
-uptake,升道
-up-to-date,"最近的, 最新的
-[经] 直到最近的, 现代的"
+upset,"a. 弄翻的, 混乱的, 心烦的
+vt. 弄翻, 颠覆, 推翻, 打乱, 使不适, 使心烦
+vi. 翻倒"
+uptake,"n. 举起, 拿起, 理解, 上风井, 摄入, 吸收
+[化] 摄取"
+up-to-date,"a. 直到现在的, 最近的, 现代化的
+[化] 最新的"
 upward,"a. 向上的
 adv. 以上"
 uragogue,利尿剂
 urban,"a. 都市的, 住在都市的, 习惯于都市的
 [法] 城市的, 都市的, 市区的"
-urea,脲
+urea,"n. 尿素
+[化] 脲; 尿素"
 uremia,"n. 尿毒症
 [医] 尿毒症"
 uremic,"a. 尿毒症的
@@ -14936,7 +15834,7 @@ ureter,"n. 输尿管
 [医] 输尿管"
 ureteroneocystostomy,[医] 输尿管膀胱吻合术
 urethra,"n. 尿道
-[医] 尿道"
+[网络] 尿液之尿道；膀胱；尿道口"
 urethral,"a. 尿道的
 [医] 尿道的"
 urethritis,"n. 尿道炎
@@ -14945,8 +15843,7 @@ urgency,"n. 紧急, 催促
 [法] 紧急, 迫切, 紧急之事"
 urgent,"a. 紧急的, 急迫的, 催逼的
 [经] 紧急的, 急迫的"
-uric,"a. 尿的, 取自尿中的
-[医] 尿的"
+uric,comb.form [用于元音字母前] = urico-
 uricosuria,[医] 尿酸尿
 uricosuric,a. [医]促尿酸尿的
 urinalysis,"n. 尿分析, 验尿
@@ -14959,7 +15856,8 @@ urination,"n. 撒尿
 [医] 排尿"
 urine,"n. 小便, 尿
 [医] 尿"
-urogenital,adj. [解剖] 泌尿生殖器的
+urogenital,"a. 泌尿生殖器的
+[医] 泌尿生殖的"
 urografin,泛影葡胺;二乙酰氨基三碘苯甲酸甲基葡胺
 urography,n. [医]尿路造影术
 urokinase,n. [生化]尿激酶
@@ -15072,7 +15970,8 @@ variety,"n. 多样, 种类, 变种, 杂耍
 [化] 变种"
 various,"a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的
 [法] 不同的, 种种的, 各式各样的"
-varix,n. 静脉曲张；螺层
+varix,"n. 静脉曲张
+[医] 血管曲张(尤指静脉曲张); 髻冠(螺的形态学名称)"
 vary,"vt. 改变, 使多样化
 vi. 变化, 有不同, 违反"
 vascular,"a. 血管的, 维管的
@@ -15091,7 +15990,8 @@ vaseline,"n. 凡士林
 vasoactive,"a. 血管作用的, 作用于血管的
 [医] 血管作用的, 作用于血管"
 vasoconstricting,a. [生理]血管收缩的
-vasoconstriction,n. [生理] 血管收缩
+vasoconstriction,"n. 血管缩小
+[医] 血管收缩"
 vasoconstrictor,"a. 血管收缩的
 n. 血管收缩神经"
 vasodilation,[医] 血管舒张
@@ -15100,7 +16000,8 @@ n. 血管扩张神经"
 vasodilatory,adj. 血管舒张的
 vasoligation,"n. 输精管结扎术
 [医] 输精管结扎术"
-vasomotor,adj. [生理] 血管舒缩的；影响血管舒缩的
+vasomotor,"a. 血管舒缩的, 影响血管舒缩的
+[医] 血管舒缩的; 血管舒缩药"
 vasopressin,"n. 后叶加压素, 加压素
 [医] 后叶加压素"
 vasopressor,a. 血管加压的
@@ -15215,14 +16116,14 @@ vicious,"a. 邪恶的, 堕落的, 品性不端的, 恶毒的, 恶性的, 有错�
 victim,"n. 受害人, 牺牲者, 牺牲品
 [法] 受害人, 被害人, 遭难者"
 videolaseroscopy,激光影像镜检查
-videotape,"[计] 录象磁带
-[化] 录像磁带"
+videotape,"n. 录相磁带
+vt. 把电视节目录在录像磁带上"
 view,"n. 视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象
 vt. 看, 考虑, 视察, 查看, 估量
 [计] 视图"
-viewpoint,[计] 观察点
+viewpoint,"观点；视点, 观察点"
 vigorous,"a. 精力充沛的, 元气旺盛的, 茁壮的, 有力的"
-vigour,活力
+vigour,"n. 精力, 活力, 力量, 效力, 气势"
 villous,[医] 绒毛状的
 villus,"n. 绒毛, 长柔毛
 [医] 绒毛"
@@ -15237,8 +16138,8 @@ vipoma,n. [医]VIP肿瘤(一种分泌肠血管活性肽的肿瘤)
 viral,"a. 病毒的, 病毒引起的
 [医] 病毒的"
 viremia,n. <美> = viraemia
-virgin,"n. 处女
-a. 处女的, 贞洁的, 纯洁的, 初始的, 纯的"
+virgin,"adj. 处女的；纯洁的；未经利用的，处于原始状态的
+n. 处女"
 virilescence,n. (女性的)男性化
 virilism,"n. 男性化
 [医] 男性化(指女子)"
@@ -15263,7 +16164,8 @@ visceral,"a. 内脏的
 [医] 内脏的"
 viscid,"a. 粘的, 胶粘的, 粘质的
 [医] 粘的"
-viscoelasticity,黏弹性
+viscoelasticity,"n. 粘弹性
+[化] 粘弹性"
 viscosity,"n. 粘稠, 粘性
 [化] 内摩擦; 粘度"
 viscous,"a. 粘的, 粘性的
@@ -15291,7 +16193,8 @@ vitreous,"a. 玻璃的, 玻璃似的, 玻璃体的
 [医] 玻璃体, 玻璃状的, 透明的"
 vitrification,"n. 玻璃化, 玻璃化物
 [化] 玻璃固化"
-vitro,n. 在试管内
+vitro,"n. 体外；试管内
+[网络] 在体外试管实验；玻璃；体外研究"
 vitronectin,[网络] 玻连蛋白；玻璃粘连蛋白；玻璃体结合蛋白
 vivo,adv. 活泼地；生动地（等于vivace）
 vocal,"a. 嗓音的, 声音的, 有声的, 歌唱的
@@ -15320,8 +16223,8 @@ voxel,"体元,体素"
 vulgaris,"[医] 寻常的, 普通的"
 vulnerable,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的
 [医] 易损的"
-vulnerability,"n. 易受伤, 易受责难, 易受伤部位
-[医] 易损性"
+vulnerability,"n. 脆弱性；弱点；易伤性；可捕性
+[网络] 漏洞；易损性；脆弱度"
 vulva,"n. 外阴, 阴户
 [医] 外阴, 女阴"
 vulvar," [医]女阴的, 外阴的"
@@ -15332,7 +16235,8 @@ vulvovaginal, [医]外阴阴道的
 wakefulness,"[医] 不眠症, 失眠"
 walking,"adj. 步行的；能走的；步行者用的；徒步旅行者用的；徒步的，徒步旅行的
 n. 步行，走路；步态；步伐；(道路等)易于步行；(步行的)路面状况"
-ward, 向…的
+ward,"n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌
+vt. 使入病房, 守护, 保卫"
 warn,"vt. 警告, 提醒, 通知
 vi. 发出警告"
 warning,"n. 警告, 预告, 预兆, 通知
@@ -15341,8 +16245,7 @@ warrant,"n. 授权, 正当理由, 根据, 证明, 批准, 凭证, 令状, 委任
 vt. 授权给, 保证, 担保, 批准, 使有正当理由"
 wart,"n. 疣, 瘤
 [医] 疣, 肉赘"
-washout,"v. 洗掉
-[网络] 洗出；冲洗；淘汰"
+washout,"n. 冲刷, 冲蚀, 冲蚀的地区, 失败者"
 waste,"n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物
 a. 废弃的, 荒芜的, 多余的
 vt. 浪费, 消耗, 使荒芜
@@ -15353,37 +16256,43 @@ wastewater,"[化] 废水
 [医] 废水"
 wasting,"a. 造成浪费的, 消耗性的
 [医] 消瘦, 消耗"
-water,[网络] 水
-water-borne, 水上
-water-soluble,[化] 水溶的; 水溶性的
+water,"n. 水, 雨水, 海水, 水位, 水面, 流水
+vt. 给...浇水, 供以水, 注入水, 使湿
+vi. 流泪, 流口水, 加水
+a. 水的, 水上的, 水生的, 含水的"
+water-borne,"a. 浮起的, 水传播的, 水运的"
+water-soluble,"adj. 【化】水溶性的
+[网络] 可溶於水的"
 wavelet,"n. 小浪, 微波
 [化] 子波"
-weakness,n. 弱点；软弱；嗜好
+weakness,"n. 虚弱, 薄弱, 弱点
+[经] 欲振乏力"
 wean,"vt. 使断奶, 使丢弃, 使断念
 n. 小儿"
 weary,"a. 疲倦的, 萎靡的, 厌倦的, 厌烦的
 vt. 使疲倦, 使厌烦
 vi. 疲乏, 生厌, 不耐烦"
-web server,"WEB服务器,(环球信息网内的服务器)"
+web server,"n. Web服务器
+[网络] 万维网服务器；网页服务器；网络服务器"
 weigh,"vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚
 vi. 称分量, 有意义, 重压, 起锚
 n. 过秤, 称分量"
 weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
 vt. 加重量于, 压迫, 使加权, 称重量
 [计] 粗细"
-well-being,n. 健康; 幸福; 保持良好状态
-well-known, 众所周知的; 出名的
+well-being,"n. 健康, 幸福, 福利, 舒适, 安宁"
+well-known,"a. 众所周知的, 有名的"
 wheal,"n. 鞭痕, 小脓疱, 风疹块
 [医] 风团, 风块"
-wheelchair,n. 轮椅
+wheelchair,"[医] 轮椅, 椅车"
 wheeze,"vi. 喘气
 vt. 喘息着说
 n. 喘气声, 喘息"
 whey,"n. 乳清
 [化] 乳清"
-whipworm,鞭虫
-WHO,[医] 世界卫生组织
-wholesome,"合乎卫生的,有益健康的"
+whipworm,n. [动](尤指寄生在人体肠内的)鞭虫
+WHO,[网络] 世界卫生组织；世界卫生保健组织；世界健康组织
+wholesome,"a. 有益健康的, 合乎卫生的, 健全的, 有益的, 有生气的, 审慎的"
 whooping-cough,"百日咳
 [医] 百日咳"
 widespread,"adj. 广布的；蔓延的；普遍的
@@ -15397,23 +16306,26 @@ wilfordine,雷公藤碱
 wind,"n. 风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲
 vt. 使通风, 嗅出, 使喘气, 吹号角, 上发条, 缠绕, 包, 绞起, 吊起, 使弯曲, 使迂回
 vi. 嗅出猎物, 吹响号角, 卷曲, 蜿蜒, 迂回, 缠绕"
-windpipe,"风管,送风管"
+windpipe,"n. 气管
+[医] 气管"
 wire,"n. 电线, 电报, 电信, 铁丝网, 金属丝
 vt. 用金属丝捆扎, 拍电报
 vi. 打电报"
-withdraw,"vt. 撤退；收回；撤消；拉开
-vi. 撤退；离开"
-withdrawal,回，收回；排除，抽除[空气]，[气流]分离；提出(控制棒)
+withdraw,"vt. 撤回, 取回, 撤消, 使撤退, 拉开, 移开
+vi. 撤退, 离开"
+withdrawal,"n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程
+[医] 戒除, 脱瘾"
 withhold,"vt. 使停止, 扣留, 保留, 拒给
 vi. 克制, 忍住"
 withstand,"vt. 抵住, 顶住, 经得起"
 witness,"n. 证人, 目击者, 证据, 证词
 vt. 目击, 作证, 证明, 表明
 vi. 作证人, 作为证据"
-wolfberry,n. （美）西方雪果
+wolfberry,n. [植]薄叶西方雪果
 womb,"n. 子宫, 发源地
 [医] 子宫"
-workstation,[计] 工作站
+workstation,"n. 工作站
+[计] 工作站"
 work-up,"na. 刺激；煽动；刻苦完成；展开(故事的情节)
 [网络] 激发；激起；逐步引起"
 World Health Organization,"(联合国)世界卫生组织
@@ -15424,8 +16336,9 @@ vt. 使蠕行, 慢慢地走, 除虫
 [计] 蠕虫病毒"
 wormwood,"n. 苦艾, 苦恼
 [医] 苦艾"
-wornout, 磨穿; 疲乏
-worsen,[网络] 恶化
+wornout,"a. 磨破的, 磨损的, 穿旧的, 疲惫不堪的"
+worsen,"vt. 使更坏, 使恶化
+vi. 变得更坏, 恶化"
 worthwhile,"na. 有…的价值；有利益的
 [网络] 值得；值得的；值得去做"
 wrinkle,"n. 皱纹, 妙计, 方法, 技巧
@@ -15435,7 +16348,8 @@ wrist,"n. 手腕, 腕关节
 [医] 腕"
 wrong,"a. 错误的, 不正当的, 失常的
 adv. 错误地"
-xanthine,[生化] 花黄素
+xanthine,"n. 黄质, 黄嘌呤
+[化] 黄嘌呤"
 xanthoastrocytoma,[网络] 多形性黄色星形细胞瘤
 xanthogranuloma,[医] 黄肉芽肿
 xanthogranulomatous,[网络] 黄色肉芽肿性
@@ -15451,7 +16365,8 @@ xeroderma,"n. 干皮病, 皮肤干燥病
 [医] 干皮病, 皮肤干燥病"
 xerography,"n. 静电复印术
 [计] 静电复印术; 干印法"
-xerosis,干燥
+xerosis,"n. 干燥病
+[医] 干燥[病]"
 xerostomia,n. [医] 口腔干燥
 xiphisternum,n. [解][动]剑胸骨
 xiphoid,"n. 剑突
@@ -15493,7 +16408,8 @@ vt. 使摄象机移动
 [计] 缩放"
 zoster,"n. 带状疱疹, 带
 [医] 带状疱疹"
-zwitterion,"[医] 两性离子, 兼性离子"
+zwitterion,"n. 两性离子
+[化] 两性离子"
 zygoma,"n. 颊骨, 颧骨, 颞骨突起
 [医] 颧骨; 颧弓"
 zygote,"n. 合子, 受精卵

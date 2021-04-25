@@ -13,9 +13,9 @@ vi. 接界, 近似
 countless,"a. 数不尽的, 无数的"
 freezing,"a. 冰冻的, 冷冻用的, 严寒的
 [化] 冻结; 冻结作用; 凝固; 凝固作用"
-recreation,"n. 再创造；重新创造；再创造的事物
-[网络] 二度创造"
-cross-country,越野赛，横越全国的
+recreation,"n. 娱乐, 消遣, 休息, 再创造
+[医] 娱乐, 休养"
+cross-country,"a. 越野的, 横越全国的"
 photographer,"n. 摄影师, 摄影者"
 hunter,"n. 猎人, 猎犬, 追求者"
 rank,"n. 等级, 排, 横列, 队伍, 阶级
@@ -24,7 +24,7 @@ vt. 排列, 归类于, 把...分等
 vi. 列为, 列队
 n. 秩
 [计] 秩"
-multicultural,adj. 多元文化的
+multicultural,a. 融合或具有多种文化的；多种文化的
 Portugal,n. 葡萄牙
 Lebanon,n. 黎巴嫩
 historic,"a. 历史上著名的, 有历史性的"
@@ -37,8 +37,8 @@ n. 动力, 动态
 [计] 动态的"
 cuisine,"n. 烹调风格, 烹调法, 烹饪, 厨房"
 mall,n. 林荫路
-waterfall,瀑布
-semicircle, 半圆
+waterfall,n. 瀑布
+semicircle,[计] 半圆
 sheet,"n. 薄片，纸张；薄板；床单
 vt. 覆盖；盖上被单；使成大片
 vi. 成片流动；大片落下
@@ -63,11 +63,12 @@ a. 口头的, 口述的, 口部的"
 merry,"a. 快乐的, 愉快的, 嬉戏作乐的"
 occasion,"n. 场合, 时机, 机会, 诱因, 理由
 vt. 惹起, 引起"
-teamwork,"[经] 协力, 配合"
+teamwork,"un. 合作；协作；集体工作；协力
+[网络] 团队合作；团队精神；团体合作"
 empire,"n. 帝国, 帝权"
 seaside,"n. 海边；海滨
 adj. 海边的；海滨的"
-sidewalk,人行道
+sidewalk,un. 人行道
 jungle,"n. 丛林, 杂乱的一堆, 弱肉强食的地方"
 immigration,"n. 移民, 移居
 [医] 移民"
@@ -79,7 +80,7 @@ n. 绝对事物"
 compulsory,"a. 被强制的, 强迫的, 义务的
 [经] 强迫的, 强制的"
 canteen,"n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部"
-pub,"n. 酒馆, 客栈"
+pub,abbr. public；publican；publication
 pint,"n. 品脱(干量或液量的单位)
 [医] 量磅, 品脱"
 grill,"n. 烤架, 铁格子, 烤肉
@@ -100,7 +101,7 @@ equip,"vt. 装备, 配备
 dusk,"n. 薄暮, 傍晚, 黄昏
 a. 微暗的
 v. (使)微暗"
-after-school,放学后
+after-school,"a. 课外的,供课外活动用的"
 thrill,"n. 震颤, 激动, 刺激性, 一阵激动
 vi. 震颤, 颤抖, 激动
 vt. 使激动, 使颤动"
@@ -113,7 +114,8 @@ considering,"prep. 鉴于…，考虑到；就…而论
 adv. [口语]细细想来，通盘考虑起来；总而言之
 conj. 考虑到，鉴于；就…而言"
 Colosseum,"n. 罗马圆形大剧场(建于公元80年,耗时5年,至今大部分尚存)"
-classical,"古典的,标准的,典型的"
+classical,"a. 古典的, 正统派的, 经典的
+[医] 古典的; 标准的, 典型的"
 Angkor Wat,"n. 【旅】吴哥窟
 [网络] 小吴哥；吴哥寺；小吴哥城"
 Cambodia,n. 柬埔寨
@@ -134,11 +136,13 @@ goddess,"n. 女神, 美女, 受崇拜的女性"
 marble,"n. 大理石, 石弹, 雕刻品
 a. 大理石的, 冷酷无情的, 有大理石花纹的"
 partly,"adv. 部分地, 在一定程度上"
-Turk,"n. 土耳其人, 土耳其马"
+Turk,abbr. Turkey；[亦作 Turk] Turkish
 warehouse,"n. 仓库；货栈；大商店
 vt. 储入仓库；以他人名义购进（股票）"
-gunpowder,火药
-theft,n. 盗窃；偷；赃物
+gunpowder,"n. 火药
+[化] 有烟火药; 火药"
+theft,"n. 盗窃, 失窃, 盗窃罪, 赃物
+[法] 盗窃行为, 偷窃, 失窃"
 friction,"n. 摩擦, 摩擦治疗, 不和
 [医] 摩擦"
 autonomous,"a. 自治的
@@ -166,7 +170,8 @@ fortnight,n. 两星期
 sunburnt,[网络] 太阳晒伤；晒伤的；太阳晒焦
 inspiration,"n. 灵感, 鼓舞人心的人或物, 妙计, 吸气
 [医] 吸[气]"
-divorce,[网络] 离婚
+divorce,"n. 离婚
+vt. 与...离婚"
 Catholic,"n. 天主教徒
 a. 天主教的, 普遍的, 广泛的, 宽宏大量的"
 affair,"n. 事件, 事务, 恋爱事件"
@@ -179,7 +184,7 @@ imperial,"a. 帝王的, 宗主国的, 至尊的, 壮丽的
 n. 特等品"
 pyramid,"n. 角锥, 金字塔
 v. (使)成金字塔状, (使)渐增, (使)上涨"
-Egypt,n. 埃及
+Egypt,abbr. Egyptian
 royal,"n. 王室, 皇族
 a. 王室的, 皇家的, 盛大的, 庄严的"
 pine,"n. 松树, 松木
@@ -205,7 +210,8 @@ register,"n. 寄存器, 记录, 登记簿, 注册
 vt. 记录, 注册, 提示, 表达, 把...挂号
 vi. 登记, 注册, 挂号
 [计] 寄存器"
-assistance,n. 援助，帮助；辅助设备
+assistance,"n. 协助, 援助
+[经] 援助, 帮助"
 fragile,"a. 易碎的, 脆的
 [医] 脆弱的, 脆的"
 steward,"n. 管理人, 招待员, 管家, 乘务员
@@ -246,17 +252,20 @@ settler,"n. 移民者, 解决者, 结算员
 [化] 沉淀池; 沉降器; 澄清槽"
 colony,"n. 殖民地, 移民队
 [医] 菌(集)落, 菌丛; 移民区"
-rate,"n. 比率, 率, 速度, 价格, 费用, 等级
-vt. 估价, 认为, 鉴定等级, 责骂
-vi. 被评价, 责骂"
+rate,"n. 比率，率；速度；价格；等级
+vt. 认为；估价；责骂
+vi. 责骂；被评价
+n. (Rate)人名；(法、塞)拉特"
 object,"n. 物体, 目标, 目的, 对象, 宾语, 客体
 vi. 反对, 抱反感
 vt. 提出...来反对
 [计] 对象"
-compromise,"n. 妥协, 折中, 折中方案, 和解
-vi. 妥协处理
-vt. 危害"
-station,[网络] 操作站
+compromise,"n. 妥协；和解；折中；互让
+v. 让步；违背（原则）；达不到（标准）
+[网络] 都做点妥协"
+station,"n. 车站, 站, 局, 驻地, 位置, 身分, 地位
+vt. 安置, 配置, 驻扎
+[计] 站"
 separation,"n. 分离, 分居, 缺口, 退职
 [化] 分离"
 submit,"vt. 使服从, 使受到, 委托, 提交, 认为
@@ -277,11 +286,10 @@ purity,"n. 纯净, 纯正, 纯粹
 [化] 纯度"
 similarity,"n. 类似, 类似处
 [法] 类似, 相似, 类似事例"
-region,"n. 区域, 地带, 地区, 领域, 范围, 区
-[计] 区, 区域"
-Scot,"n. 摊派的款项, 税赋
-[化] 涂载体空心柱"
-outspoken,[网络] 直言的
+region,"n. 区域；行政区；（一国除首都以外的）全部地区
+[网络] 面域；磁各向异性效应"
+Scot,abbr. Scotch；Scotland；Scottish
+outspoken,"a. 直言无讳的, 坦率的, 坦白无隐的"
 get one's way,"[法] 为所欲为, 遂心所欲"
 Irish,"n. 爱尔兰人, 爱尔兰语
 a. 爱尔兰的"
@@ -299,11 +307,17 @@ seedless,a. 无核的
 observer,"n. 观察者, 遵守者, 观察员
 [法] 观察者, 观察员, 监场员"
 disappointing,"a. 使失望的, 期待落空的, 令人沮丧的"
-bound,comb. 因某种情况而受阻的；开往…的，往…去的
+bound,"n. 跃, 回跳, 范围, 边界
+a. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的
+vi. 跳跃, 弹起
+vt. 使跳, 限制, 形成...的疆界
+bind过去式和过去分词
+[计] 装订的"
 dishonest,"a. 不诚实的
 [法] 不忠实的, 不诚实的, 欺诈的"
 ambitious,"a. 有野心的, 抱负不凡的, 雄心勃勃的"
-trustworthy,[科技] 可信的
+trustworthy,"a. 可信赖的
+[法] 可信任的, 可靠的, 可信赖的"
 dimension,"n. 尺寸, 次元, 面积, 维数
 vt. 标出尺寸"
 identification,"n. 识别, 身份证明, 认同
@@ -355,28 +369,32 @@ a. 佛教的"
 mosque,n. 清真寺
 Taoism,n. 道教
 biblical,a. 圣经的
-straightforward, 一直；直白
+straightforward,"a. 笔直的, 率直的, 明确的, 简单的, 直接的"
 Bible,n. 圣经
 Hebrew,"n. 希伯来人, 希伯来语, 犹太人
 a. 希伯来人的, 希伯来语的"
 vague,"a. 含糊的, 不清楚的, 茫然的"
-by and by,不久以后
-underline, 腹线
+by and by,"n. 未来, 将来"
+underline,"vt. 在...下面划线, 作...的衬里, 强调
+n. 下划线, 图下说明文字
+[计] 加下划线; 下划线"
 bare,"a. 赤裸的, 缺少的, 无遮蔽的, 坦率的
 vt. 使赤裸, 露出"
 strike,"n. 罢工, 打击, 殴打
 vt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见
 vi. 打, 打击, 抓, 罢工, 搏动, 触礁, 敲, 响, 穿透, 打动"
-handwriting,[计] 手写体
+handwriting,"[法] 笔迹, 手写物, 手稿"
 wine,"n. 葡萄酒, 果酒, 暗红色
 v. (请)喝酒"
-fat,"n. 脂肪, 脂油, 肥肉
-a. 肥的, 胖的, 油腻的
-n. 文件分配表
-[计] 文件分配表"
+fat,"adj. 肥的，胖的；油腻的；丰满的
+n. 脂肪，肥肉
+vt. 养肥；在…中加入脂肪
+vi. 长肥
+n. (Fat)人名；(法、西、塞)法特；(东南亚国家华语)发"
 calf,"n. 小牛, 小牛皮, 腓肠
 [医] 腓肠"
-penny, 表示值...便士
+penny,"n. 分；便士（英国的小硬币和货币单位，1 英镑为 100 便士）
+[网络] 佩妮；省下一便士；潘妮"
 hire oneself out,[网络] 租出去；为某人工作；受雇
 agricultural,"a. 农业的
 [法] 农业的, 耕作的"
@@ -387,7 +405,10 @@ vt. 播种, 散布, 使密布
 vi. 播种"
 ripen,"vt. 使成熟
 vi. 成熟"
-thorough,"a. 十分的, 彻底的"
+thorough,"adj. 彻底的；完全的；深入的；细致的
+n. 【英史】(如英王查理一世实行的)专横政策
+prep. 〈古〉同“through”
+[网络] 详尽的；周全；周密"
 delicate,"a. 细致优雅的, 微妙的, 美味的
 [医] 柔弱的"
 catch on,"变得流行, 理解, 明白"
@@ -406,9 +427,9 @@ frequently,"adv. 频繁, 经常地"
 shorten,"vt. 弄短, 缩短, 减少
 vi. 缩小, 变短"
 count on,"依靠, 指望"
-hay,"n. 干草
-vt. 制干草, 供给干草
-vi. 晒干草"
+hay,"n. 草料；少量的钱
+v. 割晒(干草)；给…喂干草；使成割制干草的草地；制成干草
+[网络] 海底捞月；亚洲"
 bishop,"n. 主教, (国际象棋中的)象, 热果子酒"
 Turkey,"n. 火鸡, 无用的家伙, 土耳其"
 saint,"n. 圣徒, 圣人
@@ -423,8 +444,8 @@ chimney,"n. 烟囱, 灯罩
 [电] 烟囱"
 stocking,"n. 长袜
 [医] 马足水肿; 长袜"
-fireplace,壁炉
-moustache,触须
+fireplace,n. 壁炉
+moustache,"n. 髭, 小胡子, 触须"
 stout,"a. 结实的；矮胖的；勇敢的；激烈的
 n. 矮胖子；烈性啤酒"
 belly,"n. 腹部, 食欲
@@ -436,7 +457,8 @@ woollen,"n. 毛织品
 a. 羊毛制的"
 belt,"n. 带子, 地带
 [医] 带, 腰带, 束带, 地带, 区"
-elf,[网络] 妖精；美国平价彩妆；彩妆大师
+elf,"n. 小精灵, 矮人, 淘气鬼
+[电] 超低频的简写"
 reindeer,n. 驯鹿
 deliver,"vt. 递送, 陈述, 释放, 发表, 引渡, 投递, 交付
 [经] 交运"
@@ -450,9 +472,10 @@ Afghanistan,n. 阿富汗
 monk,"n. 修道士, 僧侣, 和尚"
 reading,"n. 阅读, 知识, 读物
 a. 阅读的"
-image,"n. 图像；形象；影像；意象
-v. 反映；想像；象征；使…成像
-[网络] 图片；图象；映像"
+image,"n. 影像, 肖像, 想象, 图像, 形象, 翻版
+vt. 作...的像, 反映, 想象, 象征
+n. 图像
+[计] 图象"
 bureaucratic,"a. 官僚的
 [经] 机僚化的"
 ministry,"n. 部, 内阁, 服务
@@ -470,4 +493,4 @@ frog,"n. 青蛙
 croak,"n. 呱呱叫声, 哇哇声
 vi. 呱呱地叫, 发牢骚
 vt. 用嘶哑的声音说"
-prayer,[网络] 祷告者；祈祷的人；祈祷者
+prayer,"n. 祈祷, 恳求, 祷辞, 祈祷者"

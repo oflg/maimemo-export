@@ -1,4 +1,5 @@
-﻿well-dressed, 衣着入时的；穿着讲究的
+﻿well-dressed,"adj. 穿得好的
+[网络] 打扮得很漂亮"
 glance,"n. 一瞥, 闪光, 掠过, 辉矿类
 vi. 扫视, 闪光, 掠过, 提到, 略说
 vt. 扫视, 反射, 使掠过"
@@ -16,16 +17,22 @@ vi. 通讯"
 gesture,"n. 手势, 姿态
 vi. 作手势, 作姿态"
 expression,n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法
-appearance,n. 外貌，外观；出现，露面
+appearance,"n. 出现, 露面, 外观, 外表, 出版
+[计] 外观, 版面"
 impression,"n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果
 [医] 压迹, 印模, 印象, 影响"
 downwards,adv. 向下
-assistance,n. 援助，帮助；辅助设备
+assistance,"n. 协助, 援助
+[经] 援助, 帮助"
 without hesitation,"na. 毫不踌躇地
 [网络] 毫不犹豫；毫不犹豫地；立即"
-remark,[网络] 重新标记
+remark,"n. 评论, 注意
+vt. 评论, 注意
+vi. 评论, 谈论
+[计] 注释"
 remind,"vt. 提醒, 使想起"
-eye contact, 目光接触
+eye contact,"n. 眼神接触；目光交流
+[网络] 眼神交流；视觉接触；眼睛望向讲者"
 signal,"n. 信号, 暗号, 近因, 导火线
 vt. 向...作信号, 标志, 用信号通知
 vi. 发信号
@@ -33,23 +40,27 @@ a. 作为信号的, 显著的
 [计] 信号"
 hostility,"n. 敌意, 敌对, 反对"
 boredom,"n. 厌烦, 厌倦, 令人厌烦的事物"
-confusion,[网络] 劳务的出处混淆
+confusion,"n. 混乱, 混淆, 无秩序
+[计] 含混"
 maintain,"vt. 维持, 维修, 保持, 坚持, 供养, 主张
 [化] 维修"
 consider,"v. 考虑, 思考, 认为"
 lack of, 缺乏
-last,"a. 最后的, 末尾的, 最近的
-vi. 持续, 支持, 维持
-vt. 使维持, 够...用
-adv. 最后, 后来
-n. 最后, 末尾, 鞋楦头"
+last,"n. 末尾，最后；上个；鞋楦（做鞋的模型）
+adj. 最后的；最近的，最新的；仅剩的；最不可能…的
+vi. 持续；维持，够用；持久
+vt. 度过，拖过；使维持
+adv. 最后地；上次，最近；最后一点
+n. (Last)人名；(英、德、葡、罗、瑞典)拉斯特"
 avoid,"vt. 避免, 防止, 撤消
 [法] 避免, 回避, 躲开"
-respect,[网络] 尊重
+respect,"n. 尊敬, 尊重, 问候
+vt. 尊敬, 注意, 遵守"
 authority,"n. 权力, 当权者, 当局, 权威, 专家
 [经] 代理权, 授权, 权威"
 in authority,持有权力的地位
-concentration,n. 浓度；集中；浓缩；专心；集合
+concentration,"n. 集中, 专心
+[化] 浓度; 浓缩"
 subtle,"a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的
 [医] 锐敏的; 精细的"
 stare,"vi. 注视, 凝视, 瞪视, 显眼
@@ -69,7 +80,9 @@ a. 老练的, 内行的, 专门的
 curl,"n. 拳曲, 鬈发
 vt. 弄卷
 vi. 拳曲, 弯曲"
-angle,[网络] -角度
+angle,"n. 角, 角度, 角落
+vi. 钓鱼, 谋取, 博取, 斜向移动, 转变角度
+vt. 使转动角度, 在...钓鱼, 获取"
 balanced,"a. 公平的, 平衡的
 [计] 平衡的, 对称的, 均衡的"
 in addition,另外
@@ -82,27 +95,29 @@ conditioner,"n. 调节器, 土壤团粒结构促进剂
 normal,"n. 常态, 标准, 正常, 普通
 a. 正常的, 正规的, 标准的, 师范的, 正态的
 [计] 标准, 普通"
-apply,"vt. 涂, 应用
-vi. 申请, 适用"
+apply,"vt. 申请；涂，敷；应用
+vi. 申请；涂，敷；适用；请求"
 wet,"n. 湿气, 潮湿, 水分, 雨天
 a. 湿的, 潮的, 搞错的, 下雨的, 反对禁酒的
 vi. 变湿
 vt. 使...湿"
-squeeze,"n. 紧握, 挤, 榨, 榨取, 佣金
-vt. 紧握, 挤, 榨取
-vi. 压榨, 榨"
-squeeze out,"榨出, 挤出
-[计] 排出; 压出"
-comb,[网络] 梳子
+squeeze,"v. 挤压；挤出；捏；（使）挤入
+n. 挤压；塞；捏；榨出的液体
+[网络] 压榨；榨取；紧缩"
+squeeze out,"na. 榨取；排斥
+[网络] 排挤；挤出；同本义"
+comb,abbr. combination；combined；combining
 damage,"n. 损害, 伤害
 v. 损害"
 loosen,"vt. 放松, 松开, 解除
 vi. 变松, 松弛"
 dirt,"n. 污垢, 泥土
 [化] 污垢"
-hairdryer, 干发器
-overuse, 过度利用
-bald,[网络] 醛缩酶
+hairdryer,n. （吹干头发的）吹风机
+overuse,"vt. 使用过度
+n. 过度使用, 任意驱使"
+bald,"a. 秃头的, 光秃的, 单调的, 赤裸的
+vi. 变秃"
 ensure,"vt. 确定, 保证, 担保, 保护
 [经] 确保, 确定"
 pay attention to,注意
@@ -140,12 +155,15 @@ include,"vt. 包括, 把...算入, 包住
 [计] DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容"
 gallery,"n. 走廊, 最高楼座, 画廊, 收集, 图库
 [计] 图库"
-bronze ware,青铜器;铜器
+bronze ware,"n. 青铜器
+[网络] 青铜制品"
 sculpture,"n. 雕刻, 雕塑
 vt. 雕刻, 雕塑
 vi. 当雕刻师"
 calligraphy,"n. 笔迹, 书法"
-seal,[网络] 那太简单了
+seal,"n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志
+vt. 封闭, 盖印, 盖章
+vi. 猎海豹"
 historical,"a. 历史的, 史实的, 历史上的
 [法] 历史性的"
 civilization,"n. 文明, 教化
@@ -156,7 +174,10 @@ n. 加工成的食品, 禁猎地, 保护区, 防护物"
 admit,"vt. 承认, 接受, 允许进入, 容许
 vi. 开向, 容许, 承认"
 scenery,"n. 风景, 景色, 舞台布景"
-landscape,地景
+landscape,"n. 风景, 山水, 风景画
+vi. 从事景观美化
+vt. 美化...景观
+[计] 横向"
 attract,"vt. 吸引, 诱惑
 vi. 有吸引力"
 reflection,"n. 反映, 沉思, 映像, 想法, 责难
@@ -165,9 +186,9 @@ remains,"n. 剩余物, 废墟, 残余
 [法] 遗体, 尸体, 遗骸"
 abandon,"vt. 放弃, 抛弃, 遗弃, 使屈从, 沉溺, 放纵
 n. 放任, 无拘束, 狂热"
-access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
-vt. 访问, 存取, 接近, 使用
-[计] 访问, 存取"
+access,"v. 进入；〈正式〉到达；【IT】获得或储存(电脑文件)
+n. 通道；入口；机会；权力
+[网络] 访问权；连接开始；数据库之类的"
 stadium,"n. 露天大型运动场
 [医] 期, 病期"
 hold,"n. 把握, 把持力, 柄, 控制, 掌握, 监禁
@@ -180,7 +201,9 @@ ruin,"n. 毁灭, 推翻, 废墟
 vi. 毁灭, 衰败, 破坏, 破产, 堕落
 vt. 使毁灭, 毁坏, 使破产"
 fall into ruin,[网络] 破败不堪；崩塌；成为废墟
-stand,[网络] 热连轧机因受轧机
+stand,"n. 站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席
+vi. 站, 立, 坐落, 停滞, 位于, 坚持, 维持原状
+vt. 忍受, 使站立, 抵挡"
 overlook,"vt. 忽略；俯瞰；远眺；检查；高耸于…之上
 n. 忽视；眺望"
 tomb,"n. 坟墓, 死亡
@@ -191,9 +214,9 @@ vt. 怀疑；惊奇；对…感到惊讶
 adj. 奇妙的；非凡的
 n. (Wonder)人名；(英)旺德"
 studio,"n. 工作室, 画室, 演播室, 电影制片厂"
-film,"n. 软片, 薄膜, 胶卷, 电影
-vt. 覆以薄膜, 拍摄
-vi. 生薄膜, 拍电影"
+film,"n. 电影；薄膜；胶卷；轻烟
+vt. 在…上覆以薄膜；把…拍成电影
+vi. 摄制电影；生薄膜；变得朦胧"
 director,"n. 主任，主管；导演；人事助理
 n. (Director)人名；(英)迪雷克托"
 contestant,"n. 竞争者
@@ -207,7 +230,7 @@ vi. 昏倒, 变得微弱"
 gasp,"n. 喘气
 vi. 喘气, 喘息, 渴望
 vt. 气喘吁吁地说"
-cameraman,"摄影师,摄影记者"
+cameraman,"n. 照相师, 摄影师"
 seat,"n. 座, 座位, 位子, 席位, 所在地
 vt. 使坐下, 使就座, 为...设座于, 使就职
 vi. 安装在底座上"
@@ -230,7 +253,10 @@ ahead of,在…之前
 tense,"a. 紧张的, 拉紧的
 v. (使)紧张, (使)拉紧
 n. 时态"
-beat,"从事于,做"
+beat,"v. 打；超过；射；走出
+n. 跳动；节拍；抢先；悸动
+adj. 垮掉；完了；累极了；属于“垮掉的一代”的
+[网络] 打败；战胜；我已筋疲力尽"
 keep still,保持不动
 trend,"n. 趋势, 倾向, 走向
 vi. 倾向, 转向
@@ -248,15 +274,15 @@ arrange,"v. 安排, 排列, 达成协议
 [计] 重排"
 viewer,"n. 观察者, 看电视者, 视察员, 观察器
 [化] 指示器"
-digital,"a. 数字显示的, 数字的
-n. 数字仪表, 数字式电子表(或时钟)
-[计] 数字, 数字式"
-cigarette lighter, 打火机
-record,"vt. 记录，记载；标明；将...录音
-vi. 记录；录音
-n. 档案，履历；唱片；最高纪录
-adj. 创纪录的
-n. (Record)人名；(法)勒科尔；(英)雷科德"
+digital,"adj. 数字信息系统的；数码的；数字式的；数位的
+n. 数字电视
+[网络] 数字的；数字型定时器；数控车床"
+cigarette lighter,n. 香烟打火机
+record,"n. 记录, 履历, 档案, 审判记录, 最高纪录, 唱片
+vt. 记录, 记载, 标明, 将...录音
+vi. 记录, 录音, 可被录音
+a. 创纪录的
+[计] 录制, 记录"
 cassette,"n. 盒式磁带, 珠宝箱, 暗盒
 [计] 字盒"
 mixed grill,n. 烤杂排; 烤什锦
@@ -274,14 +300,16 @@ influence,"n. 影响力, 权力, 势力
 vt. 影响, 改变"
 astronaut,"n. 太空旅行者, 宇航员
 [法] 美国太空人"
-crowd,"n. 群众, 一伙人
-vt. 拥挤, 挤满, 挤进"
+crowd,"n. 人群；群众；观众；民众
+v. 挤；挤满；塞满；使…拥挤
+[网络] 大众；一群"
 tiny,"a. 很少的, 微小的"
 pepper,"n. 胡椒粉, 胡椒, 辣椒
 [化] 胡椒; 辣椒; 花椒"
 grow,"vt. 种植, 使长满
 vi. 生长, 变成, 发展"
-instead of,代替
+instead of,"na. 对某人很有用
+[网络] 代替；替代；而不是"
 cattle,"n. 牛, 家畜
 [法] 家畜"
 appetite,"n. 食欲, 欲望, 爱好
@@ -290,8 +318,8 @@ contain,"vt. 包含, 容纳, 控制
 vi. 自制"
 vitamin,"n. 维生素
 [化] 维生素"
-mineral,"n. 矿物, 无机物, 苏打水
-a. 矿物的, 似矿物的"
+mineral,"n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
+adj. 矿物的；矿质的"
 pesticide,"n. 杀虫剂
 [化] 农药"
 source,"n. 来源, 水源, 根源, 原始资料, 源
@@ -302,23 +330,25 @@ variety,"n. 多样, 种类, 变种, 杂耍
 [化] 变种"
 advise,"vt. 劝告, 给...出主意, 通知, 建议
 vi. 提意见, 商量"
-cheeseburger, 芝士汉堡
-milkshake,奶昔
+cheeseburger,n. 干酪汉堡包
+milkshake,n. 奶昔
 increase,"n. 增加, 增进, 利益
 vt. 增加, 加大
 vi. 增加, 繁殖"
-heart attack,心脏病发作
+heart attack,"n. 【医】心肌梗塞
+[网络] 心脏病发作"
 intelligent,"a. 聪明的, 智能的, 了解的"
 decide on,"决定,选定,确定…"
-tell ... from, 辨别
+tell ... from,"区别, 辨别"
 agriculture,"n. 农业
 [机] 农业, 农学"
 farming,"n. 农业, 耕作"
 farm,"n. 农场, 农田
 vt. 耕种
 vi. 种田"
-natural,"n. 白痴
-a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的"
+natural,"adj. 自然的；物质的；天生的；不做作的
+n. 自然的事情；白痴；本位音
+n. (Natural)人名；(西)纳图拉尔"
 zone,"n. 地带, 带, 地区
 vt. 环绕, 使分成地带
 vi. 分成区
@@ -350,13 +380,18 @@ benefit,"n. 利益
 vt. 有益于
 vi. 受益"
 used to,"过去经常(做)..., 过去有规律地发生"
-backward,[网络] 后向的；叶向呈后向弯曲
+backward,"adv. 向后地, 相反地
+a. 向后的, 相反的
+[计] 倒推"
 amazed,"a. 吃惊的, 惊奇的"
-high-tech,高技术
+high-tech,"n. 高技术
+adj. 高技术的
+[网络] 高科技；海茵德克；高技派"
 weight,"n. 重, 重量, 体重, 砝码, 重大, 影响, 力量
 vt. 加重量于, 压迫, 使加权, 称重量
 [计] 粗细"
-cancer,康斯河
+cancer,"n. 癌, 恶性肿瘤
+[医] 癌"
 account for,对…负有责任；对…做出解释；说明……的原因；导致；（比例）占
 moderation,"n. 缓和, 适度, 温和
 [化] 慢化"
@@ -364,7 +399,9 @@ in contrast to,"与...形成对照, 而..."
 soya,大豆，黄豆，酱油
 soy,"n. 酱油, 大豆
 [医] 大豆; 酱油"
-AE,abbr. 行政帐户（account executive）；航空工程（Aeronautical Engineer）
+AE,"adj. Scot
+n. 【摄】自动曝光
+[网络] 自动曝光(Auto Exposure)；声发射(acoustic emission)；客户主管(Account Executive)"
 in comparison, 相比之下
 experience,"n. 经历, 经验, 体验
 vt. 经历, 经验, 体验"

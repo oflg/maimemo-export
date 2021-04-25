@@ -1,5 +1,5 @@
-﻿mood,"n. 心情, 气氛, 生气, 基调
-[医] 心境"
+﻿mood,"n. 情绪；心情；气氛；氛围
+[网络] 语气；甲心情；沐恋商旅"
 circus,"n. 马戏团, 马戏, 竞技场"
 amusement,"n. 兴味, 娱乐, 消遣
 [法] 娱乐, 娱乐活动"
@@ -8,14 +8,14 @@ curly,"a. 拳曲的, 卷毛的, 弯曲的"
 wig,"n. 假发, 斥责
 vt. 给...戴假发, 激怒, 使发狂
 vi. 激动, 发狂"
-badge,"n. 徽章, 标记
-[计] 标记"
+badge,comb.form 表示“象征名牌的”，“名牌标志的”(只因该商品是名牌而使用它)：badge-product
 ankle,"n. 踝
 [医] 踝, 踝关节"
 clown,"n. 小丑, 乡下人"
 entertain,"vt. 娱乐, 招待, 怀抱
 vi. 款待"
-health care, 卫生保健
+health care,"n. 医疗保健
+[网络] 卫生保健；健康照护；健保"
 cheer up,"v. 鼓舞；振作一点
 [网络] 振作起来；高兴起来；使高兴起来"
 do the trick,获得成功
@@ -45,16 +45,21 @@ medieval,"a. 中古的, 中世纪的"
 emotive,"a. 使感动的, 动感情的, 感情的
 [医] 情绪的, 动感情的"
 mischievous,"a. 淘气的, 有害的, 恶作剧的, 胡搅的"
-remark,[网络] 重新标记
+remark,"n. 评论, 注意
+vt. 评论, 注意
+vi. 评论, 谈论
+[计] 注释"
 interaction,"un. (美国)《相互影响》月刊
 [网络] 互动；作用；动作补间"
 barber,n. 理发师
 shave,"n. 修面, 刮胡子, 幸免, 剃刀
 vt. 修面, 剃, 修剪, 掠过
 vi. 刮脸, 勉强通过"
-fellow,"n. 男人, 朋友, 同事
-a. 同伴的, 同事的, 同道的"
-brand,[网络] 布兰多
+fellow,"n. 家伙；同事；男人；同辈
+adj. 同类的；同事的；同伴的；同情况的
+[网络] 伙伴；会员；院士"
+brand,"n. 商标, 牌子, 烙印
+vt. 打烙印于"
 brand of humour,无
 concept,"n. 观念, 概念
 [医] 概念"
@@ -90,20 +95,23 @@ debt,"n. 债务, 罪过
 pace,"n. 速度, 步调, 步法
 vi. 踱步, 缓慢走
 vt. 用步测, 踱步于"
-inform,"身体好,竞技状态好"
+inform,adj. [英国英语]竞技状态良好的，处于最佳竞技状态的，处于良好状态的
 dread,"n. 恐惧, 可怕的人(或事)
 a. 可怕的, 可怖的
 v. 恐惧, 害怕"
 rarely,"adv. 很少地, 罕有地"
-overnight,[网络] 过夜；隔夜敞口；过夜检查
+overnight,"n. 前一天晚上, 一夜的逗留
+a. 通宵的, 晚上的, 前夜的
+adv. 在前一夜, 整夜, 昨晚一晚上"
 rejection,"n. 拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物
 [化] 报废; 拒收"
-nevertheless,"仍然
-尽管如此"
+nevertheless,"adv. 然而, 虽然如此
+conj. 然而"
 persevere,"vi. 坚持, 孜孜不倦, 不屈不挠, (辩论中)固执己见"
 criticism,"n. 批评, 评论, 非难
 [法] 批判, 批评, 评论"
-manuscript,[网络] 手稿
+manuscript,"n. 手稿, 原稿, 底稿
+a. 手写的"
 rye,"n. 黑麦, 吉卜赛绅士
 [医] 黑麦"
 best-seller,"畅销书, 畅销书作者
@@ -121,10 +129,12 @@ endurance,"n. 忍耐, 忍耐力, 耐性
 guarantee,"n. 担保, 抵押品, 保证书
 vt. 保证, 担保"
 delighted,"a. 高兴的, 快乐的"
-outcome,n. 结果，结局；成果
+outcome,"n. 结果, 结局；成果"
 worthwhile,"na. 有…的价值；有利益的
 [网络] 值得；值得的；值得去做"
-blanket,[网络] 毛毯
+blanket,"n. 毛毯, 毯子
+vt. 掩盖, 覆盖
+a. 总共的"
 beaver,"n. 海狸(毛皮)
 [机] 轻型及中型飞机加油"
 cucumber,"n. 黄瓜
@@ -133,7 +143,9 @@ enthusiastic,"a. 狂热的, 热心的, 热烈的"
 contest,"n. 竞赛, 争论
 vt. 竞争, 争取, 争辩
 vi. 竞争"
-upset,上端局设备
+upset,"a. 弄翻的, 混乱的, 心烦的
+vt. 弄翻, 颠覆, 推翻, 打乱, 使不适, 使心烦
+vi. 翻倒"
 elect,"adj. 选出的；当选的；卓越的
 n. 被选的人；特殊阶层；上帝的选民
 vt. 选举；选择；推选
@@ -142,10 +154,11 @@ blessing,n. 祝福
 appreciative,"a. 有欣赏力的, 感激的"
 worthy,"suf. [构成形容词]表示：“值得…的”,“该…的”：praiseworthy,“适于…的”,“易于…的”：roadworthy"
 worthy of,值得…的
-mere," [医]〔后缀〕意为指节, 体节或部分"
+mere,"n. 小湖, 池塘
+a. 仅仅的, 只不过的"
 gentleness,"n. 温顺, 柔和, 亲切"
 companionship,"n. 交往, 友谊, 一群同伴"
-fingertip,[医] 指尖
+fingertip," [医]指尖（套）, 手指光（电）传感器"
 outline,"n. 大纲, 轮廓, 概要
 vt. 描画轮廓, 描述要点
 n. 大纲, 分级, 轮廓
@@ -161,9 +174,10 @@ delight,"n. 高兴, 愉快
 vt. 使高兴, 乐于
 vi. 感到高兴(或愉快、快乐)"
 revelation,"n. 揭露, 泄露, 发觉, 默示, 启示"
-workaday,adj. 工作日的；日常的；普通的，平凡的
-amid,"prep. 在其间, 在其中
-[经] 在...中"
+workaday,"a. 工作日的, 平常日子的, 普通的
+[法] 工作日的, 日常的, 普通的"
+amid,"prep. 在…过程中；在…中；四周是
+[网络] 在...中；在…当中；被…围绕"
 haunt,"n. 常到的地方, 生息地
 vt. 常到, 出没于, 萦绕于
 vi. 出没, 作祟"
@@ -188,7 +202,7 @@ morsel,"n. 一口, 少量, 小片"
 delightful,"a. 令人愉快的, 可爱的"
 literary,"a. 文学的, 文艺的, 精通文学的
 [法] 文学的, 从事文学的, 从事写作的"
-embarrassed,[网络] 尴尬
+embarrassed,a. 尴尬的；窘迫的
 a far cry from,离…很远的路程;与…大不相同
 shiny,"a. 有光泽的, 发光的, 辉煌的, 磨光的, 磨损的"
 association,"n. 协会
@@ -212,8 +226,8 @@ vt. 使跳回, 撞击
 [计] 打回"
 sharpen,"vt. 使尖锐, 使敏捷, 加重, 削尖
 vi. 尖锐化, 变锋利"
-teammate,同队队员
-footstep,n. 脚步；脚步声；足迹
+teammate,"n. 同队队员, 队友"
+footstep,"n. 脚步, 脚步声, 足迹"
 follow in one's footsteps,照…的样子干，走…的道路
 carry on,"继续开展, 行为愚蠢(或越轨)
 [经] 继续发展(经营)下去"
@@ -230,18 +244,94 @@ vi. 发呼呼声"
 cheat,"n. 欺骗, 作弊, 骗子
 v. 欺骗, 逃脱, 骗取"
 yoga,n. 瑜珈
-roller skating, 滑旱冰
+roller skating,(rollerskate 的现在分词) n. 旱冰鞋；滑轮鞋
 remarkable,"a. 不平常的, 值得注意的, 显著的"
-net,"adj. 无虚价的；基本的；最后的；最后的(定论)
-n. 纯利；净值；实价；纯量
-v. 编网；编结网状物；〔诗〕成网状；撒(网)
-[网络] 网络；净重(Netweight)；球网"
+net,"Net
+[net]
+abbr.
+National Educational Television (美国)全国教育电视网
+n.
+因特网
+短语:
+surfing the Net
+上因特网，网上冲浪
+net1
+[net]
+n.
+网，罗网
+网子，网状物
+捕网，束缚
+网状织物；网眼花边
+(丝状体、血管等的)网状组织
+网状系统；通信网；广播网；间谍网
+互相交织的一组事物
+(网球、乒乓球等的)擦网球；落网球
+[用复数]【冰球】球门
+vt.
+把…织成网；编织；用网做：
+to net one's son a cap
+给儿子织一顶帽子
+(用网)遮盖，遮挡，围住：
+to net a place where a building is being built
+用网遮挡住正在盖楼的地方
+用网捕捉：
+to net birds
+用网捕鸟
+捕捉，诱捕；捕获：
+The police netted a drugpusher in the station.
+警方在火车站抓获了一名毒品贩子。
+(网状地)缠绕；笼罩：
+He was netted by an ill omen.
+一种不详的预兆萦绕着他。
+【广播、电视】联播(节目等)
+【体育】把(球等)击落网；把(球等)踢进网
+vi.
+织网：
+to net for fishing
+织网以备捕鱼
+联成通信网
+【体育】击球落网失分；踢球入网得分
+短语:
+spread one's net for someone
+为某人布置好圈套
+sweep everything into one's net
+网罗一切，把一切可以到手的东西都攫为己有
+变形：
+vt.
+netted
+. netting
+net2
+[net]
+adj.
+净的，纯的
+净重的
+以净价出售的
+最终的，结局的
+n.
+净收入，纯利；净值；净重；净价
+要点，要旨
+最终结果
+【高尔夫球】净得分
+vt.
+使净得，净赚：
+You will net ￡ 2 000 from the deal.
+在这笔交易中，你可净赚2 000英镑。
+使得到；获得：
+He netted the support of all of us.
+他得到了我们所有人的支持。
+变形：
+vt.
+netted
+. netting"
 spiker,"n. 钉道钉的护路工, 排球队的扣杀员"
-burst,[网络] 突发；总线主控和线性突发
+burst,"n. 破裂, 突发, 爆发
+v. 爆裂, 突发, 充满
+[计] 二进制位组; 字符组; 脉冲串"
 burst onto,无
 vivid,"a. 生动的, 鲜明的, 鲜艳的, 活泼的, 逼真的, 清晰的"
-assign,"vt. 分配, 指派, 赋值
-[计] 赋值"
+assign,"v. 指定；指派；转让；分派
+n. 【法】受让人
+[网络] 赋给；把…分配给"
 opponent,"n. 对手, 敌手, 反对者
 a. 敌对的, 反对的, 对面的"
 quarter-final,"n. 四分之一决赛
@@ -249,29 +339,38 @@ quarter-final,"n. 四分之一决赛
 preliminary,"n. 初步做法, 初步措施, 预试, 预选赛
 a. 初步的, 开始的, 预备的"
 surgery,"n. 外科, 手术, 手术室, 换球术"
-pay off,"na. 偿清(债务等)；付清；发清(工钱)；发清工钱解雇
-[网络] 还清；偿还；报复"
-comeback,"回来, 在记忆中重现, 复辟, 恢复, 回签"
+pay off,"n. 发工资, 分赃, 贿赂, 盈利, 报酬, 报应, 结果, 高潮, 决定因素
+a. 决定性的, 产生结果的, 支付的"
+comeback,"n. 复原, 复辟, 复位, 尖刻的对答, 抱怨的原因
+[计] 复原的"
 defeat,"n. 败北, 失败
 vt. 击败, 使落空"
-semi-final, [体]准决赛
+semi-final,n. 半决赛; 准决赛; 复赛
 steely,"a. 钢的, 钢制的, 钢铁般的"
 nerve,"n. 精神, 勇气, 叶脉, 神经
 vt. 鼓起勇气"
 seize,"vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握
 vi. 突然抓住, 利用"
-cooperation,n. 合作，协作；[劳经] 协力
+cooperation,"cooperation
+[kəu,ɔpə'reiʃən]
+n.
+合作，协作；配合
+【经济学】合作社；合作团体
+【生态学】(有机体间的)互助[亦作 co-operation]"
 ingredient,"n. 成分, 因素
 [化] 配合剂; 拼料; 成分; 组分"
-teamwork,"[经] 协力, 配合"
+teamwork,"un. 合作；协作；集体工作；协力
+[网络] 团队合作；团队精神；团体合作"
 podium," 表示：足,足状部分：monopodium; 梗, 柄[亦作-pode]"
 tournament,"n. 比赛, 竞赛, 锦标赛, 联赛"
-intense,[网络] 紧张
+intense,"a. 非常的, 强烈的, 紧张的, 热情的
+[医] 强的"
 quote,"n. 引用
 vt. 引述, 举证, 报(价)
 vi. 引用"
-Dutch,"n. 荷兰人, 荷兰语
-a. 荷兰的"
+Dutch,"n. 荷兰人；荷兰语；德国人；〈古〉(语言史上的)德国语
+adj. 荷兰的；荷兰人的；荷兰语的
+[网络] 荷兰瓷砖"
 float,"n. 漂流物, 浮舟, 漂浮, 浮萍, 彩车
 vi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动
 vt. 使漂浮, 容纳, 淹没, 发行, 实行
@@ -280,7 +379,8 @@ folk,"n. 人们, 家人, 亲属, 民族
 a. 民间的"
 tale,"n. 故事, 谎言, 谣言, 陈述, 叙述
 [法] 虚语, 诽语, 谣言"
-folk tale, 民间故事；民间传说
+folk tale,"n. 民间传说
+[网络] 民间故事"
 motion,"n. 移动, 手势, 动作, 意向, 请求, 提议
 v. 打手势"
 set ... in motion,"na. 使动；开动
@@ -347,14 +447,16 @@ vt. 抽样, 尝试
 [计] 示例, 字样"
 evolve,"vi. 进展, 进化, 展开
 vt. 使发展, 使推断出, 使进化"
-finch,n. 雀科鸣鸟
+finch,"n. 雀科鸣鸟；雀类
+n. (Finch)人名；(英、俄、西)芬奇"
 beak,"n. 鸟嘴, 喙
 [医] 嘴, 喙"
 suspect,"n. 被怀疑者, 嫌疑犯
 a. 令人怀疑的, 不可信的, 可疑的
 v. 怀疑, 猜想"
 ancestor,"n. 祖先, 祖宗"
-evolution,[网络] 演化；网络发展
+evolution,"n. 进化, 发展, 进展, (气体)放出, 开方
+[医] 进化, 演化, 旋出"
 generate,"vt. 产生, 发生, 导致
 [电] 产生"
 characteristic,"n. 特性, 特征, 特色
@@ -371,7 +473,7 @@ be native to,"是…地方土生土长的,原产于…"
 primitive,"n. 原始人, 早期艺术家
 a. 原始的, 上古的
 [计] 图元; 原语; 基元"
-worldwide, 全球的
+worldwide,a. 遍及全世界的
 giant,"n. 巨人, 大力士, 巨大怪物
 a. 庞大的, 巨大的"
 giant tortoise, [动物]巨型陆龟(Geochelone)
@@ -380,7 +482,7 @@ iguana,n. 鬣蜥
 comb-like,[网络] 梳状；梳狀；栉齿状
 spine,"n. 背骨, 脊柱, 尖刺
 [医] 脊柱; 棘, 刺; 马蹄嵴"
-myth,"n. 神话, 虚构的事, 虚构的人"
+myth,abbr. mythological；mythology
 legend,"n. 传说, 传奇文学, 图例
 [计] 图例"
 detect,"vt. 发现, 察觉, 探测
@@ -392,22 +494,22 @@ root,"n. 根, 根本, 根源, 基础, 底部
 vt. 使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱
 vi. 生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持"
 chilli,n. 红辣椒
-link,"n. 环, 连结物, 链接, 火把
-vt. 连结, 联合, 挽住
-vi. 连接起来
-[计] 连接, 链路"
+link,"n. 链接；连接；联系；纽带
+v. 联系；把（物体、机器、地方等）连接起来；相关联
+[网络] 系动词；把……和……联系起来；链环"
 fungus,"n. 真菌, 真菌类植物
 [医] 真菌, 霉菌, , 蕈, 海绵肿"
 fungal,"a. 真菌, 突然发生而迅速生长的东西, 真菌类植物, 海绵肿, 真菌类病害
 [医] 真菌的, 霉菌的"
 cybercrime,计算机犯罪，网络犯罪(未经许可私自进入他人的计算机以窃取机密资料或通过转账盗取金钱)
-centimetre,[网络] 厘米
+centimetre,"n. 厘米, 公分"
 steadily,"adv. 稳定地, 无变化地, 有规则地"
 massive,"a. 大而重的, 宽大的, 宏伟的
 [医] 大块的, 整块的, 大量的"
 delicate,"a. 细致优雅的, 微妙的, 美味的
 [医] 柔弱的"
-landmark,"[法] 地界, 界标"
+landmark,"n. 陆标, 划时代的事, 地界标
+[医] 界标"
 splendid,"a. 光亮的, 了不起的, 灿烂的, 壮丽的, 显著的, 杰出的"
 permafrost,n. [地]永久冻结带
 Tibetan,"a. 西藏的
@@ -416,7 +518,8 @@ antelope,n. 羚羊
 leisure,"n. 空闲, 闲暇, 悠闲
 a. 空闲的, 有闲的"
 at one's leisure,有空时
-wetland,强湿地
+wetland,"n. 湿地, 沼泽地
+[经] 湿地"
 grassland,"un. 草地
 [网络] 草原；草地土壤；草场"
 radiation,"n. 辐射
@@ -427,7 +530,8 @@ vt. 在...漫游"
 scenery,"n. 风景, 景色, 舞台布景"
 plateau,"n. 高地, 高原, (上升后的)稳定水平
 [医] 高原, 平顶, 坪"
-economy,[网络] 经济；电子经济
+economy,"n. 经济；节约；经济制度；节省
+[网络] 经济舱；我想坐一等舱；普通"
 jungle,"n. 丛林, 杂乱的一堆, 弱肉强食的地方"
 disturb,"vt. 扰乱, 妨碍, 使不安
 [法] 滋扰, 扰乱"
@@ -438,10 +542,12 @@ operator,"n. 操作员, 行家, 经纪人, 算子, 运算符
 conservationist,n. 自然资源保护论者
 via,"prep. 取道，通过；经由
 n. (Via)人名；(意、孟)维亚"
-candidate,n. 候选人，候补者；应试者
+candidate,"n. 候选人, 投考者
+[法] 候选, 候补者"
 applicant,"n. 申请者
 [经] 申请人, 请求人, 谋事人"
-favour,[经] 利益
+favour,"n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物
+vt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤"
 in favour of,"[经] 同意, 支持, 有利于..."
 advertise,"vt. 做广告, 通知, 公布
 vi. 做广告"

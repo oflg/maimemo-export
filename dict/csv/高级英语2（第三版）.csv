@@ -31,15 +31,21 @@ a. 长方形的, 长椭圆形的"
 hummocky,"a. 圆丘般的, 多圆丘的"
 derelict,"a. 被抛弃了的, 无主的, 玩忽职守的
 n. 遗弃物, 被遗弃的人, 玩忽职守者"
-coral,"香豆磷,蝇毒磷"
+coral,"n. 珊瑚；珊瑚虫
+adj. 珊瑚的；珊瑚色的
+n. (Coral)人名；(英、法、西、葡)科拉尔"
 gazelle,n. 瞪羚
-hindquarter,后四分体
+hindquarter,"n. 后腿, 臀部"
 lathe,"n. 车床
 vt. 用车床加工"
-bow,[网络] 兵器；生化武器；生化兵器
-witchcraft,"[法] 巫术, 魔法"
-palm,"n. 手掌, 棕榈, 胜利
-vt. 与...握手, 藏...于掌中"
+bow,"n. 弓；蝴蝶结；船头；艏
+adj. 鞠躬；低头
+v. 鞠躬；点头；低（头）；垂（首）
+[网络] 敬礼；敬礼动作"
+witchcraft,"n. 巫术, 魔法, 魔力"
+palm,"n. 手掌；棕榈树；掌状物
+vt. 将…藏于掌中
+n. (Palm)人名；(英)帕姆；(瑞典)帕尔姆；(法、德、俄、捷、芬、挪)帕尔姆"
 lucerne,n. [主英国英语]【植物】苜蓿(= [美国英语] alfalfa)
 harrow,"n. 哈罗公学, 耙
 vt. 耙掘, 伤害, 使苦恼
@@ -47,7 +53,8 @@ vi. 被耙松"
 furrow,"n. 犁沟, 车辙, 皱纹
 vt. 犁, 耕, 弄绉
 vi. 起波纹"
-subsoil,底土
+subsoil,"n. 下层土, 底土
+vt. 掘起...的底土"
 bridle,"n. 马勒, 约束
 [医] 系带, 约束"
 halter,"n. 缰绳, 笼头
@@ -57,7 +64,7 @@ syphilis,"n. 梅毒
 [医] 梅毒"
 garrison,"n. 守备队, 驻军, 要塞
 vt. 守备, 派兵驻守"
-forebear,n. 祖先；祖宗
+forebear,"n. 祖先, 祖宗"
 venture,"n. 冒险, 风险
 vt. 敢于, 冒...的危险
 vi. 冒险"
@@ -113,7 +120,7 @@ analogy,"n. 相似, 类似
 [计] 模拟"
 hypothesis,"n. 假设
 [化] 假设"
-pitchblende,沥青铀矿
+pitchblende,na. 沥青铀矿
 radium,"n. 镭
 [化] 镭Ra"
 hamstring,"n. 后腿腱
@@ -144,9 +151,8 @@ a. 波希米亚人的, 放浪的, 波希米亚语的"
 perversion,"n. 走入邪路, 败坏, 堕落, 违反常情, 变态, 反常, 误用, 滥用, 歪曲, 颠倒
 [医] 倒错, 乖常, 颠倒"
 reveler,"n. 狂欢者, 欢宴者"
-stalemate,"n. 僵局；陷于困境
-vt. 使僵持；使陷入困境
-vi. 僵持；陷入僵局"
+stalemate,"n. 僵持状态, 僵局, 陷于困境, 胶着状况
+vt. 将...逼和, 使僵持, 使陷入困境"
 insolence,"n. 傲慢, 无耻, 傲慢态度
 [法] 无礼, 蛮横, 侮辱性言行"
 belligerent,"a. 好战的, 交战的, 交战国的
@@ -185,7 +191,8 @@ pristine,"a. 太古的, 原来的, 古时的, 原始的"
 vivacity,"n. 快活, 活泼, 精神充沛"
 precinct,"n. 区域, 管理区, 管辖区域
 [法] 管辖区, 选区, 分界"
-subculture,n. 亚文化
+subculture,"n. 再次培养, 亚文化群
+[医] 次代培养物, 次培养物"
 boutique,n. 专卖流行衣服的小商店
 ancillary,"a. 从属的, 辅助的, 副的
 [经] 辅助的, 附属的, 助手"
@@ -206,7 +213,8 @@ a. 混合的, 杂种的, 混合语的
 [计] NetWare的主机实用程序, 双重用户建立程序"
 admixture,"n. 混合, 混合物
 [化] 掺和剂; 混合物; 掺和; 混合"
-juxtaposition,[网络] 两种声音或叙述层次并置
+juxtaposition,"n. 并排, 并置, 并列
+[医] 并列, 并置, 对合"
 exasperate,"vt. 使恼怒, 激怒, 恶化
 a. 糙面的, 恼怒的, 激怒的"
 exhilarate,"vt. 使高兴, 使愉快, 鼓励"
@@ -254,12 +262,13 @@ impoverish,"vt. 使贫穷, 耗尽...的力气"
 subsidy,"n. 补助金, 津贴
 [经] 补助金, 津贴, 补贴"
 franc,n. 法郎
-Deutschmark,[经] 西德马克
+Deutschmark,n. 德国马克（德国货币）
 overdraft,"n. [金融] 透支；[金融] 透支额
 vt. [金融] 透支"
-caper,开普河
-recoil,"vi. 畏缩；弹回；报应
-n. 畏缩；弹回；反作用"
+caper,"n. 跳跃
+vi. 雀跃, 蹦跳"
+recoil,"n. 畏缩, 后退, 弹回, 反作用, 后坐力
+vi. 退却, 畏缩, 弹回, 撤退, 反冲, 报应"
 anomalous,"a. 不规则的, 反常的
 [医] 异常的, 反常的"
 hippopotamus,n. 河马
@@ -272,10 +281,12 @@ repertory,"n. 仓库, 库存, 储备, 保留剧目轮演"
 farce,"n. 闹剧, 滑稽剧, 胡闹"
 demagogue,n. 煽动者
 myopic,a. [眼科]近视的；目光短浅的
-shareholder,"[经] 股东, 股票持有人"
+shareholder,"n. 股东
+[法] 股东, 股票持有人"
 counting-house,"[经] 存帐室, 会计室"
 loon,"n. 懒人, 潜鸟, 笨蛋"
-chokecherry,[医] 野樱桃
+chokecherry,"un. 野樱桃
+[网络] 美国稠李；苦樱桃"
 patois,"n. 方言, 行话"
 obscenities,n. 淫秽( obscenity的名词复数 ); 猥亵; 下流; 淫秽的词语或行为
 reservation,"n. 保留, 预定, 保留品, 保留地
@@ -297,7 +308,8 @@ aeon,"n. 永世, 万古, 极长的时期"
 chipmunk,n. 金花鼠
 pneumonia,"n. 肺炎
 [医] 肺炎"
-chrome, [医]〔后缀〕意为与颜色有关的
+chrome,"n. 铬, 铬合金
+[医] 铬(24号元素)"
 carmine,"n. 胭脂红, 洋红色, 深红色
 a. 胭脂红的, 洋红色的, 深红色的"
 perturb,"vt. 扰乱, 使混乱, 使心绪不宁"
@@ -309,7 +321,8 @@ skirmish,"n. 前哨战, 小争论, 小冲突
 vi. 发生小争论, 侦察"
 rung,"n. (梯子)踏步, 横档, 轮辐, 粗棍
 ring的过去分词"
-lukewarm,a. 微温的
+lukewarm,"a. 微温的, 不热的, 不热情的
+[医] 微温的"
 paradox,"n. 似非而是的论点, 自相矛盾的话, 悖论, 怪人怪事
 [化] 佯谬"
 paranoia,"n. 偏执狂, 多疑症
@@ -318,7 +331,8 @@ pimp,"n. 皮条客, 男妓, 恶棍, 窥探情人者, 告密者
 vi. 拉皮条, 告密"
 perpetual,"a. 永久的, 不断的, 无期限的, 没完没了的, 四季开花的
 [经] 永远的, 终身的, 持续的"
-preconception,n. 偏见；先入之见；预想
+preconception,"n. 事先钩成的看法, 成见
+[法] 先入之见, 成见, 偏见"
 corny,"a. 谷类的, 乡巴佬似的, 粗野的
 [建] 角制的, 角(质)的"
 sojourn,"n. 逗留, 旅居
@@ -329,8 +343,9 @@ efface,"vt. 抹去, 消除, 忘却"
 sustenance,"n. 生活资料, 生计, 食物, 支持
 [法] 营养物, 维持, 支持"
 inexorable,"a. 无情的, 冷酷的"
-wed,"vt. 与…结婚；尤指：；嫁、娶：
-vi. 结婚：；结合，交融："
+wed,"v. 结婚；娶；嫁
+short. we had；we would
+[网络] 星期三(Wednesday)；周三；与…结婚"
 property,"n. 财产, 所有权, 性质, 属性
 [计] 属性"
 bacteria,"pl. 细菌
@@ -343,7 +358,8 @@ fungi,"pl. 真菌, 突然发生而迅速生长的东西
 [医] 真菌, 霉菌, 蕈, 海绵肿"
 organism,"n. 生物, 有机体, 社会组织
 [医] 生物[体],[有]机体"
-physicochemical,物理化学的
+physicochemical,"a. 物理化学的
+[医] 物理化学的"
 cybernetics,"n. 控制论
 [计] 控制论"
 helmsman,n. 舵手
@@ -368,8 +384,8 @@ perturbation,"n. 不安, 扰乱, 紊乱, 烦扰
 [化] 摄动; 微扰"
 excrete,"vt. 排泄, 分泌
 [医] 排泄, 分泌"
-carbon dioxide,"二氧化碳
-[化] 二氧化碳"
+carbon dioxide,"n. 二氧化碳
+[网络] 二氧化碳吸收体"
 incinerator,"n. 焚烧装置, 焚烧炉, 焚尸炉
 [化] 焚烧炉; 焚化炉; 煅烧炉"
 technologist,"n. 工艺师, 技术员
@@ -392,7 +408,8 @@ a. 不同的, 有差别的
 synthesize,"v. 综合, 合成"
 carcinogenic,"a. 致癌作用, 癌发生
 [医] 致癌的"
-enzyme,酵素
+enzyme,"n. 酶
+[化] 酶"
 detergent,"n. 清洁剂
 [化] 洗涤剂"
 insecticide,"n. 杀虫剂
@@ -407,7 +424,7 @@ elucidate,"vt. 阐明, 说明"
 miasma,"n. 毒气, 沼气
 [医] 瘴毒, 瘴气"
 mansion,"n. 大厦, 宅邸"
-subprime,adj. 次要的
+subprime,"a. 准一流的, 近乎头等的; 准最低贷款利率的"
 parable,"n. 寓言, 隐晦的比较"
 implausible,"a. 难以置信的, 不象真实的"
 porte-cochère,无
@@ -429,7 +446,8 @@ thermostat,"n. 自动调温器, 温度自动启闭装置
 [化] 恒温器; 恒温箱"
 microclimate,"n. 微气候
 [网络] 微型气候；小气候；区域气候"
-fossil fuel,n. 化石燃料
+fossil fuel,"n. 矿物燃料
+[网络] 化石燃料；石化燃料；主要燃料用化石燃料"
 curtailment,"n. 缩减, 缩短
 [经] 削减, 紧缩"
 biofuel,[机] 生物燃料
@@ -466,12 +484,14 @@ methodology,"n. 方法学, 方法论
 [化] 操作法; 工艺"
 gravity,"n. 地心引力, 重力
 [化] 重力"
-genome,基因组
-thermodynamics,n. 热力学
+genome,"[化] 基因组
+[医] 染色体组"
+thermodynamics,"n. 热力学
+[化] 热力学"
 mutation,"n. 变化, 突变, 元音变化
 [化] 突变"
 corollary,"n. 必然的结果, 系, 推论"
-streamlining,流型线
+streamlining,(stream-line 的现在分词) 流水线
 cylinder,"n. 圆筒, 圆筒状物, 汽缸, 柱面
 [计] 柱面"
 carburetor,[化] 增碳器; 汽化器; 化油器

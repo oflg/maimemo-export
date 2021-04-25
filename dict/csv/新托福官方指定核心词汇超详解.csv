@@ -52,7 +52,10 @@ migration,"n. 移民, 移往, 移动
 [计] 迁移"
 physical,"a. 身体的, 物质的, 自然的, 物理学的, 好色的
 n. 体格检查"
-process,[网络] 过程；流程；进程
+process,"n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
 survive,"vt. 比...活得长, 生存, 生还, 幸免于
 vi. 活下来, 幸存"
 constraint,"n. 强制, 约束
@@ -92,9 +95,10 @@ vt. 与...平行, 与...相似, 相比, 使平行
 [计] 并联; 并行"
 proportion,"n. 比例, 比率, 均衡, 部分, 面积
 vt. 使成比例, 使均衡"
-rate,"n. 比率, 率, 速度, 价格, 费用, 等级
-vt. 估价, 认为, 鉴定等级, 责骂
-vi. 被评价, 责骂"
+rate,"n. 比率，率；速度；价格；等级
+vt. 认为；估价；责骂
+vi. 责骂；被评价
+n. (Rate)人名；(法、塞)拉特"
 sequence,"n. 序列, 续发事件, 顺序, 连续
 vt. 按顺序排好
 [计] 顺序"
@@ -109,7 +113,10 @@ feasibly,adv. 切实
 gut,"n. 剧情, 内容, 内脏, 肚子, 海峡, 勇气
 vt. 取出内脏, 毁坏...的内部"
 integrally,"adv. 完整地, 固有地"
-overlap,重叠;交错
+overlap,"n. 重叠, 重复, 部分的同时发生
+vt. 重叠, 重复, 与...同时发生
+vi. 迭盖, 部分的同时发生
+[计] 重叠"
 retain,"vt. 保持, 保有, 留住, 记得, 付定金聘请
 [经] 保留, 留存"
 seep,"vi. 渗出, 渗流, 漏
@@ -122,7 +129,8 @@ corrode,"vt. 使腐蚀, 侵蚀, 破坏
 vi. 被侵蚀, 起腐蚀作用"
 derive,"vt. 得自
 vi. 起源"
-detection,[科技] 探测
+detection,"n. 探测；发现；侦查；察觉
+[网络] 探测能力；检波检测"
 expeditiously,"adv. 迅速(完成), 高效, 效率高, 敏捷, 急速(进行)"
 implement,"n. 工具, 器具, 手段
 vt. 实现, 使生效, 执行"
@@ -131,8 +139,8 @@ installation,"n. 安装, 装置, 就职
 [医] 结构, 装置, 设立"
 maintenance,"n. 维护, 保持, 维修, 生活费用, 坚持, 扶养
 [计] 维护; 维修"
-simulation,"n. 模拟, 假冒物, 模仿
-[计] 模拟"
+simulation,"n. 模拟；仿真；假装；冒充
+[网络] 模拟法；模拟仿真；仿真特效"
 combustion,"n. 燃烧, 骚动
 [化] 燃烧"
 component,"n. 元件, 组件, 成分
@@ -141,15 +149,17 @@ a. 组成的, 构成的
 convey,"vt. 传达, 运输, 转让
 [经] 转让(财产等), 搬运"
 discretely,"adv. 分离地, 离散地"
-nucleus,环
+nucleus,"n. 核心, 核子, 原子核, 起点
+[计] 核心程序"
 permeate,"vt. 弥漫, 渗透, 充满, 影响, 感染
 vi. 透入, 散布"
 rotate,"a. 辐状的
 vt. 使旋转, 使转动, 使轮流
 vi. 旋转, 循环
 [计] 旋转"
-solar,"a. 太阳的, 日光的, 源自太阳的
-[医] 太阳的; 腹腔丛的"
+solar,"adj. 太阳的；日光的；利用太阳光的；与太阳相关的
+n. 日光浴室
+n. (Solar)人名；(法、英、意、西、塞、捷)索拉尔"
 source,"n. 来源, 水源, 根源, 原始资料, 源
 [计] 来源, 源程序"
 trigger,"n. 触发器, 扳机
@@ -170,7 +180,8 @@ indisputable,a. 无争论之余地的
 intervene,"vi. 插入, 调停, 干涉
 [经] 进场干预"
 intuitively,[计] 直觉地
-recede,[网络] 后退
+recede,"vi. 向后退, 退却, 收回, 降低, 减弱
+[医] 退缩"
 retrieve,"vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 检索
 vi. 找回猎物
 n. 取回, 恢复, 救险球
@@ -193,7 +204,8 @@ vt. 牺牲, 祭祀, 贱卖
 vi. 献祭"
 aggravate,"vt. 使恶化, 使更严重, 加重"
 decrepit,a. 衰老的
-disease,[网络] 不舒服；不适；疾病
+disease,"n. 疾病, 弊病
+[医] [疾]病"
 fatally,"adv. 致命地, 不幸地, 宿命地"
 forensics,"n. 辩论学, 辩论术"
 persist,"vi. 坚持, 固执, 持续, 坚称
@@ -227,7 +239,9 @@ obese,"a. 肥胖的
 [医] 肥胖的"
 procedure,"n. 程序, 过程, 手续
 [计] 规程; 过程"
-scar,[网络] S号汽车
+scar,"n. 疤痕, 伤痕, 悬崖
+vi. 结疤, 愈合, 痊愈
+vt. 使有伤痕"
 astrological,"a. 占星学的, 占星术的"
 divination,"n. 占卜, 卜卦, 预测"
 haunt,"n. 常到的地方, 生息地
@@ -245,13 +259,15 @@ phantom,"n. 幻影, 虚位, 幽灵, 化身, 令人恐惧的事物, 骇人的想�
 a. 幻觉的, 幻影的, 幽灵的, 虚无飘渺的, 捉摸不定的, 有名无实的"
 psychic,"a. 灵魂的, 精神的, 心灵的
 n. 巫师, 灵物, 心灵现象"
-self-perpetuating,a. 能使自身永久存在的
+self-perpetuating,"adj. 使自身长存不废的；想尽办法保留自己官职的
+[网络] 仍可自身不断发展；常是一种自身不断进展"
 assimilate,"vt. 使同化, 吸收, 使相拟, 把...比作
 vi. 被吸收, 被同化"
 cremation,"n. 烧, 火葬
 [医] 火葬"
 domesticate,"vt. 养驯, 引进(外来词等), 教化"
-folklore,民间文学
+folklore,"na. 民间文学
+[网络] 民俗；民俗学"
 fossilize,"vt. 使成化石, 使陈腐
 vi. 变成化石, 变陈腐"
 relic,"n. 遗物, 遗迹, 纪念物, 遗风, 残留物"
@@ -260,8 +276,7 @@ ritually,adv. 按照仪式地
 saga,"n. 传说, 英雄传奇, 冒险故事"
 vestige,"n. 遗迹, 痕迹, 残余, 丝毫, 退化的器官
 [医] 遗迹, 剩件, 剩余"
-amend,"vt. 修改, 改善, 改良
-vi. 改过自新"
+amend,abbr. amendment(s) 改善，改正
 biased,"a. 有偏见的
 [计] 边缘的"
 burden,"n. 负担, 重载, 担子, 责任
@@ -270,7 +285,9 @@ counter,"n. 计算器, 计算者, 柜台, 筹码
 a. 反方向的, 相反的
 adv. 反方向地, 相反地
 [计] 计数器; 计数字"
-de facto,"a. 事实上的, 实际的"
+de facto,"adj. 实际上存在的（不一定合法）；实际上；事实上的
+adv. 实际上；事实上
+[网络] 事实婚；事实状况上；这个词不认识"
 discriminate,"v. 区别, 差别待遇"
 notion,"n. 概念, 观念, 想法, 打算, 别致的小东西
 [经] 概念, 打算, 想法"
@@ -338,15 +355,19 @@ severely,"adv. 严格, 尖锐, 严肃, 严重, 严厉, 朴素"
 violation,"n. 违反, 违背, 妨碍
 [法] 违犯, 违背, 违反"
 chronologically,adv. 按时间的前后顺序排列地
-coincide,"vi. 一致, 符合；同时发生"
+coincide,"vi. 一致, 符合
+[化] 重合"
 consequence,"n. 结果, 重要性
 [法] 结果, 后果, 推断"
-core,comb.form 表示“…类别的摇滚乐”：queercore
+core,"n. 核心, 果心, 要点
+vt. 挖...的核
+[计] 内核, 核心网"
 deny,"v. 否认, 拒绝"
 diminish,"v. (使)减少, (使)变小"
 longitude,"n. 经度, 经线
 [电] 经度"
-milieu,n. 环境；周围；出身背景
+milieu,"n. 周围, 社会环境, 环境, 表达的手法
+[医] 环境"
 Orwellian,"George Orwell的笔调或用字的, 受严格统治而失去人性的社会, 赞成上述社会的人"
 reconciliation,"n. 和解, 和好, 复交, 调解, 调停, 和谐, 一致, 甘愿, 顺从
 [经] (银行往来)调节, 调和, 一致"
@@ -361,10 +382,83 @@ equity,"n. 公平, 公正
 [经] 权益, 产权"
 inflation,"n. 胀大, 夸张, 通货膨胀
 [化] 充气吹胀; 膨胀"
-net,"adj. 无虚价的；基本的；最后的；最后的(定论)
-n. 纯利；净值；实价；纯量
-v. 编网；编结网状物；〔诗〕成网状；撒(网)
-[网络] 网络；净重(Netweight)；球网"
+net,"Net
+[net]
+abbr.
+National Educational Television (美国)全国教育电视网
+n.
+因特网
+短语:
+surfing the Net
+上因特网，网上冲浪
+net1
+[net]
+n.
+网，罗网
+网子，网状物
+捕网，束缚
+网状织物；网眼花边
+(丝状体、血管等的)网状组织
+网状系统；通信网；广播网；间谍网
+互相交织的一组事物
+(网球、乒乓球等的)擦网球；落网球
+[用复数]【冰球】球门
+vt.
+把…织成网；编织；用网做：
+to net one's son a cap
+给儿子织一顶帽子
+(用网)遮盖，遮挡，围住：
+to net a place where a building is being built
+用网遮挡住正在盖楼的地方
+用网捕捉：
+to net birds
+用网捕鸟
+捕捉，诱捕；捕获：
+The police netted a drugpusher in the station.
+警方在火车站抓获了一名毒品贩子。
+(网状地)缠绕；笼罩：
+He was netted by an ill omen.
+一种不详的预兆萦绕着他。
+【广播、电视】联播(节目等)
+【体育】把(球等)击落网；把(球等)踢进网
+vi.
+织网：
+to net for fishing
+织网以备捕鱼
+联成通信网
+【体育】击球落网失分；踢球入网得分
+短语:
+spread one's net for someone
+为某人布置好圈套
+sweep everything into one's net
+网罗一切，把一切可以到手的东西都攫为己有
+变形：
+vt.
+netted
+. netting
+net2
+[net]
+adj.
+净的，纯的
+净重的
+以净价出售的
+最终的，结局的
+n.
+净收入，纯利；净值；净重；净价
+要点，要旨
+最终结果
+【高尔夫球】净得分
+vt.
+使净得，净赚：
+You will net ￡ 2 000 from the deal.
+在这笔交易中，你可净赚2 000英镑。
+使得到；获得：
+He netted the support of all of us.
+他得到了我们所有人的支持。
+变形：
+vt.
+netted
+. netting"
 per capita,"每人, 按人口, 按人口计算
 [经] 每人, 按人头"
 regulate,"vt. 管理, 控制, 调节, 调整, 校准
@@ -387,7 +481,8 @@ privileged,"a. 有特权的, 有特别恩典的
 [法] 特许的, 有特权的"
 prosper,"vi. 繁荣, 兴隆, 成功
 vt. 使成功, 使昌盛"
-working class, 工人阶级
+working class,"na. 工人阶级
+[网络] 打工皇帝；工作阶级；劳动阶级"
 acquire,"vt. 获得, 学到
 [电] 目标锁定"
 assess,"vt. 估定, 对...征税, 评定
@@ -402,7 +497,8 @@ liability,"n. 责任, 债务, 倾向
 [经] 责任, 义务, 负债"
 proprietor,"n. 所有者
 [经] 所有人, 资本主, 业主"
-safeguard, 安全设备，护轨
+safeguard,"n. 保卫, 保护措施, 防护设施
+vt. 保卫, 保护"
 sole,"n. 脚掌, 鞋底, 底部
 a. 唯一的, 仅有的, 单独的, 独身的
 vt. 上鞋底, 触底"
@@ -423,8 +519,8 @@ vt. 值得
 vi. 应受"
 promote,"vt. 促进, 晋升, 创办, 推销
 [经] 促进, 推广, 推销"
-resign,"v. 重新签署
-[网络] 续签；再签名；再签署"
+resign,"vt. 辞职, 放弃, 使顺从
+vi. 辞职, 屈从"
 distill,"vt. 蒸馏
 vi. 滴下"
 entrepreneurial,"a. 创业的, 具有企业精神的; 企业性质的"
@@ -438,7 +534,8 @@ intrepid,adj. 无畏的；勇敢的；勇猛的
 merchant,"n. 商人, 店主
 a. 商业的, 商人的"
 proportionately,"adv. 成比例地, 相称地"
-prototype,"原型;样机,试制型"
+prototype,"n. 原型
+[计] 样机; 原型"
 reward,"n. 报酬, 酬谢, 赏金
 vt. 奖赏, 酬谢, 给...应有报应"
 shuttle,"n. 穿梭, 梭子, 往返移动之物
@@ -448,13 +545,15 @@ vt. 主张, 提倡"
 authority,"n. 权力, 当权者, 当局, 权威, 专家
 [经] 代理权, 授权, 权威"
 bitterly,"adv. 怨恨地, 悲痛地, 残酷地"
-candidate,n. 候选人，候补者；应试者
-coalition,"n. 结合体, 结合, 联合
-[经] 联合, 联盟"
+candidate,"n. 候选人, 投考者
+[法] 候选, 候补者"
+coalition,"n. 联盟；联合；结合；（两党或多党）联合政府
+[网络] 合并；同盟；结合体，同盟"
 contest,"n. 竞赛, 争论
 vt. 竞争, 争取, 争辩
 vi. 竞争"
-election,n. 选举；当选；选择权；上帝的选拔
+election,"n. 选举, 当选, 选择权
+[法] 选举, 当选"
 inaugurate,"vt. 开始, 举行...就职典礼"
 policy,"n. 政策, 方针, 策略, 保险单
 [医] 凭单, 保险单"
@@ -492,7 +591,8 @@ bureaucratic,"a. 官僚的
 [经] 机僚化的"
 condemn,"vt. 判刑, 责备, 谴责
 [法] 定罪, 判刑, 宣告有罪"
-evidence,[网络] 证据；大量运用事例证据
+evidence,"n. 根据, 证据, 迹象
+[经] 证据, 凭证"
 implicate,"vt. 涉及, 含意, 暗示, 牵连
 n. 包含的东西"
 inquiry,"n. 质询, 探索, 调查, 询盘
@@ -531,8 +631,9 @@ a. 奇怪的, 可笑的"
 integrity,"n. 正直, 廉正, 完整
 [计] 完整性"
 prevalent,"a. 普遍的, 流行的"
-reform,"v. 再作；改编(军队等)；(飞机在攻击后)重新编队
-[网络] 扣帐"
+reform,"n. 改革, 改正, 改造
+vt. 改革, 改过, 革新, 重整
+vi. 革新, 改过"
 scandal,"n. 丑闻, 中伤, 耻辱, 反感, 流言蜚语
 [法] 丑事, 丑闻, 干丑事的人"
 unmask,"vi. 脱去假面具
@@ -580,7 +681,9 @@ descendant,"n. 后裔, 子孙
 a. 传下的, 下降的"
 inheritance,"n. 遗传, 遗产
 [医] 遗传"
-kin,"suf. 表示小：lambkin, princekin; [构成姓氏]：Peterkin"
+kin,"n. 亲戚；家族；同族
+adj. 同类的；有亲属关系的；性质类似的
+n. (Kin)人名；(缅)庆；(朝)紧；(匈、柬、塞)金；(中)金(普通话·威妥玛)"
 legitimate,"a. 合法的, 正当的, 婚生的
 vt. 认为正当, 立为嫡嗣, 使合法"
 paternal,"a. 父亲的, 父系的, 似父亲的, 得自父亲的, 家长式统治的
@@ -608,7 +711,8 @@ exclusive,"a. 排外的, 独占的, 唯一的
 [计] 独占的"
 fluctuate,"vi. 变动, 起伏, 动摇
 vt. 使波动, 使动摇"
-in common,共有
+in common,"un. 和…有共同之处；公有
+[网络] 共同的；共有的；共用的"
 solidarity,"n. 团结, 团结一致, 共同一致
 [法] 团结, 共同责任"
 willing,"a. 乐意的, 自愿的, 甘愿的"
@@ -649,11 +753,10 @@ dire,"a. 可怕的, 悲惨的, 阴沉的, 极端的"
 embrace,"n. 拥抱
 vt. 拥抱, 互相拥抱, 包含, 收买
 vi. 拥抱"
-hover,"vi. 盘旋, 翱翔, 徘徊
-vt. 孵
-n. 翱翔"
+hover,"v. 盘旋；徘徊；犹豫；巡弋
+[网络] 翱翔；悬停；盘旋于"
 novice,"n. 新手, 初学者"
-overwhelming,[网络] 压倒
+overwhelming,"a. 压倒性的, 无法抵抗的"
 plummet,"n. 测深锤, 铅坠
 vi. 垂直落下"
 adolescent,"a. 青春期的, 青少年的
@@ -670,17 +773,20 @@ vt. 加穗于, 加饰边于
 a. 边缘的, 附加的"
 hedonistic,"a. 快乐主义者的, 快乐论的, 快乐主义的"
 hypocritically, 假惺惺
-manipulation,"n. 操作, 处理
-[化] (用手)操作; 使用"
+manipulation,"n. 手法；控制；操作法；(熟练的)操作
+[网络] 操纵；处理；操控"
 rebel,"n. 叛徒, 反叛者
 vi. 造反, 反抗, 抵抗, 反感
 a. 造反的, 反抗的"
-status quo,n. 现状
+status quo,"na. 现状
+[网络] 维持现状"
 abstract,"a. 抽象的, 深奥的
 n. 摘要, 抽象概念
 vt. 摘要, 提炼, 使抽象化
 [计] 摘录; 摘要; 抽象"
-context,[网络] 语境；文化与境；历史文本的脉络交织
+context,"n. 上下文, 背景, 来龙去脉
+n. 上下文
+[计] 上下文"
 depict,"vt. 描述, 描写"
 dimension,"n. 尺寸, 次元, 面积, 维数
 vt. 标出尺寸"
@@ -723,9 +829,9 @@ hilarious,adj. 欢闹的；非常滑稽的；喜不自禁的
 improvisation,"n. 即兴而作, 即席演奏, 即席作品"
 incompetent,"a. 无能力的, 无资格的, 机能不全的, 不胜任的
 n. 无能力者"
-medium,"n. 媒体, 方法, 媒介
-a. 半生熟的, 中间的
-[计] 媒体, 中"
+medium,"n. （传播信息的）媒介；手段；工具；方法
+adj. 中等的；中号的
+[网络] 灵媒缉凶；一般；中等个子"
 skit,"n. 讽刺文, 戏文, 小喜剧"
 zeal,"[医] 玉蜀黍属, 玉米属"
 bulk,"n. 大小, 体积, 大块, 大多数

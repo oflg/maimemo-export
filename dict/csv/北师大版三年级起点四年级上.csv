@@ -2,11 +2,17 @@
 vt. 签名, 打手势表达
 vi. 签名
 [计] 正负号; 符号; 符号字符"
-left,"a. 左边的, 左倾的, 左侧的, 左派的
-adv. 在左面
-n. 左, 左面, 左派
-leave的过去式和过去分词"
-right,[网络] -对
+left,"n. 左；左边；左方；左转弯
+adv. 向左；在左边
+adj. 左边的
+v. “leave”的过去式和过去分词
+[网络] 左对齐；左侧；离开"
+right,"n. 权利, 右边, 正义, 右派, 公正
+a. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的
+adv. 正确地, 以有利结果, 一直, 直接, 向右
+vt. 扶直, 整理, 纠正, 伸冤, 使昭雪
+vi. 恢复平衡
+[计] 右, 权利"
 litter,"n. 垃圾, 杂乱, 轿, 担架
 vt. 乱丢, 铺草, 弄乱
 vi. 产仔, 乱丢垃圾"
@@ -35,32 +41,44 @@ vt. 叫喊, 大声说, 哭出"
 try,"n. 尝试, 试验, 审理, 审判
 vt. 试, 尝试, 试验, 考验, 审问, 提炼
 vi. 尝试, 试图"
-shopping,[网络] 购物娱乐游；休闲购物
-how much,"多少, 什么价钱, 到什么程度"
-train,"n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序
-vt. 训练, 教育, 对准
-vi. 受训练, 锻炼"
+shopping,"n. 买东西, 购物
+[经] 购物, 买东西"
+how much,多少?；什么价钱?多少钱?；到什么程度?
+train,"n. 列车；火车；列队行进的人（或动物）；队列
+v. 训练；培训；教育；接受训练
+[网络] 培养；火车乐队；列车站台"
 plane,"n. 平面, 扁平物, 机翼, 飞机, 水准, 地位
 a. 平的, 平面的
 vt. 将...刨平, 刨平, 掠过水面
 vi. 翱翔, 乘飞机旅行, 刨掉"
-money,[网络] 抠抠
+money,"n. 金钱, 一笔款, 财富, 货币, 金额
+[经] 货币, 金钱, 财产"
 doll,"n. 洋娃娃, 无头脑的美丽女人"
 eleven,"num. 十一, 十一个"
-twelve,"num. 十二, 十二个"
+twelve,"n. 十二；十二个
+num. 十二；十二个
+adj. 十二的；十二个的"
 thirteen,"num. 十三, 十三个"
 fourteen,"num. 十四, 十四个"
-fifteen,"num. 十五, 十五个"
+fifteen,"n. 十五；十五个；十五人组成的橄榄球队
+adj. 十五的
+num. 十五"
 sixteen,"num. 十六, 十六个"
 seventeen,"num. 十七, 十七个"
-eighteen,"num. 十八, 十八个"
+eighteen,"n. 十八，十八个
+adj. 十八个的，十八的
+num. 十八"
 nineteen,"num. 十九, 十九个"
 twenty,"n. 二十几；二十年代
 num. 二十
 [网络] 二十个；廿；第二十"
-look at,"看, 考虑, 着眼于"
-thirty,"num. 三十, 三十个"
-forty,"num. 四十, 四十个"
+look at,"na. 看；考虑
+[网络] 看着；注视；瞧"
+thirty,"n. 三十年代
+num. 三十
+adj. 三十个的"
+forty,"n. 四十
+adj. 四十的；四十个的"
 fifty,"num. 五十
 n. 五十几；五十年代
 adj. 许多的
@@ -68,13 +86,15 @@ adj. 许多的
 sixty,"n. 六十几；六十年代
 num. 六十
 [网络] 六十个；第六十；六十岁"
-seventy,"num. 七十
-n. 七十几；七十年代
-[网络] 七十个；第七十；七十的"
-eighty,"num. 八十
-n. 八十几；八十年代
-[网络] 八十个；第八十；八十的"
-ninety,"num. 九十, 九十个"
+seventy,"n. 七十；七十个；七十岁；七十年代
+adj. 七十的；七十个的；七十岁的
+num. 七十"
+eighty,"n. 八十；八十岁；八十年代
+adj. 八十的，八十个的；八十岁的
+num. 八十"
+ninety,"n. 九十几；九十年代
+num. 九十
+[网络] 九十个；丶所谓爱情；九十的"
 hundred,"n. 百, 百个东西
 num. 百, 百个
 a. 一百的, 许多的"
@@ -82,9 +102,7 @@ study,"n. 学习, 研究, 学科, 论文, 求学, 书房, 试作
 vt. 学习, 读书, 研究, 考虑, 计划
 vi. 学习, 思索"
 whose,pron. 谁的
-CD,"abbr. (=compact disc)激光唱片
-n. 光盘
-[网络] 镉；光盘(compact disc)；文件大小"
+CD,abbr. certificate of deposit；Civil Defense；civil disobedience
 new,"adj. 刚出现的；新的；新近推出的；新买的
 n. 新东西；新事物
 abbr. 〈美(=net economic welfare)纯经济福利
@@ -93,8 +111,12 @@ adv. 同“newly”
 umbrella,"n. 伞, 雨伞, 保护伞
 a. 伞的, 包罗万象的
 vt. 用伞遮掩"
-chair,[网络] 委员长
-watch,comb.form [通常作复合词的第二部分]表示“研究”，“监视”，“观察”，“观望”；“观赏”
+chair,"n. 椅子；（主持会议或委员会的）主席席位；委员长职位
+v. 担任（会议、讨论等的）主席；主持（会议、讨论等）
+[网络] 餐椅；讲座；主持人"
+watch,"n. 观察, 手表, 看守, 守护, 监视, 值班人
+vt. 看, 注视, 照顾, 看守, 守护, 监视
+vi. 观看, 注视, 守侯"
 TV,"n. 电视；电视机
 abbr. (=television)
 [网络] 电视(television)；电视剧；快门优先"
@@ -108,16 +130,17 @@ tidy,"n. 椅子的背罩, 装杂物的容器
 a. 整齐的, 有条理的
 vt. 弄整齐, 收拾, 整理
 vi. 整理, 收拾"
-clean,"a. 干净的, 清白的, 简洁的
-adv. 清洁地, 完全地
-vt. 清理, 使干净, 出空
-vi. 被搞干净
-n. 打扫"
+clean,"adj. 洁净的；干净的；爱干净的；爱整洁的
+v. 除去…的灰尘；使…干净；打扫；变干净
+n. 打扫；清扫
+adv. 完全地
+[网络] 清洁；清洁的；清除"
 living room,"客厅, 起居室"
 room,"n. 房间, 空位, 场所
 vi. 住宿, 居住
 vt. 留宿"
-door,n. 门
+door,"n. 门；家，户；门口；通道
+n. (Door)人名；(英)多尔"
 welcome,"n. 欢迎, 欢迎词
 a. 受欢迎的, 可随意的, 可喜的
 vt. 欢迎, 接待
@@ -150,21 +173,22 @@ vt. 钓, 钓鱼, 查出, 用接合板连接
 vi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找"
 fishing,"n. 钓鱼, 鱼业
 a. 钓鱼的"
-Mrs,n. 先生
+Mrs,"na. 夫人
+[网络] 太太；女士；某太太"
 make,"vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行
 vi. 开始, 前进, 增大, 被制造, 被处理
 n. 制造, 构造, 性情"
 making,comb.form [英国英语][构成形容词]表示“造成…的”，“酿成…的”: happy-making
-dinner,[网络] 正餐
-drink,"n. 饮料, 酒
-v. 喝, 喝酒"
+dinner,"n. 晚餐, 正餐, 宴会"
+drink,"v. 喝；喝酒；饮；（尤指）酗酒
+n. 饮料；酒；一口（饮料）；酒精饮料
+[网络] 饮料-蒂克；墨尔本的酒；饮料词典"
 drinking,"n. 喝, 喝酒"
 study,"n. 学习, 研究, 学科, 论文, 求学, 书房, 试作
 vt. 学习, 读书, 研究, 考虑, 计划
 vi. 学习, 思索"
 studying,v. 学习；研究（study的ing形式）
-eat,"v. 吃；吃饭；用餐
-[网络] 食；喝；进食"
+eat,[网络] 艺术与科技实验中心；东莞中逸电子有限公司；永春站
 eating,"n. 吃；饮食
 adj. 食用的；可生吃的；腐蚀的
 v. “eat”的现在分词
@@ -177,40 +201,55 @@ painting,"n. 画, 绘画, 油漆
 school,"n. 学校, 鱼群, 门派, 学派
 vt. 教育, 训练, 培养
 vi. 成群地游"
-subject,[网络] 主体；对象；主题
+subject,"n. 科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由
+a. 服从的, 易患...的, 隶属的, 受支配的
+adv. 在...条件下
+vt. 使隶属, 使受到
+[计] 主题, 主体"
 have,"vt. 有, 怀有, 拿, 进行
 aux. 已经"
-math,n. 数学
-English,[网络] 英语
+math,abbr. mathematical；mathematician；mathematics
+English,"adj. 英文的；英国的；英国人的
+n. 英语；英文；英国人；英格兰人
+vt. 把…译成英语"
 Chinese,"n. 中文, 中国话, 中国人
 a. 中国的, 中国话的"
 P.E.,"n. 体育（课）（全写为 physical education）
 [网络] 聚乙烯(Polyethylene)；私募股权投资(Private Equity)；市盈率"
-class,[计] Java类文件
+class,"n. 阶级；班级；种类
+vt. 分类；把…分等级
+adj. 极好的
+n. (Class)人名；(英、德)克拉斯"
 their,pron. 他们的
-teacher,"n. 教师, 老师, 导师"
+teacher,"n. 教师；导师
+n. (Teacher)人名；(英)蒂彻"
 music,"n. 音乐, 乐曲"
-art,"n. 艺术；技术；技巧；表演艺术
-v. 对一人讲话时用
-[网络] 艺术(Artistic)；美术；辅助生殖技术(assisted reproductive technology)"
+art,[计] Xara Studio绘画文件；Canon Crayola美术文件；Clip Art文件格式；另一种光线跟踪格式；AOL使用的用Johnson-Grace压缩算法压缩的标记文件
 science,"n. 科学, 学科, 学问, 自然科学
 [医] 科学"
-classroom,室
+classroom,n. 教室
 blackboard,[网络] 黑板；黑板效果；黑板上书写的文字
-office,[网络] 办公室；写字楼
-playground,"体育场,运动场;游戏场"
+office,"n. 办公室, 部, 公职, 职责
+[化] 办公室"
+playground,"na. (学校的)运动场；游乐地；(儿童)游戏场；公园
+[网络] 游乐场"
 library,"n. 图书馆, 藏书, 库
 [计] 库"
 Christmas,[网络] 圣诞；基督的弥撒
-party,"n. 宴会, 党, 政党, 团体, 当事人, 聚会
-v. 举办聚会"
+party,"n. 政党；党派；聚会；宴会
+adj. 党派的；社交的；【纹章】分隔开的
+v. 寻欢作乐；吃喝玩乐
+[网络] 派对；晚会；当事人"
 beautiful,"adj. 美丽的
 出色地
 出色的
 迷人的
 迷人地"
-gift,[网络] 礼物婴儿
+gift,"n. 礼物, 赠予, 天才
+vt. 赋予"
 parents,"n. 父母；双亲（parent的复数）
 v. 教养；引起（parent的三单形式）
 n. (Parents)人名；(法)帕朗"
-some," [医]〔后缀〕意为体, 躯体"
+some,"pron. 一些, 一部分, 若干
+adv. 大约
+a. 一些的, 少许的, 某一的"

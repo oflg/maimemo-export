@@ -2,26 +2,31 @@
 next to,几乎
 between,"prep. 在…之间
 adv. 在中间"
-restaurant,[网络] 餐馆
-post office,"邮局
-[法] 邮局"
-bank,"n. 银行, 堤, 岸
-[医] 库"
+restaurant,"n. 餐馆, 饭店"
+post office,"a. 邮局的, 邮政的"
+bank,"n. 银行；岸；库；河畔
+v. 存款；把（钱）存入银行；（转弯时）倾斜飞行；堆积（某物）
+[网络] 银行存款"
 grocery,"n. 食品杂货店, 食品杂货业"
 turn left,"向左转,向左拐弯"
 turn right,v. 向右转
 go straight,"笔直走, 正直做人
 [法] 改过自新"
-crossroads,"n. 十字街头
-[网络] 十字路口；交叉路口；十字形交叉"
-neighbourhood,[地理] 邻里
-send,[网络] 结束；路程尽头；四十六的下场
+crossroads,"n. 十字路口, 交叉路口, 聚会的中心地点, (喻)需作抉择的重要关头, 紧要关头"
+neighbourhood,"n. 邻接, 周围, 附近一带, 邻近, 邻居关系, 地区, 街道, 街坊, 四邻
+[计] 邻域"
+send,"vt. 发送, 使进入, 寄, 派遣, 发射, 使陷于
+vi. 寄信, 派人, 播送
+n. (船的)上升运动
+[计] 发送"
 get,"vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上
 vi. 到达, 成为, 变得
 n. (网球等)救球, 生殖, 幼兽
 [计] 取得指令, 获取文件"
-money,[网络] 抠抠
-get to,"到达, 接触到, 开始, 对...有影响"
+money,"n. 金钱, 一笔款, 财富, 货币, 金额
+[经] 货币, 金钱, 财产"
+get to,"na. 到达；开始；〈美口〉收买
+[网络] 格托；鬼；隔都"
 before,"prep. 在…之前，先于
 adv. 以前；在前
 conj. 在…以前；在…之前"
@@ -38,11 +43,16 @@ bookshop,"un. 书店
 school,"n. 学校, 鱼群, 门派, 学派
 vt. 教育, 训练, 培养
 vi. 成群地游"
-supermarket,超级市场
-ball,"comb.form [主美国俚语]表示；“令人讨厌或古怪的人”：goofball；“自作聪明的人”,“傻瓜”：butterball"
-city,suf. [与其他词合成构成形容词]表示“…城市”
-street,"n. 街道, 马路, 街区
-a. 街道的"
+supermarket,"n. 超级市场
+[经] 超级市场, 自助售货商店"
+ball,"n. 球；球状物；踢出（或击出、投出）的一球；（投手投出的）坏球
+v. 做成球状；使成团块；和（女性）交媾
+[网络] 球类笔；精度球规；火球"
+city,"n. 城市；都市；（由国王或女王授予特权，通常有大教堂的）特许市
+[网络] 伦敦城市大学；所在城市；居住城市"
+street,"n. 街道
+adj. 街道的
+n. (Street)人名；(英、葡)斯特里特；(德)施特雷特"
 sports centre," 体育运动中心, 运动场"
 hotel,[网络] 旅馆；酒店；昊天
 square,"n. 正方形, 街区, 广场, 平方, 直角尺
@@ -57,7 +67,9 @@ busy,"a. 忙碌的, 热闹的, 没空的
 vt. 使忙
 vi. 忙碌
 [计] 忙; 忙碌"
-station,[网络] 操作站
+station,"n. 车站, 站, 局, 驻地, 位置, 身分, 地位
+vt. 安置, 配置, 驻扎
+[计] 站"
 place,"n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位
 vt. 放置, 寄予, 认出, 评定, 任命
 vi. 名次列前"
@@ -65,14 +77,15 @@ thing,"n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征"
 stay,"n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索
 vt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定
 vi. 停留, 逗留, 暂停, 坚持, 中止"
-star,"n. 星, 恒星, 星形物, 运气, 明星
-vt. 以星状物装饰, 用星号标, 使成为明星
-vi. 变成明星"
+star,"adj. 用星装饰的；戴着星章的；标有星号的；…主演的
+n. 恒星；星状物；星形饰物；星号
+v. 主演；担任主角；使主演；由…担任主角
+[网络] 祈祷星；明星；星球大战"
 king,"n. 国王, 君主
 vt. 使...成为君主
 vi. 君临, 统治"
-central,"adj. 中心的；主要的；中枢的
-n. 电话总机"
+central,"a. 中央的, 重要的
+[医] 中央的, 中心的, 中枢的"
 take photos, 照像，拍照
 museum,"n. 博物馆
 [网络] 展览馆；博物院；美术馆"
@@ -83,11 +96,13 @@ adj. 梦的；理想的；不切实际的"
 sea,"n. 海；海洋；大量；海面情况
 abbr. (=Southeast Asia)东南亚
 [网络] 大海；战略环境评价(Strategic Environmental Assessment)；统计能量分析(Statistical Energy Analysis)"
-ski,[网络] -滑雪
+ski,"n. 滑雪橇
+vi. 滑雪
+adj. 滑雪（用）的"
 eat seafood,无
 visit the Mogao Caves,无
-West Lake,莲花
-row a boat, 摇船
+West Lake,n. 韦斯特莱克（姓氏）；西湖
+row a boat,[网络] 划艇
 the Great Wall, 长城; 万里长城
 take photos, 照像，拍照
 summer vacation,暑假
@@ -96,7 +111,7 @@ vi. 旅行, 行进, 移动, 被传播
 vt. 旅行, 通过, 使移动"
 reading,"n. 阅读, 知识, 读物
 a. 阅读的"
-skateboarding,滑板运动
+skateboarding,n. 滑板运动
 singing,"n. 歌唱, 歌声
 [计] 振鸣; 蜂鸣"
 dancing,"n. 舞蹈
@@ -104,35 +119,41 @@ dancing,"n. 舞蹈
 doing jigsaw puzzles,无
 making models,无
 collecting erasers,无
-different,adj. 不同的；个别的，与众不同的
+different,"a. 不同的
+[机] 差动, 微分的, 差速器"
 hobby,"n. 嗜好, 癖好, 爱好"
 stamp,"n. 印, 邮票, 打印器, 戳子, 图章, 印花税票, 标志, 特征, 类型, 跺脚
 vt. 盖章于, 顿足, 贴上邮票, 铭刻, 捣碎, 扑灭
 vi. 捣碎, 跺脚"
-catch,"n. 捕捉, 陷阱, 捕捉之物, 抓, 拉手
-vt. 捕捉, 赶上, 感染, 听清楚
-vi. 抓住, 燃着"
+catch,"v. 抓住；捕捉；捕获；接住
+n. 接（球等）；总捕获量；扣拴物；扣件
+adj. 有趣味的；设有圈套的
+[网络] 赶上；捉住"
 go for a picnic,[网络] 去野餐；去野炊；出去野炊
 play the violin,叹苦经想得到人们的同情
 go skating,去滑冰
 go camping,去野营
 do the housework,[网络] 做家务；做家务活；料理家务
-free,comb. 无…的；免除…的
-never,adv. 从未；决不
-once a week,每星期一次
-twice a week, [医]每周二次
+free,"adv. 免费；脱离束缚
+v. 释放；使摆脱；解除（或去除、清除）；使可用（于某目的）
+adj. 能随自己意愿的；随心所欲的；不受限制的；不受约束的
+[网络] 自由的；空闲的；内存清理实"
+never,"adv. 从不, 决不, 不曾
+[法] 永不, 决不, 从来没有"
+once a week,[网络] 一周一次；每周一次；一星期一次
+twice a week,[网络] 一周两次；每周两次；一星期两次
 three times a week,[网络] 一周三次；每周三次；一星期三次
 Canada,n. 加拿大
 Australia,"n. 澳洲, 澳大利亚"
-the UK,n. 英国
-the USA,[网络] 美国；悠游美国
+the UK,[网络] 英国；英国系列；英国青少年的时尚
+the USA,[网络] 美国；美利坚合众国；现在我们有美国的大哥
 China,"n. 中国, 瓷器
 a. 中国的"
 koala,n. 袋熊
 maple leaves,枫树叶子
 Big Ben,"n. 英国伦敦议会大厦顶的大钟, 美国得州西南部的国立大本德公园(Big Bend National Park)"
 Disneyland,n. 迪斯尼乐园
-campfire,n. 营火
+campfire,"n. 营火, 营火会"
 cute,"a. 可爱的, 聪明的, 伶俐的
 [医] 品他病"
 country,"n. 国家, 乡村, 地区, 故乡

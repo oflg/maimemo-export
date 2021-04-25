@@ -10,10 +10,12 @@ talk to, 同（某人）谈话; 责骂
 talk to, 同（某人）谈话; 责骂
 brochure,"n. 小册子, 小册"
 brochure,"n. 小册子, 小册"
-agent,[网络] 代理；智能体；软件代理
-agent,[网络] 代理；智能体；软件代理
-soon,[网络] 如些这般；就上吧；叫阵
-soon,[网络] 如些这般；就上吧；叫阵
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
+soon,"adv. 不久, 早, 快, 宁可"
+soon,"adv. 不久, 早, 快, 宁可"
 at the end of,"在…末尾,在…结束时"
 at the end of,"在…末尾,在…结束时"
 at the end of August,无
@@ -40,28 +42,38 @@ stone,"n. 石；结石；宝石；岩石
 v. 向…投石头；以石掷向；去除(水果的)硬核
 adj. 石制的
 adv. 石一般的
-[网络] 四通；石块；石材"
+[网络] 巨石阵；石头动作；水晶手链"
 stone,"n. 石；结石；宝石；岩石
 v. 向…投石头；以石掷向；去除(水果的)硬核
 adj. 石制的
 adv. 石一般的
-[网络] 四通；石块；石材"
-mountain,"n. 山, 山脉, 大堆"
-mountain,"n. 山, 山脉, 大堆"
+[网络] 巨石阵；石头动作；水晶手链"
+mountain,"n. 山；高山；山脉；山岭
+[网络] 大山；山牌；山岳"
+mountain,"n. 山；高山；山脉；山岭
+[网络] 大山；山牌；山岳"
 ancient,"a. 古代的, 古老的, 年老的, 旧的"
 ancient,"a. 古代的, 古老的, 年老的, 旧的"
-history,[网络] 她的故事在男性主宰历史；祂的故事；历史文本上
-history,[网络] 她的故事在男性主宰历史；祂的故事；历史文本上
+history,"n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录
+[计] 历史记录"
+history,"n. 历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录
+[计] 历史记录"
 interest,"n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力
 vt. 使感兴趣, 与...有关系"
 interest,"n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力
 vt. 使感兴趣, 与...有关系"
-holiday,[网络] 圣日；神圣的一天
-holiday,[网络] 圣日；神圣的一天
-wonderful,adj. 奇妙的；极好的
-wonderful,adj. 奇妙的；极好的
-another,n. 待定人选
-another,n. 待定人选
+holiday,"n. 假日, 假期, 节日
+vi. 度假"
+holiday,"n. 假日, 假期, 节日
+vi. 度假"
+wonderful,"a. 令人惊奇的, 奇妙的, 极好的"
+wonderful,"a. 令人惊奇的, 奇妙的, 极好的"
+another,"adj. 又一，另一；另外的；不同的
+pron. 另一个；又一个
+prep. 另一个；另一个人"
+another,"adj. 又一，另一；另外的；不同的
+pron. 另一个；又一个
+prep. 另一个；另一个人"
 officer,"n. 军官, 主管, 官员, 公务员
 vt. 指挥"
 officer,"n. 军官, 主管, 官员, 公务员
@@ -100,14 +112,180 @@ prefer,"vt. 宁可, 较喜欢, 提出
 [法] 给予优先权, 优先偿还, 提出"
 prefer,"vt. 宁可, 较喜欢, 提出
 [法] 给予优先权, 优先偿还, 提出"
-care,"n. 关怀；照料；谨慎；忧虑
-vi. 照顾；关心；喜爱；顾虑
-vt. 在意；希望或喜欢
-n. (Care)人名；(英)凯尔；(塞)察蕾"
-care,"n. 关怀；照料；谨慎；忧虑
-vi. 照顾；关心；喜爱；顾虑
-vt. 在意；希望或喜欢
-n. (Care)人名；(英)凯尔；(塞)察蕾"
+care,"CARE
+abbr.
+Cooperative for American Relief Everywhere 美国援外合作署,美国赈济合作社(由各教派、工会等团体组成的救济组织)[亦作 Care]
+care
+[kεə]
+n.
+烦恼，忧虑；操心
+引起烦恼、忧虑的缘故；操心的事
+当心，小心，注意；谨慎
+关心，关怀，关切；爱护
+照顾，照管；看护，监护
+负责照管的事情；负责，责任
+vi.
+关心，关怀；担心；操心：
+He cared only about his own family.
+他只关心自己的家庭。
+介意；计较；反对：
+Do you care if I open the window?
+我打开窗户您介意吗?
+喜爱，喜欢；对…中意(常与 for 连用)：
+She does not care very greatly for art.
+她对艺术不十分感兴趣。
+He didn't care for anything about Europe.
+他一点也不喜欢欧洲。
+照顾，照料，照看；赡养(常与 for 连用):
+Who is to care for me when I'm old?
+我年老时谁来照顾我呢?
+希望；想要；想做(常与 for 连用)：
+Do you care for more cake?
+您还要点蛋糕吗?
+vt.
+对…介意，计较；对…关心：
+I don't care what they say.I shall go on just the same.
+我不管他们说什么，我将照样干下去。
+想要；希望；欲望[后接不定式，常用于否定、疑问及条件句中]：
+Would you care to come?
+你愿意来吗?
+Anyone who cares to come will be welcome.
+凡是愿意来的人一律欢迎。
+近义词:
+concern
+. solicitude
+. worry
+. anxiety
+反义词:
+unconcern
+. indifference
+短语:
+beyond (或 past) caring
+不关心；不管，不理会
+could care less
+[短语 couldn't care less的讹用][口语]一点也不在乎；毫不关心，根本不放在心上
+drown care
+(以酒等)消愁解闷
+for all (或 what) I care
+[口语]与我无关，关我什么事
+give care (to)
+留意，注意；当心
+have a care
+谨慎，小心；当心，注意[亦作 take care]
+have the care of
+照料
+I don't care if I do.
+[口语]好吧，我没意见。[接受对方邀请喝酒时的答语]
+leave… to the care of someone
+把…托付给某人照料(或保护)
+place… under the care of someone
+把…置于某人保护(或照管)之下
+take care
+提防，注意，当心[用作命令式]
+[口语]保重；再见
+take care of
+[美国英语]
+负责；照顾；关怀
+赡养，为…提供生计
+应付，处理；满足…的需要
+[委婉语]逮捕
+take into care
+送(无人管教的孩子等)进孤儿院(或教养院等)
+under the care of
+在…的照管下；由…管理
+Who cares?
+[口语]管它呢!(表示无所谓、撒手不管)
+变形：
+vi.
+cared
+. caring"
+care,"CARE
+abbr.
+Cooperative for American Relief Everywhere 美国援外合作署,美国赈济合作社(由各教派、工会等团体组成的救济组织)[亦作 Care]
+care
+[kεə]
+n.
+烦恼，忧虑；操心
+引起烦恼、忧虑的缘故；操心的事
+当心，小心，注意；谨慎
+关心，关怀，关切；爱护
+照顾，照管；看护，监护
+负责照管的事情；负责，责任
+vi.
+关心，关怀；担心；操心：
+He cared only about his own family.
+他只关心自己的家庭。
+介意；计较；反对：
+Do you care if I open the window?
+我打开窗户您介意吗?
+喜爱，喜欢；对…中意(常与 for 连用)：
+She does not care very greatly for art.
+她对艺术不十分感兴趣。
+He didn't care for anything about Europe.
+他一点也不喜欢欧洲。
+照顾，照料，照看；赡养(常与 for 连用):
+Who is to care for me when I'm old?
+我年老时谁来照顾我呢?
+希望；想要；想做(常与 for 连用)：
+Do you care for more cake?
+您还要点蛋糕吗?
+vt.
+对…介意，计较；对…关心：
+I don't care what they say.I shall go on just the same.
+我不管他们说什么，我将照样干下去。
+想要；希望；欲望[后接不定式，常用于否定、疑问及条件句中]：
+Would you care to come?
+你愿意来吗?
+Anyone who cares to come will be welcome.
+凡是愿意来的人一律欢迎。
+近义词:
+concern
+. solicitude
+. worry
+. anxiety
+反义词:
+unconcern
+. indifference
+短语:
+beyond (或 past) caring
+不关心；不管，不理会
+could care less
+[短语 couldn't care less的讹用][口语]一点也不在乎；毫不关心，根本不放在心上
+drown care
+(以酒等)消愁解闷
+for all (或 what) I care
+[口语]与我无关，关我什么事
+give care (to)
+留意，注意；当心
+have a care
+谨慎，小心；当心，注意[亦作 take care]
+have the care of
+照料
+I don't care if I do.
+[口语]好吧，我没意见。[接受对方邀请喝酒时的答语]
+leave… to the care of someone
+把…托付给某人照料(或保护)
+place… under the care of someone
+把…置于某人保护(或照管)之下
+take care
+提防，注意，当心[用作命令式]
+[口语]保重；再见
+take care of
+[美国英语]
+负责；照顾；关怀
+赡养，为…提供生计
+应付，处理；满足…的需要
+[委婉语]逮捕
+take into care
+送(无人管教的孩子等)进孤儿院(或教养院等)
+under the care of
+在…的照管下；由…管理
+Who cares?
+[口语]管它呢!(表示无所谓、撒手不管)
+变形：
+vi.
+cared
+. caring"
 take care of,"照顾
 [法] 抚养, 赡养, 扶养"
 take care of,"照顾
@@ -128,18 +306,20 @@ basket,"n. 篮, 篮子
 vt. 装入篮"
 basket,"n. 篮, 篮子
 vt. 装入篮"
-blanket,[网络] 毛毯
-blanket,[网络] 毛毯
+blanket,"n. 毛毯, 毯子
+vt. 掩盖, 覆盖
+a. 总共的"
+blanket,"n. 毛毯, 毯子
+vt. 掩盖, 覆盖
+a. 总共的"
 unkind,"a. 不仁慈的, 不亲切的"
 unkind,"a. 不仁慈的, 不亲切的"
-clinic,n. 临床；诊所
-clinic,n. 临床；诊所
-vet,"n. 兽医
-vi. 当兽医
-vt. 诊断, 检审"
-vet,"n. 兽医
-vi. 当兽医
-vt. 诊断, 检审"
+clinic,"n. 诊所, 临床教学
+[医] 诊所(门诊部); 临床(讲解); 临床(学)科"
+clinic,"n. 诊所, 临床教学
+[医] 诊所(门诊部); 临床(讲解); 临床(学)科"
+vet,abbr. veterinary 兽医的; veteran 退伍军人
+vet,abbr. veterinary 兽医的; veteran 退伍军人
 cave,"n. 洞, 穴
 vi. 凹陷, 塌落
 vt. 挖洞, 使凹陷, 损坏...的基础"
@@ -178,12 +358,12 @@ n. (Missing)人名；(德)米辛"
 missing,"adj. 失踪的；缺少的
 v. 错过（miss的ing形式）；想念；漏掉
 n. (Missing)人名；(德)米辛"
-hunt,"n. 狩猎, 追捕, 搜寻, 猎区
-vt. 狩猎, 打猎, 搜索
-vi. 打猎, 猎食, 搜寻"
-hunt,"n. 狩猎, 追捕, 搜寻, 猎区
-vt. 狩猎, 打猎, 搜索
-vi. 打猎, 猎食, 搜寻"
+hunt,"n. 寻找；打猎；搜寻；搜索
+v. 打猎；搜寻；追捕；猎杀
+[网络] 狩猎诱饵鹅；狩猎诱饵鸭；猎人"
+hunt,"n. 寻找；打猎；搜寻；搜索
+v. 打猎；搜寻；追捕；猎杀
+[网络] 狩猎诱饵鹅；狩猎诱饵鸭；猎人"
 foreigner,"n. 外国人, 外地人
 [法] 外国人, 进口货, 外国货"
 foreigner,"n. 外国人, 外地人
@@ -196,8 +376,10 @@ vi. 举例"
 example,"n. 例子；榜样
 vt. 作为…的例子；为…做出榜样
 vi. 举例"
-for example,例如
-for example,例如
+for example,"na. 例如
+[网络] 举例；比如；譬如"
+for example,"na. 例如
+[网络] 举例；比如；譬如"
 Canada,n. 加拿大
 Canada,n. 加拿大
 Canadian,a. 加拿大的
@@ -214,29 +396,37 @@ Indian,"n. 印度人, 印第安人, 印第安语
 a. 印度的, 印度群岛的, 印第安语的"
 Indian,"n. 印度人, 印第安人, 印第安语
 a. 印度的, 印度群岛的, 印第安语的"
-Britain,n. 英国
-Britain,n. 英国
+Britain,"n. 不列颠（包括英格兰、苏格兰及威尔士）
+[网络] 英国；大不列颠；不列颠岛"
+Britain,"n. 不列颠（包括英格兰、苏格兰及威尔士）
+[网络] 英国；大不列颠；不列颠岛"
 British,"a. 英国的
 n. 英国人, 英国英语"
 Briton,"n. 大不列颠人, 英国人"
-Japanese,"n. 日本人, 日语
-a. 日本的, 日语的"
-Japanese,"n. 日本人, 日语
-a. 日本的, 日语的"
-penfriend,n. 笔友
-penfriend,n. 笔友
+Japanese,"adj. 日本（人）的；日语的
+n. 日本人；日语"
+Japanese,"adj. 日本（人）的；日语的
+n. 日本人；日语"
+penfriend,"n. 通信朋友, 笔友"
+penfriend,"n. 通信朋友, 笔友"
 magazine,"n. 杂志, 仓库, 弹盒, 胶卷盒
 [计] 卡片箱, 介质装卸程序"
 magazine,"n. 杂志, 仓库, 弹盒, 胶卷盒
 [计] 卡片箱, 介质装卸程序"
-sex,[网络] 性别
-sex,[网络] 性别
+sex,"n. 性别, 性欲
+vt. 区别...的性别, 引起...的性欲"
+sex,"n. 性别, 性欲
+vt. 区别...的性别, 引起...的性欲"
 nationality,"n. 国籍, 国家, 民族性
 [法] 国家, 民族, 国民"
 nationality,"n. 国籍, 国家, 民族性
 [法] 国家, 民族, 国民"
-international,[网络] 国际；交往；国际化
-international,[网络] 国际；交往；国际化
+international,"a. 国际的
+n. 国别设定
+[计] 国别设定"
+international,"a. 国际的
+n. 国别设定
+[计] 国别设定"
 yourself,[网络] 过你的自性；你自己
 British,"a. 英国的
 n. 英国人, 英国英语"
@@ -263,10 +453,20 @@ construction,"n. 建筑, 构造, 建筑物
 [化] 施工"
 construction,"n. 建筑, 构造, 建筑物
 [化] 施工"
-company,[网络] 同伴；公司；公司化
-company,[网络] 同伴；公司；公司化
-type," 表示：“典型”,“范例”,“样板”,“类型”：prototype; “版”,“铅字”,“印刷”：ferrotype"
-type," 表示：“典型”,“范例”,“样板”,“类型”：prototype; “版”,“铅字”,“印刷”：ferrotype"
+company,"n. 公司, 友伴, 交往, 连队, 朋友, 一群
+vt. 陪伴
+vi. 交往"
+company,"n. 公司, 友伴, 交往, 连队, 朋友, 一群
+vt. 陪伴
+vi. 交往"
+type,"n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
+type,"n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式
+vi. 打字
+vt. 作为代表, 测定类型, 用打字机打
+[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容"
 removal,"n. 移动, 移居, 迁移, 排除, 切除
 [医] 切除, 除去"
 removal,"n. 移动, 移居, 迁移, 排除, 切除
@@ -291,8 +491,12 @@ parcel,"n. 包裹, 部分, 片
 vt. 分配, 打包
 a. 部分的
 adv. 局部地"
-neighbour,[数] 邻近的
-neighbour,[数] 邻近的
+neighbour,"n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人
+a. 邻接的, 邻近的
+vi.vt. 邻近, 与...结邻, 邻接"
+neighbour,"n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人
+a. 邻接的, 邻近的
+vi.vt. 邻近, 与...结邻, 邻接"
 meeting,"n. 会议, 会面
 [法] 会议, 会谈, 集会"
 meeting,"n. 会议, 会面
@@ -301,10 +505,12 @@ manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
 manager,"n. 经理, 管理员, 管理器
 [计] 管理器"
-take notes,作笔记
-take notes,作笔记
-accident,[网络] 意外事故；意外
-accident,[网络] 意外事故；意外
+take notes,记笔记；作笔记
+take notes,记笔记；作笔记
+accident,"n. 意外事件, 机遇, 事故, 次要方面
+[化] 意外事故; 事故"
+accident,"n. 意外事件, 机遇, 事故, 次要方面
+[化] 意外事故; 事故"
 towards,prep. 向；朝着；面对；朝…方向；向着…的目标；为了…的目的；有助于；关于；对…
 towards,prep. 向；朝着；面对；朝…方向；向着…的目标；为了…的目的；有助于；关于；对…
 knock down,"na. 打倒；拆除；拆卸；(拍卖时)敲槌卖出
@@ -313,24 +519,30 @@ knock down,"na. 打倒；拆除；拆卸；(拍卖时)敲槌卖出
 [网络] 撞倒；击倒；击落"
 catch fire, 着火着火; 失火; 发火; 走水
 catch fire, 着火着火; 失火; 发火; 走水
-both ... and ..., 两个都; 既…又…
-both ... and ..., 两个都; 既…又…
+both ... and ...,两个都；既...又...
+both ... and ...,两个都；既...又...
 motorcyclist, [医]摩托车驾驶员
 motorcyclist, [医]摩托车驾驶员
 hurt,"n. 伤害, 创伤, 损害
 v. 伤害, (使)伤心, 危害, 刺痛"
 hurt,"n. 伤害, 创伤, 损害
 v. 伤害, (使)伤心, 危害, 刺痛"
-run away,"潜逃
-[化] 失控"
-run away,"潜逃
-[化] 失控"
+run away,"n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜
+a. 逃亡的, 逃走的"
+run away,"n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜
+a. 逃亡的, 逃走的"
 broken,"a. 坏掉的, 打破的, 断掉的
 break的过去分词"
 broken,"a. 坏掉的, 打破的, 断掉的
 break的过去分词"
-arm,[网络] 反辐射导弹
-arm,[网络] 反辐射导弹
+arm,"n. 手臂, 袖子, 狭长港湾, 武器
+vt. 武装, 装备
+vi. 武装起来
+[计] ARM 处理器；异步应答方式; 自动货品销路管理"
+arm,"n. 手臂, 袖子, 狭长港湾, 武器
+vt. 武装, 装备
+vi. 武装起来
+[计] ARM 处理器；异步应答方式; 自动货品销路管理"
 engine,"n. 引擎, 发动机, 机车
 vt. 安装发动机于"
 engine,"n. 引擎, 发动机, 机车
@@ -369,8 +581,10 @@ tidy,"n. 椅子的背罩, 装杂物的容器
 a. 整齐的, 有条理的
 vt. 弄整齐, 收拾, 整理
 vi. 整理, 收拾"
-tidy up,整理
-tidy up,整理
+tidy up,"v. 整理干净
+[网络] 相当小范围的整理；使客房洁净"
+tidy up,"v. 整理干净
+[网络] 相当小范围的整理；使客房洁净"
 wardrobe,"n. 衣橱, 衣室, 全部衣服"
 wardrobe,"n. 衣橱, 衣室, 全部衣服"
 living room,"客厅, 起居室"
@@ -389,8 +603,10 @@ agency,"n. 代理机构, 经销商, 中介
 [化] 办事处"
 agency,"n. 代理机构, 经销商, 中介
 [化] 办事处"
-matter,[网络] 解决问题
-matter,[网络] 解决问题
+matter,"n. 事件, 物质, 原因, 素材, 实体, 重要
+vi. 有关系"
+matter,"n. 事件, 物质, 原因, 素材, 实体, 重要
+vi. 有关系"
 suburb,"n. 市郊住宅区, 郊区, 边缘"
 suburb,"n. 市郊住宅区, 郊区, 边缘"
 helper,"n. 帮忙者, 有益的东西
@@ -401,28 +617,30 @@ sofa,n. 沙发
 sofa,n. 沙发
 next to,几乎
 next to,几乎
-set,"v. 设置；放；树立；安排
-n. 集；集合；一套；电视机
-adj. 位于（或处于）…的；安排好的；确定的；固定的
-abbr. (=safe electronic transaction)安全电子交易
-[网络] 套装；设定(Settings)；组"
-set,"v. 设置；放；树立；安排
-n. 集；集合；一套；电视机
-adj. 位于（或处于）…的；安排好的；确定的；固定的
-abbr. (=safe electronic transaction)安全电子交易
-[网络] 套装；设定(Settings)；组"
+set,"n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
+set,"n. 日落, 同伙, 组合, 集合, 装置
+vt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整
+vi. 日落, 凝固, 定型, 搁住, 结果, 适合
+a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的
+[计] 设置; DOS内部命令:改变或显示分配给环境变量的值"
 opposite,"a. 相对的, 相反的, 对面的
 prep. 对面
 n. 对立面"
 opposite,"a. 相对的, 相反的, 对面的
 prep. 对面
 n. 对立面"
-rug,"n. 小块地毯, 揭露某人"
-rug,"n. 小块地毯, 揭露某人"
-cupboard,碗厨
-cupboard,碗厨
-armchair,扶手椅
-armchair,扶手椅
+rug,"n. 小地毯；毛皮地毯；男子假发
+n. (Rug)人名；(塞)鲁格"
+rug,"n. 小地毯；毛皮地毯；男子假发
+n. (Rug)人名；(塞)鲁格"
+cupboard,"n. 食橱, 碗柜, 餐具柜"
+cupboard,"n. 食橱, 碗柜, 餐具柜"
+armchair,n. 扶手椅
+armchair,n. 扶手椅
 sunshine,[网络] 阳光；阳光照射；阳光灿
 sunshine,[网络] 阳光；阳光照射；阳光灿
 peaceful,"a. 平静的, 和平的, 和平时期的, 爱好和平的, 喜爱安静的
@@ -433,8 +651,10 @@ convenient,"a. 方便的, 合宜的
 [法] 适当的, 合理而可行的, 方便的"
 convenient,"a. 方便的, 合宜的
 [法] 适当的, 合理而可行的, 方便的"
-neighbourhood,[地理] 邻里
-neighbourhood,[地理] 邻里
+neighbourhood,"n. 邻接, 周围, 附近一带, 邻近, 邻居关系, 地区, 街道, 街坊, 四邻
+[计] 邻域"
+neighbourhood,"n. 邻接, 周围, 附近一带, 邻近, 邻居关系, 地区, 街道, 街坊, 四邻
+[计] 邻域"
 bottom,"n. 底部；末端；臀部；尽头
 adj. 底部的
 vt. 装底；测量深浅；查明真相
@@ -495,16 +715,20 @@ storybook,"na. 故事书
 [网络] 故事书籍；英语童话书；分级阅读故事书"
 storybook,"na. 故事书
 [网络] 故事书籍；英语童话书；分级阅读故事书"
-glove,[网络] 棒球之爱
-glove,[网络] 棒球之爱
+glove,"n. 手套
+vt. 给...戴手套"
+glove,"n. 手套
+vt. 给...戴手套"
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
 vt. 使高涨, 拉起"
 hike,"n. 徒步旅行, 远足, 涨价, 提高
 vi. 步行, 徒步旅行, 上升
 vt. 使高涨, 拉起"
-direction,n. 方向；指导；趋势；用法说明
-direction,n. 方向；指导；趋势；用法说明
+direction,"n. 方向, 指导, 趋势
+[计] 方向; 流向"
+direction,"n. 方向, 指导, 趋势
+[计] 方向; 流向"
 warning,"n. 警告, 预告, 预兆, 通知
 [法] 警告, 警戒, 预告; 警告的, 注意的"
 warning,"n. 警告, 预告, 预兆, 通知
@@ -513,8 +737,12 @@ instruction,"n. 指令, 教导, 命令
 [计] 指令"
 instruction,"n. 指令, 教导, 命令
 [计] 指令"
-silence,[网络] 汪苏泷
-silence,[网络] 汪苏泷
+silence,"n. 沉默, 无声, 静寂, 湮没, 无声息
+vt. 使缄默
+interj. 安静"
+silence,"n. 沉默, 无声, 静寂, 湮没, 无声息
+vt. 使缄默
+interj. 安静"
 useful,"a. 有用的, 有益的
 [机] 有用的, 有效的"
 useful,"a. 有用的, 有益的
@@ -523,34 +751,46 @@ camp,[=cyclic adenosine monophosphate]环磷酸腺苷
 camp,[=cyclic adenosine monophosphate]环磷酸腺苷
 go camping,去野营
 go camping,去野营
-player,P层（花冈岩质层）
-player,P层（花冈岩质层）
+player,"n. 竞赛者, 上场队员, 游戏者, 演员
+[经] 交易者"
+player,"n. 竞赛者, 上场队员, 游戏者, 演员
+[经] 交易者"
 dice,"n. 骰子
 vt. 切成方块
 vi. 掷骰子"
 dice,"n. 骰子
 vt. 切成方块
 vi. 掷骰子"
-roll,"n. 卷, 滚动, 名单, 案卷, 压路机
-vi. 滚, 滚动, 飘流, 起伏, 卷, 绕
-vt. 使滚动, 卷, 绕"
-roll,"n. 卷, 滚动, 名单, 案卷, 压路机
-vi. 滚, 滚动, 飘流, 起伏, 卷, 绕
-vt. 使滚动, 卷, 绕"
+roll,"vt. 卷；滚动，转动；辗
+vi. 卷；滚动；转动；起伏，摇晃
+n. 卷，卷形物；名单；摇晃
+n. (Roll)人名；(英、法、德、俄、罗、葡、捷、挪、西、瑞典)罗尔"
+roll,"vt. 卷；滚动，转动；辗
+vi. 卷；滚动；转动；起伏，摇晃
+n. 卷，卷形物；名单；摇晃
+n. (Roll)人名；(英、法、德、俄、罗、葡、捷、挪、西、瑞典)罗尔"
 take turns,"轮流, 依次"
 take turns,"轮流, 依次"
-land,表示：u201c某种质量的土地u201d：grassland; u201c特定的地方或境界u201d：fairyland
-land,表示：u201c某种质量的土地u201d：grassland; u201c特定的地方或境界u201d：fairyland
+land,"n. 陆地, 地面, 地界, 地产, 国土, 土地
+vi. 登陆, 登岸, 到达
+vt. 使上岸, 使登陆, 使到达
+[计] 连接盘; 焊盘"
+land,"n. 陆地, 地面, 地界, 地产, 国土, 土地
+vi. 登陆, 登岸, 到达
+vt. 使上岸, 使登陆, 使到达
+[计] 连接盘; 焊盘"
 miss,"n. 失误, 避免, 失败, 小姐
 vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
 vi. 失败, 击不中"
 miss,"n. 失误, 避免, 失败, 小姐
 vt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念
 vi. 失败, 击不中"
-luck,"n. 运气, 幸运, 好运, 侥幸
-vi. 靠好运成功"
-luck,"n. 运气, 幸运, 好运, 侥幸
-vi. 靠好运成功"
+luck,"n. 运气；幸运；好运；侥幸
+v. 侥幸成功
+[网络] 时来运转吊坠；单肩背包"
+luck,"n. 运气；幸运；好运；侥幸
+v. 侥幸成功
+[网络] 时来运转吊坠；单肩背包"
 neither,"adv. 皆不, 两个都不
 a. (两者)都不的
 pron. 两者都不
@@ -565,8 +805,244 @@ cartoon,"n. 卡通画, 漫画
 v. 画漫画"
 cartoon,"n. 卡通画, 漫画
 v. 画漫画"
-war,abbr. 承担一切风险的保险（with all risks）
-war,abbr. 承担一切风险的保险（with all risks）
+war,"war1
+[wɔ:]
+n.
+战争；战争时期
+斗争；对抗；竞争
+军事学，兵法；战术；军事职业
+国防部
+【牌戏】比大小；对峙
+[古语]作战部队；战役，战斗
+[废语]军备
+vi.
+进行战争；战斗；卷入军事冲突：
+进行斗争；竞争：
+短语:
+a war of words
+争论，论战
+(be) at war (with)
+(同…)处于战争(或交战)状态
+(同…)不和；(同…)进行竞争(或斗争)；(与…)吵架
+brushfire war
+灌木林火式的战争，局部地区(或小规模)的战争
+Buckshot War
+【美国历史】鹿弹战争(1838年美国哈里斯堡城因选举事发生民众暴动，部队使用猎鹿的铅弹镇压)
+carry the war into the enemy's camp (或 country)
+【军事】进军敌国，在敌人的领土内作战，向敌人反击
+反驳，提出反控诉；提出反指责
+declare war on (或 upon)
+(向…)宣战；(向…)发动进攻
+表示反对…
+dirty war
+肮脏的战争(尤指帝国主义侵略战争)
+dogs of war
+战争造成的破坏；战祸
+drift into war
+卷入战争漩涡
+enter into war
+参战，介入战争
+exchange war
+外汇战
+foment(a) war
+煽动战争，挑起战争
+from before the war
+[口语]从战争以前起
+go to war (或 wars)
+[古语]
+当兵，从军
+(从英国)出发到海外作战
+go to war
+开战，打仗，诉诸武力
+上前线作战；(战时)参军
+Great War
+第一次世界大战(1914 —1918)
+have been in the war
+[口语]
+(在打架或意外事故中)受过伤；吃过苦头[亦作 be in the wars]
+在战争中负过伤
+make (或 levy, wage) war against (或 on, upon)
+向…开战(或作战)；设法强行控制[亦作 wage war with]
+Opium War
+【历史】鸦片战争
+paper war (或 warfare)
+笔战，论战
+Phoney War
+假战争(1939年9月至1940年5月间，德法两军各守防线，按兵不动，被称为假战争)
+price war
+价格战，一再降价的商业竞争
+private war
+(个人或家族间的)私斗；未经本国政府同意对别国居民发动的战争
+push-button war
+按钮战争(指按动电钮以发射导弹等武器的现代化战争)
+shooting war
+真枪实弹的战争(与冷战和精神战相对而言)
+sinews of war
+见 sinew
+total war
+总体战(动员所有的武器和资源的战争)
+trade war
+贸易战
+unleash (a) war
+发动战争
+wage war on
+＝make war on
+war in the third dimension
+空中作战
+War is the sport of kings.
+[谚语]战争是帝王的娱乐。
+war of attrition
+消耗战
+war of movement
+机动战，运动战
+war of position
+阵地战
+war of (the) elements
+大自然灾害，暴风雨
+war to the death (或 knife)
+你死我活的斗争，殊死战
+变形：
+vi.
+warred
+. warring
+war2
+[wɑ:]
+adv., adj.
+[苏格兰和英格兰北部方言]=worse
+war3
+[wɑ:]
+vt., vi.
+=ware2
+war4
+[wɑ:]
+n.
+=ware1
+War.
+abbr.
+Warsaw
+Warwickshire
+war.
+abbr.
+warrant"
+war,"war1
+[wɔ:]
+n.
+战争；战争时期
+斗争；对抗；竞争
+军事学，兵法；战术；军事职业
+国防部
+【牌戏】比大小；对峙
+[古语]作战部队；战役，战斗
+[废语]军备
+vi.
+进行战争；战斗；卷入军事冲突：
+进行斗争；竞争：
+短语:
+a war of words
+争论，论战
+(be) at war (with)
+(同…)处于战争(或交战)状态
+(同…)不和；(同…)进行竞争(或斗争)；(与…)吵架
+brushfire war
+灌木林火式的战争，局部地区(或小规模)的战争
+Buckshot War
+【美国历史】鹿弹战争(1838年美国哈里斯堡城因选举事发生民众暴动，部队使用猎鹿的铅弹镇压)
+carry the war into the enemy's camp (或 country)
+【军事】进军敌国，在敌人的领土内作战，向敌人反击
+反驳，提出反控诉；提出反指责
+declare war on (或 upon)
+(向…)宣战；(向…)发动进攻
+表示反对…
+dirty war
+肮脏的战争(尤指帝国主义侵略战争)
+dogs of war
+战争造成的破坏；战祸
+drift into war
+卷入战争漩涡
+enter into war
+参战，介入战争
+exchange war
+外汇战
+foment(a) war
+煽动战争，挑起战争
+from before the war
+[口语]从战争以前起
+go to war (或 wars)
+[古语]
+当兵，从军
+(从英国)出发到海外作战
+go to war
+开战，打仗，诉诸武力
+上前线作战；(战时)参军
+Great War
+第一次世界大战(1914 —1918)
+have been in the war
+[口语]
+(在打架或意外事故中)受过伤；吃过苦头[亦作 be in the wars]
+在战争中负过伤
+make (或 levy, wage) war against (或 on, upon)
+向…开战(或作战)；设法强行控制[亦作 wage war with]
+Opium War
+【历史】鸦片战争
+paper war (或 warfare)
+笔战，论战
+Phoney War
+假战争(1939年9月至1940年5月间，德法两军各守防线，按兵不动，被称为假战争)
+price war
+价格战，一再降价的商业竞争
+private war
+(个人或家族间的)私斗；未经本国政府同意对别国居民发动的战争
+push-button war
+按钮战争(指按动电钮以发射导弹等武器的现代化战争)
+shooting war
+真枪实弹的战争(与冷战和精神战相对而言)
+sinews of war
+见 sinew
+total war
+总体战(动员所有的武器和资源的战争)
+trade war
+贸易战
+unleash (a) war
+发动战争
+wage war on
+＝make war on
+war in the third dimension
+空中作战
+War is the sport of kings.
+[谚语]战争是帝王的娱乐。
+war of attrition
+消耗战
+war of movement
+机动战，运动战
+war of position
+阵地战
+war of (the) elements
+大自然灾害，暴风雨
+war to the death (或 knife)
+你死我活的斗争，殊死战
+变形：
+vi.
+warred
+. warring
+war2
+[wɑ:]
+adv., adj.
+[苏格兰和英格兰北部方言]=worse
+war3
+[wɑ:]
+vt., vi.
+=ware2
+war4
+[wɑ:]
+n.
+=ware1
+War.
+abbr.
+Warsaw
+Warwickshire
+war.
+abbr.
+warrant"
 outing,"n. 郊游, 远足
 a. 远足适用的"
 outing,"n. 郊游, 远足
@@ -583,36 +1059,46 @@ adj. 片状的
 n. (Sheet)人名；(英)希特"
 regularly,"adv. 有规则地, 一丝不苟地, 正式地"
 regularly,"adv. 有规则地, 一丝不苟地, 正式地"
-at least,"至少
-[法] 至少"
-at least,"至少
-[法] 至少"
-last,"a. 最后的, 末尾的, 最近的
-vi. 持续, 支持, 维持
-vt. 使维持, 够...用
-adv. 最后, 后来
-n. 最后, 末尾, 鞋楦头"
-last,"a. 最后的, 末尾的, 最近的
-vi. 持续, 支持, 维持
-vt. 使维持, 够...用
-adv. 最后, 后来
-n. 最后, 末尾, 鞋楦头"
-crisp,"a. 脆的, 新鲜的, 活泼的
-v. (使)烘脆, (使)拳曲, (使)起皱
-n. 松脆物"
-crisp,"a. 脆的, 新鲜的, 活泼的
-v. (使)烘脆, (使)拳曲, (使)起皱
-n. 松脆物"
-bar,[网络] 自动步枪；英美车队；文学士
-bar,[网络] 自动步枪；英美车队；文学士
+at least,"na. 至少
+[网络] 起码；至少多少次；至不济"
+at least,"na. 至少
+[网络] 起码；至少多少次；至不济"
+last,"n. 末尾，最后；上个；鞋楦（做鞋的模型）
+adj. 最后的；最近的，最新的；仅剩的；最不可能…的
+vi. 持续；维持，够用；持久
+vt. 度过，拖过；使维持
+adv. 最后地；上次，最近；最后一点
+n. (Last)人名；(英、德、葡、罗、瑞典)拉斯特"
+last,"n. 末尾，最后；上个；鞋楦（做鞋的模型）
+adj. 最后的；最近的，最新的；仅剩的；最不可能…的
+vi. 持续；维持，够用；持久
+vt. 度过，拖过；使维持
+adv. 最后地；上次，最近；最后一点
+n. (Last)人名；(英、德、葡、罗、瑞典)拉斯特"
+crisp,"adj. 脆的；新鲜的；易碎的
+vt. 使卷曲；使发脆
+vi. 卷曲；发脆
+n. 松脆物；油炸马铃薯片
+n. (Crisp)人名；(英)克里斯普"
+crisp,"adj. 脆的；新鲜的；易碎的
+vt. 使卷曲；使发脆
+vi. 卷曲；发脆
+n. 松脆物；油炸马铃薯片
+n. (Crisp)人名；(英)克里斯普"
+bar,"n. 条, 棒, 酒吧, 栅, 障碍物
+vt. 禁止, 阻挡, 妨碍
+[计] 棒形图"
+bar,"n. 条, 棒, 酒吧, 栅, 障碍物
+vt. 禁止, 阻挡, 妨碍
+[计] 棒形图"
 lemonade,"n. 柠檬水
 [医] 柠檬水"
 lemonade,"n. 柠檬水
 [医] 柠檬水"
 used to,"过去经常(做)..., 过去有规律地发生"
 used to,"过去经常(做)..., 过去有规律地发生"
-not ... any longer,不再
-not ... any longer,不再
+not ... any longer, 不再
+not ... any longer, 不再
 homeless,"a. 无家的, 无养主的"
 homeless,"a. 无家的, 无养主的"
 pie,"n. 馅饼, 财富, 总额, 贪污受贿, 杂乱, 喜鹊
@@ -623,10 +1109,12 @@ raisin,n. 葡萄干
 raisin,n. 葡萄干
 scone,[燕麦]烙饼
 scone,[燕麦]烙饼
-Thai,"n. 泰国人, 泰语"
-Thai,"n. 泰国人, 泰语"
-of course,当然
-of course,当然
+Thai,abbr. Thailand
+Thai,abbr. Thailand
+of course,"na. 当然
+[网络] 当然了；自然；当然可以"
+of course,"na. 当然
+[网络] 当然了；自然；当然可以"
 firstly,"adv. 第一, 首先"
 firstly,"adv. 第一, 首先"
 flour,"n. 面粉, 粉沫, 碎粉
@@ -637,14 +1125,18 @@ self-raising flour,[网络] 自发粉；自发面粉；克自发面粉
 self-raising flour,[网络] 自发粉；自发面粉；克自发面粉
 secondly,"adv. 第二, 其次"
 secondly,"adv. 第二, 其次"
-add,[网络] 度；新增；注意力缺陷症
-add,[网络] 度；新增；注意力缺陷症
-pour,"n. 流出, 倾泻, 骤雨
-vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐
-vi. 倾泻, 蜂涌而来, 下大雨"
-pour,"n. 流出, 倾泻, 骤雨
-vt. 倒, 灌, 注, 倾泻, 诉说, 倾吐
-vi. 倾泻, 蜂涌而来, 下大雨"
+add,"vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
+add,"vt. 增加, 添加, 附带说明, 计算...总和
+vi. 做加法, 积累而成, 增添
+[计] 加法"
+pour,"v. 倒；倾倒；倾泻；使（液体）连续流出
+n. 流出；大雨；【冶】浇注；(已熔金属的)一次浇注量
+[网络] 灌；倾注"
+pour,"v. 倒；倾倒；倾泻；使（液体）连续流出
+n. 流出；大雨；【冶】浇注；(已熔金属的)一次浇注量
+[网络] 灌；倾注"
 millilitre,n. 毫升
 millilitre,n. 毫升
 mixture,"n. 混合, 混淆, 混合物
@@ -655,8 +1147,14 @@ dough,"n. 生面团
 [化] 捏塑体; 生面团"
 dough,"n. 生面团
 [化] 捏塑体; 生面团"
-wide,comb. 表示u201c有关u2026全体的u201d；表示u201c遍及u2026的u201d
-wide,comb. 表示u201c有关u2026全体的u201d；表示u201c遍及u2026的u201d
+wide,"adj. 广泛的；宽的，广阔的；张大的；远离目标的
+adv. 广泛地；广阔地；充分地
+n. 大千世界
+n. (Wide)人名；(瑞典、芬)维德"
+wide,"adj. 广泛的；宽的，广阔的；张大的；远离目标的
+adv. 广泛地；广阔地；充分地
+n. 大千世界
+n. (Wide)人名；(瑞典、芬)维德"
 baking tray,n. 焙烤浅盘
 baking tray,n. 焙烤浅盘
 sprinkle,"vt. 洒, 散置, 撒, 点缀
@@ -685,8 +1183,16 @@ adv. 彻底地, 充分地
 vi. 发出声音, 回响, 测深, 试探, 听起来
 vt. 使发声, 宣告, 听诊, 测...深, 试探
 [计] 声音"
-forward,[网络] 正激式；转寄
-forward,[网络] 正激式；转寄
+forward,"adj. 向前的；早的；迅速的
+adv. 向前地；向将来
+vt. 促进；转寄；运送
+n. 前锋
+n. (Forward)人名；(英)福沃德"
+forward,"adj. 向前的；早的；迅速的
+adv. 向前地；向将来
+vt. 促进；转寄；运送
+n. 前锋
+n. (Forward)人名；(英)福沃德"
 look forward to," 期望, 盼望; 瞩望; 属望; 企"
 look forward to," 期望, 盼望; 瞩望; 属望; 企"
 pity,"n. 遗憾, 同情, 怜悯, 憾事, 可惜
@@ -715,26 +1221,36 @@ icing,"n. 糖衣, 结冰"
 icing,"n. 糖衣, 结冰"
 thirdly,adv. 第三
 thirdly,adv. 第三
-beat,"从事于,做"
-beat,"从事于,做"
+beat,"v. 打；超过；射；走出
+n. 跳动；节拍；抢先；悸动
+adj. 垮掉；完了；累极了；属于“垮掉的一代”的
+[网络] 打败；战胜；我已筋疲力尽"
+beat,"v. 打；超过；射；走出
+n. 跳动；节拍；抢先；悸动
+adj. 垮掉；完了；累极了；属于“垮掉的一代”的
+[网络] 打败；战胜；我已筋疲力尽"
 add ... to ...,"na. 增加
 [网络] 增添；增进；添加"
 add ... to ...,"na. 增加
 [网络] 增添；增进；添加"
-stir,"n. 搅拌；轰动
-vt. 搅拌；激起；惹起
-vi. 搅动；传播；走动"
-stir,"n. 搅拌；轰动
-vt. 搅拌；激起；惹起
-vi. 搅动；传播；走动"
-spring roll,n. （中国的）春卷
-spring roll,n. （中国的）春卷
-soya milk, 豆乳
-soya milk, 豆乳
-battery,"n. 电池, 殴打
-[化] 蓄电池"
-battery,"n. 电池, 殴打
-[化] 蓄电池"
+stir,"n. 骚动, 轰动, 搅动, 监狱
+vt. 移动, 摇动, 激起, 惹起, 搅拌
+vi. 走动, 传播, 搅拌"
+stir,"n. 骚动, 轰动, 搅动, 监狱
+vt. 移动, 摇动, 激起, 惹起, 搅拌
+vi. 走动, 传播, 搅拌"
+spring roll,"na. 〈英〉【烹】(中国的)春卷
+[网络] 炸春卷；豆沙春卷；弹簧辊"
+spring roll,"na. 〈英〉【烹】(中国的)春卷
+[网络] 炸春卷；豆沙春卷；弹簧辊"
+soya milk,"na. “soy milk”的变体
+[网络] 豆浆；豆奶粉；植物奶如大豆奶"
+soya milk,"na. “soy milk”的变体
+[网络] 豆浆；豆奶粉；植物奶如大豆奶"
+battery,"n. 电池；炮组；炮列；【法】殴打
+[网络] 电池灯；直流电源"
+battery,"n. 电池；炮组；炮列；【法】殴打
+[网络] 电池灯；直流电源"
 decorate,v. 装饰
 decorate,v. 装饰
 balloon,"n. 气球
@@ -743,14 +1259,14 @@ vi. 膨胀如气球, 激增"
 balloon,"n. 气球
 vt. 使成气球状
 vi. 膨胀如气球, 激增"
-fork,"n. 叉子, 叉状物, 分岔
-vi. 分支, 分歧
-vt. 做成叉形, 叉起
-[计] 派生指令"
-fork,"n. 叉子, 叉状物, 分岔
-vi. 分支, 分歧
-vt. 做成叉形, 叉起
-[计] 派生指令"
+fork,"n. 叉；餐叉；耙
+vt. 叉起；使成叉状
+vi. 分叉；分歧
+n. (Fork)人名；(英、德)福克"
+fork,"n. 叉；餐叉；耙
+vt. 叉起；使成叉状
+vi. 分叉；分歧
+n. (Fork)人名；(英、德)福克"
 charcoal,"n. 木炭
 [化] 木炭"
 charcoal,"n. 木炭

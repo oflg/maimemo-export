@@ -8,7 +8,9 @@ possession,"n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷
 [经] 占有, 持有"
 universal,"a. 全世界的, 普遍的, 宇宙的, 通用的
 n. 一般概念"
-upset,上端局设备
+upset,"a. 弄翻的, 混乱的, 心烦的
+vt. 弄翻, 颠覆, 推翻, 打乱, 使不适, 使心烦
+vi. 翻倒"
 in possession of,"获得,弄到,佔有,佔领…"
 be in want of,[网络] 缺乏
 heroine,"n. 巾帼英雄, 烈妇, 女主角
@@ -30,7 +32,8 @@ vt. 弄成红色
 n. 脸红"
 go mad,"生气,发火;发疯,发狂"
 intensely,adv. 强烈地; 极度; 剧烈地
-head over heels,"头朝下, 颠倒, 完全地"
+head over heels,"na. 倒栽葱；从头到脚
+[网络] 深深地；痴迷，倾倒；完全地"
 sensible,"a. 有感觉的, 敏感的, 明智的
 [医] 可感觉的"
 superficial,"n. 表面, 外表
@@ -38,7 +41,11 @@ a. 表面的, 肤浅的, 面积的"
 rightly,"adv. 合适地, 正当地, 正确地"
 disclose,"vt. 揭露, 透露
 [法] 揭发, 揭露, 公开"
-trim,[网络] 太安科技；降雨指数
+trim,"n. 整齐, 情形, 修剪
+a. 整齐的
+vt. 使整齐, 整理, 修剪
+vi. 调整, 见风使舵
+[计] 库存管理检查规则程序"
 resentfully,adv. 充满愤恨地
 hypocritical,"a. 伪善的, 伪善者的"
 deign,"vi. 屈尊
@@ -86,7 +93,8 @@ overpower,[网络] 压倒；给…过度功率；过载功率
 emigrate,"v. (使)移居, (使)移民"
 colony,"n. 殖民地, 移民队
 [医] 菌(集)落, 菌丛; 移民区"
-jellyfish,"n. 水母,海蜇,〈口〉软弱无力的人,软蛋,松包"
+jellyfish,"n. 水母, 海蜇, 意志薄弱的人
+[医] 海蛰, 水母"
 deadly,"a. 致命的, 致死的
 adv. 非常, 如死一般地"
 poison,"n. 毒药, 毒, 毒物, 有毒害的事物
@@ -115,7 +123,8 @@ funnel,"n. 漏斗, 漏斗状的东西, 烟囱
 [化] 漏斗"
 spider,"n. 蜘蛛, 设圈套者
 [化] 星形轮"
-transportation,输送，运输，运输工具
+transportation,"n. 运输, 输送, 交通车辆
+[经] 运转, 运输, 运输费"
 hostile,"a. 敌人的, 怀敌意的, 敌对的
 n. 敌对分子"
 breathtaking,[网络] 呼吸；紧张；唿吸
@@ -127,14 +136,18 @@ enslave,"vt. 奴役, 束缚, 使受控制, 征服"
 hobbit,n. （英国作家J R R Tolkien笔下的）
 rolling,"a. 旋转的, 波动的, 起伏的
 n. 旋转, 轰响, 动摇"
-transform,[化] 反式; 反式异构体
+transform,"vt. 使转换, 改变, 改造, 使...变形
+vi. 改变, 转化, 变换
+[计] 变换"
 fiery,"a. 炽热的, 热烈的, 暴躁的"
 sacred,"a. 神圣的, 献给上帝的, 庄严的, 祭祀的
 [法] 神圣的, 不可侵犯的"
 trilogy,"n. 三部剧, 三部曲
 [医] 三联, 三联症"
-release,"vt. 释放；发射；让与；允许发表
-n. 释放；发布；让与"
+release,"n. 释放, 发泄, 豁免, 发行, 释放证书
+vt. 释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与
+n. 发布
+[计] 版本, 发布"
 anthem,"n. 圣歌, 赞美诗"
 embody,"vt. 具体表达, 使具体化
 [经] 合并, 具体化, 具体表现"
@@ -149,7 +162,9 @@ romanticise,"vt. 使浪漫化, 夸张, 使幻想化
 vi. 有浪漫主义思想, 幻想化"
 shearer,"n. 剪切者, 剪羊毛者, 剪刀工人, 剪切机, 剪床
 [化] 剪切机"
-shed,abbr. she had 她已经; she would 她可以
+shed,"n. 车棚, 小屋, 脱落之物, 分水岭
+vt. 使流出, 放射, 脱落, 散发, 摆脱
+vi. 流出, 散布, 脱落"
 squatter,"n. 蹲着的人, 擅自占用土地或房屋者
 vi. 涉水而过"
 swagman,"n. 流浪汉, 收买赃货的人"
@@ -203,10 +218,12 @@ cabin,"n. 小屋, 客舱
 vt. 关在小屋"
 stimulate,"vt. 刺激, 激励, 鼓舞
 vi. 起刺激作用"
-runaway,"潜逃
-[化] 失控"
-capture,[网络] 利益集团捕获
-superb,超B
+runaway,"n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜
+a. 逃亡的, 逃走的"
+capture,"n. 抓取, 战利品, 捕获之物
+vt. 抓取, 获得, 迷住
+[计] 截获命令"
+superb,"a. 极度的, 华丽的, 极好的"
 triangular,"a. 三角形的, 三人间的
 [医] 三角的, 三角形的"
 numerous,"a. 很多的, 数目众多的, 多数的
@@ -229,9 +246,13 @@ textile,"n. 纺织品, 纺织业
 a. 织的, 纺织的"
 brandy,"n. 白兰地酒
 [化] 白兰地"
-leg,"挑选,采集"
-offload, 卸下
-smith,"comb. 表示""金属工匠"""
+leg,"n. 腿；裤腿；（尤指供食用的）动物的腿；（桌椅等的）腿
+v. 〈口〉走；跑；卖力；用腿抵住运河隧洞壁推船通过
+[网络] 脚；腿部；支柱"
+offload,"vt. 卸(货), 下(客)
+[经] 卸货"
+smith,"n. 铁匠, 金属品工匠
+[机] 锻造工, 上手"
 cooper,"n. 制桶工人
 v. 制桶"
 flourish,"vi. 繁荣, 茂盛, 活跃, 手舞足蹈
@@ -239,8 +260,9 @@ vt. 挥舞, 夸耀
 n. 挥舞, 炫耀, 茂盛, 兴旺, 华丽词藻"
 cargo,"n. 货物
 [经] 货柜"
-rum,"n. 朗姆酒
-a. 古怪的, 奇特的"
+rum,"adj. 古怪的；奇特的
+n. 朗姆酒
+n. (Rum)人名；(葡、印尼)鲁姆"
 molasses,"n. 糖蜜
 [化] 糖蜜; 废糖蜜"
 indigo,"n. 靛青, 靛蓝色
@@ -250,8 +272,8 @@ exceed,"vt. 超过, 超越, 胜过
 vi. 超过其他"
 enslavement,"n. 使做奴隶, 使受制, 制服, 束缚, 征服, 奴役
 [法] 奴役, 征服, 盲从"
-abduct,"vt. 诱拐, 绑架, 使外展
-[医] 外展, 展"
+abduct,"v. 绑架；劫持；【医】外转；使外展
+[网络] 诱拐；拐走；拐骗"
 dislocation,"n. 脱臼, 转位, 混乱
 [化] 位错; 转位"
 unimaginable,"a. 不能想象的, 不可思议的"
@@ -285,11 +307,11 @@ hallow,"vt. 使...神圣, 视为神圣
 n. 圣徒"
 detract,"vi. 减去, 贬低
 vt. 转移, 分散"
-in vain,"徒然
-[法] 徒然, 无效"
+in vain,"na. 无益地；轻忽地
+[网络] 徒然；徒劳；白白地"
 perish,"vi. 毁灭, 丧生, 凋谢, 颓丧, 死亡, 腐烂
 vt. 毁坏, 使麻木, 使丧生, 耗尽"
-cameraman,"摄影师,摄影记者"
+cameraman,"n. 照相师, 摄影师"
 symbolic,"a. 象征的, 符号的
 [电] 符号化"
 spectacle,"n. 引人羡慕的东西, 景象, 眼镜, 场面, 公开展示"
@@ -303,28 +325,29 @@ photographer,"n. 摄影师, 摄影者"
 journalist,"n. 新闻记者, 从事新闻杂志业的人"
 intention,"n. 意图, 目的, 含义
 [医] 愈合, 意向"
-scriptwriter,非法出售处方的医生
+scriptwriter,n. 编剧；电影剧本作者
 vote for,"[法] 赞成, 投票赞成, 选举"
 category,"n. 种类, 类项
 [计] 分类"
 statue,"vt. 以雕像装饰
 n. 雕像"
 in weight,无
-cut off,"na. 削除；截止；截断(退路等)；割下来
-[网络] 切断；断绝；切掉"
+cut off,"切掉, 删去, 切断, 断绝, 中断, 关掉, 使死亡
+[建] 切断, 断流, 切去"
 peer,"n. 同等的人, 匹敌, 贵族
 vi. 凝视, 窥视, 费力地看, 隐现
 vt. 与...同等, 封为贵族"
 publicity,"n. 名声, 宣传, 公开场合
 [经] 宣传, 广告"
-look back,"回顾, 三心二意
-[经] 银行对过去贷款的审查"
+look back,"na. 回顾；回头看；追想 (to；upon)；(对事业等)不起劲
+[网络] 回环；同本义；追忆"
 superficially,"adv. 表面, 表面性, 浅层, 不深, 表皮, (贬)肤浅, 一知半解, 浅薄, 平方, 浮面"
-furthermore,"adv. 而且,此外"
+furthermore,"adv. 此外, 而且"
 demanding,"a. 要求高的, 费力的"
 musical,"n. 音乐片, 音乐舞台剧
 a. 音乐的, 声音美妙的, 喜爱音乐的"
-suspense,n. 悬疑
+suspense,"n. 悬疑, 焦虑, 悬念, 悬而不决
+[经] 未定, 暂记"
 animated,"a. 活生生的, 能活动的, 活泼的, 欢快的"
 potential,"n. 潜在性, 可能性, 潜力, 潜能, 势, 位
 a. 有潜力的, 可能的, 潜在的"
@@ -332,7 +355,8 @@ animation,"n. 活泼, 生气, 激励, 卡通制作
 [计] 动画"
 realism,"n. 写实主义, 现实, 实在论
 [法] 现实主义"
-lifelike,adj. 栩栩如生的；逼真的
+lifelike,"adj. 逼真的
+[网络] 栩栩如生的；生活化；贴近生活"
 sophisticated,"a. 复杂的, 久经世故的
 [法] 尖端的, 高级的, 非常有经验的"
 toast,"n. 吐司, 烤面包, 干杯
@@ -371,12 +395,15 @@ reap,"vt. 收割, 收获, 获得
 vi. 收割, 得到报应"
 revenue,"n. 收入, 岁入, 税收, 税务局
 [经] 岁入, 税收, 税务局"
-tie-in,"结合成一体, 相配, 有联系"
+tie-in,"连接,联系;零售商在厂家广告附近贴的广告;配合某些特殊事件(如特殊节目)的广告;搭配着卖;搭在一起完成的"
 usher,"n. 引座员，带位员；接待员；门房
 vt. 引导，招待；迎接；开辟
 vi. 作招待员；当引座员
 n. (Usher)人名；(英)厄舍；(西、科特)乌谢尔"
-mainstream, 干流; 主流
+mainstream,"n. 主流；(河流的)主流；干流
+v. 使…成为主流；将(残障儿童等)纳入正规班级
+adj. 主流的
+[网络] 主要有主流式；主流政党；主流菸"
 deregulate,"vt. 解除对……的管制
 vi. 解除控制"
 liberalise,vt. 使自由化
@@ -388,7 +415,7 @@ eliminate,"vt. 除去, 排除, 剔除, 消除"
 restriction,"n. 限制, 限定, 约束
 [计] 限定"
 new-found,a. 新发现的；新得到的
-milestone, [交]里程碑
+milestone,"n. 里程碑, 里程石, 里程标"
 regain,"vt. 恢复；重新获得；收回
 vi. 上涨
 n. 收复；取回"
@@ -398,17 +425,27 @@ mistreat,"vt. 虐待
 [法] 虐待, 苛待"
 lawful,"a. 法律许可的, 守法的, 合法的
 [经] 合法的, 法定的"
-restore,[网络] 再储藏；恢复
+restore,"vt. 回复, 恢复, 归还, 修补, 修复
+vt. 还原
+vi. 还原
+[计] 还原; DOS外部命令:从备份盘中取回文件"
 degrade,"v. (使)降级, (使)退化"
 faltering,"a. 犹豫的, 蹒跚的, 支吾的"
-PDA,abbr. 个人数字助理（等于Personal Digital Assistant）
+PDA,"PDA
+abbr.
+predicted drift angle 【海洋学】估算偏流角
+public display of affection 当众展示感情
+Parallel Data Adapter 【计算机】并行数据转换器
+Physical Device Address 【计算机】实际设备地址
+personal digital assistant 【计算机】个人数码助手,电子记事簿"
 Personal Digital Assistant, 电子记事簿
-digital,"a. 数字显示的, 数字的
-n. 数字仪表, 数字式电子表(或时钟)
-[计] 数字, 数字式"
+digital,"adj. 数字信息系统的；数码的；数字式的；数位的
+n. 数字电视
+[网络] 数字的；数字型定时器；数控车床"
 constantly,"adv. 不变地, 不断地, 时常地"
 impressive,"a. 给人深刻印象的, 威严的"
-non-profit, 非营利的
+non-profit,"a. 非赢利的, 无利可图的
+[法] 非营利的, 无利可图的"
 bowling,n. 保龄球戏
 never look back,获得全胜
 certificated,a. 有授权证书的
@@ -421,12 +458,14 @@ curriculum,"n. 课程
 geek,n. 做低级滑稽表演的人
 obsession,"n. 困扰, 困扰人的情绪
 [医] 强迫观念"
-burn down,"烧成平地, 火力减弱
-[机] 烧去, 火力衰退"
+burn down,"na. 烧光；(蜡烛等)逐渐烧完；火力减弱
+[网络] 燃尽图；烧毁；把…烧成平地"
 virtual,"a. 实际上起作用的, 虚的, 实质的, 有效的, 事实上生效的
 [计] 虚拟"
-chat room,"n. （电脑网络上的）聊天室, 交谈室"
-copyright,版权；复制权
+chat room,"n. 【网】聊天室
+[网络] 聊天室广告；网上聊天室；聊天时"
+copyright,"n. 版权, 著作权
+[法] 著作权"
 reliable,"a. 可靠的, 可信赖的
 [法] 可靠的, 可信赖的, 确实的"
 extract,"n. 榨出物, 精汁, 摘录, 选段
@@ -435,8 +474,8 @@ vt. (费力地)取出, 采掘, 榨取, 摘录, 吸取
 enrich,"vt. 使富足, 使肥沃"
 virus,"n. 病毒, 滤过性病毒, 毒害
 [化] 病毒"
-coastguard,"海岸警卫队
-[经] 缉私人员, 海岸警卫"
+coastguard,"na. 水上警察；〈英〉海岸警备队；〈美〉海岸救难[辑私]警备队(队员)
+[网络] 海岸警卫队；海岸防卫队；美国海岸警卫队"
 worm,"n. 虫, 蠕虫, 小人物, 螺纹, 蜗杆
 vi. 蠕行, 慢慢前进
 vt. 使蠕行, 慢慢地走, 除虫
@@ -444,17 +483,19 @@ vt. 使蠕行, 慢慢地走, 除虫
 emergency services,"n. 紧急救援部门, 应急服务机构（尤指消防队、警察局、救护车等）"
 vocational,"a. 职业的
 [法] 职业上的, 天职的"
-kit,"n. 装备, 工具箱, 成套工具
-[计] 成套部件; 成套零件"
+kit,"v. 装备
+n. 成套工具；配套元件；成套设备；全套衣服及装备
+[网络] 套装及附件；允许玩家使用所有物品包；厨房置物架"
 give in to,向…呈上；向…交上(试卷等)；屈服于，向…让步；向…投降
 peer pressure,[网络] 同侪压力；同伴压力；同辈压力
-cable TV,[电视] 有线电视
-household,"n. 家眷, 家务, 王室
-a. 家务的, 家常的"
+cable TV,"na. 电缆[有线]电视；公共天线
+[网络] 有线电视；电缆电视；收视体验"
+household,"n. 一家人, 家庭, 家族, 王室
+a. 家庭的, 家常的, 王室的"
 appliance,"n. 器械, 用具, 应用
 [医] 矫正器; 器"
-turn up,"v. 朝上翻；出现
-[网络] 开大；找到；露面"
+turn up,"n. 翻起物, 衣服的卷起部分, (英)裤腿的卷边, 裤脚的翻边, (英)吵闹, 打架, 吵架
+a. 翻起的, 可翻起的, 卷起的, 可卷起的, 翘起的, 可翘起的"
 remote,"a. 遥远的, 偏僻的, 疏远的, 微少的
 [计] 远程, 远程访问实用程序"
 revolutionise,"vt. 使革命化, 彻底改革, 彻底改变"
@@ -470,18 +511,20 @@ structure,"n. 结构；构造；体系；结构体
 v. 使形成体系；系统安排；精心组织
 [网络] 建筑物；组织结构；市场结构"
 effectively,"adv. 有效地, 有力地, 实际上"
-double,"n. 两倍
-a. 两倍的, 双重的
+double,"n. 两倍；双精度型
+a. 双重的；两倍的
+vi. 加倍, 加倍努力；快步走
 vt. 使加倍
-vi. 加倍, 代替, 快步走
-[计] 双精度型"
+adv. 双重地；两倍地；弓身地
+n. (Double)人名；(法)杜布勒；(英)道布尔"
 productivity,"n. 生产力
 [经] 生产率, 生产能力"
 capability,"n. 能力, 性能, 约束力
 [化] 能力"
 workload,"[计] 工作负载, 工作装配
 [经] 工作量"
-multitasking, [计]多任务（技术，方法）
+multitasking,"n. 多重任务处理
+[计] 多任务"
 juggle,"vi. 玩戏法, 行骗, 篡改
 vt. 耍弄, 歪曲, 篡改
 n. 玩戏法, 魔术, 欺骗"
@@ -502,16 +545,19 @@ diverse,"a. 不同的, 变化多的"
 totem,"n. 图腾, 标志物, 崇拜物"
 salmon,"n. 鲑鱼, 大麻哈鱼
 [医] 鲑"
-shellfish, [医]水生贝壳类动物
-seal,[网络] 那太简单了
+shellfish,"un. 贝
+[网络] 贝类；天然贝壳；水里贝壳类动物"
+seal,"n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志
+vt. 封闭, 盖印, 盖章
+vi. 猎海豹"
 porpoise,"n. 海豚, 鼠海豚"
 harmony,"n. 协调, 和睦, 调和
 [电] 和声学"
 windsurfing,(wind-surf 的现在分词) 风帆
 metropolis,"n. 大都市, 重要中心, 首府
 [医] 产地, 生地"
-magnet,"n. 磁铁, 有吸引力之人, 有吸引力之物
-[化] 磁体"
+magnet,"n. 磁铁；[电磁] 磁体；磁石
+n. (Magnet)人名；(塞)马格内特；(西)马涅特；(法)马涅"
 fusion,"n. 熔合物, 结合, 熔合
 [化] 熔融; 熔化; 聚变"
 cuisine,"n. 烹调风格, 烹调法, 烹饪, 厨房"
@@ -534,7 +580,7 @@ talkative,"a. 喜欢说话的, 饶舌的, 多嘴的"
 incapable,"a. 无能力的, 不能的
 [机] 不能行的, 耐不住的"
 imaginings,(imagining 的复数) v. 想( imagine的现在分词 ); 想像; 料想; 误认为
-thoughtful,[网络] 有心
+thoughtful,"a. 深思的, 体贴的"
 thistle,n. 蓟
 skunk,"n. 臭鼬, 臭鼬皮, 讨厌鬼
 vt. 使惨败, 欺骗"
@@ -546,11 +592,13 @@ a. 淡紫色的"
 lily,"n. 百合, 百合花
 a. 洁白的, 纯白色的, 纯洁的"
 scrawny,"a. 瘦的, 骨瘦如柴的"
-somewhat,[网络] 一些什么；稍微；有点
+somewhat,"n. 某物, 几分
+adv. 多少, 几分"
 satire,"n. 讽刺文学, 讽刺"
 irony,"n. 反语, 讽刺, 具有讽刺意味的事"
 societal,a. 社会的
-underdog,"斗输的狗;失败者,受压迫者"
+underdog,"n. 斗败了的狗, 失败者, 受害者
+[法] 受压迫者, 在不健全的社会的受害者"
 tycoon,"n. 企业界大亨, 将军
 [经] 企业界巨头, 企业家"
 mild,"a. 温和的, 温柔的, 淡味的, 适度的, 轻微的, (肥皂等)软性的
@@ -563,6 +611,6 @@ a. 滑稽的, 有趣的, 喜剧的"
 elevate,"vt. 举起, 提拔, 鼓舞"
 appendage,"n. 附加物, 附器
 [医] 附件, 附器"
-runaway,"潜逃
-[化] 失控"
+runaway,"n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜
+a. 逃亡的, 逃走的"
 confederation,"n. 同盟, 联盟, 组织联盟"

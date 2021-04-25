@@ -21,8 +21,10 @@ shyness,"n. 羞怯, 胆怯"
 assemble,"vt. 集合, 收集, 装配
 vi. 集合
 [计] 汇编"
-limelight,[化] 石灰光
-river bed, 河床
+limelight,"n. 石灰光, 石灰光灯, 以石灰光灯照射的舞台
+vt. 使受到注目, 使显露头角"
+river bed,"na. 河床
+[网络] 河底"
 precaution,"n. 预防, 留心, 警戒
 vt. 预先警告"
 take precautions to prevent sth. against sth.,无
@@ -98,7 +100,7 @@ vt. 下降"
 inconvenient,"a. 不便的, 有困难的"
 get out of sth.,"na. 逐渐放弃(恶习)；避免；由…出来；拔出
 [网络] 逃避；摆脱；离开"
-get out,"出去, 离开, 逃脱, 摆脱, 泄露, 说出, 出版, 弄出来"
+get out,n. 逃脱，逃避；逃脱手段，脱身之计；收支相抵，销售款与支出费用相同
 get into sth.,[网络] 到达什么地方；这个错误可能使他陷入困境
 progress,"n. 进步, 发展, 前进
 vi. 进步, 进行"
@@ -118,7 +120,10 @@ SOS,"n. 紧急求救信号
 vi. 发出遇难信号
 n. (Sos)人名；(罗)绍什；(西、俄、印尼)索斯；(柬)索"
 Save Our Souls,"国际通用的呼救信号, 船遇难时的呼救"
-overhead,[网络] 制造费用；顶置空间；过顶球
+overhead,"n. 经常开支, 普通用费, 天花板
+a. 在头上的, 高架的
+adv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地
+[计] 总开销; 额外开销"
 stamp sth. out,"na. 踏灭(火)；扑灭(暴动等)
 [网络] 踩灭；消灭；踩出"
 scene,"n. 场, 情景, 镜头, 发生地点, 道具, 布景, 景色
@@ -135,7 +140,7 @@ fool,"n. 愚人, 受骗者, 奶油拌水果
 vt. 愚弄, 欺骗, 浪费
 vi. 干傻事, 开玩笑, 游荡
 a. 傻的"
-April Fools' Day,n. 愚人节(4月1日)
+April Fools' Day,[网络] 愚人节；日愚人节；四月第一天
 bulletin,"n. 公告, 布告, 公报
 [电] 电子布告栏"
 macaroni,"n. 通心面, 纨绔子弟"
@@ -150,21 +155,24 @@ vi. 收获
 [计] 裁剪"
 harvest,"n. 收获, 成果, 收获物, 收获期
 v. 收割, 收获"
-cartload,n. 一车之载量
+cartload,"n. 一车的载量, 大量"
 stalk,"n. 茎, 追踪, 高视阔步
 vi. 悄悄靠近, 蹑手蹑脚地走近, 蔓延, 高视阔步
 vt. 追踪, 搜索"
 thresh,"vt. 打谷, 摔打, 反复研究, 推敲
 vi. 打谷, 鞭打, 剧烈扭动"
-process,[网络] 过程；流程；进程
+process,"n. 程序, 进行, 过程
+vt. 加工, 使...接受处理, 对...处置, 对...起诉
+a. 经加工的, 有特殊光效的
+[计] 进程"
 Signor,"n. 绅士, 男人, 先生"
 practical,"a. 实际的, 现实的, 实用性的
 [法] 事实上的, 实际上的, 接近...的"
 practical joke,恶作剧
-onlooker,"n. 观众, 旁观者"
+onlooker,"n. 旁观者, 袖手旁观者"
 Prime Minister,"总理, 首相
 [法] 总理, 首相, 内阁总理"
-somewhere,[网络] 在某处；不知处
+somewhere,"adv. 到某处, 在某处"
 era,"ERA
 abbr.
 earned run average
@@ -188,7 +196,8 @@ carpet-bag era
 【美国历史】北方人到南方投机谋利时期(1861～1865年美国南北战争后重建时期，北方投机家只拎一只毯制旅行手提包到南方各州去投机，故称)
 era of good feeling
 ᰀ(1817～1825年门罗当美国总统的)善意的时代"
-B.C.,abbr. 公元前（Before Christ）
+B.C.,"abbr. 公元前
+[网络] 二进制到；种子小子；二进制码转换为"
 Before Christ,公元前
 mummy,"n. 木乃伊, 瘦而干瘪之人, 妈咪
 [医] 干尸, 木乃伊; 普鲁士红"
@@ -197,21 +206,24 @@ a. 埃及的, 埃及人的"
 temple,"n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角
 [医] 颞颥, 颞部"
 Thebes,n. [史]底比斯（古希腊Boeotia的主要城邦）
-X-ray image, x射线照片
+X-ray image,[化] X射线照片
 die of sth.,"死于…,因…而死"
-disease,[网络] 不舒服；不适；疾病
-last,"a. 最后的, 末尾的, 最近的
-vi. 持续, 支持, 维持
-vt. 使维持, 够...用
-adv. 最后, 后来
-n. 最后, 末尾, 鞋楦头"
+disease,"n. 疾病, 弊病
+[医] [疾]病"
+last,"n. 末尾，最后；上个；鞋楦（做鞋的模型）
+adj. 最后的；最近的，最新的；仅剩的；最不可能…的
+vi. 持续；维持，够用；持久
+vt. 度过，拖过；使维持
+adv. 最后地；上次，最近；最后一点
+n. (Last)人名；(英、德、葡、罗、瑞典)拉斯特"
 prove,"vt. 证明, 查验, 检验, 勘探, 显示
 vi. 证明是"
 resin,"n. 树脂
 vt. 涂树脂于"
-skin,"n. 皮肤, 皮
-vt. 剥皮, 在...植皮
-vi. 长皮, 愈合, 蜕皮"
+skin,"n. 皮；皮肤；…皮肤的；（兽）皮
+v. 剥皮；扒皮；削皮；擦破（身体某部位的）皮肤
+adj. 有…皮的；没有草皮的
+[网络] 蒙皮；兽皮；表皮"
 section,"n. 区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区
 vt. 把...分段, 把...切片
 vi. 被切成片
@@ -221,7 +233,9 @@ laboratory,"n. 实验室, 研究室, 化工厂
 figure,"n. 数字；人物；图形；价格；（人的）体形；画像
 vi. 计算；出现；扮演角色
 vt. 计算；认为；描绘；象征"
-god,[网络] 住好啲；上帝
+god,"n. 神；（大写首字母时）上帝
+vt. 膜拜，崇拜
+n. (God)人名；(索、阿拉伯)古德"
 Duamutef,无
 fall to pieces,跌碎
 garlic,"n. 大蒜
@@ -232,7 +246,8 @@ William the Conqueror,"na. 征服者威廉第一
 rosy,"a. 蔷薇色的, 玫瑰红色的"
 cheek,"n. 颊, 厚颜, 脸蛋
 [医] 颊"
-complexion,[化] 络离子; 配离子
+complexion,"n. 肤色, 情况, 局面
+[医] 体质; 面色, 面容"
 marking,"n. 印记, 印, 分
 [计] 标志"
 entitle,"vt. 给...权利, 取名为, 给予名称, 叫做
@@ -243,7 +258,8 @@ vi. 平静下来, 镇静
 vt. 使平静"
 nerve,"n. 精神, 勇气, 叶脉, 神经
 vt. 鼓起勇气"
-concentration,n. 浓度；集中；浓缩；专心；集合
+concentration,"n. 集中, 专心
+[化] 浓度; 浓缩"
 symptom,"n. 症状, 征候, 征兆
 [医] 症状"
 temper,"n. (钢等的)硬度, 脾气, 心情, 中和剂, 倾向, 回火
@@ -266,25 +282,25 @@ point sth. out,"na. 指出
 [网络] 指明；说明；指示"
 point sb. out,"na. 指出
 [网络] 指明；说明；指示"
-take sth. up,"na. 拿起；举起；拾起；给搭(火车等)
-[网络] 占据；从事；开始"
+take sth. up,"拿起, 开始从事, 继续, 接纳, 吸收, 占据, 拘捕, 承兑, 认购, 绷紧
+[经] 付清, 承兑(汇票), 认购(债券等)"
 tropical,"a. 热带的, 热情的
 [医] 热带的"
 keep away from sth.,(使)远离，(使)不接近；(使)不在
 keep away from sb.,(使)远离，(使)不接近；(使)不在
-keep sth. up,"na. 支持；保持；继续；停歇
-[网络] 维持；坚持；持续"
+keep sth. up,"na. 维持；保持；持续；停歇
+[网络] 继续；坚持；继续下去"
 keep up with sb.,"跟上
 [法] 追上, 跟上, 赶得上"
 keep up with sth.,"跟上
 [法] 追上, 跟上, 赶得上"
-keep out,使在外
+keep out,[计] 疏排
 keep sth. in,"na. 压住；下课后罚学生留校；【印】排紧；让(火)烧着
 [网络] 继续燃烧；闭门不出；不出外"
 keep sb. in,"na. 压住；下课后罚学生留校；【印】排紧；让(火)烧着
 [网络] 继续燃烧；闭门不出；不出外"
-mood,"n. 心情, 气氛, 生气, 基调
-[医] 心境"
+mood,"n. 情绪；心情；气氛；氛围
+[网络] 语气；甲心情；沐恋商旅"
 disposition,"n. 性情, 处置, 处理, 布置
 [医] 素因, 性情"
 trial,"n. 审判, 试验, 艰苦, 麻烦事, 考验
@@ -295,26 +311,29 @@ take charge of sth.,"掌管..., 负责..., 看管..., 不受...控制
 [法] 负起管理之责, 失去控制"
 take charge of sb.,"掌管..., 负责..., 看管..., 不受...控制
 [法] 负起管理之责, 失去控制"
-touch down,"攻方持球触地得分, (飞机着陆过程中)触地"
+touch down,"na. 【橄】触地得分；【航】着陆；着陆过程中的一部分；着陆时间
+[网络] 降落；挽球"
 bomb,"n. 炸弹
 vt. 轰炸, 投弹于
 vi. 失败"
 plant,"n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备
 vt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于
 vi. 种植"
-childhood,儿童期
-take sth. off,"v. (飞机)起飞；出去；拿掉；移送
-[网络] 脱下；脱掉；脱去"
-take sb. off,"v. (飞机)起飞；出去；拿掉；移送
-[网络] 脱下；脱掉；脱去"
+childhood,"n. 孩童时期
+[医] 儿童期"
+take sth. off,"拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开
+[经] 取消"
+take sb. off,"拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开
+[经] 取消"
 take after sb.,"像, 学样
 [法] 象, 相似, 追赶"
-take up sth.,"na. 拿起；举起；拾起；给搭(火车等)
-[网络] 占据；从事；开始"
+take up sth.,"拿起, 开始从事, 继续, 接纳, 吸收, 占据, 拘捕, 承兑, 认购, 绷紧
+[经] 付清, 承兑(汇票), 认购(债券等)"
 take to sth.,"na. 嗜好；开始；参加；逃入
 [网络] 喜欢；从事；喜爱"
-take sth. down,"na. 扯下；卷起；记下；卸下
-[网络] 拿下；取下；拆卸"
+take sth. down,"n. 拆卸, (非正式)失面子, 羞辱
+a. 可拆卸的
+[计] 卸下"
 Cape Canaveral,[航] 卡纳维拉尔角（位于美国）
 dutiful,"a. 尽职的, 忠实的, 顺从的, 守本分的"
 habitual,"a. 习惯的, 惯常的, 平常的
@@ -329,7 +348,11 @@ n. 特有财产, 特权"
 palace,"n. 宫, 宫殿, 华丽大厦"
 Great Exhibition,[网络] 大博览会；伟大的博览会；大展览
 Hyde Park,（伦敦）海德公园
-iron,[网络] 铁；铁含量
+iron,"n. 熨斗；烙铁；坚强
+vt. 熨；用铁铸成
+adj. 铁的；残酷的；刚强的
+vi. 熨衣；烫平
+n. (Iron)人名；(英)艾恩"
 of all time," 一直, 始终；有史以来"
 various,"a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的
 [法] 不同的, 种种的, 各式各样的"
@@ -340,9 +363,11 @@ on display,"陈列着,在展览"
 steamboat,汽艇；轮船；蒸气船
 in all,"总共
 [经] 合计, 全部"
-profit,[网络] 专家型；宝发实业有限公司
-battery,"n. 电池, 殴打
-[化] 蓄电池"
+profit,"n. 利润, 赢利, 利益
+vi. 有益, 获利, 赚钱
+vt. 有益于"
+battery,"n. 电池；炮组；炮列；【法】殴打
+[网络] 电池灯；直流电源"
 download,"[计] 下装, 卸载"
 pirated,a. 盗版的
 nylon,"n. 尼龙
@@ -358,31 +383,36 @@ impression,"n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果
 assorted,"a. 各种各样的, 分类的"
 prisoner of war,"n. 战俘
 [法] 战俘"
-bush,"n. 矮树丛
-[化] 管衬"
+bush,abbr. bushel(s)；bushing(s)
 rapidly,"adv. 飞快地, 迅速地, 赶紧地"
 rifle,"n. 来复枪, 步枪
 vt. 用步枪射击, 抢夺
 vi. (抱有不良意图)迅速翻查"
-shoulder,[网络] 大号
+shoulder,"n. 肩, 肩膀, 衣肩
+vt. 肩负, 负担, 担任
+vi. 用肩推挤"
 boldly,"adv. 大胆地, 显眼地"
-up and down,"上下地, 到处"
+up and down,上上下下；到处；前前后后；来来往往
 blaze,"n. 火焰, 烈火, 光辉
 vi. 燃烧, 发光
 vt. 使燃烧, 宣布, 在树皮上刻痕"
 here and there,"各处, 到处, 四处"
 elderly,"a. 过了中年的, 稍老的"
-blow,[网络] 打击
+blow,"v. 吹；刮；吹动；吹奏（哨子、乐器等）
+n. （用手、武器等的）猛击；打击；挫折；吹
+int. 表示厌烦
+[网络] 美国毒枭；爆炸；吹气"
 gleam,"n. 光束, 微光, 反光
 vi. 闪烁, 隐约地闪现
 vt. 使发微光, 使闪烁"
 monster,"n. 怪物；巨人，巨兽；残忍的人
 adj. 巨大的，庞大的"
-seaman,"海员,水手"
+seaman,"n. 海员，水手；水兵
+n. (Seaman)人名；(英)西曼；(意、瑞典)塞亚曼"
 sailor,"n. 水手, 船员, 海员
 [法] 水手, 船员, 海员"
 sighted,"a. 有视力的, 不盲的"
-creature,n. 动物，生物；人；创造物
+creature,"n. 人, 动物, 创造物, 生物"
 Madagascar,n. 马达加斯加岛
 shining,"a. 光亮的, 华丽的"
 oarfish,"(pl. oarfish, oarfishes)皇带鱼属 动物"
@@ -391,8 +421,10 @@ n. 动力, 动态
 [计] 动态的"
 wilful,"a. 任性的, 固执的, 故意的, 存心的
 [法] 有意的, 故意的, 任性的"
-election,n. 选举；当选；选择权；上帝的选拔
-former,[网络] -前任的
+election,"n. 选举, 当选, 选择权
+[法] 选举, 当选"
+former,"a. 从前的, 前者的
+n. 起形成作用的人(或物), 模型, 样板"
 defeat,"n. 败北, 失败
 vt. 击败, 使落空"
 fanatical,"a. 狂热的, 盲信的"
@@ -400,8 +432,8 @@ radical,"n. 激进分子, 词根, 基础, 根式, 根
 a. 激进的, 根本的, 基本的, 根的"
 progressive,"n. 改革论者, 进步论者
 a. 前进的, 累进的, 进步的"
-ex-,"prep. 不包括，除外
-n. 前妻或前夫"
+ex-,"n. 已离婚的配偶
+[经] 不附资本增殖, (在船边码头)交货, 无(红利)...之外"
 suspicious,"a. 可疑的, 多疑的, 怀疑的
 [法] 怀疑的, 令人怀疑的, 可疑的"
 latter,"a. 后者的, 较后的, 近来的"
@@ -425,44 +457,48 @@ a. 志愿的
 v. 自愿"
 gratitude,n. 感激之情
 the Press,报刊
-North Pole,"北极
-[化] (指)北极"
+North Pole,"na. 北极
+[网络] 北极点；北极极点；南极"
 Arctic,"a. 北极的, 极寒的
 n. 北极圈, 北极"
 contribute sth. to sth.,捐献
 contribute sth. towards sth.,"na. 捐助；给…投稿；捐(款)给；投寄(一篇论文)给(某杂志)
 [网络] 为……捐助"
-gift,[网络] 礼物婴儿
+gift,"n. 礼物, 赠予, 天才
+vt. 赋予"
 patience,"n. 耐性, 忍耐"
 encouragement,"n. 鼓励, 激励, 奖励
 [法] 怂恿, 煽动, 助长"
 unwillingly,"adv. 不情愿地, 勉强地; 勉勉强强"
-farewell,进展顺利
+farewell,"n. 辞别, 再见, 再会
+interj. 再会"
 in someone's honour,无
 coincidence,[网络] 巧合；生命中的每一刻都是巧合；发生之状况
 retirement,"n. 退休, 隐居, 撤退
 [经] 退休, 退股, (固定资产)报废"
 a total of,"总计为,总共…"
 devote,"vt. 投入于, 献身"
-devote sb. to sth.,"v. 把…贡献给
-[网络] 致力于；献身于；把……献给"
-devote sth. to sth.,"v. 把…贡献给
-[网络] 致力于；献身于；把……献给"
+devote sb. to sth., 把…专用于，完全用于（某事或做某事）; 致力于…; 务; 倾注
+devote sth. to sth., 把…专用于，完全用于（某事或做某事）; 致力于…; 务; 倾注
 hobby,"n. 嗜好, 癖好, 爱好"
 decoration,"n. 装饰, 装饰品"
 hullo,"int. 喂, 哈啰（等于hello）"
-incident,"n. 事件, 事变, 小事
-a. 附带的, 易于发生的, 外来的, 入射的"
+incident,"adj. 【法】附带的；入射的；易起的；附随的
+n. 发生的事情（尤指不寻常的或讨厌的）；严重事件；（两国间的）摩擦
+[网络] 事变；事故；小事件"
 swing,"n. 摇摆, 振幅, 音律, 节奏, 涨落, 秋千, 旋转, 行动自由
 vi. 摇摆, 悬挂, 旋转, 大摇大摆地走, 转向
 vt. 挥舞, 使旋转, 使转向, 悬挂, 吊运
 a. 旋转的, 悬挂的, 强节奏爵士音乐的"
-speedboat,n. 快艇
+speedboat,n. 高速游艇
 come away,脱开
 desperately,adv. 拼命地；绝望地；极度地
 companion,"n. 朋友, 陪伴, 指南, 升降口围罩
 vt. 陪伴"
-water,[网络] 水
+water,"n. 水, 雨水, 海水, 水位, 水面, 流水
+vt. 给...浇水, 供以水, 注入水, 使湿
+vi. 流泪, 流口水, 加水
+a. 水的, 水上的, 水生的, 含水的"
 buoy,"n. 浮标, 航标, 救生圈
 vt. 使浮起, 鼓励"
 tremendous,"a. 巨大的, 非常的, 可怕的"
@@ -473,7 +509,7 @@ considerably,"adv. 非常地, 很, 颇"
 petrol,"n. 汽油
 [经] 汽油, 挥发油, 石油"
 use sth. up,"na. 用完；耗尽
-[网络] 用光；用尽；消耗"
+[网络] 用光；消耗，耗费；毁灭"
 gently,"adv. 温和地, 温柔地, 轻轻地, 逐渐地"
 Olympic Gold Medal,无
 shred,"n. 碎布条, 细片, 少量
@@ -488,7 +524,7 @@ employer,"n. 雇主, 老板
 [经] 雇主, 业主"
 confirm,"vt. 证实, 确定, 批准, 使巩固
 [计] 确认"
-therefore,adv. 因此；所以
+therefore,"adv. 因此, 所以"
 innocent,"a. 无罪的, 不懂事的, 无知的
 n. 天真的人, 笨蛋"
 innocent of sth.,无罪的；完全清白的，无辜的；缺…的，无…的
@@ -511,17 +547,20 @@ collapse,"n. 崩溃, 倒塌, 虚脱
 vi. 倒塌, 崩溃, 瓦解
 vt. 使倒塌, 折叠
 [计] 折叠"
-capsule,密封舱
+capsule,"n. 胶囊, 蒴果, 瓶帽, 航天舱
+[化] 胶囊剂"
 layer,"n. 层, 产卵鸡, 放置者
 vt. 分层堆积, 压植
 [计] 层"
 beneath,"prep. 在...下方
 adv. 在...下方"
-lower,"n. 低辐射; 低辐射膜; 低辐射玻璃
-(low-e 的比较级)"
+lower,"vt. 减弱，减少；放下，降下；贬低
+vi. 降低；减弱；跌落
+adj. 下游的；下级的；下等的
+n. (Lower)人名；(英、意)洛厄"
 enable,"vt. 使能够
 [计] 允许, 使能, 打开"
-in touch with sb.,与…保持联络
+in touch with sb., 与…保持联络
 run out of sth.,用完
 smoothly,"adv. 平滑地, 流畅地, 流利地"
 lose heart,丧失勇气
@@ -539,30 +578,32 @@ vi. 使用舌头, 吹管乐器"
 a slip of the tongue,"失言, 口误"
 get round,"避免, 说服, 走动, 传开来"
 comedy,"n. 喜剧, 有趣的事情"
-queue,"n. 辫子, 一队人, 队列
-vt. 使排队, 将...梳成辫子
-vi. 排队
-[计] 队列"
+queue,"n. 行列；（存储的数据）队列
+v. （人、车等）排队等候；（使）排队；列队等待
+[网络] 队列结构；长队"
 artiste,"n. 艺人, 技艺家"
 advertiser,"n. 做广告者, 广告客户
 [经] 广告商, 广告者"
 awkwardly,adv. 笨拙地；无技巧地
-single,"a. 单身的, 单程的, 单一的, 个别的, 孤独的, 专一的
-n. 一个, 单打, 单程票
-vt. 选出
-vi. 击出一垒打
-[计] 单精度型"
-laughter,n. 笑；笑声
-chip,[网络] 新电脑；中游晶粒切割；金属切削加工过程中切屑
+single,"v. 选拔；【棒】作一垒手；(马)单步行进
+adj. 仅有一个的；单一的；单个的；特指某人或事物
+n. 单程票；单曲（常指流行音乐）；单曲激光唱片；（旅馆等的）单人房间
+[网络] 单身；未婚；单身的"
+laughter,"n. 笑, 笑声
+[医] 笑, 大笑"
+chip,"v. 打破；弄缺；被损坏；切下
+n. （木头、玻璃等的）缺口；（木头、玻璃等破损后留下的）碎屑
+adj. (雀,栗鼠等)唧唧叫的
+[网络] 筹码；薯条保温台；薄片"
 fish and chips,n. 炸鱼，加炸土豆片
-overfish,vt. 对…进行过度捕捞
+overfish,vt. 对(鱼)进行过度捕捞
 terrify,"vt. 使恐惧, 恐吓"
 diver,n. 潜水者
 North Sea,[经] 北海
-oil rig,n. 石油钻塔
+oil rig,"n. 石油钻井, 海底石油钻井, 钻塔"
 wits,[网络] 威兹超人
 be frightened out of one's wits, 丧魂落魄
-at one's wits' end,"智穷计尽, 不知所措"
+at one's wits' end,[网络] 智穷计尽；不知所措；志穷计尽
 cage,"n. 笼, 牢房, 战俘营
 vt. 关进笼内"
 shark,"n. 鲨鱼, 骗子
@@ -575,17 +616,19 @@ variety,"n. 多样, 种类, 变种, 杂耍
 cod,[计] Microsoft C编译器产生的可显示机器码/汇编代码文件，其中附有源C代码作为注释
 skate,"n. 溜冰, 冰鞋
 vi. 滑冰, 滑过"
-factor,"n. 因素, 因数, 系数, 基因, 代理人
-[计] 因式"
+factor,"n. 因子；因素；系数；要素
+v. 【数】把…化为因子[因数]；为…充当代理商；代理经营；代管(产业)
+[网络] 因式"
 plentiful,"a. 许多的, 丰富的, 丰饶的"
-overboard,落水
-as a result,结果
+overboard,"adv. 自船上落下, 在船外"
+as a result,因此;结果
 toast,"n. 吐司, 烤面包, 干杯
 vt. 敬酒, 烤, 使暖和
 vi. 烤, 烘"
-bulb,"n. 球茎, 电灯泡
-[医] 球, 鳞茎, 球茎"
-screwdriver,"螺丝起子,螺丝刀"
+bulb,"n. 电灯泡；鳞茎；球状物
+vi. 生球茎；膨胀成球状"
+screwdriver,"n. 螺丝起子
+[机] 活动扳手"
 commanding officer,n. 少尉至上校阶级的各指挥官
 balloon,"n. 气球
 vt. 使成气球状
@@ -594,18 +637,19 @@ make for sth.,"走向, 有利于, 倾向于"
 royal,"n. 王室, 皇族
 a. 王室的, 皇家的, 盛大的, 庄严的"
 air force,"空军, 美国航空队"
-control tower,n. （机场）指挥塔台
-spy,"n. 间谍, 侦探, 侦察
-vt. 侦察, 找出, 发现
-vi. 做密探, 侦查"
+control tower,"n. 控制塔
+[网络] 塔台；机场控制塔；指挥塔"
+spy,"n. 间谍；密探
+v. 发现；从事间谍活动；搜集情报；突然看见
+[网络] 侦察；特务；侦探"
 spy on sb.,"侦查, 暗中监视"
 spy on sth.,"侦查, 暗中监视"
 keep track of sth.,了解
 keep track of sb.,了解
-make sb. out,"na. 理解；发现；起草；证明
-[网络] 辨认出；填写；开列"
-make sth. out,"na. 理解；发现；起草；证明
-[网络] 辨认出；填写；开列"
+make sb. out,"书写, 填写, 拼凑, 说明, 理解, 辨认出, 设法应付, 进展
+[法] 开出, 写出, 看出"
+make sth. out,"书写, 填写, 拼凑, 说明, 理解, 辨认出, 设法应付, 进展
+[法] 开出, 写出, 看出"
 Member of Parliament,"国会议员, 下院议员
 [法] 下议院议员"
 cosmetics,n. 装饰品；化妆品（cosmetic的复数）
@@ -631,8 +675,11 @@ actual,"a. 真实的, 实际的, 现行的
 [医] 实际死亡率"
 copper,"n. 铜, 警察
 [化] 铜Cu"
-framework,结构材
-transport,[网络] 运输
+framework,"n. 结构, 骨架, 参照标准, 准则, 观点
+[医] 构架组织"
+transport,"n. 运输, 运输工具, 激动, 狂喜, 流放犯
+vt. 传送, 运输, 流放
+[计] 传送"
 New York Harbour,无
 pedestal,"n. 支柱, 基架, 基座, 基础
 vt. 加座, 搁在台上, 支持, 提高...的地位"
@@ -640,11 +687,14 @@ put sth. together,"na. 编辑；拼拢；比较考虑；使结婚
 [网络] 装配；把……放在一起；加在一起"
 symbol,"n. 符号, 象征, 代号, 信条
 [计] 符号; 码元"
-throughout,[网络] 生产量；有效产出；透背
+throughout,"adv. 到处, 贯穿全部地, 自始至终
+prep. 遍及, 在各处
+[计] 吞吐量"
 syllable,"n. 音节
 vt. 分成音节
 [计] 字节"
-income tax,n. 所得税
+income tax,"na. 所得税
+[网络] 企业所得税；个人所得税；所费不资"
 contest,"n. 竞赛, 争论
 vt. 竞争, 争取, 争辩
 vi. 竞争"
@@ -654,7 +704,8 @@ Manhattan,n. 曼哈顿
 Empire State Building,n. （美国纽约的）帝国大厦，又名“帝国之州大厦”
 United Nations,"联合国
 [经] 联合国"
-UN,abbr. 联合国
+UN,"pref. 不, 不会的, 无, 未, 非
+[医] 不"
 marble,"n. 大理石, 石弹, 雕刻品
 a. 大理石的, 冷酷无情的, 有大理石花纹的"
 property,"n. 财产, 所有权, 性质, 属性
@@ -663,10 +714,14 @@ estate,"n. 不动产, (人生的)阶段, 阶层, 财产
 [经] 房地产, 遗产, 财产"
 representative,"n. 代表, 众议员, 典型
 a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
-agent,[网络] 代理；智能体；软件代理
-Los Angeles,洛杉矶
-breath,[网络] 呼吸
-under water,"(在生活中)失败,潦倒"
+agent,"n. 代理商, 政府代表, 动原, 媒介
+[计] 代理程序"
+Los Angeles,"na. 洛杉矶
+[网络] 洛杉机；美国洛杉矶；洛杉基地区"
+breath,"n. 呼吸, 气息, 瞬间
+[医] 呼气, 呵气, 口气, 呼吸"
+under water,"a. 在水中的
+adv. 在水下"
 tricycle,n. 三轮车
 compete against sb.,与…竞争
 come up,"走上前来, 发芽, 发生, 被提到, 流行
@@ -683,15 +738,19 @@ ambassador,"n. 大使
 Escalopia,无
 fire extinguisher,[电] 灭火器
 drily,"adv. 干燥地, 不加渲染地, 冷冰冰地, 枯燥地"
-set on fire, 激起
+set on fire, 使燃烧; 使情绪激动; 放火; 燔
 embassy,"n. 大使馆, 大使馆全体人员
 [经] 大使馆"
-aim,[计] AOL即时信息传送
+aim,"n. 目标；目的；瞄准
+v. 瞄准；旨在；针对；对准
+abbr. (=American Indian Movement)美国印第安人运动
+[网络] 美国在线(AOL Instant Messenger)；另类投资市场(Alternative Investment Market)；伦敦另类投资市场"
 aim sth. at sb.,"v. 目的在于
 [网络] 瞄准；针对；旨在"
 aim sth. at sth.,"v. 目的在于
 [网络] 瞄准；针对；旨在"
-basement,n. 地下室；地窖
+basement,"n. 地下室, 墙脚
+[化] 地下室"
 post,"n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营
 vt. 张帖, 邮递, 公布, 登入帐, 使熟悉, 布置
 vi. 快速行进
@@ -708,7 +767,6 @@ diplomatic relations,外交关系
 lantern,"n. 灯笼, 提灯, 航标灯
 vt. 装上提灯"
 all night long,整夜
-moving,"adj. 移动的；动人的；活动的
-v. 移动（move的ing形式）"
+moving,"a. 动人的, 令人感动的, 鼓动的, 原动的, [无比较级]活动的, 转动的"
 spectacle,"n. 引人羡慕的东西, 景象, 眼镜, 场面, 公开展示"
 drift away," （人）渐渐离开, （烟雾等）慢慢散去; 游离; 抛开"

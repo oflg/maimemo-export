@@ -1,4 +1,5 @@
-﻿father,[网络] 父亲
+﻿father,"n. 父亲, 祖先, 长辈, 神父, 创始者
+vt. 当...的父亲, 保护, 创作, 发明, 培养"
 mother,"n. 母亲；大娘；女修道院院长
 vt. 生下；养育；像母亲般关怀或照管
 adj. 母亲的；出生地的"
@@ -50,12 +51,14 @@ uterine brother
 变形：
 n.
 brothers或 brethren"
-sister,[网络] 姐妹
-grandmother, [医][外]祖母
-grandfather, [医][外]祖父
-who,[医] 世界卫生组织
-he,"abbr. 阁下；高等教育
-[网络] 他；氦(helium)；贺"
+sister,"n. 姐妹, 姐, 妹, 护士, 修女
+vt. 姐妹般对待"
+grandmother,"n. 祖母, 女祖先"
+grandfather,"n. 祖父, 始祖
+[电] 原始资料组"
+who,[网络] 世界卫生组织；世界卫生保健组织；世界健康组织
+he,"na. 【宗】阁下；对位于较高职位的人
+[网络] 苏木素伊红；热交换器；眼高"
 she,"pron. 她；它；船或车等
 n. 〈口〉女性；雌性动物
 [网络] 佘；就是她；伊"
@@ -70,21 +73,25 @@ int. （表示惊奇、气愤等）嘿
 [网络] 城域网(Metropolitan Area Network)；男士"
 boy,"n. 男孩
 [法] 男孩, 少年, 儿子"
-look,"n. 看；外观；查找；瞧
-v. 看；寻找；瞧；注意
-linkv. 显得；似乎；看来好像
-int. 听我说
-[网络] 看起来；看上去；注视"
+look,"n. 一看, 神色, 样子, 面容
+vi. 看, 注意, 朝着, 显得
+vt. 打量, 看上去与...一样, 以眼色(或脸色)显示, 期待"
 his,"pron. 他的
-[化] 组氨酸"
-name,"n. 名称；名字；名声；名誉
-v. 命名；任命；给…取名；说出…的名称
-adj. 〈美口〉著名的；(作品等)据以取名的
-[网络] 姓名；品名；产品名称"
+n. (His)人名；(法)伊斯"
+name,"n. 名字, 名称, 姓名, 名义, 名誉, 文件名
+vt. 命名, 称呼, 任命, 提名, 列举
+a. 姓名的, 据以取名的
+[计] 名称, 文件名, 姓名"
 her,"pron. 她的；她
 n. (Her)人名；(法)埃尔"
-or, …的人（或物）
-big,[网络] 装瓶业务投资集团；犬组冠军；犬种群冠军
+or,"conj. 或者；否则；不然；（用于否定句，提出两种或多种事物时）也不
+n. 【纹章】黑金色
+prep. 比…更早
+[网络] 还是；或是；手术室(operating room)"
+big,"adv. 大大；给人印象深地
+n. 大亨；大公司
+adj. 巨大的；年龄较大的；重大的；严重的
+[网络] 恐怕袖子有点儿长；大型日式饭盒；飞越未来"
 tall,[=thymus derived acute lymphocytic leukemia]胸腺衍生急性淋巴细胞性白血病
 pretty,"a. 漂亮的, 优美的, 机灵的, 狡猾的, 恰当的
 adv. 相当, 颇"
@@ -93,11 +100,11 @@ vt. 使变薄, 使变细, 使稀少, 使淡
 vi. 变薄, 变细, 变少, 变淡
 adv. 薄地, 稀疏地, 微弱地
 n. 细小部分"
-short,"a. 短的, 近的, 矮的, 短期的, 简短的, 少量的
-adv. 简短地, 突然
-n. 扼要, 短片, 缺乏
-vt. 故意少给, 使短路"
-handsome,[网络] 手一些；手多；竹兰在国际刑警英俊
+short,"adj. 短的；个子矮的；短期的；短暂的
+adv. 缺少；不足；未达到；不及
+v. 卖空(股票)；故意少给；欺骗；【电】使短路
+n. 少量烈酒；（尤指在正片前放映的）电影短片"
+handsome,"a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的"
 new,"adj. 刚出现的；新的；新近推出的；新买的
 n. 新东西；新事物
 abbr. 〈美(=net economic welfare)纯经济福利
@@ -111,20 +118,509 @@ zoo,"n. 动物园
 school,"n. 学校, 鱼群, 门派, 学派
 vt. 教育, 训练, 培养
 vi. 成群地游"
-supermarket,超级市场
-park,"n. 公园, 停车处
-vt. 停车, 置于
-vi. 停车"
+supermarket,"n. 超级市场
+[经] 超级市场, 自助售货商店"
+park,"n. 公园；园区；运动场；专用区
+v. 停（车）；泊（车）；（在某处）坐下（或站着）；把…搁置
+[网络] 帕克；停车场助手；派克"
 hospital,"n. 医院
 n. (Hospital)人名；(英)霍斯皮特尔"
-go,[网络] 困觉；绿基色输出；格拉苏蒂
-to,"prep. 到；向；至；对于
-infinmarker. 应该；必须；表示目的或意图；表示结果
-adv. 关着；关闭；关上
-[网络] 收件人；给；往"
-grass,"n. 草, 草原, 牧场
-[医] 草, 禾本"
-tree,[网络] 树；树结构；连通图为树
+go,"G.O.
+abbr.
+general office 总公司,总局,总办事处,总社
+general order [亦作 g. o.]
+Go
+= general obligation bond
+go1
+[ɡəu]
+vi.
+前进；行走；去；驶：
+(从某地)离去，出发，离开：
+(如机器等)运转，运行；操作；行动，进行；起作用；(心脏)跳动：
+采取(特定的)行动：
+处于；成为；变得；变成(某种特定状态)：
+(消息等)被流传，传播；(货币等)流通，通用，通行：
+通(向)，延伸至；到达；通到：
+(时间)过去，消逝；被用完：
+做特定的动作：
+(使自己)遭受，招惹：
+被出售，被卖掉(常与at， for连用)：
+(钱等)被用于，让与，分配给(某一特定的领受者或目的)(常与for， in， on， to连用)：
+(奖品、职位、财产等)被给(予)，属(于)，归(于)(to)：
+有助(于)，趋向(于)，倾向(于)：
+结果，结局；结果是：
+(事情)发展，进行，进展：
+(经常)被放置；归属：
+(式样、色彩等)相配；相称；和谐：
+发出某种声音：
+[用于as引导的从句](就某方面)说，一般说来，从一般情况来看：
+用完，用光；消耗；耗尽；衰退，减弱：
+垮掉；损坏；陷下，塌下；折断；被丧失：
+死去，失去知觉：
+(音乐)有某种调子；(谚语等)用某种措辞表达；(被)创作；(被)写作：
+装得下，装得进；塞得进；可通过：
+诉诸，求助于：
+开始，开动：
+持续：
+被放弃，被废弃；被去掉；被辞退(常与can， have， to， must 连用)：
+(话语等)有权威性，可相信的；(话)是决定性的：
+被接受；被准许；被信以为真；有效：
+(在言行等方面)达到特定程度：
+总共，构成，合成：
+【数学】(除)得整数商，纳入(与into连用)：
+将要，打算，预定[用进行时态，后接不定式]：
+决意[用作不定式，强调感情冲动、迅速果断或拼死之意]：
+下沉：
+[口语]兴奋地表演；以特别鼓舞人心的方式表演：
+[美国方言]想[常用于否定句，后接不定式]：
+[俚语]撒尿，拉屎
+[古语]离开法庭
+vt.
+赌，(用钱或物)打赌，以…打赌，同…打赌，押(赌注)：
+循…而行，通行于，沿…进行：
+[美国口语]忍耐，忍受；容忍，宽恕[通常用于否定句]：
+[口语]为…作保释人，为(被捕人)提供(保释金)；承担…的责任：
+[口语]出(价)，愿付(一定数额的款)；出(牌等)：
+[美国口语]欣赏，鉴赏；分享，享用，享受，品尝：
+对付：
+[主美国口语]重量为；成长到(某种程度)：
+走过，穿过：
+[口语]说，说道[通常用现在时叙述过去说的话]
+【棒球】在(全场比赛的特定局次)中投球
+n.
+去；离开；进行
+成功，胜利；成功的事，进行顺利
+[口语]精神，精力；活力，劲头，干劲；频繁紧张的活动
+[口语]事件，意外的事态
+[美国口语]协议；约定；交易
+[口语]试一下，尝试，试图；努力，尽力
+[英国口语]一次提供(或取得)的量；一杯(酒)；一份(食物)
+[口语]一口气，一下子，一举
+[口语]轮到的机会
+[英国口语](剑桥大学学士)学位考试
+(疾病的)发作
+允许，许可；批准
+比赛；拳击比赛
+[the go][口语]时兴东西，时髦东西
+【牌戏】宕(指未能完成定约)；吊牌
+adj.
+[美国口语]完全准备(或预备)好的；处于(可发射、使用等)良好状态的
+[美国口语]运行正常的，功能精确的
+时髦的，合潮流的
+[俚语]好的，行的，对的
+interj.
+(赛跑时的起跑口令)跑：
+(赛跑时的起跑口令)跑：
+近义词:
+depart
+. leave
+. quit
+. retire
+. withdraw
+反义词:
+arrive
+. come
+短语:
+a capital go
+[口语]太好了，妙极了
+all (或quite) go
+[口语]最流行的，非常时髦的
+a near go
+[口语]极侥幸的逃跑
+a pretty (或 quite, run) go
+[口语]难题，难办的事；怪事；尴尬的事
+as (或 so) far as…goes
+就…来说
+as (或 so) far as it (或 that) goes
+就目前情况而言，就其本身而言
+as…go
+就…而论，从…的通常情况而论
+as people (或 things) go
+就一般情况而言，从一般情况来看
+at one go
+一下子，一举
+be going strong
+见 strong
+be going to
+计划(或打算、决定)(做某事)
+即将(发生某事)
+可能会(发生某事)
+be on the go
+[口语]在活动，在活跃
+[口语]准备离开；正在离开
+[俚语]有醉意
+[废语]衰弱；濒于死亡
+call it a go
+一言为定
+could go
+[口语]真想吃(或喝)
+enough (或 something) to go on with
+见 enough
+fair go
+公平的比赛；公平对待；机会均等
+first go
+[口语]第一次尝试；一下子，一口气
+first go off
+[口语]最初，一开始 [亦作 at first go off]
+from the word go
+[美国口语]始终，从一开始；完全，彻底
+full of go
+[口语]精力充沛，劲头十足
+get someone going
+[美国俚语]使某人激动(或发怒)
+get up and go
+果断迅速地行动
+go all out
+[口语]全力以赴，鼓足干劲
+go aloft
+死，去世
+go along for the ride
+凑凑热闹，逢场作戏
+Go along with you!
+[口语]去你的!别瞎说!(表示怀疑、不相信)
+go (and) chase oneself
+[美国俚语]别捣乱，走开
+go and (do something)
+[口语]竟然愚蠢到(去干某事)；竟然粗心到… (表示惊讶、厌烦、不赞许等)
+go around together
+情侣的定期约会
+go astray
+迷路，走失；误入歧途，堕落
+放错地方
+go at it hammer and tongs
+全力以赴地干，精神抖擞地工作
+激烈殴斗，全力进攻
+go badly
+(工作、事情等)进展不顺利
+go bananas
+失常，不正常
+go bang
+发出嘣地一声
+go begging (或 a-begging)
+见 beg
+go behind someone's back
+背后行事，暗中行事
+go below (decks)
+【航海学】到舱内去
+go beyond one's duty
+(出于负责、勇气、决心或多管闲事而)逾越职责
+go broke
+[口语]破产
+go bung
+[澳大利亚、新西兰俚语]
+失败，完蛋
+死
+go bust
+[俚语]
+失败，完蛋
+破产
+go cahoots
+见 cahoots
+go counter to
+与…背道而驰；违反…
+go downhill
+(经济、健康等)恶化；(道德)日益败坏
+走下坡路
+go down swinging
+体面地失败
+go down the drain
+每况愈下
+go down the line
+[俚语]被解雇
+go drink from the sea
+滚开，别管闲事
+go dry
+见 dry
+go easy
+[口语]慢慢来；从容不迫
+go easy on someone
+待人善良，对人温厚
+go easy with (或 on)
+[口语]
+小心处置…；对…进行从宽处理
+爱惜…；节约…
+go farther (或 further) and fare worse
+每况愈下
+go fifty-fifty
+[美国英语]平分，均摊，一半一半
+go flat out
+= go all out
+go flop
+[俚语]垮台，遭到失败
+go for a Burton
+见 Burton
+go for a song
+非常便宜
+go for broke
+全力以赴
+go for it
+冒一下险，大胆试一试
+go full tour
+[俚语]回家
+go fut (或 phut)
+(机器等)故障，不能运转；(机构)垮台；崩溃
+(计划等)落空，告吹
+go glimmering
+见 glimmering
+go halves (on或in something with someone)
+见half
+go hang
+[口语]随它去，听之任之
+go hard with someone
+使某人遭受困难(或痛苦、不幸、危险等)
+go hence
+[诗歌用语]
+离开，出去
+死
+go home
+回家，回国
+击中要害；打中目标
+[委婉语]死去，“回老家”[亦作 go to one's last (或 long) home]
+用坏；穿破
+腐败
+深入；使获得深刻印象
+go home in a box
+[俚语、委婉语]死
+go home to
+使受感动；打动(某人)的心
+使…理解(或领会)；使…有深刻印象
+go ill
+不妙；不祥
+go ill with someone
+对某人不利；对某人而言是不祥的
+go in and out
+进进出出
+忽明忽暗
+go in at
+[口语]痛打，猛烈攻击
+go in circles
+(毫无成效地)兜圈子
+go into particulars
+见particular
+go into the red
+出现赤字
+go into the whys and wherefores
+见 why
+go it
+[口语]
+着手；进行一些活动
+飞速行进；使出猛劲干
+(在比赛中)加油，作进一步努力[常用作祈使句]
+挥霍；过放荡生活
+go it alone
+[口语]单独行动；独自生活
+go it blind
+鲁莽行事；碰运气
+go it strong
+见 strong
+go it strong on
+见 strong
+go it with a rush
+见 rush
+go, man go
+[美国口语]干得好，太妙了
+go near to do (或 doing) something
+几乎要做某事
+go off at half-cock (或 half cock)
+枪走火
+[口语]没准备好就干，仓促行事[亦作 go of half-cock]
+go one better
+出价超过对手
+超过以前的成绩；更胜一筹
+[美国英语]胜过某人[见 better¹]
+go out of one's mind
+见mind
+go over big
+[美国口语](演出等)大受欢迎；非常成功；(演员)走红[亦作 go big]
+go over-board
+【航海学】从船上跌落；被扔到船外
+go phut
+= go fut
+go pit-a-pat
+(心)怦怦地跳；劈劈啪啪地跑
+go public
+(封闭式公司)让股票上市公开发售
+go scot free (或 scot-free)
+安然逃脱；逍遥法外
+go seesaw
+忽前忽后，忽上忽下；交替进行
+go slow
+(车辆)慢行；慢慢走
+慢点来：留神(叫听话人对问题思考一下)
+减少活动
+[英国英语]怠工(以表示抗议)
+go smash into
+冲进，撞入
+go snap
+突然裂开；啪地一声断裂了
+go soak yourself (或 your head)
+[口语]走开，别来打扰我
+go so far as (to do)
+甚至(做出某事)；竟然到(做出)…的地步
+go solid for
+见 solid
+go some
+[美国口语]
+收获很大；很有成就；做了不少
+(工作、事情等)有效地(或顺利地、迅速地)进行
+go (someone) one better
+[口语]
+胜过(某人)；(比某人)略胜一筹
+(玩纸牌时)增加赌注
+go somewhere
+[口语] 出去一下(上厕所的委婉语)
+go south(with something)
+[俚语]卷逃；(偷窃某物后)失踪
+go steady (with)
+[美国口语](与某人)谈恋爱；(与异性朋友)经常外出约会
+go straight
+径直走
+重新做人，改过自新
+go swimmingly
+进行顺利
+go the way of all flesh (或 of all the earth)
+见way
+go the way of nature
+见 way
+go the whole coon
+见coon
+go the whole hog
+见 hog
+Go to!
+[古语]
+别说了!去你的!我不信!(表示不相信、不赞同)
+快!开始吧!
+go (to) bye-bye
+上床睡觉
+go too far
+走得太远；做得太过分
+go to pot
+见pot
+go to rest
+见rest
+go (to) smash
+[口语]
+垮台，完蛋；解体
+破产
+go well
+(工作、事情、计划等)进行顺利
+go without saying
+[口语]不言而喻，不必说
+go wrong
+走错路
+失足；堕落
+失败，不如意
+(食品、产品等)腐败；变质
+(机器等)发生故障
+搞错，弄错
+going on
+[口语]接近，快到
+gone on someone
+[口语]倾心于某人
+have a go (at)
+[口语]
+尝试(某事)；试做(某事)
+攻击(某人)；责骂(某人)
+have been and gone and done it
+[口语]竟然干出了这种蠢事(表示惊讶、恼火)
+have something going for one
+[美国俚语]有本钱，有条件(尤指有才能、美貌、人事关系等)
+Here goes!
+[口语]瞧，开始了，看我的!(说话者开始做冒险举动或游戏时说的话) Here we go again.[口语]同样不愉快的事情又发生了。
+How goes it? (或 How is it going? How are things going?)
+[口语]你好吗?近况如何?
+It (或 That) goes without saying.
+不言而喻；显而易见。
+It's a go!
+[口语]行!就这么办!
+leave (或 let) go (of)
+松手；放手
+let go
+放开，松手；让…走，释放
+不理会；忽略
+开枪，发射
+听任；随它去吧 [亦作
+Let it go]
+【航海学】解开(缆绳等)
+开除；解雇
+let it go at that
+[美国口语]谈论到此为止；就这样吧
+let oneself go
+[口语]放松；放纵；尽情发泄自己的感情(或欲望等)
+let things go hang
+见 thing [亦作 let things slide]
+make a go of it
+使取得成功；使获得圆满结果
+make something go round
+使够分配；使够一段时间使用
+near go
+[口语]九死一生；差点送命
+no go
+[口语]无用，无价值；不行，不可能
+on the go
+[口语]忙碌，忙个不停
+[口语]衰弱，衰败
+[俚语]醉
+quite (或 all) the go
+非常流行
+sentry go
+【军事】
+换哨命令
+步哨勤务
+so far as it goes
+= as far as it goes
+That (或 It) goes without saying.
+不言而喻；显而易见
+the great go
+[英国英语]剑桥大学文学士学位正式考试
+the little go
+[英国英语]剑桥大学学士学位初试；预考
+There he (或 she, you) goes again.
+他(或她，你)那一套又来了。
+to go
+[口语]
+供外卖的(食物)
+仍未完成，有待于完成的；剩下的
+What goes?
+[美国俚语]发生什么事了?
+What has (或 is) gone of (或 with) someone?
+[口语]某人怎么样了?某人出了什么事?
+Where do we go from here (或 there)?
+下一步该怎么办?下一步是什么?
+Who goes there?
+(哨兵喝问)谁?
+You may go farther and fare worse.
+[谚语]往前走，情形可能更坏。
+变形：
+n.
+goes
+vi.
+went
+. gone
+. going
+go2
+[ɡəu]
+n.
+[日语](日本)古围棋 [亦作 Go， I-go]
+go
+n.
+Papago的变形
+Papago
+[,pæpə'ɡəu]
+n.
+帕帕戈人(北美印第安部落)
+帕帕戈人的乌托阿兹台克语
+变形：
+n.
+Papagos
+. go"
+to,abbr. table of organization；technical operation 技术操作；traditional orthography 【语言学】传统正字法
+grass,"n. 草；草地；牧草；青草
+v. （向警方）告密
+[网络] 草编家具"
+tree,"n. 树, 木料, 树状物
+vt. 把...赶上树
+[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构"
 flower,"n. 花, 开花植物, 精华, 盛时
 vi. 开花, 发育, 旺盛, 成熟
 vt. 用花装饰, 使开花"
@@ -137,7 +633,8 @@ hill,"n. 小山, 丘陵, 小土堆
 vt. 作成土堆, 堆成小丘"
 Christmas,[网络] 圣诞；基督的弥撒
 Father Christmas,圣诞老人；耶诞老人（等于Santa Claus）
-Christmas tree,圣诞树
+Christmas tree,"n. 【节】圣诞树
+[网络] 圣诞树枞树形的"
 card,"n. 卡片, 纸牌, 节目单, 明信片, 梳棉机
 vt. 备置卡片, 记于卡片上, 梳理
 [计] 卡片, 卡"
@@ -145,12 +642,16 @@ present,"n. 现在, 礼品, 瞄准
 a. 现在的, 出席的
 vt. 介绍, 引见, 赠送, 提出, 呈现, 上演
 vi. 举枪瞄准"
-New Year,新年
+New Year,"na. 新年；[N- Y-] =〔美国〕New Year 正月(初旬)
+[网络] 元旦；新年装；元旦新年"
 merry,"a. 快乐的, 愉快的, 嬉戏作乐的"
-too,"adv. 也, 非常, 太"
-here,"adv. 在这里, 此时, 这里
-n. 这里"
-for,[网络] 铁路交货点的货价；励磁系统强迫停运率
+too,adv. 太；也；很；还；非常；过度
+here,"n. 这里；今生
+adv. 在这里；这时
+int. 有！（点名时的回答）；喂！（用以引起注意等）"
+for,"prep. 为, 因为, 至于
+conj. 因为
+[计] DOS批处理命令:对一组参数重复执行指定的命令"
 thank,"n. 谢意, 感谢
 vt. 谢谢, 感谢"
-happy,[网络] -快乐
+happy,"a. 快乐的, 幸福的, 愉快的, 恰当的"

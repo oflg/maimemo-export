@@ -4,8 +4,10 @@ province,"n. 省, 地方, 职权, 领域
 [法] 省, 地方, 领域"
 enthusiastic,"a. 狂热的, 热心的, 热烈的"
 amazing,a. 令人惊异的
-information,[网络] 形成中；永远都在队伍中；信息
-website,网页；网址
+information,"n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉
+[计] 信息"
+website,"na. 【计】网站
+[网络] 网页；公司网址；参考网站"
 brilliant,"a. 光辉的, 灿烂的, 有才气的
 [机] 亮的"
 comprehension,"n. 理解, 包含"
@@ -14,13 +16,15 @@ instruction,"n. 指令, 教导, 命令
 method,"n. 方法, 办法, 条理, 秩序
 [医] [方]法"
 bored,a. 无聊的；烦人的；无趣的
-embarrassed,[网络] 尴尬
-attitude,"n. 态度, 看法, 姿势
-[医] 体态, 姿势, 态度"
-behaviour,作，行为；性能，特性，品质；状态，工况，运行情况
+embarrassed,a. 尴尬的；窘迫的
+attitude,"n. 态度；看法；我行我素的做派；姿势
+[网络] 态度决定一切；厉害；标志"
+behaviour,"n. 行为, 举止
+[计] 特性, 性能, 特点, 行为, 动作, 状态"
 previous,"a. 早先的, 前面的, 过急的
 [法] 以前的, 生前的, 前述的"
-description,[网络] 描写；摹状词
+description,"n. 描述, 说明, 种类
+[经] 说明书(物品), 品名种类, 货物名称"
 amazed,"a. 吃惊的, 惊奇的"
 embarrassing,"a. 令人为难的, 麻烦的"
 technology,"n. 技术, 工业技术, 术语
@@ -35,16 +39,19 @@ encouragement,"n. 鼓励, 激励, 奖励
 enjoyment,"n. 享乐, 快乐, 享受
 [经] 使用权"
 fluency,"n. 流畅, 雄辩, 善辩"
-misunderstanding,n. 误解；误会；不和
+misunderstanding,"n. 误会, 误解
+[法] 误解, 误会, 不和"
 disappointed,a. 失望的
 disappointing,"a. 使失望的, 期待落空的, 令人沮丧的"
-system,[网络] 系统；系统层
-teenager,n. 十几岁的青少年；十三岁到十九岁的少年
+system,"n. 系统, 体系, 制度, 方式, 秩序, 分类原则
+[计] 系统; 体制; 体系"
+teenager,"n. 青少年, 十几岁的少女, 十几岁的少年"
 disappear,"vi. 消失；失踪；不复存在
 vt. 使…不存在；使…消失"
-move,"n. 行动；移动；搬家；活动
-v. 移动；搬家；搬迁；前进
-[网络] 搬动；感动；移动文件"
+move,"n. 移动, 迁居, 步骤
+vt. 移动, 开动, 感动, 搬(家)
+vi. 移动, 离开, 运行, 迁移, 摇动, 搬家, 交往, 进展, 脱手
+[计] 移动; 传送; DOS外部命令:移动文件, 它可将文件移动到指定的地方"
 assistant,"n. 助手, 助理, 助教
 a. 有帮助的, 辅助的, 助理的"
 cover,"n. 盖子, 封面, 藉口
@@ -55,13 +62,17 @@ diploma,"n. 文凭, 毕业证书
 amusing,"a. 有趣的, 引人发笑的"
 energetic,"a. 精力充沛的, 积极的"
 intelligent,"a. 聪明的, 智能的, 了解的"
-nervous,adj. 神经的；紧张不安的；强健有力的
+nervous,"a. 神经紧张的, 不安的, 神经的
+[医] 神经的; 神经质的, 神经过敏的"
 organised,"a. 有组织的, 组织起来的"
 patient,"n. 病人, 承受者
 a. 忍耐的, 容忍的, 有耐性的, 坚忍的"
 serious,"a. 严肃的, 认真的, 重要的, 严重的
 [电] 严重的"
-shy,na. 讨厌…的
+shy,"n. 惊跳, 惊避
+a. 胆怯的, 畏缩的, 迟疑的, 羞怯的
+vi. 惊退, 乱投, 乱掷, 厌恶, 避开
+vt. 乱投, 乱掷"
 strict,"a. 严厉的, 绝对的, 详尽的, 严格的, 精确的
 [法] 严格的, 精确的, 绝对的"
 impression,"n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果
@@ -92,24 +103,27 @@ v. 开玩笑, 取笑, 作弄"
 summary,"n. 摘要, 概要
 a. 摘要的, 简略的
 [计] 摘要; 概要"
-respect,[网络] 尊重
-headmaster,校长
-headmistress,[网络] 女校长
+respect,"n. 尊敬, 尊重, 问候
+vt. 尊敬, 注意, 遵守"
+headmaster,"n. (中小学)校长, 监工"
+headmistress,n. (中小学)女校长
 period,"n. 时期, 节段, 节, 句点, 学时, 周期
 a. 当时特有的, 过去某段时期的
 interj. 就是这话, 就是这么回事"
-revision,n. [印刷] 修正；复习；修订本
+revision,"n. 校订, 修正, 修订本, 修订版
+[计] 修订版"
 translation,"n. 翻译, 译文, 转化, 调任, 平移, 转译
 [计] 转换"
-timetable,时间表
-topic,"n. 主题, 论题, 话题"
+timetable,n. 时间表
+topic,n. 主题（等于theme）；题目；一般规则；总论
 vacation,"n. 假期, 休假
 [法] 假期, 停审期, 休庭期"
 revise,"n. 校订, 修正, 改样
 vt. 校订, 修正, 校正"
 discipline,"n. 训练, 纪律
 vt. 训练, 惩罚"
-relationship,n. 关系；关联
+relationship,"n. 关系, 关联
+[医] 关系"
 formal,"a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的
 n. 正式的社交活动"
 relaxed,"a. 松懈的, 不严密的, 不严格的, 放松的, 得到休息的, 随意的, 不拘束的, 自在的"
@@ -117,11 +131,12 @@ similarly,"adv. 相像地, 类似于"
 helicopter,"n. 直升机
 vt. 由直升机运送
 vi. 乘直升机"
-motorbike,n. 摩托车
-tram,"n. 电车轨道；煤车
+motorbike,n. 摩托车；机器脚踏车；机车
+tram,"n. 电车轨道, 煤车, 纬纱, 纬丝
 vt. 用煤车运载
 vi. 乘电车"
-distance,[网络] 距离
+distance,"n. 距离, 远方, 遥远
+[计] 位距"
 abandoned,"a. 被抛弃的, 无约束的, 恣意放荡的"
 camel,"n. 骆驼, 打捞浮筒"
 cassette,"n. 盒式磁带, 珠宝箱, 暗盒
@@ -135,8 +150,10 @@ diamond,"n. 钻石, 菱形
 expert,"n. 专家, 行家
 a. 老练的, 内行的, 专门的
 [计] 高级"
-midnight, [医]人定
-product,[网络] 产品；产品创新
+midnight,"n. 午夜, 子夜, 半夜
+a. 午夜的, 半夜的"
+product,"n. 产品, 结果, 乘积
+[化] 生产物"
 scenery,"n. 风景, 景色, 舞台布景"
 shoot,"n. 射击, 狩猎, 芽, 射伤, 发射, 发芽, 急流, 推力, 摄影, 急送, 滑运道, 浪费
 vt. 射击, 射中, 损毁, 拍摄, 喷出, 投射, 挥出, 飞速行进, 挥霍, 给...注射
@@ -144,12 +161,12 @@ vi. 射出, 射击, 发出, 拍电影, 射门, 发芽"
 soil,"n. 土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池
 vt. 弄脏, 污辱
 vi. 变脏"
-journey,"n. 旅程, 旅行, 行程
-vi. 旅行
-vt. 游历"
-train,"n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序
-vt. 训练, 教育, 对准
-vi. 受训练, 锻炼"
+journey,"n. 旅行；旅程；〈文学〉历程；过程
+v. 〈正式〉到…旅行；到…旅游
+[网络] 旅途；路程；行程"
+train,"n. 列车；火车；列队行进的人（或动物）；队列
+v. 训练；培训；教育；接受训练
+[网络] 培养；火车乐队；列车站台"
 circus,"n. 马戏团, 马戏, 竞技场"
 seaside,"n. 海边；海滨
 adj. 海边的；海滨的"
@@ -159,16 +176,19 @@ eagle,"n. 鹰, 鹰状标饰"
 frighten,"vt. 使惊吓
 vi. 惊恐"
 kindergarten,n. 幼稚园
-apartment,n. 公寓；房间
+apartment,"n. 房间, 公寓"
 cartoon,"n. 卡通画, 漫画
 v. 画漫画"
-interview,"n. 接见, 采访；面试, 面谈
-vt. 采访；接见；对…进行面谈；对某人进行面试"
+interview,"n. 面试；访谈；面谈；会谈
+v. 面谈；访问；对（某人）进行面试（或面谈）；接受面试
+[网络] 采访；去面试；我会采访了别人了"
 interviewer,"n. 会见者, 面谈者, 进行面试者"
 event,"n. 事件, 结果, 事情的进程, 竞赛项目
 [计] 事件"
 exhausted,a. 耗尽的；疲惫的
-downtown,"[经] 城市中心, 商业区"
+downtown,"n. 市中心区
+a. 市中心的
+adv. 往闹市区"
 vacuum,"n. 真空, 空间, 真空吸尘器
 a. 真空的, 产生真空的, 利用真空的
 vt. 用吸尘器打扫"
@@ -185,10 +205,13 @@ souvenir,n. 纪念品
 survey,"n. 纵览, 视察, 测量, 俯瞰, 调查
 vt. 审视, 视察, 俯瞰, 通盘考虑
 vi. 测量土地"
-neighbourhood,[地理] 邻里
-local,abbr. low calorie 低卡路里
+neighbourhood,"n. 邻接, 周围, 附近一带, 邻近, 邻居关系, 地区, 街道, 街坊, 四邻
+[计] 邻域"
+local,"a. 地方性的, 当地的, 局部的, 乡土的, 本地的
+n. 当地居民, 本地新闻, 局部
+[计] 本地的; 局部"
 suburb,"n. 市郊住宅区, 郊区, 边缘"
-hometown,"故乡,家乡,祖国"
+hometown,[网络] 当地的；故乡
 attractive,"a. 吸引人的, 有魅力的
 [法] 有吸引力的, 有迷惑力的"
 fortunate,"a. 幸运的, 幸福的"
@@ -207,30 +230,36 @@ vi. 烦恼, 操心
 n. 麻烦, 纠纷, 讨厌的人"
 nuisance,"n. 讨厌的东西, 讨厌的人, 损害
 [医] 损害, 讨厌"
-rent,n. [口语]爸；妈
+rent,"n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂
+vt. 租用, 租出
+vi. 出租
+a. 分裂的, 破裂的
+rend的过去式和过去分词"
 district,"n. 区域, 地方
 [医] 地区, 地段"
-approach,"n. 接近, 入门
-vt. 接近, 近似, 找...商量
-vi. 靠近"
-harbour,[地理] 港湾
+approach,"n. 方法；接近；路径；道路
+v. 接近；建议；接洽；着手处理
+[网络] 措施"
+harbour,"n. 港, 避难所
+v. 庇护, 藏匿, (使)入港停泊"
 gorgeous,"a. 华丽的, 灿烂的"
-architecture,"n. 建筑学, 建筑式样
-[计] 体系结构"
+architecture,"n. 体系结构；建筑学；建筑设计；建筑风格
+[网络] 建筑学概论"
 starve,"v. (使)饿死, (使)挨饿"
-park,"n. 公园, 停车处
-vt. 停车, 置于
-vi. 停车"
+park,"n. 公园；园区；运动场；专用区
+v. 停（车）；泊（车）；（在某处）坐下（或站着）；把…搁置
+[网络] 帕克；停车场助手；派克"
 traffic,"n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量
 vi. 交易, 做买卖
 vt. 用...作交换
 [计] 通信量, 传输量"
-committee,n. 委员会
+committee,"n. 委员会
+[经] 委员会"
 organisation,"n. 组织, 团体, 体制, 编制"
 unemployed,"a. 失业的, 未被利用的
 [经] 没有被雇用的, 失业的, 没有被利用的"
-household,"n. 家眷, 家务, 王室
-a. 家务的, 家常的"
+household,"n. 一家人, 家庭, 家族, 王室
+a. 家庭的, 家常的, 王室的"
 occupation,"n. 职业, 占有, 占有期, 占领, 占领军
 [经] 占有, 占用, 职业"
 professional,"n. 专业人才
@@ -249,7 +278,9 @@ fascinating,"a. 迷人的, 吸引人的, 使人神魂颠倒的"
 afford,"vt. 买得起, 足以, 给予"
 survive,"vt. 比...活得长, 生存, 生还, 幸免于
 vi. 活下来, 幸存"
-contact,[网络] 装饰用套子
+contact,"n. 联系, 交际, 熟人, 接触
+vi. 接触, 联系
+vt. 使接触"
 liquid,"n. 液体, 流体, 流音
 a. 液体的, 透明的, 明亮的, 流动的, 易变的"
 expand,"vt. 使膨胀, 详述, 扩张
@@ -273,13 +304,18 @@ vt. 上演, 表演, 筹划
 vi. 适于上演, 乘驿车旅行"
 conclusion,"n. 结论, 结尾, 推论
 [法] 缔结, 结论, 推论"
-aim,[计] AOL即时信息传送
+aim,"n. 目标；目的；瞄准
+v. 瞄准；旨在；针对；对准
+abbr. (=American Indian Movement)美国印第安人运动
+[网络] 美国在线(AOL Instant Messenger)；另类投资市场(Alternative Investment Market)；伦敦另类投资市场"
 reaction,"n. 反应, 反作用, 反动
 [医] 反应"
 electrical,"a. 电的, 有关电的
 [医] 电的"
-equipment,[网络] 设备；设备标志符；仪器设备
-react,"vt. 重做, 重演"
+equipment,"n. 装备, 设备, 才能
+[化] 设备; 装备; 装置"
+react,"vi. 起反应, 起作用, 反攻
+[医] 应答, 发生反应"
 potassium,"n. 钾
 [化] 钾K"
 sodium,"n. 钠
@@ -288,14 +324,16 @@ calcium,"n. 钙
 [化] 钙Ca"
 magnesium,"n. 镁
 [化] 镁Mg"
-aluminium,铝
+aluminium,"n. 铝
+a. 铝的"
 zinc,"n. 锌
 vt. 镀锌于"
 partial,"a. 部分的, 偏袒的, 偏爱的
 n. 分音"
 copper,"n. 铜, 警察
 [化] 铜Cu"
-oxide,氧
+oxide,"n. 氧化物
+[医] 氧化物"
 rust,"n. 锈, 生锈, 衰退
 vi. 生锈, 衰退
 vt. 使生锈, 腐蚀"
@@ -311,9 +349,14 @@ float,"n. 漂流物, 浮舟, 漂浮, 浮萍, 彩车
 vi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动
 vt. 使漂浮, 容纳, 淹没, 发行, 实行
 [计] 浮动"
-form," 表示：具有...形状：dentiform,有...种形式：triform"
+form,"n. 形式；表格；形状；样子
+v. 组成；建立；组织；产生
+linkv. 成为；是
+[网络] 形成；使用表单；表单标记"
 dissolve,"v. 溶解, 解散"
-balance,[网络] 平衡；达到平衡
+balance,"n. 平衡, 差额
+vi. 平衡, 相等
+vt. 称, 权衡, 比较, 使平衡, 结算, 抵消"
 crucible,"n. 坩锅, 严酷的考验
 [化] 坩埚"
 tongs,"n. 钳子, 夹具
@@ -327,32 +370,38 @@ facility,"n. 容易, 灵巧, 设备
 lecture,"n. 演讲, 谴责, 讲稿
 vt. 演讲, 训诫, 说教
 vi. 讲演"
-department,[网络] 部门
+department,"n. 部门, 系, 机关
+[医] 部, 科"
 astonished,a. 吃惊的
 contain,"vt. 包含, 容纳, 控制
 vi. 自制"
-access,"n. 通路, 入口, 接近, 进入, 使用权, 发作
-vt. 访问, 存取, 接近, 使用
-[计] 访问, 存取"
+access,"v. 进入；〈正式〉到达；【IT】获得或储存(电脑文件)
+n. 通道；入口；机会；权力
+[网络] 访问权；连接开始；数据库之类的"
 crash,"n. 哗啦声, 猛撞, 崩溃, 粗布
 v. 撞碎, 破碎, (使)...坠毁
 a. 速成的
 [计] 崩溃"
 keyword,"关键字, 保留字
 [计] 关键字"
-log, = -logue
-software,软件;程序设备;语言设备;方案;设计计算法
-breakdown,"v. 分解；抛锚；分析；划分
-[网络] 损坏；出故障；瓦解"
+log,"n. 记录, 圆木, 日志, 计程仪
+vt. 伐木, 切, 航行
+vi. 伐木
+[计] 日志"
+software,"n. 软件
+[网络] 软件工程师；软体登录保存档；软件设计"
+breakdown,"毁掉, 制服, 压倒, 倒塌, 垮掉, 分解
+[化] 发生故障"
 source,"n. 来源, 水源, 根源, 原始资料, 源
 [计] 来源, 源程序"
 accessible,"a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
-data,"pl. 资料, 数据
-[计] 数据; DOS内部命令:用于显示或设定系统的日期"
+data,"n. 数据；资料；材料；（存储在计算机中的）数据资料
+[网络] 数据文档；产品处理的所有数据；数据录入文员"
 defence,"n. 防卫, 防卫设备
 [经] (诉讼程序中的)辩护"
 create,"vt. 创造, 建造, 引起, 任命"
-network,[机] 净功
+network,"n. 网络, 广播网, 网状物
+[计] 网络"
 via,"prep. 取道，通过；经由
 n. (Via)人名；(意、孟)维亚"
 percentage,"n. 百分比, 比率, 部分, 可能性
@@ -372,7 +421,7 @@ concentrate,"n. 浓缩, 精选
 v. 集中, 专心"
 definite,"a. 明确的, 一定的
 [法] 明确的, 确切的, 一定的"
-fantastic,[网络] 电扇探密
+fantastic,"a. 奇妙的, 稀奇的, 空想的"
 independent,"adj. 独立的；自主的；自治的；不相干的人所做的（或提供的）
 n. 无党派议员（或候选人等）
 [网络] 有主见的；独立报；独立自主的"
@@ -392,7 +441,8 @@ statistics,"n. 统计学, 统计资料
 [计] 统计信息"
 shorten,"vt. 弄短, 缩短, 减少
 vi. 缩小, 变短"
-sideways,[网络] 杯酒人生；向一边的；发球得分制
+sideways,"adv. 向旁边, 向侧面地
+a. 旁边的, 向侧面的"
 in other words,换句话说
 look forward to," 期望, 盼望; 瞩望; 属望; 企"
 at the start of,[网络] 在…开始的时候；在……的开始；在---的开端
@@ -402,11 +452,11 @@ be divided into, [法]划分为
 take part in,"参与, 参加
 [经] 参加, 参与"
 make sure,确定
-so that,所以
+so that,"如此…以致…；以致…, 结果是…；以便"
 make progress,取得进步/展
-as a result,结果
-in fact,"事实上
-[法] 事实上"
+as a result,因此;结果
+in fact,"na. 其实；总之
+[网络] 事实上；实际上；I事实上我"
 fall asleep,"入睡, 长眠, 懈怠, 静止不动"
 tell jokes, 讲笑话
 get on,"na. 上马；安上；过日子；相投 (with together)
@@ -416,23 +466,24 @@ get off,"na. 下车；脱下(衣服等)；脱(衣)；下(马)
 get into,[网络] 到达什么地方；这个错误可能使他陷入困境
 get out of,"na. 逐渐放弃(恶习)；避免；由…出来；拔出
 [网络] 逃避；摆脱；离开"
-take off,"v. (飞机)起飞；出去；拿掉；移送
-[网络] 脱下；脱掉；脱去"
+take off,"拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开
+[经] 取消"
 be short for, 是…的简称；是…的缩写
-not ... any more,"不再, 不比...多"
+not ... any more,[网络] 不再；不再是了；再也不会了
 out of date,"过时的, 废弃的
 [化] 过期的; 过时的"
 refer to,"v. 查阅；提到
 [网络] 参考；涉及；谈到"
-put up,"adj. 预先商定的
-[网络] 举起；张贴；搭起"
-so far,迄今为止
+put up,"举起, 抬起, 进行, 推举, 参加竞选, 提供, 建造, 接待, 包装, 公布, 上演
+[化] 搭架"
+so far,"na. 就是那么些；到现在为止；到目前(此地)为止；就此范围来说
+[网络] 向阳之诗；家人远离"
 up to now,到目前为止
 till now,直到目前
 get away from,"离开,摆脱,脱离"
 a great many,许许多多
 a number of,许多的
-go up,"上升, 兴建"
+go up,n. <美俚>粘稠液体(如巧克力糖浆)
 add ... to ...,"na. 增加
 [网络] 增添；增进；添加"
 used to,"过去经常(做)..., 过去有规律地发生"
@@ -440,10 +491,12 @@ in the area of,在…方面
 be proud of,"自豪, 高兴"
 be supposed to,"应该, 被期望"
 consist of,由...组成
-as well,也
+as well,n. (Aswell)人名；(英)阿斯韦尔
 become known as ...,n. 以…而闻名
-go down,"下去, 下沉, 坠落, 被接受, 咽下, 平静下来, 下降, 传下去"
+go down,"na. 下去；(日,月)落下；继续到  (风,浪等)平静下来；消退
+[网络] 下降；下沉；下降，降低"
 come up with,"赶上, 提出"
 from that moment on,从那时起
 concentrate on,"集中, 全神贯注于"
-compared with,与…相比
+compared with,"na. 和…比起来
+[网络] 中除过去分词"
