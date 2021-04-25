@@ -1,17 +1,15 @@
 ﻿used,"a. 使用过的, 二手的, 习惯的"
 studied,"a. 有计划的, 慎重的"
-played,"v. 演奏；播放；玩耍；参加竞赛（play的过去分词）
-adj. 比赛的"
+played,v. 玩耍；演奏；播放；参加竞赛（play的过去分词）
 visited,"v. 拜访, 访问（visit的过去式）"
-ran,"v. 跑（run的过去式）
-n. (Ran)人名；(俄、瑞典、塞)拉恩；(柬)兰"
+ran,run的过去式
 talked,"n. 讲话, 交谈 talk的过去式
 v. 说( talk的过去式和过去分词 ); 讨论; 说话; （用以强调款额、情况严重程度等）讲的是"
 jumped,v. 跳跃（jump的过去分词）
 cleaned,v. （使）清洁( clean的过去式和过去分词 ); 变干净; 除去…的灰尘; 使…干净
 watched,"vt. 注视, 注意（watch的过去式与过去分词形式）"
 clean up,"na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利
-[网络] 打扫；打扫干净；清除"
+"
 last night,昨晚
 the day before yesterday,前天
 parade,"n. 游行, 炫耀, 阅兵
@@ -19,26 +17,20 @@ v. 游行, 炫耀, (使)列队行进"
 trumpet,"n. 喇叭, 小号, 喇叭声
 vi. 吹喇叭
 vt. 用喇叭吹出, 吹嘘"
-went,"v. 去，过去（go的过去式）
-n. (Went)人名；(德、匈、荷)文特；(英)温特"
-ate,"v. eat(吃)的过去式
-[网络] 自动测试设备(Automatic Test Equipment)；自动化测试设备(Automated Test Equipment)；吃的过去式"
+went,go的过去式
+ate,"eat的过去式
+"
 wrote,write的过去式
 read,"v. 读, 阅读, 理解
 a. 有学问的
 n. 读取, 阅读
-[计] 读取"
-made,"comb.form 表示“…结构的”,“…制造的”：Well-made, precisison-made, factory-made, locally-made"
-rode,"v. 骑（ride的过去式）
-n. (Rode)人名；(英、法、德、俄、塞、瑞典)罗德"
-sang,"v. 唱，唱歌（sing的过去式）
-n. (Sang)人名；(东南亚国家华语)生；(瑞典、老、柬、泰)桑；(中)生(广东话·威妥玛)"
+"
+made,"a. 人工制成的, 成功的, 创造的
+make的过去式和过去分词"
+rode,ride的过去式
+sang,sing的过去式
 drank,drink的过去式
-beautiful,"adj. 美丽的
-出色地
-出色的
-迷人的
-迷人地"
+beautiful,a. 美丽的
 desert,"n. 沙漠, 应得的赏罚, 功劳
 a. 沙漠的, 不毛的
 vt. 放弃, 遗弃, 擅离
@@ -56,7 +48,7 @@ vi. 流泪, 流口水, 加水
 a. 水的, 水上的, 水生的, 含水的"
 lamp,"n. 灯
 vt. 照亮
-[计] 逻辑模拟分析系统"
+"
 won,win的过去式和过去分词
 ate some cotton candy,无
 had fun with friends,无
@@ -66,100 +58,90 @@ forgot,forget的过去式和过去分词
 lost,"a. 失去的, 遗失的, 迷惑的
 lose的过去式和过去分词"
 happened,"v. 发生（happen的过去式, 过去分词）"
-luck,"n. 运气；幸运；好运；侥幸
-v. 侥幸成功
-[网络] 时来运转吊坠；单肩背包"
-key,"n. （打字机等的）键；关键；钥匙
-vt. 键入；锁上；调节…的音调；提供线索
+luck,"n. 运气, 幸运, 好运, 侥幸
+vi. 靠好运成功"
+key,"n. 钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁
+vt. 调音, 锁上, 提供线索
 vi. 使用钥匙
-adj. 关键的
-n. (Key)人名；(英)基；(德、荷、瑞典)凯"
+"
 lucky,"a. 幸运的, 吉祥的, 好运的, 侥幸的"
 fine,"n. 罚款, 罚金, 晴天, 精细
 a. 好的, 晴朗的, 健康的, 细小的, 精细的
 vt. 罚款, 精炼, 澄清
 vi. 变清, 变细
 adv. 很好
-[计] 精细"
-first,"adv. 第一；首先；优先；宁愿
-n. 第一；开始；冠军
-adj. 第一的；基本的；最早的
+"
+first,"adv. 首先, 第一, 优先
+a. 第一的
 num. 第一
-n. (First)人名；(英)弗斯特；(捷)菲尔斯特"
+n. 开始, 第一"
 next,"n. 下一个
 a. 下一个的, 其次的, 贴近的
 adv. 然后, 下次, 次于
-[计] 近邻干扰"
-then,"adv. 然后；那么；于是；当时；此外
-n. 那时
-conj. 然后，当时
-n. (Then)人名；(德)特恩"
+"
+then,"adv. 然后, 当时
+conj. 然后, 当时
+n. 那时"
 really,"adv. 实际上, 真实地, 实在"
 tired,"a. 疲累的, 疲乏的, 厌倦的"
 scared,"a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的"
 excited,"a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的"
-sad,"abbr. 季节性情感障碍
-[网络] 悲哀的；难过；悲伤"
+sad,"a. 忧愁的, 悲哀的"
 stayed,"v. 停留, 制止（stay的过去分词形式）"
 stay up late, 深夜不睡，迟睡; 熬夜
 heard,hear的过去式和过去分词
-noise,"n. 噪声；噪音；声音；干扰
-v. 吵；哄传；传说；〈罕〉大声谈论
-[网络] 噪点终结者；噪音娱乐系；噪音探测器"
+noise,"n. 噪音, 杂音, 响声, 喧闹
+vt. 谣传
+vi. 喧闹
+"
 got,"get的过去式和过去分词
-[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶"
+"
 kitten,"n. 小猫, 淘气姑娘
 vt. 产仔, 卖弄风情"
 got a poor grade,无
 because,conj. 因为
 climb,"v. 攀登, 上升, 爬
 n. 攀登, 爬升"
-mountain,"n. 山；高山；山脉；山岭
-[网络] 大山；山牌；山岳"
-why,"adv. 为何；（反问，表示不必）何必；（说明理由）为什么
-n. 原因；难解的问题
-int. 嗨
-[网络] 为什麽；为什么做；何故"
-into,"prep. 到…里；深入…之中；成为…状况；进入到…之内
-n. (Into)人名；(芬、英)因托"
+mountain,"n. 山, 山脉, 大堆"
+why,"adv. 为什么
+n. 原因, 理由"
+into,"prep. 进入...之内, 朝..., 深入...之中, 成为...状况"
 cave,"n. 洞, 穴
 vi. 凹陷, 塌落
 vt. 挖洞, 使凹陷, 损坏...的基础"
 angry,"a. 生气的, 愤怒的"
 proud,"a. 骄傲的, 自大的, 自豪的, 辉煌的, 壮丽的"
 turn on,"na. 转向；对…进行突击
-[网络] 打开；接通；开启"
+"
 turn on the light,"na. 开电灯
-[网络] 开灯；打开灯；打开电灯"
-turn off,"关掉, 卖掉, 使转变方向, 解雇, 生产, 制造, 车削成, 使厌烦, 拐弯, 变成"
+"
+turn off,"v. 关掉
+"
 turn off the TV,无
 put away,"v. 把…收起来；储存
-[网络] 放好；把……收起来；收好"
+"
 put away your books,无
 take out,"na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)
-[网络] 拿出；去掉；拿出来"
+"
 trash,"n. 垃圾, 废物
 vt. 丢弃"
-put on,"把...放上去, 穿上, 假装, 增加, 上演, 使...上场, 使起作用, 施加于"
+put on,"na. 假话
+"
 put on your jacket,无
 hang up,"v. 挂断电话；挂机；悬挂；耽搁
-[网络] 挂起；把…挂起来；挂电话"
+"
 hang up your clothes,无
 busy,"a. 忙碌的, 热闹的, 没空的
 vt. 使忙
 vi. 忙碌
-[计] 忙; 忙碌"
+"
 in a minute,"马上, 立刻"
-later,"adv. 后来；稍后；随后
-adj. 更迟的；更后的
-n. (Later)人名；(德)拉特"
+later,"adv. 以后, 随后"
 carried,a. 入神的；被运的；忘我的
 pushed,"a. 拮据的, 紧张的, 没空的, 忙"
 gave,give的过去式
-found,"v. 建立；创建；铸造；把…基于
-adj. (文艺作品等)找到的；已包括在价款[租金等]之内的
-n. 不另外收费的供应品[服务等]
-[网络] 方正"
+found,"vt. 建立, 创立, 铸造
+find的过去式和过去分词"
 dropped,a. 抛踢球得分的
 pulled,a. 牵引的；扯下来的
 must,"n. 必须, 未发酵葡萄汁, 绝对必要的事物
@@ -167,13 +149,11 @@ aux. 必须"
 master,"n. 主人, 硕士, 大师, 母机
 a. 主人的, 主要的
 vt. 征服, 控制, 精通"
-way,"n. 方式；方法；途径；路
-adv. 很远；大量；非常；极其
-v. 让开；除去；处分
-[网络] 道路；路线；方向"
-careful,adj. 仔细的，小心的
+way,"n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面
+adv. 远远地, 非常"
+careful,"a. 小心的, 谨慎的"
 dangerous,"a. 危险的
-[法] 危险的, 危害的"
+"
 afraid,"a. 害怕的, 恐怕的, 遗憾的"
 club,"n. 俱乐部, 木棍, 球棒
 vt. 用棍棒打, 缴纳
@@ -181,7 +161,5 @@ vi. 联合起来
 a. 俱乐部的"
 fight,"n. 打架, 争吵, 斗志
 v. 对抗, 打架"
-hurry up,"na. 催促；赶快
-[网络] 快点；赶紧；匆匆完成"
-go out,"na. 出国；(火,灯)熄；辞职；下台
-[网络] 熄灭；出去；外出"
+hurry up,"赶快, 匆匆完成"
+go out,"出去, 熄灭, 过时, 辞职, 倒塌, 罢工"

@@ -3,15 +3,15 @@ novel coronavirus,无
 2019-nCoV,无
 reservoir for virus,无
 pneumonia,"n. 肺炎
-[医] 肺炎"
+"
 novel coronavirus pneumonia,无
 NCP,[计] 网络控制程序
 contagious,"a. 触染性的, 会蔓延的
-[医] (接)触(传)染的"
+"
 infectious,"a. 有传染性的, 易传染的
-[医] 传染性的"
+"
 outbreak,"n. 爆发, 暴动
-[医] 暴发"
+"
 human-to-human transmission,无
 droplet transmission,飞沫传播
 imported case,无
@@ -26,9 +26,9 @@ patient in critical condition,无
 fatality rate,[医] 致死率
 death toll,n. 死亡人数
 symptom,"n. 症状, 征候, 征兆
-[医] 症状"
+"
 fever,"n. 发烧, 发热, 热病
-[医] 发热, 热"
+"
 dry cough,[医] 干咳
 shortness of breath,"[医] 呼吸浅促, 呼吸浅短, 气促"
 breathing difficulty,无
@@ -36,8 +36,7 @@ respiratory infection, [医]呼吸道感染
 "fever, cough and difficulty in breathing",无
 acute respiratory infection symptom,无
 seafood market,无
-ground zero,"na. 【军】(核)爆心投影点；(炸弹的)着地点；一片空白
-[网络] 零场域"
+ground zero,n. 开始; 起点; 爆心投影点
 illegal wild animals transaction,无
 contain the spread,无
 contain the outbreak,无
@@ -64,19 +63,18 @@ vi. 受治疗, 被加工处理, 被硫化"
 mask,"n. 面具, 假面具, 掩饰, 石膏面模
 vt. 戴面具, 掩饰, 使模糊
 vi. 化装, 戴面具, 掩饰, 参加化装舞会
-[计] 屏蔽; 掩码"
-face mask,"[化] 面具; 防护面具
-[医] 面印模罩, 面罩"
+"
+face mask,
 protective clothing,[医] 防护衣
 protective suits,无
 goggles,"n. 护目镜, 风镜
-[化] 防护镜; 防护眼镜; 护目镜; 眼罩"
+"
 disposable gloves, [医]用后可弃手套
 National Health Commission,无
-NHC, [医][=national health council]全国卫生理事会，全国卫生协会
+NHC,[网络] 下一跳客户机；宿主细胞
 World Health Organization,"(联合国)世界卫生组织
-[医] 世界卫生组织"
-WHO,[网络] 世界卫生组织；世界卫生保健组织；世界健康组织
+"
+WHO,[医] 世界卫生组织
 Chinese Center for Disease Control and Prevention,无
 National Healthcare Security Administration,无
 medical institution,[医] 医疗机构

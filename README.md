@@ -9,14 +9,13 @@
 > 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
 ```shell
 > python main.py -h
-usage: main.py [-h] [-t {csv,txt,both}] [-a | -l [LIST [LIST ...]]]
-
-用于生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
-
+usage: main.py [-h] [-t {csv,txt,both}] [-f] [-a | -l [LIST [LIST ...]]]
+导出墨墨背单词词库，并生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
 optional arguments:
   -h, --help            show this help message and exit
   -t {csv,txt,both}, --type {csv,txt,both}
                         导出的文件类型
+  -f, --force           覆盖已生成的文件
   -a, --all             导出墨墨背单词所有词库
   -l [LIST [LIST ...]], --list [LIST [LIST ...]]
                         词库名，可多个，与其他选项配合使用时，该选项必须放在最后

@@ -1,58 +1,47 @@
 ﻿book,"n. 书, 书籍, 帐簿, 名册, 工作簿
 v. 登记, 预订
-[计] 工作簿"
+"
 ruler,"n. 统治者, 管理者, 尺, 直尺
 n. 划线板
-[计] 标尺"
+"
 pencil,"n. 铅笔, 色笔, 眉笔, 画笔, 光线束
 vt. 用铅笔写或涂, 草拟"
 schoolbag,n. 书包
-teacher,"n. 教师；导师
-n. (Teacher)人名；(英)蒂彻"
+teacher,"n. 教师, 老师, 导师"
 I,"pron. 我
 n. 英语字母表的第9个字母；（罗马数字）1
 abbr. 岛，群岛
-[网络] 五；d日；m月d日"
+"
 have,"vt. 有, 怀有, 拿, 进行
 aux. 已经"
 a,"第一个字母 A; 一个; 第一的
-art. [计] 累加器, 加法器, 地址, 振幅, 模拟, 区域, 面积, 汇编, 组件, 异步"
-an,"suf. 表示; “碳水化合物的酐类”：dextran; “不饱和的碳化物”：tolan; 用于专有人、地名等后构成通常可兼作名词用的形容词表示“…时期的(人)”, “…地方的(人)”, “在…居住的(人)”, “在…出生的(人)”：American, Asian, Elizabethan, Victorian; 用于表示体制、学科等的词后及宗教或其他流派创始人的人名后构成可兼作名词的形容词或单词性的形容词或名词表示“精通…的(人)”, “带有…特征的(人)”, “属于…的(人)”, “信奉…的(人)”, “追随…的(人)”"
+art. "
+an,art. 一
 face,"n. 脸, 面容, 正面, 外观
 vt. 面对, 朝, 正视, 面临
 vi. 朝, 向
-[计] 现场可改变的控制元件"
-ear,"n. 耳；耳朵；有…耳朵的；耳朵…的
-v. 抽穗
-[网络] 耳状物；听觉；听力"
-eye,"n. 眼睛；视力；眼光；见解，观点
-vt. 注视，看
-n. (Eye)人名；(德)艾厄；(英)艾"
+"
+ear,"n. 耳朵, 倾听, 听觉, 穗
+vi. 抽穗"
+eye,"n. 眼睛, 视力, 看
+vt. 看, 注视"
 nose,"n. 鼻子, 突出部分, 嗅觉
 vt. 嗅到, 探出, 用鼻子触
 vi. 闻, 嗅, 探听, 告密"
 mouth,"n. 嘴, 口, 口腔, 口状物
 vi. 装腔作势说话, 做鬼脸
 vt. 说出, 做作地说"
-this,"pron. 这；这里；这时；(前述二物中的)后者
-adj. 这；即将来到的；今…
-adv. 这个；本；这样；这么
-[网络] 这场；此；这位"
-is,"v. 是
-abbr. (=island；isle)岛；群岛
-[网络] 冰岛；在；印度标准(Indian Standard)"
-my,"int. 哎呀；表示惊讶
-adv. 我的；表示吃惊等；表示亲切；对下级的称呼
-abbr. (=Malaysia)马来西亚
-pron. ""I"" 的所有格形式
-[网络] 马来西亚(Malaysia)；关於我；买"
-dog,"v. 跟踪；笼罩在…心头；弄得…狼狈不堪；被…困扰
-n. 【动】犬；【动】雄性的犬科动物；常用于形容词后；〈侮辱〉卑鄙的人
-[网络] 狗；小狗；狗狗"
-bird,"n. 鸟；家伙；羽毛球
-vt. 向…喝倒彩；起哄
-vi. 猎鸟；观察研究野鸟
-n. (Bird)人名；(英、西)伯德"
+this,"pron. 这, 本
+a. 这, 本
+adv. 这么"
+is,"be的现在式第三人称
+"
+my,"pron. 我的
+"
+dog,"n. 狗, 坏蛋
+vt. 跟踪, 尾随"
+bird,"n. 鸟, 羽毛球
+vi. 打鸟"
 tiger,"n. 老虎, 虎, 凶暴的人"
 monkey,"n. 猴子, 猿, 打桩锤
 vi. 淘气, 胡闹
@@ -60,429 +49,68 @@ vt. 嘲弄"
 cat,"n. 猫, 恶妇
 vi. 呕吐
 计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版
-[计] 计算机辅助教学, 计算机辅助翻译, 计算机辅助排字, 计算机辅助测试"
-what,"pron. 什么；多么；真；…的事物
-adj. 什么；多少；关系形容词
-adv. 多少
-conj. 同“as much as. He helps me what he can”
-[网络] 什麽；做什么；是什么"
-it,"n. 信息技术（全写为 information technology，对将电子处理程序及设备应用于存储和发送各类信息的研究和利用）
-[网络] 信息技术(Information Technology)；它；资讯科技"
-one,"num. 一；同一个
-n. 一个人；一体；独一；一岁
-pron. 人们；用来避免重复已提过的或是听者已知的事物的名称
-adj. 某(一个人)；一致的；同一的；不变的
-[网络] 壹；唯一；一人"
-two,"num. 二
-n. 一对；两人；两点钟；两岁
-[网络] 小白兔；两个；双"
-three,"num. 三
-n. 三岁；三个人[东西]；【板】3字型
-[网络] 三更；叁；荒岛惊魂"
-four,"num. 四
-n. 四个人（或事物）的一组；得四分的一击；四人赛艇的全体成员
-[网络] 肆；四大；四轮(Four-wheeled)"
-five,"num. 五
-n. 五岁；五点钟；(牌的)五点；【板】得五分
-[网络] 第五；五的"
-six,"num. 六
-n. 〈英〉六便士；六先令；六点的纸牌；(骰子的)六点
-[网络] 六个；鬼诅咒；六六个"
-seven,"num. 七个，七
-n. 七个，七
-adj. 七的；七个的
-n. (Seven)人名；(土库、阿塞)谢文；(土)塞文"
-eight,"n. 八人划船队；由八人划的船
-num. 八
-[网络] 捌；八个；第八"
-nine,"n. 九，九个
-num. 九；九个
-adj. 九的，九个的
-n. (Nine)人名；(塞)尼内"
-ten,"ten
-[ten]
-n.
-十，十个
-表示十的符号(如10，X)
-第十
-十个(人或物)一组
-以十计数的东西
-有十点的扑克牌
-10分钟；10点钟
-[口语] 10英镑纸币
-10美元纸币
-10号尺码(的衣服)
-[亦作 ten's place]【数学】十位
-【广播】(电台或电视台播出的)10秒钟广告
-[美国口语]大美人，最美的女子
-(以10表示最好或最高记录)顶级，最佳者，得分最高者，最优秀者，佼佼者
-[Ｔ-][口语](以10分为满分的评比中)得分最高者
-adj.
-十(个)的
-短语:
-nine times (或 cases) out of ten
-十之八九，几乎每次，常常
-take ten
-[美国口语]小憩；休息10分钟
-ten a penny
-[英国口语](就像1便士可买10个似的)不值钱
-tens of thousands
-好几万
-ten times
-十倍(于…)，(比…)得多
-ten to one
-[口语]十之八九，很可能
-十比一
-the upper ten
-贵族阶层，上流社会[亦作 the upper ten thousand]
-ten.
-abbr.
-tenor
-【音乐】tenuto"
-how,"how1
-[hau]
-adv.
-如何，怎样，怎么；用什么手段(或方法)
-(指数量、程度)几何，多少；多么
-价钱多少
-(指情况、状态)怎么样
-(指原因、目的)怎么；为什么
-什么(=what)
-以为如何，什么意思
-[用作加强语气词]多么，何等
-用什么称呼(或称号、名称)
-不管用什么方法(或方式)
-[用作不定式、名词短语的前置词]如此，多么
-[在间接引语或口语中作关系副词，相当于that]
-[作副词短语的前置词]尽可能
-conj.
-怎样，如何：
-I wondered how he came here.
-我想知道他是怎样来到这儿的。
-以…的方式(或状态、方法)：
-That is how it happened.
-事情就是这样发生的。
-I don't care how you spend your holidays.
-我不管你怎么度假。
-随便怎样：
-Do it how you can.
-你尽可能试着做做看。
-n.
-方式，方法
-关于方式(或方法)的问题
-短语:
-and how
-[美国俚语]…极了，那还用说，可不是[亦作And how!]
-any (old) how
-[口语]粗枝大叶地，胡乱地；无论如何；反正
-Here's how!
-敬你一杯!祝你健康!干杯!
-How about…?
-[口语]
-你看…怎么样?，你以为(或觉得)…怎么样了?，你看…好不好?
-那么为什么…?，…又是怎么回事呢?
-How about that!
-[口语]太好了!，太妙了!
-How are you?
-[口语]
-你好![招呼用语]
-你好吗?，你身体怎么样?
-How… can you get?
-这是最…不过了!
-How(或How's)come…?
-见come
-How do (you do)?(或Howd'ye do?)
-你好!
-How do you like them apples!
-[美国俚语]你们看棒不棒![炫耀用语]
-How goes it?
-见go
-How is that for…?
-多么…!难道不…吗?
-How much?
-见much
-How now?
-那是怎么回事?这是什么意思?
-How's about…?
-(你觉得)…怎么样?
-How so?
-怎么会这样?为什么?怎么搞的?
-How's that?
-[口语]
-怎么会那样呢?为什么?
-你说什么?再说一遍好吗?
-…怎么样?
-【板球】(询问裁判员)算不算出局?
-How's tricks?
-[美国俚语]你好吗?你的情况怎么样?
-How then?
-这是怎么回事?这是什么意思?
-后来怎样?还有什么?
-How they hanging?
-[美国俚语、粗俗语](男子间的问候语)你好吗?
-the how and the why
-(做某事的)方法及理由
-how2
-[hau]
-interj.
-[美国英语][印第安人的问候语]好哇!
-how3
-[hau]
-n.
-[美国方言]小丘[主要用于地名]
-how.
-abbr.
-howitzer"
-many,"adj. 多
-adv. 大量
-n. 多数人[东西]；大多数人；【女名】女子名
-pron. 许多人[物]"
-are,"v. 是（be的第二人称单复数现在式）
-n. 公亩
-n. (Are)人名；(意、西、芬)阿雷"
-there,suf. 表示“那(里)”，“那(时)”
-black,"adj. 黑色的；黑人的；邪恶的
-n. 黑色；黑人；黑颜料
-vt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿
-vi. 变黑
-n. (Black)人名；(英、西)布莱克；(德、葡、捷)布拉克"
+"
+what,"pron. 什么
+interj. 怎么, 多么
+a. 什么的
+adv. 到什么程度"
+it,"pron. 它
+"
+one,"n. 一(个)
+pron. 一, 任何人
+num. 一, 一个
+a. 一致的, 完整的"
+two,"num. 二, 二个"
+three,"num. 三, 三个"
+four,"num. 四, 四个
+"
+five,"num. 五, 五个"
+six,"num. 六, 六个"
+seven,"num. 七, 七个"
+eight,"num. 八, 八个"
+nine,"num. 九, 九个"
+ten,"num. 十, 十个"
+how,"adv. 如何, 怎样, 多少, 多么
+n. 方式"
+many,"n. 多数, 多数人
+a. 许多的
+pron. 许多"
+are,be的现在时复数或第二人称单数
+there,adv. 在那里
+black,"n. 黑色, 黑颜料
+a. 黑色的"
 yellow,"n. 黄色
 a. 黄色的"
-blue,"adj. 蓝色的；忧郁的，沮丧的；下流的
-n. 蓝色
-vi. 变蓝
-vt. 使成蓝色
-n. (Blue)人名；(英、西、意)布卢"
-red,"Red
-= Red River
-red1
-[red]
-adj.
-红色的；鲜红的
-红头发的；红褐色毛发的
-红肤色的
-(因生气或害羞而)脸红的；红润的
-(眼睛等)充血的；发炎的
-[常作R-]激进的；革命的；共产党的；苏维埃的
-沾满鲜血的
-烧红的；赤热的
-流血的；暴力的
-表示亏欠的，赤字的
-用紫葡萄制成的(酒)
-[美国英语]红种人的；北美印第安人的
-n.
-红色
-红颜料；红色染料
-红色的物品(如红衣服，红棋子，红台球，红色交通信号灯等)
-[常为R-，西方新闻界用语]激进分子；赤色分子(尤指共产党)
-[美国英语][常为R-][复数]北美印第安人
-【经济学】赤字；亏空
-[口语]红葡萄酒
-【英国历史】(17世纪英国舰队的)红舰队
-[俚语](巴比妥酸盐)红胶囊，“红魔鬼”[亦作red devil]
-vt.,vi.
-= redden
-短语:
-(as) red as a rose (或berry)
-脸色红润的
-(as) red as a turkey-cock (或beetroot)
-(由于发怒或害羞而)满面通红的
-be (或get) out of the red
-不再亏损；赢利
-dago red
-[美国俚语]劣等红酒
-go into (the) red
-[美国英语](资产负债表、资金平衡表、预算等)出现赤字；出现亏损
-go red
-[美国俚语]“赤化”；变成“激进派”
-in the red
-[美国英语]负债；亏空；亏损；有赤字
-into the red
-[英国英语]负债；财政情况欠佳
-paint it red
-[美国俚语]把某事弄得引人注目；把某事物描绘成骇人听闻的样子
-paint the town red
-见town
-red, white, and blue
-红白蓝三色米字旗，英国国旗
-see red
-[口语]
-发怒，狂怒；气得发疯
-嗜血(成性)，残暴
-患红视病
-变形：
-adj.
-redder
-. reddest
-vt.,vi.
-redded
-. redding
-red2
-[red]
-vt.,vi.
-1的异体
-变形：
-vt.,vi.
-red 或 redded
-. redding redd
-red.
-abbr.
-reduce
-reduced
-reduction"
-green,"n. 绿色；草坪；绿色蔬菜；草绿色
-v. 绿化；使增强环境保护意识；使善待环境
-adj. 绿色的；草绿色的；长满青草的；绿油油的
-[网络] 格林贝尔；绿点绿色新；是绿色的"
+blue,"n. 蓝色
+a. 蓝色的, 下流的, 忧郁的
+vt. 染成蓝色
+vi. 变蓝"
+red,"a. 红的, 红色的, 红肿的, 流血的
+n. 红色, 红颜料, 赤字
+"
+green,"n. 绿色, 绿色颜料
+a. 绿色的, 未成熟的, 新鲜的, 青春的, 无经验的, 脸色发青的"
 colour,"n. 颜色, 面色, 颜料, 外貌
 vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲
 vi. 变色"
 apple,"n. 苹果, 家伙
-[医] 苹果"
+"
 pear,"n. 梨子, 梨树, 梨木
-[机] 梨木"
+"
 banana,n. 香蕉
-orange,"adj. 橙色的；橘色的
-n. 橙；橙色；桔子
-n. (Orange)人名；(英)奥林奇；(法)奥朗热"
-do,abbr. delivery order 提货单; digital output 数字输出; disbursing office 付款处; deferred ordinary (shares) 延期付息普通股票
-you,"you
-[ju:; 弱ju; jə]
-pron.
-[所有格] your,yours,[宾语]you, [复数] you
-你，你们
-泛指：一个人，任何人[在词义方面相当于不定代词one]
-[用作反身代词]你自己，你们自己
-[用作同位关系的名词或名词性词组前，作称呼]你这个，你们这些
-[用于动名词前，代替 your]你，你们
-n.
-[口语]你这个人，你这样的人
-短语:
-After you!
-请先!(请对方先吃或先走的客套话)
-as you were
-见as¹
-between you and me (and bedpost)
-[口语]咱们私下说；不为外人道；关起门来说
-That's … for you!
-[口语]这就是…的问题所在；这就是…的特点[常作贬义]
-There's … for you!
-[口语]你瞧多么…![多作反语，用于引起注意，表示讽刺]
-to you
-你应当叫，你不妨说，照通常说法
-you ain't seen nothing yet
-[俚语]这只是开始，好戏还在后头
-You and the other nine.
-你一个人还不行，再来一伙人还差不多[对夸口和威胁所表示的嘲笑]。
-You and whose army.
-你一个人还不行[亦作 you and who?else， 对夸口和威胁所表示的嘲笑]。
-you and your
-你这个…又来了
-you and yours
-你与你的家属(或财产)
-You ask for it.
-你自作自受。
-You cackle often, but never lay an egg.
-[谚语]但听咯咯叫，不见一蛋生；只闻楼梯响，不见人下来。
-You can call a man no worse than unthankful.
-[谚语]骂人最厉害莫过于骂他忘恩负义。
-You can have no more of a cat than the skin.
-猫身上除了一张皮以外别无可取。
-you can keep …
-我讨厌…；我对…没有一点好感
-You can never tell.
-[亦作 You never can tell.]很难预料。
-you can (may) rest assured
-请放心
-You can say it again.
-[口语]我完全同意；你说的对。
-You can't lose what never had.
-[谚语]不曾有过，何谈丢失?
-You can't see the city for the house.
-[谚语]囿于房屋，不见城镇。
-You can't win them all.
-[口语]胜败乃兵家常事。
-You could have fooled me.
-[口语]我不相信你。(或：我认为我自己的理解是对的。)
-You don't know when you're well-off.
-[亦作 You don't know you are alive.]你的境况比你估计的要幸运得多；你身在福中不知福。
-You do that.
-请便；请吧。
-你敢![用于劝阻或阻止某人干某事]
-you get
-有
-You have me there.
-[亦作 You've got me there.]你抓住我的弱点了；你把我难住了。
-You'll be lucky.
-祝你走运；祝你成功。[用于说话人不相信某事真会发生]
-You'll know it.
-你会吃苦的；会够你受的。
-You may (could) go farther and fare worse.
-[谚语]走得更远情形可能更坏；知足常乐。
-You may well say so.
-你完全有理由这样说；你不妨那么说。
-You must ask your neighbour if you shall live in peace.
-[谚语]要想生活的安宁，就得求助于近邻。
-You must go to the country to hear what news at London.
-[谚语]要听城里事，须问乡下人。
-You must lose a fly to catch a trout.
-[谚语]舍不得小鱼饵，钓不到大鱼。
-You must take the fat with the lean.
-[谚语]不得挑肥拣瘦。
-you name it
-随你讲什么都行，任凭你说
-You never know what you can do till you try.
-[谚语]必须先尝试，方知何可为。
-You pays your money and takes your choice.
-[谚语]碰运气；各取所需。
-you people
-你们这些人(表示敌对、疏远的口吻)[１９９５]
-You rang, sir.
-您要点什么；有什么事为您效劳吗?[侍者应铃声前去服务时的用语]
-You're a long time dead.
-[谚语]人生几何，当及时行乐；人生易逝，好自为之。
-You're another.
-你自己也一样。[用于还嘴]
-You're on it.
-事情就这么定了；就这么办了。
-You said it.
-[口语]你说的对；我完全同意。
-You should be so lucky.
-[口语]你想得太美了。[用作幽默答语]
-You should worry.
-[幽默语]你当然用不着担心(或发愁)。
-You shouldn't have.
-谢谢你的好意。[用于接受礼物时]
-You tell'em.
-你说的非常对；你说的完全正确。
-You tell me.
-我一点也不知道；我也不大清楚。
-You there!
-喂；听着![用于引起人的注意]
-You've not (或 never) lived.
-你还没有真正充分懂得(或理解)人生；你还没有真正经历(或体验)过(某种)生活。
-You what.
-[俚语]
-请再说一遍，我没听清楚。
-你说什么? [表示惊讶、怀疑、气愤等]
-You won't catch me …
-我决不…；我永远不…
-变形：
-n.
-yous"
+orange,"n. 柑橘, 桔子, 橘色
+a. 橘色的"
+do,"v. 做, 进行, 完成"
+you,"pron. 你, 你们"
 like,"a. 相似的, 同样的
 vt. 喜欢, 愿意, 想
 vi. 喜欢, 希望
 n. 爱好, 同样的人(或物)
 prep. 象, 如同
 adv. 可能"
-yes,"int. 答话时表示正确或真实；表示同意所说的话；反驳否定的话
-adv. (回答问话、招呼等)是；(怀疑或促人往下讲)真的吗
-n. 表示同意的答复；表示同意的人
-[网络] 是的；有；不错"
-no,"adv. 没有；无；并不；禁止
-int. 没有；不是；不要；（用于否定的回答或陈述）不
-adj. 禁止；(一个也)没有；一点儿也没有；什么也[谁也]没有
-n. 否定的回答；作否定回答的人；（统称）投反对票者
-abbr. 【化】同“nobelium”(=number)
-[网络] 一氧化氮(Nitric Oxide)；不(nope)；没有(None)"
+yes,"adv. 是
+n. 是, 同意
+v. 同意"
+no,"n. 不, 拒绝, 否决票
+a. 没有, 不是, 绝非
+adv. 不"
