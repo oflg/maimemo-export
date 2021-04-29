@@ -11,19 +11,23 @@ class Generate(object):
         # 连接数据库
         self.maimemo = sqlite3.connect("maimemo.db")
         self.stardict = sqlite3.connect("stardict.db")
+        self.maimemo_cursor =self.maimemo.cursor()
         self.stardict_cursor = self.stardict.cursor()
 
     def exportAll(self, type):
-        with open("./dicts.txt", "r", encoding='utf-8') as f:
-            list = f.readlines()
-        for i, j in enumerate(list):
-            list[i] = list[i].strip('\n')
+        sql="""
+        SELECT name
+        FROM BK_TB
+        ORDER BY name
+        """
+        result = self.maimemo_cursor.execute(sql).fetchall()
+        list = []
+        for book in result:
+            list.append(book[0])
         self.export(list, type)
 
     # 导出词库
     def export(self, list, type):
-        maimemo = self.maimemo
-        cursor = maimemo.cursor()
         for num, book in enumerate(list):
             sql = """
             SELECT vc_vocabulary
@@ -35,11 +39,10 @@ class Generate(object):
                 SELECT original_id FROM BK_TB WHERE name = '%s' ) ) AS tmp ON VOC_TB.original_id = tmp.voc_id
             ORDER BY `order`
             """ % book
-            cursor.execute(sql)
-            result = cursor.fetchall()
+            result = self.maimemo_cursor.execute(sql).fetchall()
             self.generate(num, book, result, type)
-        cursor.close()
-        maimemo.close()
+        self.maimemo_cursor.close()
+        self.maimemo.close()
         self.stardict_cursor.close()
         self.stardict.close()
 
@@ -55,18 +58,14 @@ class Generate(object):
             FROM stardict
             WHERE word = '%s'
             """ % newword
-            cursor.execute(sql)
-            result = cursor.fetchall()
         else:
             sql = """
             SELECT translation
             FROM stardict
             WHERE sw = '%s'
             """ % newword
-            cursor.execute(sql)
-            result = cursor.fetchall()
+        result = cursor.execute(sql).fetchall()
         _result = []
-
         if result == []:
             return "无"
         else:
@@ -105,10 +104,10 @@ class Generate(object):
 
     # 创建文件
     def generate(self, num, book, result, _type):
+        print("【" + str(num + 1) + "】", end='')
         if (result == []):
-            print(str(num + 1) + " 未找到：" + book)
-            return
-        else: 
+            print("未找到：" + book)
+        else:
             if _type == "csv":
                 self.gen_csv(book, result)
             elif _type == "txt":
@@ -116,7 +115,7 @@ class Generate(object):
             else:
                 self.gen_csv(book, result)
                 self.gen_txt(book, result)
-            print(str(num + 1) + " 生成成功：" + book)
+            print("生成成功：" + book)
 
 if __name__ == "__main__":
     if os.path.exists("maimemo.db") == False | os.path.exists("stardict.db") == False:
