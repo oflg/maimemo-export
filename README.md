@@ -3,17 +3,20 @@
 仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以在仓库中选择需要的词库下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)），也可以去 [蓝奏云（密码:666）](https://busiyi.lanzous.com/b00ogbelc) 下载打包好的文件。
 - csv 格式用于导入 List 背单词，自带中文解释
 - txt 格式用于导入欧陆词典或不被单词，无中文解释
+- list 文件夹中的文件带有 List 分组，可以批量分组导入欧陆词典
 
 注：中文解释并非导出自墨墨背单词，而是使用 ECDICT 的数据，暂时无法做到与单词书上一致。
 ## Usage
 > 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
 ```shell
 > python main.py -h
-usage: main.py [-h] [-t {csv,txt,both}] [-f] [-a | -l [LIST [LIST ...]]]
+usage: main.py [-h] [-t {csv,txt,list,all}] [-f] [-a | -l [LIST [LIST ...]]]
+
 导出墨墨背单词词库，并生成适用于 List 背单词，不背单词，欧陆词典等的自定义词库
+
 optional arguments:
   -h, --help            show this help message and exit
-  -t {csv,txt,both}, --type {csv,txt,both}
+  -t {csv,txt,list,all}, --type {csv,txt,list,all}
                         导出的文件类型
   -f, --force           覆盖已生成的文件
   -a, --all             导出墨墨背单词所有词库

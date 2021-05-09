@@ -30,7 +30,7 @@ class Generate(object):
     def export(self, list, type):
         for num, book in enumerate(list):
             sql = """
-            SELECT vc_vocabulary
+            SELECT vc_vocabulary,title
             FROM VOC_TB
             INNER JOIN (
             SELECT title,voc_id,chapter_id,`order`
@@ -102,6 +102,20 @@ class Generate(object):
                 for word in result:
                     txtfile.write(word[0] + "\n")
 
+    def gen_list(self, book, result):
+        if not os.path.exists(self.path + "/list/"):
+            os.makedirs(self.path + "/list/")
+        if not os.path.exists(self.path + "/list/" + book + ".txt") or self.force:
+            with codecs.open(self.path + "/list/" + book + ".txt", "w",
+                             "utf_8_sig") as txtfile:
+                list = ''
+                for word in result:
+                    tmp = word[1]
+                    if list != tmp:
+                        list = tmp
+                        txtfile.write("#" + list + "\n")
+                    txtfile.write(word[0] + "\n")
+
     # 创建文件
     def generate(self, num, book, result, _type):
         print("【" + str(num + 1) + "】", end='')
@@ -112,9 +126,12 @@ class Generate(object):
                 self.gen_csv(book, result)
             elif _type == "txt":
                 self.gen_txt(book, result)
+            elif _type == "list":
+                self.gen_list(book, result)
             else:
                 self.gen_csv(book, result)
                 self.gen_txt(book, result)
+                self.gen_list(book, result)
             print("生成成功：" + book)
 
 if __name__ == "__main__":
@@ -129,8 +146,8 @@ if __name__ == "__main__":
     parser.add_argument('-t',
                         '--type',
                         help='导出的文件类型',
-                        default='both',
-                        choices=['csv', 'txt', 'both'])
+                        default='all',
+                        choices=['csv', 'txt', 'list', 'all'])
     parser.add_argument('-f',
                         '--force',
                         help='覆盖已生成的文件', 
