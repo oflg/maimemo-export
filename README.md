@@ -1,6 +1,6 @@
 # maimemo-export
 用于导出墨墨背单词的词库，并生成适用于 List 背单词，欧陆词典，不背单词等的自定义词库。
-仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以在仓库中选择需要的词库下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)），也可以去 [蓝奏云（密码:666）](https://busiyi.lanzous.com/b00ogbelc) 下载打包好的文件。
+仓库内已经导出墨墨背单词所有自带词库（暂不包括云词库），多达 900 种词库，可以在仓库中选择需要的词库下载（[下载单个文件的方法](https://blog.csdn.net/u010801439/article/details/81478592)），也可以去 [蓝奏云（密码:666）](https://busiyi.lanzoux.com/b00ogbelc) 下载打包好的文件。
 - csv 格式用于导入 List 背单词，自带中文解释
 - txt 格式用于导入欧陆词典或不被单词，无中文解释
 - list 文件夹中的文件带有 List 分组，可以批量分组导入欧陆词典
@@ -28,11 +28,12 @@ optional arguments:
 2. 词典来自于 [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)
 3. 词库来自于 [墨墨背单词](https://www.maimemo.com/)
 
+## License
+MIT © ourongxing
+
 ## Buy something to eat for the kitten
 如果我所做的事对你有所帮助，欢迎给小猫买点吃的。
 
 也可以去 [这篇回答](https://www.zhihu.com/question/392654371/answer/1808941219) 下点点赞。
 
 ![](https://orxing-top.oss-cn-chengdu.aliyuncs.com/img/download%20%281%29.gif?x-oss-process=style/base_webp)
-## License
-MIT © ourongxing
