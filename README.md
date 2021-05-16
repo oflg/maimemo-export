@@ -7,7 +7,9 @@
 
 注：中文解释并非导出自墨墨背单词，而是使用 ECDICT 的数据，暂时无法做到与单词书上一致。
 ## Usage
-> 由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
+由于 maimemo.db 和 stardict.db 太大，无法放入仓库中，你可以在 [release](https://github.com/ourongxing/maimemo-export/releases/tag/v1.0.0) 中下载并放入文件夹内，这是非常重要的两个数据库文件。
+
+如果有最新的词库但数据库里没有的，你可以使用你手机中的数据库文件 `/data/data/com.maimemo.android.momo/databases/maimemo.v3_8_71.db`，**需要 Root 权限**。
 ```shell
 > python main.py -h
 usage: main.py [-h] [-t {csv,txt,list,all}] [-f] [-a | -l [LIST [LIST ...]]]
