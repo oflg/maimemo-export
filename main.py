@@ -9,7 +9,8 @@ class Generate(object):
         self.path = path
         self.force = force
         # 连接数据库
-        self.maimemo = sqlite3.connect("maimemo.db")
+        self.maimemo = sqlite3.connect("maimemo.v3_8_73.db")
+        #  self.maimemo = sqlite3.connect("maimemo.db")
         self.stardict = sqlite3.connect("stardict.db")
         self.maimemo_cursor =self.maimemo.cursor()
         self.stardict_cursor = self.stardict.cursor()
