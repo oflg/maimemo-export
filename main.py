@@ -9,9 +9,8 @@ class Generate(object):
         self.path = path
         self.force = force
         # 连接数据库
-        self.maimemo = sqlite3.connect("maimemo.v3_8_73.db")
-        #  self.maimemo = sqlite3.connect("maimemo.db")
-        self.stardict = sqlite3.connect("stardict.db")
+        self.maimemo = sqlite3.connect("./maimemo_过期词库.db")
+        self.stardict = sqlite3.connect("./ultimate.db")
         self.maimemo_cursor =self.maimemo.cursor()
         self.stardict_cursor = self.stardict.cursor()
 
@@ -52,35 +51,100 @@ class Generate(object):
         cursor = self.stardict_cursor
         # 去除单词中非字母的字符
         newword = word.replace("sth.", "").replace("sb.", "")
-        newword = (''.join([n for n in newword if n.isalnum()])).lower()
+        newword = ''.join([n for n in newword if n.isalnum()])
         if word == newword:
             sql = """
-            SELECT translation
+            SELECT translation, word
             FROM stardict
             WHERE word = '%s'
-            """ % newword
+            """ % word
         else:
             sql = """
-            SELECT translation
+            SELECT translation, word
             FROM stardict
             WHERE sw = '%s'
             """ % newword
-        result = cursor.execute(sql).fetchall()
+
+        cursor.execute(sql)
+        result = cursor.fetchall()
         _result = []
-        if result == []:
-            return "无"
-        else:
+        exp = ""
+        if result:
             # 去除空值
             for item in result:
-                if item != (None, ):
+                if item[0]:
                     _result.append(item)
-
-        if _result == []:
-            return "无"
-        elif "\n" in _result[0][0] and "[" in _result[0][0]:
-            return _result[0][0].split("[", 1)[0]
+            if not _result:
+                return "无"
         else:
-            return _result[0][0]
+            return "无"
+
+        for items in _result:
+            if items[1] == word:
+                exp = items[0]
+                break
+            else:
+                exp = _result[0][0]
+
+        if "\n" in exp:
+            lines = exp.splitlines(True)
+            for line in lines:
+                if "[网络]" in line or "人名" in line:
+                    lines.remove(line)
+            exp = "".join(lines)
+        return exp.replace('[网络]','')
+
+    # 获取英文含义
+    def get_exp_en(self, word):
+        cursor = self.stardict_cursor
+        # 去除单词中非字母的字符
+        newword = word.replace("sth.", "").replace("sb.", "")
+        newword = ''.join([n for n in newword if n.isalnum()])
+        if word == newword:
+            sql = """
+            SELECT definition, word
+            FROM stardict
+            WHERE word = '%s'
+            """ % word
+        else:
+            sql = """
+            SELECT definition, word
+            FROM stardict
+            WHERE sw = '%s'
+            """ % newword
+
+        cursor.execute(sql)
+        result = cursor.fetchall()
+        _result = []
+        exp = ""
+        if result:
+            # 去除空值
+            for item in result:
+                if item[0]:
+                    _result.append(item)
+            if not _result:
+                return "none"
+        else:
+            return "none"
+
+        for items in _result:
+            if items[1] == word:
+                exp = items[0]
+                break
+            else:
+                exp = _result[0][0]
+
+        return exp
+
+    def gen_csv_en(self, book, result):
+        if not os.path.exists(self.path + "/csv_en/"):
+            os.makedirs(self.path + "/csv_en/")
+        if not os.path.exists(self.path + "/csv_en/" + book + ".csv") or self.force:
+            with codecs.open(self.path + "/csv_en/" + book + ".csv", "w",
+                             "utf_8_sig") as csvfile:
+                writer = csv.writer(csvfile)
+                for word in result:
+                    writer.writerows([[word[0], self.get_exp_en(word[0])]])
 
     def gen_csv(self, book, result):
         if not os.path.exists(self.path + "/csv/"):
@@ -125,12 +189,15 @@ class Generate(object):
         else:
             if _type == "csv":
                 self.gen_csv(book, result)
+            if _type == "csv_en":
+                self.gen_csv_en(book, result)
             elif _type == "txt":
                 self.gen_txt(book, result)
             elif _type == "list":
                 self.gen_list(book, result)
             else:
                 self.gen_csv(book, result)
+                self.gen_csv_en(book, result)
                 self.gen_txt(book, result)
                 self.gen_list(book, result)
             print("生成成功：" + book)
@@ -138,7 +205,7 @@ class Generate(object):
 if __name__ == "__main__":
     if os.path.exists("maimemo.db") == False | os.path.exists("stardict.db") == False:
         print(
-            "数据库不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹"
+            "数据库不存在，请下载 release 中的 maimemo_db&stardict_db.zip 文件，解压后分别放入当前文件夹，注意查看文件名"
         )
 
     #获取命令行传入的参数
@@ -148,7 +215,7 @@ if __name__ == "__main__":
                         '--type',
                         help='导出的文件类型',
                         default='all',
-                        choices=['csv', 'txt', 'list', 'all'])
+                        choices=['csv', 'csv_en','txt', 'list','all'])
     parser.add_argument('-f',
                         '--force',
                         help='覆盖已生成的文件', 

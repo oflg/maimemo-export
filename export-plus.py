@@ -1,6 +1,6 @@
 import argparse
 import codecs
-import csv
+import csv 
 import os
 import sqlite3
 
@@ -25,8 +25,8 @@ class Generate(object):
                 os._exit(0)
 
         # 连接数据库
-        self.maimemo = sqlite3.connect("maimemo.v3_8_73.db")
-        self.stardict = sqlite3.connect("stardict.db")
+        self.maimemo = sqlite3.connect("./maimemo_过期词库.db")
+        self.stardict = sqlite3.connect("./ultimate.db")
         self.maimemo_cursor =self.maimemo.cursor()
         self.stardict_cursor = self.stardict.cursor()
 
@@ -99,10 +99,9 @@ class Generate(object):
             FROM BK_VOC_TB V
             INNER JOIN BK_CHAPTER_TB C ON V.chapter_id= C.id AND V.book_id IN (
                 SELECT original_id FROM BK_TB WHERE name = '%s' ) ) AS tmp ON VOC_TB.original_id = tmp.voc_id
-            ORDER BY vc_frequency DESC
+            ORDER BY `order`
             """ % book
             #  ORDER BY vc_frequency DESC
-            #  ORDER BY `order`
             result = self.maimemo_cursor.execute(sql).fetchall()
             self.generate(num, book, result, type)
         self.maimemo_cursor.close()
@@ -115,16 +114,16 @@ class Generate(object):
         cursor = self.stardict_cursor
         # 去除单词中非字母的字符
         newword = word.replace("sth.", "").replace("sb.", "")
-        newword = (''.join([n for n in newword if n.isalnum()])).lower()
+        newword = ''.join([n for n in newword if n.isalnum()])
         if word == newword:
             sql = """
-            SELECT translation
+            SELECT translation, word
             FROM stardict
             WHERE word = '%s'
-            """ % newword
+            """ % word
         else:
             sql = """
-            SELECT translation
+            SELECT translation, word
             FROM stardict
             WHERE sw = '%s'
             """ % newword
@@ -132,19 +131,86 @@ class Generate(object):
         cursor.execute(sql)
         result = cursor.fetchall()
         _result = []
-        if result == []:
-            return "无"
-        else:
+        exp = ""
+        if result:
             # 去除空值
             for item in result:
-                if item != (None, ):
+                if item[0]:
                     _result.append(item)
-        if _result == []:
-            return "无"
-        elif "\n" in _result[0][0] and "[" in _result[0][0]:
-            return _result[0][0].split("[", 1)[0]
+            if not _result:
+                return "无"
         else:
-            return _result[0][0]
+            return "无"
+
+        for items in _result:
+            if items[1] == word:
+                exp = items[0]
+                break
+            else:
+                exp = _result[0][0]
+
+        if "\n" in exp:
+            lines = exp.splitlines(True)
+            for line in lines:
+                if "[网络]" in line or "人名" in line:
+                    lines.remove(line)
+            exp = "".join(lines)
+        return exp.replace('[网络]','')
+
+    # 获取英文含义
+    def get_exp_en(self, word):
+        cursor = self.stardict_cursor
+        # 去除单词中非字母的字符
+        newword = word.replace("sth.", "").replace("sb.", "")
+        newword = ''.join([n for n in newword if n.isalnum()])
+        if word == newword:
+            sql = """
+            SELECT definition, word
+            FROM stardict
+            WHERE word = '%s'
+            """ % word
+        else:
+            sql = """
+            SELECT definition, word
+            FROM stardict
+            WHERE sw = '%s'
+            """ % newword
+
+        cursor.execute(sql)
+        result = cursor.fetchall()
+        _result = []
+        exp = ""
+        if result:
+            # 去除空值
+            for item in result:
+                if item[0]:
+                    _result.append(item)
+            if not _result:
+                return "none"
+        else:
+            return "none"
+
+        for items in _result:
+            if items[1] == word:
+                exp = items[0]
+                break
+            else:
+                exp = _result[0][0]
+
+        return exp
+
+    def gen_csv_en(self, book, result):
+        if not os.path.exists(self.path + "/csv_en/"):
+            os.makedirs(self.path + "/csv_en/")
+        if not os.path.exists(self.path + "/csv_en/" + book + ".csv") or self.force:
+            with codecs.open(self.path + "/csv_en/" + book + ".csv", "w",
+                             "utf_8_sig") as csvfile:
+                writer = csv.writer(csvfile)
+                for word in result:
+                    if self.notrem and word[0] in self.rem:
+                        continue
+                    else:
+                        writer.writerows([[word[0], self.get_exp_en(word[0])]])
 
     def gen_csv(self, book, result):
         if not os.path.exists(self.path + "/csv/"):
@@ -159,7 +225,7 @@ class Generate(object):
                     else:
                         writer.writerows([[word[0], self.get_exp(word[0])]])
 
-    def gen_list(self, book, result):
+    def gen_list(self, book, result): 
         if not os.path.exists(self.path + "/list/"):
             os.makedirs(self.path + "/list/")
         if not os.path.exists(self.path + "/list/" + book + ".txt") or self.force:
@@ -199,6 +265,8 @@ class Generate(object):
         else:
             if _type == "csv":
                 self.gen_csv(book, result)
+            if _type == "csv_en":
+                self.gen_csv_en(book, result)
             elif _type == "txt":
                 self.gen_txt(book, result)
             elif _type == "list":
@@ -209,6 +277,8 @@ class Generate(object):
                     return
             else:
                 self.gen_csv(book, result)
+                self.gen_csv_en(book, result)
+                self.gen_list(book, result)
                 self.gen_txt(book, result)
             print("生成成功：" + book)
 
@@ -224,10 +294,11 @@ if __name__ == "__main__":
     g = Generate(path, force, notrem)
 
     #  导出全部词库，参数 list，txt，csv，all
-    #  g.exportAll('list')
+    #  g.exportAll('csv')
 
     #  导出指定词库
-    #  g.export(['2021考研英语7000词 主词'], 'csv')
+    #  g.export(['2022恋词考研英语真题5500词'], 'csv_en')
+    #  print(g.get_exp_en("state"))
 
     #  导出云词库
     #  g.export_notepad(['全新版大学进阶英语2'], 'csv')
