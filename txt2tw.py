@@ -18,11 +18,12 @@ for fileName in fileNames:
             "$:/plugins/oflg/fishing-cannedfish/"+name+"/readme": {
                 "title": "$:/plugins/oflg/fishing-cannedfish/"+name+"/readme",
                 "text": "Installation and usage tutorial is available at [[Fishing Manual|https://oflg.github.io/fishing/]].\n\n可在 [[钓鱼手册|https://oflg.github.io/fishing/]] 查看安装使用教程。"
-            }, "$:/plugins/oflg/fishing/fishingrod/[all[shadows+tiddlers]tag[?]prefix["+name+"/]]": {
-                "title": "$:/plugins/oflg/fishing/fishingrod/[all[shadows+tiddlers]tag[?]prefix["+name+"/]]",
+            }, "$:/plugins/oflg/fishing/fishingrod/[[$:/plugins/oflg/fishing-cannedfish/"+name+"]plugintiddlers[]tag[?]]": {
+                "title": "$:/plugins/oflg/fishing/fishingrod/[[$:/plugins/oflg/fishing-cannedfish/"+name+"]plugintiddlers[]tag[?]]",
+                "type": "application/json",
                 "caption": name
-            }, "$:/plugins/oflg/fishing-cannedfish/"+name+"/SearchWord": {
-                "title": "$:/plugins/oflg/fishing-cannedfish/"+name+"/SearchWord",
+            }, "$:/plugins/oflg/fishing-cannedfish/"+name+"/Question": {
+                "title": "$:/plugins/oflg/fishing-cannedfish/"+name+"/Question",
                 "tags": "$:/tags/QuestionTemplate",
                 "word": "fishing",
                 "text": """
@@ -72,7 +73,7 @@ for fileName in fileNames:
                 word = line.replace('\n', '')
                 title = name+'/' + twNow
                 caption = "{{||$:/plugins/oflg/fishing-cannedfish/" + \
-                    name+"/SearchWord}}"
+                    name+"/Question}}"
 
                 tiddlers[title] = {
                     "title": title,
@@ -97,7 +98,7 @@ for fileName in fileNames:
             "plugin-type": "plugin",
             "source": "https://github.com/oflg/fishing-cannedfish",
             "title": "$:/plugins/oflg/fishing-cannedfish/"+name,
-            "version": "0.0.3",
+            "version": "0.0.4",
             "type": "application/json",
             "text": text
         }]
