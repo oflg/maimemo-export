@@ -24,40 +24,42 @@ for fileName in fileNames:
             }, "$:/plugins/oflg/fishing-cannedfish/"+name+"/SearchWord": {
                 "title": "$:/plugins/oflg/fishing-cannedfish/"+name+"/SearchWord",
                 "tags": "$:/tags/QuestionTemplate",
-                "word": "Canned fish",
-                "text": """<$reveal
-            state=<<folded-state>>
-            type="match"
-            text="hide"
-            animate="yes"
-        >
-            {{!!word}}
-        </$reveal>
+                "word": "fishing",
+                "text": """
+<$reveal
+    state=<<folded-state>>
+    type="match"
+    text="hide"
+    animate="yes"
+>
+    {{!!word}}
+</$reveal>
 
+<$reveal
+    state=<<folded-state>>
+    type="nomatch"
+    text="hide"
+    animate="yes"
+>
     <span
         class="tc-fish-title"
     >
-        <$reveal
-            state=<<folded-state>>
-            type="nomatch"
-            text="hide"
-            animate="yes"
-        >
-            <main style="width:100%;overflow:hidden;"> 
-                <iframe id={{!!word}}
-                    title={{!!word}}
-                    height="700px"
-                    width="100%"
-                    src={{{[{!!word}encodeuricomponent[]addprefix[https://www.iciba.com/word?w=]]}}}
-                    frameborder=0
-                    seamless="seamless"
-                    style="margin:-130px 0 -60px 0;"
-                    marginheight="0"
-                    marginwidth="0"
-                />
-            </main>
-        </$reveal>
-    </span>"""
+        <main style="width:100%;overflow:hidden;"> 
+            <iframe id={{!!word}}
+                title={{!!word}}
+                height="700px"
+                width="100%"
+                src={{{[{!!word}encodeuricomponent[]addprefix[https://quark.sm.cn/api/rest?method=quark_fanyi.dlpage&format=html&schema=v2&entry=top#en/zh/]]}}}
+                frameborder=0
+                seamless="seamless"
+                style="margin:-200px 0 -110px 0;"
+                marginheight="0"
+                marginwidth="0"
+            />
+        </main>
+    </span>
+</$reveal>
+"""
             }
         }
 
@@ -95,14 +97,14 @@ for fileName in fileNames:
             "plugin-type": "plugin",
             "source": "https://github.com/oflg/fishing-cannedfish",
             "title": "$:/plugins/oflg/fishing-cannedfish/"+name,
-            "version": "0.0.1",
+            "version": "0.0.3",
             "type": "application/json",
             "text": text
         }]
 
         dataJson = json.dumps(twPlugin, ensure_ascii=False)
 
-        with open('./fishing/'+name+'.json', 'w', encoding='UTF-8') as f:
+        with open('/home/oflg/Code/FishingManual/plugins/oflg/fishing-cannedfish/'+name+'.json', 'w', encoding='UTF-8') as f:
             data = 'some data to be written to the file'
             f.write(dataJson)
             print(name)
