@@ -46,8 +46,7 @@ for fileName in fileNames:
         class="tc-fish-title"
     >
         <main style="width:100%;overflow:hidden;"> 
-            <iframe id={{!!word}}
-                title={{!!word}}
+            <iframe
                 height="700px"
                 width="100%"
                 src={{{[{!!word}encodeuricomponent[]addprefix[https://quark.sm.cn/api/rest?method=quark_fanyi.dlpage&format=html&schema=v2&entry=top#en/zh/]]}}}
@@ -98,7 +97,7 @@ for fileName in fileNames:
             "plugin-type": "plugin",
             "source": "https://github.com/oflg/fishing-cannedfish",
             "title": "$:/plugins/oflg/fishing-cannedfish/"+name,
-            "version": "0.0.4",
+            "version": "0.0.5",
             "type": "application/json",
             "text": text
         }]
