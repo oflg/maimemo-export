@@ -47,14 +47,10 @@ for fileName in fileNames:
     >
         <main style="width:100%;overflow:hidden;"> 
             <iframe
-                height="700px"
+                height="400px"
                 width="100%"
-                src={{{[{!!word}encodeuricomponent[]addprefix[https://quark.sm.cn/api/rest?method=quark_fanyi.dlpage&format=html&schema=v2&entry=top#en/zh/]]}}}
+                src={{{[{!!word}encodeuricomponent[]addprefix[https://dict.youdao.com/recite/words/#!/dict/engchn?le=eng&q=]]}}}
                 frameborder=0
-                seamless="seamless"
-                style="margin:-200px 0 -110px 0;"
-                marginheight="0"
-                marginwidth="0"
             />
         </main>
     </span>
@@ -97,7 +93,7 @@ for fileName in fileNames:
             "plugin-type": "plugin",
             "source": "https://github.com/oflg/fishing-cannedfish",
             "title": "$:/plugins/oflg/fishing-cannedfish/"+name,
-            "version": "0.0.5",
+            "version": "0.0.6",
             "type": "application/json",
             "text": text
         }]
