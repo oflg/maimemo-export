@@ -26,16 +26,7 @@ for fileName in fileNames:
                 "title": "$:/plugins/oflg/fishing-cannedfish/"+name+"/Question",
                 "tags": "$:/tags/QuestionTemplate",
                 "word": "fishing",
-                "text": """
-<$reveal
-    state=<<folded-state>>
-    type="match"
-    text="hide"
-    animate="yes"
->
-    {{!!word}}
-</$reveal>
-
+                "text": """{{!!word}}
 <$reveal
     state=<<folded-state>>
     type="nomatch"
@@ -54,8 +45,7 @@ for fileName in fileNames:
             />
         </main>
     </span>
-</$reveal>
-"""
+</$reveal>"""
             }
         }
 
@@ -66,7 +56,7 @@ for fileName in fileNames:
                 twNow = str(datetime.datetime.utcnow()).replace(
                     '-', '').replace(' ', '').replace(':', '').replace('.', '')
                 word = line.replace('\n', '')
-                title = name+'/' + twNow
+                title = '$:/'+name+'/' + word
                 caption = "{{||$:/plugins/oflg/fishing-cannedfish/" + \
                     name+"/Question}}"
 
@@ -93,7 +83,7 @@ for fileName in fileNames:
             "plugin-type": "plugin",
             "source": "https://github.com/oflg/fishing-cannedfish",
             "title": "$:/plugins/oflg/fishing-cannedfish/"+name,
-            "version": "0.0.6",
+            "version": "0.0.7",
             "type": "application/json",
             "text": text
         }]
